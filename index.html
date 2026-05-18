@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ebola Outbreak Tracker — DRC &amp; Uganda · May 2026</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background: #0f1626;
+      color: #dde1e8;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /* ── Header ─────────────────────────────────────────────────────── */
+    header {
+      background: #16213e;
+      padding: 10px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 2px solid #c0392b;
+      flex-shrink: 0;
+      gap: 12px;
+    }
+    .header-title { display: flex; flex-direction: column; gap: 2px; }
+    .header-title h1 { font-size: 1rem; font-weight: 700; color: #fff; }
+    .header-title h1 em { color: #e74c3c; font-style: normal; }
+    .header-meta { font-size: 0.68rem; color: #6b7a96; }
+    .header-right { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+    .badge { font-size: 0.68rem; font-weight: 800; letter-spacing: 0.8px; padding: 4px 10px; border-radius: 4px; text-transform: uppercase; }
+    .badge-pheic { background: #c0392b; color: #fff; }
+    .badge-strain { background: #2a2a4a; color: #aaa; border: 1px solid #3a3a6a; }
+
+    /* ── Stats bar ───────────────────────────────────────────────────── */
+    .stats-bar { background: #12192e; display: flex; border-bottom: 1px solid #1e2a4a; flex-shrink: 0; }
+    .stat { flex: 1; padding: 8px 12px; text-align: center; border-right: 1px solid #1e2a4a; }
+    .stat:last-child { border-right: none; }
+    .stat-value { font-size: 1.5rem; font-weight: 800; line-height: 1; }
+    .stat-label { font-size: 0.6rem; color: #6b7a96; text-transform: uppercase; letter-spacing: 0.6px; margin-top: 3px; }
+    .s-deaths  .stat-value { color: #e74c3c; }
+    .s-cases   .stat-value { color: #e67e22; }
+    .s-active  .stat-value { color: #3498db; }
+    .s-country .stat-value { color: #2ecc71; }
+
+    /* ── Main layout ─────────────────────────────────────────────────── */
+    .main { display: flex; flex: 1; overflow: hidden; position: relative; }
+    #map { flex: 1; }
+
+    /* ── Loading overlay ────────────────────────────────────────────── */
+    #loadingOverlay {
+      position: absolute;
+      top: 0; left: 0; right: 310px; bottom: 0;
+      background: rgba(10, 16, 30, 0.82);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+      gap: 14px;
+      backdrop-filter: blur(2px);
+      transition: opacity 0.3s;
+    }
+    #loadingOverlay.hidden { opacity: 0; pointer-events: none; }
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid #1e2a4a;
+      border-top-color: #e74c3c;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .loading-text { font-size: 0.82rem; color: #8899bb; }
+    #loadingStep { font-size: 0.72rem; color: #4a5a76; margin-top: 2px; }
+
+    /* ── Layer toggle panel ─────────────────────────────────────────── */
+    .layer-panel {
+      position: absolute;
+      top: 12px;
+      right: 322px;
+      z-index: 500;
+      background: rgba(22, 33, 62, 0.94);
+      border: 1px solid #2a3a5a;
+      border-radius: 7px;
+      padding: 10px 12px;
+      font-size: 0.75rem;
+      color: #c8d4e8;
+      backdrop-filter: blur(4px);
+      min-width: 180px;
+    }
+    .layer-panel h4 {
+      font-size: 0.63rem;
+      color: #6b7a96;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      margin-bottom: 8px;
+    }
+    .layer-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 6px;
+    }
+    .layer-row:last-child { margin-bottom: 0; }
+    .layer-label { display: flex; align-items: center; gap: 6px; }
+    .layer-dot { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
+    .toggle-btn {
+      background: #1e2a4a;
+      border: 1px solid #2a3a5a;
+      color: #8899bb;
+      font-size: 0.65rem;
+      padding: 2px 8px;
+      border-radius: 3px;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+      white-space: nowrap;
+    }
+    .toggle-btn.active { background: #2a4a7a; border-color: #4a7aaa; color: #c8d4e8; }
+    .toggle-btn:hover { background: #263a5e; }
+    .toggle-btn:disabled { opacity: 0.5; cursor: wait; }
+    .toggle-btn.loading { color: #e67e22; border-color: #e67e22; }
+
+    /* ── Sidebar ─────────────────────────────────────────────────────── */
+    .sidebar {
+      width: 310px;
+      flex-shrink: 0;
+      background: #16213e;
+      border-left: 1px solid #1e2a4a;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .sidebar-head {
+      padding: 10px 14px;
+      font-size: 0.68rem;
+      font-weight: 700;
+      color: #6b7a96;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      border-bottom: 1px solid #1e2a4a;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .feed-count { background: #1e2a4a; color: #8899bb; font-size: 0.65rem; padding: 2px 7px; border-radius: 10px; }
+    .news-scroll { flex: 1; overflow-y: auto; }
+    .news-scroll::-webkit-scrollbar { width: 3px; }
+    .news-scroll::-webkit-scrollbar-track { background: transparent; }
+    .news-scroll::-webkit-scrollbar-thumb { background: #2a2a4a; border-radius: 2px; }
+    .news-item { padding: 10px 14px; border-bottom: 1px solid #1a2238; transition: background 0.12s; }
+    .news-item:hover { background: #1b2846; }
+    .news-item-tag {
+      display: inline-block; font-size: 0.6rem; font-weight: 700;
+      padding: 1px 6px; border-radius: 3px; margin-bottom: 5px;
+      text-transform: uppercase; letter-spacing: 0.4px;
+    }
+    .tag-pheic    { background: #7b241c; color: #f1948a; }
+    .tag-cases    { background: #7d6608; color: #f9e79f; }
+    .tag-response { background: #1a5276; color: #85c1e9; }
+    .tag-analysis { background: #1d6a39; color: #82e0aa; }
+    .news-item a { display: block; color: #c8d4e8; text-decoration: none; font-size: 0.79rem; line-height: 1.45; margin-bottom: 4px; }
+    .news-item a:hover { color: #5dade2; }
+    .news-date { font-size: 0.67rem; color: #4a5a76; }
+    .disclaimer { padding: 9px 14px; font-size: 0.66rem; color: #4a5a76; border-top: 1px solid #1e2a4a; line-height: 1.5; background: #0f1626; flex-shrink: 0; }
+    .disclaimer strong { color: #6b7a96; }
+
+    /* ── Leaflet popup overrides ────────────────────────────────────── */
+    .leaflet-popup-content-wrapper {
+      background: #16213e !important;
+      border: 1px solid #2a3a5a !important;
+      border-radius: 8px !important;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.5) !important;
+      color: #dde1e8 !important;
+    }
+    .leaflet-popup-tip { background: #16213e !important; }
+    .leaflet-popup-content { margin: 14px 16px !important; }
+    .leaflet-popup-close-button { color: #6b7a96 !important; font-size: 18px !important; top: 6px !important; right: 8px !important; }
+    .leaflet-popup-close-button:hover { color: #fff !important; }
+
+    .pu-name  { font-size: 0.95rem; font-weight: 700; color: #fff; margin-bottom: 2px; }
+    .pu-sub   { font-size: 0.72rem; color: #6b7a96; margin-bottom: 8px; }
+    .pu-badge { display: inline-block; font-size: 0.62rem; font-weight: 700; padding: 2px 8px; border-radius: 10px; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 0.4px; }
+    .pb-epicenter   { background: #922b21; color: #f1948a; }
+    .pb-spread      { background: #7d6608; color: #f9e79f; }
+    .pb-crossborder { background: #1a5276; color: #85c1e9; }
+    .pb-province    { background: #1d3461; color: #7aa8e0; }
+    .pb-territory   { background: #2d3a3a; color: #88b8a8; }
+    .pu-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; margin-bottom: 10px; }
+    .pu-stat  { background: #0f1626; border: 1px solid #1e2a4a; border-radius: 5px; padding: 7px 10px; text-align: center; }
+    .pu-stat.full { grid-column: 1 / -1; }
+    .pu-stat-v { font-size: 1.1rem; font-weight: 800; }
+    .pu-stat-l { font-size: 0.62rem; color: #6b7a96; margin-top: 2px; }
+    .pu-note   { font-size: 0.73rem; color: #8899bb; line-height: 1.5; border-top: 1px solid #1e2a4a; padding-top: 8px; }
+    .pu-caveat { font-size: 0.65rem; color: #4a5a76; margin-bottom: 6px; font-style: italic; }
+    .pu-adm-type { font-size: 0.65rem; color: #4a5a76; margin-bottom: 6px; }
+
+    /* ── Legend ──────────────────────────────────────────────────────── */
+    .map-legend {
+      background: rgba(22,33,62,0.94);
+      border: 1px solid #2a3a5a;
+      border-radius: 7px;
+      padding: 10px 14px;
+      font-size: 0.73rem;
+      color: #c8d4e8;
+      backdrop-filter: blur(4px);
+    }
+    .map-legend h4 { font-size: 0.63rem; color: #6b7a96; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 8px; }
+    .legend-row { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; }
+    .legend-row:last-child { margin-bottom: 0; }
+    .l-sq { width: 12px; height: 12px; border-radius: 2px; flex-shrink: 0; }
+    .l-div { border-top: 1px solid #2a3a5a; margin: 6px 0; }
+    .l-note { font-size: 0.62rem; color: #4a5a76; margin-top: 4px; }
+
+    .leaflet-control-attribution { background: rgba(15,22,38,0.8) !important; color: #4a5a76 !important; }
+    .leaflet-control-attribution a { color: #5a6a86 !important; }
+    .leaflet-tooltip { display: none !important; }
+  </style>
+</head>
+<body>
+
+<!-- ── Header ──────────────────────────────────────────────────────────────── -->
+<header>
+  <div class="header-title">
+    <h1>Ebola Outbreak Tracker — <em>DRC &amp; Uganda</em></h1>
+    <div class="header-meta">Source: WHO EIOS RSS Feed · Boundaries: geoBoundaries (OCHA COD) · Last updated: 18 May 2026 08:10 UTC</div>
+  </div>
+  <div class="header-right">
+    <span class="badge badge-strain">Bundibugyo Ebolavirus</span>
+    <span class="badge badge-pheic">&#9888; WHO PHEIC Declared</span>
+  </div>
+</header>
+
+<!-- ── Stats bar ───────────────────────────────────────────────────────────── -->
+<div class="stats-bar">
+  <div class="stat s-deaths">
+    <div class="stat-value" id="val-deaths">—</div>
+    <div class="stat-label">Deaths Reported</div>
+  </div>
+  <div class="stat s-cases">
+    <div class="stat-value" id="val-cases">—</div>
+    <div class="stat-label">Suspected Cases</div>
+  </div>
+  <div class="stat s-active">
+    <div class="stat-value" id="val-severity">—</div>
+    <div class="stat-label">WHO Alert</div>
+  </div>
+  <div class="stat s-country">
+    <div class="stat-value" id="val-countries">—</div>
+    <div class="stat-label" id="lbl-countries">Countries Affected</div>
+  </div>
+  <div class="stat" style="flex:1.4;">
+    <div id="go-status" style="font-size:0.65rem;color:#4a5a76;line-height:1.6;">
+      Loading…
+    </div>
+  </div>
+</div>
+
+<!-- ── Main ────────────────────────────────────────────────────────────────── -->
+<div class="main">
+
+  <!-- Loading overlay -->
+  <div id="loadingOverlay">
+    <div class="spinner"></div>
+    <div class="loading-text">Loading province boundaries…</div>
+    <div id="loadingStep">Fetching DRC Admin 1 (26 provinces)</div>
+  </div>
+
+  <!-- Layer toggle panel -->
+  <div class="layer-panel">
+    <h4>Admin Layers</h4>
+    <div class="layer-row">
+      <div class="layer-label">
+        <span class="layer-dot l-sq" style="background:#e74c3c;opacity:0.5;border:1px solid #c0392b;"></span>
+        DRC Provinces (Adm 1)
+      </div>
+      <button class="toggle-btn active" id="btnAdm1" onclick="toggleAdm1()">On</button>
+    </div>
+    <div class="layer-row">
+      <div class="layer-label">
+        <span class="layer-dot l-sq" style="background:#a0c0a0;opacity:0.4;border:1px solid #80a080;"></span>
+        DRC Territories (Adm 2)
+      </div>
+      <button class="toggle-btn" id="btnAdm2" onclick="toggleAdm2()">Load</button>
+    </div>
+    <div class="layer-row">
+      <div class="layer-label">
+        <span class="layer-dot l-sq" style="background:#e67e22;opacity:0.5;border:1px solid #ca6f1e;"></span>
+        Uganda Regions (Adm 1)
+      </div>
+      <button class="toggle-btn active" id="btnUga" onclick="toggleUga()">On</button>
+    </div>
+  </div>
+
+  <div id="map"></div>
+
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <div class="sidebar-head">
+      Latest Reports
+      <span class="feed-count">100+ articles</span>
+    </div>
+    <div class="news-scroll" id="newsScroll"></div>
+    <div class="disclaimer">
+      <strong>Data note:</strong> Statistics extracted from WHO EIOS news aggregation (18 May 2026).
+      Province boundaries: geoBoundaries / OCHA COD-AB.
+      Per-location case breakdowns are not in the source feed — aggregate totals shown.
+    </div>
+  </div>
+</div>
+
+<script src="data/feed.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+// ── GeoJSON sources (geoBoundaries, OCHA Common Operational Dataset) ──────────
+const GB = 'https://media.githubusercontent.com/media/wmgeolab/geoBoundaries/9469f09592ced973a3448cf66b6100b741b64c0d/releaseData/gbOpen';
+const ADM1_URL     = `${GB}/COD/ADM1/geoBoundaries-COD-ADM1.geojson`;
+const ADM2_URL     = `${GB}/COD/ADM2/geoBoundaries-COD-ADM2.geojson`;
+const UGA_ADM1_URL = `${GB}/UGA/ADM1/geoBoundaries-UGA-ADM1.geojson`;
+
+// ── Outbreak status definitions ───────────────────────────────────────────────
+function getAdm1Status(feature) {
+  const iso  = (feature.properties.shapeISO  || '').toUpperCase();
+  const name = (feature.properties.shapeName || '').toLowerCase();
+  if (iso === 'CD-IT' || /\bituri\b/.test(name))                          return 'epicenter';
+  if (iso === 'CD-NK' || /nord.?kivu|north.?kivu/.test(name))             return 'spread';
+  if (iso === 'CD-KN' || /\bkinshasa\b/.test(name))                       return 'spread';
+  return 'none';
+}
+
+// Uganda: Central region contains Kampala (confirmed cases)
+function getUgaStatus(feature) {
+  const iso  = (feature.properties.shapeISO  || '').toUpperCase();
+  const name = (feature.properties.shapeName || '').toLowerCase();
+  if (iso === 'UG-C' || /\bcentral\b/.test(name) || /\bkampala\b/.test(name)) return 'spread';
+  return 'none';
+}
+
+// ADM2: shapeISO is empty in this dataset — classify by spatial containment
+// in highlightedAdm1Bounds (populated after ADM1 loads)
+const highlightedAdm1Bounds = []; // [{bounds: L.LatLngBounds, status}]
+
+function getAdm2Status(layer) {
+  const center = layer.getBounds().getCenter();
+  for (const { bounds, status } of highlightedAdm1Bounds) {
+    if (bounds.pad(0.01).contains(center)) return status;
+  }
+  return 'none';
+}
+
+// ── Style palettes ────────────────────────────────────────────────────────────
+const adm1Styles = {
+  epicenter: { fillColor: '#e74c3c', fillOpacity: 0.30, color: '#c0392b', weight: 1.5, dashArray: null },
+  spread:    { fillColor: '#e67e22', fillOpacity: 0.25, color: '#ca6f1e', weight: 1.5, dashArray: null },
+  none:      { fillColor: '#1a2540', fillOpacity: 0.55, color: '#2a3a5a', weight: 0.8, dashArray: null }
+};
+
+const adm2Styles = {
+  epicenter: { fillColor: '#e74c3c', fillOpacity: 0.22, color: '#c0392b', weight: 1,   dashArray: '4 3' },
+  spread:    { fillColor: '#e67e22', fillOpacity: 0.18, color: '#ca6f1e', weight: 1,   dashArray: '4 3' },
+  none:      { fillColor: '#152030', fillOpacity: 0.45, color: '#1e2a3a', weight: 0.5, dashArray: null  }
+};
+
+// Uganda region styles — distinct fill from DRC to visually separate countries
+const ugaStyles = {
+  spread: { fillColor: '#e67e22', fillOpacity: 0.28, color: '#ca6f1e', weight: 1.5, dashArray: null },
+  none:   { fillColor: '#1e3050', fillOpacity: 0.30, color: '#3a6090', weight: 0.8, dashArray: '4 3' }
+};
+
+// Highlight-on-hover style (ADM1 only)
+const hoverStyle = { weight: 2.5, color: '#fff', fillOpacity: 0.45, dashArray: null };
+
+// ── Province popup HTML — all figures from window.FEED_DATA.stats ────────────
+function getFeedStats() {
+  return (window.FEED_DATA && window.FEED_DATA.stats) || {};
+}
+
+function fmtN(v) {
+  return (v != null) ? v.toLocaleString() : '—';
+}
+
+function buildAdm1Popup(feature, status) {
+  const name = feature.properties.shapeName || 'Unknown Province';
+  const iso  = feature.properties.shapeISO  || '—';
+  const s    = getFeedStats();
+  const drc  = s.drc || {};
+  const uga  = s.uga || {};
+  const src  = s.sourceLabel || 'WHO EIOS RSS';
+  const ts   = window.FEED_DATA ? window.FEED_DATA.fetchedAt : null;
+  const tsStr = ts ? new Date(ts).toUTCString() : '—';
+
+  if (status === 'none') {
+    return `
+      <div class="pu-name">${name}</div>
+      <div class="pu-adm-type">Admin 1 · Province · ${iso}</div>
+      <div style="font-size:0.75rem;color:#6b7a96;">No confirmed cases reported in this province.</div>`;
+  }
+
+  if (status === 'epicenter') {
+    const activeNote = drc.active != null
+      ? `<div class="pu-stat full"><div class="pu-stat-v" style="color:#3498db">${fmtN(drc.active)}</div><div class="pu-stat-l">Active Patients (Bunia treatment centres)</div></div>`
+      : '';
+    return `
+      <div class="pu-name">${name}</div>
+      <div class="pu-sub">Admin 1 · Province · ISO: ${iso}</div>
+      <span class="pu-badge pb-epicenter">Epicenter Province</span>
+      <div class="pu-stats">
+        <div class="pu-stat"><div class="pu-stat-v" style="color:#e74c3c">${fmtN(drc.deaths)}</div><div class="pu-stat-l">Probable Deaths (DRC)</div></div>
+        <div class="pu-stat"><div class="pu-stat-v" style="color:#e67e22">${fmtN(drc.suspected)}</div><div class="pu-stat-l">Suspected Cases (DRC)</div></div>
+        ${activeNote}
+      </div>
+      <p class="pu-caveat">Source: ${src} · Updated: ${tsStr}</p>
+      <div class="pu-note">Main outbreak zone. Bundibugyo ebolavirus — no approved vaccine or specific treatment. WHO declared PHEIC May 2026.</div>`;
+  }
+
+  if (status === 'spread') {
+    const ugaCases = uga.cases != null ? fmtN(uga.cases) : '≥1';
+    return `
+      <div class="pu-name">${name}</div>
+      <div class="pu-sub">Admin 1 · Province · ISO: ${iso}</div>
+      <span class="pu-badge pb-spread">Confirmed Spread</span>
+      <div class="pu-stats">
+        <div class="pu-stat full"><div class="pu-stat-v" style="color:#3498db">≥1</div><div class="pu-stat-l">Confirmed Case (Goma / Kinshasa)</div></div>
+      </div>
+      <p class="pu-caveat">Source: ${src} · Updated: ${tsStr}</p>
+      <div class="pu-note">Confirmed spread beyond Ituri. Goma raised international concern due to its international airport and dense population.</div>`;
+  }
+
+  return `<div class="pu-name">${name}</div>`;
+}
+
+function buildUgaPopup(feature, status) {
+  const name = feature.properties.shapeName || 'Unknown Region';
+  const s    = getFeedStats();
+  const uga  = s.uga || {};
+  const src  = s.sourceLabel || 'WHO EIOS RSS';
+  const ts   = window.FEED_DATA ? window.FEED_DATA.fetchedAt : null;
+  const tsStr = ts ? new Date(ts).toUTCString() : '—';
+
+  if (status === 'spread') {
+    return `
+      <div class="pu-name">${name}</div>
+      <div class="pu-sub">Admin 1 · Region · Uganda</div>
+      <span class="pu-badge pb-crossborder">Imported Cases</span>
+      <div class="pu-stats">
+        <div class="pu-stat full">
+          <div class="pu-stat-v" style="color:#e67e22">${fmtN(uga.cases)}</div>
+          <div class="pu-stat-l">Confirmed Cases (Kampala)</div>
+        </div>
+      </div>
+      <p class="pu-caveat">Source: ${src} · Updated: ${tsStr}</p>
+      <div class="pu-note">Cases imported from DRC. Confirmed in Kampala by Uganda Ministry of Health. One fatality recorded. WHO declared PHEIC May 2026.</div>`;
+  }
+  return `
+    <div class="pu-name">${name}</div>
+    <div class="pu-sub">Admin 1 · Region · Uganda</div>
+    <div style="font-size:0.75rem;color:#6b7a96;">No confirmed cases reported in this region.</div>`;
+}
+
+function buildAdm2Popup(feature, status) {
+  const name = feature.properties.shapeName || 'Unknown Territory';
+  const statusLabels = { epicenter: 'Within Epicenter Province (Ituri)', spread: 'Within Spread Zone (Nord-Kivu)', none: 'No cases reported' };
+  const statusColors = { epicenter: '#e74c3c', spread: '#e67e22', none: '#6b7a96' };
+  return `
+    <div class="pu-name">${name}</div>
+    <div class="pu-sub">Admin 2 · Territory</div>
+    <span class="pu-badge pb-territory">${statusLabels[status] || 'Unclassified'}</span>
+    <div class="pu-note" style="color:${statusColors[status]};">
+      ${status !== 'none'
+        ? 'This territory falls within an affected province. Sub-territory case counts are not available in the WHO EIOS feed.'
+        : 'No confirmed cases reported in this territory as of 18 May 2026.'}
+    </div>`;
+}
+
+// ── Map initialisation ────────────────────────────────────────────────────────
+const map = L.map('map', {
+  center: [1.0, 28.5],
+  zoom: 6,
+  zoomControl: true
+});
+
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
+  subdomains: 'abcd',
+  maxZoom: 18
+}).addTo(map);
+
+// ── Layer state ───────────────────────────────────────────────────────────────
+let adm1Layer   = null;
+let adm2Layer   = null;
+let adm2Loaded  = false;
+let adm2Visible = false;
+let ugaLayer    = null;
+let ugaVisible  = true;
+
+// ── ADM1: load on startup ─────────────────────────────────────────────────────
+document.getElementById('loadingStep').textContent = 'Fetching DRC Admin 1 (26 provinces)…';
+
+fetch(ADM1_URL)
+  .then(r => {
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    return r.json();
+  })
+  .then(data => {
+    adm1Layer = L.geoJSON(data, {
+      style: feature => adm1Styles[getAdm1Status(feature)],
+
+      onEachFeature(feature, layer) {
+        const status = getAdm1Status(feature);
+
+        // Store bounds of affected provinces for ADM2 spatial classification
+        if (status !== 'none') {
+          highlightedAdm1Bounds.push({ bounds: layer.getBounds(), status });
+        }
+
+        // Hover interaction
+        layer.on({
+          mouseover(e) {
+            e.target.setStyle(hoverStyle);
+            e.target.bringToFront();
+          },
+          mouseout(e) {
+            adm1Layer.resetStyle(e.target);
+          }
+        });
+
+        // Popup
+        layer.bindPopup(buildAdm1Popup(feature, status), { maxWidth: 280 });
+      }
+    }).addTo(map);
+
+    // Hide loading overlay
+    document.getElementById('loadingOverlay').classList.add('hidden');
+  })
+  .catch(err => {
+    document.getElementById('loadingStep').textContent = 'Failed to load boundaries: ' + err.message;
+    console.error('ADM1 load error:', err);
+  });
+
+// ── ADM1 toggle ───────────────────────────────────────────────────────────────
+function toggleAdm1() {
+  const btn = document.getElementById('btnAdm1');
+  if (!adm1Layer) return;
+  if (map.hasLayer(adm1Layer)) {
+    map.removeLayer(adm1Layer);
+    btn.textContent = 'Off';
+    btn.classList.remove('active');
+  } else {
+    map.addLayer(adm1Layer);
+    btn.textContent = 'On';
+    btn.classList.add('active');
+  }
+}
+
+// ── Uganda ADM1: load on startup ─────────────────────────────────────────────
+fetch(UGA_ADM1_URL)
+  .then(r => {
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    return r.json();
+  })
+  .then(data => {
+    ugaLayer = L.geoJSON(data, {
+      style: feature => ugaStyles[getUgaStatus(feature)],
+      onEachFeature(feature, layer) {
+        const status = getUgaStatus(feature);
+        layer.on({
+          mouseover(e) { e.target.setStyle(hoverStyle); e.target.bringToFront(); },
+          mouseout(e)  { ugaLayer.resetStyle(e.target); }
+        });
+        layer.bindPopup(buildUgaPopup(feature, status), { maxWidth: 280 });
+      }
+    }).addTo(map);
+    if (adm1Layer) adm1Layer.bringToFront();
+  })
+  .catch(err => console.warn('Uganda ADM1 load error:', err));
+
+function toggleUga() {
+  const btn = document.getElementById('btnUga');
+  if (!ugaLayer) return;
+  if (map.hasLayer(ugaLayer)) {
+    map.removeLayer(ugaLayer);
+    ugaVisible = false;
+    btn.textContent = 'Off';
+    btn.classList.remove('active');
+  } else {
+    map.addLayer(ugaLayer);
+    if (adm1Layer) adm1Layer.bringToFront();
+    ugaVisible = true;
+    btn.textContent = 'On';
+    btn.classList.add('active');
+  }
+}
+
+// ── ADM2: lazy-load on first toggle ──────────────────────────────────────────
+function toggleAdm2() {
+  const btn = document.getElementById('btnAdm2');
+
+  if (!adm2Loaded) {
+    // First activation — fetch the data
+    btn.textContent = 'Loading…';
+    btn.disabled = true;
+    btn.classList.add('loading');
+
+    document.getElementById('loadingOverlay').classList.remove('hidden');
+    document.getElementById('loadingStep').textContent = 'Fetching DRC Admin 2 (189 territories) — ~6 MB…';
+
+    fetch(ADM2_URL)
+      .then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
+      .then(data => {
+        adm2Layer = L.geoJSON(data, {
+          style: () => adm2Styles.none, // start dim, updated below
+          onEachFeature(feature, layer) {
+            layer.bindPopup(buildAdm2Popup(feature, 'none'), { maxWidth: 260 });
+          }
+        });
+
+        // Classify territories by spatial containment in highlighted ADM1 bounds
+        adm2Layer.eachLayer(layer => {
+          const status = getAdm2Status(layer);
+          if (status !== 'none') {
+            layer.setStyle(adm2Styles[status]);
+            // Update popup with correct status
+            const name = layer.feature.properties.shapeName;
+            layer.getPopup().setContent(buildAdm2Popup(layer.feature, status));
+          }
+        });
+
+        // Insert below ADM1 layer
+        adm2Layer.addTo(map);
+        if (adm1Layer) adm1Layer.bringToFront();
+
+        adm2Loaded  = true;
+        adm2Visible = true;
+        btn.textContent = 'On';
+        btn.disabled = false;
+        btn.classList.remove('loading');
+        btn.classList.add('active');
+        document.getElementById('loadingOverlay').classList.add('hidden');
+      })
+      .catch(err => {
+        document.getElementById('loadingStep').textContent = 'Failed: ' + err.message;
+        btn.textContent = 'Error';
+        btn.disabled = false;
+        btn.classList.remove('loading');
+        console.error('ADM2 load error:', err);
+      });
+
+    return;
+  }
+
+  // Subsequent toggles
+  if (adm2Visible) {
+    map.removeLayer(adm2Layer);
+    adm2Visible = false;
+    btn.textContent = 'Off';
+    btn.classList.remove('active');
+  } else {
+    map.addLayer(adm2Layer);
+    if (adm1Layer) adm1Layer.bringToFront();
+    adm2Visible = true;
+    btn.textContent = 'On';
+    btn.classList.add('active');
+  }
+}
+
+
+// ── Legend ────────────────────────────────────────────────────────────────────
+const legend = L.control({ position: 'bottomleft' });
+legend.onAdd = () => {
+  const div = L.DomUtil.create('div', 'map-legend');
+  div.innerHTML = `
+    <h4>Outbreak Status</h4>
+    <div class="legend-row">
+      <span class="l-sq" style="background:#e74c3c;opacity:0.5;border:1px solid #c0392b;"></span>
+      Epicenter — Ituri (DRC)
+    </div>
+    <div class="legend-row">
+      <span class="l-sq" style="background:#e67e22;opacity:0.5;border:1px solid #ca6f1e;"></span>
+      Confirmed Spread — Nord-Kivu, Kinshasa (DRC)
+    </div>
+    <div class="legend-row">
+      <span class="l-sq" style="background:#e67e22;opacity:0.5;border:1px solid #ca6f1e;"></span>
+      Imported Cases — Central Region (Uganda)
+    </div>
+    <div class="legend-row">
+      <span class="l-sq" style="background:#1a2540;opacity:0.9;border:1px solid #2a3a5a;"></span>
+      Unaffected Province (DRC)
+    </div>
+    <div class="legend-row">
+      <span class="l-sq" style="background:#1e3050;opacity:0.7;border:1px dashed #3a6090;"></span>
+      Unaffected Region (Uganda)
+    </div>
+    <div class="l-div"></div>
+    <div class="legend-row">
+      <span class="l-sq" style="background:#e74c3c;opacity:0.3;border:1px dashed #c0392b;"></span>
+      Affected Territory (DRC Admin 2)
+    </div>
+    <div class="l-note">Toggle layers via panel (top-left)</div>
+  `;
+  return div;
+};
+legend.addTo(map);
+
+// ── Sidebar news ──────────────────────────────────────────────────────────────
+const tagMeta = {
+  pheic:    { css: 'tag-pheic',    label: 'PHEIC' },
+  cases:    { css: 'tag-cases',    label: 'Case Update' },
+  response: { css: 'tag-response', label: 'Response' },
+  analysis: { css: 'tag-analysis', label: 'Analysis' }
+};
+
+function renderNews(items, fetchedAt) {
+  const scroll = document.getElementById('newsScroll');
+  scroll.innerHTML = '';
+  items.forEach(item => {
+    const t = tagMeta[item.tag] || tagMeta.analysis;
+    const date = (item.pubDate || '').replace(/ \+0000| GMT/, ' UTC');
+    const el = document.createElement('div');
+    el.className = 'news-item';
+    el.innerHTML = `
+      <span class="news-item-tag ${t.css}">${t.label}</span>
+      <a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a>
+      <div class="news-date">${date}</div>
+    `;
+    scroll.appendChild(el);
+  });
+  document.querySelector('.feed-count').textContent = `${items.length} articles`;
+  if (fetchedAt) {
+    const d = new Date(fetchedAt);
+    document.querySelector('.header-meta').textContent =
+      `Source: WHO EIOS RSS Feed · Boundaries: geoBoundaries (OCHA COD) · Feed fetched: ${d.toUTCString()}`;
+  }
+}
+
+if (window.FEED_DATA) {
+  renderNews(window.FEED_DATA.items, window.FEED_DATA.fetchedAt);
+} else {
+  document.getElementById('newsScroll').innerHTML =
+    '<div style="padding:16px;color:#6b7a96;font-size:0.8rem;line-height:1.6;">' +
+    'No feed data found.<br>Run <code style="color:#c8d4e8;">python fetch_feed.py</code> ' +
+    'to populate the news sidebar.</div>';
+}
+
+// ── Stats bar — populated from WHO EIOS RSS feed (data/feed.js) ──────────────
+function renderRssStats() {
+  const srcEl = document.getElementById('go-status');
+
+  if (!window.FEED_DATA || !window.FEED_DATA.stats) {
+    srcEl.innerHTML = '<span style="color:#e74c3c;">No feed data — run python fetch_feed.py</span>';
+    return;
+  }
+
+  const s   = window.FEED_DATA.stats;
+  const drc = s.drc || {};
+  const uga = s.uga || {};
+
+  // Deaths — DRC probable deaths (most authoritative MoH figure)
+  document.getElementById('val-deaths').textContent =
+    drc.deaths != null ? drc.deaths.toLocaleString() : '—';
+
+  // Suspected cases — DRC total, with Uganda note in sub-label
+  const casesEl = document.getElementById('val-cases');
+  casesEl.textContent = drc.suspected != null ? drc.suspected.toLocaleString() : '—';
+  const casesSub = casesEl.parentElement.querySelector('.stat-label');
+  if (casesSub) {
+    const ugaNote = uga.cases != null ? ` + ${uga.cases} UGA` : '';
+    casesSub.textContent = `Suspected Cases (DRC)${ugaNote}`;
+  }
+
+  // WHO alert
+  const sevEl = document.getElementById('val-severity');
+  if (s.whoAlert === 'PHEIC') {
+    sevEl.textContent = 'PHEIC';
+    sevEl.style.color = '#e74c3c';
+  } else {
+    sevEl.textContent = '—';
+  }
+
+  // Countries affected
+  const countries = ['DRC'];
+  if (uga.cases != null) countries.push('Uganda');
+  document.getElementById('val-countries').textContent = countries.length;
+  document.getElementById('lbl-countries').textContent = countries.join(' · ');
+
+  // Source metadata cell
+  const fetched = window.FEED_DATA.fetchedAt
+    ? new Date(window.FEED_DATA.fetchedAt).toUTCString()
+    : '—';
+  const srcLabel = s.sourceLabel || 'WHO EIOS RSS';
+  srcEl.innerHTML =
+    `<span style="color:#2ecc71;font-weight:700;">&#10003; WHO EIOS RSS</span><br>` +
+    `Source: ${srcLabel}<br>` +
+    `<span style="color:#4a5a76;">Fetched: ${fetched}</span>`;
+}
+
+renderRssStats();
+</script>
+</body>
+</html>
