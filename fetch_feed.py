@@ -18,6 +18,14 @@ from urllib.request import urlopen, Request
 from urllib.error import URLError
 from xml.etree import ElementTree as ET
 
+LOG_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'fetch_feed.log')
+
+
+def log(status, message):
+    ts = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')
+    with open(LOG_FILE, 'a', encoding='utf-8') as f:
+        f.write(f'[{ts}] [{status}] {message}\n')
+
 FEED_URL = (
     'https://eios.who.int/portal/api/api/rssfeed/1779091159764'
     '?pinned=false&token=9092D77B-7AB5-4384-9555-7C541960C506'
@@ -265,15 +273,19 @@ def main():
     print('Fetching feed...')
     try:
         xml_bytes = fetch(FEED_URL)
-    except URLError as e:
-        print(f'ERROR: could not reach feed — {e}', file=sys.stderr)
+    except (URLError, OSError) as e:
+        msg = f'Could not reach feed — {e}'
+        print(f'ERROR: {msg}', file=sys.stderr)
+        log('ERROR', msg)
         sys.exit(1)
 
     print('Parsing XML...')
     try:
         data = parse(xml_bytes)
     except ET.ParseError as e:
-        print(f'ERROR: could not parse XML — {e}', file=sys.stderr)
+        msg = f'Could not parse XML — {e}'
+        print(f'ERROR: {msg}', file=sys.stderr)
+        log('ERROR', msg)
         sys.exit(1)
 
     with open(OUT_FILE, 'w', encoding='utf-8') as f:
@@ -287,13 +299,25 @@ def main():
     s = data['stats']
     d = s.get('drc', {})
     u = s.get('uga', {})
-    print(f'OK — {data["itemCount"]} items written')
-    print(f'DRC  -> deaths={d.get("deaths","—")}  suspected={d.get("suspected","—")}  confirmed={d.get("confirmed","—")}  active={d.get("active","—")}')
-    print(f'UGA  -> cases={u.get("cases","—")}')
-    print(f'Alert -> {s.get("whoAlert","—")}  Source level: {s.get("sourceLabel","—")}')
+    summary = (
+        f'{data["itemCount"]} items — '
+        f'DRC deaths={d.get("deaths","—")} suspected={d.get("suspected","—")} '
+        f'confirmed={d.get("confirmed","—")} active={d.get("active","—")} | '
+        f'UGA cases={u.get("cases","—")} | '
+        f'Alert={s.get("whoAlert","—")} source={s.get("sourceLabel","—")}'
+    )
+    print(f'OK — {summary}')
     print(f'Feed built:  {data["lastBuildDate"]}')
     print(f'Fetched at:  {data["fetchedAt"]}')
+    log('OK', summary)
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except Exception as e:
+        import traceback
+        msg = f'Unhandled exception: {e}\n{traceback.format_exc()}'
+        print(msg, file=sys.stderr)
+        log('ERROR', f'Unhandled exception: {e}')
+        sys.exit(1)

@@ -1,370 +1,369 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 18 May 2026 09:58:42 Z",
-  "fetchedAt": "2026-05-18T09:58:43Z",
+  "lastBuildDate": "Tue, 19 May 2026 14:48:49 Z",
+  "fetchedAt": "2026-05-19T14:48:49Z",
   "itemCount": 50,
   "stats": {
     "drc": {
-      "deaths": 91,
-      "suspected": 350,
-      "active": 59
+      "deaths": 131,
+      "suspected": 513
     },
     "uga": {
-      "cases": 2
+      "cases": 1
     },
     "whoAlert": "PHEIC",
     "sourceLabel": "Ministry of Health"
   },
   "items": [
     {
-      "title": "Why has the WHO declared a PHEIC over the Ebola outbreak in Africa ?",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021559498",
-      "pubDate": "Mon, 18 May 2026 09:57:00 Z",
-      "desc": "The story so far : On May 16, the World Health Organization (WHO) declared theEbola outbreak in the Democratic Republic of the Congo (DRC) and Uganda, a 'public health emergency of international concern (PHEIC). Just ahead of that, the Ministry of Public Health, Hygiene and Social Welfare, DRC, and....",
-      "tag": "pheic"
+      "title": "WHO evaluates vaccines, treatments for Ebola outbreak",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021567503",
+      "pubDate": "Tue, 19 May 2026 14:27:00 Z",
+      "desc": "The World Health Organization said Tuesday it was examining whether any candidate vaccines or treatments could be used to rein in the deadly Ebola outbreak in the Democratic Republic of Congo.\n\"At the international level, (we are) looking at what candidate vaccines or treatment are available and if....",
+      "tag": "analysis"
     },
     {
-      "title": "La misión de la ONU en RD Congo ofrece su apoyo a la respuesta contra el brote de ébola; RD CONGO ÉBOLA",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021559476",
-      "pubDate": "Mon, 18 May 2026 09:57:00 Z",
-      "desc": "Nairobi, 18 may (EFE).- La Misión de Estabilización de las Naciones Unidas en la República Democrática del Congo (MONUSCO) ofreció su apoyo al Gobierno congoleño y a la Organización Mundial de la Salud (OMS) en su respuesta contra el brote de ébola en el este del país, que ya causa 88 muertos, uno de ellos en Uganda.",
+      "title": "Autoridades congoleñas reportan al menos 131 muertos y 500 casos en el brote de ébola en este de Congo",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021567002",
+      "pubDate": "Tue, 19 May 2026 14:27:00 Z",
+      "desc": "KINSHASA, República Democrática de Congo (AP) — Autoridades congoleñas reportan al menos 131 muertos y 500 casos en el brote de ébola en este de Congo.",
       "tag": "cases"
     },
     {
-      "title": "Ebola declared a public health emergency, ahead of World Health Assembly starting today",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021559473",
-      "pubDate": "Mon, 18 May 2026 09:57:00 Z",
-      "desc": "Over the weekend, the World Health Organization (WHO) has labelled Ebola — caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and Uganda — a public health emergency of international concern (PHEIC). However, the UN Health agency clarified, the outbreak did not meet the criteria....",
-      "tag": "pheic"
-    },
-    {
-      "title": "Ébola: “El riesgo de propagación de esta epidemia es muy alto”, advierte virólogo",
-      "link": "https://acento.com.do/rfi/ebola-el-riesgo-de-propagacion-de-esta-epidemia-es-muy-alto-advierte-virologo-9680270.html",
-      "pubDate": "Mon, 18 May 2026 09:55:00 Z",
-      "desc": "RFI: Se trata de un resurgimiento de la cepa de Ébola “Bundibugyo”, una cepa poco conocida. ¿Cuál es su particularidad? En cuanto a su nivel de letalidad, ¿qué tan mortal es? Sylvain Blaize: La cepa “Bundibugyo” es una de las especies del virus del Ébola patógenas para el ser humano.",
+      "title": "Tras infección con ébola de un estadounidense en la República Democrática del Congo, EE.UU. busca limitar la entrada al país - CNN en Español",
+      "link": "https://cnnespanol.cnn.com/2026/05/18/mundo/lucha-mundial-ebola-ee-uu-trax",
+      "pubDate": "Tue, 19 May 2026 14:27:00 Z",
+      "desc": "COVID-19 -- DR Congo. Significance Rating: 1 Tras infección con ébola de un estadounidense en la República Democrática del Congo, EE.UU. busca limitar la entrada al país&nbsp;&nbsp;CNN en Español",
       "tag": "analysis"
     },
     {
-      "title": "DR Congo Ebola Outbreak Explained: How Dangerous Is the Rare Bundibugyo Strain and Should You Be Worried?",
-      "link": "https://article.wn.com/view/2026/05/18/DR_Congo_Ebola_Outbreak_Explained_How_Dangerous_Is_the_Rare_/",
-      "pubDate": "Mon, 18 May 2026 09:54:00 Z",
-      "desc": "Dubai: A new Ebola outbreak in the eastern part of the Democratic Republic of the Congo has triggered growing global concern after spreading undetected for weeks in a region torn by conflict and displacement.",
+      "title": "Update Ebola-infected US citizen to be treated in Germany",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021567488",
+      "pubDate": "Tue, 19 May 2026 14:22:00 Z",
+      "desc": "Washington (dpa) - A US citizen infected with the Ebola virus is to be treated in Germany.\nThe US authorities had asked the German government for help with his treatment, the Health Ministry in Berlin said on Tuesday, confirming what US health officials had previously announced.",
       "tag": "analysis"
     },
     {
-      "title": "Alerta mundial por el avance del virus Bundibugyo, una variante del ébola",
-      "link": "https://correodiario.com.ar/alerta-mundial-por-el-avance-del-virus-bundibugyo-una-variante-del-ebola/",
-      "pubDate": "Mon, 18 May 2026 09:54:00 Z",
-      "desc": "La Organización Mundial de la Salud (OMS) encendió este domingo una nueva alarma sanitaria internacional al declarar la “emergencia de salud pública de importancia internacional” por el brote del virus Bundibugyo, una variante del ébola detectada en la República Democrática del Congo y Uganda.",
+      "title": "RDC : ce qu'il faut savoir sur la nouvelle épidémie d'Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021567492",
+      "pubDate": "Tue, 19 May 2026 14:22:00 Z",
+      "desc": "Après l'apparition d'une épidémie d'Ebola en République démocratique du Congo, qui aurait fait plus de 90 morts, l'OMS a déclaré l'urgence sanitaire internationale.\nSelon les derniers chiffres publiés dimanche par le ministre congolais de la Santé, Samuel-Roger Kamba, 91 décès signalés seraient dus à l'épidémie actuelle.",
+      "tag": "cases"
+    },
+    {
+      "title": "Ebola en RDC: 131 décès estimés et 513 cas suspects",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021567495",
+      "pubDate": "Tue, 19 May 2026 14:22:00 Z",
+      "desc": "L'épidémie d'Ebola en République démocratique du Congo est vraisemblablement à l'origine de 131 décès recensés et de 513 cas suspects, a affirmé le ministre de la Santé congolais à la télévision nationale dans la nuit de lundi à mardi.\nL'Organisation mondiale de la santé (OMS) a déclenché dimanche....",
+      "tag": "cases"
+    },
+    {
+      "title": "Ebola-Réunion d'experts sur la lutte contre la souche Bundibugyo, l'OMS inquiète",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021567489",
+      "pubDate": "Tue, 19 May 2026 14:22:00 Z",
+      "desc": "par Jennifer Rigby\nLONDRES, 19 mai (Reuters) - Un groupe d'experts dirigé par l'Organisation mondiale de la Santé (OMS) se réunit mardi pour examiner s'il existe des options vaccinales contre l'épidémie d'Ebola dans l'est de la République démocratique du Congo (RDC), alors que 131 décès présumés et 500 cas ont jusqu'à présent été recensés.",
+      "tag": "cases"
+    },
+    {
+      "title": "Ebola Ebola outbreak in DRC and Uganda: What you need to know Read the article",
+      "link": "https://www.rescue.org/article/ebola-outbreak-drc-and-uganda-what-you-need-know",
+      "pubDate": "Tue, 19 May 2026 14:21:00 Z",
+      "desc": "As Ebola cases spread across eastern Democratic Republic of Congo (DRC) and into Uganda, the International Rescue Committee (IRC) has launched a response to protect vulnerable communities and support an already overstretched health system. Here's what you need to know about Ebola, the current....",
+      "tag": "cases"
+    },
+    {
+      "title": "Le gouvernement congolais appelle à la vigilance face à la résurgence d'Ebola",
+      "link": "https://www.leral.net/Le-gouvernement-congolais-appelle-a-la-vigilance-face-a-la-resurgence-d-Ebola_a399415.html",
+      "pubDate": "Tue, 19 May 2026 14:19:00 Z",
+      "desc": "Lors d'un briefing de presse coanimé ce lundi 18 mai 2026, avec le vice-Premier ministre en charge de la Fonction publique, Jean-Pierre Lihau, le porte-parole du gouvernement, Patrick Muyaya, a insisté sur le respect strict des mesures barrières pour contrer la propagation du virus Ebola.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Alarma global: Por qué la OMS declaró emergencia internacional por Ébola y qué se sabe",
+      "link": "https://www.aztecaquintanaroo.com/noticias/por-que-la-oms-declaro-emergencia-internacional-por-ebola-y-que-se-sabe/",
+      "pubDate": "Tue, 19 May 2026 14:19:00 Z",
+      "desc": "La Organización Mundial de la Salud (OMS) ha encendido las alarmas globales tras declarar una Emergencia de Salud Pública de Importancia Internacional (ESPII) debido a un nuevo y preocupante brote de Ébola , misma que azota a la República Democrática del Congo causando 131 decesos y más 500 casos sospechosos.",
+      "tag": "cases"
+    },
+    {
+      "title": "Autoridades sanitarias de Honduras refuerzan protocolos por brote de ébola",
+      "link": "https://www.elpais.hn/autoridades-sanitarias-de-honduras-refuerzan-protocolos-por-brote-de-ebola/",
+      "pubDate": "Tue, 19 May 2026 14:18:00 Z",
+      "desc": "Las autoridades sanitarias de Honduras reforzaron las medidas de vigilancia epidemiológica y prevención ante la alerta internacional emitida por nuevos brotes de ébola registrados en África. La Secretaría de Salud (Sesal) informó que se han intensificado los controles en aeropuertos, puertos....",
       "tag": "response"
     },
     {
-      "title": "WHO declares Ebola emergency in Congo and Uganda",
-      "link": "https://english.mathrubhumi.com/multimedia/videos/who-ebola-emergency-congo-uganda-ap8p243f",
-      "pubDate": "Mon, 18 May 2026 09:53:00 Z",
-      "desc": "The World Health Organization has declared the Ebola outbreak in the Democratic Republic of Congo and Uganda a public health emergency of international concern. The announcement comes after more than 300 suspected infections and at least 88 deaths linked to the virus were reported across the affected regions.",
-      "tag": "pheic"
-    },
-    {
-      "title": "Interview: Congolese virologist urges stronger surveillance as Ebola outbreak spreads",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021559429",
-      "pubDate": "Mon, 18 May 2026 09:52:00 Z",
-      "desc": "KINSHASA, May 18 (Xinhua) -- The Democratic Republic of the Congo must quickly strengthen active surveillance, trace transmission chains and prevent the Ebola virus from spreading after the latest outbreak in the country, a leading Congolese virologist has warned.",
+      "title": "Ebola en RDC: pourquoi le diagnostic a traîné durant un mois",
+      "link": "https://www.rfi.fr/fr/afrique/20260519-ebola-en-rdc-pourquoi-le-diagnostic-a-tra%C3%AEn%C3%A9-durant-un-mois",
+      "pubDate": "Tue, 19 May 2026 14:17:00 Z",
+      "desc": "En RDC, les premiers cas documentés d'Ebola Bundibugyo en Ituri remontent au 15 avril 2026. L'épidémie n'a été officiellement confirmée que le 14 mai. Selon diverses sources, ce mois d'attente résulte de quatre défaillances documentées : un test de diagnostic inadapté, une chaîne logistique cassée,....",
       "tag": "analysis"
     },
     {
-      "title": "La RDC de nouveau confrontée à une épidémie d'Ebola",
-      "link": "https://www.dw.com/fr/la-rdc-de-nouveau-confront%C3%A9e-%C3%A0-une-%C3%A9pid%C3%A9mie-ebola/a-77194130",
-      "pubDate": "Mon, 18 May 2026 09:47:00 Z",
-      "desc": "Selon lui, les mesures de santé publique peuvent être tout aussi efficaces qu'un vaccin pour contenir cette 17ᵉ épidémie. Il insiste notamment sur l'importance du dépistage rapide et de l'identification précoce des malades, qu'il considère comme des actions essentielles pour limiter la propagation....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Evolución del hantavirus en España: cuenta atrás para que los aislados en el Gómez Ulla puedan recibir visitas",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021559418",
-      "pubDate": "Mon, 18 May 2026 09:47:00 Z",
-      "desc": "La situación sobre el hantavirus en España evoluciona favorablemente. Después de semanas inciertas que culminaron con la repatriación de los españoles del crucero MV Hondius desde Tenerife hasta el Hospital Central de la Defensa Gómez Ulla de Madrid, el escenario es exactamente el que esperaba el....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Rusia enviará especialistas a Uganda para combatir el ébola",
-      "link": "https://www.prensa-latina.cu/2026/05/18/rusia-enviara-especialistas-a-uganda-para-combatir-el-ebola/",
-      "pubDate": "Mon, 18 May 2026 09:46:00 Z",
-      "desc": "En la comunicación del ente ruso se dice que “a petición de la parte ugandesa, Rospotrebnadzor mandará un grupo de especialistas a Kampala para realizar una investigación epidemiológica ante un brote del ébola causado por el virus Bundibugyo en la RDC y casos de la misma enfermedad en la capital de la vecina Uganda».",
+      "title": "Alerta mundial por un brote de ébola: para una experta de La Plata, \"está perfecto lo que hizo la OMS\"",
+      "link": "https://www.eldia.com/nota/2026-5-19-10-27-0-alerta-mundial-por-un-brote-de-ebola-en-africa-esta-perfecto-lo-que-hizo-la-oms-hay-que-actuar-rapido-informacion-general-fm-la-redonda",
+      "pubDate": "Tue, 19 May 2026 14:16:00 Z",
+      "desc": "que afecta a la República Democrática del Congo y Uganda, luego de que las autoridades sanitarias advirtieran sobre el riesgo de expansión regional del virus. El brote ya dejó al menos 88 muertos y otros 246 casos sospechosos, especialmente en la provincia de Ituri, en el este congoleño, a más de 1.",
       "tag": "cases"
     },
     {
-      "title": "Article réservé aux abonnés \"Une épidémie qui va se répandre très rapidement\" : faut-il craindre une importation d'Ebola en France ?",
-      "link": "https://actu.fr/monde/une-epidemie-qui-va-se-repandre-tres-rapidement-faut-il-craindre-une-importation-d-ebola-en-france_64277565.html",
-      "pubDate": "Mon, 18 May 2026 09:46:00 Z",
-      "desc": "Aucun vaccin, aucun traitement, et déjà près de 100 morts dans une nouvelle épidémie d’Ebola. L’Organisation mondiale de la santé a déclenché une alerte sanitaire internationale face à cette épidémie qui sévit depuis fin avril 2026 en République démocratique du Congo (RDC), avec une crainte que le virus se diffuse ailleurs dans le monde.",
+      "title": "México emite alerta preventiva por ébola tras brote internacional",
+      "link": "https://www.elsiglodetorreon.com.mx/noticia/2026/mexico-emite-alerta-preventiva-por-ebola-tras-brote-internacional.html",
+      "pubDate": "Tue, 19 May 2026 14:15:00 Z",
+      "desc": "Durante la conferencia matutina encabezada por Claudia Sheinbaum este martes 19 de mayo, autoridades federales emitieron un aviso preventivo relacionado con el virus del ébola, enfermedad que actualmente mantiene alerta internacional debido a recientes brotes registrados en África.",
       "tag": "response"
     },
     {
-      "title": "18 May 2026 WHO Director-General's opening remarks at the 79th World Health Assembly high-level welcome – 18 May 2026",
-      "link": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-79th-world-health-assembly-high-level-welcome---18-may-2026",
-      "pubDate": "Mon, 18 May 2026 09:45:00 Z",
-      "desc": "Your Excellency John Mahama, President of Ghana, Your Excellency Elisabeth Baume-Schneider, Federal Councillor of the Swiss Confederation, President of the 79 th World Health Assembly, Dr Victor Atallah Lajam, UNOG Director-General Tatiana Valovaya, Excellencies, Honourable Ministers and heads of....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Infection prevention and control guideline for Ebola and Marburg diseases",
-      "link": "https://www.who.int/publications/i/item/9789240111332",
-      "pubDate": "Mon, 18 May 2026 09:45:00 Z",
-      "desc": "Overview. This document provides public health advice on multisectoral actions to support the social and economic protection of communities affected by Ebola and Marburg disease outbreaks. These outbreaks pose significant health risks and have wide-ranging social and economic consequences, including....",
-      "tag": "analysis"
-    },
-    {
-      "title": "¿Qué es y cómo afecta la emergencia internacional por el brote de ébola en República Democrática del Congo?",
-      "link": "https://www.heraldo.es/noticias/internacional/2026/05/18/que-es-afecta-brote-ebola-republica-democratica-congo-2021159.html",
-      "pubDate": "Mon, 18 May 2026 09:44:00 Z",
-      "desc": "ha declarado este sábado la epidemia de ébola causada por la cepa Bundibugyo en la República Democrática del Congo (RDC) como Emergencia de Salud Pública de Importancia Internacional (ESPII), si bien ha subrayado que no se trata de una emergencia pandémica.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Gabon : aucun cas d’Hantavirus détecté et renforcement de la surveillance aux frontières",
-      "link": "https://gabonmediatime.com/gabon-aucun-cas-dhantavirus-detecte-et-renforcement-de-la-surveillance-aux-frontieres/",
-      "pubDate": "Mon, 18 May 2026 09:43:00 Z",
-      "desc": "Le Gabon fait preuve de réactivité face aux menaces sanitaires internationales. Le ministère de la Santé a annoncé officiellement ce samedi 16 mai 2026 qu’aucun cas suspect d’Hantavirus n’a été détecté sur l’ensemble du territoire national. Bien que le pays soit totalement épargné pour le moment,....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Le chiffre; 80",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021558199",
-      "pubDate": "Mon, 18 May 2026 09:42:00 Z",
-      "desc": "L’épidémie d’Ebola en cours en République démocratique du Congo (RDC) est suspectée d’être déjà à l’origine de 80 décès, dans le vaste pays d’Afrique centrale de plus de 100 millions d’habitants, et d’un autre en Ouganda voisin.",
+      "title": "WHO calls Ebola outbreak in Congo ‘deeply concerning,’ no vaccine available",
+      "link": "https://www.scrippsnews.com/health/who-calls-ebola-outbreak-in-congo-deeply-concerning-no-vaccine-available",
+      "pubDate": "Tue, 19 May 2026 14:15:00 Z",
+      "desc": "The World Health Organization has called the ongoing Ebola outbreak in the Democratic Republic of the Congo “deeply concerning,” noting that the strain has no licensed vaccine or treatment. The statement from Dr. Anne Ancia, WHO representative in the DRC, comes as the agency monitors hundreds of cases of the deadly virus.",
       "tag": "cases"
     },
     {
-      "title": "OMS declara emergencia por brote de ébola en la RDC y Uganda",
-      "link": "https://www.analitica.com/actualidad-internacional/oms-declara-emergencia-por-brote-de-ebola-en-la-rdc-y-uganda/",
-      "pubDate": "Mon, 18 May 2026 09:38:00 Z",
-      "desc": "La Organización Mundial de la Salud (OMS) emitió el domingo (17.05.2026) una declaración de «emergencia de salud pública de importancia internacional», ante el nuevo brote de ébola causado por el virus bundibugyo que afecta a la República Democrática del Congo y Uganda.",
+      "title": "Brote de ébola en África: DMCs de Uganda y Ruanda dicen que la situación \"está bajo control\"",
+      "link": "https://mexico.ladevi.info/actualidad/brote-ebola-africa-dmcs-uganda-y-ruanda-dicen-que-la-situacion-esta-control-n100647",
+      "pubDate": "Tue, 19 May 2026 14:15:00 Z",
+      "desc": "La Organización Mundial de la Salud (OMS) declaró el 16 de mayo que la enfermedad por virus del ébola en RD Congo constituye una “emergencia de salud pública de importancia internacional”, aunque no una emergencia pandémica. Aunque los datos evolucionan con rapidez: las autoridades congoleñas ya....",
       "tag": "analysis"
     },
     {
-      "title": "Uganda: Government confirms Ebola outbreak",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021559355",
-      "pubDate": "Mon, 18 May 2026 09:37:00 Z",
-      "desc": "WHO declares outbreak in DRC, Uganda emergency of international concern\nAuthorities have confirmed two cases coming from DRC and has strengthened surveillance\nCountry's improved health management capacity helped it contain last Ebola outbreak in 2025\nThe health ministry confirmed an Ebola outbreak....",
-      "tag": "pheic"
-    },
-    {
-      "title": "Emergency supplies reach north-east DR Congo amid Ebola outbreak",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021559344",
-      "pubDate": "Mon, 18 May 2026 09:37:00 Z",
-      "desc": "By BBC Monitoring\nFive tonnes of emergency medical supplies and equipment were airlifted to the capital of DR Congo's north-eastern Ituri Province, Bunia, on 17 May to combat an outbreak of Ebola that has killed nearly 90 people, privately‑owned news website Actualite reported the following day.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Risk of Ebola importation to Kyrgyzstan remains low — Health Ministry",
-      "link": "https://24.kg/english/374269_Risk_of_Ebola_importation_to_Kyrgyzstan_remains_low__Health_Ministry/",
-      "pubDate": "Mon, 18 May 2026 09:37:00 Z",
-      "desc": "No cases of Ebola have been reported in Kyrgyzstan, the Ministry of Health’s press center reported. According to the ministry, the risk of virus being imported into the country is currently assessed as low, but the Ministry of Health is taking all necessary measures to ensure the healthcare system is prepared for potential biological threats.",
-      "tag": "cases"
-    },
-    {
-      "title": "Ukraine Confirms Spread of Hantavirus Among Its Soldiers",
-      "link": "https://sputnikglobe.com/20260518/ukraine-confirms-spread-of-hantavirus-among-its-soldiers-1124140815.html",
-      "pubDate": "Mon, 18 May 2026 09:36:00 Z",
-      "desc": "\"Kiev doctor Irina Semenova stated that hantavirus is widespread among the military personnel of the armed forces of Ukraine in the Sumy area. According to the medic, there are 'rodents, unsanitary conditions and weakened immunity' in the Ukrainian positions on this sector of the front, which....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Nigeria on alert over new ebola outbreak",
-      "link": "https://nationaldailyng.com/nigeria-on-alert-over-new-ebola-outbreak/",
-      "pubDate": "Mon, 18 May 2026 09:35:00 Z",
-      "desc": "Nigerian health authorities have intensified surveillance and emergency response measures following the World Health Organization’s declaration of a new Ebola outbreak in the Democratic Republic of the Congo (DRC) and neighboring Uganda as a Public Health Emergency of International Concern (PHEIC).",
-      "tag": "pheic"
-    },
-    {
-      "title": "Ebola en RDC : l’OMS s'inquiète suite à la propagation du virus",
-      "link": "https://fr.euronews.com/2026/05/18/rdc-lepidemie-debola-inquiete-apres-plusieurs-centaines-de-cas-et-plus-de-80-morts",
-      "pubDate": "Mon, 18 May 2026 09:34:00 Z",
-      "desc": "Les mesures de lutte contre la nouvelle épidémie d'Ebola en République démocratique du Congo et en Ouganda ont débuté. Les premiers convois de fournitures médicales du gouvernement congolais et de l'Organisation mondiale de la santé sont arrivés à Bunia, la région la plus touchée.",
-      "tag": "analysis"
-    },
-    {
-      "title": "I’m a microbiologist. Here’s what we know about the Ebola outbreak in West Africa",
-      "link": "https://article.wn.com/view/2026/05/18/I_m_a_microbiologist_Here_s_what_we_know_about_the_Ebola_out/",
-      "pubDate": "Mon, 18 May 2026 09:33:00 Z",
-      "desc": "The virus was first detected on May 5 in the Democratic Republic of the Congo (DRC)...",
-      "tag": "analysis"
-    },
-    {
-      "title": "Varios estadounidenses, bajo sospecha de estar expuestos a posibles casos de ébola",
-      "link": "https://notifalcon.com/2026/05/varios-estadounidenses-bajo-sospecha-de-estar-expuestos-a-posibles-casos-de-ebola/",
-      "pubDate": "Mon, 18 May 2026 09:33:00 Z",
-      "desc": "Un grupo de estadounidenses, que se encuentra en la República Democrática del Congo (RDC), podría haber estado expuesto a posibles casos de ébola, según fuentes de STAT. Se considera que varios de ellos tuvieron una exposición de alto riesgo y al menos uno podría haber desarrollado síntomas de la peligrosa enfermedad.",
-      "tag": "cases"
-    },
-    {
-      "title": "What is an outbreak, epidemic or pandemic? Ebola and public health emergencies explained",
-      "link": "https://www.africanews.com/2026/05/18/what-is-an-outbreak-epidemic-or-pandemic-ebola-and-public-health-emergencies-explained/",
-      "pubDate": "Mon, 18 May 2026 09:32:00 Z",
-      "desc": "When health officials talk about Ebola or other infectious diseases, the words they choose are not interchangeable. Terms like outbreak, epidemic, pandemic and public health emergency each describe a different level of spread, and they help determine how fast and how far the response goes. From local spike to global threat.",
-      "tag": "pheic"
-    },
-    {
-      "title": "DR Congo: Health officials arrive in Bunia with Ebola supplies",
-      "link": "https://www.africanews.com/2026/05/18/dr-congo-health-officials-arrive-in-bunia-with-ebola-supplies/",
-      "pubDate": "Mon, 18 May 2026 09:32:00 Z",
-      "desc": "The health minister of the Democratic Republic of Congo said on Sunday that authorities had already selected sites in Rwampara and Mongwalu to establish new treatment centers and that dozens of patients were receiving active care. Samuel Roger Kamba was speaking in Bunia where he arrived to check the setting up of treatment areas.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Une nouvelle épidémie d’Ebola déclarée en RDC; LIBÉ.FR",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021559330",
-      "pubDate": "Mon, 18 May 2026 09:32:00 Z",
-      "desc": "Le virus Ebola est de retour en république démocratique du Congo. Il s’est déclaré dans la province de l’Ituri (Est), a annoncé vendredi l’Africa CDC, l’agence sanitaire de l’Union africaine. Quatre décès ont été attribués au virus en laboratoire et 246 cas suspects dont 65 mortels ont été recensés.",
-      "tag": "cases"
-    },
-    {
-      "title": "Epidémie d'Ebola en RDC et en Ouganda : l'OMS déclare l'urgence sanitaire internationale",
-      "link": "https://telquel.ma/instant-t/2026/05/18/epidemie-debola-en-rdc-et-en-ouganda-loms-declare-lurgence-sanitaire-internationale_1989917/",
-      "pubDate": "Mon, 18 May 2026 09:30:00 Z",
-      "desc": "L e directeur général de l’OMS, Tedros Adhanom Ghebreyesus, a indiqué avoir pris cette décision après consultation des Etats concernés et sur la base des données scientifiques disponibles, du risque de propagation internationale et des perturbations potentielles du trafic international, selon une déclaration publiée par l’agence onusienne.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola : pourquoi la nouvelle alerte mondiale inquiète malgré un risque limité pour le Maroc",
-      "link": "https://lematin.ma/societe/ebola-lalerte-mondiale-inquiete-malgre-un-risque-limite-pour-le-maroc/346270",
-      "pubDate": "Mon, 18 May 2026 09:29:00 Z",
-      "desc": "L’alerte mondiale autour du virus Ebola refait surface. Face à une flambée épidémique inquiétante en Afrique centrale, l’Organisation mondiale de la santé (OMS) a activé le statut d’«urgence de santé publique de portée internationale» (USPPI), le plus haut niveau d’alerte sanitaire mondiale.",
-      "tag": "pheic"
-    },
-    {
-      "title": "The Ebola epidemic in Africa is a public health emergency of international concern, and the US CDC has escalated its response",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021559285",
-      "pubDate": "Mon, 18 May 2026 09:27:00 Z",
-      "desc": "The U.S. Centers for Disease Control and Prevention (CDC) announced upgraded response measures on May 17 after the World Health Organization declared the Ebola outbreak in the African countries of the Democratic Republic of the Congo and Uganda constituting a public health emergency of international concern.",
-      "tag": "pheic"
-    },
-    {
-      "title": "Fears foreigners have been exposed to Ebola strain with 30% kill rate and NO CURE as global health emergency is declared",
-      "link": "https://www.thesun.co.uk/health/39138390/foreigners-exposed-ebola-strain-30-kill-rate-no-cure/",
-      "pubDate": "Mon, 18 May 2026 09:25:00 Z",
-      "desc": "Health workers walk with a boy suspected of having the Ebola virus at an Ebola treatment centre in Beni, eastern Congo Credit: AP\n\nThe virus was first recorded in the third week of April. Nearly 90 people have died and over 330 are suspected to be infected in the Democratic Republic of Congo.",
-      "tag": "cases"
-    },
-    {
-      "title": "European Midday Briefing : Stocks Drop as Inflation Fears Take Hold",
-      "link": "https://www.marketscreener.com/news/european-midday-briefing-stocks-drop-as-inflation-fears-take-hold-ce7f5adadb8ef72d",
-      "pubDate": "Mon, 18 May 2026 09:25:00 Z",
-      "desc": "Shares were lower Monday as oil prices remained elevated and investors increasingly priced in extended U.S-Iran tensions. Stocks faltered at open and airlines slumped. after Ryanair warned of weaker-than-expected summer pricing trends. In London, big oil and tobacco were rising, keeping the FTSE in....",
+      "title": "Alerta mundial por un brote de ébola: para una experta de La Plata, \"está perfecto lo que hizo la OMS\"",
+      "link": "https://www.eldia.com/nota/2026-5-19-10-27-0-alerta-mundial-por-un-brote-de-ebola-en-africa-esta-perfecto-lo-que-hizo-la-oms-hay-que-actuar-rapido-informacion-general-fm-la-redonda",
+      "pubDate": "Tue, 19 May 2026 14:13:00 Z",
+      "desc": "La Organización Mundial de la Salud (OMS) declaró el pasado domingo la \"emergencia de salud pública de importancia internacional\" ante un nuevo brote de ébola que afecta a la República Democrática del Congo y Uganda, luego de que las autoridades sanitarias advirtieran sobre el riesgo de expansión regional del virus.",
       "tag": "response"
     },
     {
-      "title": "Uganda responds with emergency measures to Ebola outbreak",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021558128",
-      "pubDate": "Mon, 18 May 2026 09:22:00 Z",
-      "desc": "NewsFeed\nUganda responds with emergency measures to Ebola outbreak\nAl Jazeera’s Catherine Soi reports from the Ugandan capital Kampala on the latest emergency measures implemented in response to the country’s Ebola outbreak.",
+      "title": "ébola 19 mayo, 2026 OMS alerta por rápida propagación de brote de ébola en Congo y Uganda",
+      "link": "https://rccnoticias.com.do/oms-alerta-por-brote-de-ebola-en-congo-y-uganda-130-muertos-553981/",
+      "pubDate": "Tue, 19 May 2026 14:13:00 Z",
+      "desc": "OMS alerta por rápida propagación de brote de ébola en Congo y Uganda El brote del ébola es agravado por conflictos armados en la región; la variante Bundibugyo no tiene vacuna. La OMS convoca al Comité de Emergencia y envía recursos para contener la crisis\n\nEl director general de la Organización....",
       "tag": "response"
     },
     {
-      "title": "Ebola outbreak is 'very concerning' as 'highly lethal' disease has no vaccine with more than 80 dead",
-      "link": "https://www.mirror.co.uk/news/world-news/ebola-outbreak-virus-vaccine-dead-37169968",
-      "pubDate": "Mon, 18 May 2026 09:21:00 Z",
-      "desc": "Health experts have shared their verdict on why a current Ebola outbreak, declared a public health emergency, was 'concerning' after 88 deaths were reported.\n\nThe WHO said a laboratory-confirmed case has also been reported in the Democratic Republic of the Congo's capital Kinshasa, which is about....",
-      "tag": "pheic"
-    },
-    {
-      "title": "ALERTA MUNDIAL POR LA PROPAGACIÓN DE UNA EXTRAÑA CEPA DE ÉBOLA EN ÁFRICA",
-      "link": "http://libertadnoticias.com/2026/05/alerta-mundial-por-la-propagacion-de-una-extrana-cepa-de-ebola-en-africa/",
-      "pubDate": "Mon, 18 May 2026 09:20:00 Z",
-      "desc": "La Organización Mundial de la Salud (OMS) declaró una emergencia sanitaria internacional tras la propagación de una extraña cepa de ébola en África central, una situación que ya dejó al menos 88 fallecidos y cientos de casos sospechosos en la República Democrática del Congo (RDC) y Uganda.",
+      "title": "México está preparado ante posibles casos de Hantavirus y Ébola: Salud",
+      "link": "https://www.tiempo.com.mx/local/mexico-esta-preparado-ante-posibles-casos-de-hantavirus-y-ebola-salud/",
+      "pubDate": "Tue, 19 May 2026 14:13:00 Z",
+      "desc": "Durante La Mañanera del Pueblo, el funcionario explicó que en México no se ha detectado ningún caso de Hantavirus y destacó que el Instituto de Diagnóstico y Referencia Epidemiológicos (InDRE) tiene la capacidad para confirmar o descartar contagios. “El sistema de vigilancia epidemiológica está....",
       "tag": "cases"
     },
     {
-      "title": "L’œil de Glez – Zambie : une école de féticheurs, c’est pas sorcier",
-      "link": "https://www.jeuneafrique.com/579671/politique/loeil-de-glez-zambie-une-ecole-de-feticheurs-cest-pas-sorcier/",
-      "pubDate": "Mon, 18 May 2026 09:13:00 Z",
-      "desc": "Alors que les croyances de ce type sont dénoncées en République démocratique du Congo comme un facteur de propagation d’un virus d’Ebola parfois considéré comme « un mauvais sort », le ministère de l’Enseignement supérieur zambien considère la recherche et l’étude de la sorcellerie comme une science....",
-      "tag": "analysis"
-    },
-    {
-      "title": "WHO declares Ebola outbreak in DR Congo and Uganda a public health emergency of international concern",
-      "link": "https://www.globalsecurity.org/security/library/news/2026/05/sec-260517-globaltimes01.htm",
-      "pubDate": "Mon, 18 May 2026 09:12:00 Z",
-      "desc": "Global Times. By Li Yu Published: May 17, 2026 10:03 PM. The World Health Organization (WHO) declared on Sunday that the Ebola disease caused by the Bundibugyo virus in the Democratic Republic of the Congo and Uganda constitutes a public health emergency of international concern (PHEIC), but does....",
-      "tag": "pheic"
-    },
-    {
-      "title": "Japón envía a Reino Unido su antigripal favipiravir para combatir el hantavirus",
-      "link": "https://www.laverdadpa.com/japon-envia-a-reino-unido-su-antigripal-favipiravir-para-combatir-el-hantavirus/",
-      "pubDate": "Mon, 18 May 2026 09:11:00 Z",
-      "desc": "El medicamento fue enviado el pasado viernes 15 a petición del Gobierno británico «para su uso en la prevención de la aparición de la enfermedad en personas que han estado en contacto con pacientes con hantavirus», detalló en un comunicado el Ministerio de Salud japonés.",
-      "tag": "analysis"
-    },
-    {
-      "title": "La advertencia del epidemiólogo López Acuña:",
-      "link": "https://www.antena3.com/noticias/salud/advertencia-epidemiologo-lopez-acuna-nueva-cepa-ebola-mas-contagiosa_202605186a0ad764dd62c3164d2df8a0.html",
-      "pubDate": "Mon, 18 May 2026 09:11:00 Z",
-      "desc": "El sábado 16 de mayo, la oficina del director general de la Organización Mundial de la Salud lanzó una declaración de \" emergencia de salud pública de importancia internacional \", tras el nuevo brote de ébola originado por el virus Bundibugyo , que afecta principalmente a la República Democrática del Congo y Uganda.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Egypte : aucun cas d’Ebola n’a été détecté",
-      "link": "https://fr.apanews.net/health/egypte-aucun-cas-debola-na-ete-detecte/",
-      "pubDate": "Mon, 18 May 2026 09:11:00 Z",
-      "desc": "Le ministère égyptien de la Santé a annoncé dimanche 17 mai qu’aucun cas de virus Ebola n’a été enregistré en Egypte et que le risque de propagation demeure faible, selon un communiqué officiel. Les risques d’importation de l’Ebola en Egypte restaient faibles, précisant que le virus Ebola ne se....",
-      "tag": "analysis"
-    },
-    {
-      "title": "RDC/Ebola : environ 350 cas et 91 décès probables signalés (ministre)",
-      "link": "http://french.china.org.cn/foreign/txt/2026-05/18/content_118500275.htm",
-      "pubDate": "Mon, 18 May 2026 09:06:00 Z",
-      "desc": "Environ 350 cas suspects d'Ebola et 91 décès probables ont été enregistrés en République démocratique du Congo (RDC), dans le cadre de l'épidémie en cours, a déclaré dimanche le ministre congolais de la Santé, Roger Kamba, à Bunia, chef-lieu de la province de l'Ituri. \"Nous avons 59 malades qui sont activement pris en charge actuellement.",
-      "tag": "cases"
-    },
-    {
-      "title": "What doctors fighting the Ebola outbreak in Africa are facing",
-      "link": "https://www.npr.org/2026/05/18/nx-s1-5824982/what-doctors-fighting-the-ebola-outbreak-in-africa-are-facing",
-      "pubDate": "Mon, 18 May 2026 09:05:00 Z",
-      "desc": "The World Health Organization has declared an outbreak of Ebola virus in Africa a global health emergency. NPR's A Martinez asks Brown University's Dr. Craig Spencer what doctors are facing.\n\nWhat doctors fighting the Ebola outbreak in Africa are facing\n\nThe World Health Organization has declared an....",
-      "tag": "analysis"
-    },
-    {
-      "title": "How Ebola Compares to Hantavirus as ‘Small Number’ of Americans Impacted in DRC",
-      "link": "https://www.newsweek.com/how-ebola-compares-to-hantavirus-as-small-number-of-americans-impacted-in-drc-11961711",
-      "pubDate": "Mon, 18 May 2026 09:05:00 Z",
-      "desc": "A “small number” of Americans are being withdrawn from the Democratic Republic of the Congo (DRC) and Uganda after exposure to an Ebola outbreak, U.S. health officials said, not long after the hantavirus outbreak aboard an Antarctic expedition cruise ship, which has left dozens of Americans under monitoring following possible exposure.",
-      "tag": "analysis"
-    },
-    {
-      "title": "WHO declares new Ebola outbreak in Africa a global health emergency",
-      "link": "https://www.npr.org/2026/05/18/nx-s1-5824998/who-declares-new-ebola-outbreak-in-africa-a-global-health-emergency",
-      "pubDate": "Mon, 18 May 2026 09:05:00 Z",
-      "desc": "An Ebola outbreak in Democratic Republic of Congo and Uganda has been declared a \"public health emergency of international concern\" by the World Health Organization.\n\nWHO declares new Ebola outbreak in Africa a global health....",
-      "tag": "pheic"
-    },
-    {
-      "title": "La OMS declara emergencia internacional el brote de ébola por virus Bundibugyo en RDC y Uganda",
-      "link": "https://gacetamedica.com/investigacion/oms-declara-emergencia-internacional-brote-ebola-virus-bundibugyo-rdc-uganda/",
-      "pubDate": "Mon, 18 May 2026 09:02:00 Z",
-      "desc": "La Organización Mundial de la Salud (OMS) ha declarado como emergencia de salud pública de importancia internacional (ESPII) el brote de enfermedad por virus del Ébola causado por la cepa Bundibugyo detectado en la República Democrática del Congo (RDC) y Uganda.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Nepal refuerza controles sanitarios ante ébola en África",
-      "link": "https://www.prensa-latina.cu/2026/05/18/nepal-refuerza-controles-sanitarios-ante-ebola-en-africa/",
-      "pubDate": "Mon, 18 May 2026 09:01:00 Z",
-      "desc": "Katmandú, 18 may (Prensa Latina) Nepal activó hoy estrictos protocolos de bioseguridad en el Aeropuerto Internacional de aquí tras la alerta internacional emitida por la Organización Mundial de la Salud (OMS) sobre la expansión del brote de ébola en la República Democrática del Congo.",
+      "title": "EE.UU. destina $13 millones para apoyar la respuesta al brote de ébola en RDC y Uganda",
+      "link": "https://lanoticiasv.com/ee-uu-destina-13-millones-para-apoyar-la-respuesta-al-brote-de-ebola-en-rdc-y-uganda/",
+      "pubDate": "Tue, 19 May 2026 14:13:00 Z",
+      "desc": "El director de la OMS declaró una emergencia de salud pública de preocupación internacional. REPÚBLICA DEMOCRATICA DEL CONGO.- Estados Unidos ha asignado 13 millones de dólares para apoyar la respuesta al brote de ébola en la República Democrática del Congo (RDC) y Uganda, según informó este lunes el Departamento de Estado.",
       "tag": "response"
     },
     {
-      "title": "Ebola en RDC : la MONUSCO réaffirme son soutien aux autorités sanitaires dans la riposte",
-      "link": "https://www.mediacongo.net/article-actualite-163756_ebola_en_rdc_la_monusco_reaffirme_son_soutien_aux_autorites_sanitaires_dans_la_riposte.html",
-      "pubDate": "Mon, 18 May 2026 09:00:00 Z",
-      "desc": "La Mission de l’Organisation des Nations Unies pour la stabilisation en République démocratique du Congo (MONUSCO) a renouvelé son engagement aux côtés des autorités congolaises dans la lutte contre la maladie à virus Ebola, alors que les efforts de riposte se poursuivent dans les zones affectées.",
+      "title": "Alarma por Brote de Ébola: Van Más de 100 Personas Fallecidas en El Congo y Uganda",
+      "link": "https://www.nmas.com.mx/noticieros/programas/despierta/videos/alarma-brote-ebola-van-mas-100-personas-fallecidas-el-congo-uganda/",
+      "pubDate": "Tue, 19 May 2026 14:12:00 Z",
+      "desc": "Tras el brote de Ébola en la República Democrática del Congo y Uganda, la OMS declaró una emergencia sanitaria internacional; la cepa no tiene vacuna ni tratamiento específico.",
       "tag": "analysis"
     },
     {
-      "title": "Épidémie d’Ebola en RDC : l’UNICEF appelle à renforcer l’engagement communautaire pour stopper la chaîne de transmission",
-      "link": "https://www.mediacongo.net/article-actualite-163758_epidemie_d_ebola_en_rdc_l_unicef_appelle_a_renforcer_l_engagement_communautaire_pour_stopper_la_chaine_de_transmission.html",
-      "pubDate": "Mon, 18 May 2026 09:00:00 Z",
-      "desc": "Lors d’une réunion de haut niveau convoquée par Africa CDC avec les autorités sanitaires, le directeur régional de l’UNICEF pour l’Afrique centrale et occidentale, Gilles Fagninou, a pris part aux échanges consacrés à l’épidémie d’Ebola liée au virus de Bundibugyo.",
+      "title": "Estados Unidos emite alerta máxima para no viajar a Sudán del Sur y Uganda por ébola",
+      "link": "https://www.excelsior.com.mx/internacional/estados-unidos-emite-alerta-maxima-para-no-viajar-sudan-sur-y-uganda-por-ebola",
+      "pubDate": "Tue, 19 May 2026 14:12:00 Z",
+      "desc": "El Departamento de Estado de Estados Unidos emitió el martes una advertencia contundente para sus ciudadanos: evitar viajar a la República Democrática del Congo (RDC), Sudán del Sur y Uganda debido al brote de ébola que afecta a la región. La alerta se fijó en el nivel más alto “Nivel 4: No viajar”....",
+      "tag": "response"
+    },
+    {
+      "title": "La Organización Mundial de la Salud informa sobre el ébola, hantavirus y crisis sanitarias",
+      "link": "https://www.telemundo.com/noticias/la-organizacion-mundial-de-la-salud-informa-sobre-el-ebola-hantavirus-y-crisis-sanitarias-tmvo5796716",
+      "pubDate": "Tue, 19 May 2026 14:11:00 Z",
+      "desc": "En Vivo La Organización Mundial de la Salud informa sobre el ébola, hantavirus y crisis sanitarias\n\nEl director general, Tedros Adhanom Ghebreyesus, participa en la Asamblea Mundial de la Salud en Ginebra, donde se espera que hable del brote de la cepa Andes en un crucero, el ébola y otras emergencias de salud pública.",
       "tag": "analysis"
+    },
+    {
+      "title": "Cuáles son los síntomas del ébola y qué hacer si lo tienes",
+      "link": "https://hoy.com.do/vivir/salud/son-sintomas-ebola-tienes_1087791.html",
+      "pubDate": "Tue, 19 May 2026 14:10:00 Z",
+      "desc": "El virus del ébola en la República Democrática del Congo (RDC), que ha obligado a la Organización Mundial de la salud (OMS) a declarar una emergencia sanitaria internacional tras dejar 131 muertes sospechosas y más de 500 casos sospechosos, según el Gobierno, plantea dos grandes inquietudes: ¿cuáles....",
+      "tag": "cases"
+    },
+    {
+      "title": "Ébola en la RD del Congo: la magnitud y la rapidez de la epidemia obligan a la OMS a dar la voz de alarma",
+      "link": "https://acento.com.do/rfi/ebola-en-la-rd-del-congo-la-magnitud-y-la-rapidez-de-la-epidemia-obligan-a-la-oms-a-dar-la-voz-de-alarma-9681212.html",
+      "pubDate": "Tue, 19 May 2026 14:10:00 Z",
+      "desc": "Con Jérémie Lanche, corresponsal de RFI en Ginebra, y AFP. El comité de emergencia se reúne este martes para precisar las recomendaciones que deben adoptarse frente a la cepa Bundibugyo, que actualmente causa estragos en la República Democrática del Congo (RDC). Y contra la cual no existe ningún tratamiento ni vacuna.",
+      "tag": "analysis"
+    },
+    {
+      "title": "WHO head ‘deeply concerned’ by scale of Ebola outbreak as deaths rise",
+      "link": "https://www.irishtimes.com/world/africa/2026/05/19/who-head-deeply-concerned-by-scale-of-ebola-outbreak-as-deaths-rise/",
+      "pubDate": "Tue, 19 May 2026 14:10:00 Z",
+      "desc": "(DRC). Dr Tedros Adhanom Ghebreyesus said there had been at least 500 suspected cases of Ebola and at least 130 suspected deaths in DRC since the new outbreak began.\n\nThirty cases had been confirmed in DRC’s north-eastern province of Ituri, and one death and one case had been confirmed in Kampala, Uganda, he added.",
+      "tag": "cases"
+    },
+    {
+      "title": "VOTE: Do you have confidence in the CDC to contain another pandemic in the US? If there is another pandemic in the U.S., will you have confidence in the CDC to contain it?",
+      "link": "https://bakersfieldnow.com/question/vote-if-there-is-another-pandemic-in-the-us-will-you-have-the-confidence-in-the-cdc-to-contain-it-question-of-the-day-ebola-outbreak-congo-africa-health-officials",
+      "pubDate": "Tue, 19 May 2026 14:09:00 Z",
+      "desc": "FILE - A sign marks the entrance to the U.S. Centers for Disease Control and Prevention headquarters Wednesday, Aug. 27, 2025, in Atlanta. (AP Photo/Brynn Anderson, File)\n\nIf there is another pandemic in the U.S., will you have confidence in the CDC to contain it? Vote in the poll above or An....",
+      "tag": "analysis"
+    },
+    {
+      "title": "8:09 Confirman más de 500 casos sospechosos de ébola en Congo",
+      "link": "https://guerrero.quadratin.com.mx/confirman-mas-de-500-casos-sospechosos-de-ebola-en-congo/",
+      "pubDate": "Tue, 19 May 2026 14:09:00 Z",
+      "desc": "TRENTON, Nueva Jersey, EU, 19 de mayo de 2026.- Las autoridades sanitarias de la República Democrática del Congo reportaron un aumento acelerado de contagios y muertes relacionadas con un nuevo brote de ébola en el este del país, mientras la Organización Mundial de la Salud (OMS) advirtió sobre el riesgo de una expansión regional de la epidemia.",
+      "tag": "cases"
+    },
+    {
+      "title": "OMS alerta por acelerado avance del ébola en África y activa medidas de emergencia",
+      "link": "https://www.maray.cl/internacional/19/05/2026/oms-alerta-por-acelerado-avance-del-ebola-en-africa-y-activa-medidas-de-emergencia/",
+      "pubDate": "Tue, 19 May 2026 14:09:00 Z",
+      "desc": "La rápida expansión de un brote de ébola en la República Democrática del Congo encendió las alertas internacionales, luego que la Organización Mundial de la Salud advirtiera por el aumento sostenido de contagios y fallecimientos asociados a la enfermedad.",
+      "tag": "response"
+    },
+    {
+      "title": "Ebola : Washington mobilise 13 millions $ pour la riposte en RDC et en Ouganda",
+      "link": "https://7sur7.cd/index.php/2026/05/19/ebola-washington-mobilise-13-millions-pour-la-riposte-en-rdc-et-en-ouganda",
+      "pubDate": "Tue, 19 May 2026 14:08:00 Z",
+      "desc": "Face à l’épidémie d’Ebola qui sévit dans l’Est de la République démocratique du Congo et en Ouganda, les États-Unis ont annoncé l’activation d’un dispositif d’intervention d’urgence ainsi qu’une première enveloppe de 13 millions de dollars américains destinée à soutenir la riposte sanitaire et humanitaire.",
+      "tag": "analysis"
+    },
+    {
+      "title": "México emite aviso preventivo de viaje tras brote de ébola declarado por la OMS Hace 2 minutos Según las autoridades mexicanas, el riesgo se mantiene en 'nivel bajo'",
+      "link": "https://www.zocalo.com.mx/mexico-emite-aviso-preventivo-de-viaje-tras-brote-de-ebola-declarado-por-la-oms/",
+      "pubDate": "Tue, 19 May 2026 14:07:00 Z",
+      "desc": "Nacional México emite aviso preventivo de viaje tras brote de ébola declarado por la OMS.\n\nSegún las autoridades mexicanas, el riesgo se mantiene en 'nivel bajo'\n\nCiudad de México.- La Secretaría de Salud de México emitió este lunes un aviso preventivo para las personas que viajen desde la República....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Épidémie d'Ebola en RDC : \"Il faut qu'on rattrape le temps perdu\" alerte Xavier Lescure, infectiologue à l’hôpital Bichat Le médecin rappelle que ce sont \"les premières semaines de la gestion d'une épidémie qui impactent énormément sur la suite.\"",
+      "link": "https://www.franceinfo.fr/sante/epidemie-d-ebola-en-rdc-il-faut-qu-on-rattrape-le-temps-perdu-alerte-xavier-lescure-infectiologue-a-l-hopital-bichat_8014169.html",
+      "pubDate": "Tue, 19 May 2026 14:07:00 Z",
+      "desc": "\"On a tout pour craindre un retard à l'allumage en termes de détection\" des personnes touchées par l'épidémie d'Ebola, alerte mardi 19 mai sur franceinfo Xavier Lescure, infectiologue à l'hôpital Bichat, à Paris. L'organisation mondiale de la santé a alerté, mardi, sur \"l'ampleur et la rapidité\" de....",
+      "tag": "response"
+    },
+    {
+      "title": "Flawed tests and funerals allowed Ebola to spread undetected, sources say | Reuters",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021567444",
+      "pubDate": "Tue, 19 May 2026 14:07:00 Z",
+      "desc": "First known case died April 24, outbreak declared May 15\nLab used testing cartridges for wrong Ebola strain\nFuneral gathering caused cases to 'explode', official says\nWHO laments 'critical four-week detection gap'\nKINSHASA, May 18 (Reuters) - By the time health officials confirmed new Ebola....",
+      "tag": "cases"
+    },
+    {
+      "title": "Ebola and hantavirus have Africa talking ‘health sovereignty’ as donor support fades",
+      "link": "https://clubofmozambique.com/news/ebola-and-hantavirus-have-africa-talking-health-sovereignty-as-donor-support-fades/",
+      "pubDate": "Tue, 19 May 2026 14:06:00 Z",
+      "desc": "FILE – Health workers in protective gear evacuate patients from the MV Hondius cruise ship into an ambulance at a port in Praia, Cape Verde, Wednesday, May 6, 2026. [File photo: AP/Misper Apawu] A new and deadly Ebola outbreak in Congo and Uganda is the latest health emergency forcing African....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Concern over deadly Ebola outbreak An American doctor tested positive for Ebola on Sunday while working in the Democratic Republic of Congo. On Tuesday, the World Health Organization will hold an emergency meeting as the outbreak grows and more than 130 people have died. Holly Williams reports.",
+      "link": "https://www.cbsnews.com/video/who-holding-emergency-meeting-as-concern-grows-over-deadly-ebola-outbreak/",
+      "pubDate": "Tue, 19 May 2026 14:06:00 Z",
+      "desc": "WHO holding emergency meeting as concern grows over deadly Ebola outbreak An American doctor tested positive for Ebola on Sunday while working in the Democratic Republic of Congo. On Tuesday, the World Health Organization will hold an emergency meeting as the outbreak grows and more than 130 people have died.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Épidémie en RDC: L’OMS redoute une longue crise sanitaire face à la flambée d’Ebola",
+      "link": "https://www.24heures.ch/ebola-loms-craint-une-epidemie-de-longue-duree-en-rdc-351633335604",
+      "pubDate": "Tue, 19 May 2026 14:05:00 Z",
+      "desc": "L’Organisation mondiale de la santé (OMS) a alerté mardi sur «l’ampleur et la rapidité» de l’épidémie d’ Ebola , déjà suspectée d’avoir fait plus de 130 morts, qui se propage dans l’est de la République démocratique du Congo (\n\n) et qui pourrait durer.",
+      "tag": "response"
+    },
+    {
+      "title": "Minister Boekhoudt Participates in International Ebola Discussions During World Health Assembly",
+      "link": "https://www.curacaochronicle.com/post/unknown/minister-boekhoudt-participates-in-international-ebola-discussions-during-world-health-assembly",
+      "pubDate": "Tue, 19 May 2026 14:04:00 Z",
+      "desc": "GENEVA Tyron Boekhoudt participated Sunday as part of the Dutch Kingdom delegation in a high-level international discussion on the current Ebola outbreak during the annual World Health Organization (WHO) World Health Assembly in Geneva. The meeting, organized by the Dutch ambassador, brought....",
+      "tag": "analysis"
+    },
+    {
+      "title": "5.023 detenidos durante 15 días de toque de queda en Ecuador",
+      "link": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/5-023-detenidos-toque-de-queda-ecuador",
+      "pubDate": "Tue, 19 May 2026 14:03:00 Z",
+      "desc": "La Policía ejecutó 378 allanamientos y decomisó armas, droga y combustible en operativos desarrollados en varias provincias del país.\n\nLos operativos policiales se desplegaron en provincias y cantones considerados prioritarios.\n\nEl balance de los operativos ejecutados durante los dejó 5.",
+      "tag": "analysis"
+    },
+    {
+      "title": "19 May 2026 SPEECH BY MR ONG YE KUNG, MINISTER FOR HEALTH AND COORDINATING MINISTER FOR SOCIAL POLICIES, AT THE 79TH WORLD HEALTH ASSEMBLY SIDE EVENT “FROM OUTBREAK RESPONSE TO SYSTEM READINESS: BUILDING THE GLOBAL AND REGIONAL CAPABILITIES TO STOP PANDEMIC Speeches",
+      "link": "https://www.moh.gov.sg/newsroom/speech-by-mr-ong-ye-kung--minister-for-health-and--coordinating-minister-for-social-policies--at-the-79th--world-health-assembly-side-event--from-outbreak--response-to-system-readiness--building-the-global-and--regional-capabilities-to-stop-pandemic-/",
+      "pubDate": "Tue, 19 May 2026 14:02:00 Z",
+      "desc": "Honorary Professor Jane Halton, Chairman of Coalition for Epidemic Preparedness Innovations (CEPI) Board. Dr Richard Hatchett, Chief Executive Officer of CEPI. Excellencies, ladies and gentlemen. 1. The short answer is Singapore is still learning. There is one thing we know – is that there is really....",
+      "tag": "response"
+    },
+    {
+      "title": "La OMS alerta por el rápido avance del ébola en Congo: brote deja 131 muertos y más de 500 casos sospechosos",
+      "link": "https://larepublica.pe/mundo/2026/05/19/la-oms-alerta-por-el-rapido-avance-del-ebola-en-congo-brote-deja-131-muertos-y-mas-de-500-casos-sospechosos-1654121",
+      "pubDate": "Tue, 19 May 2026 14:02:00 Z",
+      "desc": "El causante de la epidemia es el virus Bundibugyo, una cepa del ébola, la cual no cuenta con vacunas ni tratamientos aprobados. Médicos Sin Fronteras señaló que se trata de solo el tercer brote conocido con esa variante, tras los episodios en Uganda entre 2007 y 2008 y en Congo en 2012. Es también el decimoséptimo estallido en el país desde 1976.",
+      "tag": "cases"
+    },
+    {
+      "title": "Health workers race to contain Congo's fast-spreading Ebola outbreak",
+      "link": "https://www.idahostatesman.com/news/nation-world/world/article315806393.html#storylink=mainstage_card",
+      "pubDate": "Tue, 19 May 2026 14:02:00 Z",
+      "desc": "BUNIA, Democratic Republic of Congo - Medical personnel were rushing on Monday to the frontlines of a new Ebola outbreak in eastern Democratic Republic of Congo, where an American missionary was among those who tested positive for the often fatal viral disease.",
+      "tag": "analysis"
+    },
+    {
+      "title": "eNCA News Bite | Frank Chikane, Gauteng Gambling Board and Arsenal title race | 19 May 2026",
+      "link": "https://www.enca.com/enca-news-bite-frank-chikane-gauteng-gambling-board-and-arsenal-title-race-19-may-2026",
+      "pubDate": "Tue, 19 May 2026 14:02:00 Z",
+      "desc": "has reflected on the compromises that shaped South Africa’s transition to democracy. He appeared before the TRC Cases inquiry, which is examining the alleged political suppression of apartheid-era investigations and prosecutions. The City of Johannesburg is intensifying its CBD crackdown, with Mayor....",
+      "tag": "cases"
+    },
+    {
+      "title": "Aviso Importante por Ébola: Esto Dijeron las Autoridades Mexicanas Sobre la Enfermedad",
+      "link": "https://www.nmas.com.mx/salud/aviso-importante-por-ebola-que-dijo-secretaria-de-salud-mexico-alerta-enfermedad/",
+      "pubDate": "Tue, 19 May 2026 14:01:00 Z",
+      "desc": "Durante la Mañanera de hoy, 19 de mayo de 2026, de la presidenta Claudia Sheinbaum, dieron un aviso sobre el virus del ébola, que ha causado alerta a nivel internacional. \n\nDe acuerdo con David Kershenobich Stalnikowitz, secretario de Salud, el ébola se contagia por medio de diferentes secreciones;....",
+      "tag": "response"
+    },
+    {
+      "title": "Así es la cepa de Bundibugyo, la nueva variante de ébola que preocupa a la OMS",
+      "link": "https://www.adn40.mx/salud/2026-05-19/asi-es-la-cepa-de-bundibugyo-la-nueva-variante-de-ebola-que-preocupa-a-la-oms/",
+      "pubDate": "Tue, 19 May 2026 14:00:00 Z",
+      "desc": "La Organización Mundial de la Salud (OMS) decidió declarar emergencia de salud pública internacional tras el radical aumento de contagios de ébola , cuya nueva cepa ya fue revelada: Se trata de Bundibugyo , que requiere prevención estricta. El director general de la OMS, Tedros Adhanom , expresó su....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ouganda : l’état d’épidémie déclaré face à Ebola",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260519-ouganda-l-%C3%A9tat-d-%C3%A9pid%C3%A9mie-d%C3%A9clar%C3%A9-face-%C3%A0-ebola",
+      "pubDate": "Tue, 19 May 2026 14:00:00 Z",
+      "desc": "Une extension de votre navigateur semble bloquer le chargement du lecteur vidéo. Pour pouvoir regarder ce contenu, vous devez la désactiver ou la désinstaller. Réessayer\n\nEn Ouganda, un premier décès d’Ebola a été confirmé à Kampala, la capitale. Un cas importé, un Congolais de 59 ans. Les contacts ont immédiatement été placés à l'isolement.",
+      "tag": "cases"
+    },
+    {
+      "title": "Estados Unidos endurece controles por brote de ébola y suspende visas tras alerta internacional",
+      "link": "https://www.radioagricultura.cl/noticias/internacional/estados-unidos-endurece-controles-por-brote-de-ebola-y-suspende-visas-tras-alerta-internacional_20260519/",
+      "pubDate": "Tue, 19 May 2026 13:59:00 Z",
+      "desc": "Estados Unidos anunció este lunes una serie de medidas extraordinarias para evitar la propagación del ébola luego que la Organización Mundial de la Salud (OMS) declarara el brote registrado en África como una emergencia sanitaria internacional. Las autoridades estadounidenses confirmaron que....",
+      "tag": "response"
+    },
+    {
+      "title": "What do we know about the rare Ebola virus strain?",
+      "link": "https://bdnews24.com/health/782377eae149",
+      "pubDate": "Tue, 19 May 2026 13:59:00 Z",
+      "desc": "A rare strain of Ebola has prompted the World Health Organization to declare a public health emergency of international concern. Most of the cases have occurred in the Democratic Republic of Congo, with more than 100 suspected deaths and nearly 400 suspected infections as of Monday.",
+      "tag": "pheic"
+    },
+    {
+      "title": "La OMS declara la emergencia global por una extraña cepa de ébola y Sanidad considera que el riesgo es “muy bajo”.",
+      "link": "https://www.vozpopuli.com/sanitatem/la-oms-declara-la-emergencia-global-por-una-extrana-cepa-de-ebola-y-sanidad-considera-que-el-riesgo-es-muy-bajo-.html",
+      "pubDate": "Tue, 19 May 2026 13:58:00 Z",
+      "desc": "Si bien aún no se ha declarado un riesgo pandémico, desde la OMS han catalogado el brote como “extraordinario” . La Organización considera que las condiciones en las que se ha dado este brote operan fuera de lo habitual y han avisado de que “podría ser mucho mayor de lo que actualmente se está detectando y notificando.",
+      "tag": "analysis"
+    },
+    {
+      "title": "What to Know About Ebola Outbreak After WHO Sounds Global Alarm",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-18/congo-uganda-ebola-outbreak-who-declares-global-health-emergency-what-to-know?srnd=homepage-europe",
+      "pubDate": "Tue, 19 May 2026 13:57:00 Z",
+      "desc": "Ebola is one of the deadliest diseases on Earth. With a fatality rate as high as 90%, it’s among a handful of illnesses so dangerous that governments consider them threats to national security. A new outbreak in northeastern Democratic Republic of Congo, which has spread to neighboring Uganda, has....",
+      "tag": "analysis"
+    },
+    {
+      "title": "OMS reconoce que brote de ébola sin vacuna ni tratamiento causa alarma global tras sumar 130 muertes",
+      "link": "https://www.extra.ec/noticia/buena-vida/brote-ebola-vacuna-tratamiento-causa-alarma-global-sumar-130-muertes-154004.html",
+      "pubDate": "Tue, 19 May 2026 13:57:00 Z",
+      "desc": "El director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, reconoció este 19 de mayo que la magnitud y la rapidez con la que avanza el actual brote de ébola genera alarma en la comunidad internacional. Los registros oficiales computan más de 500 casos sospechosos y....",
+      "tag": "cases"
     }
   ]
 };
