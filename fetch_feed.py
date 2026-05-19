@@ -4,7 +4,7 @@ Fetches the WHO EIOS RSS feed and writes items to data/feed.json.
 
 Schedule with Windows Task Scheduler:
   Action:  python "C:\Users\ADRIAN.CALVO\Webapps\ebola-outbreak-map\fetch_feed.py"
-  Trigger: Every 15-30 minutes
+  Trigger: Every 3 hours
 
 Or run manually:  python fetch_feed.py
 """
