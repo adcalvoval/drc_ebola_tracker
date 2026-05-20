@@ -218,6 +218,10 @@ def compute_stats(items):
                 sources[field] = f'w{w}: {src}'
 
     uga_cases = extract_uga_cases(items)
+    uga_mentioned = any(
+        re.search(r'uganda|ouganda', item['title'] + ' ' + item.get('desc', ''), re.IGNORECASE)
+        for item in items
+    )
 
     # Source label for UI
     weight_label = {3: 'WHO / OMS', 2: 'Ministry of Health (DRC)', 1: 'Africa CDC / national CDC', 0: 'media reports'}
@@ -227,9 +231,15 @@ def compute_stats(items):
             winning_weight = w
             break
 
+    uga = {}
+    if uga_cases:
+        uga['cases'] = uga_cases
+    if uga_mentioned:
+        uga['mentioned'] = True
+
     return {
         'drc': drc,
-        'uga': {'cases': uga_cases} if uga_cases else {},
+        'uga': uga,
         'whoAlert': 'PHEIC' if has_pheic else None,
         'sourceLabel': weight_label[winning_weight],
     }

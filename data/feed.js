@@ -1,24 +1,61 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 20 May 2026 07:28:39 Z",
-  "fetchedAt": "2026-05-20T07:28:40Z",
+  "lastBuildDate": "Wed, 20 May 2026 07:33:15 Z",
+  "fetchedAt": "2026-05-20T07:33:15Z",
   "itemCount": 50,
   "stats": {
     "drc": {
-      "deaths": 134,
+      "deaths": 136,
       "suspected": 513
     },
-    "uga": {},
+    "uga": {
+      "mentioned": true
+    },
     "whoAlert": "PHEIC",
     "sourceLabel": "WHO / OMS"
   },
   "items": [
     {
-      "title": "NCAA issues Ebola protocol for airlines, airport operators",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021571648",
-      "pubDate": "Wed, 20 May 2026 07:27:00 Z",
-      "desc": "By Dickson Omobola\nFollowing the outbreak of Ebola Virus Disease, EVD, in parts of the Democratic Republic of Congo and Uganda, Nigerian Civil Aviation Authority, NCAA, has directed airlines and airport operators to deepen public health surveillance measures.",
+      "title": "La República Democrática del Congo informa sobre más casos de Ébola, y la OMS expresa preocupación.",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021571696",
+      "pubDate": "Wed, 20 May 2026 07:32:00 Z",
+      "desc": "Se han reportado al menos 131 muertes y más de 500 casos sospechosos en el último brote de ébola en el este de la República Democrática del Congo. La respuesta tardía y la detección retrasada del virus han complicado los esfuerzos para contener su propagación.",
+      "tag": "cases"
+    },
+    {
+      "title": "What is the Bundibugyo Virus Involved in the Ebola Outbreak?",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021571713",
+      "pubDate": "Wed, 20 May 2026 07:32:00 Z",
+      "desc": "Here’s what to know about the symptoms and spread of the virus, which has sickened people in the Democratic Republic of Congo and Uganda.\nGlobal health officials are raising alarms about an outbreak of a rare species of Ebola virus spreading in the Democratic Republic of Congo and Uganda.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Peter Stafford es un doctor estadounidense que contrajo ébola en África.",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021571707",
+      "pubDate": "Wed, 20 May 2026 07:32:00 Z",
+      "desc": "La rápida propagación del brote de Ébola en África Central ha generado alarmas internacionales y ha llevado a Estados Unidos a reforzar los controles de salud y las restricciones de inmigración después de que se confirmara que un ciudadano estadounidense contrajo el virus en la República Democrática del Congo (RDC).",
+      "tag": "analysis"
+    },
+    {
+      "title": "Flambée d’Ebola en RDC : la CEDEAO met les pays ouest-africains en état de vigilance",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021569730",
+      "pubDate": "Wed, 20 May 2026 07:32:00 Z",
+      "desc": "La Communauté économique des États de l’Afrique de l’Ouest (CEDEAO) a lancé une alerte à l’endroit de ses États membres après la confirmation d’une 17e flambée d’Ebola en République démocratique du Congo (RDC), avec déjà des cas signalés en...",
       "tag": "response"
+    },
+    {
+      "title": "WHO concerned over 'scale and speed' of Ebola outbreak in Africa",
+      "link": "https://news.cgtn.com/news/2026-05-20/WHO-concerned-over-scale-and-speed-of-Ebola-outbreak-in-Africa-1Nix8wzC1jy/p.html",
+      "pubDate": "Wed, 20 May 2026 07:31:00 Z",
+      "desc": "The World Health Organization (WHO) has warned of rising Ebola cases as an outbreak spreads beyond the Democratic Republic of Congo (DRC). WHO chief Tedros Adhanom Ghebreyesus said the DRC's Ituri Province had confirmed 30 Ebola cases, while Uganda reported two infections in Kampala, including one death linked to travelers from the DRC.",
+      "tag": "cases"
+    },
+    {
+      "title": "WHO emergency supplies arrive in Bunia as Ebola death toll reaches 136",
+      "link": "https://www.africanews.com/2026/05/20/who-emergency-supplies-arrive-in-bunia-as-ebola-death-toll-reaches-136/",
+      "pubDate": "Wed, 20 May 2026 07:30:00 Z",
+      "desc": "The World Health Organization has stepped up emergency operations in eastern Democratic Republic of Congo after the country recorded 136 deaths and about 543 suspected Ebola cases, according to Health Minister Samuel Roger Kamba. Medical supplies and international experts are arriving in Bunia as....",
+      "tag": "cases"
     },
     {
       "title": "Baréin suspende entrada de pasajeros de Sudán del Sur, RDC y Uganda por el brote de ébola; RD CONGO ÉBOLA",
@@ -28,13 +65,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "L'OMS déclare une situation d'urgence mondiale en raison de l'épidémie d'Ebola au Congo et en Ouganda",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021571685",
-      "pubDate": "Wed, 20 May 2026 07:27:00 Z",
-      "desc": "L'Organisation mondiale de la santé a déclaré que l'épidémie d'Ebola en République démocratique du Congo et en Ouganda constituait une urgence de santé publique de portée internationale, son niveau d'alerte le plus élevé en vertu des règles sanitaires mondiales.",
-      "tag": "pheic"
-    },
-    {
       "title": "At least 131 dead in Ebola outbreak in DR Congo, official says - BBC",
       "link": "https://www.bbc.com/news/articles/cq6pz60p996o",
       "pubDate": "Wed, 20 May 2026 07:27:00 Z",
@@ -42,11 +72,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "KCCA steps up Ebola surveillance ahead of city leadership transition",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021571688",
+      "title": "NCAA issues Ebola protocol for airlines, airport operators",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021571648",
       "pubDate": "Wed, 20 May 2026 07:27:00 Z",
-      "desc": "Kampala Capital City Authority (KCCA) has announced strict health and safety measures ahead of Wednesday’s swearing-in ceremony for the newly elected Lord Mayor and councillors following the recent Ebola outbreak confirmed in Kampala.\nAddressing journalists on Monday, KCCA Deputy Executive Director....",
-      "tag": "cases"
+      "desc": "By Dickson Omobola\nFollowing the outbreak of Ebola Virus Disease, EVD, in parts of the Democratic Republic of Congo and Uganda, Nigerian Civil Aviation Authority, NCAA, has directed airlines and airport operators to deepen public health surveillance measures.",
+      "tag": "response"
+    },
+    {
+      "title": "L'OMS déclare une situation d'urgence mondiale en raison de l'épidémie d'Ebola au Congo et en Ouganda",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021571685",
+      "pubDate": "Wed, 20 May 2026 07:27:00 Z",
+      "desc": "L'Organisation mondiale de la santé a déclaré que l'épidémie d'Ebola en République démocratique du Congo et en Ouganda constituait une urgence de santé publique de portée internationale, son niveau d'alerte le plus élevé en vertu des règles sanitaires mondiales.",
+      "tag": "pheic"
     },
     {
       "title": "Es preocupante.",
@@ -61,6 +98,13 @@ window.FEED_DATA = {
       "pubDate": "Wed, 20 May 2026 07:27:00 Z",
       "desc": "El director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, dijo ayer que la “magnitud y rapidez” con las que se está propagando el brote de ébola en la República Democrática del Congo (RDC) y afecta a varios países circundantes es alarmante.",
       "tag": "analysis"
+    },
+    {
+      "title": "KCCA steps up Ebola surveillance ahead of city leadership transition",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021571688",
+      "pubDate": "Wed, 20 May 2026 07:27:00 Z",
+      "desc": "Kampala Capital City Authority (KCCA) has announced strict health and safety measures ahead of Wednesday’s swearing-in ceremony for the newly elected Lord Mayor and councillors following the recent Ebola outbreak confirmed in Kampala.\nAddressing journalists on Monday, KCCA Deputy Executive Director....",
+      "tag": "cases"
     },
     {
       "title": "Fiscal interino blinda a Trump y a su familia “para siempre”",
@@ -231,6 +275,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "García reivindica en la OMS una \"salud global basada en la ciencia\"",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021569627",
+      "pubDate": "Wed, 20 May 2026 06:52:00 Z",
+      "desc": "Mónica García ha vuelto a defender la universalidad de los sistemas sanitarios, esta vez en la 79ª Asamblea Mundial de la Salud de la Organización Mundial de la Salud (OMS). Así, la ministra de Sanidad ha utilizado como ejemplo la reciente crisis del hantavirus. “No preguntamos de dónde venían esos pasajeros antes de atenderles.",
+      "tag": "analysis"
+    },
+    {
       "title": "Un nuevo brote de ébola podría ser el peor en una década Los médicos saben cómo responder. Pero los recortes en la ayuda, la guerra y la falta de una vacuna lo dificultan",
       "link": "https://www.infobae.com/economist/2026/05/20/un-nuevo-brote-de-ebola-podria-ser-el-peor-en-una-decada/",
       "pubDate": "Wed, 20 May 2026 06:52:00 Z",
@@ -242,13 +293,6 @@ window.FEED_DATA = {
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021571374",
       "pubDate": "Wed, 20 May 2026 06:52:00 Z",
       "desc": "The American doctor who contracted Ebola in Democratic Republic of Congo during an outbreak, was working with a Jenkintown nonprofit, according to the group.\nDr. Peter Stafford is a medical missionary in DRC with Serge, an international Christian missions organization, the nonprofit said in a May 18 press release.",
-      "tag": "analysis"
-    },
-    {
-      "title": "García reivindica en la OMS una \"salud global basada en la ciencia\"",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021569627",
-      "pubDate": "Wed, 20 May 2026 06:52:00 Z",
-      "desc": "Mónica García ha vuelto a defender la universalidad de los sistemas sanitarios, esta vez en la 79ª Asamblea Mundial de la Salud de la Organización Mundial de la Salud (OMS). Así, la ministra de Sanidad ha utilizado como ejemplo la reciente crisis del hantavirus. “No preguntamos de dónde venían esos pasajeros antes de atenderles.",
       "tag": "analysis"
     },
     {
@@ -308,13 +352,6 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Ébola ya mató a 131 en el Congo y la vacuna saldría en dos meses",
-      "link": "https://lanoticia.com.pe/ebola-ya-mato-a-131-en-el-congo-y-la-vacuna-saldria-en-dos-meses/",
-      "pubDate": "Wed, 20 May 2026 06:43:00 Z",
-      "desc": "KINSHASA. La rápida propagación en la República Democrática del Congo (RDC) de una cepa de ébola para la cual no existen vacunas ni tratamientos aprobados genera creciente preocupación internacional La Organización Mundial de la Salud (OMS) declaró el brote emergencia sanitaria global y anunció que....",
-      "tag": "analysis"
-    },
-    {
       "title": "Top 5 Stories Of The Day | WHO Raises Alarm Over Fast-Spreading Ebola Outbreak in Congo",
       "link": "https://ynaija.com/top-5-stories-of-the-day-who-raises-alarm-over-fast-spreading-ebola-outbreak-in-congo/",
       "pubDate": "Wed, 20 May 2026 06:43:00 Z",
@@ -322,46 +359,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "‘World Not Becoming Safer’: Why Ebola, Hantavirus And Other Outbreaks Are Spreading Faster",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021571261",
-      "pubDate": "Wed, 20 May 2026 06:42:00 Z",
-      "desc": "The world is becoming increasingly vulnerable to infectious disease outbreaks, with illnesses such as Ebola, mpox and hantavirus spreading faster and becoming harder to contain amid climate change, conflict, weakened health systems and growing distrust in global cooperation.",
+      "title": "Ébola ya mató a 131 en el Congo y la vacuna saldría en dos meses",
+      "link": "https://lanoticia.com.pe/ebola-ya-mato-a-131-en-el-congo-y-la-vacuna-saldria-en-dos-meses/",
+      "pubDate": "Wed, 20 May 2026 06:43:00 Z",
+      "desc": "KINSHASA. La rápida propagación en la República Democrática del Congo (RDC) de una cepa de ébola para la cual no existen vacunas ni tratamientos aprobados genera creciente preocupación internacional La Organización Mundial de la Salud (OMS) declaró el brote emergencia sanitaria global y anunció que....",
       "tag": "analysis"
-    },
-    {
-      "title": "La OMS declara emergencia internacional por Ébola.",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021571282",
-      "pubDate": "Wed, 20 May 2026 06:42:00 Z",
-      "desc": "Se declaró una alerta de salud pública debido a un brote en la República del Congo y Uganda, considerado una emergencia de salud pública de preocupación internacional por más de 300 casos sospechosos y 88 muertes reportadas. La Organización Mundial de la Salud emitió recomendaciones para combatir el....",
-      "tag": "cases"
-    },
-    {
-      "title": "Una extraña enfermedad ha cobrado docenas de vidas y ha puesto al mundo en alerta.",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021571265",
-      "pubDate": "Wed, 20 May 2026 06:42:00 Z",
-      "desc": "Se enfrenta un nuevo brote de Ébola en la República Democrática del Congo, causado por una variante llamada Bundibugyo, sin vacuna ni tratamiento específico. La propagación del virus más allá de la región inicial ha generado alertas internacionales, con casos reportados en países vecinos.",
-      "tag": "cases"
-    },
-    {
-      "title": "Umunyamerika wanduriye Ebola muri RDC yagejejwe mu Budage",
-      "link": "https://umuryango.rw/amakuru/article/umunyamerika-wanduriye-ebola-muri-rdc-yagejejwe-mu-budage",
-      "pubDate": "Wed, 20 May 2026 06:40:00 Z",
-      "desc": "Umuturage wa Leta Zunze Ubumwe za Amerika wanduye Ebola ubwo yari muri Repubulika Iharanira Demokarasi ya Congo, yagejejwe mu Budage aho agiye kuvurirwa.\n\nDr. Peter Stafford usanzwe ari umuganga ukorera mu bitaro bya Nyankunde mu mujyi wa Bunia, Intara ya Ituri, kuva mu 2023, yagejejwe mu Budage mu rukerera rwo kuri uyu wa Gatatu.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola en RDC : Africa CDC annonce un appui d'1 million $",
-      "link": "https://7sur7.cd/2026/05/19/ebola-en-rdc-africa-cdc-annonce-un-appui-d1-million",
-      "pubDate": "Wed, 20 May 2026 06:40:00 Z",
-      "desc": "Le Centre africain de contrôle et de prévention des maladies (Africa CDC) va mettre à la disposition du gouvernement congolais un million de dollars américains pour appuyer le déploiement des équipes sur le terrain en vue d'assurer la riposte à la maladie à virus Ebola.",
-      "tag": "analysis"
-    },
-    {
-      "title": "La OMS expresa preocupación por el rápido avance del brote de Ébola; van 134 muertes",
-      "link": "https://delfino.cr/2026/05/la-oms-expresa-preocupacion-por-el-rapido-avance-del-brote-de-ebola-van-134-muertes",
-      "pubDate": "Wed, 20 May 2026 06:39:00 Z",
-      "desc": "— La Organización Mundial de la Salud (OMS) expresó su preocupación por la “magnitud y la rapidez” de un brote de ébola causado por la variante Bundibugyo en el este de la República Democrática del Congo , donde las autoridades reportaron 134 muertes sospechosas y más de 500 posibles casos.",
-      "tag": "cases"
     }
   ]
 };
