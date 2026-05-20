@@ -66,19 +66,19 @@ def classify(title, description):
 
 
 def official_weight(text):
-    """Score source authority. 3=MoH direct, 2=WHO/OMS, 1=Africa CDC/national CDC, 0=media."""
+    """Score source authority. 3=WHO/OMS, 2=MoH direct, 1=Africa CDC/national CDC, 0=media."""
     t = text.lower()
+    if any(x in t for x in [
+        'world health organization', 'organisation mondiale de la santé',
+        'organización mundial de la salud', 'who declared', 'who has declared',
+        'oms a déclaré', 'oms déclare', 'tedros', 'who said', 'who published',
+    ]):
+        return 3
     if any(x in t for x in [
         'ministre', 'minister of health', 'ministry of health',
         'ministère de la santé', 'ministerio de salud',
         'minister congolais', 'kamba', 'roger kamba',
         'minister ugandais', 'ugandan health minister',
-    ]):
-        return 3
-    if any(x in t for x in [
-        'world health organization', 'organisation mondiale de la santé',
-        'organización mundial de la salud', 'who declared', 'who has declared',
-        'oms a déclaré', 'oms déclare', 'tedros', 'who said', 'who published',
     ]):
         return 2
     if any(x in t for x in [
@@ -194,7 +194,7 @@ def extract_uga_cases(items):
 
 
 def compute_stats(items):
-    """Build the most authoritative epi summary, preferring MoH > WHO > CDC > media."""
+    """Build the most authoritative epi summary, preferring WHO > MoH > CDC > media."""
     # Collect {weight: {field: (value, source_title)}}
     by_weight = {3: {}, 2: {}, 1: {}, 0: {}}
     has_pheic = any(i['tag'] == 'pheic' for i in items)
@@ -220,7 +220,7 @@ def compute_stats(items):
     uga_cases = extract_uga_cases(items)
 
     # Source label for UI
-    weight_label = {3: 'Ministry of Health', 2: 'WHO / OMS', 1: 'Africa CDC / national CDC', 0: 'media reports'}
+    weight_label = {3: 'WHO / OMS', 2: 'Ministry of Health (DRC)', 1: 'Africa CDC / national CDC', 0: 'media reports'}
     winning_weight = 0
     for w in (3, 2, 1, 0):
         if any(field in by_weight[w] for field in ('deaths', 'suspected')):

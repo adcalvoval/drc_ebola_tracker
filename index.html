@@ -308,8 +308,8 @@
       <span class="feed-count">100+ articles</span>
     </div>
     <div class="news-scroll" id="newsScroll"></div>
-    <div class="disclaimer">
-      <strong>Data note:</strong> Statistics extracted from WHO EIOS news aggregation (18 May 2026).
+    <div class="disclaimer" id="disclaimer">
+      <strong>Data note:</strong> Statistics extracted from WHO EIOS news aggregation.
       Province boundaries: geoBoundaries / OCHA COD-AB.
       Per-location case breakdowns are not in the source feed — aggregate totals shown.
     </div>
@@ -488,7 +488,7 @@ function buildAdm2Popup(feature, status) {
     <div class="pu-note" style="color:${statusColors[status]};">
       ${status !== 'none'
         ? 'This territory falls within an affected province. Sub-territory case counts are not available in the WHO EIOS feed.'
-        : 'No confirmed cases reported in this territory as of 18 May 2026.'}
+        : 'No confirmed cases reported in this territory.'}
     </div>`;
 }
 
@@ -750,8 +750,14 @@ function renderNews(items, fetchedAt) {
   document.querySelector('.feed-count').textContent = `${items.length} articles`;
   if (fetchedAt) {
     const d = new Date(fetchedAt);
+    const ts = d.toUTCString();
     document.querySelector('.header-meta').textContent =
-      `Source: WHO EIOS RSS Feed · Boundaries: geoBoundaries (OCHA COD) · Feed fetched: ${d.toUTCString()}`;
+      `Source: WHO EIOS RSS Feed · Boundaries: geoBoundaries (OCHA COD) · Last refreshed: ${ts}`;
+    document.getElementById('disclaimer').innerHTML =
+      `<strong>Data note:</strong> Statistics extracted from WHO EIOS news aggregation. ` +
+      `Last feed refresh: ${ts}. ` +
+      `Province boundaries: geoBoundaries / OCHA COD-AB. ` +
+      `Per-location case breakdowns are not in the source feed — aggregate totals shown.`;
   }
 }
 
