@@ -316,9 +316,22 @@
   </div>
 </div>
 
-<script src="data/feed.js"></script>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
+// ── Feed data — fetched fresh on every load, bypassing browser cache ──────────
+fetch('data/feed.json?t=' + Date.now())
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(data => {
+    window.FEED_DATA = data;
+    renderNews(data.items, data.fetchedAt);
+    renderRssStats();
+  })
+  .catch(() => {
+    document.getElementById('newsScroll').innerHTML =
+      '<div style="padding:16px;color:#6b7a96;font-size:0.8rem;line-height:1.6;">' +
+      'Could not load feed data.<br>Run <code style="color:#c8d4e8;">python fetch_feed.py</code></div>';
+  });
+
 // ── GeoJSON sources (geoBoundaries, OCHA Common Operational Dataset) ──────────
 const GB = 'https://media.githubusercontent.com/media/wmgeolab/geoBoundaries/9469f09592ced973a3448cf66b6100b741b64c0d/releaseData/gbOpen';
 const ADM1_URL     = `${GB}/COD/ADM1/geoBoundaries-COD-ADM1.geojson`;
@@ -532,7 +545,7 @@ fetch(ADM1_URL)
         });
 
         // Popup
-        layer.bindPopup(buildAdm1Popup(feature, status), { maxWidth: 280 });
+        layer.bindPopup(() => buildAdm1Popup(feature, status), { maxWidth: 280 });
       }
     }).addTo(map);
 
@@ -574,7 +587,7 @@ fetch(UGA_ADM1_URL)
           mouseover(e) { e.target.setStyle(hoverStyle); e.target.bringToFront(); },
           mouseout(e)  { ugaLayer.resetStyle(e.target); }
         });
-        layer.bindPopup(buildUgaPopup(feature, status), { maxWidth: 280 });
+        layer.bindPopup(() => buildUgaPopup(feature, status), { maxWidth: 280 });
       }
     }).addTo(map);
     if (adm1Layer) adm1Layer.bringToFront();
@@ -742,16 +755,7 @@ function renderNews(items, fetchedAt) {
   }
 }
 
-if (window.FEED_DATA) {
-  renderNews(window.FEED_DATA.items, window.FEED_DATA.fetchedAt);
-} else {
-  document.getElementById('newsScroll').innerHTML =
-    '<div style="padding:16px;color:#6b7a96;font-size:0.8rem;line-height:1.6;">' +
-    'No feed data found.<br>Run <code style="color:#c8d4e8;">python fetch_feed.py</code> ' +
-    'to populate the news sidebar.</div>';
-}
-
-// ── Stats bar — populated from WHO EIOS RSS feed (data/feed.js) ──────────────
+// ── Stats bar — populated from WHO EIOS RSS feed (data/feed.json) ────────────
 function renderRssStats() {
   const srcEl = document.getElementById('go-status');
 
@@ -803,7 +807,6 @@ function renderRssStats() {
     `<span style="color:#4a5a76;">Fetched: ${fetched}</span>`;
 }
 
-renderRssStats();
 </script>
 </body>
 </html>
