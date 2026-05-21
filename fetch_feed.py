@@ -94,15 +94,19 @@ def official_weight(text):
     """Score source authority. 3=WHO/OMS, 2=MoH direct, 1=Africa CDC/national CDC, 0=media."""
     t = text.lower()
     if any(x in t for x in [
-        # EN
-        'world health organization', 'who declared', 'who has declared',
-        'who said', 'who published', 'tedros',
+        # EN — both US ('z') and UK ('s') spellings
+        'world health organization', 'world health organisation',
+        'who declared', 'who has declared', 'who said', 'who says',
+        'who published', 'who reports', 'who warned', 'who warns',
+        'according to the who', 'according to who', 'tedros',
         # FR
         'organisation mondiale de la santé', 'oms a déclaré', 'oms déclare',
+        'oms a publié', "selon l'oms", "d'après l'oms",
         # ES
         'organización mundial de la salud', 'oms ha declarado',
+        'según la oms', 'la oms informó', 'la oms señaló',
         # PT
-        'organização mundial da saúde',
+        'organização mundial da saúde', 'segundo a oms',
         # AR
         'منظمة الصحة العالمية',
     ]):
@@ -302,6 +306,12 @@ def compute_stats(items):
             if field not in drc:
                 drc[field] = val
                 sources[field] = f'w{w}: {src}'
+
+    # Deaths must be directly WHO-attributed (weight 3).  If no weight-3
+    # article extracted a death figure, drop the field so the frontend falls
+    # back to the high-water mark rather than showing a media-reported figure.
+    if 'deaths' not in by_weight[3]:
+        drc.pop('deaths', None)
 
     uga_cases = extract_uga_cases(items)
     uga_mentioned = any(
