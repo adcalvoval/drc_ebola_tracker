@@ -440,16 +440,18 @@ function buildAdm1Popup(feature, status) {
   }
 
   if (status === 'epicenter') {
-    const activeNote = drc.active != null
-      ? `<div class="pu-stat full"><div class="pu-stat-v" style="color:#3498db">${fmtN(drc.active)}</div><div class="pu-stat-l">Active Patients (Bunia treatment centres)</div></div>`
+    const hw    = getHW();
+    const hwDrc = hw.drc || {};
+    const activeNote = (drc.active != null || hwDrc.active)
+      ? `<div class="pu-stat full"><div class="pu-stat-v" style="color:#3498db">${hwFmt(drc.active, hwDrc.active)}</div><div class="pu-stat-l">Active Patients (Bunia treatment centres)</div></div>`
       : '';
     return `
       <div class="pu-name">${name}</div>
       <div class="pu-sub">Admin 1 · Province · ISO: ${iso}</div>
       <span class="pu-badge pb-epicenter">Epicenter Province</span>
       <div class="pu-stats">
-        <div class="pu-stat"><div class="pu-stat-v" style="color:#e74c3c">${fmtN(drc.deaths)}</div><div class="pu-stat-l">Probable Deaths (DRC)</div></div>
-        <div class="pu-stat"><div class="pu-stat-v" style="color:#e67e22">${fmtN(drc.suspected)}</div><div class="pu-stat-l">Suspected Cases (DRC)</div></div>
+        <div class="pu-stat"><div class="pu-stat-v" style="color:#e74c3c">${hwFmt(drc.deaths, hwDrc.deaths)}</div><div class="pu-stat-l">Probable Deaths (DRC)</div></div>
+        <div class="pu-stat"><div class="pu-stat-v" style="color:#e67e22">${hwFmt(drc.suspected, hwDrc.suspected)}</div><div class="pu-stat-l">Suspected Cases (DRC)</div></div>
         ${activeNote}
       </div>
       <p class="pu-caveat">Source: ${src} · Updated: ${tsStr}</p>
@@ -481,14 +483,14 @@ function buildUgaPopup(feature, status) {
   const tsStr = ts ? new Date(ts).toUTCString() : '—';
 
   if (status === 'spread') {
-    const ugaCases = uga.cases != null ? fmtN(uga.cases) : '≥1';
+    const hwUgaCases = ((getHW().uga) || {}).cases;
     return `
       <div class="pu-name">${name}</div>
       <div class="pu-sub">Admin 1 · Region · Uganda</div>
       <span class="pu-badge pb-crossborder">Imported Cases</span>
       <div class="pu-stats">
         <div class="pu-stat full">
-          <div class="pu-stat-v" style="color:#e67e22">${ugaCases}</div>
+          <div class="pu-stat-v" style="color:#e67e22">${hwFmt(uga.cases, hwUgaCases)}</div>
           <div class="pu-stat-l">Confirmed Cases (Kampala)</div>
         </div>
       </div>
@@ -785,6 +787,50 @@ function renderNews(items, fetchedAt) {
   }
 }
 
+// ── High-water helpers ────────────────────────────────────────────────────────
+function getHW() {
+  return (window.FEED_DATA && window.FEED_DATA.highWater) || {};
+}
+
+// Returns { v, stale, asOf } — live value if present, else high-water fallback.
+function hwResolve(liveVal, hwEntry) {
+  if (liveVal != null) return { v: liveVal, stale: false };
+  if (hwEntry && hwEntry.value != null) return { v: hwEntry.value, stale: true, asOf: hwEntry.asOf };
+  return { v: null, stale: false };
+}
+
+// Render a stat cell with optional dimmed high-water note.
+function renderStatCell(elId, liveVal, hwEntry) {
+  const el = document.getElementById(elId);
+  if (!el) return;
+  const { v, stale, asOf } = hwResolve(liveVal, hwEntry);
+  el.textContent = v != null ? v.toLocaleString() : '—';
+  el.style.opacity = stale ? '0.55' : '1';
+  let note = el.parentElement.querySelector('.hw-note');
+  if (stale && asOf) {
+    if (!note) {
+      note = document.createElement('div');
+      note.className = 'hw-note';
+      note.style.cssText = 'font-size:0.55rem;color:#4a5a76;margin-top:1px;font-style:italic;';
+      el.parentElement.appendChild(note);
+    }
+    note.textContent = 'last: ' + new Date(asOf).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
+  } else if (note) {
+    note.remove();
+  }
+}
+
+// Inline formatter for popups: live value, or dimmed HW with date superscript.
+function hwFmt(liveVal, hwEntry) {
+  if (liveVal != null) return fmtN(liveVal);
+  if (hwEntry && hwEntry.value != null) {
+    const d = new Date(hwEntry.asOf).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
+    return `<span style="opacity:0.55">${fmtN(hwEntry.value)}</span>` +
+           `<sup style="color:#4a5a76;font-size:0.6rem;vertical-align:super"> last&nbsp;${d}</sup>`;
+  }
+  return '—';
+}
+
 // ── Stats bar — populated from WHO EIOS RSS feed (data/feed.json) ────────────
 function renderRssStats() {
   const srcEl = document.getElementById('go-status');
@@ -797,17 +843,21 @@ function renderRssStats() {
   const s   = window.FEED_DATA.stats;
   const drc = s.drc || {};
   const uga = s.uga || {};
+  const hw  = getHW();
 
-  // Deaths — DRC probable deaths (most authoritative MoH figure)
-  document.getElementById('val-deaths').textContent =
-    drc.deaths != null ? drc.deaths.toLocaleString() : '—';
+  renderStatCell('val-deaths',  drc.deaths,    (hw.drc || {}).deaths);
+  renderStatCell('val-cases',   drc.suspected, (hw.drc || {}).suspected);
 
-  // Suspected cases — DRC total, with Uganda note in sub-label
-  const casesEl = document.getElementById('val-cases');
-  casesEl.textContent = drc.suspected != null ? drc.suspected.toLocaleString() : '—';
-  const casesSub = casesEl.parentElement.querySelector('.stat-label');
+  // Uganda note in suspected-cases sub-label
+  const casesEl  = document.getElementById('val-cases');
+  const casesSub = casesEl && casesEl.parentElement.querySelector('.stat-label');
   if (casesSub) {
-    const ugaNote = uga.cases != null ? ` + ${uga.cases} UGA` : '';
+    const ugaLive = uga.cases;
+    const ugaHW   = (hw.uga || {}).cases;
+    const ugaR    = hwResolve(ugaLive, ugaHW);
+    const ugaNote = ugaR.v != null
+      ? ` + ${ugaR.v}${ugaR.stale ? '*' : ''} UGA`
+      : '';
     casesSub.textContent = `Suspected Cases (DRC)${ugaNote}`;
   }
 
@@ -822,14 +872,12 @@ function renderRssStats() {
 
   // Countries affected
   const countries = ['DRC'];
-  if (uga.cases != null || uga.mentioned) countries.push('Uganda');
+  if (uga.cases != null || uga.mentioned || (hw.uga || {}).cases) countries.push('Uganda');
   document.getElementById('val-countries').textContent = countries.length;
   document.getElementById('lbl-countries').textContent = countries.join(' · ');
 
   // Source metadata cell
-  const fetched = window.FEED_DATA.fetchedAt
-    ? new Date(window.FEED_DATA.fetchedAt).toUTCString()
-    : '—';
+  const fetched  = window.FEED_DATA.fetchedAt ? new Date(window.FEED_DATA.fetchedAt).toUTCString() : '—';
   const srcLabel = s.sourceLabel || 'WHO EIOS RSS';
   srcEl.innerHTML =
     `<span style="color:#2ecc71;font-weight:700;">&#10003; WHO EIOS RSS</span><br>` +

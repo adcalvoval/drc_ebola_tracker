@@ -27,13 +27,25 @@ def log(status, message):
     with open(LOG_FILE, 'a', encoding='utf-8') as f:
         f.write(f'[{ts}] [{status}] {message}\n')
 
+
 FEED_URL = (
     'https://eios.who.int/portal/api/api/rssfeed/1779091159764'
     '?pinned=false&token=9092D77B-7AB5-4384-9555-7C541960C506'
 )
-OUT_FILE    = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'feed.json')
-OUT_JS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'feed.js')
-MAX_ITEMS = 50
+OUT_FILE        = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'feed.json')
+OUT_JS_FILE     = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'feed.js')
+HIGH_WATER_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'high_water.json')
+MAX_ITEMS = 100
+
+# ── Qualifier words that precede approximate numbers ─────────────────────────
+# EN / FR / ES / PT / AR
+_Q = (
+    r'(?:more than|over|at least|nearly|almost|about|around|up to|approximately|already|'
+    r'plus de|environ|au moins|près de|presque|déjà|à peu près|'
+    r'más de|al menos|casi|alrededor de|unos?|unas?|cerca de|aproximadamente|'
+    r'mais de|pelo menos|quase|'
+    r'أكثر من|على الأقل|نحو|حوالي|ما يزيد على)'
+)
 
 
 def fetch(url):
@@ -46,21 +58,33 @@ def strip_html(text):
     return re.sub(r'<[^>]+>', ' ', text)
 
 
+def normalize_numerals(text):
+    """Convert Arabic-Indic (٠–٩) and Persian (۰–۹) digits to ASCII."""
+    for i, c in enumerate('٠١٢٣٤٥٦٧٨٩'):   # U+0660–U+0669
+        text = text.replace(c, str(i))
+    for i, c in enumerate('۰۱۲۳۴۵۶۷۸۹'):   # U+06F0–U+06F9
+        text = text.replace(c, str(i))
+    return text
+
+
 def classify(title, description):
     text = (title + ' ' + description).lower()
     if any(w in text for w in [
         'pheic', 'public health emergency', 'urgence de santé',
-        'emergency of international', 'urgencia sanitaria'
+        'emergency of international', 'urgencia sanitaria',
+        'urgência sanitária', 'طوارئ صحية دولية',
     ]):
         return 'pheic'
     if any(w in text for w in [
         'cases', 'casos', 'deaths', 'muertos', 'fallecidos',
-        'décès', 'suspected', 'confirmed', 'sospechosos'
+        'décès', 'suspected', 'confirmed', 'sospechosos',
+        'suspeitos', 'cas suspects', 'حالات', 'وفيات',
     ]):
         return 'cases'
     if any(w in text for w in [
         'response', 'respuesta', 'réponse', 'alert', 'alerte',
-        'deployed', 'preparedness', 'airlines', 'border', 'travel'
+        'deployed', 'preparedness', 'airlines', 'border', 'travel',
+        'resposta', 'استجابة',
     ]):
         return 'response'
     return 'analysis'
@@ -70,21 +94,39 @@ def official_weight(text):
     """Score source authority. 3=WHO/OMS, 2=MoH direct, 1=Africa CDC/national CDC, 0=media."""
     t = text.lower()
     if any(x in t for x in [
-        'world health organization', 'organisation mondiale de la santé',
-        'organización mundial de la salud', 'who declared', 'who has declared',
-        'oms a déclaré', 'oms déclare', 'tedros', 'who said', 'who published',
+        # EN
+        'world health organization', 'who declared', 'who has declared',
+        'who said', 'who published', 'tedros',
+        # FR
+        'organisation mondiale de la santé', 'oms a déclaré', 'oms déclare',
+        # ES
+        'organización mundial de la salud', 'oms ha declarado',
+        # PT
+        'organização mundial da saúde',
+        # AR
+        'منظمة الصحة العالمية',
     ]):
         return 3
     if any(x in t for x in [
-        'ministre', 'minister of health', 'ministry of health',
-        'ministère de la santé', 'ministerio de salud',
-        'minister congolais', 'kamba', 'roger kamba',
+        # EN
+        'minister of health', 'ministry of health',
+        # FR
+        'ministre', 'ministère de la santé', 'minister congolais',
+        'kamba', 'roger kamba',
+        # ES
+        'ministerio de salud',
+        # PT
+        'ministério da saúde',
+        # AR
+        'وزارة الصحة',
+        # Named officials
         'minister ugandais', 'ugandan health minister',
     ]):
         return 2
     if any(x in t for x in [
         'africa cdc', 'africa centres for disease', 'us cdc', 'cdc said',
         'ncdc', 'centre for disease control',
+        'المركز الأفريقي لمكافحة',
     ]):
         return 1
     return 0
@@ -102,56 +144,85 @@ def word_to_num(text):
 
 
 def extract_numbers(title, desc):
-    """Pull epi figures from article text. Returns dict with found fields."""
-    text = word_to_num(title + ' ' + desc)
-    text = re.sub(r'(\d)[, ](\d{3})\b', r'\1\2', text)  # 1,234 -> 1234
+    """Pull epi figures from article text (EN/FR/ES/PT/AR). Returns dict with found fields."""
+    text = normalize_numerals(word_to_num(title + ' ' + desc))
+    text = re.sub(r'(\d)[,\s](\d{3})\b', r'\1\2', text)  # 1,234 / 1 234 -> 1234
 
     result = {}
 
-    # Deaths / décès / muertos
+    # ── Deaths ────────────────────────────────────────────────────────────────
+    _D = (
+        r'deaths?|dead|fatalities|killed|'                           # EN
+        r'décès|morts?|personnes?\s+mortes?|victimes?\s+mortelles?|' # FR
+        r'muertos?|fallecidos?|muertes?|víctimas?|decesos?|'         # ES
+        r'mortes?|óbitos?|falecidos?|'                               # PT
+        r'وفيات|وفاة|ضحايا|قتلى|متوفى'                             # AR
+    )
     for pat in [
-        r'(\d+)\s*(?:probable\s+)?(?:deaths?|dead)\b',
-        r'(\d+)\s*(?:probable[s]?\s+)?(?:décès|morts?)\b',
-        r'(\d+)\s*(?:probable[s]?\s+)?(?:muertos?|fallecidos?|muertes?)\b',
-        r'(?:more than|at least|over|nearly|almost|environ|plus de|près de|'
-        r'más de|déjà|already|casi)\s+(\d+)\s*(?:deaths?|dead|décès|morts?|muertos?)',
+        r'(\d+)\s*(?:probable[s]?\s+)?(?:' + _D + r')\b',
+        _Q + r'\s+(\d+)\s*(?:' + _D + r')',
     ]:
         for m in re.finditer(pat, text, re.IGNORECASE):
             v = int(m.group(1))
             if 0 < v < 10_000 and v > result.get('deaths', 0):
                 result['deaths'] = v
 
-    # Suspected / total cases
+    # ── Suspected / total cases ───────────────────────────────────────────────
     for pat in [
+        # EN
         r'(\d+)\s+(?:suspected\s+)?cases?\b',
-        r"(\d+)\s+cas\s+(?:suspects?|d'Ebola)",
+        _Q + r'\s+(\d+)\s+(?:suspected\s+)?(?:cases?|infected)',
+        r'(?:infected|sickened)\s+' + _Q + r'\s+(\d+)',
+        # FR
+        r"(\d+)\s+cas\s+(?:suspects?|déclarés?|potentiels?|présumés?|d'[ée]bola|de\s+malades?)\b",
         r'(\d+)\s+cas\s+suspects?\b',
-        r'(\d+)\s+casos?\s+(?:sospechosos?|de\s+[eé]bola)\b',
-        r'(?:environ|plus de|près de|more than|over|at least)\s+(\d+)\s+(?:suspected\s+)?cases?',
-        r'(?:environ|plus de|près de)\s+(\d+)\s+cas\b',
+        r'(\d+)\s+personnes?\s+(?:suspectées?|infectées?|touchées?)\b',
+        _Q + r'\s+(\d+)\s+(?:personnes?\s+suspectées?|cas)\b',
+        # ES
+        r'(\d+)\s+casos?\s+(?:sospechosos?|de\s+[eé]bola|presuntos?|posibles?)\b',
+        _Q + r'\s+(\d+)\s+casos?\b',
+        # PT
+        r'(\d+)\s+casos?\s+suspeitos?\b',
+        r'(\d+)\s+pessoas?\s+(?:suspeitas?|infetadas?|doentes?)\b',
+        # AR
+        r'(\d+)\s+(?:حالات|حالة)\s+(?:مشتبه|مشتبه\s+بها|مريضة|مصابة)',
+        _Q + r'\s+(\d+)\s+(?:حالات|حالة)',
     ]:
         for m in re.finditer(pat, text, re.IGNORECASE):
             v = int(m.group(1))
             if 0 < v < 100_000 and v > result.get('suspected', 0):
                 result['suspected'] = v
 
-    # Confirmed cases
+    # ── Confirmed cases ───────────────────────────────────────────────────────
     for pat in [
+        # EN
         r'(\d+)\s+confirmed\s+cases?\b',
-        r'(\d+)\s+cas\s+confirmés?\b',
-        r'(\d+)\s+casos?\s+confirmados?\b',
         r'confirmed\s+cases?\s*[:\-–]\s*(\d+)',
+        # FR
+        r'(\d+)\s+cas\s+confirmés?\b',
+        r'cas\s+confirmés?\s*[:\-–]\s*(\d+)',
+        # ES / PT
+        r'(\d+)\s+casos?\s+confirmados?\b',
+        r'confirmados?\s*[:\-–]\s*(\d+)',
+        # AR
+        r'(\d+)\s+(?:حالات|حالة)\s+مؤكدة',
     ]:
         for m in re.finditer(pat, text, re.IGNORECASE):
             v = int(m.group(1))
             if 0 < v < 100_000 and v > result.get('confirmed', 0):
                 result['confirmed'] = v
 
-    # Active patients under care
+    # ── Active patients under care ────────────────────────────────────────────
     for pat in [
+        # FR
         r'(\d+)\s+malades?\s+(?:qui\s+sont\s+)?activement\s+pris\s+en\s+charge',
         r'(\d+)\s+(?:malades?|patients?)\s+(?:activement|currently|under\s+(?:active\s+)?(?:care|treatment))',
+        # EN
         r'(\d+)\s+patients?\s+(?:receiving\s+(?:active\s+)?care|hospitali[sz]ed|in\s+treatment)',
+        # ES
+        r'(\d+)\s+pacientes?\s+(?:hospitalizados?|en\s+tratamiento|bajo\s+atenci[oó]n)',
+        # AR
+        r'(\d+)\s+(?:مرضى|مريض)\s+(?:يتلقون|يتلقى|تحت)\s+(?:العلاج|الرعاية)',
     ]:
         for m in re.finditer(pat, text, re.IGNORECASE):
             v = int(m.group(1))
@@ -162,33 +233,49 @@ def extract_numbers(title, desc):
 
 
 def extract_uga_cases(items):
-    """Extract Uganda-specific case count from items mentioning Uganda."""
+    """Extract Uganda-specific case count from items mentioning Uganda (EN/FR/ES/PT/AR).
+
+    Every pattern must require explicit Uganda/Ouganda proximity to the number
+    to avoid mistakenly attributing DRC totals or combined figures to Uganda.
+    """
     best = 0
     for item in items:
-        text = word_to_num(item['title'] + ' ' + item.get('desc', ''))
-        text = re.sub(r'(\d)[, ](\d{3})\b', r'\1\2', text)
-        if not re.search(r'uganda|ouganda', text, re.IGNORECASE):
+        text = normalize_numerals(word_to_num(item['title'] + ' ' + item.get('desc', '')))
+        text = re.sub(r'(\d)[,\s](\d{3})\b', r'\1\2', text)
+        if not re.search(r'uganda|ouganda|أوغندا', text, re.IGNORECASE):
             continue
         for pat in [
-            # "X cases in/imported to Uganda"
-            r'(\d+)\s+(?:confirmed\s+)?cases?\s+(?:in|reported in|imported\s+(?:to|in))\s+(?:neighboring\s+)?Uganda',
-            # "X in neighboring Uganda"
+            # EN: number explicitly "in / to / imported to Uganda"
+            r'(\d+)\s+(?:confirmed\s+)?cases?\s+(?:in|reported\s+in|imported\s+(?:to|in))\s+(?:neighboring\s+)?Uganda',
+            r'(\d+)\s+(?:confirmed\s+)?(?:deaths?|cases?)\s+in\s+Uganda',
             r'(\d+)\s+in\s+(?:neighboring\s+)?Uganda',
-            # "confirmed X cases" / "X confirmed cases" within Uganda item
-            r'confirmed\s+(\d+)\s+cases?',
-            r'(\d+)\s+confirmed\s+cases?',
-            # "X cases coming from DRC" in Uganda article
-            r'(\d+)\s+cases?\s+coming\s+from',
-            # general case count near Uganda mention
-            r'Uganda[^.]{0,80}?(\d+)\s+(?:confirmed\s+)?cases?',
-            r'(\d+)\s+(?:confirmed\s+)?cases?[^.]{0,50}?Uganda',
+            r'confirmed\s+(\d+)\s+cases?\s+(?:in\s+|from\s+)?Uganda',
+            r'(\d+)\s+confirmed\s+cases?\s+(?:in\s+|from\s+)?Uganda',
+            _Q + r'\s+(\d+)\s+(?:confirmed\s+)?cases?\s+(?:in\s+)?Uganda',
+            r'(\d+)\s+cases?\s+coming\s+from\s+(?:the\s+)?(?:DRC|Congo)',
+            # EN: "Uganda ... X cases" (Uganda leads the clause)
+            r'Uganda[^.]{0,60}?(\d+)\s+(?:confirmed\s+)?cases?\b',
+            # FR: "Ouganda ... X cas" (Ouganda leads the clause)
+            r'Ouganda[^.]{0,80}?(\d+)\s+cas\b',
+            r'(?:Ouganda|Uganda)[^.]{0,60}?' + _Q + r'\s+(\d+)\s+cas\b',
+            # FR: "X cas ... en Ouganda" (tight 30-char window before Uganda)
+            r'(\d+)\s+cas\b[^.]{0,30}?en\s+(?:Ouganda|Uganda)',
+            r'(\d+)\s+personnes?\s+(?:suspectées?|infectées?|en\s+quarantaine)[^.]{0,30}?(?:Ouganda|Uganda)',
+            # ES: "X casos en Uganda" or "Uganda ... X casos"
+            r'(\d+)\s+casos?\s+(?:confirmados?|sospechosos?|positivos?)?\s*(?:en|en\s+todo)\s+Uganda',
+            r'Uganda[^.]{0,50}?(\d+)\s+casos?\b',
+            # PT: "X casos confirmados/suspeitos em Uganda"
+            r'(\d+)\s+casos?\s+(?:confirmados?|suspeitos?)\s+(?:em|em\s+todo)\s+Uganda',
+            # AR
+            r'(?:أوغندا|Uganda)[^.]{0,60}?(\d+)\s+(?:حالات|حالة)',
+            r'(\d+)\s+(?:حالات|حالة)[^.]{0,40}?(?:أوغندا|Uganda)',
         ]:
             m = re.search(pat, text, re.IGNORECASE)
             if m:
                 v = int(m.group(1))
-                if 0 < v < 1000 and v > best:
+                if 0 < v < 10_000 and v > best:
                     best = v
-        # French "d'un autre en Ouganda" = 1 case/death in Uganda
+        # FR: "d'un autre en Ouganda" = 1 case
         if re.search(r"d'un autre en Ouganda", text, re.IGNORECASE) and best < 1:
             best = 1
     return best or None
@@ -196,7 +283,6 @@ def extract_uga_cases(items):
 
 def compute_stats(items):
     """Build the most authoritative epi summary, preferring WHO > MoH > CDC > media."""
-    # Collect {weight: {field: (value, source_title)}}
     by_weight = {3: {}, 2: {}, 1: {}, 0: {}}
     has_pheic = any(i['tag'] == 'pheic' for i in items)
 
@@ -209,7 +295,6 @@ def compute_stats(items):
             if val > prev_val:
                 by_weight[w][field] = (val, item['title'][:80])
 
-    # Merge: highest weight wins per field
     drc = {}
     sources = {}
     for w in (3, 2, 1, 0):
@@ -220,11 +305,10 @@ def compute_stats(items):
 
     uga_cases = extract_uga_cases(items)
     uga_mentioned = any(
-        re.search(r'uganda|ouganda', item['title'] + ' ' + item.get('desc', ''), re.IGNORECASE)
+        re.search(r'uganda|ouganda|أوغندا', item['title'] + ' ' + item.get('desc', ''), re.IGNORECASE)
         for item in items
     )
 
-    # Source label for UI
     weight_label = {3: 'WHO / OMS', 2: 'Ministry of Health (DRC)', 1: 'Africa CDC / national CDC', 0: 'media reports'}
     winning_weight = 0
     for w in (3, 2, 1, 0):
@@ -244,6 +328,40 @@ def compute_stats(items):
         'whoAlert': 'PHEIC' if has_pheic else None,
         'sourceLabel': weight_label[winning_weight],
     }
+
+
+# ── High-water mark persistence ───────────────────────────────────────────────
+
+def load_high_water():
+    """Load persisted high-water marks, or return empty structure."""
+    try:
+        with open(HIGH_WATER_FILE, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {'drc': {}, 'uga': {}}
+
+
+def save_high_water(hw):
+    with open(HIGH_WATER_FILE, 'w', encoding='utf-8') as f:
+        json.dump(hw, f, ensure_ascii=False, indent=2)
+
+
+def update_high_water(hw, stats, fetched_at):
+    """Merge new stats into high-water marks — values only ever increase."""
+    source = stats.get('sourceLabel', 'WHO EIOS RSS')
+    for country, fields in (('drc', ('deaths', 'suspected', 'confirmed', 'active')),
+                             ('uga', ('cases',))):
+        current = stats.get(country, {})
+        stored  = hw.setdefault(country, {})
+        for field in fields:
+            new_val = current.get(field)
+            if new_val is None:
+                continue
+            prev     = stored.get(field, {})
+            prev_val = prev.get('value') if isinstance(prev, dict) else None
+            if prev_val is None or new_val > prev_val:
+                stored[field] = {'value': new_val, 'asOf': fetched_at, 'source': source}
+    return hw
 
 
 def parse(xml_bytes):
@@ -299,6 +417,12 @@ def main():
         log('ERROR', msg)
         sys.exit(1)
 
+    # Update high-water marks and embed them in the output
+    hw = load_high_water()
+    hw = update_high_water(hw, data['stats'], data['fetchedAt'])
+    save_high_water(hw)
+    data['highWater'] = hw
+
     with open(OUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -310,11 +434,13 @@ def main():
     s = data['stats']
     d = s.get('drc', {})
     u = s.get('uga', {})
+    hw_d = hw.get('drc', {})
+    hw_u = hw.get('uga', {})
     summary = (
         f'{data["itemCount"]} items — '
-        f'DRC deaths={d.get("deaths","—")} suspected={d.get("suspected","—")} '
-        f'confirmed={d.get("confirmed","—")} active={d.get("active","—")} | '
-        f'UGA cases={u.get("cases","—")} | '
+        f'DRC deaths={d.get("deaths","—")} (hw={hw_d.get("deaths",{}).get("value","—")}) '
+        f'suspected={d.get("suspected","—")} (hw={hw_d.get("suspected",{}).get("value","—")}) | '
+        f'UGA cases={u.get("cases","—")} (hw={hw_u.get("cases",{}).get("value","—")}) | '
         f'Alert={s.get("whoAlert","—")} source={s.get("sourceLabel","—")}'
     )
     print(f'OK — {summary}')
@@ -323,7 +449,10 @@ def main():
     log('OK', summary)
 
     repo_root = os.path.dirname(os.path.abspath(__file__))
-    subprocess.run(['git', 'add', 'data/feed.js', 'data/feed.json'], cwd=repo_root, check=True)
+    subprocess.run(
+        ['git', 'add', 'data/feed.js', 'data/feed.json', 'data/high_water.json'],
+        cwd=repo_root, check=True
+    )
     result = subprocess.run(
         ['git', 'commit', '-m', 'Update feed data'],
         cwd=repo_root, capture_output=True, text=True
