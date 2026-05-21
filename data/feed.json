@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 21 May 2026 09:46:18 Z",
-  "fetchedAt": "2026-05-21T09:46:18Z",
+  "lastBuildDate": "Thu, 21 May 2026 09:46:42 Z",
+  "fetchedAt": "2026-05-21T09:46:42Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -9,7 +9,6 @@
       "suspected": 600
     },
     "uga": {
-      "cases": 528,
       "mentioned": true
     },
     "whoAlert": "PHEIC",
@@ -458,18 +457,18 @@
       "tag": "response"
     },
     {
-      "title": "Ebola outbreak: Major airport begins screening arrivals as experts 'very concerned'",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583597",
-      "pubDate": "Thu, 21 May 2026 04:32:00 Z",
-      "desc": "Mandatory Credit: Photo by Xinhua/Shutterstock A medical worker checks the temperature of a local resident as part of Ebola screening in Goma, the Democratic Republic of the Congo , on May 19, 2026. Around 131 suspected deaths and 513 suspected cases have been reported in the latest Ebola outbreak....",
-      "tag": "cases"
-    },
-    {
       "title": "City and County of Denver, CO - DDPHE Blog: What Denverites Need to Know About Hantavirus",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583614",
       "pubDate": "Thu, 21 May 2026 04:32:00 Z",
       "desc": "Access the original document here\nDDPHE Blog: What Denverites Need to Know About Hantavirus\nDDPHE Blog: What Denverites Need to Know About Hantavirus\nPublished on May 20, 2026\nRecent news about a hantavirus outbreak affecting American travelers has raised questions and concerns across the country.",
       "tag": "response"
+    },
+    {
+      "title": "Ebola outbreak: Major airport begins screening arrivals as experts 'very concerned'",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583597",
+      "pubDate": "Thu, 21 May 2026 04:32:00 Z",
+      "desc": "Mandatory Credit: Photo by Xinhua/Shutterstock A medical worker checks the temperature of a local resident as part of Ebola screening in Goma, the Democratic Republic of the Congo , on May 19, 2026. Around 131 suspected deaths and 513 suspected cases have been reported in the latest Ebola outbreak....",
+      "tag": "cases"
     },
     {
       "title": "Coahuila toma en serio el hantavirus y el Ébola.",
