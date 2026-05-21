@@ -12,6 +12,7 @@ Or run manually:  python fetch_feed.py
 import json
 import os
 import re
+import subprocess
 import sys
 from datetime import datetime, timezone
 from urllib.request import urlopen, Request
@@ -320,6 +321,20 @@ def main():
     print(f'Feed built:  {data["lastBuildDate"]}')
     print(f'Fetched at:  {data["fetchedAt"]}')
     log('OK', summary)
+
+    repo_root = os.path.dirname(os.path.abspath(__file__))
+    subprocess.run(['git', 'add', 'data/feed.js', 'data/feed.json'], cwd=repo_root, check=True)
+    result = subprocess.run(
+        ['git', 'commit', '-m', 'Update feed data'],
+        cwd=repo_root, capture_output=True, text=True
+    )
+    if result.returncode == 0:
+        subprocess.run(['git', 'push'], cwd=repo_root, check=True)
+        print('Pushed to remote.')
+        log('OK', 'Committed and pushed feed data.')
+    else:
+        print('No changes to commit.')
+        log('OK', 'No changes to commit — feed data unchanged.')
 
 
 if __name__ == '__main__':
