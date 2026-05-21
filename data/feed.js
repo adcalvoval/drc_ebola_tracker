@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 21 May 2026 09:56:45 Z",
-  "fetchedAt": "2026-05-21T09:56:45Z",
+  "lastBuildDate": "Thu, 21 May 2026 09:59:39 Z",
+  "fetchedAt": "2026-05-21T09:59:40Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -9,13 +9,26 @@ window.FEED_DATA = {
       "suspected": 600
     },
     "uga": {
-      "cases": 528,
       "mentioned": true
     },
     "whoAlert": "PHEIC",
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "20 mai 2026 Allocution liminaire du Directeur général de l’OMS lors du point de presse du 20 mai 2026 sur la flambée d’Ebola en Ouganda et en RDC",
+      "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing-on-ebola-outbreak-in-drc-and-uganda-20-may-2026",
+      "pubDate": "Thu, 21 May 2026 09:58:00 Z",
+      "desc": "Bonjour, à vous qui êtes dans la salle et à toutes celles et tous ceux qui sont en ligne. Merci de vous joindre à nous. Tôt dimanche matin, j’ai déclaré une urgence de santé publique de portée internationale (USPPI) en raison de l’épidémie d’Ebola qui sévit en Ouganda et en République démocratique du Congo.",
+      "tag": "pheic"
+    },
+    {
+      "title": "19 mai 2026 Note pour les médias Soixante-Dix-Neuvième Assemblée mondiale de la Santé – Bulletin quotidien du 19 mai 2026",
+      "link": "https://www.who.int/fr/news/item/19-05-2026-seventy-ninth-world-health-assembly---daily-update--19-may-2026",
+      "pubDate": "Thu, 21 May 2026 09:58:00 Z",
+      "desc": "À l’Assemblée mondiale de la Santé aujourd’hui, le Directeur général de l’OMS, le D r Tedros Adhanom Ghebreyesus, a présenté son rapport sur les activités de l’Organisation aux États Membres et l’Assemblée a entamé un débat général autour du thème Redéfinir la santé mondiale : une responsabilité partagée .",
+      "tag": "analysis"
+    },
     {
       "title": "Three people in a rural area in the United States died of suspected drug overdose, and a number of first responders were quarantined and examined for contact with unknown substances",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021585056",
@@ -52,18 +65,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Familia de ciudadano de EEUU con ébola también es tratada en Alemania",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021584958",
-      "pubDate": "Thu, 21 May 2026 09:37:00 Z",
-      "desc": "Berlín, 21 may (dpa) - La esposa y los cuatro hijos del ciudadano estadounidense infectado con ébola también están siendo tratados en el Hospital Charité de Berlín, según informó hoy el Ministerio de Salud.\nEl padre, médico de profesión, se había contagiado del virus en el este de la República Democrática del Congo.",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola scare: DR Congo man on flight, US forces Air France to divert plane to Canada",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021584952",
       "pubDate": "Thu, 21 May 2026 09:37:00 Z",
       "desc": "A Detroit-bound Air France flight was forced to divert to Canada after US authorities blocked it from entering American airspace, saying a passenger from the Democratic Republic of the Congo had boarded despite strict emergency Ebola-related travel restrictions.",
       "tag": "response"
+    },
+    {
+      "title": "Familia de ciudadano de EEUU con ébola también es tratada en Alemania",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021584958",
+      "pubDate": "Thu, 21 May 2026 09:37:00 Z",
+      "desc": "Berlín, 21 may (dpa) - La esposa y los cuatro hijos del ciudadano estadounidense infectado con ébola también están siendo tratados en el Hospital Charité de Berlín, según informó hoy el Ministerio de Salud.\nEl padre, médico de profesión, se había contagiado del virus en el este de la República Democrática del Congo.",
+      "tag": "analysis"
     },
     {
       "title": "El verdadero peligro del hantavirus es la ignorancia",
@@ -493,18 +506,18 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Ebola outbreak: Major airport begins screening arrivals as experts 'very concerned'",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583597",
-      "pubDate": "Thu, 21 May 2026 04:32:00 Z",
-      "desc": "Mandatory Credit: Photo by Xinhua/Shutterstock A medical worker checks the temperature of a local resident as part of Ebola screening in Goma, the Democratic Republic of the Congo , on May 19, 2026. Around 131 suspected deaths and 513 suspected cases have been reported in the latest Ebola outbreak....",
-      "tag": "cases"
-    },
-    {
       "title": "City and County of Denver, CO - DDPHE Blog: What Denverites Need to Know About Hantavirus",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583614",
       "pubDate": "Thu, 21 May 2026 04:32:00 Z",
       "desc": "Access the original document here\nDDPHE Blog: What Denverites Need to Know About Hantavirus\nDDPHE Blog: What Denverites Need to Know About Hantavirus\nPublished on May 20, 2026\nRecent news about a hantavirus outbreak affecting American travelers has raised questions and concerns across the country.",
       "tag": "response"
+    },
+    {
+      "title": "Ebola outbreak: Major airport begins screening arrivals as experts 'very concerned'",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583597",
+      "pubDate": "Thu, 21 May 2026 04:32:00 Z",
+      "desc": "Mandatory Credit: Photo by Xinhua/Shutterstock A medical worker checks the temperature of a local resident as part of Ebola screening in Goma, the Democratic Republic of the Congo , on May 19, 2026. Around 131 suspected deaths and 513 suspected cases have been reported in the latest Ebola outbreak....",
+      "tag": "cases"
     },
     {
       "title": "Coahuila toma en serio el hantavirus y el Ébola.",
@@ -700,20 +713,6 @@ window.FEED_DATA = {
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583121",
       "pubDate": "Thu, 21 May 2026 03:27:00 Z",
       "desc": "India, May 21 -- The new outbreak of a rare Ebola type in Congo and Uganda poses low global risk, the World Health Organization said Wednesday, but responders on the ground described being underprotected and undertrained for a rapidly spreading virus with no approved medicine or vaccine.",
-      "tag": "analysis"
-    },
-    {
-      "title": "«El ébola es muy cruel y esta epidemia está descontrolada»",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583117",
-      "pubDate": "Thu, 21 May 2026 03:27:00 Z",
-      "desc": "La gravedad de una epidemia no la determina solo la letalidad del agente infeccioso; lo hace en gran medida el lugar del foco. El decimoséptimo brote de ébola que ha estallado en África tiene una tasa de mortalidad del 40%, una amenaza muy difícil de contener en un país como República Democrática....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Trois questions au Dr Glodi Elumbu, spécialiste en écologie des maladies infectieuses sur le virus Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583153",
-      "pubDate": "Thu, 21 May 2026 03:27:00 Z",
-      "desc": "Kinshasa, 20 mai 2026(ACP).- L’épidémie d’Ebola Bundibugyo, la 17ème enregistrée en République démocratique du Congo(RDC) depuis 1976, a été déclarée officiellement le 15 mai par le ministre de la Santé publique, hygiène et prévoyance sociale.\nLe séquençage complet du génome viral a confirmé qu’il....",
       "tag": "analysis"
     }
   ],
