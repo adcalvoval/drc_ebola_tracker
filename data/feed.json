@@ -1,12 +1,12 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 21 May 2026 08:59:24 Z",
-  "fetchedAt": "2026-05-21T08:59:24Z",
+  "lastBuildDate": "Thu, 21 May 2026 09:06:11 Z",
+  "fetchedAt": "2026-05-21T09:06:11Z",
   "itemCount": 50,
   "stats": {
     "drc": {
-      "deaths": 130,
-      "suspected": 500
+      "deaths": 132,
+      "suspected": 528
     },
     "uga": {
       "mentioned": true
@@ -15,6 +15,48 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "4 Sante Ebola en RDC : la Tunisie suit l’évolution de la situation et appelle à la... Il y a 7 minutes",
+      "link": "https://www.tunisienumerique.com/ebola-en-rdc-la-tunisie-suit-levolution-de-la-situation-et-appelle-a-la-vigilance/",
+      "pubDate": "Thu, 21 May 2026 09:04:00 Z",
+      "desc": "Vigilance épidémiologique et coopération africaine. Le ministère de la Santé a souligné que ces développements rappellent l’importance de la vigilance épidémiologique, de l’échange rapide des données sanitaires et du renforcement de la préparation des systèmes de santé.",
+      "tag": "analysis"
+    },
+    {
+      "title": "26 Actualités Virus Ebola : les chiffres évoluent rapidement, 528 cas suspects, dont 132 décès, signalés en... Il y a 23 minutes",
+      "link": "https://www.tunisienumerique.com/virus-ebola-les-chiffres-evoluent-rapidement-528-cas-suspects-dont-132-deces-signales-en-ouganda-et-en-rdc/",
+      "pubDate": "Thu, 21 May 2026 09:04:00 Z",
+      "desc": "L’Organisation mondiale de la Santé (OMS) a publié un rapport sur la situation de l’épidémie de maladie à virus Ebola causée par le virus Bundibugyo en République démocratique du Congo (RDC) et en Ouganda. Elle a recensé, au total, 528 cas suspects, dont 132 décès.",
+      "tag": "cases"
+    },
+    {
+      "title": "2 Actualités Tunisie – Ministère de la Santé : aucune menace directe liée au virus Ebola n’est... Il y a 1 minute",
+      "link": "https://www.tunisienumerique.com/tunisie-ministere-de-la-sante-aucune-menace-directe-liee-au-virus-ebola-nest-signalee/",
+      "pubDate": "Thu, 21 May 2026 09:04:00 Z",
+      "desc": "Le ministère de la Santé a annoncé suivre avec attention l’évolution de la situation épidémiologique en République démocratique du Congo (RDC), à la suite des données publiées par le Centre africain de contrôle et de prévention des maladies, Africa CDC, et l’Organisation mondiale de la santé,....",
+      "tag": "analysis"
+    },
+    {
+      "title": "El «cuello de botella» de las pruebas",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583683",
+      "pubDate": "Thu, 21 May 2026 09:02:00 Z",
+      "desc": "Las pruebas para confirmar si se trata de ébola que los médicos de MSF están haciendo sobre el terreno son PCR de sangre. «El procedimiento para detectar los positivos en el tipo de ébola del Zaire es más sencillo, pero en este caso es una prueba que exige más tiempo», explica Manuel Albela.",
+      "tag": "analysis"
+    },
+    {
+      "title": "HORROR SCENE At least 3 dead & 20 more hospitalized after exposure to ‘unknown substance’ at New Mexico home as cops say ‘stay away’",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021584777",
+      "pubDate": "Thu, 21 May 2026 09:02:00 Z",
+      "desc": "AT least three people have died and nearly 20 first responders were rushed to hospital after being exposed to an “unknown substance” at a home in New Mexico.\nCops raced to the property in Mountainair on Wednesday morning after reports of a suspected overdose – only to find a nightmare scene with four people lying unresponsive.",
+      "tag": "cases"
+    },
+    {
+      "title": "Ebola: FG strengthens surveillance, activates airport screening",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021584788",
+      "pubDate": "Thu, 21 May 2026 09:02:00 Z",
+      "desc": "The Federal Government on Wednesday assured Nigerians that there is currently no confirmed case of Ebola virus disease in the country, saying measures have been activated to strengthen national preparedness and response systems.\nAlso, the Federal Airports Authority of Nigeria assured travellers and....",
+      "tag": "cases"
+    },
     {
       "title": "Delhi Airport Alert: IGI Issues Ebola Advisory Amid Passengers Arriving From Congo, Uganda, South Sudan",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021584759",
@@ -121,6 +163,13 @@
       "tag": "pheic"
     },
     {
+      "title": "The Czech Republic will receive an American doctor who has been exposed to people infected with the Ebola virus",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583262",
+      "pubDate": "Thu, 21 May 2026 08:02:00 Z",
+      "desc": "Berlin, May 20 (Xinhua) -- Prague News: The Czech Ministry of Health issued a statement on the 20th saying that at the request of the US government, the Czech Republic will accept an American doctor who has been exposed to Ebola virus infection on the same day.",
+      "tag": "analysis"
+    },
+    {
       "title": "El mundo está menos preparado para una pandemia que antes de la pandemia de COVID-19.",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583298",
       "pubDate": "Thu, 21 May 2026 08:02:00 Z",
@@ -132,13 +181,6 @@
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583340",
       "pubDate": "Thu, 21 May 2026 08:02:00 Z",
       "desc": "Bunia, 20 mai 2026 (ACP).- Le retrait des corps de la morgue de l’Hôpital général de référence de Bunia, en Ituri, nord-est de la République démocratique du Congo, sera désormais conditionné aux résultats d’analyses du laboratoire de l’Institut national de recherche biomédicale (INRB) durant cette....",
-      "tag": "analysis"
-    },
-    {
-      "title": "The Czech Republic will receive an American doctor who has been exposed to people infected with the Ebola virus",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583262",
-      "pubDate": "Thu, 21 May 2026 08:02:00 Z",
-      "desc": "Berlin, May 20 (Xinhua) -- Prague News: The Czech Ministry of Health issued a statement on the 20th saying that at the request of the US government, the Czech Republic will accept an American doctor who has been exposed to Ebola virus infection on the same day.",
       "tag": "analysis"
     },
     {
@@ -205,18 +247,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Concerns of global Ebola spread grow as workers claim deadly virus was spreading unchecked for weeks",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021584032",
-      "pubDate": "Thu, 21 May 2026 06:37:00 Z",
-      "desc": "* READ MORE: CDC 'working to ensure safety' of World Cup amid Ebola outbreak\nHealth officials are raising the alarm over the rapid spread of Ebola in an outbreak that has killed more than 130 people and infected nearly 600, including an American.\nWorld Health Organization Director-General Tedros....",
-      "tag": "analysis"
-    },
-    {
       "title": "Reuters Health News Summary",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021584029",
       "pubDate": "Thu, 21 May 2026 06:37:00 Z",
       "desc": "Following is a summary of current health news briefs.\nEbola likely circulating in Congo for two months, outbreak to grow, WHO says\nThe Ebola outbreak linked to more than 130 deaths in eastern Democratic Republic of Congo likely started two months ago and is expected to continue to grow, the World Health Organization said on Wednesday.",
       "tag": "cases"
+    },
+    {
+      "title": "Concerns of global Ebola spread grow as workers claim deadly virus was spreading unchecked for weeks",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021584032",
+      "pubDate": "Thu, 21 May 2026 06:37:00 Z",
+      "desc": "* READ MORE: CDC 'working to ensure safety' of World Cup amid Ebola outbreak\nHealth officials are raising the alarm over the rapid spread of Ebola in an outbreak that has killed more than 130 people and infected nearly 600, including an American.\nWorld Health Organization Director-General Tedros....",
+      "tag": "analysis"
     },
     {
       "title": "20 May 2026 Ebola outbreak: ‘Every epidemic begins in a community and ends in a community’ Facing a fast-moving Ebola outbreak caused by a rare strain of the virus, the World Health Organization (WHO) is relying on a rapid, community-centred response to halt transmission in eastern Democratic....",
@@ -321,48 +363,6 @@
       "link": "https://healthpolicy-watch.news/stopping-outbreaks-at-source-pandemic-preparedness-stumbles-at-local-level/",
       "pubDate": "Thu, 21 May 2026 05:19:00 Z",
       "desc": "‘s International Geneva Global Health Platform on Tuesday alongside the World Health Assembly. Clark stressed that pandemic preparedness involves countries and people knowing their risk: “What are you looking out for? What are you preparing for?” But Dr Mariângela Simão, Brazil’s Secretary of Health....",
-      "tag": "response"
-    },
-    {
-      "title": "Health authorities are racing to contain Ebola in the DRC and Uganda. Here’s what’s making it so challenging",
-      "link": "https://www.downtoearth.org.in/health/health-authorities-are-racing-to-contain-ebola-in-the-drc-and-uganda-heres-whats-making-it-so-challenging",
-      "pubDate": "Thu, 21 May 2026 05:06:00 Z",
-      "desc": "a fever, fatigue, muscle pain, then vomiting and diarrhoea. It can then progress to the hemorrhagic stage, with internal bleeding — which presents as blood in vomit and faeces — as well as bleeding as from parts of the body including the nose, gums, vagina and needle punctures.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Foreign Office issues warning for two countries over virus with 50% fatality rate",
-      "link": "https://www.birminghammail.co.uk/travel/foreign-office-issues-warning-two-33984376",
-      "pubDate": "Thu, 21 May 2026 04:45:00 Z",
-      "desc": "The Foreign Office has issued a new travel warning following the outbreak of Ebola. The FCDO has shared “updated information” to border crossings between Rwanda and Democratic Republic of Congo. The FCDO has also shared the addition of information about a declaration of an Ebola outbreak in DRC on 15 May.",
-      "tag": "response"
-    },
-    {
-      "title": "Asian countries tighten borders as authorities work to contain Ebola outbreak",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583645",
-      "pubDate": "Thu, 21 May 2026 04:37:00 Z",
-      "desc": "NAOMI KRESGE, FABIENNE KINZELMANN and JANICE KEW Governments across Asia are tightening border screening and quarantine preparedness as health authorities work to contain a growing Ebola outbreak in central Africa.\nSeveral governments have expanded screening and reporting requirements for travellers....",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola en Ituri : la propagation du virus pas encore maîtrisée”, selon un responsable sanitaire",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583621",
-      "pubDate": "Thu, 21 May 2026 04:37:00 Z",
-      "desc": "BUNIA, 20 mai 2026 (ACP) — La propagation du virus Ebola n’est « pas encore maîtrisée » dans la province de l’Ituri, dans le nord-est de la République démocratique du Congo, où une nouvelle épidémie a été déclarée le 15 mai, a indiqué mercredi un responsable sanitaire local.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Coahuila toma en serio el hantavirus y el Ébola.",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583590",
-      "pubDate": "Thu, 21 May 2026 04:32:00 Z",
-      "desc": "El gobernador Manolo Jiménez Salinas de Coahuila ha expresado preocupación por los brotes de hantavirus y Ébola en otros países, ya que podrían llegar a México a través de viajes internacionales para la Copa del Mundo en junio. Ha ordenado al Departamento de Salud establecer mecanismos de prevención y detección.",
-      "tag": "analysis"
-    },
-    {
-      "title": "City and County of Denver, CO - DDPHE Blog: What Denverites Need to Know About Hantavirus",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021583614",
-      "pubDate": "Thu, 21 May 2026 04:32:00 Z",
-      "desc": "Access the original document here\nDDPHE Blog: What Denverites Need to Know About Hantavirus\nDDPHE Blog: What Denverites Need to Know About Hantavirus\nPublished on May 20, 2026\nRecent news about a hantavirus outbreak affecting American travelers has raised questions and concerns across the country.",
       "tag": "response"
     }
   ]
