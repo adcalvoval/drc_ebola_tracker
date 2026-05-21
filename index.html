@@ -319,18 +319,41 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
 // ── Feed data — fetched fresh on every load, bypassing browser cache ──────────
-fetch('data/feed.json?t=' + Date.now())
-  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
-  .then(data => {
-    window.FEED_DATA = data;
-    renderNews(data.items, data.fetchedAt);
-    renderRssStats();
-  })
-  .catch(() => {
-    document.getElementById('newsScroll').innerHTML =
-      '<div style="padding:16px;color:#6b7a96;font-size:0.8rem;line-height:1.6;">' +
-      'Could not load feed data.<br>Run <code style="color:#c8d4e8;">python fetch_feed.py</code></div>';
-  });
+const REFRESH_INTERVAL_MS = 30 * 60 * 1000; // 30 minutes
+let nextRefreshAt = null;
+let countdownTimer = null;
+
+function loadFeed() {
+  return fetch('data/feed.json?t=' + Date.now())
+    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(data => {
+      window.FEED_DATA = data;
+      renderNews(data.items, data.fetchedAt);
+      renderRssStats();
+    })
+    .catch(() => {
+      document.getElementById('newsScroll').innerHTML =
+        '<div style="padding:16px;color:#6b7a96;font-size:0.8rem;line-height:1.6;">' +
+        'Could not load feed data.<br>Run <code style="color:#c8d4e8;">python fetch_feed.py</code></div>';
+    });
+}
+
+function scheduleRefresh() {
+  nextRefreshAt = Date.now() + REFRESH_INTERVAL_MS;
+  if (countdownTimer) clearInterval(countdownTimer);
+  countdownTimer = setInterval(() => {
+    const remaining = Math.max(0, nextRefreshAt - Date.now());
+    const mins = Math.floor(remaining / 60000);
+    const secs = Math.floor((remaining % 60000) / 1000);
+    const el = document.getElementById('refresh-countdown');
+    if (el) el.textContent = `Next refresh in ${mins}m ${secs.toString().padStart(2,'0')}s`;
+  }, 1000);
+  setTimeout(() => {
+    loadFeed().then(scheduleRefresh);
+  }, REFRESH_INTERVAL_MS);
+}
+
+loadFeed().then(scheduleRefresh);
 
 // ── GeoJSON sources (geoBoundaries, OCHA Common Operational Dataset) ──────────
 const GB = 'https://media.githubusercontent.com/media/wmgeolab/geoBoundaries/9469f09592ced973a3448cf66b6100b741b64c0d/releaseData/gbOpen';
@@ -810,7 +833,8 @@ function renderRssStats() {
   srcEl.innerHTML =
     `<span style="color:#2ecc71;font-weight:700;">&#10003; WHO EIOS RSS</span><br>` +
     `Source: ${srcLabel}<br>` +
-    `<span style="color:#4a5a76;">Fetched: ${fetched}</span>`;
+    `<span style="color:#4a5a76;">Fetched: ${fetched}</span><br>` +
+    `<span id="refresh-countdown" style="color:#3a4a66;font-size:0.62rem;"></span>`;
 }
 
 </script>
