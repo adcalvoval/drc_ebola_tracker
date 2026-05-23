@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 23 May 2026 16:03:12 Z",
-  "fetchedAt": "2026-05-23T16:03:12Z",
+  "lastBuildDate": "Sat, 23 May 2026 19:13:42 Z",
+  "fetchedAt": "2026-05-23T19:13:42Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -18,6 +18,69 @@ window.FEED_DATA = {
   },
   "items": [
     {
+      "title": "RDC/Ebola : le chef de l'OMS évoque un risque épidémique \"très élevé\"",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021602822",
+      "pubDate": "Sat, 23 May 2026 17:57:00 Z",
+      "desc": "LIBREVILLE, le 23 mai 2026 (AGP) – Le chef de l’Organisation mondiale de la santé (OMS), Tedros Adhanom Ghebreyesus a affirmé vendredi que le niveau de risque de santé publique lié à l’épidémie d’Ebola en République démocratique du Congo est “très élevé” , rapporte Radio France Internationale.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola: l’OMS alerte sur une situation « extrêmement préoccupante » avec près de 750 cas suspects et 177 décès présumés en RDC",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601356",
+      "pubDate": "Sat, 23 May 2026 17:57:00 Z",
+      "desc": "La situation de l’épidémie d’Ebola en RDC est « extrêmement préoccupante », selon le Directeur général de l’Organisation mondiale de la santé (OMS), Tedros Adhanom.",
+      "tag": "cases"
+    },
+    {
+      "title": "Ebola en RDC : l’OMS déclare une urgence de santé publique de portée internationale",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021602678",
+      "pubDate": "Sat, 23 May 2026 17:42:00 Z",
+      "desc": "La résurgence du virus Ebola dans l’est de la République démocratique du Congo (RDC) inquiète vivement l’Organisation mondiale de la santé (OMS), qui a déclaré « une urgence de santé publique de portée internationale » liée à cette nouvelle flambée de l’épidemie.",
+      "tag": "pheic"
+    },
+    {
+      "title": "Ebola: trois nouveaux cas confirmés en Ouganda (ministère de la Santé)",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601336",
+      "pubDate": "Sat, 23 May 2026 17:37:00 Z",
+      "desc": "Le nouveau président de la Fed veut mener une institution \"tournée vers des....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola au pays - L'hôpital CBCA Virunga de Goma tente d'adapter ses structures sanitaires à l'épidémie",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601282",
+      "pubDate": "Sat, 23 May 2026 17:37:00 Z",
+      "desc": "Avec l'appui de l'ONG International Medical Corps, l'établissement du chef-lieu de la province du Nord-Kivu contrôlé par l'AFC/M23 a mis en place un nouveau circuit de triage et d'isolement des patients présentant des symptômes de contamination au virus Ebola.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Aéroports, ports, postes terrestres… La Tunisie renforce sa vigilance sanitaire face aux risques Ebola et Hantavirus",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601326",
+      "pubDate": "Sat, 23 May 2026 17:37:00 Z",
+      "desc": "À l’issue d’une réunion interministérielle tenue hier le 22 mai, le ministre de la Santé a annoncé un renforcement du dispositif de surveillance à tous les points d’entrée du territoire, en lien direct avec l’OMS.\nMustapha Ferjani, ministre de la Santé, a présidé hier une réunion de coordination....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ébola : l’Ouganda ferme ses liaisons avec la RDC, l’OMS hausse le niveau d’alerte",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021602592",
+      "pubDate": "Sat, 23 May 2026 17:32:00 Z",
+      "desc": "Face à la propagation du virus Ébola dans l’est de la République démocratique du Congo (RDC), l’Ouganda a annoncé jeudi 21 mai 2026 une série de restrictions sanitaires d’urgence. L’annonce a été faite par Alan Kasujja, chef du centre de presse gouvernemental, et les mesures sont entrées en vigueur le samedi 23 mai.",
+      "tag": "response"
+    },
+    {
+      "title": "Santé: Ebola: trois nouveaux cas confirmés en Ouganda",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021602374",
+      "pubDate": "Sat, 23 May 2026 16:57:00 Z",
+      "desc": "Selon le Ministère de la santé ougandais, le nombre total de cas d'infection au virus Ebola recensés dans le pays est désormais de cinq.\nL'épidémie s'est déclarée dans l'est de la RDC (photo) et se propage rapidement, selon l'OMS. (Getty Images)\nTrois nouveaux cas du virus Ebola ont été confirmés....",
+      "tag": "analysis"
+    },
+    {
+      "title": "La nouvelle épidémie d’Ebola, entre inquiétudes et riposte (le point santé)",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021602134",
+      "pubDate": "Sat, 23 May 2026 16:17:00 Z",
+      "desc": "Plusieurs crises sanitaires se déroulent simultanément sur le continent, notamment la nouvelle flambée d’Ebola en RDC, qui pourrait devenir la plus sévère de son histoire récente. L’épidémie, élevée au rang d’urgence de santé publique de portée internationale, survient alors que le retrait massif de....",
+      "tag": "pheic"
+    },
+    {
       "title": "Epidémie d'Ebola : 750 cas suspects et trois provinces touchées en RDC ; trois nouveaux cas signalés en Ouganda Patrick GEROME - 23/05/2026 Lire plus➟",
       "link": "https://www.mesvaccins.net/web/news/24136-epidemie-d-ebola-750-cas-suspects-et-trois-provinces-touchees-en-rdc-trois-nouveaux-cas-signales-en-ouganda",
       "pubDate": "Sat, 23 May 2026 15:41:00 Z",
@@ -32,17 +95,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Ebola en Ituri : des tentes incendiées à Mongbwalu, 13 patients toujours introuvables",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601684",
-      "pubDate": "Sat, 23 May 2026 14:52:00 Z",
-      "desc": "Mongbwalu, 23 mai 2026 (ACP).- Des tentes destinées à l’isolement des malades d’Ebola ont été incendiées dans la nuit de vendredi à samedi à l’hôpital général de référence de Mongbwalu, situé à 85 kilomètres de Bunia, chef-lieu de la province de l’Ituri, épicentre de la 17ème épidémie d’Ebola, dans....",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola en RDC : risque désormais \"très élevé\", selon l'OMS",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601674",
       "pubDate": "Sat, 23 May 2026 14:52:00 Z",
       "desc": "L'Organisation mondiale de la santé a porté de \"élevé\"à \"très élevé\"le niveau de risque pour la santé publique lié à l'épidémie d'Ebola en République démocratique du Congo.\nDans une mise à jour publiée vendredi, le directeur général de l'agence, Tedros Adhanom Ghebreyesus, a indiqué que 82 cas....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en Ituri : des tentes incendiées à Mongbwalu, 13 patients toujours introuvables",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601684",
+      "pubDate": "Sat, 23 May 2026 14:52:00 Z",
+      "desc": "Mongbwalu, 23 mai 2026 (ACP).- Des tentes destinées à l’isolement des malades d’Ebola ont été incendiées dans la nuit de vendredi à samedi à l’hôpital général de référence de Mongbwalu, situé à 85 kilomètres de Bunia, chef-lieu de la province de l’Ituri, épicentre de la 17ème épidémie d’Ebola, dans....",
       "tag": "analysis"
     },
     {
@@ -653,69 +716,6 @@ window.FEED_DATA = {
       "pubDate": "Fri, 22 May 2026 23:08:00 Z",
       "desc": "As of today, HHS has issued an interim final rule revising the authority under 42 CFR Part 71.40, which into the United States to help stop the spread of dangerous diseases. The revised rule now applies the ability to suspend introduction into the United States to U.S. lawful permanent residents (green card holders).",
       "tag": "analysis"
-    },
-    {
-      "title": "'I'm a doctor and this is what you need to know about the Ebola outbreak'",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597151",
-      "pubDate": "Fri, 22 May 2026 23:07:00 Z",
-      "desc": "Workers doff their protective equipment in the Democratic Republic of Congo\nThe World Health Organisation has upgraded the risk level of the Ebola outbreak in Africa to 'very high', with 750 suspected cases and 177 deaths. Crucially, there is currently no vaccine available for the particular strain....",
-      "tag": "cases"
-    },
-    {
-      "title": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597095",
-      "pubDate": "Fri, 22 May 2026 23:02:00 Z",
-      "desc": "Situation described as ‘deeply worrisome’ by officials as aid cuts and community distrust impede responders\nThe Ebola outbreak in the Democratic Republic of the Congo poses a “very high” risk to the country, the World Health Organization said on Friday, revising its threat assessment upwards.",
-      "tag": "cases"
-    },
-    {
-      "title": "Les six patients atteints d’Ebola évadés du centre de traitement de Rwampara retrouvés",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597092",
-      "pubDate": "Fri, 22 May 2026 23:02:00 Z",
-      "desc": "Kinshasa, 22 mai 2026 (ACP)-Les six patients atteints d’Ebola qui avaient quitté dans la confusion le centre de traitement de Rwampara, en Ituri, dans le Nord-Est de la République démocratique du Congo (RDC), ont tous été retrouvés et repris en charge par les équipes médicales, a appris vendredi l’ACP de source gouvernementale.",
-      "tag": "analysis"
-    },
-    {
-      "title": "El preocupante brote de ébola revela el “impacto tremendo” del tijeretazo de Trump a las ayudas",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597088",
-      "pubDate": "Fri, 22 May 2026 23:02:00 Z",
-      "desc": "La responsable de la OMS en el país alerta de que la drástica caída del 70% de los fondos de EE UU merma la respuesta ante la crisis por falta de personal y equipamiento\nLa epidemia de ébola que golpea el noroeste de la República Democrática del Congo (RDC) —con al menos 177 muertes sospechosas y....",
-      "tag": "response"
-    },
-    {
-      "title": "Schedules of Controlled Substances: Temporary Placement of 2-Fluorodeschloroketamine in Schedule I",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597074",
-      "pubDate": "Fri, 22 May 2026 23:02:00 Z",
-      "desc": "Temporary amendment; temporary scheduling order.\nCFR Part: \"21 CFR Part 1308\"\nCitation: \"91 FR 30204\"\nDocument Number: \"Docket No. DEA-1442\"\nPage Number: \"30204\"\n\"Rules and Regulations\"\nAgency: \"Drug Enforcement Administration, Department of Justice.\"\nSUMMARY: The Drug Enforcement Administration....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Residents burn Ebola tents after hospital refuses release of victim’s body",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597031",
-      "pubDate": "Fri, 22 May 2026 22:57:00 Z",
-      "desc": "By Enitan Abdultawab\nResidents in eastern Democratic Republic of the Congo have reportedly set parts of an Ebola isolation facility on fire after a hospital refused to release the body of a man believed to have died from the virus.\nAccording to a BBC report, the unrest occurred at Rwampara General....",
-      "tag": "analysis"
-    },
-    {
-      "title": "American Doctor With Ebola Says He Is ‘Optimistic’ for Recovery",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021596995",
-      "pubDate": "Fri, 22 May 2026 22:52:00 Z",
-      "desc": "Dr. Peter Stafford, a medical missionary in the Democratic Republic of Congo, tested positive for Ebola on Sunday. He is receiving treatment in Germany.\nAs a surgery resident at the University of Kentucky, Dr. Peter Stafford had his sights set on working in Africa, where he and his wife, Rebekah, hoped to serve as medical missionaries.",
-      "tag": "analysis"
-    },
-    {
-      "title": "WHO raises Ebola risk level as DRC outbreak worsens, reports new hantavirus cases",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597014",
-      "pubDate": "Fri, 22 May 2026 22:52:00 Z",
-      "desc": "Nigeria, May 22 -- The World Health Organisation (WHO) has raised the risk level of the ongoing Ebola outbreak in the Democratic Republic of the Congo to \"very high\" nationally as suspected cases approach 750, with the disease already spreading across borders into Uganda.",
-      "tag": "cases"
-    },
-    {
-      "title": "House Summons Health, Border Officials Over Ebola Threat",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021596955",
-      "pubDate": "Fri, 22 May 2026 22:47:00 Z",
-      "desc": "The House of Representatives has ordered Liberia's top health and border officials to appear before plenary Tuesday, May 27, demanding a full accounting of what stands between this country and Ebola as a fresh outbreak in the eastern Democratic Republic of Congo renews fears across a region that has....",
-      "tag": "response"
     }
   ],
   "highWater": {
