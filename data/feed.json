@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 23 May 2026 11:27:13 Z",
-  "fetchedAt": "2026-05-23T11:27:13Z",
+  "lastBuildDate": "Sat, 23 May 2026 13:40:34 Z",
+  "fetchedAt": "2026-05-23T13:40:35Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -16,6 +16,20 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Ebola : trois nouveaux cas confirmés en Ouganda",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601213",
+      "pubDate": "Sat, 23 May 2026 12:32:00 Z",
+      "desc": "Ebola : trois nouveaux cas confirmés en Ouganda\nOuvrir en mode plein écran\nUn agent sanitaire au poste-frontière de Busunga, entre l'Ouganda et la République démocratique du Congo, lundi dernier.\nPhoto : afp via getty images / BADRU KATUMBA\nAgence France-Presse\nPublié à 8 h 19 HAE\nTrois nouveaux cas....",
+      "tag": "analysis"
+    },
+    {
+      "title": "L’épidémie d’Ebola, un risque maximal pour la santé publique",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601207",
+      "pubDate": "Sat, 23 May 2026 12:32:00 Z",
+      "desc": "République démocratique du Congo. L’épidémie d’Ebola représente désormais un risque « très élevé » pour la santé publique au niveau national, soit le niveau maximal, a alerté hier l’Organisation mondiale de la santé. Le virus se propage « rapidement ».",
+      "tag": "response"
+    },
     {
       "title": "Trois nouveaux cas confirmés de contamination par Ebola en Ouganda - Boursier.com",
       "link": "https://www.boursier.com/actualites/reuters/trois-nouveaux-cas-confirmes-de-contamination-par-ebola-en-ouganda-418822.html",
@@ -598,6 +612,13 @@
       "tag": "cases"
     },
     {
+      "title": "El preocupante brote de ébola revela el “impacto tremendo” del tijeretazo de Trump a las ayudas",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597088",
+      "pubDate": "Fri, 22 May 2026 23:02:00 Z",
+      "desc": "La responsable de la OMS en el país alerta de que la drástica caída del 70% de los fondos de EE UU merma la respuesta ante la crisis por falta de personal y equipamiento\nLa epidemia de ébola que golpea el noroeste de la República Democrática del Congo (RDC) —con al menos 177 muertes sospechosas y....",
+      "tag": "response"
+    },
+    {
       "title": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597095",
       "pubDate": "Fri, 22 May 2026 23:02:00 Z",
@@ -610,13 +631,6 @@
       "pubDate": "Fri, 22 May 2026 23:02:00 Z",
       "desc": "Kinshasa, 22 mai 2026 (ACP)-Les six patients atteints d’Ebola qui avaient quitté dans la confusion le centre de traitement de Rwampara, en Ituri, dans le Nord-Est de la République démocratique du Congo (RDC), ont tous été retrouvés et repris en charge par les équipes médicales, a appris vendredi l’ACP de source gouvernementale.",
       "tag": "analysis"
-    },
-    {
-      "title": "El preocupante brote de ébola revela el “impacto tremendo” del tijeretazo de Trump a las ayudas",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597088",
-      "pubDate": "Fri, 22 May 2026 23:02:00 Z",
-      "desc": "La responsable de la OMS en el país alerta de que la drástica caída del 70% de los fondos de EE UU merma la respuesta ante la crisis por falta de personal y equipamiento\nLa epidemia de ébola que golpea el noroeste de la República Democrática del Congo (RDC) —con al menos 177 muertes sospechosas y....",
-      "tag": "response"
     },
     {
       "title": "Schedules of Controlled Substances: Temporary Placement of 2-Fluorodeschloroketamine in Schedule I",
@@ -668,6 +682,13 @@
       "tag": "cases"
     },
     {
+      "title": "US says DRC team must isolate due to Ebola before arriving for World Cup",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021595688",
+      "pubDate": "Fri, 22 May 2026 22:47:00 Z",
+      "desc": "Sport | World Cup 2026\nUS says DRC team must isolate due to Ebola before arriving for World Cup\nDR Congo play their first World Cup 2026 game against Portugal on June 17 in Houston, but must isolate first.\nListen\nClick here to share on social media\nshare-nodes\nAdd Al Jazeera on Google\ninfo\nDR Congo....",
+      "tag": "analysis"
+    },
+    {
       "title": "K'taka on high alert after WHO declares Ebola outbreak global health emergency",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021596945",
       "pubDate": "Fri, 22 May 2026 22:47:00 Z",
@@ -682,27 +703,6 @@
       "tag": "analysis"
     },
     {
-      "title": "US says DRC team must isolate due to Ebola before arriving for World Cup",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021595688",
-      "pubDate": "Fri, 22 May 2026 22:47:00 Z",
-      "desc": "Sport | World Cup 2026\nUS says DRC team must isolate due to Ebola before arriving for World Cup\nDR Congo play their first World Cup 2026 game against Portugal on June 17 in Houston, but must isolate first.\nListen\nClick here to share on social media\nshare-nodes\nAdd Al Jazeera on Google\ninfo\nDR Congo....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola is spreading in the Congo and Uganda; here's why it's difficult to contain the outbreak",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021596901",
-      "pubDate": "Fri, 22 May 2026 22:42:00 Z",
-      "desc": "The Democratic Republic of the Congo is facing an Ebola outbreak, with nearly 600 cases detected so far and more than 130 deaths.\nEbola is a rare virus that causes fever, fatigue, and muscle aches, as well as vomiting and diarrhea. It can then progress to the hemorrhagic stage, with internal....",
-      "tag": "cases"
-    },
-    {
-      "title": "Ebola alert: Surveillance, health screening measures intensified at Kochi airport",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021596890",
-      "pubDate": "Fri, 22 May 2026 22:42:00 Z",
-      "desc": "\"; var html = \"\nNew Delhi: Health authorities have intensified surveillance and precautionary measures against the Ebola virus at Cochin International Airport, in Kerala's Kochi, following an emergency preparedness meeting jointly convened ...",
-      "tag": "response"
-    },
-    {
       "title": "WHO chief says Ebola is spreading rapidly in Congo, upgrades risk assessment",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021595766",
       "pubDate": "Fri, 22 May 2026 22:42:00 Z",
@@ -710,10 +710,10 @@
       "tag": "analysis"
     },
     {
-      "title": "From supply chains to access, aid agencies face challenges in this Ebola outbreak",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021595826",
-      "pubDate": "Fri, 22 May 2026 22:37:00 Z",
-      "desc": "An Ebola outbreak is spreading through the northeast region of the Democratic Republic of the Congo. There have been more than 600 suspected cases of the disease and more than 130 suspected deaths. Aid groups are ramping up their response, ...",
+      "title": "Ebola is spreading in the Congo and Uganda; here's why it's difficult to contain the outbreak",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021596901",
+      "pubDate": "Fri, 22 May 2026 22:42:00 Z",
+      "desc": "The Democratic Republic of the Congo is facing an Ebola outbreak, with nearly 600 cases detected so far and more than 130 deaths.\nEbola is a rare virus that causes fever, fatigue, and muscle aches, as well as vomiting and diarrhea. It can then progress to the hemorrhagic stage, with internal....",
       "tag": "cases"
     }
   ],
