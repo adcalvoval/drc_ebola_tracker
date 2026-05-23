@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 23 May 2026 19:13:42 Z",
-  "fetchedAt": "2026-05-23T19:13:42Z",
+  "lastBuildDate": "Sat, 23 May 2026 21:57:35 Z",
+  "fetchedAt": "2026-05-23T21:57:36Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -17,6 +17,48 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Ebola en RDC : les rumeurs ont laissé le virus prendre de l'ampleur",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021602479",
+      "pubDate": "Sat, 23 May 2026 21:37:00 Z",
+      "desc": "Le virus Ebola circulait en République démocratique du Congo depuis plusieurs semaines avant que l'épidémie ne soit identifiée et déclarée ; pendant cette période, les communautés touchées pensaient qu'il s'agissait d'une « maladie mystique...",
+      "tag": "analysis"
+    },
+    {
+      "title": "Résurgence d’Ebola: l’ UE alloue une envelloppe supplémentaire de 15 millions d’euros pour la réponse",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021602372",
+      "pubDate": "Sat, 23 May 2026 21:17:00 Z",
+      "desc": "Kinshasa , 23 mai 2026( RDC).- L ‘ Union européenne (UE) a alloué une envelloppe supplémentaire de 15 millions d’ Euros , en guise d’aide humanitaire, pour répondre à l’épidémie d’Ebola en République démocratique du Congo ( RDC), et en Ouganda, a annoncé vendredi, sur son Compte X, la Commissaire....",
+      "tag": "response"
+    },
+    {
+      "title": "Kinshasa: des mesures d’hygiène préconisées pour prévenir l’éclosion de la maladie à virus Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021602232",
+      "pubDate": "Sat, 23 May 2026 20:37:00 Z",
+      "desc": "Kinshasa , 23 mai 2026 ( ACP) .- L’ application stricte des mesures d’hygiène a été préconisée à l’autorité urbaine de Kinshasa, capitale de la République démocratique du Congo comme un des moyens pour éviter l’expansion de la maladie à virus Ebola par la coordinatrice d’une ONG , a appris samedi l’ACP de source administrative .",
+      "tag": "analysis"
+    },
+    {
+      "title": "ActualitésLa Tunisie renforce les mesures de vigilance sanitaire aux frontières face aux virus Ebola et... Il y a 14 heures",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021602209",
+      "pubDate": "Sat, 23 May 2026 20:37:00 Z",
+      "desc": "Le ministre de la Santé, le Dr Mustapha Ferjani, a présidé ce vendredi une réunion de coordination consacrée au suivi des dernières évolutions épidémiologiques dans le monde, notamment en ce qui concerne les virus Ebola et Hanta, dans le ...",
+      "tag": "analysis"
+    },
+    {
+      "title": "Trois nouveaux cas confirmés de contamination par Ebola en Ouganda",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601993",
+      "pubDate": "Sat, 23 May 2026 19:57:00 Z",
+      "desc": "23 mai (Reuters) - L'Ouganda a annoncé samedi trois nouveaux cas confirmés de contamination par le virus Ebola sur son sol, portant le total à cinq.\nCes nouveaux cas concernent un chauffeur ougandais ayant conduit un véhicule transportant le premier cas confirmé dans le pays et un travailleur de....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Nouvelle flambée des cas d’Ebola : dix pays africains sous surveillance face au risque de propagation de l’épidémie",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021603555",
+      "pubDate": "Sat, 23 May 2026 19:37:00 Z",
+      "desc": "L’agence sanitaire de l’Union africaine identifie plusieurs États voisins de la République démocratique du Congo et de l’Ouganda comme étant exposés à une possible extension de l’épidémie\nDix pays d’Afrique centrale risquent d’être touchés à leur tour par l’épidémie de fièvre hémorragique Ebola,....",
+      "tag": "analysis"
+    },
     {
       "title": "RDC/Ebola : le chef de l'OMS évoque un risque épidémique \"très élevé\"",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021602822",
@@ -95,17 +137,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Ebola en RDC : risque désormais \"très élevé\", selon l'OMS",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601674",
-      "pubDate": "Sat, 23 May 2026 14:52:00 Z",
-      "desc": "L'Organisation mondiale de la santé a porté de \"élevé\"à \"très élevé\"le niveau de risque pour la santé publique lié à l'épidémie d'Ebola en République démocratique du Congo.\nDans une mise à jour publiée vendredi, le directeur général de l'agence, Tedros Adhanom Ghebreyesus, a indiqué que 82 cas....",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola en Ituri : des tentes incendiées à Mongbwalu, 13 patients toujours introuvables",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601684",
       "pubDate": "Sat, 23 May 2026 14:52:00 Z",
       "desc": "Mongbwalu, 23 mai 2026 (ACP).- Des tentes destinées à l’isolement des malades d’Ebola ont été incendiées dans la nuit de vendredi à samedi à l’hôpital général de référence de Mongbwalu, situé à 85 kilomètres de Bunia, chef-lieu de la province de l’Ituri, épicentre de la 17ème épidémie d’Ebola, dans....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en RDC : risque désormais \"très élevé\", selon l'OMS",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601674",
+      "pubDate": "Sat, 23 May 2026 14:52:00 Z",
+      "desc": "L'Organisation mondiale de la santé a porté de \"élevé\"à \"très élevé\"le niveau de risque pour la santé publique lié à l'épidémie d'Ebola en République démocratique du Congo.\nDans une mise à jour publiée vendredi, le directeur général de l'agence, Tedros Adhanom Ghebreyesus, a indiqué que 82 cas....",
       "tag": "analysis"
     },
     {
@@ -674,48 +716,6 @@
       "pubDate": "Fri, 22 May 2026 23:32:00 Z",
       "desc": "Key Highlights:\n* Gavi is coordinating with partners to assess needs and define how to support outbreak response efforts and safeguard public health services.\n* Gavi funds the global stockpile of Ebola vaccines, but they are licensed for use against Zaire ebolavirus, not Bundibugyo virus.",
       "tag": "response"
-    },
-    {
-      "title": "Caos por brote de ébola: incendian hospital tras disputa por cuerpo de fallecido en RD Congo",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597311",
-      "pubDate": "Fri, 22 May 2026 23:27:00 Z",
-      "desc": "Momentos de tensión se vivieron en el este de la República Democrática del Congo (RDC), luego de que manifestantes incendiaran parte de un hospital ubicado en la zona epicentro del actual brote de ébola, declarado por la Organización Mundial de la Salud (OMS) como una \"emergencia de salud pública de importancia internacional\".",
-      "tag": "analysis"
-    },
-    {
-      "title": "Canada introduces enhanced border-screening measures as Ebola outbreak spreads; Travellers face additional questions upon arrival, including whether they have visited affected regions",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597246",
-      "pubDate": "Fri, 22 May 2026 23:22:00 Z",
-      "desc": "Ottawa and Calgary\nCanada has bolstered health screening at its borders because of the Ebola outbreak in the Democratic Republic of Congo and Uganda, says the country’s chief public health officer.\nAt a virtual press conference on Friday, Joss Reimer said travellers now face additional questions....",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola: Several countries tighten health screening at borders - VisasNews",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597202",
-      "pubDate": "Fri, 22 May 2026 23:17:00 Z",
-      "desc": "The Ebola Bundibugyo outbreak declared in the Democratic Republic of the Congo and Uganda is beginning to translate into concrete border measures.\nIn recent days, Thailand, South Korea, India and the United States have announced or implemented enhanced health screening, reporting requirements or targeted restrictions.",
-      "tag": "response"
-    },
-    {
-      "title": "Explained: Why is this Ebola disease outbreak different?",
-      "link": "https://msf.org.uk/article/explained-why-ebola-disease-outbreak-different",
-      "pubDate": "Fri, 22 May 2026 23:16:00 Z",
-      "desc": "against Ebola disease , but neither is approved for use in cases of infection with the Bundibugyo virus. The Ervebo vaccine (rVSV-ZEBOV) can be used to limit the spread of the disease through a so-called “ring vaccination” strategy, meaning it is administered to people who have been in contact with....",
-      "tag": "cases"
-    },
-    {
-      "title": "OMS anuncia que riesgo de epidemia de ébola en República Democrática del Congo pasa de “alto” a “muy alto”",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597193",
-      "pubDate": "Fri, 22 May 2026 23:12:00 Z",
-      "desc": "La epidemia de ébola que afecta a la República Democrática del Congo se está propagando rápidamente y el riesgo ha pasado de “alto” a “muy alto” a nivel nacional según los criterios de la Organización Mundial de la Salud (OMS). Se trata del nivel máximo de alerta, aunque el riesgo sigue siendo....",
-      "tag": "response"
-    },
-    {
-      "title": "Statement: Update on Title 42 Order",
-      "link": "https://www.cdc.gov/media/releases/2026/statement-update-on-title-42-order.html",
-      "pubDate": "Fri, 22 May 2026 23:08:00 Z",
-      "desc": "As of today, HHS has issued an interim final rule revising the authority under 42 CFR Part 71.40, which into the United States to help stop the spread of dangerous diseases. The revised rule now applies the ability to suspend introduction into the United States to U.S. lawful permanent residents (green card holders).",
-      "tag": "analysis"
     }
   ],
   "highWater": {
