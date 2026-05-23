@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 23 May 2026 13:40:34 Z",
-  "fetchedAt": "2026-05-23T13:40:35Z",
+  "lastBuildDate": "Sat, 23 May 2026 16:03:12 Z",
+  "fetchedAt": "2026-05-23T16:03:12Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -10,12 +10,62 @@
       "confirmed": 82
     },
     "uga": {
+      "cases": 750,
       "mentioned": true
     },
     "whoAlert": "PHEIC",
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Epidémie d'Ebola : 750 cas suspects et trois provinces touchées en RDC ; trois nouveaux cas signalés en Ouganda Patrick GEROME - 23/05/2026 Lire plus➟",
+      "link": "https://www.mesvaccins.net/web/news/24136-epidemie-d-ebola-750-cas-suspects-et-trois-provinces-touchees-en-rdc-trois-nouveaux-cas-signales-en-ouganda",
+      "pubDate": "Sat, 23 May 2026 15:41:00 Z",
+      "desc": "Epidémie d'Ebola : 750 cas suspects et trois provinces touchées en RDC ; trois nouveaux cas signalés en Ouganda.\n\nEn (RDC), l'épidémie de maladie à virus Ebola causée par le virus Bundibugyo (MVB) a atteint près de 750 cas suspects et 177 décès, incitant l'Organisation mondiale de la Santé (OMS) à....",
+      "tag": "cases"
+    },
+    {
+      "title": "Ebola : le Rwanda interdit l’entrée aux voyageurs étrangers ayant séjourné en RDC durant les 30 derniers jours",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601697",
+      "pubDate": "Sat, 23 May 2026 14:57:00 Z",
+      "desc": "Le Rwanda prend de nouvelles mesures contre le virus Ebola qui fait des ravages en RDC et l’Ouganda\nLe Rwanda annonce de nouvelles mesures sanitaires pour empêcher l’introduction du virus Ebola Bundibugyo sur son territoire. Désormais, les voyageurs étrangers ayant séjourné ou transité en RDC au....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en Ituri : des tentes incendiées à Mongbwalu, 13 patients toujours introuvables",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601684",
+      "pubDate": "Sat, 23 May 2026 14:52:00 Z",
+      "desc": "Mongbwalu, 23 mai 2026 (ACP).- Des tentes destinées à l’isolement des malades d’Ebola ont été incendiées dans la nuit de vendredi à samedi à l’hôpital général de référence de Mongbwalu, situé à 85 kilomètres de Bunia, chef-lieu de la province de l’Ituri, épicentre de la 17ème épidémie d’Ebola, dans....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en RDC : risque désormais \"très élevé\", selon l'OMS",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601674",
+      "pubDate": "Sat, 23 May 2026 14:52:00 Z",
+      "desc": "L'Organisation mondiale de la santé a porté de \"élevé\"à \"très élevé\"le niveau de risque pour la santé publique lié à l'épidémie d'Ebola en République démocratique du Congo.\nDans une mise à jour publiée vendredi, le directeur général de l'agence, Tedros Adhanom Ghebreyesus, a indiqué que 82 cas....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en RDC: l'hopital CBCA Virunga de Goma tente d'adapter ses structures sanitaires a l'epidemie",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021600646",
+      "pubDate": "Sat, 23 May 2026 14:32:00 Z",
+      "desc": "France, Mai 23 -- À Goma, chef-lieu de la province du Nord-Kivu controle par l'AFC/M23 où un cas d'Ebola a ete enregistre, les efforts pour tenter d'adapter les structures sanitaires a la gestion de la maladie s'accentuent. Grace a l'appui de l'ONG International Medical Corps (IMC), l'hopital CBCA....",
+      "tag": "analysis"
+    },
+    {
+      "title": "22 mai 2026 Allocution liminaire du Directeur général de l’OMS lors du point de presse sur les flambées d’Ebola et de hantavirus – 22 mai 2026",
+      "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing-on-outbreaks-of-ebola-and-hantavirus-22-may-2026",
+      "pubDate": "Sat, 23 May 2026 13:45:00 Z",
+      "desc": "Je salue l’ensemble des personnes présentes dans la salle et celles qui sont en ligne. La flambée d’Ebola en République démocratique du Congo s’étend rapidement. Auparavant, l’OMS avait considéré que le risque était élevé au niveau national et régional, et faible au niveau mondial.",
+      "tag": "analysis"
+    },
+    {
+      "title": "22 mai 2026 Allocution liminaire du Directeur général de l’OMS lors de la séance d’information des États Membres sur les flambées d’Ebola et de hantavirus – 22 mai 2026",
+      "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-information-session-on-outbreaks-of-ebola-and-hantavirus-22-may-2026",
+      "pubDate": "Sat, 23 May 2026 13:45:00 Z",
+      "desc": "Excellences, Mesdames et Messieurs les Ministres, Mesdames et Messieurs les Cheffes et Chefs de délégation, chères et chers collègues, chères amies, chers amis, Je salue l’ensemble des représentantes et représentants des États Membres présents dans la salle et celles et ceux qui sont en ligne.",
+      "tag": "analysis"
+    },
     {
       "title": "Ebola : trois nouveaux cas confirmés en Ouganda",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601213",
@@ -612,13 +662,6 @@
       "tag": "cases"
     },
     {
-      "title": "El preocupante brote de ébola revela el “impacto tremendo” del tijeretazo de Trump a las ayudas",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597088",
-      "pubDate": "Fri, 22 May 2026 23:02:00 Z",
-      "desc": "La responsable de la OMS en el país alerta de que la drástica caída del 70% de los fondos de EE UU merma la respuesta ante la crisis por falta de personal y equipamiento\nLa epidemia de ébola que golpea el noroeste de la República Democrática del Congo (RDC) —con al menos 177 muertes sospechosas y....",
-      "tag": "response"
-    },
-    {
       "title": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597095",
       "pubDate": "Fri, 22 May 2026 23:02:00 Z",
@@ -631,6 +674,13 @@
       "pubDate": "Fri, 22 May 2026 23:02:00 Z",
       "desc": "Kinshasa, 22 mai 2026 (ACP)-Les six patients atteints d’Ebola qui avaient quitté dans la confusion le centre de traitement de Rwampara, en Ituri, dans le Nord-Est de la République démocratique du Congo (RDC), ont tous été retrouvés et repris en charge par les équipes médicales, a appris vendredi l’ACP de source gouvernementale.",
       "tag": "analysis"
+    },
+    {
+      "title": "El preocupante brote de ébola revela el “impacto tremendo” del tijeretazo de Trump a las ayudas",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597088",
+      "pubDate": "Fri, 22 May 2026 23:02:00 Z",
+      "desc": "La responsable de la OMS en el país alerta de que la drástica caída del 70% de los fondos de EE UU merma la respuesta ante la crisis por falta de personal y equipamiento\nLa epidemia de ébola que golpea el noroeste de la República Democrática del Congo (RDC) —con al menos 177 muertes sospechosas y....",
+      "tag": "response"
     },
     {
       "title": "Schedules of Controlled Substances: Temporary Placement of 2-Fluorodeschloroketamine in Schedule I",
@@ -666,55 +716,6 @@
       "pubDate": "Fri, 22 May 2026 22:47:00 Z",
       "desc": "The House of Representatives has ordered Liberia's top health and border officials to appear before plenary Tuesday, May 27, demanding a full accounting of what stands between this country and Ebola as a fresh outbreak in the eastern Democratic Republic of Congo renews fears across a region that has....",
       "tag": "response"
-    },
-    {
-      "title": "Ebola : les veillées funéraires interdites dans l'est de la RDC",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021596924",
-      "pubDate": "Fri, 22 May 2026 22:47:00 Z",
-      "desc": "par Erikas Mwisi et Emma Farge\nBUNIA, République démocratique du Congo, 22 mai (Reuters) - L a province d'Ituri, la plus touchée par l'épidémie d'Ebola qui sévit dans l'est de la République démocratique du Congo, a interdit vendredi les veillées funéraires au lendemain de heurts entre des policiers....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola : Au moins 177 décès suspectés d'être liés à Ebola, annonce l'OMS",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021596960",
-      "pubDate": "Fri, 22 May 2026 22:47:00 Z",
-      "desc": "Le virus Ebola est suspecté d'avoir fait 177 morts sur 750 cas probables en République démocratique du Congo (RDC) et en Ouganda, a annoncé vendredi le directeur général de l'Organisation mondiale de la santé (OMS) Tedros Adhanom Ghebreyesus sur le réseau social X (anciennement Twitter).",
-      "tag": "cases"
-    },
-    {
-      "title": "US says DRC team must isolate due to Ebola before arriving for World Cup",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021595688",
-      "pubDate": "Fri, 22 May 2026 22:47:00 Z",
-      "desc": "Sport | World Cup 2026\nUS says DRC team must isolate due to Ebola before arriving for World Cup\nDR Congo play their first World Cup 2026 game against Portugal on June 17 in Houston, but must isolate first.\nListen\nClick here to share on social media\nshare-nodes\nAdd Al Jazeera on Google\ninfo\nDR Congo....",
-      "tag": "analysis"
-    },
-    {
-      "title": "K'taka on high alert after WHO declares Ebola outbreak global health emergency",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021596945",
-      "pubDate": "Fri, 22 May 2026 22:47:00 Z",
-      "desc": "Bengaluru, May 22 (IANS) The Karnataka Health Department has stepped up surveillance and preparedness measures across the state following the World Health Organization's (WHO) declaration of the ongoing Ebola Disease (ED) outbreak in the Democratic Republic of Congo (DRC) and Uganda as a “Public....",
-      "tag": "response"
-    },
-    {
-      "title": "Una guía rápida sobre el Ébola: qué es, cómo se propaga y qué sabemos sobre el brote actual en la República Democrática del Congo.",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021596934",
-      "pubDate": "Fri, 22 May 2026 22:47:00 Z",
-      "desc": "Desde su identificación en 1976, el virus del Ébola ha causado brotes recurrentes en África Central y Occidental, convirtiéndose en uno de los patógenos virales más mortales conocidos. Recientemente, el 16 de mayo, un nuevo brote de Ébola en la República Democrática del Congo ha generado preocupación internacional.",
-      "tag": "analysis"
-    },
-    {
-      "title": "WHO chief says Ebola is spreading rapidly in Congo, upgrades risk assessment",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021595766",
-      "pubDate": "Fri, 22 May 2026 22:42:00 Z",
-      "desc": "A person is wearing a protective face mask in front of the WHO logo, during the media regarding the epidemic of Ebola disease, during a press conference at the World Health Organization (WHO) headquarters in Geneva, Switzerland, Friday, May...",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola is spreading in the Congo and Uganda; here's why it's difficult to contain the outbreak",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021596901",
-      "pubDate": "Fri, 22 May 2026 22:42:00 Z",
-      "desc": "The Democratic Republic of the Congo is facing an Ebola outbreak, with nearly 600 cases detected so far and more than 130 deaths.\nEbola is a rare virus that causes fever, fatigue, and muscle aches, as well as vomiting and diarrhea. It can then progress to the hemorrhagic stage, with internal....",
-      "tag": "cases"
     }
   ],
   "highWater": {
@@ -737,8 +738,8 @@
     },
     "uga": {
       "cases": {
-        "value": 600,
-        "asOf": "2026-05-22T06:40:49Z",
+        "value": 750,
+        "asOf": "2026-05-23T16:03:12Z",
         "source": "WHO / OMS"
       }
     }
