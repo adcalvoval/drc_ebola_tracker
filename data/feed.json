@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 24 May 2026 15:58:38 Z",
-  "fetchedAt": "2026-05-24T15:58:39Z",
+  "lastBuildDate": "Sun, 24 May 2026 16:02:28 Z",
+  "fetchedAt": "2026-05-24T16:02:28Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -298,17 +298,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Ebola en RDC : risque désormais \"très élevé\", selon l'OMS",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601674",
-      "pubDate": "Sat, 23 May 2026 14:52:00 Z",
-      "desc": "L'Organisation mondiale de la santé a porté de \"élevé\"à \"très élevé\"le niveau de risque pour la santé publique lié à l'épidémie d'Ebola en République démocratique du Congo.\nDans une mise à jour publiée vendredi, le directeur général de l'agence, Tedros Adhanom Ghebreyesus, a indiqué que 82 cas....",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola en Ituri : des tentes incendiées à Mongbwalu, 13 patients toujours introuvables",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601684",
       "pubDate": "Sat, 23 May 2026 14:52:00 Z",
       "desc": "Mongbwalu, 23 mai 2026 (ACP).- Des tentes destinées à l’isolement des malades d’Ebola ont été incendiées dans la nuit de vendredi à samedi à l’hôpital général de référence de Mongbwalu, situé à 85 kilomètres de Bunia, chef-lieu de la province de l’Ituri, épicentre de la 17ème épidémie d’Ebola, dans....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en RDC : risque désormais \"très élevé\", selon l'OMS",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601674",
+      "pubDate": "Sat, 23 May 2026 14:52:00 Z",
+      "desc": "L'Organisation mondiale de la santé a porté de \"élevé\"à \"très élevé\"le niveau de risque pour la santé publique lié à l'épidémie d'Ebola en République démocratique du Congo.\nDans une mise à jour publiée vendredi, le directeur général de l'agence, Tedros Adhanom Ghebreyesus, a indiqué que 82 cas....",
       "tag": "analysis"
     },
     {
@@ -452,18 +452,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Ebola en RDC : 64 cas confirmés, 6 décès suspects – l’Ituri et le Nord-Kivu au cœur de la 17e épidémie",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599282",
-      "pubDate": "Sat, 23 May 2026 04:57:00 Z",
-      "desc": "© Zoom Eco\nLa 17ᵉ épidémie de maladie à virus Ebola que traverse la République démocratique du Congo progresse, inexorablement, dans l’est du pays. Selon le rapport officiel publié ce jeudi par les autorités sanitaires nationales, le bilan cumulé s’établit désormais à 64 cas confirmés depuis le début de la flambée.",
-      "tag": "cases"
-    },
-    {
       "title": "Ebola : 83 cas confirmés recensés en RDC",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599256",
       "pubDate": "Sat, 23 May 2026 04:57:00 Z",
       "desc": "Kinshasa, 22 mai 2026 (ACP).- Quatre-vingt-trois cas confirmés de la maladie à virus Ebola, dont 78 en Ituri, quatre au Nord-Kivu et un au Sud-Kivu, ont déjà été enregistrés en République démocratique du Congo, selon le rapport de situation publié vendredi par le gouvernement congolais sur l’évolution de cette 17ᵉ épidémie depuis 1976.",
       "tag": "analysis"
+    },
+    {
+      "title": "Ebola en RDC : 64 cas confirmés, 6 décès suspects – l’Ituri et le Nord-Kivu au cœur de la 17e épidémie",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599282",
+      "pubDate": "Sat, 23 May 2026 04:57:00 Z",
+      "desc": "© Zoom Eco\nLa 17ᵉ épidémie de maladie à virus Ebola que traverse la République démocratique du Congo progresse, inexorablement, dans l’est du pays. Selon le rapport officiel publié ce jeudi par les autorités sanitaires nationales, le bilan cumulé s’établit désormais à 64 cas confirmés depuis le début de la flambée.",
+      "tag": "cases"
     },
     {
       "title": "MAROC Au moins 15 personnes, dont deux fillettes, sont mortes, jeudi, dans...",
