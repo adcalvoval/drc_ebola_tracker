@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 24 May 2026 16:02:28 Z",
-  "fetchedAt": "2026-05-24T16:02:28Z",
+  "lastBuildDate": "Sun, 24 May 2026 19:20:25 Z",
+  "fetchedAt": "2026-05-24T19:20:25Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -17,6 +17,41 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Ebola à Bunia : satisfaction populaire après installation d’un écran géant pour la sensibilisation",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607697",
+      "pubDate": "Sun, 24 May 2026 19:17:00 Z",
+      "desc": "Bunia, 24 mai 2026 (ACP).– L’installation d’un écran géant au centre-ville de Bunia, chef-lieu de la province de l’Ituri, épicentre de la 17ème épidémie d’Ebola, dans le Nord-Est de la République démocratique du Congo (RDC), dans le cadre de la sensibilisation à la lutte contre cette maladie, a....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en RDC : plus de 200 décès sur 867 cas suspects",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021608373",
+      "pubDate": "Sun, 24 May 2026 18:27:00 Z",
+      "desc": "L'épidémie de fièvre hémorragique Ebola continue de frapper la République démocratique du Congo, avec un bilan tragique de plus de 200 décès sur 867 cas suspects. Le ministère de la Santé met en lumière l'ampleur de cette crise sanitaire ...",
+      "tag": "cases"
+    },
+    {
+      "title": "Ebola: 10 pays africains risquent d'être touchés par l'épidémie, selon l'Africa CDC",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607148",
+      "pubDate": "Sun, 24 May 2026 16:57:00 Z",
+      "desc": "14:15 Pakistan: un attentat à la voiture piégée fait au moins 24 morts dans un ...",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en RDC: plus de 200 décès sur 867 cas suspects, selon un dernier bilan officiel",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607161",
+      "pubDate": "Sun, 24 May 2026 16:57:00 Z",
+      "desc": "14:15 Pakistan: un attentat à la voiture piégée fait au moins 24 morts dans un ...",
+      "tag": "cases"
+    },
+    {
+      "title": "Ebola en Ituri : une association exhorte la population à signaler les cas suspects",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021608112",
+      "pubDate": "Sun, 24 May 2026 16:22:00 Z",
+      "desc": "Bunia, 24 mai 2026 (ACP).- Une association culturelle regroupant le peuple Hema a exhorté la population à signaler rapidement les cas suspects d’Ebola et à respecter strictement les mesures sanitaires afin de freiner la propagation de cette épidémie qui touche plusieurs zones de santé de la province....",
+      "tag": "cases"
+    },
     {
       "title": "Aéroport de Beni : Suspension du transport des passagers par bus jusqu’au pied d’avion.",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607924",
@@ -680,41 +715,6 @@
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597728",
       "pubDate": "Sat, 23 May 2026 00:27:00 Z",
       "desc": "The Director-General of the World Health Organization (WHO), Tedros Adhanom Ghebreyesus, said that the Ebola outbreak in the Democratic Republic of the Congo (DRC) is \"deeply concerning.\" To date, 82 cases and 7 deaths have been confirmed. However, there are another 750 suspected cases and 177 suspected deaths.",
-      "tag": "cases"
-    },
-    {
-      "title": "U.S. Pauses New Visas for Travelers From Three Countries Dealing With Ebola Outbreak, Sources Say -- WSJ",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597736",
-      "pubDate": "Sat, 23 May 2026 00:27:00 Z",
-      "desc": "22 May 2026 15:32 ET *Policy Applies to Those in South Sudan, the Democratic Republic of Congo, or Uganda Within 21 Days of Planned Travel to U.S., Sources Say -- WSJ\n22 May 2026 15:32 ET \nU.S. Pauses Visa Issuance for People Who Have Visited Ebola-hit Countries -- WSJ\nBy Robbie Gramer and Sabrina Siddiqui\nWASHINGTON -- The U.",
-      "tag": "response"
-    },
-    {
-      "title": "Kenya on high Ebola alert as seven tested and cleared",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597727",
-      "pubDate": "Sat, 23 May 2026 00:27:00 Z",
-      "desc": "Seven people who went to health facilities with symptoms consistent with Ebola have been cleared after testing negative.\nThree of them had recently been to the Democratic Republic of Congo. The rest were contacts who had accompanied them to the hospital and were tested as a precaution.",
-      "tag": "response"
-    },
-    {
-      "title": "The WHO has raised the Ebola risk in the Democratic Republic of the Congo to “very high”",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597725",
-      "pubDate": "Sat, 23 May 2026 00:27:00 Z",
-      "desc": "The World Health Organization (WHO) raised the risk level of the Ebola epidemic from “high” to “very high”—the highest level—on Friday, in the Democratic Republic of the Congo (DRC), where “82 cases, including seven deaths,” have already been confirmed, although there are “about 750 suspected cases and 177 suspected deaths” related to the disease.",
-      "tag": "cases"
-    },
-    {
-      "title": "Ebola en RDC : 64 cas confirmés et 1.261 contacts recensés",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597692",
-      "pubDate": "Sat, 23 May 2026 00:22:00 Z",
-      "desc": "Kinshasa, 22 mai 2026 (ACP).- La République démocratique du Congo fait face à une progression de sa 17ᵉ épidémie d’Ebola avec 64 cas confirmés recensés au 20 mai 2026 dans les provinces de l’Ituri et du Nord-Kivu, selon le rapport officiel de situation publié jeudi par le gouvernement congolais.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola outbreak: 177 dead in Congo; WHO estimates risk is extremely high! Dual-line combat warning",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597702",
-      "pubDate": "Sat, 23 May 2026 00:22:00 Z",
-      "desc": "Africa has recently experienced an outbreak of the Ebola virus. The World Health Organization (WHO) released its latest epidemic report today (22nd). The outbreak is still limited to the Democratic Republic of Congo and Uganda, with cases in Congo continuing to rise, which is concerning.",
       "tag": "cases"
     }
   ],
