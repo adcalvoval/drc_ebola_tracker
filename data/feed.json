@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 24 May 2026 13:40:28 Z",
-  "fetchedAt": "2026-05-24T13:40:28Z",
+  "lastBuildDate": "Sun, 24 May 2026 15:58:38 Z",
+  "fetchedAt": "2026-05-24T15:58:39Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -17,6 +17,34 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Aéroport de Beni : Suspension du transport des passagers par bus jusqu’au pied d’avion.",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607924",
+      "pubDate": "Sun, 24 May 2026 15:47:00 Z",
+      "desc": "Beni, 24 mai 2026 (ACP).- Le transport des passagers de la salle d’attente au pied d’avion par bus à l’aéroport de Beni, au Nord-Kivu (Est de la République démocratique du Congo), est désormais suspendu conformément à une des mesures barrières contre la maladie à virus Ebola, selon les sources aéroportuaires jointes ce dimanche.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Bien vivre avec l’asthme,",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021606899",
+      "pubDate": "Sun, 24 May 2026 15:37:00 Z",
+      "desc": "SOINS Symptômes négligés, maladie sous-estimée : l’asthme non diagnostiqué et/ou mal traité a d’importantes répercussions sur la qualité de vie. Une prise en charge précoce et adaptée permet pourtant de contrôler la maladie.\nc’est possible, sous conditions\nPAR CAROLINE MARTINAT / CMARTINAT@NICEMATIN.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Bunia : des mesures strictes instaurées à Yambi Yaya pour prévenir Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607814",
+      "pubDate": "Sun, 24 May 2026 15:22:00 Z",
+      "desc": "Bunia, 24 mai 2026 (ACP).- Dans le cadre de la riposte contre la maladie à virus Ebola,\nDes dispositions préventives ont été instaurées et observées dans plusieurs lieux publics de la ville de Bunia, notamment au sein des institutions religieuses, a constaté l’ACP lors d’une ronde.\n, a constaté l’ACP.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Bientôt dix pays touchés par l’épidémie d’Ebola ?",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607471",
+      "pubDate": "Sun, 24 May 2026 14:22:00 Z",
+      "desc": "L’épidémie d’Ebola progresse et inquiète en Afrique de l’Ouest. En plus de la République démocratique du Congo – RDC, épicentre de l’épidémie – et de son voisin, l’Ouganda, « nous avons dix pays à risque » d’être touchés, a déclaré samedi Jean Kaseya, président de l’Agence sanitaire de l’Union africaine (Africa CDC).",
+      "tag": "analysis"
+    },
     {
       "title": "1 Economie Ebola : le Consortium de recherche sur les filovirus se mobilise et prépare la riposte... Il y a 1 minute",
       "link": "https://www.tunisienumerique.com/ebola-le-consortium-de-recherche-sur-les-filovirus-se-mobilise-et-prepare-la-riposte-sanitaire/",
@@ -688,34 +716,6 @@
       "pubDate": "Sat, 23 May 2026 00:22:00 Z",
       "desc": "Africa has recently experienced an outbreak of the Ebola virus. The World Health Organization (WHO) released its latest epidemic report today (22nd). The outbreak is still limited to the Democratic Republic of Congo and Uganda, with cases in Congo continuing to rise, which is concerning.",
       "tag": "cases"
-    },
-    {
-      "title": "Nigeria Confirms No Ebola Outbreak Amidst Regional Concerns",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597109",
-      "pubDate": "Sat, 23 May 2026 00:22:00 Z",
-      "desc": "The Federal Airports Authority of Nigeria (FAAN) has officially stated that there are no confirmed cases of the Ebola virus within the country. This reassurance comes as a response to growing apprehension stemming from reported outbreaks in...",
-      "tag": "cases"
-    },
-    {
-      "title": "RDC: Ebola gagne une zone contrôlée par le M23, l’inquiétude internationale s’accentue",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021595989",
-      "pubDate": "Sat, 23 May 2026 00:12:00 Z",
-      "desc": "À Goma, des campagnes de sensibilisation ont été lancées après l’apparition de premiers cas, tandis qu’à Kinshasa, des laboratoires tentent de retracer l’origine de la souche virale afin de ralentir sa propagation.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Gov't bans travel to Congo’s Ituri Province amid Ebola surge",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597640",
-      "pubDate": "Sat, 23 May 2026 00:12:00 Z",
-      "desc": "Korea has issued a blanket travel ban for the Ituri Province of the Democratic Republic of the Congo, responding to the mounting death toll from a worsening Ebola virus outbreak in the region.\nThe Ministry of Foreign Affairs announced that the Level 4 travel alert — the highest in the country’s four-tier system — will take effect on Friday at 2 p.",
-      "tag": "response"
-    },
-    {
-      "title": "No vaccine yet for new Ebola strain, Vietnam steps up surveillance",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597196",
-      "pubDate": "Sat, 23 May 2026 00:12:00 Z",
-      "desc": "Vietnam’s Department of Preventive Medicine under the Ministry of Health convened an emergency meeting on the morning of May 22 to discuss surveillance and prevention measures against the Ebola virus disease following a worsening outbreak ...",
-      "tag": "analysis"
     }
   ],
   "highWater": {
