@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 24 May 2026 08:32:07 Z",
-  "fetchedAt": "2026-05-24T08:32:07Z",
+  "lastBuildDate": "Sun, 24 May 2026 10:42:46 Z",
+  "fetchedAt": "2026-05-24T10:42:46Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -17,6 +17,13 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Ebola : il y a « 10 pays africains à risque », alerte l’Agence sanitaire de l’UA",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021606567",
+      "pubDate": "Sun, 24 May 2026 09:42:00 Z",
+      "desc": "Alors que l’Ouganda a révélé que trois nouveaux cas ont été recensés, l’Africa CDC alerte sur les risques de propagation d’Ebola dans une dizaine d’autres pays du continent.\nDix pays africains risquent d’être touchés par le virus Ebola, en plus de la RDC – épicentre de l’épidémie – et de l’ Ouganda,....",
+      "tag": "response"
+    },
     {
       "title": "RDC: trois volontaires de la Croix-Rouge meurent d'Ebola présumée",
       "link": "https://fr.euronews.com/sante/2026/05/24/rdc-trois-volontaires-de-la-croix-rouge-meurent-dune-ebola-suspectee-lepidemie-setend",
@@ -249,17 +256,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Ebola en Ituri : des tentes incendiées à Mongbwalu, 13 patients toujours introuvables",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601684",
-      "pubDate": "Sat, 23 May 2026 14:52:00 Z",
-      "desc": "Mongbwalu, 23 mai 2026 (ACP).- Des tentes destinées à l’isolement des malades d’Ebola ont été incendiées dans la nuit de vendredi à samedi à l’hôpital général de référence de Mongbwalu, situé à 85 kilomètres de Bunia, chef-lieu de la province de l’Ituri, épicentre de la 17ème épidémie d’Ebola, dans....",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola en RDC : risque désormais \"très élevé\", selon l'OMS",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601674",
       "pubDate": "Sat, 23 May 2026 14:52:00 Z",
       "desc": "L'Organisation mondiale de la santé a porté de \"élevé\"à \"très élevé\"le niveau de risque pour la santé publique lié à l'épidémie d'Ebola en République démocratique du Congo.\nDans une mise à jour publiée vendredi, le directeur général de l'agence, Tedros Adhanom Ghebreyesus, a indiqué que 82 cas....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en Ituri : des tentes incendiées à Mongbwalu, 13 patients toujours introuvables",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601684",
+      "pubDate": "Sat, 23 May 2026 14:52:00 Z",
+      "desc": "Mongbwalu, 23 mai 2026 (ACP).- Des tentes destinées à l’isolement des malades d’Ebola ont été incendiées dans la nuit de vendredi à samedi à l’hôpital général de référence de Mongbwalu, situé à 85 kilomètres de Bunia, chef-lieu de la province de l’Ituri, épicentre de la 17ème épidémie d’Ebola, dans....",
       "tag": "analysis"
     },
     {
@@ -709,13 +716,6 @@
       "pubDate": "Sat, 23 May 2026 00:02:00 Z",
       "desc": "The United States has started routing travelers who recently visited countries affected by the Ebola outbreak to a single airport near Washington for health screening, officials told AFP on Thursday. The rule applies to people who were in the Democratic Republic of Congo (DRC), Uganda or South Sudan within the last 21 days.",
       "tag": "response"
-    },
-    {
-      "title": "Ebola Outbreak Crisis in the Democratic Republic of the Congo",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597618",
-      "pubDate": "Sat, 23 May 2026 00:02:00 Z",
-      "desc": "Fact Sheet\nThere have been 160 suspected Ebola deaths in the Democratic Republic of the Congo, with 671 suspected cases and 64 confirmed cases. The WHO has declared the outbreak a public health emergency of international concern.\nTap to view the full context\nContext:\nThe outbreak was declared a week....",
-      "tag": "pheic"
     }
   ],
   "highWater": {
