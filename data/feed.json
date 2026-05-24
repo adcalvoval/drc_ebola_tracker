@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 24 May 2026 10:42:46 Z",
-  "fetchedAt": "2026-05-24T10:42:46Z",
+  "lastBuildDate": "Sun, 24 May 2026 13:40:28 Z",
+  "fetchedAt": "2026-05-24T13:40:28Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -17,6 +17,20 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "1 Economie Ebola : le Consortium de recherche sur les filovirus se mobilise et prépare la riposte... Il y a 1 minute",
+      "link": "https://www.tunisienumerique.com/ebola-le-consortium-de-recherche-sur-les-filovirus-se-mobilise-et-prepare-la-riposte-sanitaire/",
+      "pubDate": "Sun, 24 May 2026 13:12:00 Z",
+      "desc": "Ça chauffe encire à la République démocratique du Congo, et ce, face à l’urgence de santé publique que représente l’épidémie d’Ebola – variant de Bundibugyo dans l’est du pays, où le travail est aussi scientifique. Ce weekend, et en collaboration avec l’OMS, le Consortium de recherche sur les....",
+      "tag": "pheic"
+    },
+    {
+      "title": "Ebola : deux cas confirmés dont un décès au Sud-Kivu",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607237",
+      "pubDate": "Sun, 24 May 2026 12:57:00 Z",
+      "desc": "L’épidémie d’Ebola continue de progresser en République démocratique du Congo. Selon le dernier rapport de situation (sitrep) du ministère de la Santé, mis à jour à la date du 24 mai, la maladie s’est désormais étendue à la province du ...",
+      "tag": "cases"
+    },
     {
       "title": "Ebola : il y a « 10 pays africains à risque », alerte l’Agence sanitaire de l’UA",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021606567",
@@ -571,18 +585,18 @@
       "tag": "analysis"
     },
     {
-      "title": "CEPI’s response to epidemic of Ebola Disease caused by Bundibugyo virus",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597855",
-      "pubDate": "Sat, 23 May 2026 00:42:00 Z",
-      "desc": "Key Highlights:\n* CEPI focuses on evaluating prophylactic medical countermeasures for Bundibugyo virus, including vaccines.\n* CEPI assesses vaccine and monoclonal antibody candidates for potential evaluation during the outbreak.\n* CEPI activates global preparedness networks to support vaccine development and testing.",
-      "tag": "response"
-    },
-    {
       "title": "La OMS eleva a 177 el número de muertes sospechosas de ébola en la República Democrática del Congo y explica el riesgo global.",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597870",
       "pubDate": "Sat, 23 May 2026 00:42:00 Z",
       "desc": "La Organización Mundial de la Salud (OMS) ha elevado el nivel de riesgo de \"alto\" a \"muy alto\" debido al brote reciente de ébola en la República Democrática del Congo, con 750 casos sospechosos y 177 muertes reportadas. El Director General de la OMS, Tedros Adhanom Ghebreyesus, mencionó que el....",
       "tag": "cases"
+    },
+    {
+      "title": "CEPI’s response to epidemic of Ebola Disease caused by Bundibugyo virus",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597855",
+      "pubDate": "Sat, 23 May 2026 00:42:00 Z",
+      "desc": "Key Highlights:\n* CEPI focuses on evaluating prophylactic medical countermeasures for Bundibugyo virus, including vaccines.\n* CEPI assesses vaccine and monoclonal antibody candidates for potential evaluation during the outbreak.\n* CEPI activates global preparedness networks to support vaccine development and testing.",
+      "tag": "response"
     },
     {
       "title": "Des écoles et centres de santé de Butembo renforcent les mesures de prévention d'Ebola",
@@ -702,20 +716,6 @@
       "pubDate": "Sat, 23 May 2026 00:12:00 Z",
       "desc": "Vietnam’s Department of Preventive Medicine under the Ministry of Health convened an emergency meeting on the morning of May 22 to discuss surveillance and prevention measures against the Ebola virus disease following a worsening outbreak ...",
       "tag": "analysis"
-    },
-    {
-      "title": "Kenya warns diaspora in DRC, Uganda over Ebola outbreak",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597642",
-      "pubDate": "Sat, 23 May 2026 00:12:00 Z",
-      "desc": "The Kenyan government has issued a health advisory to Kenyans living in or travelling through parts of the Democratic Republic of Congo (DRC) and Uganda affected by the ongoing Ebola Virus Disease (EVD) outbreak, urging them to remain vigilant and take preventive measures.",
-      "tag": "response"
-    },
-    {
-      "title": "US redirects travelers from Ebola-affected countries to one airport for screening",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597613",
-      "pubDate": "Sat, 23 May 2026 00:02:00 Z",
-      "desc": "The United States has started routing travelers who recently visited countries affected by the Ebola outbreak to a single airport near Washington for health screening, officials told AFP on Thursday. The rule applies to people who were in the Democratic Republic of Congo (DRC), Uganda or South Sudan within the last 21 days.",
-      "tag": "response"
     }
   ],
   "highWater": {
