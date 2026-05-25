@@ -1,13 +1,13 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 24 May 2026 21:57:41 Z",
-  "fetchedAt": "2026-05-24T21:57:42Z",
+  "lastBuildDate": "Mon, 25 May 2026 04:02:36 Z",
+  "fetchedAt": "2026-05-25T04:02:36Z",
   "itemCount": 100,
   "stats": {
     "drc": {
       "deaths": 177,
       "suspected": 750,
-      "confirmed": 82
+      "confirmed": 91
     },
     "uga": {
       "cases": 750,
@@ -17,6 +17,20 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Jocelyn Raude, professeur en psychologie de la santé : « Ce n’est pas le taux de mortalité élevé d’un virus qui crée une panique, mais la méconnaissance qui l’entoure »",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021609286",
+      "pubDate": "Mon, 25 May 2026 00:57:00 Z",
+      "desc": "L’inquiétude générée par les infections à hantavirus est en partie liée au réveil de la mémoire traumatique de la pandémie de Covid-19, explique le spécialiste des comportements des populations face aux risques sanitaires, dans un entretien au « Monde ».",
+      "tag": "analysis"
+    },
+    {
+      "title": "Trois nouveaux cas d’Ebola confirmés en Ouganda",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021610296",
+      "pubDate": "Mon, 25 May 2026 00:47:00 Z",
+      "desc": "Trois nouveaux cas du virus Ebola ont été confirmés samedi en Ouganda. Le pays est voisin de la République démocratique du Congo (RDC), l’épicentre de l’épidémie actuelle où le virus représente un risque « très élevé » pour la santé publique. L’OMS a déclenché une alerte sanitaire internationale....",
+      "tag": "response"
+    },
     {
       "title": "« Il faut impérativement dépolitiser l'épidémie »: au Congo, un variant rare d'Ebola vient s'ajouter au chaos de la guerre",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021609541",
@@ -702,20 +716,6 @@
       "pubDate": "Sat, 23 May 2026 00:52:00 Z",
       "desc": "Momentos de tensión se desarrollaron en el este de la República Democrática del Congo después de que manifestantes incendiaran parte de un hospital en el epicentro del actual brote de Ébola, declarado como una \"emergencia de salud pública de preocupación internacional\" por la Organización Mundial de la Salud.",
       "tag": "analysis"
-    },
-    {
-      "title": "WHO raises Ebola risk in DR Congo to very high",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597954",
-      "pubDate": "Sat, 23 May 2026 00:52:00 Z",
-      "desc": "Geneva: The World Health Organization raised the Ebola outbreak risk in the Democratic Republic of the Congo to \"very high\" nationally amid the rapid spread of the virus.\nWHO chief Tedros Adhanom Ghebreyesus said around 750 suspected cases and 177 suspected deaths have been recorded, including 82 confirmed cases and seven confirmed deaths.",
-      "tag": "cases"
-    },
-    {
-      "title": "France : une patiente atteinte d’hantavirus toujours en réanimation, Paris renforce aussi sa vigilance sur Ebola Interrogée vendredi dans la presse française, la ministre française de la Santé Stéphanie Rist a déclaré que la Française contaminée par l’ha…",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021596134",
-      "pubDate": "Sat, 23 May 2026 00:52:00 Z",
-      "desc": "La ministre française de la Santé, Stéphanie Rist, assiste à une audition devant la commission des affaires sociales de l'Assemblée nationale, la chambre basse du Parlement français, à Paris, le 13 mai 2026.",
-      "tag": "analysis"
     }
   ],
   "highWater": {
@@ -731,8 +731,8 @@
         "source": "WHO / OMS"
       },
       "confirmed": {
-        "value": 82,
-        "asOf": "2026-05-23T11:27:13Z",
+        "value": 91,
+        "asOf": "2026-05-25T04:02:36Z",
         "source": "WHO / OMS"
       }
     },
