@@ -249,30 +249,25 @@ def extract_uga_cases(items):
         if not re.search(r'uganda|ouganda|أوغندا', text, re.IGNORECASE):
             continue
         for pat in [
-            # EN: number explicitly "in / to / imported to Uganda"
-            r'(\d+)\s+(?:confirmed\s+)?cases?\s+(?:in|reported\s+in|imported\s+(?:to|in))\s+(?:neighboring\s+)?Uganda',
-            r'(\d+)\s+(?:confirmed\s+)?(?:deaths?|cases?)\s+in\s+Uganda',
-            r'(\d+)\s+in\s+(?:neighboring\s+)?Uganda',
-            r'confirmed\s+(\d+)\s+cases?\s+(?:in\s+|from\s+)?Uganda',
-            r'(\d+)\s+confirmed\s+cases?\s+(?:in\s+|from\s+)?Uganda',
-            _Q + r'\s+(\d+)\s+(?:confirmed\s+)?cases?\s+(?:in\s+)?Uganda',
-            r'(\d+)\s+cases?\s+coming\s+from\s+(?:the\s+)?(?:DRC|Congo)',
-            # EN: "Uganda ... X cases" (Uganda leads the clause)
-            r'Uganda[^.]{0,60}?(\d+)\s+(?:confirmed\s+)?cases?\b',
-            # FR: "Ouganda ... X cas" (Ouganda leads the clause)
-            r'Ouganda[^.]{0,80}?(\d+)\s+cas\b',
-            r'(?:Ouganda|Uganda)[^.]{0,60}?' + _Q + r'\s+(\d+)\s+cas\b',
-            # FR: "X cas ... en Ouganda" (tight 30-char window before Uganda)
-            r'(\d+)\s+cas\b[^.]{0,30}?en\s+(?:Ouganda|Uganda)',
-            r'(\d+)\s+personnes?\s+(?:suspectées?|infectées?|en\s+quarantaine)[^.]{0,30}?(?:Ouganda|Uganda)',
-            # ES: "X casos en Uganda" or "Uganda ... X casos"
-            r'(\d+)\s+casos?\s+(?:confirmados?|sospechosos?|positivos?)?\s*(?:en|en\s+todo)\s+Uganda',
-            r'Uganda[^.]{0,50}?(\d+)\s+casos?\b',
-            # PT: "X casos confirmados/suspeitos em Uganda"
-            r'(\d+)\s+casos?\s+(?:confirmados?|suspeitos?)\s+(?:em|em\s+todo)\s+Uganda',
-            # AR
-            r'(?:أوغندا|Uganda)[^.]{0,60}?(\d+)\s+(?:حالات|حالة)',
-            r'(\d+)\s+(?:حالات|حالة)[^.]{0,40}?(?:أوغندا|Uganda)',
+            # EN — number must be anchored to Uganda as the explicit location.
+            # "X cases in Uganda" / "X confirmed cases in Uganda"
+            r'(\d+)\s+(?:confirmed\s+)?cases?\s+(?:in|reported\s+in)\s+(?:neighboring\s+)?Uganda\b',
+            r'(\d+)\s+(?:confirmed\s+)?cases?\s+imported\s+(?:to|in)\s+Uganda\b',
+            r'(\d+)\s+(?:confirmed\s+)?(?:deaths?|cases?)\s+in\s+Uganda\b',
+            r'(\d+)\s+in\s+(?:neighboring\s+)?Uganda\b',
+            r'confirmed\s+(\d+)\s+cases?\s+(?:in|from)\s+Uganda\b',
+            r'(\d+)\s+confirmed\s+cases?\s+(?:in|from)\s+Uganda\b',
+            # Qualifier + "X cases in Uganda" — require explicit "in Uganda", not just Uganda nearby
+            _Q + r'\s+(\d+)\s+(?:confirmed\s+)?cases?\s+in\s+Uganda\b',
+            # FR — "X cas confirmés/suspects en Ouganda" — number before "en Ouganda"
+            r'(\d+)\s+cas\s+(?:confirmés?|suspects?|positifs?|importés?)\s+(?:en|au)\s+(?:Ouganda|Uganda)\b',
+            r'(\d+)\s+personnes?\s+(?:suspectées?|infectées?|en\s+quarantaine)[^.]{0,20}?en\s+(?:Ouganda|Uganda)\b',
+            # ES — "X casos confirmados/sospechosos en Uganda"
+            r'(\d+)\s+casos?\s+(?:confirmados?|sospechosos?|positivos?)\s+en\s+Uganda\b',
+            # PT — "X casos confirmados/suspeitos em Uganda"
+            r'(\d+)\s+casos?\s+(?:confirmados?|suspeitos?)\s+em\s+Uganda\b',
+            # AR — number + case word + explicit Uganda preposition
+            r'(\d+)\s+(?:حالات|حالة)\s+(?:في|بـ)\s+(?:أوغندا|Uganda)\b',
         ]:
             m = re.search(pat, text, re.IGNORECASE)
             if m:
@@ -282,6 +277,10 @@ def extract_uga_cases(items):
         # FR: "d'un autre en Ouganda" = 1 case
         if re.search(r"d'un autre en Ouganda", text, re.IGNORECASE) and best < 1:
             best = 1
+    # Ceiling: Uganda has imported cases from DRC — counts approaching DRC totals
+    # are almost certainly DRC figures misattributed to Uganda.
+    if best > 200:
+        return None
     return best or None
 
 
@@ -359,6 +358,7 @@ def save_high_water(hw):
 def update_high_water(hw, stats, fetched_at):
     """Merge new stats into high-water marks — values only ever increase."""
     source = stats.get('sourceLabel', 'WHO EIOS RSS')
+    drc_suspected = (stats.get('drc') or {}).get('suspected')
     for country, fields in (('drc', ('deaths', 'suspected', 'confirmed', 'active')),
                              ('uga', ('cases',))):
         current = stats.get(country, {})
@@ -367,6 +367,14 @@ def update_high_water(hw, stats, fetched_at):
             new_val = current.get(field)
             if new_val is None:
                 continue
+            # Sanity-check Uganda cases against DRC totals — if a Uganda count
+            # approaches the DRC suspected total it was almost certainly a DRC
+            # figure misattributed to Uganda by the extractor.
+            if country == 'uga' and field == 'cases':
+                if new_val > 200:
+                    continue
+                if drc_suspected and new_val >= drc_suspected * 0.3:
+                    continue
             prev     = stored.get(field, {})
             prev_val = prev.get('value') if isinstance(prev, dict) else None
             if prev_val is None or new_val > prev_val:

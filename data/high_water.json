@@ -16,11 +16,5 @@
       "source": "WHO / OMS"
     }
   },
-  "uga": {
-    "cases": {
-      "value": 750,
-      "asOf": "2026-05-23T16:03:12Z",
-      "source": "WHO / OMS"
-    }
-  }
+  "uga": {}
 }

@@ -485,14 +485,16 @@ function buildUgaPopup(feature, status) {
 
   if (status === 'spread') {
     const hwUgaCases = ((getHW().uga) || {}).cases;
+    const ugaFmt = hwFmt(uga.cases, hwUgaCases);
+    const ugaDisplay = ugaFmt === '—' ? '≥1' : ugaFmt;
     return `
       <div class="pu-name">${name}</div>
       <div class="pu-sub">Admin 1 · Region · Uganda</div>
       <span class="pu-badge pb-crossborder">Imported Cases</span>
       <div class="pu-stats">
         <div class="pu-stat full">
-          <div class="pu-stat-v" style="color:#e67e22">${hwFmt(uga.cases, hwUgaCases)}</div>
-          <div class="pu-stat-l">Confirmed Cases (Kampala)</div>
+          <div class="pu-stat-v" style="color:#e67e22">${ugaDisplay}</div>
+          <div class="pu-stat-l">Confirmed Imported Cases (Kampala)</div>
         </div>
       </div>
       <p class="pu-caveat">Source: ${src} · Updated: ${tsStr}</p>
