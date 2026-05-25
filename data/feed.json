@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 25 May 2026 17:11:28 Z",
-  "fetchedAt": "2026-05-25T17:11:29Z",
+  "lastBuildDate": "Mon, 25 May 2026 19:01:41 Z",
+  "fetchedAt": "2026-05-25T19:01:41Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -16,6 +16,13 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "PAX - Ebola: le Canada renforce les contrôles dans les aéroports",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021614505",
+      "pubDate": "Mon, 25 May 2026 17:57:00 Z",
+      "desc": "Les voyageurs entrant au Canada par les principaux postes frontaliers et aéroports seront désormais soumis à un dépistage comprenant des questions sur leurs récents déplacements et d’éventuels symptômes liés à Ebola, alors que l’éclosion continue de s’étendre dans plusieurs régions d’Afrique.",
+      "tag": "analysis"
+    },
     {
       "title": "Ebola : « Des Mauriciens bloqués à l’étranger », selon Jagutpal | Le Defi Media Group",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021613975",
@@ -248,18 +255,18 @@
       "tag": "cases"
     },
     {
-      "title": "Ebola en RDC: plus de 200 décès sur 867 cas suspects, selon un dernier bilan officiel",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607161",
-      "pubDate": "Sun, 24 May 2026 16:57:00 Z",
-      "desc": "14:15 Pakistan: un attentat à la voiture piégée fait au moins 24 morts dans un ...",
-      "tag": "cases"
-    },
-    {
       "title": "Ebola: 10 pays africains risquent d'être touchés par l'épidémie, selon l'Africa CDC",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607148",
       "pubDate": "Sun, 24 May 2026 16:57:00 Z",
       "desc": "14:15 Pakistan: un attentat à la voiture piégée fait au moins 24 morts dans un ...",
       "tag": "analysis"
+    },
+    {
+      "title": "Ebola en RDC: plus de 200 décès sur 867 cas suspects, selon un dernier bilan officiel",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607161",
+      "pubDate": "Sun, 24 May 2026 16:57:00 Z",
+      "desc": "14:15 Pakistan: un attentat à la voiture piégée fait au moins 24 morts dans un ...",
+      "tag": "cases"
     },
     {
       "title": "Ebola en Ituri : une association exhorte la population à signaler les cas suspects",
@@ -708,13 +715,6 @@
       "pubDate": "Sat, 23 May 2026 04:57:00 Z",
       "desc": "Une personne a été déclarée négative au virus Ebola en Ontario après son retour d’Éthiopie où elle présentait des symptômes compatibles avec diverses maladies, a confirmé vendredi la médecin hygiéniste en chef du Canada, soulignant que le risque de transmission du virus demeure faible au pays.",
       "tag": "analysis"
-    },
-    {
-      "title": "Ebola en RDC : 64 cas confirmés, 6 décès suspects – l’Ituri et le Nord-Kivu au cœur de la 17e épidémie",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599282",
-      "pubDate": "Sat, 23 May 2026 04:57:00 Z",
-      "desc": "© Zoom Eco\nLa 17ᵉ épidémie de maladie à virus Ebola que traverse la République démocratique du Congo progresse, inexorablement, dans l’est du pays. Selon le rapport officiel publié ce jeudi par les autorités sanitaires nationales, le bilan cumulé s’établit désormais à 64 cas confirmés depuis le début de la flambée.",
-      "tag": "cases"
     }
   ],
   "highWater": {
