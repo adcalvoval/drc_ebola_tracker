@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 25 May 2026 19:43:45 Z",
-  "fetchedAt": "2026-05-25T19:43:45Z",
+  "lastBuildDate": "Mon, 25 May 2026 22:09:32 Z",
+  "fetchedAt": "2026-05-25T22:09:32Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -16,6 +16,27 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Irak : nouveaux cas de fièvre hémorragique de Crimée Congo Patrick GEROME - 25/05/2026 Lire plus➟",
+      "link": "https://www.mesvaccins.net/web/news/24142-irak-nouveaux-cas-de-fievre-hemorragique-de-crimee-congo",
+      "pubDate": "Mon, 25 May 2026 22:02:00 Z",
+      "desc": "En Irak , au moins six personnes sont décédées de la [fièvre hémorragique de Crimée-Congo](fièvre hémorragique de Crimée-Congo) (FHCC) dans la province irakienne de Dhi Qar depuis le début de l'année ce qui en fait le gouvernorat du sud le plus touché du pays.",
+      "tag": "analysis"
+    },
+    {
+      "title": "16 International Mondial 2026 – Ebola : la réponse de la Fédération de la RDC avant le... Il y a 8 minutes",
+      "link": "https://www.tunisienumerique.com/mondial-2026-ebola-la-reponse-de-la-federation-de-la-rdc-avant-le-tournoi/",
+      "pubDate": "Mon, 25 May 2026 20:11:00 Z",
+      "desc": "La Fédération a tenu à rassurer les organisateurs américains de cette 23e édition au sujet de l’épidémie d’Ebola, dont une résurgence frappe la RD Congo, via ce communiqué : « Tous les joueurs retenus pour ce Mondial, ainsi qu’une bonne partie du staff technique, vivent et évoluent en Europe.",
+      "tag": "response"
+    },
+    {
+      "title": "Ebola en RDC : les funérailles, un point de tension particulièrement sensible",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021615268",
+      "pubDate": "Mon, 25 May 2026 20:02:00 Z",
+      "desc": "Plusieurs attaques contre des hôpitaux ou des centres de santé ont été signalées ces derniers jours, signe de «beaucoup de défiance» de la population, tandis que l’OMS met en garde contre une aggravation de l’épidémie.\nDes coups de feu, des structures de soins incendiées, une ambulance vandalisée,....",
+      "tag": "analysis"
+    },
     {
       "title": "Maladie extrêmement contagieuse: L’épidémie d’Ebola en RDC est «extrêmement grave et difficile», selon l’OMS",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021615155",
@@ -283,18 +304,18 @@
       "tag": "cases"
     },
     {
-      "title": "Ebola: 10 pays africains risquent d'être touchés par l'épidémie, selon l'Africa CDC",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607148",
-      "pubDate": "Sun, 24 May 2026 16:57:00 Z",
-      "desc": "14:15 Pakistan: un attentat à la voiture piégée fait au moins 24 morts dans un ...",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola en RDC: plus de 200 décès sur 867 cas suspects, selon un dernier bilan officiel",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607161",
       "pubDate": "Sun, 24 May 2026 16:57:00 Z",
       "desc": "14:15 Pakistan: un attentat à la voiture piégée fait au moins 24 morts dans un ...",
       "tag": "cases"
+    },
+    {
+      "title": "Ebola: 10 pays africains risquent d'être touchés par l'épidémie, selon l'Africa CDC",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607148",
+      "pubDate": "Sun, 24 May 2026 16:57:00 Z",
+      "desc": "14:15 Pakistan: un attentat à la voiture piégée fait au moins 24 morts dans un ...",
+      "tag": "analysis"
     },
     {
       "title": "Ebola en Ituri : une association exhorte la population à signaler les cas suspects",
@@ -694,27 +715,6 @@
       "pubDate": "Sat, 23 May 2026 07:25:00 Z",
       "desc": "Dans une mise à jour publiée vendredi, le directeur général de l'agence, Tedros Adhanom Ghebreyesus, a indiqué que 82 cas avaient été confirmés à ce stade dans le pays, dont sept décès. \"Mais nous savons que l'épidémie en RDC est bien plus étendue\", a-t-il précisé, évoquant environ 750 cas suspects et 177 décès suspects recensés.",
       "tag": "cases"
-    },
-    {
-      "title": "Il y a 5 000 ans, une épidémie mystérieuse dans l'Oise aurait décimé les premiers Français",
-      "link": "https://www.science-et-vie.com/science-et-culture/il-y-a-5-000-ans-une-epidemie-mysterieuse-dans-loise-aurait-decime-les-premiers-francais-237185.html",
-      "pubDate": "Sat, 23 May 2026 06:29:00 Z",
-      "desc": "Les morts commencent à parler. En effet, l’analyse de certaines tombes suggère que la croissance de la population européenne a connu un mystérieux effondrement il y a plusieurs milliers d’années. Dans le cadre d’une étude , des chercheurs de l’Université de Copenhague ont ainsi analysé l’ADN d’une....",
-      "tag": "analysis"
-    },
-    {
-      "title": "L'OMS relève à 'très élevé' le risque Ebola en RDC",
-      "link": "https://fr.euronews.com/2026/05/23/oms-le-risque-ebola-desormais-tres-eleve-en-rd-congo",
-      "pubDate": "Sat, 23 May 2026 06:26:00 Z",
-      "desc": "Lors d'une mise à jour vendredi, le chef de l'agence, Tedros Adhanom Ghebreyesus, a indiqué que 82 cas avaient jusqu'ici été confirmés dans le pays, dont sept décès. « Mais nous savons que l'épidémie en RDC est bien plus vaste », a précisé Ghebreyesus, ajoutant qu'environ 750 cas suspects et 177 décès suspects étaient recensés.",
-      "tag": "cases"
-    },
-    {
-      "title": "« On est inquiets » : l’épidémie d’Ebola bouleverse la diaspora congolaise de l’Ontario",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599595",
-      "pubDate": "Sat, 23 May 2026 05:52:00 Z",
-      "desc": "L’éclosion du virus Ebola en Afrique fait des vagues en Amérique du Nord. Un premier patient fait l’objet d’un dépistage pour le virus en Ontario, confirme le ministère de la Santé de la province. Alors que le variant Bundibugyo s’étend en Afrique centrale, que ressent la communauté congolaise en....",
-      "tag": "analysis"
     }
   ],
   "highWater": {
