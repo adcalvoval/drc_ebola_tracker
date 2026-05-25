@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 25 May 2026 19:01:41 Z",
-  "fetchedAt": "2026-05-25T19:01:41Z",
+  "lastBuildDate": "Mon, 25 May 2026 19:43:45 Z",
+  "fetchedAt": "2026-05-25T19:43:45Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -16,6 +16,34 @@ window.FEED_DATA = {
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Maladie extrêmement contagieuse: L’épidémie d’Ebola en RDC est «extrêmement grave et difficile», selon l’OMS",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021615155",
+      "pubDate": "Mon, 25 May 2026 19:42:00 Z",
+      "desc": "Le virus progresse plus vite que la riposte sanitaire, selon le chef de l’OMS. Tedros Adhanom Ghebreyesus appelle les pays voisins à agir sans attendre.\nDes professionnels de santé équipés de matériel de protection se rassemblent pour désinfecter la zone d’isolement réservée aux patients atteints....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en Ituri : le PAM renforce en urgence son dispositif pour éviter une catastrophe humanitaire dans l’Est de la RDC",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021615117",
+      "pubDate": "Mon, 25 May 2026 19:37:00 Z",
+      "desc": "Santé\nLundi 25 mai 2026 - 18:05\nFace au risque d’une crise humanitaire majeure liée à l’épidémie de la maladie à virus Ebola dans l’Est de la République démocratique du Congo, le Programme alimentaire mondial (PAM) a annoncé le renforcement urgent de son intervention dans cette partie du pays afin....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Africa CDC estime à 318,9 millions $ le coût de la riposte à Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021615008",
+      "pubDate": "Mon, 25 May 2026 19:27:00 Z",
+      "desc": "Les autorités sanitaires africaines cherchent à éviter la répétition des crises sanitaires majeures provoquées par les précédentes épidémies d’Ebola, notamment en République démocratique du Congo (RDC), qui a connu plusieurs flambées meurtrières ces dernières années.",
+      "tag": "analysis"
+    },
+    {
+      "title": "L’épidémie d’Ebola est « extrêmement grave » selon le chef de l’OMS, attendu en RDC",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021614887",
+      "pubDate": "Mon, 25 May 2026 19:07:00 Z",
+      "desc": "L’épidémie d’Ebola est « extrêmement grave » selon le chef de l’OMS, attendu en RDC\nOuvrir en mode plein écran\nDes travailleurs de la santé à l'hôpital général de Mongbwalu, dans la province d'Ituri, dans l'est de la République démocratique du Congo. (Photo d'archives)\nPhoto : Getty Images / Michel....",
+      "tag": "analysis"
+    },
     {
       "title": "PAX - Ebola: le Canada renforce les contrôles dans les aéroports",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021614505",
@@ -686,34 +714,6 @@ window.FEED_DATA = {
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599595",
       "pubDate": "Sat, 23 May 2026 05:52:00 Z",
       "desc": "L’éclosion du virus Ebola en Afrique fait des vagues en Amérique du Nord. Un premier patient fait l’objet d’un dépistage pour le virus en Ontario, confirme le ministère de la Santé de la province. Alors que le variant Bundibugyo s’étend en Afrique centrale, que ressent la communauté congolaise en....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola-Les USA étendent l'interdiction d'entrée sur le territoire",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599360",
-      "pubDate": "Sat, 23 May 2026 05:07:00 Z",
-      "desc": "WASHINGTON, 22 mai (Reuters) - Les Etats-Unis ont temporairement interdit l'entrée des personnes détentrices d'une carte verte (un permis de séjour légal) s'étant rendues en République démocratique du Congo (RDC), en Ouganda ou au Soudan du Sud lors des 21 jours précédant leur arrivée, citant des inquiétudes liées à l'épidémie d'Ebola.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola : le traitement prometteur d'une biotech californienne suscite l'espoir",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599365",
-      "pubDate": "Sat, 23 May 2026 05:07:00 Z",
-      "desc": "La biotech californienne Mapp avait testé dans le passé un traitement qui avait montré une bonne efficacité sur des animaux. Surnommé le « cocktail pan-Ebolavirus », il vise toutes les souches connues d'Ebola, dont celle en circulation, qui n'a ni vaccin ni traitement.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Le défi posé par le virus de Bundibugyo : en quoi cette épidémie de maladie Ebola est-elle différente ?",
-      "link": "https://www.msf-azg.be/fr/news/le-d%C3%A9fi-pos%C3%A9-par-le-virus-de-bundibugyo-en-quoi-cette-%C3%A9pid%C3%A9mie-de-maladie-ebola-estelle",
-      "pubDate": "Sat, 23 May 2026 05:02:00 Z",
-      "desc": "Dispose-t-on de vaccins pour lutter contre cette épidémie de maladie Ebola ? Il existe actuellement deux vaccins approuvés contre la maladie Ebola mais aucun d’eux n’est homologué dans le cadre d’une contamination liée au virus Bundibugyo. Le vaccin Ervebo (rVSV-ZEBOV) peut être utilisé pour limiter....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Le patient ontarien déclaré négatif au virus Ebola | Radio-Canada",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599235",
-      "pubDate": "Sat, 23 May 2026 04:57:00 Z",
-      "desc": "Une personne a été déclarée négative au virus Ebola en Ontario après son retour d’Éthiopie où elle présentait des symptômes compatibles avec diverses maladies, a confirmé vendredi la médecin hygiéniste en chef du Canada, soulignant que le risque de transmission du virus demeure faible au pays.",
       "tag": "analysis"
     }
   ],
