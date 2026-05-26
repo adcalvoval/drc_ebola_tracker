@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 26 May 2026 11:20:51 Z",
-  "fetchedAt": "2026-05-26T11:20:51Z",
+  "lastBuildDate": "Tue, 26 May 2026 13:52:34 Z",
+  "fetchedAt": "2026-05-26T13:52:34Z",
   "itemCount": 150,
   "stats": {
     "drc": {
@@ -71,6 +71,13 @@ window.FEED_DATA = {
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "EN BREF",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021618734",
+      "pubDate": "Tue, 26 May 2026 11:47:00 Z",
+      "desc": "EN BREF\nVirus Ebola en RDC : l’épidémie est \" extrêmement grave \"\nLa République démocratique du Congo (RDC) est confrontée à une épidémie d’Ebola \" extrêmement grave et difficile \", a alerté hier le chef de l’Organisation mondiale de la santé (OMS). \" Nous intensifions d’urgence les opérations, mais....",
+      "tag": "response"
+    },
     {
       "title": "En RDC, l'insécurité alimentaire pourrait aggraver l'épidémie d'Ebola",
       "link": "https://fr.euronews.com/2026/05/26/en-republique-democratique-du-congo-linsecurite-alimentaire-pourrait-aggraver-lepidemie-de",
@@ -807,18 +814,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Ebola : trois nouveaux cas confirmés en Ouganda",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601213",
-      "pubDate": "Sat, 23 May 2026 12:32:00 Z",
-      "desc": "Ebola : trois nouveaux cas confirmés en Ouganda\nOuvrir en mode plein écran\nUn agent sanitaire au poste-frontière de Busunga, entre l'Ouganda et la République démocratique du Congo, lundi dernier.\nPhoto : afp via getty images / BADRU KATUMBA\nAgence France-Presse\nPublié à 8 h 19 HAE\nTrois nouveaux cas....",
-      "tag": "analysis"
-    },
-    {
       "title": "L’épidémie d’Ebola, un risque maximal pour la santé publique",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601207",
       "pubDate": "Sat, 23 May 2026 12:32:00 Z",
       "desc": "République démocratique du Congo. L’épidémie d’Ebola représente désormais un risque « très élevé » pour la santé publique au niveau national, soit le niveau maximal, a alerté hier l’Organisation mondiale de la santé. Le virus se propage « rapidement ».",
       "tag": "response"
+    },
+    {
+      "title": "Ebola : trois nouveaux cas confirmés en Ouganda",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601213",
+      "pubDate": "Sat, 23 May 2026 12:32:00 Z",
+      "desc": "Ebola : trois nouveaux cas confirmés en Ouganda\nOuvrir en mode plein écran\nUn agent sanitaire au poste-frontière de Busunga, entre l'Ouganda et la République démocratique du Congo, lundi dernier.\nPhoto : afp via getty images / BADRU KATUMBA\nAgence France-Presse\nPublié à 8 h 19 HAE\nTrois nouveaux cas....",
+      "tag": "analysis"
     },
     {
       "title": "Maladie à virus Ebola en",
@@ -1094,13 +1101,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "La OMS eleva a 177 el número de muertes sospechosas de ébola en la República Democrática del Congo y explica el riesgo global.",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597870",
-      "pubDate": "Sat, 23 May 2026 00:42:00 Z",
-      "desc": "La Organización Mundial de la Salud (OMS) ha elevado el nivel de riesgo de \"alto\" a \"muy alto\" debido al brote reciente de ébola en la República Democrática del Congo, con 750 casos sospechosos y 177 muertes reportadas. El Director General de la OMS, Tedros Adhanom Ghebreyesus, mencionó que el....",
-      "tag": "cases"
-    },
-    {
       "title": "CEPI’s response to epidemic of Ebola Disease caused by Bundibugyo virus",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597855",
       "pubDate": "Sat, 23 May 2026 00:42:00 Z",
@@ -1108,17 +1108,17 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
+      "title": "La OMS eleva a 177 el número de muertes sospechosas de ébola en la República Democrática del Congo y explica el riesgo global.",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597870",
+      "pubDate": "Sat, 23 May 2026 00:42:00 Z",
+      "desc": "La Organización Mundial de la Salud (OMS) ha elevado el nivel de riesgo de \"alto\" a \"muy alto\" debido al brote reciente de ébola en la República Democrática del Congo, con 750 casos sospechosos y 177 muertes reportadas. El Director General de la OMS, Tedros Adhanom Ghebreyesus, mencionó que el....",
+      "tag": "cases"
+    },
+    {
       "title": "Des écoles et centres de santé de Butembo renforcent les mesures de prévention d'Ebola",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597827",
       "pubDate": "Sat, 23 May 2026 00:37:00 Z",
       "desc": "Plusieurs écoles et structures sanitaires de la ville de Butembo, dans le Nord-Kivu, renforcent à nouveau les mesures de prévention de la maladie à virus Ebola.\nSur ces endroits publics, les autorités y ont installé les dispositifs de lavages systématiques des mains, les dispositifs sanitaires et la....",
-      "tag": "analysis"
-    },
-    {
-      "title": "RNA Viruses - Influenza A Virus; New Influenza A Virus Study Results from University Hospital Described (A pan-viral map of host dependency factors from multi-omics integration and machine learning across influenza A, SARS-CoV-2, Zika, and dengue viruses…",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597839",
-      "pubDate": "Sat, 23 May 2026 00:37:00 Z",
-      "desc": "2026 MAY 24 (NewsRx) -- By a News Reporter-Staff News Editor at Medical Letter on the CDC & FDA -- Data detailed on RNA Viruses - Influenza A Virus have been presented. According to news reporting originating from Jena, Germany, by NewsRx correspondents, research stated, \"Host dependency factors....",
       "tag": "analysis"
     }
   ],
@@ -1140,6 +1140,17 @@ window.FEED_DATA = {
         "source": "WHO / OMS"
       }
     },
-    "uga": {}
+    "uga": {
+      "cases": {
+        "value": 5,
+        "asOf": "2026-05-23T19:57:00Z",
+        "source": "Uganda MoH"
+      },
+      "deaths": {
+        "value": 1,
+        "asOf": "2026-05-23T19:57:00Z",
+        "source": "Uganda MoH"
+      }
+    }
   }
 };
