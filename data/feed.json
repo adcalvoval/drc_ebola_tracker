@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 26 May 2026 03:47:20 Z",
-  "fetchedAt": "2026-05-26T03:47:20Z",
+  "lastBuildDate": "Tue, 26 May 2026 10:00:34 Z",
+  "fetchedAt": "2026-05-26T10:00:34Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -16,6 +16,90 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "En RDC, l'insécurité alimentaire pourrait aggraver l'épidémie d'Ebola",
+      "link": "https://fr.euronews.com/2026/05/26/en-republique-democratique-du-congo-linsecurite-alimentaire-pourrait-aggraver-lepidemie-de",
+      "pubDate": "Tue, 26 May 2026 09:44:00 Z",
+      "desc": "L'épidémie d'Ebola et la situation de sécurité alimentaire sont étroitement liées, selon un responsable congolais du Programme alimentaire mondial de l'ONU.\n\nPour le responsable des Nations unies dans la province de l'Ituri, en République démocratique du Congo, si les populations des zones touchées....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en RDC: ces facteurs qui rendent l'epidemie particulierement difficile a endiguer",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021618130",
+      "pubDate": "Tue, 26 May 2026 09:27:00 Z",
+      "desc": "France, Mai 26 -- La Republique democratique du Congo est confrontee a une epidemie d'Ebola extremement grave et difficile a gerer, a alerte lundi 25 mai le chef de l'Organisation mondiale de la sante (OMS), Tedros Ghebreyesus, qui a appele les pays voisins a agir immediatement .",
+      "tag": "response"
+    },
+    {
+      "title": "Les mesures barrières contre la maladie d’Ebola insuffisante s entre le Nord-Kivu et l’Ituri",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021617763",
+      "pubDate": "Tue, 26 May 2026 08:27:00 Z",
+      "desc": "Beni, 25 mai 2026(ACP).- Les mesures barrières contre la maladie à virus Ebola sont insuffisantes à Eringeti et à Kasana, deux localités du Nord-Kivu limitrophes avec l’Ituri, dans l’est de la République démocratique du Congo, a été dénoncée lundi par un acteur de la société civile locale joint au téléphone par l’ACP.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en RDC : plusieurs attaques contre des hôpitaux ou des centres de santé signalées ces derniers jours; LIBÉ.FR",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021619003",
+      "pubDate": "Tue, 26 May 2026 08:27:00 Z",
+      "desc": "Des coups de feu, des incendies, une ambulance vandalisée, des équipes funéraires prises violemment à partie… Plusieurs attaques contre des hôpitaux ou des centres de santé ont été signalées ces derniers jours, signe de «la défiance» de la population, tandis que l’Organisation mondiale de la santé met en garde contre une aggravation de l’épidémie.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola-Ituri : le gouverneur militaire plaide pour une riposte « rapide » pour éviter une catastrophe",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021617741",
+      "pubDate": "Tue, 26 May 2026 08:07:00 Z",
+      "desc": "Kinshasa, 25 mai 2026 (ACP).– Le gouverneur militaire de l’Ituri, province sous état de siège dans l’est de la République démocratique du Congo, a lancé un plaidoyer pour une intervention sanitaire rapide face à la résurgence de l’épidémie à virus Ebola, a appris l’ACP lundi d’une déclaration officielle.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Les failles qui profitent à Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021617669",
+      "pubDate": "Tue, 26 May 2026 08:07:00 Z",
+      "desc": "AFRIQUE Dix pays sont désormais à risque face à l’épidémie d’Ebola, qui a infecté au moins 900 personnes et en a tué 204 en République démocratique du Congo depuis avril\nLa propagation est facilitée par les conflits armés, l’accès limité aux soins, les pratiques traditionnelles et la défiance envers....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Kisangani : la sécurité et la maladie d’Ebola au menu des échanges dans une commune",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021617576",
+      "pubDate": "Tue, 26 May 2026 07:47:00 Z",
+      "desc": "Kisangani, 25 mai 2026 (ACP).- Les administrés de la commune de Makiso à Kisangani, ont été appelés par l’autorité communale, lors d’un rassemblement hebdomadaire lundi, à la vigilance face à l’insécurité et à respecter les mesures barrières contre l’épidémie d’Ebola dans cette ville du nord-est de....",
+      "tag": "analysis"
+    },
+    {
+      "title": "L’épidémie d’Ebola jugée extrêmement grave par l’OMS",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021618133",
+      "pubDate": "Tue, 26 May 2026 05:27:00 Z",
+      "desc": "RDC Le directeur de l’Organisation mondiale de la santé (OMS), attendu mardi en République démocratique du Congo, a averti lundi que l’épidémie d’Ebola qui sévit dans le pays était «extrêmement grave et difficile» à gérer, appelant les États voisins à agir.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola : Cent tonnes d'aide humanitaire décollent de Liège vers la RDC",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021616787",
+      "pubDate": "Tue, 26 May 2026 04:42:00 Z",
+      "desc": "Un avion emportant cent tonnes d'aide humanitaire destinée à lutter contre l'épidémie d'Ebola en République démocratique du Congo a été chargé lundi à Liège en vue de son décollage en fin de soirée, a constaté sur place l'agence Belga.\nL'avion, affrété par la Commission européenne et l'Unicef,....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en RDC : plus de 1.300 contacts restent hors du suivi sanitaire",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021617977",
+      "pubDate": "Tue, 26 May 2026 04:37:00 Z",
+      "desc": "Kinshasa, 25 mai 2026 (ACP).- Plus de1.300 cas de contact à l’épidémie à virus « Ebola » restent hors du suivi sanitaire, selon le rapport de la situation relatif à cette maladie, qui sévit dans l’Est de la République démocratique du Congo, consulté lundi par l’ACP.\n« Sur les 1.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola : le directeur de l’OMS tire la sonette d’alarme",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021617756",
+      "pubDate": "Tue, 26 May 2026 04:07:00 Z",
+      "desc": "Alors que 10 décés ont été officiellement recensés, les autorités sanitaires de la RDC redoutent une situation bien pire./MaxPPP\nTedros Adhanom Ghebreyesus se rend ce mardi en République démocratique du Congo (RDC), où une terri ble course contre la montre est engagée.",
+      "tag": "analysis"
+    },
+    {
+      "title": "La RDC mobilise 20 millions USD pour la riposte contre le virus « Ebola »",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021617765",
+      "pubDate": "Tue, 26 May 2026 04:07:00 Z",
+      "desc": "Kinshasa, 25 mai 2026 (ACP).- Le Gouvernement de la République démocratique du Congo, a annoncé lundi, lors d’un briefing ministériel organisé par le Centre africain de contrôle et de prévention des maladies (Africa CDC), la mobilisation de 20 millions USD pour renforcer la riposte contre l’épidémie d’Ebola de souche « Bundibugyo ».",
+      "tag": "analysis"
+    },
     {
       "title": "Ebola en RDC : trois provinces touchées et 204 décès suspects enregistrés (Ministre de la Santé)",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021617622",
@@ -108,17 +192,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Faux ! Félix Tshisekedi n’a pas déclaré la fermeture des écoles",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021613625",
-      "pubDate": "Mon, 25 May 2026 16:32:00 Z",
-      "desc": "Kinshasa, République démocratique du Congo, le 25 mai 2026 (#ACP_Debunkage).- Une vidéo devenue virale sur les réseaux sociaux affirme que le président de la République démocratique du Congo, Félix Tshisekedi, aurait déclaré la fermeture des écoles, universités et académies en urgence à la suite d’une pendemie d’Ebola.",
-      "tag": "analysis"
-    },
-    {
       "title": "Kinshasa : des femmes sensibilisées aux mesures préventives contre Ebola pour protéger les familles",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021613251",
       "pubDate": "Mon, 25 May 2026 16:32:00 Z",
       "desc": "Les membres de l’ASBL « Elenge lamuka na pongi ».\nKinshasa, 25 mai 2026 (ACP).- Des mesures préventives face à la propagation de la maladie à virus Ebola (MVE) ont fait l’objet des échanges, lors d’une séance de sensibilisation dimanche, à Kinshasa, en République démocratique du Congo (RDC), à....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Faux ! Félix Tshisekedi n’a pas déclaré la fermeture des écoles",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021613625",
+      "pubDate": "Mon, 25 May 2026 16:32:00 Z",
+      "desc": "Kinshasa, République démocratique du Congo, le 25 mai 2026 (#ACP_Debunkage).- Une vidéo devenue virale sur les réseaux sociaux affirme que le président de la République démocratique du Congo, Félix Tshisekedi, aurait déclaré la fermeture des écoles, universités et académies en urgence à la suite d’une pendemie d’Ebola.",
       "tag": "analysis"
     },
     {
@@ -332,18 +416,18 @@
       "tag": "cases"
     },
     {
-      "title": "Ebola en RDC: plus de 200 décès sur 867 cas suspects, selon un dernier bilan officiel",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607161",
-      "pubDate": "Sun, 24 May 2026 16:57:00 Z",
-      "desc": "14:15 Pakistan: un attentat à la voiture piégée fait au moins 24 morts dans un ...",
-      "tag": "cases"
-    },
-    {
       "title": "Ebola: 10 pays africains risquent d'être touchés par l'épidémie, selon l'Africa CDC",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607148",
       "pubDate": "Sun, 24 May 2026 16:57:00 Z",
       "desc": "14:15 Pakistan: un attentat à la voiture piégée fait au moins 24 morts dans un ...",
       "tag": "analysis"
+    },
+    {
+      "title": "Ebola en RDC: plus de 200 décès sur 867 cas suspects, selon un dernier bilan officiel",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021607161",
+      "pubDate": "Sun, 24 May 2026 16:57:00 Z",
+      "desc": "14:15 Pakistan: un attentat à la voiture piégée fait au moins 24 morts dans un ...",
+      "tag": "cases"
     },
     {
       "title": "Ebola en Ituri : une association exhorte la population à signaler les cas suspects",
@@ -630,90 +714,6 @@
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601697",
       "pubDate": "Sat, 23 May 2026 14:57:00 Z",
       "desc": "Le Rwanda prend de nouvelles mesures contre le virus Ebola qui fait des ravages en RDC et l’Ouganda\nLe Rwanda annonce de nouvelles mesures sanitaires pour empêcher l’introduction du virus Ebola Bundibugyo sur son territoire. Désormais, les voyageurs étrangers ayant séjourné ou transité en RDC au....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola en Ituri : des tentes incendiées à Mongbwalu, 13 patients toujours introuvables",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601684",
-      "pubDate": "Sat, 23 May 2026 14:52:00 Z",
-      "desc": "Mongbwalu, 23 mai 2026 (ACP).- Des tentes destinées à l’isolement des malades d’Ebola ont été incendiées dans la nuit de vendredi à samedi à l’hôpital général de référence de Mongbwalu, situé à 85 kilomètres de Bunia, chef-lieu de la province de l’Ituri, épicentre de la 17ème épidémie d’Ebola, dans....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola en RDC : risque désormais \"très élevé\", selon l'OMS",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601674",
-      "pubDate": "Sat, 23 May 2026 14:52:00 Z",
-      "desc": "L'Organisation mondiale de la santé a porté de \"élevé\"à \"très élevé\"le niveau de risque pour la santé publique lié à l'épidémie d'Ebola en République démocratique du Congo.\nDans une mise à jour publiée vendredi, le directeur général de l'agence, Tedros Adhanom Ghebreyesus, a indiqué que 82 cas....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola en RDC: l'hopital CBCA Virunga de Goma tente d'adapter ses structures sanitaires a l'epidemie",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021600646",
-      "pubDate": "Sat, 23 May 2026 14:32:00 Z",
-      "desc": "France, Mai 23 -- À Goma, chef-lieu de la province du Nord-Kivu controle par l'AFC/M23 où un cas d'Ebola a ete enregistre, les efforts pour tenter d'adapter les structures sanitaires a la gestion de la maladie s'accentuent. Grace a l'appui de l'ONG International Medical Corps (IMC), l'hopital CBCA....",
-      "tag": "analysis"
-    },
-    {
-      "title": "22 mai 2026 Allocution liminaire du Directeur général de l’OMS lors du point de presse sur les flambées d’Ebola et de hantavirus – 22 mai 2026",
-      "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing-on-outbreaks-of-ebola-and-hantavirus-22-may-2026",
-      "pubDate": "Sat, 23 May 2026 13:45:00 Z",
-      "desc": "Je salue l’ensemble des personnes présentes dans la salle et celles qui sont en ligne. La flambée d’Ebola en République démocratique du Congo s’étend rapidement. Auparavant, l’OMS avait considéré que le risque était élevé au niveau national et régional, et faible au niveau mondial.",
-      "tag": "analysis"
-    },
-    {
-      "title": "22 mai 2026 Allocution liminaire du Directeur général de l’OMS lors de la séance d’information des États Membres sur les flambées d’Ebola et de hantavirus – 22 mai 2026",
-      "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-information-session-on-outbreaks-of-ebola-and-hantavirus-22-may-2026",
-      "pubDate": "Sat, 23 May 2026 13:45:00 Z",
-      "desc": "Excellences, Mesdames et Messieurs les Ministres, Mesdames et Messieurs les Cheffes et Chefs de délégation, chères et chers collègues, chères amies, chers amis, Je salue l’ensemble des représentantes et représentants des États Membres présents dans la salle et celles et ceux qui sont en ligne.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola : trois nouveaux cas confirmés en Ouganda",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601213",
-      "pubDate": "Sat, 23 May 2026 12:32:00 Z",
-      "desc": "Ebola : trois nouveaux cas confirmés en Ouganda\nOuvrir en mode plein écran\nUn agent sanitaire au poste-frontière de Busunga, entre l'Ouganda et la République démocratique du Congo, lundi dernier.\nPhoto : afp via getty images / BADRU KATUMBA\nAgence France-Presse\nPublié à 8 h 19 HAE\nTrois nouveaux cas....",
-      "tag": "analysis"
-    },
-    {
-      "title": "L’épidémie d’Ebola, un risque maximal pour la santé publique",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601207",
-      "pubDate": "Sat, 23 May 2026 12:32:00 Z",
-      "desc": "République démocratique du Congo. L’épidémie d’Ebola représente désormais un risque « très élevé » pour la santé publique au niveau national, soit le niveau maximal, a alerté hier l’Organisation mondiale de la santé. Le virus se propage « rapidement ».",
-      "tag": "response"
-    },
-    {
-      "title": "Maladie à virus Ebola en",
-      "link": "https://www.facebook.com/415802850571578/posts/1443315594486960",
-      "pubDate": "Sat, 23 May 2026 11:39:00 Z",
-      "desc": "Url: https://www.facebook.com/415802850571578/posts/1443315594486960\nAuthor: Ministère de la Santé - MS Burkina Faso\nMaladie à virus Ebola en Afrique : aucun cas enregistré au Burkina Faso",
-      "tag": "analysis"
-    },
-    {
-      "title": "Trois nouveaux cas confirmés de contamination par Ebola en Ouganda - Boursier.com",
-      "link": "https://www.boursier.com/actualites/reuters/trois-nouveaux-cas-confirmes-de-contamination-par-ebola-en-ouganda-418822.html",
-      "pubDate": "Sat, 23 May 2026 10:27:00 Z",
-      "desc": "Ebola -- Uganda. Significance Rating: 4 Trois nouveaux cas confirmés de contamination par Ebola en Ouganda&nbsp;&nbsp;Boursier.com",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola : à l’origine de l’épidémie, la chauve-souris, suspect idéal",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021600514",
-      "pubDate": "Sat, 23 May 2026 10:02:00 Z",
-      "desc": "La quête de la source des épidémies de fièvre hémorragique n’a pas encore livré de coupable. Faute de preuve ultime, les chauves-souris frugivores font figure de principales suspectes.\nA chaque épidémie, la même question revient quant à son origine. Et à chaque zoonose, la question se précise : quel....",
-      "tag": "analysis"
-    },
-    {
-      "title": "RD Congo: Ebola: l’OMS passe au niveau d’alerte maximal",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599508",
-      "pubDate": "Sat, 23 May 2026 09:32:00 Z",
-      "desc": "L’épidémie d’Ebolaen République démocratique du Congo représente désormais un risque «très élevé» pour la santé publique au niveau national, le niveau d’alerte maximal, contre «élevé» précédemment, a alerté hier l’OMS. Il y a près de 750 cas suspects et 177 décès suspects en RDC, où l’épidémie «se....",
-      "tag": "cases"
-    },
-    {
-      "title": "Ebola : des dispositions prises pour sécuriser les passagers à l’aéroport de Beni",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599147",
-      "pubDate": "Sat, 23 May 2026 08:52:00 Z",
-      "desc": "Beni, 22 mai 2026 (ACP).- Des dispositions ont été prises par la Régie des voies aériennes ( RVA), pour sécuriser son personnel et les passagers qui fréquentent régulièrement les installations de cette entreprise contre la maladie à virus d’Ebola à Beni, au Nord – Kivu, dans l’Est de la République....",
       "tag": "analysis"
     }
   ],
