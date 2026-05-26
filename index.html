@@ -558,6 +558,7 @@ function buildUgaPopup(feature, status) {
     const deathsNote  = deathsR.v != null
       ? `${deathsR.v} ${deathsR.v === 1 ? 'fatality' : 'fatalities'} recorded.`
       : '';
+    const ugaSrc      = uga.source || (hwUga.cases && hwUga.cases.source) || 'Uganda MoH';
     return `
       <div class="pu-name">${name}</div>
       <div class="pu-sub">Admin 1 · Region · Uganda</div>
@@ -568,7 +569,7 @@ function buildUgaPopup(feature, status) {
           <div class="pu-stat-l">Confirmed Cases (Uganda) ${tierBadgeHTML(2)}</div>
         </div>
       </div>
-      <p class="pu-caveat">Source: ${src} · Updated: ${tsStr}</p>
+      <p class="pu-caveat">Source: ${ugaSrc} · Updated: ${tsStr}</p>
       <div class="pu-note">
         ${casesNote} confirmed cases per Uganda Ministry of Health: includes a DRC-Uganda border post agent, a driver who transported the first confirmed case, and a health worker. ${deathsNote} WHO PHEIC declared May 2026.
       </div>`;
