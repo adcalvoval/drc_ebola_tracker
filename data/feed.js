@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 26 May 2026 11:17:42 Z",
-  "fetchedAt": "2026-05-26T11:17:42Z",
+  "lastBuildDate": "Tue, 26 May 2026 11:20:51 Z",
+  "fetchedAt": "2026-05-26T11:20:51Z",
   "itemCount": 150,
   "stats": {
     "drc": {
@@ -933,18 +933,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Ebola en RDC : 64 cas confirmés, 6 décès suspects – l’Ituri et le Nord-Kivu au cœur de la 17e épidémie",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599282",
-      "pubDate": "Sat, 23 May 2026 04:57:00 Z",
-      "desc": "© Zoom Eco\nLa 17ᵉ épidémie de maladie à virus Ebola que traverse la République démocratique du Congo progresse, inexorablement, dans l’est du pays. Selon le rapport officiel publié ce jeudi par les autorités sanitaires nationales, le bilan cumulé s’établit désormais à 64 cas confirmés depuis le début de la flambée.",
-      "tag": "cases"
-    },
-    {
       "title": "Ebola : 83 cas confirmés recensés en RDC",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599256",
       "pubDate": "Sat, 23 May 2026 04:57:00 Z",
       "desc": "Kinshasa, 22 mai 2026 (ACP).- Quatre-vingt-trois cas confirmés de la maladie à virus Ebola, dont 78 en Ituri, quatre au Nord-Kivu et un au Sud-Kivu, ont déjà été enregistrés en République démocratique du Congo, selon le rapport de situation publié vendredi par le gouvernement congolais sur l’évolution de cette 17ᵉ épidémie depuis 1976.",
       "tag": "analysis"
+    },
+    {
+      "title": "Ebola en RDC : 64 cas confirmés, 6 décès suspects – l’Ituri et le Nord-Kivu au cœur de la 17e épidémie",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599282",
+      "pubDate": "Sat, 23 May 2026 04:57:00 Z",
+      "desc": "© Zoom Eco\nLa 17ᵉ épidémie de maladie à virus Ebola que traverse la République démocratique du Congo progresse, inexorablement, dans l’est du pays. Selon le rapport officiel publié ce jeudi par les autorités sanitaires nationales, le bilan cumulé s’établit désormais à 64 cas confirmés depuis le début de la flambée.",
+      "tag": "cases"
     },
     {
       "title": "MAROC Au moins 15 personnes, dont deux fillettes, sont mortes, jeudi, dans...",
@@ -1094,18 +1094,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "CEPI’s response to epidemic of Ebola Disease caused by Bundibugyo virus",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597855",
-      "pubDate": "Sat, 23 May 2026 00:42:00 Z",
-      "desc": "Key Highlights:\n* CEPI focuses on evaluating prophylactic medical countermeasures for Bundibugyo virus, including vaccines.\n* CEPI assesses vaccine and monoclonal antibody candidates for potential evaluation during the outbreak.\n* CEPI activates global preparedness networks to support vaccine development and testing.",
-      "tag": "response"
-    },
-    {
       "title": "La OMS eleva a 177 el número de muertes sospechosas de ébola en la República Democrática del Congo y explica el riesgo global.",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597870",
       "pubDate": "Sat, 23 May 2026 00:42:00 Z",
       "desc": "La Organización Mundial de la Salud (OMS) ha elevado el nivel de riesgo de \"alto\" a \"muy alto\" debido al brote reciente de ébola en la República Democrática del Congo, con 750 casos sospechosos y 177 muertes reportadas. El Director General de la OMS, Tedros Adhanom Ghebreyesus, mencionó que el....",
       "tag": "cases"
+    },
+    {
+      "title": "CEPI’s response to epidemic of Ebola Disease caused by Bundibugyo virus",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021597855",
+      "pubDate": "Sat, 23 May 2026 00:42:00 Z",
+      "desc": "Key Highlights:\n* CEPI focuses on evaluating prophylactic medical countermeasures for Bundibugyo virus, including vaccines.\n* CEPI assesses vaccine and monoclonal antibody candidates for potential evaluation during the outbreak.\n* CEPI activates global preparedness networks to support vaccine development and testing.",
+      "tag": "response"
     },
     {
       "title": "Des écoles et centres de santé de Butembo renforcent les mesures de prévention d'Ebola",
