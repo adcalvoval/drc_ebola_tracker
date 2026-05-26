@@ -496,7 +496,7 @@ function buildAdm1Popup(feature, status) {
         ${itConfirmed}
         ${activeNote}
       </div>
-      <p class="pu-caveat">Source: ${src} · Updated: ${tsStr}</p>
+      <p class="pu-caveat">Feed: ${src} · Updated: ${tsStr}</p>
       <div class="pu-note">Main outbreak zone. Bundibugyo ebolavirus — no approved vaccine or specific treatment. WHO declared PHEIC May 2026.</div>`;
   }
 
@@ -532,7 +532,7 @@ function buildAdm1Popup(feature, status) {
           <div class="pu-stat-l">${provLabel} ${provTier}</div>
         </div>
       </div>
-      <p class="pu-caveat">Source: ${src} · Updated: ${tsStr}</p>
+      <p class="pu-caveat">Feed: ${src} · Updated: ${tsStr}</p>
       <div class="pu-note">Confirmed spread beyond Ituri epicenter.</div>
       ${gomaNote}`;
   }
@@ -585,6 +585,8 @@ function buildAdm2Popup(feature, status) {
   const nameLower = name.toLowerCase();
   const s         = getFeedStats();
   const prov      = (s && s.provinces) || {};
+  const ts        = window.FEED_DATA ? window.FEED_DATA.fetchedAt : null;
+  const tsStr     = ts ? new Date(ts).toUTCString() : '—';
   const statusLabels = { epicenter: 'Within Epicenter Province (Ituri)', spread: 'Within Spread Zone', none: 'No cases reported' };
   const statusColors = { epicenter: '#e74c3c', spread: '#e67e22', none: '#6b7a96' };
 
@@ -602,6 +604,7 @@ function buildAdm2Popup(feature, status) {
           <div class="pu-stat-l">Confirmed Cases (Goma) ${gomaData ? tierBadgeHTML(gomaData.sourceWeight) : ''}</div>
         </div>
       </div>
+      <p class="pu-caveat">Source: ${gomaData ? (TIER_LABELS[gomaData.sourceWeight] || 'WHO EIOS') : 'WHO EIOS'} · Updated: ${tsStr}</p>
       <div class="pu-note">North Kivu's capital. CBCA Virunga hospital has implemented Ebola triage protocols. High-risk due to international airport and dense urban population.</div>`;
   }
 
