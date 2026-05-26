@@ -1,8 +1,8 @@
 {
   "drc": {
     "deaths": {
-      "value": 204,
-      "asOf": "2026-05-25T10:12:34Z",
+      "value": 220,
+      "asOf": "2026-05-26T20:11:34Z",
       "source": "WHO / OMS"
     },
     "suspected": {
@@ -11,16 +11,16 @@
       "source": "WHO / OMS"
     },
     "confirmed": {
-      "value": 91,
-      "asOf": "2026-05-25T04:02:36Z",
+      "value": 101,
+      "asOf": "2026-05-26T20:11:34Z",
       "source": "WHO / OMS"
     }
   },
   "uga": {
     "cases": {
-      "value": 5,
-      "asOf": "2026-05-23T19:57:00Z",
-      "source": "Uganda MoH"
+      "value": 7,
+      "asOf": "2026-05-26T20:11:34Z",
+      "source": "WHO / OMS"
     },
     "deaths": {
       "value": 1,
