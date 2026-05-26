@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 26 May 2026 11:05:57 Z",
-  "fetchedAt": "2026-05-26T11:05:58Z",
+  "lastBuildDate": "Tue, 26 May 2026 11:17:42 Z",
+  "fetchedAt": "2026-05-26T11:17:42Z",
   "itemCount": 150,
   "stats": {
     "drc": {
@@ -30,7 +30,8 @@
       },
       "moh": {
         "deaths": 204,
-        "suspected": 867
+        "suspected": 867,
+        "confirmed": 2
       },
       "cdc": {
         "deaths": 24
@@ -41,7 +42,28 @@
         "confirmed": 91
       }
     },
-    "provinces": {},
+    "provinces": {
+      "southKivu": {
+        "confirmed": 2,
+        "sourceWeight": 2,
+        "source": "Ebola : deux cas confirmés dont un décès au Sud-Kivu"
+      },
+      "goma": {
+        "confirmed": 1,
+        "sourceWeight": 0,
+        "source": "Ebola en RDC: l'hopital CBCA Virunga de Goma tente d'adapter ses structures sani"
+      },
+      "ituri": {
+        "confirmed": 78,
+        "sourceWeight": 0,
+        "source": "Ebola : 83 cas confirmés recensés en RDC"
+      },
+      "northKivu": {
+        "confirmed": 4,
+        "sourceWeight": 0,
+        "source": "Ebola : 83 cas confirmés recensés en RDC"
+      }
+    },
     "uga": {
       "mentioned": true
     },
@@ -911,18 +933,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Ebola : 83 cas confirmés recensés en RDC",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599256",
-      "pubDate": "Sat, 23 May 2026 04:57:00 Z",
-      "desc": "Kinshasa, 22 mai 2026 (ACP).- Quatre-vingt-trois cas confirmés de la maladie à virus Ebola, dont 78 en Ituri, quatre au Nord-Kivu et un au Sud-Kivu, ont déjà été enregistrés en République démocratique du Congo, selon le rapport de situation publié vendredi par le gouvernement congolais sur l’évolution de cette 17ᵉ épidémie depuis 1976.",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola en RDC : 64 cas confirmés, 6 décès suspects – l’Ituri et le Nord-Kivu au cœur de la 17e épidémie",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599282",
       "pubDate": "Sat, 23 May 2026 04:57:00 Z",
       "desc": "© Zoom Eco\nLa 17ᵉ épidémie de maladie à virus Ebola que traverse la République démocratique du Congo progresse, inexorablement, dans l’est du pays. Selon le rapport officiel publié ce jeudi par les autorités sanitaires nationales, le bilan cumulé s’établit désormais à 64 cas confirmés depuis le début de la flambée.",
       "tag": "cases"
+    },
+    {
+      "title": "Ebola : 83 cas confirmés recensés en RDC",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599256",
+      "pubDate": "Sat, 23 May 2026 04:57:00 Z",
+      "desc": "Kinshasa, 22 mai 2026 (ACP).- Quatre-vingt-trois cas confirmés de la maladie à virus Ebola, dont 78 en Ituri, quatre au Nord-Kivu et un au Sud-Kivu, ont déjà été enregistrés en République démocratique du Congo, selon le rapport de situation publié vendredi par le gouvernement congolais sur l’évolution de cette 17ᵉ épidémie depuis 1976.",
+      "tag": "analysis"
     },
     {
       "title": "MAROC Au moins 15 personnes, dont deux fillettes, sont mortes, jeudi, dans...",

@@ -14,10 +14,11 @@ import os
 import re
 import subprocess
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from urllib.request import urlopen, Request
 from urllib.error import URLError
 from xml.etree import ElementTree as ET
+from email.utils import parsedate_to_datetime
 
 LOG_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'fetch_feed.log')
 
@@ -35,7 +36,7 @@ FEED_URL = (
 OUT_FILE        = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'feed.json')
 OUT_JS_FILE     = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'feed.js')
 HIGH_WATER_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'high_water.json')
-MAX_ITEMS = 100
+MAX_ITEMS = 150
 
 # ── Qualifier words that precede approximate numbers ─────────────────────────
 # EN / FR / ES / PT / AR
@@ -137,14 +138,121 @@ def official_weight(text):
 
 
 def word_to_num(text):
-    """Replace small English number words with digits."""
+    """Replace small English and French number words with digits."""
     for word, n in [
         ('zero', '0'), ('one', '1'), ('two', '2'), ('three', '3'),
         ('four', '4'), ('five', '5'), ('six', '6'), ('seven', '7'),
         ('eight', '8'), ('nine', '9'), ('ten', '10'),
+        # FR — small cardinals used in epi counts
+        ('zéro', '0'), ('une', '1'), ('un', '1'), ('deux', '2'),
+        ('trois', '3'), ('quatre', '4'), ('cinq', '5'),
+        ('sept', '7'), ('huit', '8'), ('neuf', '9'), ('dix', '10'),
     ]:
         text = re.sub(rf'\b{word}\b', n, text, flags=re.IGNORECASE)
     return text
+
+
+def parse_pubdate(pub_str):
+    """Parse RSS pubDate string (RFC 2822) to UTC-aware datetime, or None."""
+    try:
+        s = (pub_str or '').strip().replace(' Z', ' +0000').replace(' UTC', ' +0000')
+        return parsedate_to_datetime(s)
+    except Exception:
+        return None
+
+
+def extract_provincial_breakdown(items):
+    """Extract province-level confirmed case counts from all items.
+
+    Returns a dict keyed by province/location slug, each value being:
+      {'confirmed': int, 'sourceWeight': int, 'source': str}
+    sourceWeight follows the same 0-3 scale as official_weight().
+    """
+    provinces = {}
+
+    def _store(slug, val, weight, src):
+        prev = provinces.get(slug, {})
+        if weight > prev.get('sourceWeight', -1) or (
+            weight == prev.get('sourceWeight', -1) and val > prev.get('confirmed', 0)
+        ):
+            provinces[slug] = {'confirmed': val, 'sourceWeight': weight, 'source': src[:80]}
+
+    for item in items:
+        raw = item['title'] + ' ' + item.get('desc', '')
+        text = normalize_numerals(word_to_num(raw))
+        text = re.sub(r'(\d)[,\s](\d{3})\b', r'\1\2', text)
+        w = official_weight(raw)
+
+        # Pattern 1: official sitrep format (EN and FR)
+        # EN: "78 Ituri, 4 North Kivu, 1 South Kivu"
+        # FR: "78 en Ituri, 4 au Nord-Kivu et 1 au Sud-Kivu"  (after word_to_num)
+        m = re.search(
+            r'(\d+)\s+(?:en\s+|à\s+|dans\s+)?Ituri'
+            r'[,;\s]+(?:et\s+)?(\d+)\s+(?:au\s+|en\s+|dans\s+)?(?:North|Nord)[-\s]?Kivu'
+            r'[,;\s]+(?:et\s+)?(\d+)\s+(?:au\s+|en\s+|dans\s+)?(?:South|Sud)[-\s]?Kivu',
+            text, re.IGNORECASE
+        )
+        if m:
+            for slug, val in [('ituri', int(m.group(1))),
+                               ('northKivu', int(m.group(2))),
+                               ('southKivu', int(m.group(3)))]:
+                if 0 < val < 10_000:
+                    _store(slug, val, w, item['title'])
+            continue
+
+        # Pattern 2: per-province mentions (EN / FR)
+        per_province = [
+            ('ituri', [
+                r'(\d+)\s+(?:confirmed\s+)?cases?\s+(?:in|from)\s+Ituri\b',
+                r'(\d+)\s+(?:en|dans|à)\s+l\'?Ituri\b',           # FR: "78 en Ituri"
+                r'(\d+)\s+cas\s+confirmés?\s+(?:en|dans|à)\s+l\'?Ituri\b',
+                r'Ituri\b[^.]{0,40}?(\d+)\s+(?:confirmed\s+)?cases?\b',
+            ]),
+            ('northKivu', [
+                r'(\d+)\s+(?:confirmed\s+)?cases?\s+(?:in|from)\s+(?:North|Nord)[-\s]?Kivu\b',
+                r'(\d+)\s+(?:au|en|dans\s+le)\s+(?:Nord|North)[-\s]?Kivu\b',  # FR: "4 au Nord-Kivu"
+                r'(\d+)\s+cas\s+confirmés?\s+(?:au|en|dans)\s+(?:Nord|North)[-\s]?Kivu\b',
+            ]),
+            ('southKivu', [
+                r'(\d+)\s+(?:confirmed\s+)?cases?\s+(?:in|from)\s+(?:South|Sud)[-\s]?Kivu\b',
+                r'(\d+)\s+(?:au|en|dans\s+le)\s+(?:Sud|South)[-\s]?Kivu\b',   # FR: "1 au Sud-Kivu"
+                r'(\d+)\s+cas\s+confirmés?[^.]{0,40}?(?:au|en)\s+(?:Sud|South)[-\s]?Kivu\b',  # FR title: "2 cas confirmés dont 1 décès au Sud-Kivu"
+                r'(?:South|Sud)[-\s]?Kivu[^.]{0,40}?(\d+)\s+(?:confirmed\s+)?cases?\b',
+            ]),
+        ]
+        for slug, patterns in per_province:
+            for pat in patterns:
+                m = re.search(pat, text, re.IGNORECASE)
+                if m:
+                    try:
+                        val = int(m.group(1))
+                        if 0 < val < 10_000:
+                            _store(slug, val, w, item['title'])
+                    except (ValueError, IndexError):
+                        pass
+                    break
+
+        # Goma (admin 2 city, North Kivu)
+        # FR source: "à Goma … où 1 cas d'Ebola a été enregistré" (after word_to_num)
+        # Note: gap between "Goma" and the number can exceed 70 chars in FR text.
+        if re.search(r'\bGoma\b', text, re.IGNORECASE):
+            for pat in [
+                r'(\d+)\s+(?:confirmed\s+)?cases?\s+(?:in|at|from)\s+Goma\b',
+                r'Goma[^.]{0,120}?\b(\d+)\b\s+cas\s+(?:confirmé|d\'?[Ee]bola)',
+                r'\b(\d+)\b\s+cas\s+d\'?[Ee]bola[^.]{0,80}?Goma\b',
+                r'Goma[^.]{0,120}?\b1\b\s+(?:Ebola\s+)?cas',
+            ]:
+                m = re.search(pat, text, re.IGNORECASE)
+                if m:
+                    try:
+                        val = int(m.group(1))
+                    except (ValueError, IndexError):
+                        val = 1
+                    if 0 < val < 10_000:
+                        _store('goma', val, w, item['title'])
+                    break
+
+    return provinces
 
 
 def extract_numbers(title, desc):
@@ -286,10 +394,22 @@ def extract_uga_cases(items):
 
 def compute_stats(items):
     """Build the most authoritative epi summary, preferring WHO > MoH > CDC > media."""
+    # ── Recency filter: use only items from last 72 h for numeric extraction ──
+    # This prevents older (lower) figures from competing with current ones.
+    # Falls back to all items if fewer than 5 parse successfully.
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(hours=72)
+    stat_items = [
+        i for i in items
+        if (parse_pubdate(i.get('pubDate', '')) or datetime(1970, 1, 1, tzinfo=timezone.utc)) >= cutoff
+    ]
+    if len(stat_items) < 5:
+        stat_items = items
+
     by_weight = {3: {}, 2: {}, 1: {}, 0: {}}
     has_pheic = any(i['tag'] == 'pheic' for i in items)
 
-    for item in items:
+    for item in stat_items:
         text = item['title'] + ' ' + item.get('desc', '')
         w = official_weight(text)
         nums = extract_numbers(item['title'], item.get('desc', ''))
@@ -298,19 +418,48 @@ def compute_stats(items):
             if val > prev_val:
                 by_weight[w][field] = (val, item['title'][:80])
 
+    # Best value per field (highest authority tier wins)
     drc = {}
-    sources = {}
+    drc_meta = {}
     for w in (3, 2, 1, 0):
         for field, (val, src) in by_weight[w].items():
             if field not in drc:
                 drc[field] = val
-                sources[field] = f'w{w}: {src}'
+                drc_meta[field] = {'tier': w, 'src': src}
 
     # Deaths must be directly WHO-attributed (weight 3).  If no weight-3
     # article extracted a death figure, drop the field so the frontend falls
     # back to the high-water mark rather than showing a media-reported figure.
     if 'deaths' not in by_weight[3]:
         drc.pop('deaths', None)
+        drc_meta.pop('deaths', None)
+
+    # Province-specific confirmed counts (e.g. "2 confirmed in Sud-Kivu") can
+    # beat a DRC-total figure if their source article happens to mention MoH.
+    # Guard: if a lower tier has a value >5× larger, the winner is sub-national.
+    if 'confirmed' in drc:
+        better = max(
+            (val for fields in by_weight.values()
+             for f, (val, _) in fields.items() if f == 'confirmed' and val > drc['confirmed']),
+            default=None
+        )
+        if better is not None and better > drc['confirmed'] * 5:
+            for w in (0, 1, 2, 3):
+                if 'confirmed' in by_weight[w] and by_weight[w]['confirmed'][0] == better:
+                    drc['confirmed'] = better
+                    drc_meta['confirmed'] = {'tier': w, 'src': by_weight[w]['confirmed'][1]}
+                    break
+
+    # Per-tier breakdown for full transparency on the frontend
+    tier_keys = {3: 'who', 2: 'moh', 1: 'cdc', 0: 'media'}
+    drc_tiers = {
+        label: {field: val for field, (val, _) in by_weight[w].items()}
+        for w, label in tier_keys.items()
+        if by_weight[w]
+    }
+
+    # Provincial breakdown uses all items for the widest possible coverage
+    provinces = extract_provincial_breakdown(items)
 
     uga_cases = extract_uga_cases(items)
     uga_mentioned = any(
@@ -332,8 +481,11 @@ def compute_stats(items):
         uga['mentioned'] = True
 
     return {
-        'drc': drc,
-        'uga': uga,
+        'drc':      drc,
+        'drcMeta':  drc_meta,
+        'drcTiers': drc_tiers,
+        'provinces': provinces,
+        'uga':      uga,
         'whoAlert': 'PHEIC' if has_pheic else None,
         'sourceLabel': weight_label[winning_weight],
     }
@@ -476,6 +628,7 @@ def main():
         cwd=repo_root, capture_output=True, text=True
     )
     if result.returncode == 0:
+        subprocess.run(['git', 'pull', '--rebase'], cwd=repo_root, check=True)
         subprocess.run(['git', 'push'], cwd=repo_root, check=True)
         print('Pushed to remote.')
         log('OK', 'Committed and pushed feed data.')

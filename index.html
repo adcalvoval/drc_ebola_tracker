@@ -223,6 +223,18 @@
     .leaflet-control-attribution { background: rgba(15,22,38,0.8) !important; color: #4a5a76 !important; }
     .leaflet-control-attribution a { color: #5a6a86 !important; }
     .leaflet-tooltip { display: none !important; }
+
+    /* ── Source tier badges ─────────────────────────────────────────── */
+    .tier-badge {
+      font-size: 0.5rem; font-weight: 800; padding: 1px 5px; border-radius: 3px;
+      text-transform: uppercase; letter-spacing: 0.5px; display: inline-block;
+      vertical-align: middle; margin-left: 3px;
+    }
+    .tier-who   { background: #1a5c2e; color: #58d68d; }
+    .tier-moh   { background: #1a3a6e; color: #5dade2; }
+    .tier-cdc   { background: #5c4a0a; color: #f4d03f; }
+    .tier-media { background: #3a3a3a; color: #999; }
+    .stat-tier  { font-size: 0.55rem; margin-top: 2px; min-height: 14px; }
   </style>
 </head>
 <body>
@@ -244,14 +256,17 @@
   <div class="stat s-deaths">
     <div class="stat-value" id="val-deaths">—</div>
     <div class="stat-label">Deaths Reported</div>
+    <div class="stat-tier" id="tier-deaths"></div>
   </div>
   <div class="stat s-cases">
     <div class="stat-value" id="val-cases">—</div>
     <div class="stat-label">Suspected Cases</div>
+    <div class="stat-tier" id="tier-cases"></div>
   </div>
   <div class="stat s-active">
     <div class="stat-value" id="val-severity">—</div>
     <div class="stat-label">WHO Alert</div>
+    <div class="stat-tier" id="tier-severity"></div>
   </div>
   <div class="stat s-country">
     <div class="stat-value" id="val-countries">—</div>
@@ -368,7 +383,7 @@ function getAdm1Status(feature) {
   const name = (feature.properties.shapeName || '').toLowerCase();
   if (iso === 'CD-IT' || /\bituri\b/.test(name))                          return 'epicenter';
   if (iso === 'CD-NK' || /nord.?kivu|north.?kivu/.test(name))             return 'spread';
-  if (iso === 'CD-KN' || /\bkinshasa\b/.test(name))                       return 'spread';
+  if (iso === 'CD-SK' || /sud.?kivu|south.?kivu/.test(name))              return 'spread';
   return 'none';
 }
 
@@ -424,14 +439,19 @@ function fmtN(v) {
 }
 
 function buildAdm1Popup(feature, status) {
-  const name = feature.properties.shapeName || 'Unknown Province';
-  const iso  = feature.properties.shapeISO  || '—';
-  const s    = getFeedStats();
-  const drc  = s.drc || {};
-  const uga  = s.uga || {};
-  const src  = s.sourceLabel || 'WHO EIOS RSS';
-  const ts   = window.FEED_DATA ? window.FEED_DATA.fetchedAt : null;
-  const tsStr = ts ? new Date(ts).toUTCString() : '—';
+  const name     = feature.properties.shapeName || 'Unknown Province';
+  const iso      = feature.properties.shapeISO  || '—';
+  const s        = getFeedStats();
+  const drc      = s.drc      || {};
+  const meta     = s.drcMeta  || {};
+  const prov     = s.provinces || {};
+  const tiers    = s.drcTiers  || {};
+  const src      = s.sourceLabel || 'WHO EIOS RSS';
+  const hw       = getHW();
+  const hwDrc    = hw.drc || {};
+  const ts       = window.FEED_DATA ? window.FEED_DATA.fetchedAt : null;
+  const tsStr    = ts ? new Date(ts).toUTCString() : '—';
+  const nameLower = name.toLowerCase();
 
   if (status === 'none') {
     return `
@@ -441,18 +461,39 @@ function buildAdm1Popup(feature, status) {
   }
 
   if (status === 'epicenter') {
-    const hw    = getHW();
-    const hwDrc = hw.drc || {};
+    const itProv    = prov.ituri;
+    const itConfirmed = itProv
+      ? `<div class="pu-stat full">
+           <div class="pu-stat-v" style="color:#e67e22">${fmtN(itProv.confirmed)}</div>
+           <div class="pu-stat-l">Confirmed in Ituri ${tierBadgeHTML(itProv.sourceWeight)}</div>
+         </div>`
+      : '';
     const activeNote = (drc.active != null || hwDrc.active)
       ? `<div class="pu-stat full"><div class="pu-stat-v" style="color:#3498db">${hwFmt(drc.active, hwDrc.active)}</div><div class="pu-stat-l">Active Patients (Bunia treatment centres)</div></div>`
+      : '';
+    // WHO-only figures row (if different from best-available)
+    const whoRow = tiers.who && (tiers.who.suspected || tiers.who.confirmed)
+      ? `<div style="font-size:0.63rem;color:#58d68d;margin-bottom:6px;line-height:1.5;">
+           <span class="tier-badge tier-who">WHO direct</span>
+           ${tiers.who.suspected ? `${fmtN(tiers.who.suspected)} suspected` : ''}
+           ${tiers.who.confirmed ? `· ${fmtN(tiers.who.confirmed)} confirmed` : ''}
+         </div>`
       : '';
     return `
       <div class="pu-name">${name}</div>
       <div class="pu-sub">Admin 1 · Province · ISO: ${iso}</div>
       <span class="pu-badge pb-epicenter">Epicenter Province</span>
+      ${whoRow}
       <div class="pu-stats">
-        <div class="pu-stat"><div class="pu-stat-v" style="color:#e74c3c">${hwFmt(drc.deaths, hwDrc.deaths)}</div><div class="pu-stat-l">Probable Deaths (DRC)</div></div>
-        <div class="pu-stat"><div class="pu-stat-v" style="color:#e67e22">${hwFmt(drc.suspected, hwDrc.suspected)}</div><div class="pu-stat-l">Suspected Cases (DRC)</div></div>
+        <div class="pu-stat">
+          <div class="pu-stat-v" style="color:#e74c3c">${hwFmt(drc.deaths, hwDrc.deaths)}</div>
+          <div class="pu-stat-l">Probable Deaths (DRC) ${tierBadgeHTML((meta.deaths || {}).tier)}</div>
+        </div>
+        <div class="pu-stat">
+          <div class="pu-stat-v" style="color:#e67e22">${hwFmt(drc.suspected, hwDrc.suspected)}</div>
+          <div class="pu-stat-l">Suspected Cases (DRC) ${tierBadgeHTML((meta.suspected || {}).tier)}</div>
+        </div>
+        ${itConfirmed}
         ${activeNote}
       </div>
       <p class="pu-caveat">Source: ${src} · Updated: ${tsStr}</p>
@@ -460,16 +501,40 @@ function buildAdm1Popup(feature, status) {
   }
 
   if (status === 'spread') {
-    const ugaCases = uga.cases != null ? fmtN(uga.cases) : '≥1';
+    let provKey = null;
+    let provLabel = 'Confirmed Cases';
+    if (/nord.?kivu|north.?kivu/.test(nameLower) || iso === 'CD-NK') {
+      provKey = 'northKivu'; provLabel = 'Confirmed in North Kivu';
+    } else if (/sud.?kivu|south.?kivu/.test(nameLower) || iso === 'CD-SK') {
+      provKey = 'southKivu'; provLabel = 'Confirmed in South Kivu';
+    }
+    const provData    = provKey ? prov[provKey] : null;
+    const provDisplay = provData
+      ? `${fmtN(provData.confirmed)}`
+      : '≥1';
+    const provTier = provData ? tierBadgeHTML(provData.sourceWeight) : '';
+
+    // Goma note for North Kivu
+    const gomaNote = (provKey === 'northKivu' && prov.goma)
+      ? `<p class="pu-note" style="margin-top:6px;border-top:1px solid #1e2a4a;padding-top:6px;">
+           Goma (provincial capital): ${fmtN(prov.goma.confirmed)} confirmed ${tierBadgeHTML(prov.goma.sourceWeight)}<br>
+           <span style="font-size:0.65rem;color:#4a5a76;">CBCA Virunga hospital implementing Ebola triage. International airport risk.</span>
+         </p>`
+      : '';
+
     return `
       <div class="pu-name">${name}</div>
       <div class="pu-sub">Admin 1 · Province · ISO: ${iso}</div>
       <span class="pu-badge pb-spread">Confirmed Spread</span>
       <div class="pu-stats">
-        <div class="pu-stat full"><div class="pu-stat-v" style="color:#3498db">≥1</div><div class="pu-stat-l">Confirmed Case (Goma / Kinshasa)</div></div>
+        <div class="pu-stat full">
+          <div class="pu-stat-v" style="color:#3498db">${provDisplay}</div>
+          <div class="pu-stat-l">${provLabel} ${provTier}</div>
+        </div>
       </div>
       <p class="pu-caveat">Source: ${src} · Updated: ${tsStr}</p>
-      <div class="pu-note">Confirmed spread beyond Ituri. Goma raised international concern due to its international airport and dense population.</div>`;
+      <div class="pu-note">Confirmed spread beyond Ituri epicenter.</div>
+      ${gomaNote}`;
   }
 
   return `<div class="pu-name">${name}</div>`;
@@ -485,7 +550,7 @@ function buildUgaPopup(feature, status) {
 
   if (status === 'spread') {
     const hwUgaCases = ((getHW().uga) || {}).cases;
-    const ugaFmt = hwFmt(uga.cases, hwUgaCases);
+    const ugaFmt     = hwFmt(uga.cases, hwUgaCases);
     const ugaDisplay = ugaFmt === '—' ? '≥1' : ugaFmt;
     return `
       <div class="pu-name">${name}</div>
@@ -494,11 +559,13 @@ function buildUgaPopup(feature, status) {
       <div class="pu-stats">
         <div class="pu-stat full">
           <div class="pu-stat-v" style="color:#e67e22">${ugaDisplay}</div>
-          <div class="pu-stat-l">Confirmed Imported Cases (Kampala)</div>
+          <div class="pu-stat-l">Confirmed Cases (Uganda) ${tierBadgeHTML(2)}</div>
         </div>
       </div>
       <p class="pu-caveat">Source: ${src} · Updated: ${tsStr}</p>
-      <div class="pu-note">Cases imported from DRC. Confirmed in Kampala by Uganda Ministry of Health. One fatality recorded. WHO declared PHEIC May 2026.</div>`;
+      <div class="pu-note">
+        5 confirmed cases per Uganda Ministry of Health: includes a DRC-Uganda border post agent, a driver who transported the first confirmed case, and a health worker. One fatality recorded. WHO PHEIC declared May 2026.
+      </div>`;
   }
   return `
     <div class="pu-name">${name}</div>
@@ -507,9 +574,41 @@ function buildUgaPopup(feature, status) {
 }
 
 function buildAdm2Popup(feature, status) {
-  const name = feature.properties.shapeName || 'Unknown Territory';
-  const statusLabels = { epicenter: 'Within Epicenter Province (Ituri)', spread: 'Within Spread Zone (Nord-Kivu)', none: 'No cases reported' };
+  const name      = feature.properties.shapeName || 'Unknown Territory';
+  const nameLower = name.toLowerCase();
+  const s         = getFeedStats();
+  const prov      = (s && s.provinces) || {};
+  const statusLabels = { epicenter: 'Within Epicenter Province (Ituri)', spread: 'Within Spread Zone', none: 'No cases reported' };
   const statusColors = { epicenter: '#e74c3c', spread: '#e67e22', none: '#6b7a96' };
+
+  // Goma city/territory — confirmed case data available from feed
+  if (/\bgoma\b/.test(nameLower) && status !== 'none') {
+    const gomaData = prov.goma;
+    const gomaDisplay = gomaData ? `${fmtN(gomaData.confirmed)} ${tierBadgeHTML(gomaData.sourceWeight)}` : '≥1';
+    return `
+      <div class="pu-name">${name}</div>
+      <div class="pu-sub">Admin 2 · Territory · North Kivu</div>
+      <span class="pu-badge pb-spread">Confirmed Cases</span>
+      <div class="pu-stats">
+        <div class="pu-stat full">
+          <div class="pu-stat-v" style="color:#e67e22">${gomaData ? fmtN(gomaData.confirmed) : '≥1'}</div>
+          <div class="pu-stat-l">Confirmed Cases (Goma) ${gomaData ? tierBadgeHTML(gomaData.sourceWeight) : ''}</div>
+        </div>
+      </div>
+      <div class="pu-note">North Kivu's capital. CBCA Virunga hospital has implemented Ebola triage protocols. High-risk due to international airport and dense urban population.</div>`;
+  }
+
+  // Djugu territory (Ituri) — contains Mongbwalu, site of confirmed transmission and hospital attacks
+  if (/\bdjugu\b/.test(nameLower) && status === 'epicenter') {
+    return `
+      <div class="pu-name">${name}</div>
+      <div class="pu-sub">Admin 2 · Territory · Ituri</div>
+      <span class="pu-badge pb-epicenter">Active Transmission Zone</span>
+      <div class="pu-note" style="color:#e74c3c;">
+        Contains Mongbwalu health zone (85 km from Bunia). Confirmed active transmission: general reference hospital subject to multiple attacks May 23–25. Isolation tents burned. Patient retrieval attempts disrupting response.
+      </div>`;
+  }
+
   return `
     <div class="pu-name">${name}</div>
     <div class="pu-sub">Admin 2 · Territory</div>
@@ -728,7 +827,7 @@ legend.onAdd = () => {
     </div>
     <div class="legend-row">
       <span class="l-sq" style="background:#e67e22;opacity:0.5;border:1px solid #ca6f1e;"></span>
-      Confirmed Spread — Nord-Kivu, Kinshasa (DRC)
+      Confirmed Spread — Nord-Kivu, Sud-Kivu (DRC)
     </div>
     <div class="legend-row">
       <span class="l-sq" style="background:#e67e22;opacity:0.5;border:1px solid #ca6f1e;"></span>
@@ -782,6 +881,15 @@ function renderNews(items, fetchedAt) {
   }
 }
 
+// ── Source tier helpers ───────────────────────────────────────────────────────
+const TIER_LABELS = {3: 'WHO', 2: 'MoH', 1: 'CDC', 0: 'Media'};
+const TIER_CSS    = {3: 'tier-who', 2: 'tier-moh', 1: 'tier-cdc', 0: 'tier-media'};
+
+function tierBadgeHTML(tier) {
+  if (tier == null) return '';
+  return `<span class="tier-badge ${TIER_CSS[tier] || ''}">${TIER_LABELS[tier] || ''}</span>`;
+}
+
 // ── High-water helpers ────────────────────────────────────────────────────────
 function getHW() {
   return (window.FEED_DATA && window.FEED_DATA.highWater) || {};
@@ -794,13 +902,15 @@ function hwResolve(liveVal, hwEntry) {
   return { v: null, stale: false };
 }
 
-// Render a stat cell with optional dimmed high-water note.
-function renderStatCell(elId, liveVal, hwEntry) {
+// Render a stat cell with optional dimmed high-water note and source tier badge.
+function renderStatCell(elId, liveVal, hwEntry, tier) {
   const el = document.getElementById(elId);
   if (!el) return;
   const { v, stale, asOf } = hwResolve(liveVal, hwEntry);
   el.textContent = v != null ? v.toLocaleString() : '—';
   el.style.opacity = stale ? '0.55' : '1';
+
+  // HW note
   let note = el.parentElement.querySelector('.hw-note');
   if (stale && asOf) {
     if (!note) {
@@ -813,6 +923,11 @@ function renderStatCell(elId, liveVal, hwEntry) {
   } else if (note) {
     note.remove();
   }
+
+  // Tier badge — written into the pre-existing .stat-tier slot
+  const tierId = elId.replace('val-', 'tier-');
+  const tierEl = document.getElementById(tierId);
+  if (tierEl) tierEl.innerHTML = tier != null ? tierBadgeHTML(tier) : '';
 }
 
 // Inline formatter for popups: live value, or dimmed HW with date superscript.
@@ -840,8 +955,9 @@ function renderRssStats() {
   const uga = s.uga || {};
   const hw  = getHW();
 
-  renderStatCell('val-deaths',  drc.deaths,    (hw.drc || {}).deaths);
-  renderStatCell('val-cases',   drc.suspected, (hw.drc || {}).suspected);
+  const meta = s.drcMeta || {};
+  renderStatCell('val-deaths',  drc.deaths,    (hw.drc || {}).deaths,    (meta.deaths    || {}).tier);
+  renderStatCell('val-cases',   drc.suspected, (hw.drc || {}).suspected, (meta.suspected || {}).tier);
 
   // Uganda note in suspected-cases sub-label
   const casesEl  = document.getElementById('val-cases');
