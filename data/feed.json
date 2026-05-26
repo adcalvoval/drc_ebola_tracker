@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 25 May 2026 22:09:32 Z",
-  "fetchedAt": "2026-05-25T22:09:32Z",
+  "lastBuildDate": "Tue, 26 May 2026 03:47:20 Z",
+  "fetchedAt": "2026-05-26T03:47:20Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -16,6 +16,34 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Ebola en RDC : trois provinces touchées et 204 décès suspects enregistrés (Ministre de la Santé)",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021617622",
+      "pubDate": "Tue, 26 May 2026 03:42:00 Z",
+      "desc": "Kinshasa, 25 mai 2026 (ACP).- Trois (3) provinces de la République démocratique du Congo, sont actuellement touchées par le virus Ebola, avec 204 décès suspects recensés dans les zones affectées, selon le ministre de la Santé publique, lors de son intervention, lundi, à l’Assemblée nationale à Kinshasa.",
+      "tag": "cases"
+    },
+    {
+      "title": "RDC: combats intenses dans l'est, en pleine épidémie d'Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021616323",
+      "pubDate": "Tue, 26 May 2026 02:42:00 Z",
+      "desc": "Des combats intenses opposent depuis plusieurs jours les forces de Kinshasa et celles du groupe antigouvernemental M23 dans l'est de la République démocratique du Congo (RDC), où une épidémie de maladie Ebola se propage, a-t-on appris lundi auprès de sources locales et sécuritaires.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola : la fondation Gates engage 15 millions de dollars pour la lutte en Afrique",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021615872",
+      "pubDate": "Tue, 26 May 2026 01:22:00 Z",
+      "desc": "L’enveloppe annoncée par la fondation américaine entend soutenir la coordination interagence, le déploiement de personnel sanitaire sur les sites d’intervention et la logistique de la chaîne du froid.\nLa Fondation Bill et Melinda Gates a confirmé, lundi 25 mai 2026, le déblocage de 15 millions de....",
+      "tag": "analysis"
+    },
+    {
+      "title": "1 Economie Ebola : déjà plus de 200 morts en RD Congo, peur et mobilisation internationale Il y a 1 minute",
+      "link": "https://www.tunisienumerique.com/ebola-deja-plus-de-200-morts-en-rd-congo-peur-et-mobilisation-internationale/",
+      "pubDate": "Tue, 26 May 2026 00:11:00 Z",
+      "desc": "Selon les chiffres officiels, l’épidémie de fièvre hémorragique Ebola en République démocratique du Congo (RDC) a fait plus de 200 morts, sur 867 cas suspects enregistrés, selon un dernier bilan publié samedi soir par le ministère de la Santé. Selon les chiffres officiels, 204 décès répartis dans....",
+      "tag": "cases"
+    },
     {
       "title": "Irak : nouveaux cas de fièvre hémorragique de Crimée Congo Patrick GEROME - 25/05/2026 Lire plus➟",
       "link": "https://www.mesvaccins.net/web/news/24142-irak-nouveaux-cas-de-fievre-hemorragique-de-crimee-congo",
@@ -423,17 +451,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Beni : le respect des mesures barrières préconisé pour casser la chaine de contamination d’Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021605382",
-      "pubDate": "Sun, 24 May 2026 03:32:00 Z",
-      "desc": "Beni, 23 mai 2026 (ACP).- Le respecter de toutes les mesures barrières s’avère important pour éviter la contamination du virus d’Ebola déclaré en Ituri et au Nord- Kivu, dans l’est de la République démocratique du Congo, a indiqué samedi une ménagère consultée par l’ ACP à Beni.",
-      "tag": "analysis"
-    },
-    {
       "title": "RDC : appel au renforcement immédiat des mécanismes de biosécurité de lutte contre Ebola (Professeur d’université)",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021605375",
       "pubDate": "Sun, 24 May 2026 03:32:00 Z",
       "desc": "Kinshasa, 23 mai 2026 (ACP).- Un appel au renforcement immédiat des mécanismes de biosécurité sanitaire, des dispositifs de surveillance éco-épidémiologique et stratégies de prévention communautaire face aux risques de propagation du virus Ebola en République démocratique du Congo(RDC )a été lancé....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Beni : le respect des mesures barrières préconisé pour casser la chaine de contamination d’Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021605382",
+      "pubDate": "Sun, 24 May 2026 03:32:00 Z",
+      "desc": "Beni, 23 mai 2026 (ACP).- Le respecter de toutes les mesures barrières s’avère important pour éviter la contamination du virus d’Ebola déclaré en Ituri et au Nord- Kivu, dans l’est de la République démocratique du Congo, a indiqué samedi une ménagère consultée par l’ ACP à Beni.",
       "tag": "analysis"
     },
     {
@@ -687,34 +715,6 @@
       "pubDate": "Sat, 23 May 2026 08:52:00 Z",
       "desc": "Beni, 22 mai 2026 (ACP).- Des dispositions ont été prises par la Régie des voies aériennes ( RVA), pour sécuriser son personnel et les passagers qui fréquentent régulièrement les installations de cette entreprise contre la maladie à virus d’Ebola à Beni, au Nord – Kivu, dans l’Est de la République....",
       "tag": "analysis"
-    },
-    {
-      "title": "Alerte Ebola au Cameroun :",
-      "link": "https://echosante.info/alerte-ebola-au-cameroun-le-ministere-de-la-sante-deploie-un-plan-durgence-preventif/",
-      "pubDate": "Sat, 23 May 2026 08:44:00 Z",
-      "desc": "Face à la déclaration d’urgence sanitaire par l’OMS et le CDC Afrique, le Dr MANAOUDA Malachie sonne la mobilisation pour prémunir le pays contre une éventuelle importation du virus. Bien qu’aucun cas de virus Ebola n’ait été enregistré à ce jour au Cameroun, la vigilance est maximale.",
-      "tag": "response"
-    },
-    {
-      "title": "L’Union africaine et New Delhi reportent le sommet Inde-Afrique face à l’épidémie d’Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021598827",
-      "pubDate": "Sat, 23 May 2026 08:12:00 Z",
-      "desc": "Le sommet du forum Inde-Afrique devait normalement se tenir du 28 au 31 mai. Son report a été annoncé par le ministère indien des Affaires étrangères ce jeudi 21 mai. « La situation émergente en matière de santé publique » en Afrique a été invoquée pour expliquer ce report, une apparente référence à l’épidémie d’Ebola.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Kasaï Oriental : un plan préventif contre Ebola sera soumis au Conseil des ministres (Ministre provincial de la Santé)",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021599895",
-      "pubDate": "Sat, 23 May 2026 07:47:00 Z",
-      "desc": "Mbuji-Mayi, 22 mai 2026 (ACP).– Un plan de contingence contenant de grandes mesures de prévention contre la maladie à virus Ebola (MVE) dans la province du Kasaï Oriental, (Centre de la République démocratique du Congo), sera soumis au Conseil des ministres de la province pour adoption, a appris vendredi l’ACP de source officielle.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola en RDC : risque désormais \"très élevé\", selon l'OMS",
-      "link": "https://fr.euronews.com/sante/2026/05/23/oms-le-risque-ebola-desormais-tres-eleve-en-rd-congo",
-      "pubDate": "Sat, 23 May 2026 07:25:00 Z",
-      "desc": "Dans une mise à jour publiée vendredi, le directeur général de l'agence, Tedros Adhanom Ghebreyesus, a indiqué que 82 cas avaient été confirmés à ce stade dans le pays, dont sept décès. \"Mais nous savons que l'épidémie en RDC est bien plus étendue\", a-t-il précisé, évoquant environ 750 cas suspects et 177 décès suspects recensés.",
-      "tag": "cases"
     }
   ],
   "highWater": {
