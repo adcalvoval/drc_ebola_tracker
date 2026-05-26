@@ -65,6 +65,8 @@
       }
     },
     "uga": {
+      "cases": 5,
+      "deaths": 1,
       "mentioned": true
     },
     "whoAlert": "PHEIC",

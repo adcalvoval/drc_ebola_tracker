@@ -549,9 +549,15 @@ function buildUgaPopup(feature, status) {
   const tsStr = ts ? new Date(ts).toUTCString() : '—';
 
   if (status === 'spread') {
-    const hwUgaCases = ((getHW().uga) || {}).cases;
-    const ugaFmt     = hwFmt(uga.cases, hwUgaCases);
-    const ugaDisplay = ugaFmt === '—' ? '≥1' : ugaFmt;
+    const hwUga       = getHW().uga || {};
+    const casesR      = hwResolve(uga.cases,  hwUga.cases);
+    const deathsR     = hwResolve(uga.deaths, hwUga.deaths);
+    const ugaFmt      = hwFmt(uga.cases, hwUga.cases);
+    const ugaDisplay  = ugaFmt === '—' ? '≥1' : ugaFmt;
+    const casesNote   = casesR.v  != null ? casesR.v  : '≥1';
+    const deathsNote  = deathsR.v != null
+      ? `${deathsR.v} ${deathsR.v === 1 ? 'fatality' : 'fatalities'} recorded.`
+      : '';
     return `
       <div class="pu-name">${name}</div>
       <div class="pu-sub">Admin 1 · Region · Uganda</div>
@@ -564,7 +570,7 @@ function buildUgaPopup(feature, status) {
       </div>
       <p class="pu-caveat">Source: ${src} · Updated: ${tsStr}</p>
       <div class="pu-note">
-        5 confirmed cases per Uganda Ministry of Health: includes a DRC-Uganda border post agent, a driver who transported the first confirmed case, and a health worker. One fatality recorded. WHO PHEIC declared May 2026.
+        ${casesNote} confirmed cases per Uganda Ministry of Health: includes a DRC-Uganda border post agent, a driver who transported the first confirmed case, and a health worker. ${deathsNote} WHO PHEIC declared May 2026.
       </div>`;
   }
   return `
