@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 26 May 2026 07:29:56 Z",
-  "fetchedAt": "2026-05-26T07:29:56Z",
+  "lastBuildDate": "Tue, 26 May 2026 08:16:33 Z",
+  "fetchedAt": "2026-05-26T08:16:33Z",
   "itemCount": 100,
   "stats": {
     "drc": {
@@ -16,6 +16,27 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Ebola-Ituri : le gouverneur militaire plaide pour une riposte « rapide » pour éviter une catastrophe",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021617741",
+      "pubDate": "Tue, 26 May 2026 08:07:00 Z",
+      "desc": "Kinshasa, 25 mai 2026 (ACP).– Le gouverneur militaire de l’Ituri, province sous état de siège dans l’est de la République démocratique du Congo, a lancé un plaidoyer pour une intervention sanitaire rapide face à la résurgence de l’épidémie à virus Ebola, a appris l’ACP lundi d’une déclaration officielle.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Les failles qui profitent à Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021617669",
+      "pubDate": "Tue, 26 May 2026 08:07:00 Z",
+      "desc": "AFRIQUE Dix pays sont désormais à risque face à l’épidémie d’Ebola, qui a infecté au moins 900 personnes et en a tué 204 en République démocratique du Congo depuis avril\nLa propagation est facilitée par les conflits armés, l’accès limité aux soins, les pratiques traditionnelles et la défiance envers....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Kisangani : la sécurité et la maladie d’Ebola au menu des échanges dans une commune",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021617576",
+      "pubDate": "Tue, 26 May 2026 07:47:00 Z",
+      "desc": "Kisangani, 25 mai 2026 (ACP).- Les administrés de la commune de Makiso à Kisangani, ont été appelés par l’autorité communale, lors d’un rassemblement hebdomadaire lundi, à la vigilance face à l’insécurité et à respecter les mesures barrières contre l’épidémie d’Ebola dans cette ville du nord-est de....",
+      "tag": "analysis"
+    },
     {
       "title": "L’épidémie d’Ebola jugée extrêmement grave par l’OMS",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021618133",
@@ -694,27 +715,6 @@
       "pubDate": "Sat, 23 May 2026 13:45:00 Z",
       "desc": "Je salue l’ensemble des personnes présentes dans la salle et celles qui sont en ligne. La flambée d’Ebola en République démocratique du Congo s’étend rapidement. Auparavant, l’OMS avait considéré que le risque était élevé au niveau national et régional, et faible au niveau mondial.",
       "tag": "analysis"
-    },
-    {
-      "title": "22 mai 2026 Allocution liminaire du Directeur général de l’OMS lors de la séance d’information des États Membres sur les flambées d’Ebola et de hantavirus – 22 mai 2026",
-      "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-information-session-on-outbreaks-of-ebola-and-hantavirus-22-may-2026",
-      "pubDate": "Sat, 23 May 2026 13:45:00 Z",
-      "desc": "Excellences, Mesdames et Messieurs les Ministres, Mesdames et Messieurs les Cheffes et Chefs de délégation, chères et chers collègues, chères amies, chers amis, Je salue l’ensemble des représentantes et représentants des États Membres présents dans la salle et celles et ceux qui sont en ligne.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola : trois nouveaux cas confirmés en Ouganda",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601213",
-      "pubDate": "Sat, 23 May 2026 12:32:00 Z",
-      "desc": "Ebola : trois nouveaux cas confirmés en Ouganda\nOuvrir en mode plein écran\nUn agent sanitaire au poste-frontière de Busunga, entre l'Ouganda et la République démocratique du Congo, lundi dernier.\nPhoto : afp via getty images / BADRU KATUMBA\nAgence France-Presse\nPublié à 8 h 19 HAE\nTrois nouveaux cas....",
-      "tag": "analysis"
-    },
-    {
-      "title": "L’épidémie d’Ebola, un risque maximal pour la santé publique",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021601207",
-      "pubDate": "Sat, 23 May 2026 12:32:00 Z",
-      "desc": "République démocratique du Congo. L’épidémie d’Ebola représente désormais un risque « très élevé » pour la santé publique au niveau national, soit le niveau maximal, a alerté hier l’Organisation mondiale de la santé. Le virus se propage « rapidement ».",
-      "tag": "response"
     }
   ],
   "highWater": {
