@@ -569,6 +569,10 @@ def parse(xml_bytes):
 def main():
     os.makedirs(os.path.dirname(OUT_FILE), exist_ok=True)
 
+    repo_root = os.path.dirname(os.path.abspath(__file__))
+    print('Pulling latest from remote...')
+    subprocess.run(['git', 'pull', '--rebase'], cwd=repo_root, check=True)
+
     print('Fetching feed...')
     try:
         xml_bytes = fetch(FEED_URL)
@@ -618,7 +622,6 @@ def main():
     print(f'Fetched at:  {data["fetchedAt"]}')
     log('OK', summary)
 
-    repo_root = os.path.dirname(os.path.abspath(__file__))
     subprocess.run(
         ['git', 'add', 'data/feed.js', 'data/feed.json', 'data/high_water.json'],
         cwd=repo_root, check=True
@@ -628,7 +631,6 @@ def main():
         cwd=repo_root, capture_output=True, text=True
     )
     if result.returncode == 0:
-        subprocess.run(['git', 'pull', '--rebase'], cwd=repo_root, check=True)
         subprocess.run(['git', 'push'], cwd=repo_root, check=True)
         print('Pushed to remote.')
         log('OK', 'Committed and pushed feed data.')
