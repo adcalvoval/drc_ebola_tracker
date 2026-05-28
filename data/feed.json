@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 27 May 2026 22:42:36 Z",
-  "fetchedAt": "2026-05-27T22:42:37Z",
+  "lastBuildDate": "Thu, 28 May 2026 03:50:55 Z",
+  "fetchedAt": "2026-05-28T03:50:56Z",
   "itemCount": 150,
   "stats": {
     "drc": {
@@ -145,17 +145,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Vizag gears up for intensified monitoring against Ebola spread",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021626673",
-      "pubDate": "Wed, 27 May 2026 11:27:00 Z",
-      "desc": "Visakhapatnam: Amid rising concerns over the spread of the Ebola virus and following fresh cases reported in several African nations, the Visakhapatnam district administration has intensified precautionary measures to safeguard against the virus’s possible spread.",
-      "tag": "cases"
-    },
-    {
       "title": "Ebola Alert - Rubanda Chair Warns Against Handshakes",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021626736",
       "pubDate": "Wed, 27 May 2026 11:27:00 Z",
       "desc": "Rubanda District Chairperson Stephen Ampeire Kasyaba has urged residents to avoid handshakes and limit close contact as Uganda registers new Ebola cases.\nThis comes after the Ministry of Health confirmed two new Ebola cases involving health workers in Kampala, bringing the total number of confirmed cases to seven within five days.",
+      "tag": "cases"
+    },
+    {
+      "title": "Vizag gears up for intensified monitoring against Ebola spread",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021626673",
+      "pubDate": "Wed, 27 May 2026 11:27:00 Z",
+      "desc": "Visakhapatnam: Amid rising concerns over the spread of the Ebola virus and following fresh cases reported in several African nations, the Visakhapatnam district administration has intensified precautionary measures to safeguard against the virus’s possible spread.",
       "tag": "cases"
     },
     {
@@ -264,13 +264,6 @@
       "tag": "cases"
     },
     {
-      "title": "No ebola case in India, as individual in Bengaluru tests negative: Health Ministry",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021626303",
-      "pubDate": "Wed, 27 May 2026 10:52:00 Z",
-      "desc": "As countries including India step up surveillance for the Ebola virus at ports of entry, an individual with a travel history from Uganda has tested negative for Ebola, according to a Health Ministry source.\n\"Exercising abundant caution, one individual with recent travel history from Uganda, who....",
-      "tag": "response"
-    },
-    {
       "title": "International Rescue Committee warns Ebola outbreak could become 'deadliest on record'",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021626296",
       "pubDate": "Wed, 27 May 2026 10:52:00 Z",
@@ -283,6 +276,13 @@
       "pubDate": "Wed, 27 May 2026 10:52:00 Z",
       "desc": ": 221822\nEbola outbreak kills at least 200 people in DRC, Uganda-Africa CDC\n(\n26/05/2026 13:08\n)\nThe Ebola outbreak has spread fast in the Democratic Republic of the Congo (DRC) and Uganda, killing more than 200 people, the Africa Centers for Disease Control and Prevention (Africa CDC) and the World Health Organization (WHO) warned on Monday.",
       "tag": "analysis"
+    },
+    {
+      "title": "No ebola case in India, as individual in Bengaluru tests negative: Health Ministry",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021626303",
+      "pubDate": "Wed, 27 May 2026 10:52:00 Z",
+      "desc": "As countries including India step up surveillance for the Ebola virus at ports of entry, an individual with a travel history from Uganda has tested negative for Ebola, according to a Health Ministry source.\n\"Exercising abundant caution, one individual with recent travel history from Uganda, who....",
+      "tag": "response"
     },
     {
       "title": "US doctor hospitalised over contact with Ebola still asymptomatic",
@@ -341,18 +341,18 @@
       "tag": "pheic"
     },
     {
-      "title": "DNA Viruses - Orf Virus; South China Agricultural University Reports Findings in Orf Virus (ORFV-induced glycolysis facilitates virus replication by increasing lactate production to promote the association between HK2 and STING)",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021626113",
-      "pubDate": "Wed, 27 May 2026 10:32:00 Z",
-      "desc": "2026 MAY 26 (NewsRx) -- By a News Reporter-Staff News Editor at Life Science Weekly -- Fresh data on DNA Viruses - Orf Virus are presented in a new report. According to news reporting from Guangzhou, People's Republic of China, by NewsRx journalists, research stated, \"Orf virus (ORFV), a zoonotic....",
-      "tag": "analysis"
-    },
-    {
       "title": "16 Travelers Under Ebola Surveillance",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021626029",
       "pubDate": "Wed, 27 May 2026 10:32:00 Z",
       "desc": "Listen\nBy Bridgett Milton\n\nCapitol Hill, May 27, 2026: The National Public Health Institute of Liberia (NPHIL) has placed sixteen travelers returning from Uganda and the Democratic Republic of Congo (DRC) under surveillance, following reports of an Ebola outbreak in the region.\n\nNPHIL Director-General, Dr.",
       "tag": "response"
+    },
+    {
+      "title": "DNA Viruses - Orf Virus; South China Agricultural University Reports Findings in Orf Virus (ORFV-induced glycolysis facilitates virus replication by increasing lactate production to promote the association between HK2 and STING)",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021626113",
+      "pubDate": "Wed, 27 May 2026 10:32:00 Z",
+      "desc": "2026 MAY 26 (NewsRx) -- By a News Reporter-Staff News Editor at Life Science Weekly -- Fresh data on DNA Viruses - Orf Virus are presented in a new report. According to news reporting from Guangzhou, People's Republic of China, by NewsRx journalists, research stated, \"Orf virus (ORFV), a zoonotic....",
+      "tag": "analysis"
     },
     {
       "title": "Russia Claims Breakthrough Vaccine Against New Ebola Strain",
@@ -425,13 +425,6 @@
       "tag": "response"
     },
     {
-      "title": "Hematologic Diseases and Conditions - Hemorrhagic Fever With Renal Syndrome; Researchers at First Hospital of Jilin University Zero in on Hemorrhagic Fever With Renal Syndrome (Hemorrhagic fever with renal syndrome complicated by reversible secondary hyp…",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021625931",
-      "pubDate": "Wed, 27 May 2026 10:17:00 Z",
-      "desc": "2026 MAY 26 (NewsRx) -- By a News Reporter-Staff News Editor at TB & Outbreaks Week -- Research findings on hemorrhagic fever with renal syndrome are discussed in a new report. According to news reporting out of Jilin, People's Republic of China, by NewsRx editors, research stated, \"Hemorrhagic....",
-      "tag": "analysis"
-    },
-    {
       "title": "Mexico Strengthens Ebola Surveillance Ahead of the 2026 World Cup",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021625921",
       "pubDate": "Wed, 27 May 2026 10:17:00 Z",
@@ -451,6 +444,13 @@
       "pubDate": "Wed, 27 May 2026 10:17:00 Z",
       "desc": "By BBC Monitoring\nUganda has heightened Ebola prevention measures at a transit facility in the south-western Kisoro District, the primary entry point for refugees fleeing insecurity in eastern DR Congo, warning that congestion and staffing shortages are straining the response to the disease, the private Daily Monitor website reported on 26 May.",
       "tag": "response"
+    },
+    {
+      "title": "Hematologic Diseases and Conditions - Hemorrhagic Fever With Renal Syndrome; Researchers at First Hospital of Jilin University Zero in on Hemorrhagic Fever With Renal Syndrome (Hemorrhagic fever with renal syndrome complicated by reversible secondary hyp…",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021625931",
+      "pubDate": "Wed, 27 May 2026 10:17:00 Z",
+      "desc": "2026 MAY 26 (NewsRx) -- By a News Reporter-Staff News Editor at TB & Outbreaks Week -- Research findings on hemorrhagic fever with renal syndrome are discussed in a new report. According to news reporting out of Jilin, People's Republic of China, by NewsRx editors, research stated, \"Hemorrhagic....",
+      "tag": "analysis"
     },
     {
       "title": "RD Congo: Les combats s’intensifient dans l’est, en pleine épidémie d’Ebola",
@@ -488,17 +488,17 @@
       "tag": "cases"
     },
     {
-      "title": "Dengue, Zika, chikungunya : surveillance renforcée en métropole",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021625759",
-      "pubDate": "Wed, 27 May 2026 10:02:00 Z",
-      "desc": "Les autorités recommandent un test diagnostic en cas de fièvre et de douleur inexpliquées, même sans voyage dans une zone endémique.\nUne « priorité de santé publique » , qui le sera de plus en plus à la faveur du réchauffement climatique : la surveillance des maladies autrefois jugées tropicales que....",
-      "tag": "analysis"
-    },
-    {
       "title": "Drinking guava juice may help tackle common deficiency linked to illness and early death, study suggests",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021625741",
       "pubDate": "Wed, 27 May 2026 10:02:00 Z",
       "desc": "* READ MORE: Ebola outbreak caused by rare stain with no vaccine available\nA common nutrient deficiency impacting over a third of women – causing fatigue, brain fog and low mood – could be eased with guava juice, scientists claim.\nIron deficiency has been listed as one of the top five causes of disability in women of reproductive age globally.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Dengue, Zika, chikungunya : surveillance renforcée en métropole",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021625759",
+      "pubDate": "Wed, 27 May 2026 10:02:00 Z",
+      "desc": "Les autorités recommandent un test diagnostic en cas de fièvre et de douleur inexpliquées, même sans voyage dans une zone endémique.\nUne « priorité de santé publique » , qui le sera de plus en plus à la faveur du réchauffement climatique : la surveillance des maladies autrefois jugées tropicales que....",
       "tag": "analysis"
     },
     {
@@ -810,13 +810,6 @@
       "tag": "response"
     },
     {
-      "title": "Ebola screening begins at airports in A.P.",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021624681",
-      "pubDate": "Wed, 27 May 2026 08:22:00 Z",
-      "desc": "VISAKHAPATNAM Today's Paper\nPeople with a recent African travel history are being examined; a 30-bed isolation ward is ready in Visakhapantam for suspected cases\nHealth screening for Ebola has begun at Visakhapatnam, Vijayawada and Tirupati airports and Visakhapatnam seaport on Tuesday after the A.P.",
-      "tag": "cases"
-    },
-    {
       "title": "DRC flight suspension and Uganda border curbs isolate Ebola-hit Bunia",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021624678",
       "pubDate": "Wed, 27 May 2026 08:22:00 Z",
@@ -824,18 +817,11 @@
       "tag": "response"
     },
     {
-      "title": "Quels pays réduisent le plus l’aide extérieure en 2025, et qui mène désormais ?",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021622904",
-      "pubDate": "Wed, 27 May 2026 08:17:00 Z",
-      "desc": "La République démocratique du Congo (RDC) est au cœur d’une grave épidémie d’Ebola qui, selon les dernières données de l’Organisation mondiale de la santé (OMS), a déjà fait 220 décès suspects et plus de 900 cas suspects.\nCette flambée, déclarée urgence de santé publique de portée internationale par....",
-      "tag": "pheic"
-    },
-    {
-      "title": "Mosquito-Borne Diseases - Dengue Hemorrhagic Fever; Study Results from Kunming University of Science and Technology Update Understanding of Dengue Hemorrhagic Fever (Shifting Dengue Virus Imports into Yunnan, China, 2017-2019: Epidemic Lineages Sparking …",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021624652",
-      "pubDate": "Wed, 27 May 2026 08:17:00 Z",
-      "desc": "2026 MAY 26 (VerticalNews) -- By a News Reporter-Staff News Editor at China Weekly News -- New research on Mosquito-Borne Diseases - Dengue Hemorrhagic Fever is the subject of a report. According to news originating from Kunming, People's Republic of China, by VerticalNews correspondents, research....",
-      "tag": "analysis"
+      "title": "Ebola screening begins at airports in A.P.",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021624681",
+      "pubDate": "Wed, 27 May 2026 08:22:00 Z",
+      "desc": "VISAKHAPATNAM Today's Paper\nPeople with a recent African travel history are being examined; a 30-bed isolation ward is ready in Visakhapantam for suspected cases\nHealth screening for Ebola has begun at Visakhapatnam, Vijayawada and Tirupati airports and Visakhapatnam seaport on Tuesday after the A.P.",
+      "tag": "cases"
     },
     {
       "title": "The U.S. Centers for Disease Control and Prevention has expanded Ebola virus screening to Atlanta Airport",
@@ -857,6 +843,20 @@
       "pubDate": "Wed, 27 May 2026 08:17:00 Z",
       "desc": "The Ministry of Health issued updated guidelines on the diagnosis and treatment of Ebola virus disease amid complicated and unpredictable developments of the outbreaks in Africa, particularly in Congo and Uganda on May 26.",
       "tag": "analysis"
+    },
+    {
+      "title": "Mosquito-Borne Diseases - Dengue Hemorrhagic Fever; Study Results from Kunming University of Science and Technology Update Understanding of Dengue Hemorrhagic Fever (Shifting Dengue Virus Imports into Yunnan, China, 2017-2019: Epidemic Lineages Sparking …",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021624652",
+      "pubDate": "Wed, 27 May 2026 08:17:00 Z",
+      "desc": "2026 MAY 26 (VerticalNews) -- By a News Reporter-Staff News Editor at China Weekly News -- New research on Mosquito-Borne Diseases - Dengue Hemorrhagic Fever is the subject of a report. According to news originating from Kunming, People's Republic of China, by VerticalNews correspondents, research....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Quels pays réduisent le plus l’aide extérieure en 2025, et qui mène désormais ?",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021622904",
+      "pubDate": "Wed, 27 May 2026 08:17:00 Z",
+      "desc": "La République démocratique du Congo (RDC) est au cœur d’une grave épidémie d’Ebola qui, selon les dernières données de l’Organisation mondiale de la santé (OMS), a déjà fait 220 décès suspects et plus de 900 cas suspects.\nCette flambée, déclarée urgence de santé publique de portée internationale par....",
+      "tag": "pheic"
     },
     {
       "title": "Uganda national in Bengaluru tests negative for Ebola; no confirmed case in India: Health Ministry",
@@ -999,13 +999,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Pide México a ciudadanos del Congo no venir ante brote de ébola rumbo al Mundial 2026",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021624105",
-      "pubDate": "Wed, 27 May 2026 07:17:00 Z",
-      "desc": "Ciudad de México.- El Gobierno de México pidió a ciudadanos de la República Democrática del Congo, Uganda y Sudán del Sur no viajar a México ante el brote de ébola registrado en esa región africana y anunció filtros sanitarios especiales rumbo al Mundial de Futbol de 2026.",
-      "tag": "analysis"
-    },
-    {
       "title": "Ébola en Argentina: especialistas descartan un brote, pero advierten su alta mortalidad",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021624062",
       "pubDate": "Wed, 27 May 2026 07:17:00 Z",
@@ -1018,6 +1011,13 @@
       "pubDate": "Wed, 27 May 2026 07:17:00 Z",
       "desc": "Thailand orders mandatory 21-day Ebola quarantine for travellers linked to Congo and Uganda after deadly outbreak kills more than 200 people. Authorities tighten airport screening, surveillance, isolation and nationwide disease controls.\nThailand has imposed sweeping Ebola emergency controls after a....",
       "tag": "response"
+    },
+    {
+      "title": "Pide México a ciudadanos del Congo no venir ante brote de ébola rumbo al Mundial 2026",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021624105",
+      "pubDate": "Wed, 27 May 2026 07:17:00 Z",
+      "desc": "Ciudad de México.- El Gobierno de México pidió a ciudadanos de la República Democrática del Congo, Uganda y Sudán del Sur no viajar a México ante el brote de ébola registrado en esa región africana y anunció filtros sanitarios especiales rumbo al Mundial de Futbol de 2026.",
+      "tag": "analysis"
     },
     {
       "title": "Woman in her 60s dies of meningitis, CDC says BE ALERT:The CDC urged doctors to be vigilant in testing and reporting cases of dengue fever after this years first case was confirmed last week, much earlier than last years",
