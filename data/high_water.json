@@ -1,13 +1,13 @@
 {
   "drc": {
     "deaths": {
-      "value": 223,
-      "asOf": "2026-05-28T20:26:33Z",
+      "value": 246,
+      "asOf": "2026-05-28T22:41:40Z",
       "source": "WHO / OMS"
     },
     "suspected": {
-      "value": 1000,
-      "asOf": "2026-05-28T08:16:22Z",
+      "value": 1077,
+      "asOf": "2026-05-28T22:41:40Z",
       "source": "WHO / OMS"
     },
     "confirmed": {
