@@ -905,10 +905,11 @@ function getHW() {
   return (window.FEED_DATA && window.FEED_DATA.highWater) || {};
 }
 
-// Returns { v, stale, asOf } — live value if present, else high-water fallback.
+// Returns { v, stale, asOf } — highest of live value and high-water.
 function hwResolve(liveVal, hwEntry) {
-  if (liveVal != null) return { v: liveVal, stale: false };
-  if (hwEntry && hwEntry.value != null) return { v: hwEntry.value, stale: true, asOf: hwEntry.asOf };
+  const hwVal = hwEntry && hwEntry.value != null ? hwEntry.value : null;
+  if (liveVal != null && (hwVal == null || liveVal >= hwVal)) return { v: liveVal, stale: false };
+  if (hwVal != null) return { v: hwVal, stale: true, asOf: hwEntry.asOf };
   return { v: null, stale: false };
 }
 
@@ -940,12 +941,13 @@ function renderStatCell(elId, liveVal, hwEntry, tier) {
   if (tierEl) tierEl.innerHTML = tier != null ? tierBadgeHTML(tier) : '';
 }
 
-// Inline formatter for popups: live value, or dimmed HW with date superscript.
+// Inline formatter for popups: highest of live and high-water; dims HW-only values.
 function hwFmt(liveVal, hwEntry) {
-  if (liveVal != null) return fmtN(liveVal);
-  if (hwEntry && hwEntry.value != null) {
+  const hwVal = hwEntry && hwEntry.value != null ? hwEntry.value : null;
+  if (liveVal != null && (hwVal == null || liveVal >= hwVal)) return fmtN(liveVal);
+  if (hwVal != null) {
     const d = new Date(hwEntry.asOf).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
-    return `<span style="opacity:0.55">${fmtN(hwEntry.value)}</span>` +
+    return `<span style="opacity:0.55">${fmtN(hwVal)}</span>` +
            `<sup style="color:#4a5a76;font-size:0.6rem;vertical-align:super"> last&nbsp;${d}</sup>`;
   }
   return '—';

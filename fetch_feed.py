@@ -597,6 +597,17 @@ def main():
     save_high_water(hw)
     data['highWater'] = hw
 
+    # Clamp live stats to high-water floor: outbreak counts don't decrease.
+    # The RSS window rotates articles, so a later scrape can pick up a lower
+    # figure from a different article even when the true count is higher.
+    for country_key, fields in (('drc', ('deaths', 'suspected', 'confirmed')),
+                                 ('uga', ('cases',))):
+        for field in fields:
+            hw_val = hw.get(country_key, {}).get(field, {}).get('value')
+            live_val = (data['stats'].get(country_key) or {}).get(field)
+            if hw_val is not None and (live_val is None or live_val < hw_val):
+                data['stats'].setdefault(country_key, {})[field] = hw_val
+
     with open(OUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
