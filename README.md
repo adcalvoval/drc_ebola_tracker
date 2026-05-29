@@ -1,6 +1,6 @@
 # Ebola Outbreak Tracker — DRC & Uganda
 
-A live, single-page situational-awareness dashboard tracking the 2026 Bundibugyo ebolavirus outbreak in eastern DRC and Uganda. Built for rapid operational awareness: no backend, no database, no AI — just an automated data pipeline feeding a Leaflet map.
+A live dashboard tracking information on the 2026 Bundibugyo ebolavirus outbreak in eastern DRC and Uganda published on WHO's EIOS platform. 
 
 **Live:** deployed on Vercel · Data refreshed every 3 hours via GitHub Actions
 
@@ -72,17 +72,18 @@ Outbreak case counts do not decrease. As the RSS feed window rotates older artic
          COD-AB DRC ADM1 · ADM2 · UGA ADM1
 ```
 
-No server-side rendering. No database. No API keys. No AI/LLM calls.
 
 ---
 
 ## Data pipeline — `fetch_feed.py`
 
-The entire analysis is pure Python regex and keyword matching. No tokens are consumed; no external AI service is called.
+The analysis is done through Python regex and keyword matching. No external AI service is called, no LLM.
 
 ### 1. Feed fetch
 
 Connects to the WHO EIOS RSS endpoint (requires a static token embedded in the URL) and retrieves up to 150 articles as XML. Each article provides a `<title>`, `<description>` (HTML-stripped), `<link>`, and `<pubDate>`.
+
+The articles are filtered directly on IFRC's EIOS Board, searching for articles on Ebola from specific sources: European News, Medical, Medical Official, NGO, Official, Science. This is to minimize inaccurate data, misinformation, and to increase the chances of catching official figures, primarily WHO.
 
 ### 2. Article classification
 
