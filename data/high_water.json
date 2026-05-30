@@ -18,9 +18,9 @@
   },
   "uga": {
     "cases": {
-      "value": 5,
-      "asOf": "2026-05-23T19:57:00Z",
-      "source": "Uganda MoH"
+      "value": 200,
+      "asOf": "2026-05-30T08:30:34Z",
+      "source": "WHO / OMS"
     },
     "deaths": {
       "value": 1,
