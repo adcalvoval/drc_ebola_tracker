@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 31 May 2026 10:59:34 Z",
-  "fetchedAt": "2026-05-31T10:59:35Z",
+  "lastBuildDate": "Sun, 31 May 2026 13:48:47 Z",
+  "fetchedAt": "2026-05-31T13:48:48Z",
   "itemCount": 150,
   "stats": {
     "drc": {
@@ -51,6 +51,69 @@ window.FEED_DATA = {
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Face à la menace du virus Ebola, la riposte s’accélère",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021655249",
+      "pubDate": "Sun, 31 May 2026 13:40:00 Z",
+      "desc": "Première guérison, projets de vaccin, visite du directeur de l’OMS… Si la nouvelle épidémie a déjà fait 246 morts en République démocratique du Congo et menace toute la région, plusieurs motifs d’espoir sont à surveiller.\nDans une province de l’Ituri toujours sous tension, où les équipes sanitaires....",
+      "tag": "analysis"
+    },
+    {
+      "title": "CS Duale defends Laikipia Ebola facility, says it's not for US nationals only",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021654359",
+      "pubDate": "Sun, 31 May 2026 13:35:00 Z",
+      "desc": "Health Cabinet Secretary Aden Duale on Saturday clarified government plans surrounding a proposed Ebola preparedness and isolation facility in Laikipia County, amid growing public concern over its purpose and intended users.\nThe clarification came during a Citizen TV interview, where he was pressed....",
+      "tag": "response"
+    },
+    {
+      "title": "Existing protocols to be followed in event of suspected ebola case, Karagiannis tells CNA",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021655183",
+      "pubDate": "Sun, 31 May 2026 13:30:00 Z",
+      "desc": "In Cyprus, there are protocols that were put into effect in the past and will be followed in the event of a suspected case, epidemiologist Petros Karagiannis told CNA regarding the outbreak of the ebola virus in Central Africa.\nAsked what the response would be if there were an imported case in....",
+      "tag": "cases"
+    },
+    {
+      "title": "Rapid spread of Ebola disease outbreak in DR Congo “deeply alarming” News May 30, 2026",
+      "link": "https://www.doctorswithoutborders.org/latest/rapid-spread-ebola-disease-outbreak-dr-congo-deeply-alarming",
+      "pubDate": "Sun, 31 May 2026 12:55:00 Z",
+      "desc": "Dr. Alan Gonzalez, MSF deputy director of operations: “Two weeks after the declaration of the Ebola disease outbreak in Ituri province, the situation is deeply alarming and a legitimate source of anxiety for communities and frontline health workers alike. “Never before has an Ebola outbreak recorded so many cases so soon after its declaration.",
+      "tag": "cases"
+    },
+    {
+      "title": "East African Community - EAC set to convene Emergency Ministerial Meeting on Ebola Outbreak in the region",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021655002",
+      "pubDate": "Sun, 31 May 2026 12:50:00 Z",
+      "desc": "Access the original document here\nEAC set to convene Emergency Ministerial Meeting on Ebola Outbreak in the region\nEast African Community Headquarters, Arusha, Tanzania, 31st May, 2026: The East African Community (EAC) is set to convene an Extra-Ordinary Virtual Meeting of the Sectoral Council of....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Congo widens Ebola testing drive",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021654946",
+      "pubDate": "Sun, 31 May 2026 12:40:00 Z",
+      "desc": "Congo has widened Ebola testing in its eastern provinces after laboratory results showed about 260 positive samples, sharpening concern that the outbreak’s true scale remains unclear despite intensified surveillance.\nHealth authorities are working through expanded diagnostics, case tracing and....",
+      "tag": "analysis"
+    },
+    {
+      "title": "'Striking' cancer jabs destroys tumours in treatment-resistant cases in trial",
+      "link": "https://www.heart.co.uk/news/uk-world/striking-cancer-jabs-destroys-tumours-in-trea/",
+      "pubDate": "Sun, 31 May 2026 12:23:00 Z",
+      "desc": "An injection that eradicated entire tumours in patients with otherwise treatment-resistant cancers in a trial has been praised for its \"striking\" benefits. The jab, which could potentially benefit thousands each year, shrank the tumours in 42% of patients with recurrent and or metastatic head or neck cancer.",
+      "tag": "cases"
+    },
+    {
+      "title": "Woman arrested as Met Police take over murder probe after body found in van",
+      "link": "https://www.heart.co.uk/news/uk-world/woman-arrested-as-met-police-take-over-murder/",
+      "pubDate": "Sun, 31 May 2026 11:52:00 Z",
+      "desc": "31 May 2026, 11:46\n\nThe Metropolitan Police have taken over an investigation into the murder of a man whose body was found in a van in Leicester on Wednesday. A 39-year-old woman was arrested in Hounslow, London, on Friday on suspicion of murder after the address of the van's keeper was identified.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Alerte Ebola : Les Émirats arabes unis restreignent les déplacements vers trois pays africains",
+      "link": "https://www.webmanagercenter.com/2026/05/31/567527/alerte-ebola-les-emirats-arabes-unis-restreignent-les-deplacements-vers-trois-pays-africains/",
+      "pubDate": "Sun, 31 May 2026 11:09:00 Z",
+      "desc": ". Le ministère des Affaires étrangères exhorte ses ressortissants à éviter ces destinations et impose l’inscription sur la plateforme de sécurité Tawajudi. Le réflexe sécuritaire de la diplomatie émiratie. La sécurité sanitaire s’impose de nouveau comme une variable d’ajustement des flux internationaux.",
+      "tag": "response"
+    },
     {
       "title": "Le chef de l’OMS se rend samedi en RDC, épicentre d’Ebola, pour mobiliser les communautés",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021654549",
@@ -129,17 +192,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Ebola : des femmes sensibilisées au respect des mesures d’hygiène à Kinshasa",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021653397",
-      "pubDate": "Sun, 31 May 2026 06:55:00 Z",
-      "desc": "Kinshasa, 30 mai 2026 (ACP).- La vigilance et le respect des mesures d’hygiène ont fait l’objet d’une sensibilisation à l’intention des femmes de N’sele, dans l’est de Kinshasa, en République démocratique du Congo (RDC), lors d’une descente samedi dans une église dans cette municipalité, dans le cadre de lutte contre la maladie à virus Ebola (MVE).",
-      "tag": "analysis"
-    },
-    {
       "title": "L’actualité Express; Un policier tue un homme qui le menaçait avec des couteaux à Bobigny",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021653482",
       "pubDate": "Sun, 31 May 2026 06:55:00 Z",
       "desc": "Seine-Saint-Denis. Un homme, armé de deux couteaux et se montrant menaçant, a été tué par un policier hier à Bobigny, a indiqué la préfecture de police de Paris. L’homme aurait blessé deux de ses voisins et un des policiers présents lors de l’intervention a été contraint de «  faire usage de son....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola : des femmes sensibilisées au respect des mesures d’hygiène à Kinshasa",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021653397",
+      "pubDate": "Sun, 31 May 2026 06:55:00 Z",
+      "desc": "Kinshasa, 30 mai 2026 (ACP).- La vigilance et le respect des mesures d’hygiène ont fait l’objet d’une sensibilisation à l’intention des femmes de N’sele, dans l’est de Kinshasa, en République démocratique du Congo (RDC), lors d’une descente samedi dans une église dans cette municipalité, dans le cadre de lutte contre la maladie à virus Ebola (MVE).",
       "tag": "analysis"
     },
     {
@@ -1018,13 +1081,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "A Mayotte, la recrudescence de cas de paludisme et la crainte d’une réinstallation durable de la maladie",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021650738",
-      "pubDate": "Sat, 30 May 2026 15:30:00 Z",
-      "desc": "Depuis le début de l’année, le département a enregistré 171 cas de cette maladie transmise par les moustiques du genre « Anopheles », dont 29 ont nécessité une hospitalisation, avec une nette accélération depuis fin avril.\nA Mayotte, la classe politique s’émeut du risque d’importation du virus Ebola....",
-      "tag": "analysis"
-    },
-    {
       "title": "Uganda - 9 confirmed Ebola cases, incl. 1 death - May 15+",
       "link": "https://flutrackers.com/forum/forum/africa/ebola-forums/ebola-uganda/1034840-uganda-9-confirmed-ebola-cases-incl-1-death-may-15?p=1036031#post1036031",
       "pubDate": "Sat, 30 May 2026 15:30:00 Z",
@@ -1032,74 +1088,18 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
+      "title": "A Mayotte, la recrudescence de cas de paludisme et la crainte d’une réinstallation durable de la maladie",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021650738",
+      "pubDate": "Sat, 30 May 2026 15:30:00 Z",
+      "desc": "Depuis le début de l’année, le département a enregistré 171 cas de cette maladie transmise par les moustiques du genre « Anopheles », dont 29 ont nécessité une hospitalisation, avec une nette accélération depuis fin avril.\nA Mayotte, la classe politique s’émeut du risque d’importation du virus Ebola....",
+      "tag": "analysis"
+    },
+    {
       "title": "Cyprus ready for potential Ebola case, epidemiologist says",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021650725",
       "pubDate": "Sat, 30 May 2026 15:25:00 Z",
       "desc": "Cyprus has protocols in place to deal with Ebola cases and would follow established procedures in the event of an infection, epidemiologist Petros Karayiannis said on Saturday.\nSpeaking to CNA about the Ebola outbreak in Central Africa, Karayiannis said Cyprus had previously implemented protocols....",
       "tag": "cases"
-    },
-    {
-      "title": "Ebola : une amélioration du dépistage et de premières guérisons en Ituri",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021650683",
-      "pubDate": "Sat, 30 May 2026 15:20:00 Z",
-      "desc": "Bunia, 30 mai 2026 (ACP).- Le ministre congolais de la Santé publique, Roger Kamba, a fait état d’une amélioration des capacités de dépistage de l’épidémie d’Ebola qui touche principalement la province de l’Ituri, épicentre de cette maladie, dans le nord-est de la République démocratique du Congo....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Measles kills 459 children in 64 days, outpacing Covid's early death toll",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021650712",
-      "pubDate": "Sat, 30 May 2026 15:20:00 Z",
-      "desc": "Bangladesh has lost 459 children to measles and measles-like symptoms in just 64 days - a toll that exceeds the number of deaths recorded in the first two months of the Covid-19 pandemic, when 386 people died in the same window after the disease was first detected.",
-      "tag": "cases"
-    },
-    {
-      "title": "DRC - 17th Ebola outbreak : per gov. agency: 1,031 cumulative confirmed + suspected cases, 223 suspected deaths - May 2026+",
-      "link": "https://flutrackers.com/forum/forum/africa/ebola-tracking-dem-republic-of-congo/1034822-drc-17th-ebola-outbreak-per-gov-agency-1-031-cumulative-confirmed-suspected-cases-223-suspected-deaths-may-2026?p=1036029#post1036029",
-      "pubDate": "Sat, 30 May 2026 15:04:00 Z",
-      "desc": "Press Releases\n\nEbola Response Update – May 29, 2026 Ebola Response Update – May 29, 2026\n\nMedia Note\n\nOffice of the Spokesperson\n\nMay 29, 2026\n\nThe Department of State, in close coordination with the U.S. Centers for Disease Control and Prevention (CDC), is continuing to mount a rapid and....",
-      "tag": "cases"
-    },
-    {
-      "title": "RI unveils monitoring plan for travelers from Ebola-impacted countries",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021650577",
-      "pubDate": "Sat, 30 May 2026 14:55:00 Z",
-      "desc": "The Rhode Island Department of Health is implementing a symptom-monitoring system for travelers coming from the Democratic Republic of Congo, Uganda or South Sudan, three African countries with Ebola cases.\nTravelers from these countries are being rerouted to airports in northern Virginia, Atlanta, Houston and New York.",
-      "tag": "cases"
-    },
-    {
-      "title": "Ebola en Ituri : 2 000 kits de diagnostic réceptionnés pour renforcer la riposte",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021650552",
-      "pubDate": "Sat, 30 May 2026 14:50:00 Z",
-      "desc": "Bunia, 30 mai 2026 (ACP).- Deux mille (2 000) kits de diagnostic de la maladie à virus Ebola ont été réceptionnés à Bunia, chef-lieu de la province de l’Ituri, épicentre de l’épidémie, dans le nord-est de la République démocratique du Congo (RDC), dans le cadre du renforcement du dispositif de....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Victoria survives Ebola scare",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021650553",
-      "pubDate": "Sat, 30 May 2026 14:50:00 Z",
-      "desc": "A man in Victoria has been cleared of the Ebola virus, health authorities have confirmed, as the state’s response to a potential case of the deadly disease passed its first test.\nThe man presented to Monash Medical Centre’s emergency department on Tuesday with symptoms similar to Ebola before he was transported to Royal Melbourne Hospital.",
-      "tag": "cases"
-    },
-    {
-      "title": "DRC - 17th Ebola outbreak : per gov. agency: 1,031 cumulative confirmed + suspected cases, 223 suspected deaths - May 2026+",
-      "link": "https://flutrackers.com/forum/forum/africa/ebola-tracking-dem-republic-of-congo/1034822-drc-17th-ebola-outbreak-per-gov-agency-1-031-cumulative-confirmed-suspected-cases-223-suspected-deaths-may-2026?p=1036027#post1036027",
-      "pubDate": "Sat, 30 May 2026 14:38:00 Z",
-      "desc": "Translation Google\n\nEbola: An Italian doctor returning from Congo came into contact with infected patients.\n\nPress release number 34\n\nPress release date May 27, 2026\n\nThe Ministry informs that work is underway to secure the safe return from Congo of a female surgeon who was working at the Salamat....",
-      "tag": "cases"
-    },
-    {
-      "title": "Inside the Ebola Epicenter, the Virus Rages With Little to Stop It",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021649543",
-      "pubDate": "Sat, 30 May 2026 14:35:00 Z",
-      "desc": "In the cramped, dilapidated Ebola ward, a 5-year-old boy languished on a bare mattress, a tissue stuffed into his nose to stanch the incessant bleeding. His father stood over him, eyes clouded with worry.\nA few beds away lay the body of Christiane Bahati, 21, who had died seven hours earlier but had not yet been taken away.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola : l’OMS déconseille la fermeture des frontières",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021650414",
-      "pubDate": "Sat, 30 May 2026 14:30:00 Z",
-      "desc": "Kinshasa, 30 mai 2026 (ACP).- La fermeture des frontières aux voyageurs en provenance de la République démocratique du Congo ne constitue pas une réponse efficace à l’épidémie d’Ebola qui sévit dans l’Est du pays, a affirmé le Directeur général de l’Organisation mondiale de la Santé (OMS), à l’issue....",
-      "tag": "response"
     }
   ],
   "highWater": {
