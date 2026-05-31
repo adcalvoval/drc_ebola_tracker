@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 31 May 2026 08:48:41 Z",
-  "fetchedAt": "2026-05-31T08:48:42Z",
+  "lastBuildDate": "Sun, 31 May 2026 10:59:34 Z",
+  "fetchedAt": "2026-05-31T10:59:35Z",
   "itemCount": 150,
   "stats": {
     "drc": {
@@ -52,6 +52,41 @@ window.FEED_DATA = {
   },
   "items": [
     {
+      "title": "Le chef de l’OMS se rend samedi en RDC, épicentre d’Ebola, pour mobiliser les communautés",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021654549",
+      "pubDate": "Sun, 31 May 2026 10:30:00 Z",
+      "desc": "Le patron de la santé de l’ONU, Tedros Adhanom Ghebreyesus, a atterri samedi dans la province de l’Ituri, dans l’est de la République démocratique du Congo, l’épicentre le plus durement touché par une grave flambée d’un type rare d’Ebola.\nCette visite intervient alors que le virus se propage plus....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola : MSF avertit que l'épidémie d'Ebola en RDC est \"très alarmante\"",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021654519",
+      "pubDate": "Sun, 31 May 2026 10:25:00 Z",
+      "desc": "La propagation rapide du virus Ebola en République démocratique du Congo (RDC) est \"très alarmante\", a averti samedi Médecins Sans Frontières (MSF). L'ONG humanitaire plaide pour le déploiement d'un plus grand nombre d'organisations spécialisées et pour un renforcement de la capacité de dépistage dans le pays.",
+      "tag": "analysis"
+    },
+    {
+      "title": "7 Actualités Organisation mondiale de la santé : la souche actuelle d’Ebola est rare et ne dispose... Il y a 15 minutes",
+      "link": "https://www.tunisienumerique.com/organisation-mondiale-de-la-sante-la-souche-actuelle-debola-est-rare-et-ne-dispose-daucun-vaccin/",
+      "pubDate": "Sun, 31 May 2026 10:04:00 Z",
+      "desc": "Le directeur général de l’Organisation mondiale de la santé, Tedros Adhanom Ghebreyesus, s’est rendu, samedi, dans la province congolaise la plus touchée par l’épidémie du virus Ebola. Il a appelé la population à « solliciter des soins et à appliquer les procédures d’inhumation sécurisée ».",
+      "tag": "analysis"
+    },
+    {
+      "title": "JKIA Gate 16 designated for high-risk Ebola arrivals - PS Muthoni",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021654356",
+      "pubDate": "Sun, 31 May 2026 09:30:00 Z",
+      "desc": "The government has designated a special arrival gate at the Jomo Kenyatta International Airport (JKIA) for travellers arriving from countries considered to be at high risk of Ebola transmission.\nPublic Health PS Mary Muthoni said the move forms part of enhanced surveillance measures rolled out at....",
+      "tag": "response"
+    },
+    {
+      "title": "WHO chief visits Congo Ebola epicentre Saturday to urge community action",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021654320",
+      "pubDate": "Sun, 31 May 2026 09:25:00 Z",
+      "desc": "UN health chief Tedros Adhanom Ghebreyesus landed on Saturday in eastern Democratic Republic of Congo's Ituri province, the epicentre worst-hit by a severe outbreak of a rare type of Ebola.\nThe visit comes as the virus is spreading faster than the response can keep pace with, despite better-organised health facilities and new aid arriving.",
+      "tag": "response"
+    },
+    {
       "title": "The rapid spread of Ebola in the Democratic Republic of Congo has created a ’’deeply alarming’’ situation, the medical charity Médecins Sans Frontières (MSF) has warned.",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021653619",
       "pubDate": "Sun, 31 May 2026 08:35:00 Z",
@@ -101,18 +136,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "WHO chief appeals against travel bans as Ebola cases surge in DRC, Uganda",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021653413",
-      "pubDate": "Sun, 31 May 2026 06:55:00 Z",
-      "desc": "\"; var html = \"\nBunia: World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus called on countries that have imposed travel bans or closed borders in response to the Ebola outbreak in the Democratic Republic of the Congo ...",
-      "tag": "cases"
-    },
-    {
       "title": "L’actualité Express; Un policier tue un homme qui le menaçait avec des couteaux à Bobigny",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021653482",
       "pubDate": "Sun, 31 May 2026 06:55:00 Z",
       "desc": "Seine-Saint-Denis. Un homme, armé de deux couteaux et se montrant menaçant, a été tué par un policier hier à Bobigny, a indiqué la préfecture de police de Paris. L’homme aurait blessé deux de ses voisins et un des policiers présents lors de l’intervention a été contraint de «  faire usage de son....",
       "tag": "analysis"
+    },
+    {
+      "title": "WHO chief appeals against travel bans as Ebola cases surge in DRC, Uganda",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021653413",
+      "pubDate": "Sun, 31 May 2026 06:55:00 Z",
+      "desc": "\"; var html = \"\nBunia: World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus called on countries that have imposed travel bans or closed borders in response to the Ebola outbreak in the Democratic Republic of the Congo ...",
+      "tag": "cases"
     },
     {
       "title": "Ebola en Ituri :l’OMS mise sur l’appropriation communautaire pour renforcer la riposte",
@@ -367,6 +402,13 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
+      "title": "Ebola : l'OMS ne recommande aucune restriction générale aux voyages",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021652102",
+      "pubDate": "Sun, 31 May 2026 01:16:00 Z",
+      "desc": "Alors que l'épidémie d'Ebola poursuit sa progression en République démocratique du Congo (RDC) et que des cas ont été confirmés en Ouganda, l'Organisation mondiale de la Santé (OMS) maintient qu'aucune restriction générale aux voyages ou au...",
+      "tag": "analysis"
+    },
+    {
       "title": "Communities at the Heart of Congo's Ebola BattleGlobal",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021652093",
       "pubDate": "Sun, 31 May 2026 01:16:00 Z",
@@ -386,13 +428,6 @@ window.FEED_DATA = {
       "pubDate": "Sun, 31 May 2026 01:16:00 Z",
       "desc": "The WHO Director-General visited Congo's hardest-hit province in the Ebola outbreak, urging early treatment and safe burials as the disease spreads rapidly. With Brazil investigating a suspected case linked to Congo, officials face ...",
       "tag": "cases"
-    },
-    {
-      "title": "Ebola : l'OMS ne recommande aucune restriction générale aux voyages",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021652102",
-      "pubDate": "Sun, 31 May 2026 01:16:00 Z",
-      "desc": "Alors que l'épidémie d'Ebola poursuit sa progression en République démocratique du Congo (RDC) et que des cas ont été confirmés en Ouganda, l'Organisation mondiale de la Santé (OMS) maintient qu'aucune restriction générale aux voyages ou au...",
-      "tag": "analysis"
     },
     {
       "title": "Uganda confirms two new Ebola cases in Kampala bringing total to nine",
@@ -493,18 +528,18 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Reuters Health News Summary",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021652891",
-      "pubDate": "Sun, 31 May 2026 00:05:00 Z",
-      "desc": "Following is a summary of current health news briefs.\nBristol Myers drug delays myeloma progression in hard to treat patients\nBristol Myers Squibb said on Friday that its experimental oral drug mezigdomide delayed disease progression in a late-stage trial of multiple myeloma patients whose illness had relapsed or not responded to other treatments.",
-      "tag": "analysis"
-    },
-    {
       "title": "WHO chief visits Ebola epicentre as outbreak worsensSince the Ebola outbreak was declared on May 15, the DRC has reported more than 1,000 suspected cases and 246 deaths, according to health officials.",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021652908",
       "pubDate": "Sun, 31 May 2026 00:05:00 Z",
       "desc": "Since the Ebola outbreak was declared on May 15, the DRC has reported more than 1,000 suspected cases and 246 deaths, according to health officials.",
       "tag": "cases"
+    },
+    {
+      "title": "Reuters Health News Summary",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021652891",
+      "pubDate": "Sun, 31 May 2026 00:05:00 Z",
+      "desc": "Following is a summary of current health news briefs.\nBristol Myers drug delays myeloma progression in hard to treat patients\nBristol Myers Squibb said on Friday that its experimental oral drug mezigdomide delayed disease progression in a late-stage trial of multiple myeloma patients whose illness had relapsed or not responded to other treatments.",
+      "tag": "analysis"
     },
     {
       "title": "Donor had an undiagnosed infection; rare case prompted authorities to review screening procedures",
@@ -1064,41 +1099,6 @@ window.FEED_DATA = {
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021650414",
       "pubDate": "Sat, 30 May 2026 14:30:00 Z",
       "desc": "Kinshasa, 30 mai 2026 (ACP).- La fermeture des frontières aux voyageurs en provenance de la République démocratique du Congo ne constitue pas une réponse efficace à l’épidémie d’Ebola qui sévit dans l’Est du pays, a affirmé le Directeur général de l’Organisation mondiale de la Santé (OMS), à l’issue....",
-      "tag": "response"
-    },
-    {
-      "title": "Discussion - Ebola outbreaks 2026 (DRC & Uganda)",
-      "link": "https://flutrackers.com/forum/forum/the-pandemic-discussion-forum/1035020-discussion-ebola-outbreaks-2026-drc-uganda?p=1036026#post1036026",
-      "pubDate": "Sat, 30 May 2026 14:11:00 Z",
-      "desc": "These media are all driven by clicks so they bring politics into most of their stories. I did an interview about the start of COVID-19 with the Washington Post. My input was in the top half of the story. The 2nd half was a slam against the admin which was authored by the Washington Post. That's my experience.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ruto, Rubio discuss Kenya Ebola preparedness",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021649411",
-      "pubDate": "Sat, 30 May 2026 13:56:00 Z",
-      "desc": "President William Ruto on Thursday held a phone conversation with United States Secretary of State Marco Rubio.\nThe two leaders discussed Kenya's preparedness efforts amid the ongoing Ebola outbreak and broader cooperation on public health response measures.",
-      "tag": "response"
-    },
-    {
-      "title": "Nigeria Tightens Defences Against Ebola as NCDC Places Lagos, FCT, Kano, Rivers, Six Other States on High-Risk Watch",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021650203",
-      "pubDate": "Sat, 30 May 2026 13:30:00 Z",
-      "desc": "Nigeria, May 30 -- The Nigeria Centre for Disease Control and Prevention (NCDC) has placed Lagos, the Federal Capital Territory (FCT), Kano, Rivers and six other states on high-risk alert over the potential importation of the deadly Bundibugyo strain of Ebola Virus Disease (EVD).",
-      "tag": "response"
-    },
-    {
-      "title": "Rwanda ramps up Ebola prevention efforts",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021650207",
-      "pubDate": "Sat, 30 May 2026 13:30:00 Z",
-      "desc": "Although no cases have been recorded in the country, Rwanda has strengthened Ebola prevention measures following outbreaks reported in DR Congo and Uganda. ALSO READ: Seven things to know about the latest Ebola outbreak in DR Congo Handwashing facilities have been installed in public places as....",
-      "tag": "cases"
-    },
-    {
-      "title": "Ebola: Cabo Verde sets up a multi-sectoral team and activates a preventive alert against the virus",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021650192",
-      "pubDate": "Sat, 30 May 2026 13:30:00 Z",
-      "desc": "Today, the president of the National Institute of Public Health (INSP) announced that the Government has set up a national multi-sectoral team to coordinate and implement the national contingency plan, with the aim of preventing the Ebola virus and keeping it out of the country.",
       "tag": "response"
     }
   ],
