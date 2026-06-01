@@ -409,21 +409,21 @@ function getAdm2Status(layer) {
 
 // ── Style palettes ────────────────────────────────────────────────────────────
 const adm1Styles = {
-  epicenter: { fillColor: '#e74c3c', fillOpacity: 0.30, color: '#c0392b', weight: 1.5, dashArray: null },
-  spread:    { fillColor: '#e67e22', fillOpacity: 0.25, color: '#ca6f1e', weight: 1.5, dashArray: null },
-  none:      { fillColor: '#1a2540', fillOpacity: 0.08, color: '#2a3a5a', weight: 0.8, dashArray: null }
+  epicenter: { fillColor: '#e74c3c', fillOpacity: 0.50, color: '#c0392b', weight: 1.5, dashArray: null },
+  spread:    { fillColor: '#e67e22', fillOpacity: 0.42, color: '#ca6f1e', weight: 1.5, dashArray: null },
+  none:      { fillColor: '#d4ccb8', fillOpacity: 0.45, color: '#2a3a5a', weight: 0.8, dashArray: null }
 };
 
 const adm2Styles = {
-  epicenter: { fillColor: '#e74c3c', fillOpacity: 0.22, color: '#c0392b', weight: 1,   dashArray: '4 3' },
-  spread:    { fillColor: '#e67e22', fillOpacity: 0.18, color: '#ca6f1e', weight: 1,   dashArray: '4 3' },
-  none:      { fillColor: '#152030', fillOpacity: 0.08, color: '#1e2a3a', weight: 0.5, dashArray: null  }
+  epicenter: { fillColor: '#e74c3c', fillOpacity: 0.40, color: '#c0392b', weight: 1,   dashArray: '4 3' },
+  spread:    { fillColor: '#e67e22', fillOpacity: 0.34, color: '#ca6f1e', weight: 1,   dashArray: '4 3' },
+  none:      { fillColor: '#d4ccb8', fillOpacity: 0.35, color: '#1e2a3a', weight: 0.5, dashArray: null  }
 };
 
 // Uganda region styles — distinct fill from DRC to visually separate countries
 const ugaStyles = {
-  spread: { fillColor: '#e67e22', fillOpacity: 0.28, color: '#ca6f1e', weight: 1.5, dashArray: null },
-  none:   { fillColor: '#1e3050', fillOpacity: 0.08, color: '#3a6090', weight: 0.8, dashArray: '4 3' }
+  spread: { fillColor: '#e67e22', fillOpacity: 0.45, color: '#ca6f1e', weight: 1.5, dashArray: null },
+  none:   { fillColor: '#d4ccb8', fillOpacity: 0.38, color: '#3a6090', weight: 0.8, dashArray: '4 3' }
 };
 
 // Highlight-on-hover style (ADM1 only)
@@ -641,6 +641,19 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
   subdomains: 'abcd',
   maxZoom: 18
+}).addTo(map);
+
+// Dark overlay pane — sits above tiles (z 200) but below province polygons (z 400).
+// Darkens oceans and surrounding countries; DRC/Uganda province fills show on top.
+map.createPane('darkOverlay');
+map.getPane('darkOverlay').style.zIndex = 350;
+map.getPane('darkOverlay').style.pointerEvents = 'none';
+L.rectangle([[-90, -180], [90, 180]], {
+  fillColor: '#000000',
+  fillOpacity: 0.38,
+  stroke: false,
+  pane: 'darkOverlay',
+  interactive: false
 }).addTo(map);
 
 // ── Layer state ───────────────────────────────────────────────────────────────
