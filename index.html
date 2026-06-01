@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -11,8 +11,8 @@
 
     body {
       font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-      background: #0f1626;
-      color: #dde1e8;
+      background: #243345;
+      color: #edf0f7;
       height: 100vh;
       display: flex;
       flex-direction: column;
@@ -21,34 +21,34 @@
 
     /* ── Header ─────────────────────────────────────────────────────── */
     header {
-      background: #16213e;
+      background: #2d3f5c;
       padding: 10px 20px;
       display: flex;
       align-items: center;
       justify-content: space-between;
-      border-bottom: 2px solid #c0392b;
+      border-bottom: 2px solid #e05252;
       flex-shrink: 0;
       gap: 12px;
     }
     .header-title { display: flex; flex-direction: column; gap: 2px; }
     .header-title h1 { font-size: 1rem; font-weight: 700; color: #fff; }
-    .header-title h1 em { color: #e74c3c; font-style: normal; }
-    .header-meta { font-size: 0.68rem; color: #6b7a96; }
+    .header-title h1 em { color: #e05252; font-style: normal; }
+    .header-meta { font-size: 0.68rem; color: #7a8fa8; }
     .header-right { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
     .badge { font-size: 0.68rem; font-weight: 800; letter-spacing: 0.8px; padding: 4px 10px; border-radius: 4px; text-transform: uppercase; }
-    .badge-pheic { background: #c0392b; color: #fff; }
-    .badge-strain { background: #2a2a4a; color: #aaa; border: 1px solid #3a3a6a; }
+    .badge-pheic { background: #e05252; color: #fff; }
+    .badge-strain { background: #374d6e; color: #a0b4cc; border: 1px solid #4a5f7e; }
 
     /* ── Stats bar ───────────────────────────────────────────────────── */
-    .stats-bar { background: #12192e; display: flex; border-bottom: 1px solid #1e2a4a; flex-shrink: 0; }
-    .stat { flex: 1; padding: 8px 12px; text-align: center; border-right: 1px solid #1e2a4a; }
+    .stats-bar { background: #243345; display: flex; border-bottom: 1px solid #354d6a; flex-shrink: 0; }
+    .stat { flex: 1; padding: 8px 12px; text-align: center; border-right: 1px solid #354d6a; }
     .stat:last-child { border-right: none; }
     .stat-value { font-size: 1.5rem; font-weight: 800; line-height: 1; }
-    .stat-label { font-size: 0.6rem; color: #6b7a96; text-transform: uppercase; letter-spacing: 0.6px; margin-top: 3px; }
-    .s-deaths  .stat-value { color: #e74c3c; }
-    .s-cases   .stat-value { color: #e67e22; }
-    .s-active  .stat-value { color: #3498db; }
-    .s-country .stat-value { color: #2ecc71; }
+    .stat-label { font-size: 0.6rem; color: #7a8fa8; text-transform: uppercase; letter-spacing: 0.6px; margin-top: 3px; }
+    .s-deaths  .stat-value { color: #e05252; }
+    .s-cases   .stat-value { color: #e8894a; }
+    .s-active  .stat-value { color: #5ba8d8; }
+    .s-country .stat-value { color: #5bc98a; }
 
     /* ── Main layout ─────────────────────────────────────────────────── */
     .main { display: flex; flex: 1; overflow: hidden; position: relative; }
@@ -58,7 +58,7 @@
     #loadingOverlay {
       position: absolute;
       top: 0; left: 0; right: 310px; bottom: 0;
-      background: rgba(10, 16, 30, 0.82);
+      background: rgba(28, 42, 65, 0.82);
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -71,14 +71,14 @@
     #loadingOverlay.hidden { opacity: 0; pointer-events: none; }
     .spinner {
       width: 36px; height: 36px;
-      border: 3px solid #1e2a4a;
-      border-top-color: #e74c3c;
+      border: 3px solid #354d6a;
+      border-top-color: #e05252;
       border-radius: 50%;
       animation: spin 0.8s linear infinite;
     }
     @keyframes spin { to { transform: rotate(360deg); } }
-    .loading-text { font-size: 0.82rem; color: #8899bb; }
-    #loadingStep { font-size: 0.72rem; color: #4a5a76; margin-top: 2px; }
+    .loading-text { font-size: 0.82rem; color: #9aaac8; }
+    #loadingStep { font-size: 0.72rem; color: #5a6e88; margin-top: 2px; }
 
     /* ── Layer toggle panel ─────────────────────────────────────────── */
     .layer-panel {
@@ -86,18 +86,18 @@
       top: 12px;
       right: 322px;
       z-index: 500;
-      background: rgba(22, 33, 62, 0.94);
-      border: 1px solid #2a3a5a;
+      background: rgba(45, 63, 92, 0.94);
+      border: 1px solid #3d5570;
       border-radius: 7px;
       padding: 10px 12px;
       font-size: 0.75rem;
-      color: #c8d4e8;
+      color: #d8e4f4;
       backdrop-filter: blur(4px);
       min-width: 180px;
     }
     .layer-panel h4 {
       font-size: 0.63rem;
-      color: #6b7a96;
+      color: #7a8fa8;
       text-transform: uppercase;
       letter-spacing: 0.8px;
       margin-bottom: 8px;
@@ -113,9 +113,9 @@
     .layer-label { display: flex; align-items: center; gap: 6px; }
     .layer-dot { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
     .toggle-btn {
-      background: #1e2a4a;
-      border: 1px solid #2a3a5a;
-      color: #8899bb;
+      background: #354d6a;
+      border: 1px solid #3d5570;
+      color: #9aaac8;
       font-size: 0.65rem;
       padding: 2px 8px;
       border-radius: 3px;
@@ -123,17 +123,17 @@
       transition: background 0.15s, color 0.15s;
       white-space: nowrap;
     }
-    .toggle-btn.active { background: #2a4a7a; border-color: #4a7aaa; color: #c8d4e8; }
+    .toggle-btn.active { background: #2a4a7a; border-color: #4a7aaa; color: #d8e4f4; }
     .toggle-btn:hover { background: #263a5e; }
     .toggle-btn:disabled { opacity: 0.5; cursor: wait; }
-    .toggle-btn.loading { color: #e67e22; border-color: #e67e22; }
+    .toggle-btn.loading { color: #e8894a; border-color: #e8894a; }
 
     /* ── Sidebar ─────────────────────────────────────────────────────── */
     .sidebar {
       width: 310px;
       flex-shrink: 0;
-      background: #16213e;
-      border-left: 1px solid #1e2a4a;
+      background: #2d3f5c;
+      border-left: 1px solid #354d6a;
       display: flex;
       flex-direction: column;
       overflow: hidden;
@@ -142,86 +142,86 @@
       padding: 10px 14px;
       font-size: 0.68rem;
       font-weight: 700;
-      color: #6b7a96;
+      color: #7a8fa8;
       text-transform: uppercase;
       letter-spacing: 1px;
-      border-bottom: 1px solid #1e2a4a;
+      border-bottom: 1px solid #354d6a;
       flex-shrink: 0;
       display: flex;
       align-items: center;
       justify-content: space-between;
     }
-    .feed-count { background: #1e2a4a; color: #8899bb; font-size: 0.65rem; padding: 2px 7px; border-radius: 10px; }
+    .feed-count { background: #354d6a; color: #9aaac8; font-size: 0.65rem; padding: 2px 7px; border-radius: 10px; }
     .news-scroll { flex: 1; overflow-y: auto; }
     .news-scroll::-webkit-scrollbar { width: 3px; }
     .news-scroll::-webkit-scrollbar-track { background: transparent; }
-    .news-scroll::-webkit-scrollbar-thumb { background: #2a2a4a; border-radius: 2px; }
-    .news-item { padding: 10px 14px; border-bottom: 1px solid #1a2238; transition: background 0.12s; }
-    .news-item:hover { background: #1b2846; }
+    .news-scroll::-webkit-scrollbar-thumb { background: #374d6e; border-radius: 2px; }
+    .news-item { padding: 10px 14px; border-bottom: 1px solid #2d3f54; transition: background 0.12s; }
+    .news-item:hover { background: #324a6a; }
     .news-item-tag {
       display: inline-block; font-size: 0.6rem; font-weight: 700;
       padding: 1px 6px; border-radius: 3px; margin-bottom: 5px;
       text-transform: uppercase; letter-spacing: 0.4px;
     }
-    .tag-pheic    { background: #7b241c; color: #f1948a; }
-    .tag-cases    { background: #7d6608; color: #f9e79f; }
-    .tag-response { background: #1a5276; color: #85c1e9; }
-    .tag-analysis { background: #1d6a39; color: #82e0aa; }
-    .news-item a { display: block; color: #c8d4e8; text-decoration: none; font-size: 0.79rem; line-height: 1.45; margin-bottom: 4px; }
-    .news-item a:hover { color: #5dade2; }
-    .news-date { font-size: 0.67rem; color: #4a5a76; }
-    .disclaimer { padding: 9px 14px; font-size: 0.66rem; color: #4a5a76; border-top: 1px solid #1e2a4a; line-height: 1.5; background: #0f1626; flex-shrink: 0; }
-    .disclaimer strong { color: #6b7a96; }
+    .tag-pheic    { background: #5c2a2a; color: #f09090; }
+    .tag-cases    { background: #5c4020; color: #f0c070; }
+    .tag-response { background: #1c3a58; color: #80b8e0; }
+    .tag-analysis { background: #1c4030; color: #80d0a0; }
+    .news-item a { display: block; color: #d8e4f4; text-decoration: none; font-size: 0.79rem; line-height: 1.45; margin-bottom: 4px; }
+    .news-item a:hover { color: #80b8e0; }
+    .news-date { font-size: 0.67rem; color: #5a6e88; }
+    .disclaimer { padding: 9px 14px; font-size: 0.66rem; color: #5a6e88; border-top: 1px solid #354d6a; line-height: 1.5; background: #243345; flex-shrink: 0; }
+    .disclaimer strong { color: #7a8fa8; }
 
     /* ── Leaflet popup overrides ────────────────────────────────────── */
     .leaflet-popup-content-wrapper {
-      background: #16213e !important;
-      border: 1px solid #2a3a5a !important;
+      background: #2d3f5c !important;
+      border: 1px solid #3d5570 !important;
       border-radius: 8px !important;
       box-shadow: 0 8px 24px rgba(0,0,0,0.5) !important;
-      color: #dde1e8 !important;
+      color: #edf0f7 !important;
     }
-    .leaflet-popup-tip { background: #16213e !important; }
+    .leaflet-popup-tip { background: #2d3f5c !important; }
     .leaflet-popup-content { margin: 14px 16px !important; }
-    .leaflet-popup-close-button { color: #6b7a96 !important; font-size: 18px !important; top: 6px !important; right: 8px !important; }
+    .leaflet-popup-close-button { color: #7a8fa8 !important; font-size: 18px !important; top: 6px !important; right: 8px !important; }
     .leaflet-popup-close-button:hover { color: #fff !important; }
 
     .pu-name  { font-size: 0.95rem; font-weight: 700; color: #fff; margin-bottom: 2px; }
-    .pu-sub   { font-size: 0.72rem; color: #6b7a96; margin-bottom: 8px; }
+    .pu-sub   { font-size: 0.72rem; color: #7a8fa8; margin-bottom: 8px; }
     .pu-badge { display: inline-block; font-size: 0.62rem; font-weight: 700; padding: 2px 8px; border-radius: 10px; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 0.4px; }
-    .pb-epicenter   { background: #922b21; color: #f1948a; }
-    .pb-spread      { background: #7d6608; color: #f9e79f; }
-    .pb-crossborder { background: #1a5276; color: #85c1e9; }
-    .pb-province    { background: #1d3461; color: #7aa8e0; }
+    .pb-epicenter   { background: #7a2020; color: #f09090; }
+    .pb-spread      { background: #5c4020; color: #f0c070; }
+    .pb-crossborder { background: #1c3a58; color: #80b8e0; }
+    .pb-province    { background: #1c3050; color: #7aace0; }
     .pb-territory   { background: #2d3a3a; color: #88b8a8; }
     .pu-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; margin-bottom: 10px; }
-    .pu-stat  { background: #0f1626; border: 1px solid #1e2a4a; border-radius: 5px; padding: 7px 10px; text-align: center; }
+    .pu-stat  { background: #243345; border: 1px solid #354d6a; border-radius: 5px; padding: 7px 10px; text-align: center; }
     .pu-stat.full { grid-column: 1 / -1; }
     .pu-stat-v { font-size: 1.1rem; font-weight: 800; }
-    .pu-stat-l { font-size: 0.62rem; color: #6b7a96; margin-top: 2px; }
-    .pu-note   { font-size: 0.73rem; color: #8899bb; line-height: 1.5; border-top: 1px solid #1e2a4a; padding-top: 8px; }
-    .pu-caveat { font-size: 0.65rem; color: #4a5a76; margin-bottom: 6px; font-style: italic; }
-    .pu-adm-type { font-size: 0.65rem; color: #4a5a76; margin-bottom: 6px; }
+    .pu-stat-l { font-size: 0.62rem; color: #7a8fa8; margin-top: 2px; }
+    .pu-note   { font-size: 0.73rem; color: #9aaac8; line-height: 1.5; border-top: 1px solid #354d6a; padding-top: 8px; }
+    .pu-caveat { font-size: 0.65rem; color: #5a6e88; margin-bottom: 6px; font-style: italic; }
+    .pu-adm-type { font-size: 0.65rem; color: #5a6e88; margin-bottom: 6px; }
 
     /* ── Legend ──────────────────────────────────────────────────────── */
     .map-legend {
       background: rgba(22,33,62,0.94);
-      border: 1px solid #2a3a5a;
+      border: 1px solid #3d5570;
       border-radius: 7px;
       padding: 10px 14px;
       font-size: 0.73rem;
-      color: #c8d4e8;
+      color: #d8e4f4;
       backdrop-filter: blur(4px);
     }
-    .map-legend h4 { font-size: 0.63rem; color: #6b7a96; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 8px; }
+    .map-legend h4 { font-size: 0.63rem; color: #7a8fa8; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 8px; }
     .legend-row { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; }
     .legend-row:last-child { margin-bottom: 0; }
     .l-sq { width: 12px; height: 12px; border-radius: 2px; flex-shrink: 0; }
-    .l-div { border-top: 1px solid #2a3a5a; margin: 6px 0; }
-    .l-note { font-size: 0.62rem; color: #4a5a76; margin-top: 4px; }
+    .l-div { border-top: 1px solid #3d5570; margin: 6px 0; }
+    .l-note { font-size: 0.62rem; color: #5a6e88; margin-top: 4px; }
 
-    .leaflet-control-attribution { background: rgba(15,22,38,0.8) !important; color: #4a5a76 !important; }
-    .leaflet-control-attribution a { color: #5a6a86 !important; }
+    .leaflet-control-attribution { background: rgba(28, 42, 65, 0.8) !important; color: #5a6e88 !important; }
+    .leaflet-control-attribution a { color: #6a7e9a !important; }
     .leaflet-tooltip { display: none !important; }
 
     /* ── Source tier badges ─────────────────────────────────────────── */
@@ -230,8 +230,8 @@
       text-transform: uppercase; letter-spacing: 0.5px; display: inline-block;
       vertical-align: middle; margin-left: 3px;
     }
-    .tier-who   { background: #1a5c2e; color: #58d68d; }
-    .tier-moh   { background: #1a3a6e; color: #5dade2; }
+    .tier-who   { background: #1a5030; color: #58d68d; }
+    .tier-moh   { background: #1c3a58; color: #80b8e0; }
     .tier-cdc   { background: #5c4a0a; color: #f4d03f; }
     .tier-media { background: #3a3a3a; color: #999; }
     .stat-tier  { font-size: 0.55rem; margin-top: 2px; min-height: 14px; }
@@ -273,7 +273,7 @@
     <div class="stat-label" id="lbl-countries">Countries Affected</div>
   </div>
   <div class="stat" style="flex:1.4;">
-    <div id="go-status" style="font-size:0.65rem;color:#4a5a76;line-height:1.6;">
+    <div id="go-status" style="font-size:0.65rem;color:#5a6e88;line-height:1.6;">
       Loading…
     </div>
   </div>
@@ -294,7 +294,7 @@
     <h4>Admin Layers</h4>
     <div class="layer-row">
       <div class="layer-label">
-        <span class="layer-dot l-sq" style="background:#e74c3c;opacity:0.5;border:1px solid #c0392b;"></span>
+        <span class="layer-dot l-sq" style="background:#e05252;opacity:0.5;border:1px solid #e05252;"></span>
         DRC Provinces (Adm 1)
       </div>
       <button class="toggle-btn active" id="btnAdm1" onclick="toggleAdm1()">On</button>
@@ -308,7 +308,7 @@
     </div>
     <div class="layer-row">
       <div class="layer-label">
-        <span class="layer-dot l-sq" style="background:#e67e22;opacity:0.5;border:1px solid #ca6f1e;"></span>
+        <span class="layer-dot l-sq" style="background:#e8894a;opacity:0.5;border:1px solid #c06830;"></span>
         Uganda Regions (Adm 1)
       </div>
       <button class="toggle-btn active" id="btnUga" onclick="toggleUga()">On</button>
@@ -349,8 +349,8 @@ function loadFeed() {
     })
     .catch(() => {
       document.getElementById('newsScroll').innerHTML =
-        '<div style="padding:16px;color:#6b7a96;font-size:0.8rem;line-height:1.6;">' +
-        'Could not load feed data.<br>Run <code style="color:#c8d4e8;">python fetch_feed.py</code></div>';
+        '<div style="padding:16px;color:#7a8fa8;font-size:0.8rem;line-height:1.6;">' +
+        'Could not load feed data.<br>Run <code style="color:#d8e4f4;">python fetch_feed.py</code></div>';
     });
 }
 
@@ -409,21 +409,21 @@ function getAdm2Status(layer) {
 
 // ── Style palettes ────────────────────────────────────────────────────────────
 const adm1Styles = {
-  epicenter: { fillColor: '#e74c3c', fillOpacity: 0.30, color: '#c0392b', weight: 1.5, dashArray: null },
-  spread:    { fillColor: '#e67e22', fillOpacity: 0.25, color: '#ca6f1e', weight: 1.5, dashArray: null },
-  none:      { fillColor: '#1a2540', fillOpacity: 0.55, color: '#2a3a5a', weight: 0.8, dashArray: null }
+  epicenter: { fillColor: '#e05252', fillOpacity: 0.30, color: '#e05252', weight: 1.5, dashArray: null },
+  spread:    { fillColor: '#e8894a', fillOpacity: 0.25, color: '#c06830', weight: 1.5, dashArray: null },
+  none:      { fillColor: '#2d3a52', fillOpacity: 0.55, color: '#3d5570', weight: 0.8, dashArray: null }
 };
 
 const adm2Styles = {
-  epicenter: { fillColor: '#e74c3c', fillOpacity: 0.22, color: '#c0392b', weight: 1,   dashArray: '4 3' },
-  spread:    { fillColor: '#e67e22', fillOpacity: 0.18, color: '#ca6f1e', weight: 1,   dashArray: '4 3' },
-  none:      { fillColor: '#152030', fillOpacity: 0.45, color: '#1e2a3a', weight: 0.5, dashArray: null  }
+  epicenter: { fillColor: '#e05252', fillOpacity: 0.22, color: '#e05252', weight: 1,   dashArray: '4 3' },
+  spread:    { fillColor: '#e8894a', fillOpacity: 0.18, color: '#c06830', weight: 1,   dashArray: '4 3' },
+  none:      { fillColor: '#243040', fillOpacity: 0.45, color: '#2d3f54', weight: 0.5, dashArray: null  }
 };
 
 // Uganda region styles — distinct fill from DRC to visually separate countries
 const ugaStyles = {
-  spread: { fillColor: '#e67e22', fillOpacity: 0.28, color: '#ca6f1e', weight: 1.5, dashArray: null },
-  none:   { fillColor: '#1e3050', fillOpacity: 0.30, color: '#3a6090', weight: 0.8, dashArray: '4 3' }
+  spread: { fillColor: '#e8894a', fillOpacity: 0.28, color: '#c06830', weight: 1.5, dashArray: null },
+  none:   { fillColor: '#283a52', fillOpacity: 0.30, color: '#4a6888', weight: 0.8, dashArray: '4 3' }
 };
 
 // Highlight-on-hover style (ADM1 only)
@@ -457,19 +457,19 @@ function buildAdm1Popup(feature, status) {
     return `
       <div class="pu-name">${name}</div>
       <div class="pu-adm-type">Admin 1 · Province · ${iso}</div>
-      <div style="font-size:0.75rem;color:#6b7a96;">No confirmed cases reported in this province.</div>`;
+      <div style="font-size:0.75rem;color:#7a8fa8;">No confirmed cases reported in this province.</div>`;
   }
 
   if (status === 'epicenter') {
     const itProv    = prov.ituri;
     const itConfirmed = itProv
       ? `<div class="pu-stat full">
-           <div class="pu-stat-v" style="color:#e67e22">${fmtN(itProv.confirmed)}</div>
+           <div class="pu-stat-v" style="color:#e8894a">${fmtN(itProv.confirmed)}</div>
            <div class="pu-stat-l">Confirmed in Ituri ${tierBadgeHTML(itProv.sourceWeight)}</div>
          </div>`
       : '';
     const activeNote = (drc.active != null || hwDrc.active)
-      ? `<div class="pu-stat full"><div class="pu-stat-v" style="color:#3498db">${hwFmt(drc.active, hwDrc.active)}</div><div class="pu-stat-l">Active Patients (Bunia treatment centres)</div></div>`
+      ? `<div class="pu-stat full"><div class="pu-stat-v" style="color:#5ba8d8">${hwFmt(drc.active, hwDrc.active)}</div><div class="pu-stat-l">Active Patients (Bunia treatment centres)</div></div>`
       : '';
     // WHO-only figures row (if different from best-available)
     const whoRow = tiers.who && (tiers.who.suspected || tiers.who.confirmed)
@@ -486,11 +486,11 @@ function buildAdm1Popup(feature, status) {
       ${whoRow}
       <div class="pu-stats">
         <div class="pu-stat">
-          <div class="pu-stat-v" style="color:#e74c3c">${hwFmt(drc.deaths, hwDrc.deaths)}</div>
+          <div class="pu-stat-v" style="color:#e05252">${hwFmt(drc.deaths, hwDrc.deaths)}</div>
           <div class="pu-stat-l">Probable Deaths (DRC) ${tierBadgeHTML((meta.deaths || {}).tier)}</div>
         </div>
         <div class="pu-stat">
-          <div class="pu-stat-v" style="color:#e67e22">${hwFmt(drc.suspected, hwDrc.suspected)}</div>
+          <div class="pu-stat-v" style="color:#e8894a">${hwFmt(drc.suspected, hwDrc.suspected)}</div>
           <div class="pu-stat-l">Suspected Cases (DRC) ${tierBadgeHTML((meta.suspected || {}).tier)}</div>
         </div>
         ${itConfirmed}
@@ -516,9 +516,9 @@ function buildAdm1Popup(feature, status) {
 
     // Goma note for North Kivu
     const gomaNote = (provKey === 'northKivu' && prov.goma)
-      ? `<p class="pu-note" style="margin-top:6px;border-top:1px solid #1e2a4a;padding-top:6px;">
+      ? `<p class="pu-note" style="margin-top:6px;border-top:1px solid #354d6a;padding-top:6px;">
            Goma (provincial capital): ${fmtN(prov.goma.confirmed)} confirmed ${tierBadgeHTML(prov.goma.sourceWeight)}<br>
-           <span style="font-size:0.65rem;color:#4a5a76;">CBCA Virunga hospital implementing Ebola triage. International airport risk.</span>
+           <span style="font-size:0.65rem;color:#5a6e88;">CBCA Virunga hospital implementing Ebola triage. International airport risk.</span>
          </p>`
       : '';
 
@@ -528,7 +528,7 @@ function buildAdm1Popup(feature, status) {
       <span class="pu-badge pb-spread">Confirmed Spread</span>
       <div class="pu-stats">
         <div class="pu-stat full">
-          <div class="pu-stat-v" style="color:#3498db">${provDisplay}</div>
+          <div class="pu-stat-v" style="color:#5ba8d8">${provDisplay}</div>
           <div class="pu-stat-l">${provLabel} ${provTier}</div>
         </div>
       </div>
@@ -565,7 +565,7 @@ function buildUgaPopup(feature, status) {
       <span class="pu-badge pb-crossborder">Imported Cases</span>
       <div class="pu-stats">
         <div class="pu-stat full">
-          <div class="pu-stat-v" style="color:#e67e22">${ugaDisplay}</div>
+          <div class="pu-stat-v" style="color:#e8894a">${ugaDisplay}</div>
           <div class="pu-stat-l">Confirmed Cases (Uganda) ${tierBadgeHTML(2)}</div>
         </div>
       </div>
@@ -577,7 +577,7 @@ function buildUgaPopup(feature, status) {
   return `
     <div class="pu-name">${name}</div>
     <div class="pu-sub">Admin 1 · Region · Uganda</div>
-    <div style="font-size:0.75rem;color:#6b7a96;">No confirmed cases reported in this region.</div>`;
+    <div style="font-size:0.75rem;color:#7a8fa8;">No confirmed cases reported in this region.</div>`;
 }
 
 function buildAdm2Popup(feature, status) {
@@ -588,7 +588,7 @@ function buildAdm2Popup(feature, status) {
   const ts        = window.FEED_DATA ? window.FEED_DATA.fetchedAt : null;
   const tsStr     = ts ? new Date(ts).toUTCString() : '—';
   const statusLabels = { epicenter: 'Within Epicenter Province (Ituri)', spread: 'Within Spread Zone', none: 'No cases reported' };
-  const statusColors = { epicenter: '#e74c3c', spread: '#e67e22', none: '#6b7a96' };
+  const statusColors = { epicenter: '#e05252', spread: '#e8894a', none: '#7a8fa8' };
 
   // Goma city/territory — confirmed case data available from feed
   if (/\bgoma\b/.test(nameLower) && status !== 'none') {
@@ -600,7 +600,7 @@ function buildAdm2Popup(feature, status) {
       <span class="pu-badge pb-spread">Confirmed Cases</span>
       <div class="pu-stats">
         <div class="pu-stat full">
-          <div class="pu-stat-v" style="color:#e67e22">${gomaData ? fmtN(gomaData.confirmed) : '≥1'}</div>
+          <div class="pu-stat-v" style="color:#e8894a">${gomaData ? fmtN(gomaData.confirmed) : '≥1'}</div>
           <div class="pu-stat-l">Confirmed Cases (Goma) ${gomaData ? tierBadgeHTML(gomaData.sourceWeight) : ''}</div>
         </div>
       </div>
@@ -614,7 +614,7 @@ function buildAdm2Popup(feature, status) {
       <div class="pu-name">${name}</div>
       <div class="pu-sub">Admin 2 · Territory · Ituri</div>
       <span class="pu-badge pb-epicenter">Active Transmission Zone</span>
-      <div class="pu-note" style="color:#e74c3c;">
+      <div class="pu-note" style="color:#e05252;">
         Contains Mongbwalu health zone (85 km from Bunia). Confirmed active transmission: general reference hospital subject to multiple attacks May 23–25. Isolation tents burned. Patient retrieval attempts disrupting response.
       </div>`;
   }
@@ -832,20 +832,20 @@ legend.onAdd = () => {
   div.innerHTML = `
     <h4>Outbreak Status</h4>
     <div class="legend-row">
-      <span class="l-sq" style="background:#e74c3c;opacity:0.5;border:1px solid #c0392b;"></span>
+      <span class="l-sq" style="background:#e05252;opacity:0.5;border:1px solid #e05252;"></span>
       Epicenter — Ituri (DRC)
     </div>
     <div class="legend-row">
-      <span class="l-sq" style="background:#e67e22;opacity:0.5;border:1px solid #ca6f1e;"></span>
+      <span class="l-sq" style="background:#e8894a;opacity:0.5;border:1px solid #c06830;"></span>
       Confirmed Spread — Nord-Kivu, Sud-Kivu (DRC)
     </div>
     <div class="legend-row">
-      <span class="l-sq" style="background:#e67e22;opacity:0.5;border:1px solid #ca6f1e;"></span>
+      <span class="l-sq" style="background:#e8894a;opacity:0.5;border:1px solid #c06830;"></span>
       Imported Cases — Central Region (Uganda)
     </div>
 <div class="l-div"></div>
     <div class="legend-row">
-      <span class="l-sq" style="background:#e74c3c;opacity:0.3;border:1px dashed #c0392b;"></span>
+      <span class="l-sq" style="background:#e05252;opacity:0.3;border:1px dashed #e05252;"></span>
       Affected Territory (DRC Admin 2)
     </div>
     <div class="l-note">Toggle layers via panel (top-left)</div>
@@ -927,7 +927,7 @@ function renderStatCell(elId, liveVal, hwEntry, tier) {
     if (!note) {
       note = document.createElement('div');
       note.className = 'hw-note';
-      note.style.cssText = 'font-size:0.55rem;color:#4a5a76;margin-top:1px;font-style:italic;';
+      note.style.cssText = 'font-size:0.55rem;color:#5a6e88;margin-top:1px;font-style:italic;';
       el.parentElement.appendChild(note);
     }
     note.textContent = 'last: ' + new Date(asOf).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
@@ -948,7 +948,7 @@ function hwFmt(liveVal, hwEntry) {
   if (hwVal != null) {
     const d = new Date(hwEntry.asOf).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
     return `<span style="opacity:0.55">${fmtN(hwVal)}</span>` +
-           `<sup style="color:#4a5a76;font-size:0.6rem;vertical-align:super"> last&nbsp;${d}</sup>`;
+           `<sup style="color:#5a6e88;font-size:0.6rem;vertical-align:super"> last&nbsp;${d}</sup>`;
   }
   return '—';
 }
@@ -958,7 +958,7 @@ function renderRssStats() {
   const srcEl = document.getElementById('go-status');
 
   if (!window.FEED_DATA || !window.FEED_DATA.stats) {
-    srcEl.innerHTML = '<span style="color:#e74c3c;">No feed data — run python fetch_feed.py</span>';
+    srcEl.innerHTML = '<span style="color:#e05252;">No feed data — run python fetch_feed.py</span>';
     return;
   }
 
@@ -988,7 +988,7 @@ function renderRssStats() {
   const sevEl = document.getElementById('val-severity');
   if (s.whoAlert === 'PHEIC') {
     sevEl.textContent = 'PHEIC';
-    sevEl.style.color = '#e74c3c';
+    sevEl.style.color = '#e05252';
   } else {
     sevEl.textContent = '—';
   }
@@ -1003,9 +1003,9 @@ function renderRssStats() {
   const fetched  = window.FEED_DATA.fetchedAt ? new Date(window.FEED_DATA.fetchedAt).toUTCString() : '—';
   const srcLabel = s.sourceLabel || 'WHO EIOS RSS';
   srcEl.innerHTML =
-    `<span style="color:#2ecc71;font-weight:700;">&#10003; WHO EIOS RSS</span><br>` +
+    `<span style="color:#5bc98a;font-weight:700;">&#10003; WHO EIOS RSS</span><br>` +
     `Source: ${srcLabel}<br>` +
-    `<span style="color:#4a5a76;">Fetched: ${fetched}</span><br>` +
+    `<span style="color:#5a6e88;">Fetched: ${fetched}</span><br>` +
     `<span id="refresh-countdown" style="color:#3a4a66;font-size:0.62rem;"></span>`;
 }
 
