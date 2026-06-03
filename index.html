@@ -255,18 +255,18 @@
 <div class="stats-bar">
   <div class="stat s-deaths">
     <div class="stat-value" id="val-deaths">—</div>
-    <div class="stat-label">Deaths Reported</div>
+    <div class="stat-label">Deaths (DRC)</div>
     <div class="stat-tier" id="tier-deaths"></div>
   </div>
   <div class="stat s-cases">
-    <div class="stat-value" id="val-cases">—</div>
-    <div class="stat-label">Suspected Cases</div>
-    <div class="stat-tier" id="tier-cases"></div>
+    <div class="stat-value" id="val-confirmed">—</div>
+    <div class="stat-label" id="lbl-confirmed">Confirmed Cases (DRC)</div>
+    <div class="stat-tier" id="tier-confirmed"></div>
   </div>
   <div class="stat s-active">
-    <div class="stat-value" id="val-severity">—</div>
-    <div class="stat-label">WHO Alert</div>
-    <div class="stat-tier" id="tier-severity"></div>
+    <div class="stat-value" id="val-suspected">—</div>
+    <div class="stat-label" id="lbl-suspected">Suspected Cases (DRC)</div>
+    <div class="stat-tier" id="tier-suspected"></div>
   </div>
   <div class="stat s-country">
     <div class="stat-value" id="val-countries">—</div>
@@ -468,30 +468,25 @@ function buildAdm1Popup(feature, status) {
            <div class="pu-stat-l">Confirmed in Ituri ${tierBadgeHTML(itProv.sourceWeight)}</div>
          </div>`
       : '';
-    const activeNote = (drc.active != null || hwDrc.active)
-      ? `<div class="pu-stat full"><div class="pu-stat-v" style="color:#3498db">${hwFmt(drc.active, hwDrc.active)}</div><div class="pu-stat-l">Active Patients (Bunia treatment centres)</div></div>`
-      : '';
-    // WHO-only figures row (if different from best-available)
-    const whoRow = tiers.who && (tiers.who.suspected || tiers.who.confirmed)
-      ? `<div style="font-size:0.63rem;color:#58d68d;margin-bottom:6px;line-height:1.5;">
-           <span class="tier-badge tier-who">WHO direct</span>
-           ${tiers.who.suspected ? `${fmtN(tiers.who.suspected)} suspected` : ''}
-           ${tiers.who.confirmed ? `· ${fmtN(tiers.who.confirmed)} confirmed` : ''}
-         </div>`
+    const activeNote = drc.active != null
+      ? `<div class="pu-stat full"><div class="pu-stat-v" style="color:#3498db">${fmtN(drc.active)}</div><div class="pu-stat-l">Active Patients (Bunia treatment centres)</div></div>`
       : '';
     return `
       <div class="pu-name">${name}</div>
       <div class="pu-sub">Admin 1 · Province · ISO: ${iso}</div>
       <span class="pu-badge pb-epicenter">Epicenter Province</span>
-      ${whoRow}
       <div class="pu-stats">
         <div class="pu-stat">
-          <div class="pu-stat-v" style="color:#e74c3c">${hwFmt(drc.deaths, hwDrc.deaths)}</div>
-          <div class="pu-stat-l">Probable Deaths (DRC) ${tierBadgeHTML((meta.deaths || {}).tier)}</div>
+          <div class="pu-stat-v" style="color:#e74c3c">${fmtN(drc.deaths)}</div>
+          <div class="pu-stat-l">Deaths (DRC) ${tierBadgeHTML((meta.deaths || {}).tier)}</div>
         </div>
         <div class="pu-stat">
-          <div class="pu-stat-v" style="color:#e67e22">${hwFmt(drc.suspected, hwDrc.suspected)}</div>
-          <div class="pu-stat-l">Suspected Cases (DRC) ${tierBadgeHTML((meta.suspected || {}).tier)}</div>
+          <div class="pu-stat-v" style="color:#e67e22">${fmtN(drc.confirmed)}</div>
+          <div class="pu-stat-l">Confirmed Cases (DRC) ${tierBadgeHTML((meta.confirmed || {}).tier)}</div>
+        </div>
+        <div class="pu-stat full">
+          <div class="pu-stat-v" style="color:#f39c12">${fmtN(drc.suspected)}</div>
+          <div class="pu-stat-l">Suspected Under Investigation (DRC) ${tierBadgeHTML((meta.suspected || {}).tier)}</div>
         </div>
         ${itConfirmed}
         ${activeNote}
@@ -966,7 +961,7 @@ function hwFmt(liveVal, hwEntry) {
   return '—';
 }
 
-// ── Stats bar — populated from WHO EIOS RSS feed (data/feed.json) ────────────
+// ── Stats bar — live WHO figures, no high-water override ─────────────────────
 function renderRssStats() {
   const srcEl = document.getElementById('go-status');
 
@@ -975,40 +970,39 @@ function renderRssStats() {
     return;
   }
 
-  const s   = window.FEED_DATA.stats;
-  const drc = s.drc || {};
-  const uga = s.uga || {};
-  const hw  = getHW();
-
+  const s    = window.FEED_DATA.stats;
+  const drc  = s.drc  || {};
+  const uga  = s.uga  || {};
   const meta = s.drcMeta || {};
-  renderStatCell('val-deaths',  drc.deaths,    (hw.drc || {}).deaths,    (meta.deaths    || {}).tier);
-  renderStatCell('val-cases',   drc.suspected, (hw.drc || {}).suspected, (meta.suspected || {}).tier);
 
-  // Uganda note in suspected-cases sub-label
-  const casesEl  = document.getElementById('val-cases');
-  const casesSub = casesEl && casesEl.parentElement.querySelector('.stat-label');
-  if (casesSub) {
-    const ugaLive = uga.cases;
-    const ugaHW   = (hw.uga || {}).cases;
-    const ugaR    = hwResolve(ugaLive, ugaHW);
-    const ugaNote = ugaR.v != null
-      ? ` + ${ugaR.v}${ugaR.stale ? '*' : ''} UGA`
-      : '';
-    casesSub.textContent = `Suspected Cases (DRC)${ugaNote}`;
+  // Deaths — live value only
+  const deathsEl = document.getElementById('val-deaths');
+  if (deathsEl) deathsEl.textContent = drc.deaths != null ? drc.deaths.toLocaleString() : '—';
+  const deathsTierEl = document.getElementById('tier-deaths');
+  if (deathsTierEl) deathsTierEl.innerHTML = tierBadgeHTML((meta.deaths || {}).tier);
+
+  // Confirmed cases — live value only
+  const confirmedEl = document.getElementById('val-confirmed');
+  if (confirmedEl) confirmedEl.textContent = drc.confirmed != null ? drc.confirmed.toLocaleString() : '—';
+  const confirmedTierEl = document.getElementById('tier-confirmed');
+  if (confirmedTierEl) confirmedTierEl.innerHTML = tierBadgeHTML((meta.confirmed || {}).tier);
+
+  // Uganda note on confirmed label
+  const confirmedLbl = document.getElementById('lbl-confirmed');
+  if (confirmedLbl) {
+    const ugaNote = uga.cases != null ? ` · Uganda: ${uga.cases}` : '';
+    confirmedLbl.textContent = `Confirmed Cases (DRC)${ugaNote}`;
   }
 
-  // WHO alert
-  const sevEl = document.getElementById('val-severity');
-  if (s.whoAlert === 'PHEIC') {
-    sevEl.textContent = 'PHEIC';
-    sevEl.style.color = '#e74c3c';
-  } else {
-    sevEl.textContent = '—';
-  }
+  // Suspected cases — live value only
+  const suspectedEl = document.getElementById('val-suspected');
+  if (suspectedEl) suspectedEl.textContent = drc.suspected != null ? drc.suspected.toLocaleString() : '—';
+  const suspectedTierEl = document.getElementById('tier-suspected');
+  if (suspectedTierEl) suspectedTierEl.innerHTML = tierBadgeHTML((meta.suspected || {}).tier);
 
-  // Countries affected
+  // Countries affected — use live feed only, not high-water
   const countries = ['DRC'];
-  if (uga.cases != null || uga.mentioned || (hw.uga || {}).cases) countries.push('Uganda');
+  if (uga.cases != null || uga.mentioned) countries.push('Uganda');
   document.getElementById('val-countries').textContent = countries.length;
   document.getElementById('lbl-countries').textContent = countries.join(' · ');
 
