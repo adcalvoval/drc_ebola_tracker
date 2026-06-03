@@ -597,10 +597,11 @@ def main():
     save_high_water(hw)
     data['highWater'] = hw
 
-    # Clamp live stats to high-water floor: outbreak counts don't decrease.
-    # The RSS window rotates articles, so a later scrape can pick up a lower
-    # figure from a different article even when the true count is higher.
-    for country_key, fields in (('drc', ('deaths', 'suspected', 'confirmed')),
+    # Clamp confirmed cases to high-water floor only — confirmed cumulative counts
+    # don't decrease due to article rotation in the RSS window.
+    # Suspected cases and deaths are NOT clamped: WHO can and does revise them
+    # downward (e.g. mass ruling-out of suspected cases after lab testing).
+    for country_key, fields in (('drc', ('confirmed',)),
                                  ('uga', ('cases',))):
         for field in fields:
             hw_val = hw.get(country_key, {}).get(field, {}).get('value')
