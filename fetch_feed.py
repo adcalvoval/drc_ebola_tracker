@@ -302,6 +302,11 @@ def extract_numbers(title, desc):
     ]:
         for m in re.finditer(pat, text, re.IGNORECASE):
             v = int(m.group(1))
+            # Skip numbers that appear in "from X to Y" comparison clauses —
+            # they are historical figures, not the current count.
+            ctx = text[max(0, m.start() - 40):m.start()]
+            if re.search(r'\bfrom\b', ctx, re.IGNORECASE):
+                continue
             if 0 < v < 100_000 and v > result.get('suspected', 0):
                 result['suspected'] = v
 
