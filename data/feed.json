@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 03 Jun 2026 04:21:16 Z",
-  "fetchedAt": "2026-06-03T04:21:16Z",
+  "lastBuildDate": "Wed, 03 Jun 2026 08:53:01 Z",
+  "fetchedAt": "2026-06-03T08:53:01Z",
   "itemCount": 150,
   "stats": {
     "drc": {
@@ -12,7 +12,7 @@
     "drcMeta": {
       "deaths": {
         "tier": 3,
-        "src": "Ebola. Le nombre de cas suspects d'Ebola en large recul selon l'OMS"
+        "src": "WHO: Suspected Ebola cases drop significantly in DR Congo"
       },
       "suspected": {
         "tier": 3,
@@ -35,7 +35,7 @@
       "media": {
         "deaths": 60,
         "suspected": 282,
-        "confirmed": 343
+        "confirmed": 321
       }
     },
     "provinces": {},
@@ -47,6 +47,216 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Ebola scare tests Nigeria's preparedness amid DRC, Uganda outbreaks",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021674572",
+      "pubDate": "Wed, 03 Jun 2026 08:51:00 Z",
+      "desc": "Nigeria is once again confronting memories of one of the deadliest public health scares in recent history as a fresh Ebola outbreak in the Democratic Republic of the Congo (DRC) and Uganda raises concerns across Africa.\nThe outbreak, driven by the Bundibugyo strain of the Ebola virus, has triggered....",
+      "tag": "response"
+    },
+    {
+      "title": "India stands with Uganda during Ebola crisis, IAF delivers major medical assistance",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021674464",
+      "pubDate": "Wed, 03 Jun 2026 08:36:00 Z",
+      "desc": "New Delhi, June 3: India has sent significant medical assistance to Uganda, which is battling an Ebola virus outbreak. An Indian Air Force (IAF) C-17 Globemaster-III transport aircraft departed from New Delhi on June 2, 2026, carrying essential medicines and medical supplies to Uganda.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola: 6 Congolese nationals test positive in Uganda",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021674401",
+      "pubDate": "Wed, 03 Jun 2026 08:26:00 Z",
+      "desc": "Uganda has confirmed six new Ebola Virus Disease cases from follow-up cases of previous contacts with an infected Congolese person.\nIn the latest development, the Ministry of Health announced six new cases bringing the total of confirmed cases to 15.\nAccording to the statistics, Uganda has....",
+      "tag": "cases"
+    },
+    {
+      "title": "Liberia Has No Ebola Cases Yet - liberianobserver.com",
+      "link": "https://www.liberianobserver.com/news/liberia-has-no-ebola-cases-yet/article_ce39264a-cd6f-4329-a3e8-01880eb2efaa.html",
+      "pubDate": "Wed, 03 Jun 2026 08:25:00 Z",
+      "desc": "-- Liberia. Significance Rating: 1 Liberia Has No Ebola Cases Yet&nbsp;&nbsp;liberianobserver.com",
+      "tag": "cases"
+    },
+    {
+      "title": "Congo says number of confirmed Ebola cases rises to 344",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021673070",
+      "pubDate": "Wed, 03 Jun 2026 08:16:00 Z",
+      "desc": "KINSHASA, 3rd June, 2026 (WAM) -- The Democratic Republic of Congo has reported a rise in confirmed Ebola cases to 344, with 60 deaths, according to government data released on Tuesday.",
+      "tag": "cases"
+    },
+    {
+      "title": "Uganda confirms six new Ebola cases, total rises to 15",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021674376",
+      "pubDate": "Wed, 03 Jun 2026 08:16:00 Z",
+      "desc": "By BBC Monitoring\nUganda's health ministry announced six new Ebola cases on 2 June, saying they were found among patients' contacts.\nIt said on X that the East African country's total number of confirmed cases had risen to 15, including one death, and that 12 people were still being treated while....",
+      "tag": "cases"
+    },
+    {
+      "title": "Zimbabwe on high alert for Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021674362",
+      "pubDate": "Wed, 03 Jun 2026 08:16:00 Z",
+      "desc": "The Minister of Health and Child Care, Douglas Mombeshora on Monday said Zimbabwe had stepped up its public health vigilance in the face of the Ebola threat, and was also intensifying its response to drug and substance abuse scourge.\nSpeaking at a press conference on Ebola preparedness and the....",
+      "tag": "response"
+    },
+    {
+      "title": "Block Ebola! Residents of two countries banned from entry for 90 days; new voluntary blood collection measures for inbound travelers have been introduced",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021674295",
+      "pubDate": "Wed, 03 Jun 2026 08:06:00 Z",
+      "desc": "With the border tightly controlled by the Ebola outbreak, the CDC has not only completely suspended the entry of residents from both the Democratic Republic of the Congo (DRC) and Uganda for 90 days, but also required travelers with travel history between the two countries to cooperate with self-health management for 21 days.",
+      "tag": "response"
+    },
+    {
+      "title": "Bringing rare disease diagnosis into focus in Africa",
+      "link": "https://www.nature.com/articles/d44148-026-00142-8",
+      "pubDate": "Wed, 03 Jun 2026 08:02:00 Z",
+      "desc": "Credit: Shahida Moosa. On the first floor of the Biomedical Research Institute at the University of Stellenbosch’s Tygerberg medical campus in South Africa, laboratories focused on tuberculosis, HIV and other infectious diseases line the corridors. But in one corner of the building, geneticist....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Vietnamese airports tighten screening over Ebola concerns",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021674262",
+      "pubDate": "Wed, 03 Jun 2026 08:01:00 Z",
+      "desc": "Vietnam has tightened airport health screening for passengers arriving from Ebola-affected areas following a World Health Organization (WHO) warning.\nThe Civil Aviation Authority of Vietnam has instructed airport operators and relevant agencies to strengthen disease prevention measures to prevent Ebola from entering the country through air travel.",
+      "tag": "response"
+    },
+    {
+      "title": "Race to create Ebola vaccine is ON: Three jabs in development amid growing outbreak fears as 250 die in two African nations",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021674131",
+      "pubDate": "Wed, 03 Jun 2026 07:41:00 Z",
+      "desc": "* READ MORE: Brazil and Italy monitor patients with Ebola symptoms\nThree new vaccines are in development for the rare strain of Ebola virus currently devastating Central Africa - as scientists rush to stop the worst outbreak ever.\nExperts have warned that the spread, caused by the Bundibugyo strain....",
+      "tag": "analysis"
+    },
+    {
+      "title": "WHO: Suspected Ebola cases drop significantly in DR Congo",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021674058",
+      "pubDate": "Wed, 03 Jun 2026 07:36:00 Z",
+      "desc": "KABUL (Pajhwok): The World Health Organization (WHO) says 321 Ebola cases have been confirmed and 116 remain suspected in the Democratic Republic of Congo, where investigations have ruled out hundreds of suspected infections and 48 deaths have been reported.",
+      "tag": "cases"
+    },
+    {
+      "title": "Foreign Office issues travel warning for 5 countries -including USA, Canada, Japan",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021674080",
+      "pubDate": "Wed, 03 Jun 2026 07:36:00 Z",
+      "desc": "The warnings for three North America nations -USA, Canada and Mexico -as well as the Far East, concern Ebola.The two Far East countries affected are Thailand and Japan.\nThe Foreign Office has issued travel warnings for five countries -including the United States of America USA, Canada and Thailand.",
+      "tag": "response"
+    },
+    {
+      "title": "Uganda reports six new Ebola cases - Qatar Tribune",
+      "link": "https://www.qatar-tribune.com/article/237295/world/uganda-reports-six-new-ebola-cases/amp",
+      "pubDate": "Wed, 03 Jun 2026 07:25:00 Z",
+      "desc": "-- Uganda. Significance Rating: 1 Uganda reports six new Ebola cases&nbsp;&nbsp;Qatar Tribune",
+      "tag": "cases"
+    },
+    {
+      "title": "LCQ14: Measures to prevent the importation of viruses into Hong Kong",
+      "link": "https://www.info.gov.hk/gia/general/202606/03/P2026060300294.htm",
+      "pubDate": "Wed, 03 Jun 2026 07:16:00 Z",
+      "desc": "Following is a question by Professor the Hon Chan Wing-kwong and a written reply by the Secretary for Health, Professor Lo Chung-mau, in the Legislative Council today (June 3): Question: According to a report from the World Health Organization, a hantavirus infection cluster was found on a cruise ship in the Atlantic Ocean in April this year.",
+      "tag": "analysis"
+    },
+    {
+      "title": "LCQ19: Emerging communicable disease transmitted via seafood",
+      "link": "https://www.info.gov.hk/gia/general/202606/03/P2026060300303.htm",
+      "pubDate": "Wed, 03 Jun 2026 07:16:00 Z",
+      "desc": "Following is a question by the Hon Chan Pok-chi and a written reply by the Secretary for Health, Professor Lo Chung-mau, in the Legislative Council today (June 3): Question: According to reports, a recent study published in the prestigious international journal Nature Microbiology suggests that....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola may have spread beyond Africa. How are health authorities responding?",
+      "link": "https://www.downtoearth.org.in/africa/ebola-may-have-spread-beyond-africa-how-are-health-authorities-responding",
+      "pubDate": "Wed, 03 Jun 2026 07:09:00 Z",
+      "desc": "The latest Ebola outbreak has become the world’s third-largest. It is driven by the rare Bundibugyo strain in DRC. Hundreds of cases and deaths have been recorded and infection suspected to have spread to Europe and South America. Authorities worldwide are tightening screening, isolation and travel controls as vaccines are fast-tracked.",
+      "tag": "cases"
+    },
+    {
+      "title": "The number of suspected Ebola cases in the DRC has been significantly reduced",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021673900",
+      "pubDate": "Wed, 03 Jun 2026 06:21:00 Z",
+      "desc": "Xinhua News Agency, Kinshasa, June 3 (Reporter Shi Yu) — On June 2, the Ministry of Health of the Democratic Republic of Congo released a report stating that as of the 1st, the country still has 116 suspected Ebola cases under investigation, a significant reduction from the previously reported total number of suspected cases.",
+      "tag": "cases"
+    },
+    {
+      "title": "I am a world expert in Ebola – a nightmare scenario is increasingly within the realms of possibility",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021673886",
+      "pubDate": "Wed, 03 Jun 2026 06:21:00 Z",
+      "desc": "INSIDE STORY: Dr Simon Mardel is an emergency medicine practitioner who has witnessed the devastation the disease has wrought during some of the worst outbreaks in history. Here, he tells Joe Shute why this latest tragedy is like ‘watching a train crash in slow motion’ and why the true scale of how....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Six early Ebola symptoms that can be mistaken for flu",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021673744",
+      "pubDate": "Wed, 03 Jun 2026 05:51:00 Z",
+      "desc": "Six early Ebola symptoms that can be mistaken for the flu\nDubai: The Ministry of Health and Prevention (MoHAP) has urged the public to rely on verified information and scientific facts regarding the Ebola virus, amid growing attention surrounding the latest outbreak in parts of Africa, while emphasising that there is no cause for undue alarm.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Myasthenia gravis, a rare disease that affects women under 40 and men over 60",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021673707",
+      "pubDate": "Wed, 03 Jun 2026 05:46:00 Z",
+      "desc": "Myasthenia gravis is a rare autoimmune disease that impairs communication between nerves and muscles, causing muscle weakness, according to IMSS Bienestar.\nAccording to IMSS Bienestar, myasthenia gravis is more common in women under 40 and in men over 60, who, thanks to advances in diagnosis and....",
+      "tag": "analysis"
+    },
+    {
+      "title": "MRNA Partners With CEPI to Develop Vaccine for Bundibugyo Ebolavirus",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021673632",
+      "pubDate": "Wed, 03 Jun 2026 05:36:00 Z",
+      "desc": "Moderna gains up to $50M from CEPI to advance a Bundibugyo ebolavirus vaccine as the partnership expands amid an ongoing Ebola outbreak.\nModerna MRNA announced a new collaboration with the Coalition for Epidemic Preparedness Innovations (“CEPI”) to accelerate the development of a potential vaccine targeting Bundibugyo ebolavirus (“BDBV”).",
+      "tag": "response"
+    },
+    {
+      "title": "How flu overtook COVID as Australia’s deadliest respiratory virus",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021673618",
+      "pubDate": "Wed, 03 Jun 2026 05:31:00 Z",
+      "desc": "Adrian Esterman, Adelaide University\nWasana Kunpol/Getty\nMany Australians have stopped worrying about respiratory viruses. The pandemic has passed and attention has shifted. COVID no longer dominates the headlines, and influenza is often dismissed as a routine winter illness.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola: l'OMS revoit largement a la baisse le nombre de cas suspects en RDC et en Ouganda",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021673578",
+      "pubDate": "Wed, 03 Jun 2026 05:31:00 Z",
+      "desc": "France, Juin 3 -- L'Organisation mondiale de la Sante (OMS) a drastiquement revu a la baisse son estimation du nombre de cas suspects de virus Ebola Bundibugyo en RDC et en Ouganda, mardi 2 juin. De 906, celle-ci est tombee a 116, pour 330 cas confirmes, dont 321 en RDC.",
+      "tag": "cases"
+    },
+    {
+      "title": "Characterization of resistance to bacterial panicle blight in rice revealed by transcriptome and QTL mapping analyses",
+      "link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1857873/abstract",
+      "pubDate": "Wed, 03 Jun 2026 05:28:00 Z",
+      "desc": "Abstract. Bacterial panicle blight (BPB) is a chronic disease of rice caused by the bacterial pathogen Burkholderia glumae. While rice varieties grown in the United States are mostly susceptible to BPB, a medium-grain variety Jupiter shows a moderate resistance phenotype.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Neoplasms; Reports Outline Neoplasms Findings from Cleveland Clinic [Myeloid/lymphoid neoplasm with FLT3 gene fusion: report of a case with a novel t(5;13)(q13;q12) SSBP2::FLT3 fusion]",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021673414",
+      "pubDate": "Wed, 03 Jun 2026 04:56:00 Z",
+      "desc": "2026 JUN 2 (NewsRx) -- By a News Reporter-Staff News Editor at Life Science Weekly -- Fresh data on Neoplasms are presented in a new report. According to news reporting originating in Cleveland, Ohio, by NewsRx journalists, research stated, \"Myeloid/lymphoid neoplasms with eosinophilia and tyrosine....",
+      "tag": "analysis"
+    },
+    {
+      "title": "China Medical Expert Team arrives in DR Congo to aid battle against Ebola, leveraging expertise and China's experience in epidemic control: team members",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021673397",
+      "pubDate": "Wed, 03 Jun 2026 04:51:00 Z",
+      "desc": "A Chinese anti-epidemic medical expert team arrived in Kinshasa, the capital of the Democratic Republic of the Congo (DRC), on Tuesday for a three-month mission to support the Central African country's response to the Ebola outbreak, Xinhua News Agency reported.",
+      "tag": "response"
+    },
+    {
+      "title": "Early Peanut Immunotherapy May Yield Long-Term Benefits",
+      "link": "https://www.medscape.com/viewarticle/early-peanut-immunotherapy-may-yield-long-term-benefits-2026a1000ifg?src=rss",
+      "pubDate": "Wed, 03 Jun 2026 04:38:00 Z",
+      "desc": "TOPLINE: Most participants who received peanut oral immunotherapy (OIT) at 1-3 years of age continued peanut consumption years later and had persistent immune changes, with only some reporting allergic reactions.\n\nMETHODOLOGY: Researchers followed up 58 participants who had received peanut OIT and....",
+      "tag": "analysis"
+    },
+    {
+      "title": "The WHO has reduced the number of suspected Ebola cases from 906 to 116 following a review",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021673248",
+      "pubDate": "Wed, 03 Jun 2026 04:36:00 Z",
+      "desc": "Following the review, the WHO reported that there are 321 confirmed cases of Ebola and 116 suspected cases in the Democratic Republic of the Congo. In May, the organization declared the Ebola outbreak in Africa a “public health emergency of international concern” and recently raised its national risk assessment for the Congo from high to very high.",
+      "tag": "pheic"
+    },
+    {
+      "title": "Chemicals and Chemistry; Findings on Chemicals and Chemistry Described by Researchers at University of Sri Jayewardenepura [Combined nephrotoxic effects of fluoride, water hardness, and microcystin-LR associated with CKDu in Sri Lanka: a zebrafish (Danio…",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021673213",
+      "pubDate": "Wed, 03 Jun 2026 04:31:00 Z",
+      "desc": "2026 JUN 2 (NewsRx) -- By a News Reporter-Staff News Editor at Life Science Weekly -- Data detailed on Chemicals and Chemistry have been presented. According to news reporting originating from Nugegoda, Sri Lanka, by NewsRx correspondents, research stated, \"Chronic Kidney Disease of unknown etiology....",
+      "tag": "analysis"
+    },
     {
       "title": "RDC : L’Inde livre 42 426 kg de contre-mesures médicales pour combattre l’épidémie d’Ebola",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021673030",
@@ -335,18 +545,18 @@
       "tag": "response"
     },
     {
-      "title": "Côte d’Ivoire-AIP/Inter/ Le directeur général de l’OMS appelle à davantage de solidarité internationale face à l’épidémie d’Ebola en RDC",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021669533",
-      "pubDate": "Tue, 02 Jun 2026 22:26:00 Z",
-      "desc": "2 juin 2026\nAbidjan, 02 juin 2026 (AIP) – Le directeur général de l’Organisation mondiale de la santé (OMS), Tedros Adhanom Ghebreyesus, a appelé la communauté internationale à renforcer son soutien à la République démocratique du Congo (RDC) dans la lutte contre l’épidémie d’Ebola qui sévit dans l’Est du pays.",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola: FG intensifies border screening, orders isolation for high-risk travellers",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021671107",
       "pubDate": "Tue, 02 Jun 2026 22:26:00 Z",
       "desc": "{'rendered': '\nThe federal government has intensified health screening at the country’s airports, seaports and land borders, announcing that travellers identified as high-risk or displaying symptoms associated with Ebola and other viral haemorrhagic fevers will be subjected to secondary screening, isolation and referral procedures.",
       "tag": "response"
+    },
+    {
+      "title": "Côte d’Ivoire-AIP/Inter/ Le directeur général de l’OMS appelle à davantage de solidarité internationale face à l’épidémie d’Ebola en RDC",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021669533",
+      "pubDate": "Tue, 02 Jun 2026 22:26:00 Z",
+      "desc": "2 juin 2026\nAbidjan, 02 juin 2026 (AIP) – Le directeur général de l’Organisation mondiale de la santé (OMS), Tedros Adhanom Ghebreyesus, a appelé la communauté internationale à renforcer son soutien à la République démocratique du Congo (RDC) dans la lutte contre l’épidémie d’Ebola qui sévit dans l’Est du pays.",
+      "tag": "analysis"
     },
     {
       "title": "Merck weighs use of COVID antiviral Lagevrio as Ebola outbreak worsens",
@@ -440,13 +650,6 @@
       "tag": "cases"
     },
     {
-      "title": "Protests over Ebola quarantine center in Kenya, Massive US midterm primary day, Trump and Bibi reportedly at odds - GZERO Media",
-      "link": "https://www.gzeromedia.com/amp/protests-over-ebola-quarantine-center-in-kenya-massive-us-midterm-primary-day-trump-and-bibi-reportedly-at-odds-2676986049",
-      "pubDate": "Tue, 02 Jun 2026 21:26:00 Z",
-      "desc": "Conflict -- Kenya. Significance Rating: 3 Protests over Ebola quarantine center in Kenya, Massive US midterm primary day, Trump and Bibi reportedly at odds&nbsp;&nbsp;GZERO Media",
-      "tag": "analysis"
-    },
-    {
       "title": "WHO drastically downsizes Ebola case count in DR Congo outbreak",
       "link": "https://www.cidrap.umn.edu/ebola/who-drastically-downsizes-ebola-case-count-dr-congo-outbreak",
       "pubDate": "Tue, 02 Jun 2026 21:26:00 Z",
@@ -458,6 +661,13 @@
       "link": "https://www.cidrap.umn.edu/pneumonia/study-highlights-high-death-rate-patients-severe-pneumonia-poor-countries",
       "pubDate": "Tue, 02 Jun 2026 21:26:00 Z",
       "desc": "News brief\n      \n            29 minutes ago.\n      \n  \n\n  \n\nMeredith Newlove / CDC\n\nAn analysis of 52 studies from 18 countries indicates that mortality among pneumonia patients admitted to intensive care units (ICUs) remains high in low- and middle-income countries (LM",
+      "tag": "analysis"
+    },
+    {
+      "title": "Protests over Ebola quarantine center in Kenya, Massive US midterm primary day, Trump and Bibi reportedly at odds - GZERO Media",
+      "link": "https://www.gzeromedia.com/amp/protests-over-ebola-quarantine-center-in-kenya-massive-us-midterm-primary-day-trump-and-bibi-reportedly-at-odds-2676986049",
+      "pubDate": "Tue, 02 Jun 2026 21:26:00 Z",
+      "desc": "Conflict -- Kenya. Significance Rating: 3 Protests over Ebola quarantine center in Kenya, Massive US midterm primary day, Trump and Bibi reportedly at odds&nbsp;&nbsp;GZERO Media",
       "tag": "analysis"
     },
     {
@@ -615,13 +825,6 @@
       "tag": "analysis"
     },
     {
-      "title": "US to re-engage with Gavi vaccine alliance amid Ebola outbreak, Rubio says",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021669597",
-      "pubDate": "Tue, 02 Jun 2026 18:56:00 Z",
-      "desc": "WASHINGTON/LONDON, June 2 (Reuters) - U.S. Secretary of State Marco Rubio said on Tuesday that the U.S. would re-engage with the global vaccine alliance Gavi amid the Ebola outbreak in several African countries.\nRubio told the Senate Foreign Relations Committee that the decision had been made a few....",
-      "tag": "analysis"
-    },
-    {
       "title": "Kenyans protest plan for Ebola treatment facility for Americans exposed to the virus",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021669480",
       "pubDate": "Tue, 02 Jun 2026 18:56:00 Z",
@@ -633,6 +836,13 @@
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021669537",
       "pubDate": "Tue, 02 Jun 2026 18:56:00 Z",
       "desc": "The quarantine facility at Laikipia Air Base was one of 24 facilities that had been established in the event of an Ebola outbreak.\nKenya's president on Monday defended the establishment of an Ebola quarantine facility by the U.S., a move ...",
+      "tag": "analysis"
+    },
+    {
+      "title": "US to re-engage with Gavi vaccine alliance amid Ebola outbreak, Rubio says",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021669597",
+      "pubDate": "Tue, 02 Jun 2026 18:56:00 Z",
+      "desc": "WASHINGTON/LONDON, June 2 (Reuters) - U.S. Secretary of State Marco Rubio said on Tuesday that the U.S. would re-engage with the global vaccine alliance Gavi amid the Ebola outbreak in several African countries.\nRubio told the Senate Foreign Relations Committee that the decision had been made a few....",
       "tag": "analysis"
     },
     {
@@ -811,17 +1021,17 @@
       "tag": "cases"
     },
     {
-      "title": "WHO revises Ebola figures, cuts suspected cases to 116 after testing review",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021669123",
-      "pubDate": "Tue, 02 Jun 2026 16:56:00 Z",
-      "desc": "The WHO has revised suspected Ebola cases in central Africa sharply downward to 116 from over 900 after testing updates. Confirmed cases stand at 330 across the DRC and Uganda, with 49 total deaths reported so far in the outbreak.\nThe World Health Organization (WHO) has significantly revised....",
-      "tag": "cases"
-    },
-    {
       "title": "Ebola, WHO drastically reduces number of suspected cases: from 906 to 116",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021669133",
       "pubDate": "Tue, 02 Jun 2026 16:56:00 Z",
       "desc": "(Adnkronos) - The WHO has drastically reduced the number of suspected Ebola cases in Central Africa to 116, compared to over 900 previously, with 330 cases now confirmed. On May 31, the World Health Organization stated that 116 suspected cases of the deadly virus had been registered in the....",
+      "tag": "cases"
+    },
+    {
+      "title": "WHO revises Ebola figures, cuts suspected cases to 116 after testing review",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021669123",
+      "pubDate": "Tue, 02 Jun 2026 16:56:00 Z",
+      "desc": "The WHO has revised suspected Ebola cases in central Africa sharply downward to 116 from over 900 after testing updates. Confirmed cases stand at 330 across the DRC and Uganda, with 49 total deaths reported so far in the outbreak.\nThe World Health Organization (WHO) has significantly revised....",
       "tag": "cases"
     },
     {
@@ -886,216 +1096,6 @@
       "pubDate": "Tue, 02 Jun 2026 16:10:00 Z",
       "desc": "NEW DELHI: The union ministry of health and family welfare on Tuesday issued a precautionary advisory for travellers arriving from Ebola-affected countries. The ministry said no cases of Ebola disease have been reported in India so far.\nIn a statement, the ministry urged people who have travelled....",
       "tag": "cases"
-    },
-    {
-      "title": "Inside the race to develop a new Ebola vaccine",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668830",
-      "pubDate": "Tue, 02 Jun 2026 16:05:00 Z",
-      "desc": "Treatment for the deadly haemorrhagic fever is currently limited to the Zaire strain – but promising candidates are in the pipeline\nAs the Ebola epidemic raging in the Democratic Republic of the Congo shows no signs of abating, researchers around the world are scrambling to develop vaccines and treatments to fight it.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Cabinda met en place des équipes de surveillance épidémiologique à la frontière avec la RDC",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668828",
-      "pubDate": "Tue, 02 Jun 2026 16:05:00 Z",
-      "desc": "Des équipes de surveillance épidémiologique ont été déployées à plusieurs postes frontières de la province de Cabinda avec la République démocratique du Congo (RDC) afin de prévenir d'éventuels cas d'Ebola, qui ravage actuellement le pays voisin.\nSelon le secrétaire provincial à la Santé, Ruben da....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Govt issues Ebola advisory, says no cases detected yet",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668801",
-      "pubDate": "Tue, 02 Jun 2026 16:01:00 Z",
-      "desc": "\"; var html = \"\nNew Delhi: The Ministry of Health and Family Welfare on Tuesday issued a public health advisory on Ebola virus disease, stating that no cases have been reported in India so far while urging heightened vigilance among ...",
-      "tag": "cases"
-    },
-    {
-      "title": "Ebola: Authorities flag airlines from high-risk countries",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668803",
-      "pubDate": "Tue, 02 Jun 2026 16:01:00 Z",
-      "desc": "Health and aviation authorities have intensified surveillance measures at the Murtala Muhammed International Airport (MMIA), Lagos, with airlines operating from high-risk countries now under closer scrutiny as part of efforts to prevent the importation of Ebola Virus Disease (EVD) into Nigeria.",
-      "tag": "response"
-    },
-    {
-      "title": "China Dispatches Medical Experts to DRC As International Support Grows in Fight Against Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668816",
-      "pubDate": "Tue, 02 Jun 2026 16:01:00 Z",
-      "desc": "China has deployed a specialized medical expert team to the Democratic Republic of the Congo (DRC) to support efforts to contain the ongoing Ebola outbreak caused by the Bundibugyo strain, as international partners intensify assistance to the Central African nation.",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola remains deadly threat as vaccine eludes scientists – Akandoh",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668745",
-      "pubDate": "Tue, 02 Jun 2026 15:50:00 Z",
-      "desc": "Health Minister Kwabena Mintah Akandoh has cautioned Ghanaians against underestimating the threat of Ebola, warning that there is currently no approved vaccine, cure or specific treatment available for the disease.\nThe minister’s warning comes as health authorities monitor developments in the....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Press Release: Co-Diagnostics and CoSara Advance Ebola PCR Test Development and Co-Dx(TM) PCR Point-of-Care Platform Capabilities",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668715",
-      "pubDate": "Tue, 02 Jun 2026 15:45:00 Z",
-      "desc": "Dual-assay strategy designed to support outbreak response and surveillance efforts in affected regions\nPotential blood-based Ebola assay would represent an important expansion of Co-Dx(TM) PCR point-of-care platform capabilities\nSALT LAKE CITY, June 2, 2026 /PRNewswire/ -- Co-Diagnostics, Inc.",
-      "tag": "response"
-    },
-    {
-      "title": "The DRC has resumed operations at Ituri's main airport, implementing enhanced measures in response to the Ebola outbreak",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668734",
-      "pubDate": "Tue, 02 Jun 2026 15:45:00 Z",
-      "desc": "The main airport in Ituri Province, in the northeast of the Democratic Republic of the Congo (DRC), resumed operations on Tuesday after a ten-day closure for security reasons and to strengthen health screening measures in response to the Ebola outbreak declared more than two weeks ago, which has....",
-      "tag": "response"
-    },
-    {
-      "title": "Lutte anti-Ebola : le Président Tshisekedi informé des premiers cas de guérison",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668698",
-      "pubDate": "Tue, 02 Jun 2026 15:40:00 Z",
-      "desc": "Kinshasa, 2 juin 2026 (ACP).- Les premiers cas de guérison de la maladie à virus Ebola, de souche Bundibugyo, ont été communiqués lundi, au President de la République démocratique du Congo (RDC), par le directeur général de l’Organisation mondiale de la Santé (OMS), lors d’une audience à la Cité de....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Uganda confirms 6 new Ebola cases, total rises to 15",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668614",
-      "pubDate": "Tue, 02 Jun 2026 15:35:00 Z",
-      "desc": "Kampala, Uganda: Uganda has confirmed six new cases of Ebola, bringing the total number of confirmed infections in the ongoing outbreak to 15, the Ministry of Health said on Tuesday.",
-      "tag": "cases"
-    },
-    {
-      "title": "CAR tightens DRC border to contain Ebola threat",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668609",
-      "pubDate": "Tue, 02 Jun 2026 15:26:00 Z",
-      "desc": "What's happened?\nIn late May, facing the threat posed by the spread of the Bundibugyo strain of the Ebola virus in the north-eastern Democratic Republic of Congo (DRC), the government of the Central African Republic (CAR) has tightened epidemiological surveillance and stepped up its checks at....",
-      "tag": "response"
-    },
-    {
-      "title": "Maladie Ebola mesures frontalières",
-      "link": "https://www.canada.ca/fr/sante-publique/services/maladies/maladie-virus-ebola/mesures-frontalieres.html",
-      "pubDate": "Tue, 02 Jun 2026 15:24:00 Z",
-      "desc": "Du 30 mai 2026 à 23 h 59 (HE) jusqu’au 29 août 2026, les citoyens canadiens, les résidents permanents, les personnes inscrites en vertu de la Loi sur les Indiens et les ressortissants étrangers entrant au Canada qui, au cours des 21 derniers jours, ont séjourné en République démocratique du Congo,....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Press release Study Links Cannabis and Tobacco Co-Use to Lower Brain Performance in At-Risk Adolescents Jun 2, 2026",
-      "link": "https://www.elsevier.com/about/press-releases/study-links-cannabis-and-tobacco-co-use-to-lower-brain-performance-in-at-risk-adolescents",
-      "pubDate": "Tue, 02 Jun 2026 15:13:00 Z",
-      "desc": ", published by Elsevier, fills a critical gap in research, providing clinicians and scientists with vital new insights into the risks associated with cannabis and tobacco co-use and the potential impact on vulnerable adolescents. Use of both cannabis and tobacco (known as “co-use”) has been on the....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Implementation of border health and international travel-related temporary recommendations issued by...",
-      "link": "https://www.who.int/publications/i/item/B09769",
-      "pubDate": "Tue, 02 Jun 2026 14:59:00 Z",
-      "desc": "Overview. This technical note outlines considerations for implementing border health and international travel-related temporary recommendations issued by the Director-General of WHO following the declaration of the Ebola disease epidemic caused by Bundibugyo virus (BDBV) in the Democratic Republic....",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola à Beni : appel aux fugitifs des centres de traitement de se rendre",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668428",
-      "pubDate": "Tue, 02 Jun 2026 14:50:00 Z",
-      "desc": "Beni, 2 juin 2026 (ACP).- Un appel a été lancé aux fugitifs des centres de traitement d’Ebola(CTE), de se rendre auprès des structures proches pour leur prise en charge, par un membre de la société civile de Beni, au Nord- Kivu, dans l’est de la République démocratique du Congo, a-t-on appris mardi de source locale.",
-      "tag": "analysis"
-    },
-    {
-      "title": "La population d’Oicha appelée au respect strict des mesures barrières après un décès dû à Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668268",
-      "pubDate": "Tue, 02 Jun 2026 14:45:00 Z",
-      "desc": "La bourgmestre de la commune rurale d’Oicha, Eugénie Kavira Mwenge, invite ses administrés à maximiser les pratiques d’hygiène et à éviter les rassemblements publics. Cet appel, lancé lundi 1er juin, fait suite à la notification d'un cas de décès lié à la maladie à virus Ebola dans cette partie du territoire de Beni (Nord-Kivu).",
-      "tag": "cases"
-    },
-    {
-      "title": "Protect against tick-borne Alpha-gal syndrome (AGS) June 2, 2026 Alabama’s warm, humid climate creates perfect conditions for ticks and mosquitoes to breed.",
-      "link": "https://www.alabamapublichealth.gov/blog/2026/06/sho-june.html",
-      "pubDate": "Tue, 02 Jun 2026 14:40:00 Z",
-      "desc": "Alabama’s warm, humid climate creates perfect conditions for ticks and mosquitoes to breed. Each year, residents are urged to take proactive steps to protect themselves and their families from the range of vector-borne diseases they carry. Ticks can spread bacteria, viruses, and pathogens that cause....",
-      "tag": "analysis"
-    },
-    {
-      "title": "RDC et Ouganda: Épidémie d'Ebola: le nombre de cas suspects tombe de 906 à 116",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668288",
-      "pubDate": "Tue, 02 Jun 2026 14:30:00 Z",
-      "desc": "L'OMS a revu drastiquement à la baisse son estimation de cas suspects. Après vérification, une majorité de personnes souffraient, en réalité, d'autres maladies.\nChristian Lindmeier, porte-parole de l'Organisation mondiale de la santé, a expliqué que tous les cas suspects étaient des personnes présentant des symptômes compatibles avec Ebola.",
-      "tag": "cases"
-    },
-    {
-      "title": "WHO reports dramatic drop in suspected Ebola cases from over 900 to 116",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668258",
-      "pubDate": "Tue, 02 Jun 2026 14:25:00 Z",
-      "desc": "The World Health Organization (WHO) on Tuesday reported a drop in suspected Ebola cases to 116, down from 906 last week. Testing had \"cleared out\" some on the suspected cases list. Around 321 cases were confirmed in the DR Congo, including 48 deaths, while nine confirmed cases have been registered in neighbouring Uganda, including one fatality.",
-      "tag": "cases"
-    },
-    {
-      "title": "Épidémie d’Ebola | Un manifestant contre le centre de quarantaine américain tué au Kenya",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668261",
-      "pubDate": "Tue, 02 Jun 2026 14:25:00 Z",
-      "desc": "(Nairobi) Un homme a été tué lundi lors de manifestations au Kenya contre l’installation d’un centre de quarantaine destiné aux ressortissants américains exposés à l’épidémie de virus Ebola en RDC, ont confirmé mardi des défenseurs des droits de la personne, un projet défendu par le président kényan William Ruto.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Border checkpoints enforce medical screening as Uzbekistan guards against Ebola entry",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668187",
-      "pubDate": "Tue, 02 Jun 2026 14:21:00 Z",
-      "desc": "The Committee for Sanitary and Epidemiological Well-being and Public Health has assessed the risk of an Ebola virus outbreak in Uzbekistan as low, reassuring the public that the domestic epidemiological situation remains completely stable.\nDespite the low localized threat, health authorities have....",
-      "tag": "response"
-    },
-    {
-      "title": "Viewpoints: US Needs Stricter Rules To Prevent The Spread Of Ebola; It's Too Easy To Get Drunk Or High In America",
-      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-us-needs-stricter-rules-to-prevent-the-spread-of-ebola-its-too-easy-to-get-drunk-or-high-in-america/",
-      "pubDate": "Tue, 02 Jun 2026 13:44:00 Z",
-      "desc": "Covid, mpox, bird flu, hantavirus — and now Ebola again. The threats just keep jabbing at America’s borders. The United States needs to rethink its quarantine policies, and it may not be able to avoid being brutal. Brutal should be the new norm, because it often works.",
-      "tag": "response"
-    },
-    {
-      "title": "As Ebola Outbreak Grows, 3 Vaccine Candidates Are Fast-Tracked",
-      "link": "https://kffhealthnews.org/morning-breakout/ebola-4/",
-      "pubDate": "Tue, 02 Jun 2026 13:44:00 Z",
-      "desc": "The Bundibugyo strain of the Ebola virus has no targeted vaccine or therapeutics, CIDRAP reports. Experts say that the outbreak, which is already the third-largest in history, is likely much worse than official numbers suggest.\n\nThe Coalition for Epidemic Preparedness Innovations (CEPI) has....",
-      "tag": "response"
-    },
-    {
-      "title": "WHO confirms 48 deaths, 321 cases of Ebola disease in DRC",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668104",
-      "pubDate": "Tue, 02 Jun 2026 13:35:00 Z",
-      "desc": "GENEVA, June 2. /TASS/. The World Health Organization (WHO) has data of 48 confirmed deaths and 321 confirmed cases of Ebola disease in the Democratic Republic of Congo (DRC), WHO Official Spokesman Christian Lindmeier said.\n\"As of 31 May, we have 116 suspected cases in the DRC, 321 confirmed cases, and 48 deaths.",
-      "tag": "cases"
-    },
-    {
-      "title": "Le Potentiel : « Ebola en RDC : 343 cas confirmés, le gouvernement réajuste sa riposte et annonce la réouverture de l’aéroport de Bunia » | Radio Okapi",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668062",
-      "pubDate": "Tue, 02 Jun 2026 13:35:00 Z",
-      "desc": "Revue de presse de mardi 2 juin 2026\nLa riposte sanitaire contre la 17e épidémie d'Ebola et la situation sécuritaire dans l’Est de la RDC sont à la Une des journaux et médias en ligne ce mardi 2 juin.\nFaisant le point sur l'évolution des chiffres Ebola sur le terrain, Le Potentiel fait savoir qu’on....",
-      "tag": "analysis"
-    },
-    {
-      "title": "As US withdraws, India & non-profits pitch in to help DRC tackle ebola outbreak",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668029",
-      "pubDate": "Tue, 02 Jun 2026 13:25:00 Z",
-      "desc": "As the United States has withdrawn from global healthcare cooperation, India, China, and non-profits have stepped up efforts to help local authorities tackle the Ebola virus outbreak in Africa, which is centred in the Democratic Republic of Congo (DRC).",
-      "tag": "analysis"
-    },
-    {
-      "title": "WHO - EU and WHO scale up action to respond to Ebola outbreak in Democratic Republic of the Congo and Uganda",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021667970",
-      "pubDate": "Tue, 02 Jun 2026 13:20:00 Z",
-      "desc": "Access the original document here\nEU and WHO scale up action to respond to Ebola outbreak in Democratic Republic of the Congo and Uganda\nThe European Union (EU) and WHO have reinforced their cooperation to support national authorities in responding to the ongoing Ebola outbreaks in the Democratic....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola Outbreak: Current Situation",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021668006",
-      "pubDate": "Tue, 02 Jun 2026 13:20:00 Z",
-      "desc": "Key points\nCDC is responding to an outbreak of Ebola disease in remote areas of the Democratic Republic of the Congo (DRC) and Uganda.\nTo date, no cases of Ebola disease have been confirmed in the United States because of this outbreak.\nThe overall risk to the American public and travelers remains low.",
-      "tag": "cases"
-    },
-    {
-      "title": "Uganda Health Ministry Confirms Six New Cases of Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021667973",
-      "pubDate": "Tue, 02 Jun 2026 13:15:00 Z",
-      "desc": "KAMPALA, June ⁠2 (Reuters) - ⁠Uganda has ⁠confirmed six more ​new cases ‌of Ebola, bringing ‌the ⁠total ⁠confirmed in the country so far ​to 15, the health ​ministry said on Tuesday.\nThe ⁠ministry ⁠said in ⁠a statement ​on its X account ​that ⁠the six were confirmed among ⁠contacts of other confirmed cases.",
-      "tag": "cases"
-    },
-    {
-      "title": "Senior Presidential Envoy backs emergency preparedness in South Sudan Amid Ebola threat in Uganda and DRC",
-      "link": "https://www.afro.who.int/countries/south-sudan/news/senior-presidential-envoy-backs-emergency-preparedness-south-sudan-amid-ebola-threat-uganda-and-drc",
-      "pubDate": "Tue, 02 Jun 2026 13:01:00 Z",
-      "desc": "Juba - Today, Hon. Adut Salva Kiir, Senior Presidential Envoy on Special Programmes in South Sudan, alongside the Minister of Health, Hon. Luke Thomson Thoan and the WHO Representative for South Sudan, Dr Humphrey Karamagi, visited the National Public Health Institute (NPHI), and the Infectious....",
-      "tag": "response"
     }
   ],
   "highWater": {
