@@ -45,10 +45,12 @@
     .stat:last-child { border-right: none; }
     .stat-value { font-size: 1.5rem; font-weight: 800; line-height: 1; }
     .stat-label { font-size: 0.6rem; color: #6b7a96; text-transform: uppercase; letter-spacing: 0.6px; margin-top: 3px; }
-    .s-deaths  .stat-value { color: #e74c3c; }
-    .s-cases   .stat-value { color: #e67e22; }
-    .s-active  .stat-value { color: #3498db; }
-    .s-country .stat-value { color: #2ecc71; }
+    .s-suspected   .stat-value { color: #f39c12; }
+    .s-confirmed   .stat-value { color: #3498db; }
+    .s-susp-deaths .stat-value { color: #e67e22; }
+    .s-conf-deaths .stat-value { color: #e74c3c; }
+    .stat-breakdown { font-size: 0.58rem; color: #4a5a76; margin-top: 3px; line-height: 1.5; }
+    .stat-breakdown .bd-country { color: #8899bb; }
 
     /* ── Main layout ─────────────────────────────────────────────────── */
     .main { display: flex; flex: 1; overflow: hidden; position: relative; }
@@ -253,24 +255,29 @@
 
 <!-- ── Stats bar ───────────────────────────────────────────────────────────── -->
 <div class="stats-bar">
-  <div class="stat s-deaths">
-    <div class="stat-value" id="val-deaths">—</div>
-    <div class="stat-label">Deaths (DRC)</div>
-    <div class="stat-tier" id="tier-deaths"></div>
-  </div>
-  <div class="stat s-cases">
-    <div class="stat-value" id="val-confirmed">—</div>
-    <div class="stat-label" id="lbl-confirmed">Confirmed Cases (DRC)</div>
-    <div class="stat-tier" id="tier-confirmed"></div>
-  </div>
-  <div class="stat s-active">
+  <div class="stat s-suspected">
     <div class="stat-value" id="val-suspected">—</div>
-    <div class="stat-label" id="lbl-suspected">Suspected Cases (DRC)</div>
+    <div class="stat-label">Suspected Cases</div>
+    <div class="stat-breakdown" id="bkd-suspected"></div>
     <div class="stat-tier" id="tier-suspected"></div>
   </div>
-  <div class="stat s-country">
-    <div class="stat-value" id="val-countries">—</div>
-    <div class="stat-label" id="lbl-countries">Countries Affected</div>
+  <div class="stat s-confirmed">
+    <div class="stat-value" id="val-confirmed">—</div>
+    <div class="stat-label">Confirmed Cases</div>
+    <div class="stat-breakdown" id="bkd-confirmed"></div>
+    <div class="stat-tier" id="tier-confirmed"></div>
+  </div>
+  <div class="stat s-susp-deaths">
+    <div class="stat-value" id="val-susp-deaths">—</div>
+    <div class="stat-label">Suspected Deaths</div>
+    <div class="stat-breakdown" id="bkd-susp-deaths"></div>
+    <div class="stat-tier" id="tier-susp-deaths"></div>
+  </div>
+  <div class="stat s-conf-deaths">
+    <div class="stat-value" id="val-conf-deaths">—</div>
+    <div class="stat-label">Confirmed Deaths</div>
+    <div class="stat-breakdown" id="bkd-conf-deaths"></div>
+    <div class="stat-tier" id="tier-conf-deaths"></div>
   </div>
   <div class="stat" style="flex:1.4;">
     <div id="go-status" style="font-size:0.65rem;color:#4a5a76;line-height:1.6;">
@@ -471,22 +478,32 @@ function buildAdm1Popup(feature, status) {
     const activeNote = drc.active != null
       ? `<div class="pu-stat full"><div class="pu-stat-v" style="color:#3498db">${fmtN(drc.active)}</div><div class="pu-stat-l">Active Patients (Bunia treatment centres)</div></div>`
       : '';
+    const drcConfDeath = drc.confirmed_deaths != null ? drc.confirmed_deaths : drc.deaths;
+    const drcSuspDeath = drc.suspected_deaths;
+    const confDeathTier = drc.confirmed_deaths != null ? (meta.confirmed_deaths || {}).tier : (meta.deaths || {}).tier;
+    const suspDeathCell = drcSuspDeath != null
+      ? `<div class="pu-stat">
+           <div class="pu-stat-v" style="color:#e67e22">${fmtN(drcSuspDeath)}</div>
+           <div class="pu-stat-l">Suspected Deaths (DRC) ${tierBadgeHTML((meta.suspected_deaths || {}).tier)}</div>
+         </div>`
+      : '';
     return `
       <div class="pu-name">${name}</div>
       <div class="pu-sub">Admin 1 · Province · ISO: ${iso}</div>
       <span class="pu-badge pb-epicenter">Epicenter Province</span>
       <div class="pu-stats">
         <div class="pu-stat">
-          <div class="pu-stat-v" style="color:#e74c3c">${fmtN(drc.deaths)}</div>
-          <div class="pu-stat-l">Deaths (DRC) ${tierBadgeHTML((meta.deaths || {}).tier)}</div>
+          <div class="pu-stat-v" style="color:#f39c12">${fmtN(drc.suspected)}</div>
+          <div class="pu-stat-l">Suspected Cases (DRC) ${tierBadgeHTML((meta.suspected || {}).tier)}</div>
         </div>
         <div class="pu-stat">
-          <div class="pu-stat-v" style="color:#e67e22">${fmtN(drc.confirmed)}</div>
+          <div class="pu-stat-v" style="color:#3498db">${fmtN(drc.confirmed)}</div>
           <div class="pu-stat-l">Confirmed Cases (DRC) ${tierBadgeHTML((meta.confirmed || {}).tier)}</div>
         </div>
-        <div class="pu-stat full">
-          <div class="pu-stat-v" style="color:#f39c12">${fmtN(drc.suspected)}</div>
-          <div class="pu-stat-l">Suspected Under Investigation (DRC) ${tierBadgeHTML((meta.suspected || {}).tier)}</div>
+        ${suspDeathCell}
+        <div class="pu-stat ${drcSuspDeath == null ? 'full' : ''}">
+          <div class="pu-stat-v" style="color:#e74c3c">${fmtN(drcConfDeath)}</div>
+          <div class="pu-stat-l">Confirmed Deaths (DRC) ${tierBadgeHTML(confDeathTier)}</div>
         </div>
         ${itConfirmed}
         ${activeNote}
@@ -544,26 +561,27 @@ function buildUgaPopup(feature, status) {
   const tsStr = ts ? new Date(ts).toUTCString() : '—';
 
   if (status === 'spread') {
-    const ugaDisplay  = uga.cases != null ? fmtN(uga.cases) : '≥1';
-    const hwUga       = getHW().uga || {};
-    const deathsVal   = (hwUga.deaths && hwUga.deaths.value != null) ? hwUga.deaths.value : null;
-    const deathsNote  = deathsVal != null
-      ? `${deathsVal} ${deathsVal === 1 ? 'fatality' : 'fatalities'} recorded.`
+    const ugaCases  = uga.cases;
+    const ugaDeaths = uga.deaths;
+    const deathCell = ugaDeaths != null
+      ? `<div class="pu-stat">
+           <div class="pu-stat-v" style="color:#e74c3c">${fmtN(ugaDeaths)}</div>
+           <div class="pu-stat-l">Confirmed Deaths (Uganda) ${tierBadgeHTML(2)}</div>
+         </div>`
       : '';
     return `
       <div class="pu-name">${name}</div>
       <div class="pu-sub">Admin 1 · Region · Uganda</div>
       <span class="pu-badge pb-crossborder">Imported Cases</span>
       <div class="pu-stats">
-        <div class="pu-stat full">
-          <div class="pu-stat-v" style="color:#e67e22">${ugaDisplay}</div>
+        <div class="pu-stat ${ugaDeaths == null ? 'full' : ''}">
+          <div class="pu-stat-v" style="color:#3498db">${ugaCases != null ? fmtN(ugaCases) : '≥1'}</div>
           <div class="pu-stat-l">Confirmed Cases (Uganda) ${tierBadgeHTML(2)}</div>
         </div>
+        ${deathCell}
       </div>
       <p class="pu-caveat">Source: Uganda MoH · Updated: ${tsStr}</p>
-      <div class="pu-note">
-        ${ugaDisplay} confirmed cases per Uganda Ministry of Health. ${deathsNote} WHO PHEIC declared May 2026.
-      </div>`;
+      <div class="pu-note">Confirmed imported cases from DRC. WHO PHEIC declared May 2026.</div>`;
   }
   return `
     <div class="pu-name">${name}</div>
@@ -957,7 +975,7 @@ function hwFmt(liveVal, hwEntry) {
   return '—';
 }
 
-// ── Stats bar — live WHO figures, no high-water override ─────────────────────
+// ── Stats bar ─────────────────────────────────────────────────────────────────
 function renderRssStats() {
   const srcEl = document.getElementById('go-status');
 
@@ -971,44 +989,64 @@ function renderRssStats() {
   const uga  = s.uga  || {};
   const meta = s.drcMeta || {};
 
-  // Deaths — live value only
-  const deathsEl = document.getElementById('val-deaths');
-  if (deathsEl) deathsEl.textContent = drc.deaths != null ? drc.deaths.toLocaleString() : '—';
-  const deathsTierEl = document.getElementById('tier-deaths');
-  if (deathsTierEl) deathsTierEl.innerHTML = tierBadgeHTML((meta.deaths || {}).tier);
-
-  // Confirmed cases — live value only
-  const confirmedEl = document.getElementById('val-confirmed');
-  if (confirmedEl) confirmedEl.textContent = drc.confirmed != null ? drc.confirmed.toLocaleString() : '—';
-  const confirmedTierEl = document.getElementById('tier-confirmed');
-  if (confirmedTierEl) confirmedTierEl.innerHTML = tierBadgeHTML((meta.confirmed || {}).tier);
-
-  // Uganda note on confirmed label
-  const confirmedLbl = document.getElementById('lbl-confirmed');
-  if (confirmedLbl) {
-    const ugaNote = uga.cases != null ? ` · Uganda: ${uga.cases}` : '';
-    confirmedLbl.textContent = `Confirmed Cases (DRC)${ugaNote}`;
+  // Populate one stat card: big total + per-country breakdown + source tier badge
+  function setCard(valId, bkdId, tierId, totalVal, parts, tier) {
+    const el = document.getElementById(valId);
+    if (el) el.textContent = totalVal != null ? totalVal.toLocaleString() : '—';
+    const bkdEl = document.getElementById(bkdId);
+    if (bkdEl) {
+      bkdEl.innerHTML = parts
+        .filter(([, v]) => v != null)
+        .map(([lbl, v]) => `<span class="bd-country">${lbl}:</span> ${v.toLocaleString()}`)
+        .join(' &middot; ');
+    }
+    const tierEl = document.getElementById(tierId);
+    if (tierEl) tierEl.innerHTML = tier != null ? tierBadgeHTML(tier) : '';
   }
 
-  // Suspected cases — live value only
-  const suspectedEl = document.getElementById('val-suspected');
-  if (suspectedEl) suspectedEl.textContent = drc.suspected != null ? drc.suspected.toLocaleString() : '—';
-  const suspectedTierEl = document.getElementById('tier-suspected');
-  if (suspectedTierEl) suspectedTierEl.innerHTML = tierBadgeHTML((meta.suspected || {}).tier);
+  function sum(...vals) {
+    const nums = vals.filter(v => v != null);
+    return nums.length ? nums.reduce((a, b) => a + b, 0) : null;
+  }
 
-  // Countries affected — use live feed only, not high-water
+  // Suspected cases — DRC only (Uganda doesn't track separately)
+  setCard('val-suspected', 'bkd-suspected', 'tier-suspected',
+    drc.suspected,
+    [['DRC', drc.suspected]],
+    (meta.suspected || {}).tier);
+
+  // Confirmed cases — DRC + Uganda
+  setCard('val-confirmed', 'bkd-confirmed', 'tier-confirmed',
+    sum(drc.confirmed, uga.cases),
+    [['DRC', drc.confirmed], ['Uganda', uga.cases]],
+    (meta.confirmed || {}).tier);
+
+  // Suspected deaths — DRC only (Uganda does not separately report)
+  setCard('val-susp-deaths', 'bkd-susp-deaths', 'tier-susp-deaths',
+    drc.suspected_deaths,
+    [['DRC', drc.suspected_deaths]],
+    (meta.suspected_deaths || {}).tier);
+
+  // Confirmed deaths — use confirmed_deaths if extracted, else fall back to deaths
+  const drcConfDeath = drc.confirmed_deaths != null ? drc.confirmed_deaths : drc.deaths;
+  const confDeathTier = drc.confirmed_deaths != null
+    ? (meta.confirmed_deaths || {}).tier
+    : (meta.deaths || {}).tier;
+  setCard('val-conf-deaths', 'bkd-conf-deaths', 'tier-conf-deaths',
+    sum(drcConfDeath, uga.deaths),
+    [['DRC', drcConfDeath], ['Uganda', uga.deaths]],
+    confDeathTier);
+
+  // Source + countries cell
   const countries = ['DRC'];
   if (uga.cases != null || uga.mentioned) countries.push('Uganda');
-  document.getElementById('val-countries').textContent = countries.length;
-  document.getElementById('lbl-countries').textContent = countries.join(' · ');
-
-  // Source metadata cell
   const fetched  = window.FEED_DATA.fetchedAt ? new Date(window.FEED_DATA.fetchedAt).toUTCString() : '—';
   const srcLabel = s.sourceLabel || 'WHO EIOS RSS';
   srcEl.innerHTML =
     `<span style="color:#2ecc71;font-weight:700;">&#10003; WHO EIOS RSS</span><br>` +
     `Source: ${srcLabel}<br>` +
-    `<span style="color:#4a5a76;">Fetched: ${fetched}</span><br>` +
+    `Countries: ${countries.join(', ')}<br>` +
+    `<span style="color:#4a5a76;">${fetched}</span><br>` +
     `<span id="refresh-countdown" style="color:#3a4a66;font-size:0.62rem;"></span>`;
 }
 

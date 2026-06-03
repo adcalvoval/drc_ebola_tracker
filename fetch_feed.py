@@ -324,6 +324,39 @@ def extract_numbers(title, desc):
             if 0 < v < 100_000 and v > result.get('confirmed', 0):
                 result['confirmed'] = v
 
+    # ── Confirmed deaths ──────────────────────────────────────────────────────
+    for pat in [
+        # EN
+        r'(\d+)\s+confirmed\s+deaths?\b',
+        r'confirmed\s+deaths?\s*[:\-–]\s*(\d+)',
+        r'(\d+)\s+deaths?\s+among\s+(?:confirmed|laboratory-confirmed)\s+cases?\b',
+        # FR
+        r'(\d+)\s+décès\s+confirmés?\b',
+        r'décès\s+confirmés?\s*[:\-–]\s*(\d+)',
+        # ES / PT
+        r'(\d+)\s+muertes?\s+confirmadas?\b',
+        r'(\d+)\s+mortes?\s+confirmadas?\b',
+    ]:
+        for m in re.finditer(pat, text, re.IGNORECASE):
+            v = int(m.group(1))
+            if 0 < v < 10_000 and v > result.get('confirmed_deaths', 0):
+                result['confirmed_deaths'] = v
+
+    # ── Suspected / probable deaths ───────────────────────────────────────────
+    for pat in [
+        # EN
+        r'(\d+)\s+(?:suspected|probable)\s+deaths?\b',
+        r'(\d+)\s+deaths?\s+among\s+(?:suspected|probable)\s+cases?\b',
+        # FR
+        r'(\d+)\s+décès\s+(?:suspects?|probables?)\b',
+        # ES
+        r'(\d+)\s+muertes?\s+(?:sospechosas?|probables?)\b',
+    ]:
+        for m in re.finditer(pat, text, re.IGNORECASE):
+            v = int(m.group(1))
+            if 0 < v < 10_000 and v > result.get('suspected_deaths', 0):
+                result['suspected_deaths'] = v
+
     # ── Active patients under care ────────────────────────────────────────────
     for pat in [
         # FR
@@ -392,6 +425,35 @@ def extract_uga_cases(items):
     return best or None
 
 
+def extract_uga_deaths(items):
+    """Extract Uganda-specific death count, requiring explicit Uganda proximity."""
+    best = 0
+    for item in items:
+        text = normalize_numerals(word_to_num(item['title'] + ' ' + item.get('desc', '')))
+        text = re.sub(r'(\d)[,\s](\d{3})\b', r'\1\2', text)
+        if not re.search(r'uganda|ouganda|أوغندا', text, re.IGNORECASE):
+            continue
+        for pat in [
+            r'(\d+)\s+(?:confirmed\s+)?deaths?\s+(?:in|from|reported\s+in)\s+Uganda\b',
+            r'(\d+)\s+(?:fatalities|fatality)\s+in\s+Uganda\b',
+            r'Uganda[^.]{0,50}?(\d+)\s+(?:confirmed\s+)?deaths?\b',
+            # FR
+            r'(\d+)\s+décès\s+(?:en|au)\s+(?:Ouganda|Uganda)\b',
+            # ES
+            r'(\d+)\s+muertes?\s+en\s+Uganda\b',
+        ]:
+            m = re.search(pat, text, re.IGNORECASE)
+            if m:
+                v = int(m.group(1))
+                if 0 < v < 50 and v > best:
+                    best = v
+        # "one person in neighbouring Uganda ... died/has died"
+        if re.search(r'\b1\b[^.]{0,80}Uganda[^.]{0,40}died\b', text, re.IGNORECASE):
+            if best < 1:
+                best = 1
+    return best or None
+
+
 def compute_stats(items):
     """Build the most authoritative epi summary, preferring WHO > MoH > CDC > media."""
     # ── Recency filter: use only items from last 72 h for numeric extraction ──
@@ -427,12 +489,11 @@ def compute_stats(items):
                 drc[field] = val
                 drc_meta[field] = {'tier': w, 'src': src}
 
-    # Deaths must be directly WHO-attributed (weight 3).  If no weight-3
-    # article extracted a death figure, drop the field so the frontend falls
-    # back to the high-water mark rather than showing a media-reported figure.
-    if 'deaths' not in by_weight[3]:
-        drc.pop('deaths', None)
-        drc_meta.pop('deaths', None)
+    # All death fields must be directly WHO-attributed (weight 3).
+    for _df in ('deaths', 'confirmed_deaths', 'suspected_deaths'):
+        if _df not in by_weight[3]:
+            drc.pop(_df, None)
+            drc_meta.pop(_df, None)
 
     # Province-specific confirmed counts (e.g. "2 confirmed in Sud-Kivu") can
     # beat a DRC-total figure if their source article happens to mention MoH.
@@ -461,7 +522,8 @@ def compute_stats(items):
     # Provincial breakdown uses all items for the widest possible coverage
     provinces = extract_provincial_breakdown(items)
 
-    uga_cases = extract_uga_cases(items)
+    uga_cases  = extract_uga_cases(items)
+    uga_deaths = extract_uga_deaths(items)
     uga_mentioned = any(
         re.search(r'uganda|ouganda|أوغندا', item['title'] + ' ' + item.get('desc', ''), re.IGNORECASE)
         for item in items
@@ -477,6 +539,8 @@ def compute_stats(items):
     uga = {}
     if uga_cases:
         uga['cases'] = uga_cases
+    if uga_deaths:
+        uga['deaths'] = uga_deaths
     if uga_mentioned:
         uga['mentioned'] = True
 
@@ -511,8 +575,10 @@ def update_high_water(hw, stats, fetched_at):
     """Merge new stats into high-water marks — values only ever increase."""
     source = stats.get('sourceLabel', 'WHO EIOS RSS')
     drc_suspected = (stats.get('drc') or {}).get('suspected')
-    for country, fields in (('drc', ('deaths', 'suspected', 'confirmed', 'active')),
-                             ('uga', ('cases',))):
+    for country, fields in (
+        ('drc', ('deaths', 'suspected', 'confirmed', 'active', 'confirmed_deaths', 'suspected_deaths')),
+        ('uga', ('cases', 'deaths')),
+    ):
         current = stats.get(country, {})
         stored  = hw.setdefault(country, {})
         for field in fields:
@@ -526,6 +592,9 @@ def update_high_water(hw, stats, fetched_at):
                 if new_val > 200:
                     continue
                 if drc_suspected and new_val >= drc_suspected * 0.3:
+                    continue
+            if country == 'uga' and field == 'deaths':
+                if new_val > 50:
                     continue
             prev     = stored.get(field, {})
             prev_val = prev.get('value') if isinstance(prev, dict) else None
