@@ -11,8 +11,8 @@
       "source": "WHO / OMS"
     },
     "suspected": {
-      "value": 116,
-      "asOf": "2026-06-02T21:00:00Z",
+      "value": 1000,
+      "asOf": "2026-06-03T11:04:17Z",
       "source": "WHO / OMS"
     },
     "confirmed": {
