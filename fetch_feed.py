@@ -485,32 +485,26 @@ def compute_stats(items):
             if val > prev_val:
                 by_weight[w][field] = (val, item['title'][:80])
 
-    # Best value per field (highest authority tier wins)
+    # Best value per field — only WHO (3) or MoH (2); CDC/media never shown.
     drc = {}
     drc_meta = {}
-    for w in (3, 2, 1, 0):
+    for w in (3, 2):
         for field, (val, src) in by_weight[w].items():
             if field not in drc:
                 drc[field] = val
                 drc_meta[field] = {'tier': w, 'src': src}
-
-    # All death fields must be directly WHO-attributed (weight 3).
-    for _df in ('deaths', 'confirmed_deaths', 'suspected_deaths'):
-        if _df not in by_weight[3]:
-            drc.pop(_df, None)
-            drc_meta.pop(_df, None)
 
     # Province-specific confirmed counts (e.g. "2 confirmed in Sud-Kivu") can
     # beat a DRC-total figure if their source article happens to mention MoH.
     # Guard: if a lower tier has a value >5× larger, the winner is sub-national.
     if 'confirmed' in drc:
         better = max(
-            (val for fields in by_weight.values()
-             for f, (val, _) in fields.items() if f == 'confirmed' and val > drc['confirmed']),
+            (val for w in (3, 2) for f, (val, _) in by_weight[w].items()
+             if f == 'confirmed' and val > drc['confirmed']),
             default=None
         )
         if better is not None and better > drc['confirmed'] * 5:
-            for w in (0, 1, 2, 3):
+            for w in (2, 3):
                 if 'confirmed' in by_weight[w] and by_weight[w]['confirmed'][0] == better:
                     drc['confirmed'] = better
                     drc_meta['confirmed'] = {'tier': w, 'src': by_weight[w]['confirmed'][1]}
@@ -536,7 +530,7 @@ def compute_stats(items):
 
     weight_label = {3: 'WHO / OMS', 2: 'Ministry of Health (DRC)', 1: 'Africa CDC / national CDC', 0: 'media reports'}
     winning_weight = 0
-    for w in (3, 2, 1, 0):
+    for w in (3, 2):
         if any(field in by_weight[w] for field in ('deaths', 'suspected')):
             winning_weight = w
             break
