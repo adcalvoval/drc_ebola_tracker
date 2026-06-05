@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 05 Jun 2026 09:55:11 Z",
-  "fetchedAt": "2026-06-05T09:55:11Z",
+  "lastBuildDate": "Fri, 05 Jun 2026 10:04:03 Z",
+  "fetchedAt": "2026-06-05T10:04:04Z",
   "itemCount": 150,
   "stats": {
     "drc": {
@@ -645,18 +645,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Avian flu confirmed in Texas, Idaho cows",
-      "link": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/avian-flu-confirmed-texas-idaho-cows",
-      "pubDate": "Thu, 04 Jun 2026 21:14:00 Z",
-      "desc": "News brief\n      \n            Today at 6:41 p.m.\n      \n  \n\n  \n\nClara Bastain/iStock\n\nFor the first time this year, highly pathogenic avian influenza has been detected in Texas dairy cattle, according to a press release this week from the Texas Animal Health Commission (",
-      "tag": "cases"
-    },
-    {
       "title": "Episode 210: Ebola: What the Past Tells Us about the Present",
       "link": "https://www.cidrap.umn.edu/public-health/episode-210-ebola-what-past-tells-us-about-present",
       "pubDate": "Thu, 04 Jun 2026 21:14:00 Z",
       "desc": "Chris Dall: Hello and welcome to the Osterholm update, a podcast about infectious diseases and public health featuring Dr. Michael Osterholm. Dr. Osterholm is an internationally recognized medical detective and director of the center for Infectious Disease Research and Policy, or CIDRAP, at the University of Minnesota. In this podcast, Doctor Oster",
       "tag": "analysis"
+    },
+    {
+      "title": "Avian flu confirmed in Texas, Idaho cows",
+      "link": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/avian-flu-confirmed-texas-idaho-cows",
+      "pubDate": "Thu, 04 Jun 2026 21:14:00 Z",
+      "desc": "News brief\n      \n            Today at 6:41 p.m.\n      \n  \n\n  \n\nClara Bastain/iStock\n\nFor the first time this year, highly pathogenic avian influenza has been detected in Texas dairy cattle, according to a press release this week from the Texas Animal Health Commission (",
+      "tag": "cases"
     },
     {
       "title": "Sudanese national shifted to isolation centre in Hyderabad after exhibiting some Ebola symptoms",
