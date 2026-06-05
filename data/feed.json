@@ -1,14 +1,12 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 05 Jun 2026 10:04:03 Z",
-  "fetchedAt": "2026-06-05T10:04:04Z",
+  "lastBuildDate": "Fri, 05 Jun 2026 10:09:44 Z",
+  "fetchedAt": "2026-06-05T10:09:44Z",
   "itemCount": 150,
   "stats": {
     "drc": {
       "deaths": 48,
-      "confirmed": 350,
-      "suspected": 6400,
-      "active": 13
+      "confirmed": 350
     },
     "drcMeta": {
       "deaths": {
@@ -18,14 +16,6 @@
       "confirmed": {
         "tier": 3,
         "src": "Ebola 2026"
-      },
-      "suspected": {
-        "tier": 0,
-        "src": "Sud-Kivu : plus de 6 400 cas de choléra et 80 décès enregistrés entre janvier et"
-      },
-      "active": {
-        "tier": 0,
-        "src": "Ebola Emerges Again: New Case Confirmed in UgandaGlobal"
       }
     },
     "drcTiers": {
@@ -49,6 +39,20 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Australia Committed US$3.6 Million to Aid Ebola Response",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021688764",
+      "pubDate": "Fri, 05 Jun 2026 10:06:00 Z",
+      "desc": "TEMPO.CO, Jakarta - The Australian government on Thursday, June 4, 2026, committed approximately US$3.6 million (AUD$5 million) to support the global response to the Ebola outbreak in Central Africa and prevent the spread of the disease.\nThis was announced by Australian Foreign Minister Penny Wong....",
+      "tag": "response"
+    },
+    {
+      "title": "Telangana: Two suspected of Ebola virus sent to Gandhi hospital isolation ward",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021688741",
+      "pubDate": "Fri, 05 Jun 2026 10:06:00 Z",
+      "desc": "\"; var html = \"\nThe number of suspected Ebola cases at Gandhi Hospital in Secunderabad has risen to two. Mohammed Yagouch Ahmed, a Sudanese national, was admitted to the hospital having symptoms of the disease. Medical officials had ...",
+      "tag": "cases"
+    },
     {
       "title": "WHO supports reactive yellow fever vaccination campaign and Bundibugyo virus disease (BVD) preparedness in Liberia",
       "link": "https://www.afro.who.int/news/who-supports-reactive-yellow-fever-vaccination-campaign-and-bundibugyo-virus-disease-bvd",
@@ -659,17 +663,17 @@
       "tag": "cases"
     },
     {
-      "title": "Sudanese national shifted to isolation centre in Hyderabad after exhibiting some Ebola symptoms",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021686454",
-      "pubDate": "Thu, 04 Jun 2026 21:01:00 Z",
-      "desc": "A Sudanese national who arrived at the Rajiv Gandhi International Airport on Thursday, with recent travel history to Ebola-affected countries, was shifted to an isolation centre after exhibiting some symptoms of the disease.\nAccording to an official, the passenger had recently travelled to South Sudan and Uganda.",
-      "tag": "response"
-    },
-    {
       "title": "UK hospitals on red alert for lethal 'eye-bleed' virus as NHS told to prep for Ebola outbreak",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021686461",
       "pubDate": "Thu, 04 Jun 2026 21:01:00 Z",
       "desc": "The NHS has been placed on high alert and told to prepare for the potential UK arrival of a lethal strain of the Ebola virus currently spreading in Africa\nBritain's hospitals have been placed on high alert as the NHS is ordered to prepare for a potential Ebola outbreak.",
+      "tag": "response"
+    },
+    {
+      "title": "Sudanese national shifted to isolation centre in Hyderabad after exhibiting some Ebola symptoms",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021686454",
+      "pubDate": "Thu, 04 Jun 2026 21:01:00 Z",
+      "desc": "A Sudanese national who arrived at the Rajiv Gandhi International Airport on Thursday, with recent travel history to Ebola-affected countries, was shifted to an isolation centre after exhibiting some symptoms of the disease.\nAccording to an official, the passenger had recently travelled to South Sudan and Uganda.",
       "tag": "response"
     },
     {
@@ -1084,20 +1088,6 @@
       "pubDate": "Thu, 04 Jun 2026 11:30:00 Z",
       "desc": "The Health Services and Environment Secretariat (HSES) of the Federal Capital Territory Administration (FCTA) has assured residents that there is currently no confirmed case of Ebola Virus Disease (EVD) in Abuja, even as it urged heightened vigilance following recent outbreaks reported in parts of....",
       "tag": "cases"
-    },
-    {
-      "title": "Priest’s Ebola Death Stirs Fear an Doubt in Congolese Town",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021683449",
-      "pubDate": "Thu, 04 Jun 2026 11:26:00 Z",
-      "desc": "More than 400 cases of Ebola have already been reported in Mongbwalu, a town in the Democratic Republic of Congo, where fear of the highly contagious disease runs the streets. But many of Sylvestre Atama’s parishioners refused to believe that it was Ebola that had claimed the life of their “bergère.” Their shepherd.",
-      "tag": "cases"
-    },
-    {
-      "title": "After Ebola, Hantavirus, Flesh-Eating Screwworms Outbreak Hits US: What You Need To Know",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021683811",
-      "pubDate": "Thu, 04 Jun 2026 11:25:00 Z",
-      "desc": "After Hantavirus and Ebola, a new World screwworm, a devastating parasite that eats cattle and other wild animals alive, has started spreading. This time, the report of the virus attack came from the US. According to a report by news agency Reuters, these viruses travelled north from Central America....",
-      "tag": "response"
     }
   ],
   "highWater": {
