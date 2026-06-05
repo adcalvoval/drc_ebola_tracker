@@ -36,7 +36,7 @@ FEED_URL = (
 OUT_FILE        = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'feed.json')
 OUT_JS_FILE     = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'feed.js')
 HIGH_WATER_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'high_water.json')
-MAX_ITEMS = 150
+MAX_ITEMS = 250
 
 # ── Qualifier words that precede approximate numbers ─────────────────────────
 # EN / FR / ES / PT / AR
