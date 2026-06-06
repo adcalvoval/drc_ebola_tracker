@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 06 Jun 2026 13:48:17 Z",
-  "fetchedAt": "2026-06-06T13:48:18Z",
+  "lastBuildDate": "Sat, 06 Jun 2026 16:07:18 Z",
+  "fetchedAt": "2026-06-06T16:07:18Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -52,6 +52,69 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "1ST LEAD US doctor treated for Ebola discharged from Berlin hospital By Kristin Palitza and Stefan Kruse, dpa",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697938",
+      "pubDate": "Sat, 06 Jun 2026 16:00:00 Z",
+      "desc": "Berlin (dpa) - The US doctor being treated for Ebola in Berlin's Charité hospital was discharged on Saturday after two weeks. \nThe hospital said the doctor is in good health after catching the virus in the Democratic Republic of the Congo. He has tested negative for the virus since May 30, so health....",
+      "tag": "analysis"
+    },
+    {
+      "title": "RDC : la préservation de l’environnement demeure essentielle pour prévenir les épidémies d’Ebola ( Un spécialiste)",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697912",
+      "pubDate": "Sat, 06 Jun 2026 15:55:00 Z",
+      "desc": "Kinshasa, 6 juin 2026 (ACP).- La protection de l’environnement demeure essentielle dans la prévention des épidémies de la maladie à virus Ebola ( MVE) en République démocratique du Congo ( RDC), en raison du lien étroit existant entre les perturbations écologiques et la transmission de cette....",
+      "tag": "analysis"
+    },
+    {
+      "title": "As Ebola Spreads in East Africa, Will China Step Up?",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697046",
+      "pubDate": "Sat, 06 Jun 2026 15:50:00 Z",
+      "desc": "China is well positioned to help stop the deadly virus, and could move into a gap left by U.S. retreat.\nAs Ebola spreads in East Africa, the United States is playing a much smaller role than it has in previous outbreaks. That leaves China, an economic powerhouse with epidemic control and biotech....",
+      "tag": "analysis"
+    },
+    {
+      "title": "India has intensified Ebola surveillance after suspected travel-linked cases were reported in multiple states, although no infection has been confirmed so far.",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697805",
+      "pubDate": "Sat, 06 Jun 2026 15:30:00 Z",
+      "desc": "Health authorities have stepped up screening, quarantine, and surveillance efforts after suspected Ebola cases were reported in Chhattisgarh, Telangana, and Rajasthan.",
+      "tag": "cases"
+    },
+    {
+      "title": "Gounder Fills In Details Behind Ebola, GLP-1, and Trump Headlines",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696810",
+      "pubDate": "Sat, 06 Jun 2026 15:10:00 Z",
+      "desc": "Céline Gounder, KFF Health News’ editor-at-large for public health, discussed a recent study that suggests ultraprocessed foods are linked to increased dementia risk on CBS News 24/7’s The Daily Report on June 3. Gounder also discussed the ...",
+      "tag": "analysis"
+    },
+    {
+      "title": "The World Has Learned From the Last Ebola Outbreak, but Gaps Remain",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696725",
+      "pubDate": "Sat, 06 Jun 2026 14:50:00 Z",
+      "desc": "The vaccine development process and coordination between health organizations have improved since a devastating 2014-2016 outbreak.\nThe response to the Ebola outbreak in East Africa, as troubled as it has been, offers signs that the world has learned key lessons from the last massive outbreak of the....",
+      "tag": "response"
+    },
+    {
+      "title": "Ebola border shutdown leaves goods rotting between Uganda and DRC",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696660",
+      "pubDate": "Sat, 06 Jun 2026 14:50:00 Z",
+      "desc": "Ebola border shutdown leaves goods rotting between Uganda and DRC\nNewsFeed\nEbola border shutdown leaves goods rotting between Uganda and DRC\nTrade has come to a near standstill on the Uganda–DR Congo border as Ebola-related restrictions leave trucks stranded and perishable goods spoiling.",
+      "tag": "response"
+    },
+    {
+      "title": "Ugandan woman quarantined in Jaipur after showing Ebola-like symptoms",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697641",
+      "pubDate": "Sat, 06 Jun 2026 14:40:00 Z",
+      "desc": "A 19-year-old woman from Uganda has been admitted to a government hospital here after showing symptoms similar to Ebola virus infection, health officials said on Friday, adding that they have not confirmed the disease so far.",
+      "tag": "cases"
+    },
+    {
+      "title": "Maurice reporte le «US-Africa Business Summit» en raison des risques liés à Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697524",
+      "pubDate": "Sat, 06 Jun 2026 14:00:00 Z",
+      "desc": "C'est officiel. Le 18e US-Africa Business Summit, qui devait se tenir à Maurice du 26 au 29 juillet, est reporté en raison des risques sanitaires associés à la propagation du virus Ebola sur le continent africain.\nLa décision fait suite à un avis transmis par l'Organisation mondiale de la santé....",
+      "tag": "analysis"
+    },
     {
       "title": "Le RDC alerte sur la propagation rapide du virus Ebola",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697433",
@@ -340,18 +403,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Three Ebola quarantine centres set up in Bungoma",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696031",
-      "pubDate": "Sat, 06 Jun 2026 07:06:00 Z",
-      "desc": "The Department of Health in Bungoma County has set up Ebola isolation and quarantine centres in three health facilities as a preparedness measure aimed at preventing a possible outbreak of the deadly viral disease in the area.\nThe facilities include the Bungoma County Referral Hospital (BCRH),....",
-      "tag": "response"
-    },
-    {
       "title": "\"Three returnees from Ebola-hit African countries quarantined in Durg\": Chhattisgarh Health Minister",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696045",
       "pubDate": "Sat, 06 Jun 2026 07:06:00 Z",
       "desc": "Raipur, June 6 -- Amidst the recent surge in Ebola virus cases in several parts of Africa, Chhattisgarh Health Minister Shyam Bihari Jaiswal on Saturday said the state is \"fully prepared to handle any potential virus infection\", while also announcing a new public grievance helpline under the Chief Minister's office.",
       "tag": "cases"
+    },
+    {
+      "title": "Three Ebola quarantine centres set up in Bungoma",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696031",
+      "pubDate": "Sat, 06 Jun 2026 07:06:00 Z",
+      "desc": "The Department of Health in Bungoma County has set up Ebola isolation and quarantine centres in three health facilities as a preparedness measure aimed at preventing a possible outbreak of the deadly viral disease in the area.\nThe facilities include the Bungoma County Referral Hospital (BCRH),....",
+      "tag": "response"
     },
     {
       "title": "War, fear, disease hamper Ebola response in DRC",
@@ -592,17 +655,17 @@
       "tag": "cases"
     },
     {
-      "title": "UAE announces travel restrictions on three African countr...",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021693322",
-      "pubDate": "Fri, 05 Jun 2026 23:40:00 Z",
-      "desc": "The National Emergency Crisis and Disaster Management Authority (NCEMA) and the Federal Authority for Identity, Citizenship, Customs and Port Security (ICP) have announced additional precautionary measures for arrivals from the Democratic Republic of the Congo, the Republic of Uganda, and the Republic of South Sudan.",
-      "tag": "response"
-    },
-    {
       "title": "Sint Maarten Issues Public Health Advisory & Travel Restrictions as Ebola Prevention Measures",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021693318",
       "pubDate": "Fri, 05 Jun 2026 23:40:00 Z",
       "desc": "SINT MAARTEN (GREAT BAY, (DCOMM) – Effective immediately, the Government of Sint Maarten hereby informs the general public of precautionary measures being implemented in response to ongoing Ebola Virus Disease (EVD)-related health concerns affecting parts of Africa.",
+      "tag": "response"
+    },
+    {
+      "title": "UAE announces travel restrictions on three African countr...",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021693322",
+      "pubDate": "Fri, 05 Jun 2026 23:40:00 Z",
+      "desc": "The National Emergency Crisis and Disaster Management Authority (NCEMA) and the Federal Authority for Identity, Citizenship, Customs and Port Security (ICP) have announced additional precautionary measures for arrivals from the Democratic Republic of the Congo, the Republic of Uganda, and the Republic of South Sudan.",
       "tag": "response"
     },
     {
@@ -1738,69 +1801,6 @@
       "pubDate": "Fri, 05 Jun 2026 00:45:00 Z",
       "desc": "At least two people were killed earlier this week during protests in Nanyuki\nKenyan President William Ruto has defended his government's decision to allow the United States to build an Ebola quarantine facility in the country as satellite imagery reveals rapid construction , despite protests and court orders blocking the project.",
       "tag": "cases"
-    },
-    {
-      "title": "UK's doctors told to be prepared for cases of Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021687632",
-      "pubDate": "Fri, 05 Jun 2026 00:35:00 Z",
-      "desc": "HEALTH\nThe UK's doctors and nurses have been told to check they have sufficient stocks of personal protective equipment and be prepared to isolate patients as part of an NHSwide national alert for Ebola, it has emerged.\nThe UK Health Security Agency (UKHSA) has issued an \"urgent public health....",
-      "tag": "cases"
-    },
-    {
-      "title": "Kidney Diseases and Conditions - Chronic Kidney Disease; Study Data from Azienda USL Toscana Centro Update Understanding of Chronic Kidney Disease (A multidisciplinary model for implementation of nephrogenetics in CKD outpatients: a clinical and data-dri…",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021687633",
-      "pubDate": "Fri, 05 Jun 2026 00:35:00 Z",
-      "desc": "2026 JUN 3 (VerticalNews) -- By a News Reporter-Staff News Editor at Computer Weekly News -- Investigators publish new report on Kidney Diseases and Conditions - Chronic Kidney Disease. According to news reporting originating from Firenze, Italy, by VerticalNews correspondents, research stated,....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Associations of single and mixed air pollution exposure with lung function and incident pulmonary fibrosis: the mediation effect of low-grade inflammation",
-      "link": "https://www.sciencedirect.com/science/article/abs/pii/S026974912600864X",
-      "pubDate": "Fri, 05 Jun 2026 00:28:00 Z",
-      "desc": "Pulmonary fibrosis (PF) is a fatal disease with limited treatment options. However, few studies have analyzed the impact of air pollutants on both lung function and PF using multiple advanced methods, particularly from a mixed-exposure perspective. We conducted cross-sectional (n = 280,656 for lung....",
-      "tag": "analysis"
-    },
-    {
-      "title": "'World-first' vaccine designed by Artificial Intelligence Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.",
-      "link": "https://www.bbc.com/news/articles/crrpggegwe0o",
-      "pubDate": "Thu, 04 Jun 2026 23:54:00 Z",
-      "desc": "Artificial intelligence has been used to develop a \"fundamentally new\" type of vaccine that could protect against large swathes of viruses and prevent pandemics, say researchers.\n\nThe team at the University of Cambridge say it is the first time a vaccine's key component has been designed entirely by AI and then trialled in people.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Two scientists on their race to make a new Ebola vaccine",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021687373",
-      "pubDate": "Thu, 04 Jun 2026 23:45:00 Z",
-      "desc": "Gemma Ware, The Conversation\nClick to view video\nClick to view video\nAs health workers in the Democratic Republic of Congo (DRC) continue to battle an ongoing Ebola outbreak, scientists around the world are racing to develop a vaccine against the strain of the virus that’s causing it.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Kenyan president defends US Ebola facility amid deadly protests",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021687479",
-      "pubDate": "Thu, 04 Jun 2026 23:45:00 Z",
-      "desc": "Kenyan president defends US Ebola facility amid deadly protests\nNewsFeed\nKenyan president defends US Ebola facility amid deadly protests\nKenyan President William Ruto said allowing the US to build an Ebola quarantine facility in Kenya was the “right thing”.",
-      "tag": "analysis"
-    },
-    {
-      "title": "USAID's closure led to 'entirely preventable' deaths, latest Ebola outbreak: House Dem report",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021687509",
-      "pubDate": "Thu, 04 Jun 2026 23:41:00 Z",
-      "desc": "The Trump administration's decision to kill the U.S. Agency for International Development (USAID) likely contributed to 600,000 \"entirely preventable\" deaths, left the globe faltering in responding to the latest Ebola outbreak and let U.S. adversaries increase their standing in the developing world, a report from House Oversight Democrats finds.",
-      "tag": "cases"
-    },
-    {
-      "title": "Supply, personnel shortages top public concerns over Ebola response: CGTN poll",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021687541",
-      "pubDate": "Thu, 04 Jun 2026 23:25:00 Z",
-      "desc": "Shortages of supplies and personnel hampering a quick response to an ongoing Ebola outbreak in Central Africa are the biggest public concern, according to a recent online survey conducted by the China Global Television Network (CGTN).\nThe survey was carried out to assess public worries surrounding....",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola outbreak follows hunger and displacement crisis in DR Congo - news",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021687538",
-      "pubDate": "Thu, 04 Jun 2026 23:25:00 Z",
-      "desc": "“The world is not safer from pandemics”, said experts from the Global Preparedness Monitoring Board (GPMB) on Monday, who underscored how the world’s vulnerability was exposed by an Ebola outbreak a decade ago and then by the “global catastrophe” of COVID-19.",
-      "tag": "response"
     }
   ],
   "highWater": {
