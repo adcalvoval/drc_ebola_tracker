@@ -1,8 +1,8 @@
 {
   "drc": {
     "deaths": {
-      "value": 80,
-      "asOf": "2026-06-04T10:02:30Z",
+      "value": 84,
+      "asOf": "2026-06-07T13:57:36Z",
       "source": "WHO / OMS"
     },
     "confirmed_deaths": {
@@ -33,9 +33,9 @@
       "source": "WHO / OMS"
     },
     "deaths": {
-      "value": 1,
-      "asOf": "2026-05-23T19:57:00Z",
-      "source": "Uganda MoH"
+      "value": 2,
+      "asOf": "2026-06-07T13:57:36Z",
+      "source": "WHO / OMS"
     }
   }
 }

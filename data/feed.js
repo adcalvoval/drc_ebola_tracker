@@ -1,33 +1,33 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 07 Jun 2026 09:16:19 Z",
-  "fetchedAt": "2026-06-07T09:16:19Z",
+  "lastBuildDate": "Sun, 07 Jun 2026 13:57:36 Z",
+  "fetchedAt": "2026-06-07T13:57:36Z",
   "itemCount": 250,
   "stats": {
     "drc": {
+      "deaths": 84,
       "suspected": 500,
-      "confirmed": 500,
-      "deaths": 64
+      "confirmed": 500
     },
     "drcMeta": {
+      "deaths": {
+        "tier": 3,
+        "src": "WHO confirms 471 Ebola cases in Central Africa"
+      },
       "suspected": {
         "tier": 3,
-        "src": "À retenir ce soir : rassemblement pour Lyhanna, mort de Bernadette Chirac, ebola"
+        "src": "Près de 500 cas d’Ebola confirmés en Afrique"
       },
       "confirmed": {
         "tier": 3,
         "src": "À retenir ce soir : rassemblement pour Lyhanna, mort de Bernadette Chirac, ebola"
-      },
-      "deaths": {
-        "tier": 3,
-        "src": "Ebola : l’OMS et le CACM annoncent un plan de 518 millions $ US"
       }
     },
     "drcTiers": {
       "who": {
+        "deaths": 84,
         "suspected": 500,
-        "confirmed": 500,
-        "deaths": 64
+        "confirmed": 500
       },
       "moh": {
         "deaths": 63,
@@ -48,12 +48,146 @@ window.FEED_DATA = {
     "provinces": {},
     "uga": {
       "cases": 16,
+      "deaths": 2,
       "mentioned": true
     },
     "whoAlert": "PHEIC",
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Chinese medical team arrives in DR Congo to help fight Ebola, filling US void",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701138",
+      "pubDate": "Sun, 07 Jun 2026 13:55:00 Z",
+      "desc": "Specialists begin three-month frontline mission to contain outbreak across mining region dense with Beijing-backed mineral investments\nA Chinese team of medical experts has arrived in the Democratic Republic of Congo for a three-month frontline mission to contain an expanding Ebola outbreak across a....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Liberia’s last Ebola patient discharged - Digital Journal",
+      "link": "https://www.digitaljournal.com/article/liberia-s-last-ebola-patient-discharged-government/",
+      "pubDate": "Sun, 07 Jun 2026 13:25:00 Z",
+      "desc": "-- Liberia. Significance Rating: 1 Liberia’s last Ebola patient discharged&nbsp;&nbsp;Digital Journal",
+      "tag": "analysis"
+    },
+    {
+      "title": "Partage des pathogènes : l’Afrique",
+      "link": "https://echosante.info/pathogenes-contre-vaccins-pourquoi-les-pays-africains-posent-desormais-leurs-conditions-dans-les-negociations-sanitaires-internationales/",
+      "pubDate": "Sun, 07 Jun 2026 13:12:00 Z",
+      "desc": "Au cœur des négociations internationales sur le futur traité mondial contre les pandémies, une question concentre toutes les tensions : à quelles conditions les pays africains sont-ils prêts à partager leurs agents pathogènes avec la communauté scientifique internationale ? La réponse qu’ils....",
+      "tag": "response"
+    },
+    {
+      "title": "Près de 500 cas d’Ebola confirmés en Afrique",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700865",
+      "pubDate": "Sun, 07 Jun 2026 12:50:00 Z",
+      "desc": "Près de 500 cas d’infection par le virus Ebola ont été confirmés en Afrique centrale, selon l’Organisation mondiale de la santé dans son dernier bilan : 452 cas, dont 82 décès, en République démocratique du Congo, et 19 cas, dont deux décès en Ouganda. Soit une hausse de 100 cas et 20 décès par rapport à la veille.",
+      "tag": "cases"
+    },
+    {
+      "title": "Hanta Cruise Virus Storm! New Zealand tourists strengthen self-health management for 42 days; quarantine lifted today",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700815",
+      "pubDate": "Sun, 07 Jun 2026 12:40:00 Z",
+      "desc": "Recently, the Dutch cruise ship 'MV Hondius' experienced a hantavirus Andean cluster. After being reported by the World Health Organization and the International Health Regulations (IHR), it was confirmed that a New Zealand passenger who had previously traveled on the cruise entered Taiwan on May 7.",
+      "tag": "cases"
+    },
+    {
+      "title": "Breakthrough: Universal Coronavirus Vaccine Designed By AI Passes Human Trial",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700801",
+      "pubDate": "Sun, 07 Jun 2026 12:40:00 Z",
+      "desc": "In a historic milestone for global public health, an experimental \"universal\" coronavirus vaccine designed entirely by artificial intelligence (AI) has successfully completed its first human clinical trial. According to peer-reviewed data published in the Journal of Infection, the Phase 1 clinical....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Jaipur: Ugandan Tourist with Ebola-Like Symptoms Tests Negative",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700779",
+      "pubDate": "Sun, 07 Jun 2026 12:35:00 Z",
+      "desc": "Her samples were sent to a specialised laboratory in Pune for testing. The report received from the laboratory confirmed that she had not contracted the Ebola virus\nJaipur: A Ugandan woman who was admitted to a hospital in Jaipur after displaying Ebola-like symptoms has tested negative for the virus, Rajasthan health authorities said.",
+      "tag": "cases"
+    },
+    {
+      "title": "US doctor who contracted Ebola discharged from German hospital along with five family members",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700689",
+      "pubDate": "Sun, 07 Jun 2026 12:25:00 Z",
+      "desc": "‘Words cannot adequately express my gratitude. Thank you to everyone who made this possible. Our thoughts remain with the people in the Congo who do not have access to such care,’ Dr. Stafford said\nA U.S. citizen who contracted Ebola in the Democratic Republic of Congo has been discharged from a....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ituri : détails sur la procédure d’enterrements dignes et sécurisés des victimes d’Ebola (Croix-Rouge)",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700636",
+      "pubDate": "Sun, 07 Jun 2026 11:45:00 Z",
+      "desc": "Bunia, 6 juin 2026 (ACP).- La procédure sur les enterrements dignes et sécurisés(EDS) des personnes décédées dans le contexte de la riposte contre la maladie à virus Ebola, ont été expliquées par un responsable de la Croix-Rouge samedi, à Bunia, chef-lieu de la province de l’Ituri, dans le Nord-Est de la République démocratique du Congo ( RDC).",
+      "tag": "analysis"
+    },
+    {
+      "title": "Another Sudanese national tests negative for Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700616",
+      "pubDate": "Sun, 07 Jun 2026 11:45:00 Z",
+      "desc": "Hyderabad Health authorities at Gandhi Hospital on Saturday confirmed that a second Sudanese national under observation has tested negative for Ebola. Hospital officials said the National Institute of Virology (NIV), Pune, ruled out Ebola infection in the 22-year-old student, who is pursuing higher education at a private university in Hyderabad.",
+      "tag": "cases"
+    },
+    {
+      "title": "Ebola : restrictions aux voyageurs en provenance de RDC, Ouganda et Soudan",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700547",
+      "pubDate": "Sun, 07 Jun 2026 11:35:00 Z",
+      "desc": "Face à la recrudescence des cas d’Ebola dans certaines régions d’Afrique, Maurice renforce son dispositif de protection sanitaire. Le Conseil des ministres a donné son feu vert à une série de mesures exceptionnelles visant à empêcher l’introduction du virus sur le territoire et à maintenir un niveau....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Reports of Ebola in Nigeria false, says NCDC",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700002",
+      "pubDate": "Sun, 07 Jun 2026 11:30:00 Z",
+      "desc": "Kindly share this story:\nThe Nigeria Centre for Disease Control and Prevention has dismissed reports circulating online and offline claiming that there are confirmed cases of Ebola Virus Disease in Nigeria.",
+      "tag": "cases"
+    },
+    {
+      "title": "Ebola outbreak could be among worst on record",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700500",
+      "pubDate": "Sun, 07 Jun 2026 11:25:00 Z",
+      "desc": "Ebola cases in the Democratic Republic of Congo jumped by 71 in a day and another 21 deaths were recorded as health workers expanded testing in the mining town where the outbreak is believed to have begun, pointing to an epidemic that might be much bigger than previously understood.",
+      "tag": "cases"
+    },
+    {
+      "title": "Establishment and validation of reference intervals for the neutrophil CD64 index in a healthy adult population from Guangxi, China",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42251514/",
+      "pubDate": "Sun, 07 Jun 2026 10:47:00 Z",
+      "desc": "Background: The neutrophil CD64 (nCD64) index is a potent biomarker for infectious diseases; however, the lack of standardized reference intervals (RIs) limits its clinical utility. Objectives: This study aimed to establish and validate reference intervals (RIs) for the nCD64 index specifically for the Guangxi population using flow cytometry.",
+      "tag": "analysis"
+    },
+    {
+      "title": "The number of Ebola cases in the Democratic Republic of the Congo is nearing 500, with Ituri serving as the epicenter of the outbreak",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700366",
+      "pubDate": "Sun, 07 Jun 2026 10:25:00 Z",
+      "desc": "Authorities in the Democratic Republic of the Congo (DRC) have raised the number of confirmed cases in the Ebola outbreak declared in the eastern part of the country on May 15 to 488, including 86 deaths, and warned of “rapid and ongoing community transmission.",
+      "tag": "cases"
+    },
+    {
+      "title": "How the hosts are preparing for an Ebola outbreak during World Cup 2026",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700317",
+      "pubDate": "Sun, 07 Jun 2026 10:05:00 Z",
+      "desc": "How the hosts are preparing for an Ebola outbreak during World Cup 2026\nThe US, Mexico and Canada have announced Ebola-related travel restrictions before the start of the World Cup.\nListen\nClick here to share on social media\nshare-nodes\nAdd Al Jazeera on Google\ninfo\nThe outbreak of the Ebola virus....",
+      "tag": "response"
+    },
+    {
+      "title": "WHO confirms 471 Ebola cases in Central Africa",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700239",
+      "pubDate": "Sun, 07 Jun 2026 09:25:00 Z",
+      "desc": "GENEVA, 7th June, 2026 (WAM) -- The World Health Organisation has announced the registration of 471 confirmed cases of the Ebola virus, including 84 deaths, in Central Africa, amid growing concerns over the potential expansion of the outbreak.\nThe organisation clarified that the Democratic Republic....",
+      "tag": "cases"
+    },
+    {
+      "title": "Reports of Ebola in Nigeria false, says NCDC",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700242",
+      "pubDate": "Sun, 07 Jun 2026 09:25:00 Z",
+      "desc": "{'rendered': '\nThe Nigeria Centre for Disease Control and Prevention has dismissed reports circulating online and offline claiming that there are confirmed cases of Ebola Virus Disease in Nigeria.\nIn a post on its X handle on Saturday, the agency described the reports as false and urged Nigerians to rely only on information from official sources.",
+      "tag": "cases"
+    },
+    {
+      "title": "Cambridge Team's AI Vaccine Passes First Human Trial",
+      "link": "https://www.medscape.com/s/viewarticle/cambridge-teams-ai-vaccine-passes-first-human-trial-2026a1000iyl?src=rss",
+      "pubDate": "Sun, 07 Jun 2026 09:23:00 Z",
+      "desc": "New vaccine technology created with the help of artificial intelligence could provide immunity against whole families of viruses and protect people from any future mutations in a single jab, according to scientists.\n\nThe method could prevent pandemics before they begin, saving millions of lives and....",
+      "tag": "analysis"
+    },
     {
       "title": "First AI-designed vaccine passed its maiden human trial",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021699953",
@@ -1670,146 +1804,13 @@ window.FEED_DATA = {
       "pubDate": "Fri, 05 Jun 2026 16:45:00 Z",
       "desc": "Alors que les livraisons de matériel se multiplient et que les capacités de dépistage augmentent, de nombreux obstacles persistent, notamment sur le plan logistique et dans l’adhésion des populations à la riposte.\n« Nous sommes encore en retard », a reconnu, face à la presse, mercredi 3 juin à....",
       "tag": "analysis"
-    },
-    {
-      "title": "30 mai 2026 Allocution du Directeur général de l’OMS lors du point presse sur l’épidémie de maladie d’Ebola à virus Bundibugyo – 30 mai 2026",
-      "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-remarks-at-the-press-briefing-on-the-on-the-bundibugyo-ebola-outbreak---30-may-2026",
-      "pubDate": "Fri, 05 Jun 2026 16:30:00 Z",
-      "desc": "Monsieur le Ministre de la santé, D r Kamba, Monsieur le Ministre de la communication, M. Katembwe, Monsieur le Gouverneur de la province de l’Ituri, Lieutenant-général Nkashama, Chères et chers partenaires, amis et collègues de l’OMS, Bonjour Bunia, C’est un privilège d’être ici à Bunia.",
-      "tag": "analysis"
-    },
-    {
-      "title": "3 juin 2026 Allocution liminaire du Directeur général de l’OMS lors du point presse sur l’épidémie de maladie d’Ebola causée par le virus Bundibugyo – 3 juin 2026",
-      "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---3-june-2026",
-      "pubDate": "Fri, 05 Jun 2026 16:30:00 Z",
-      "desc": "Bonjour à toutes les personnes présentes aujourd’hui, et bonjour ou bonsoir à toutes celles qui nous rejoignent en ligne. Hier, je suis rentré d’une visite en République démocratique du Congo, où je me suis notamment rendu à l’épicentre de l’épidémie de maladie d’Ebola dans la province de l’Ituri.",
-      "tag": "analysis"
-    },
-    {
-      "title": "The World Cup Is Coming. Here’s What EDs Should Prepare For.",
-      "link": "https://www.medpagetoday.com/opinion/second-opinions/121617",
-      "pubDate": "Fri, 05 Jun 2026 16:26:00 Z",
-      "desc": "On June 11, the largest FIFA World Cup in history kicks off across 16 cities in the U.S. (11 cities), Canada, and Mexico. Over 5 million fans from around the globe will pack stadiums, fan zones, and city streets through mid-July. For the emergency departments (EDs) in and around those host cities, the tournament is not a month of soccer.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Chhattisgarh intensifies Ebola surveillance",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021690889",
-      "pubDate": "Fri, 05 Jun 2026 16:05:00 Z",
-      "desc": "3 asymptomatic travellers under observation in Durg 21-day mandatory quarantine for arrivals from affected countries\nRAIPUR, June 4: ACTING on guidelines issued by the Union Ministry of Health and Family Welfare and the World Health Organisation (WHO), the Chhattisgarh Health and Family Welfare....",
-      "tag": "response"
-    },
-    {
-      "title": "AI just designed a ‘fundamental new vaccine’ for viruses, researchers say",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021690872",
-      "pubDate": "Fri, 05 Jun 2026 16:05:00 Z",
-      "desc": "AI just designed a ‘fundamental new vaccine’ for viruses, researchers say\nAdd Global News to Home Screen\nClose\nSelect Add to Home Screen\nPress Add\nWant to discuss? Please read our Commenting Policy first.\nWrite a comment\nRequired fields are marked with an asterisk (*).",
-      "tag": "analysis"
-    },
-    {
-      "title": "WHO Has A $580 Million, 6-Month Plan To Fight Ebola (Live Updates)",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021690895",
-      "pubDate": "Fri, 05 Jun 2026 16:05:00 Z",
-      "desc": "Topline\nWorld Health Organization officials on Friday unveiled a six-month, $518 million plan to fight the Ebola outbreak that has killed dozens in in central Africa, including plans to strengthen emergency coordination, disease surveillance, laboratory testing, infection prevention and control,....",
-      "tag": "analysis"
-    },
-    {
-      "title": "FIFA World Cup: Biggest Health Risks for Fans and How to Avoid Them",
-      "link": "https://www.healthline.com/health-news/2026-fifa-world-cup-health-risks-protect-yourself",
-      "pubDate": "Fri, 05 Jun 2026 15:57:00 Z",
-      "desc": "Experts say the World Cup may put pressure on the standard health protection guidelines. Image credit: Photo by wakila/GettyImages. Public health experts are concerned that the 2026 FIFA World Cup may test the public health playbook. While Ebola and measles may not pose a high risk for these games,....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola in Congo: What Happens When Global Response Capacity Disappears?",
-      "link": "https://www.medpagetoday.com/opinion/faustfiles/121616",
-      "pubDate": "Fri, 05 Jun 2026 15:56:00 Z",
-      "desc": "In this MedPage Today webinar, Editor-in-Chief Jeremy Faust, MD, speaks with Jeremy Konyndyk, president of Refugees International and former U.S. Agency for International Development (USAID) official who helped lead the U.S. response to the They discuss the current Ebola outbreak in the Democratic....",
-      "tag": "response"
-    },
-    {
-      "title": "Politicization of Grants; Lessons From the 2014 Ebola Outbreak; Hantavirus Update",
-      "link": "https://www.medpagetoday.com/podcasts/anamnesis/121615",
-      "pubDate": "Fri, 05 Jun 2026 15:56:00 Z",
-      "desc": "The following is a transcript of the podcast episode: Rachael Robertson : Hey everyone, welcome to MedPod Today, the podcast series where MedPage Today reporters share deeper insight into the week's biggest healthcare stories. I'm your host, Rachael Robertson.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola burial team attacked in eastern DRC amid outbreak response",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021690821",
-      "pubDate": "Fri, 05 Jun 2026 15:55:00 Z",
-      "desc": "Residents attacked an Ebola burial team in eastern Democratic Republic of the Congo (DRC) this week, forcing responders to abandon a coffin and raising fears of further transmission as health authorities battle an outbreak of the Bundibugyo strain of the virus.",
-      "tag": "response"
-    },
-    {
-      "title": "In Congo, doctors face Ebola with little protection: \"We live with fear\"",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021690526",
-      "pubDate": "Fri, 05 Jun 2026 15:55:00 Z",
-      "desc": "Harrowing scenes are unfolding at health facilities at the epicenter of an Ebola outbreak in the Democratic Republic of Congo.\nA 25-year-old midwife and a doctor in his early 30s are sick with Ebola symptoms, including fevers and severe ...",
-      "tag": "analysis"
-    },
-    {
-      "title": "Made-in-India testing tech looks to power Ebola fight as outbreak rages",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021690752",
-      "pubDate": "Fri, 05 Jun 2026 15:45:00 Z",
-      "desc": "A key issue in the raging Ebola outbreak – a deadly disease with a frighteningly high fatality rate – in the Democratic Republic of Congo (DRC) has been a shortage of testing kits.\nNow, an Indian medical diagnostics company, whose testing technology proved vital during India's fight against the....",
-      "tag": "analysis"
-    },
-    {
-      "title": "WHO, Africa CDC launch $518 mn plan to combat Ebola outbreak",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021690735",
-      "pubDate": "Fri, 05 Jun 2026 15:40:00 Z",
-      "desc": "The WHO and the African Union's public health agency launched a $518-million joint plan on Friday to tackle the Ebola outbreak causing alarm in the Democratic Republic of Congo and its neighbours.\nThe World Health Organization and the Africa Centres for Disease Control and Prevention said the plan would last from June to November.",
-      "tag": "analysis"
-    },
-    {
-      "title": "'We Live With Fear': In Congo, Doctors Face Ebola With Little Protection",
-      "link": "https://www.medpagetoday.com/publichealthpolicy/publichealth/121614",
-      "pubDate": "Fri, 05 Jun 2026 15:27:00 Z",
-      "desc": "Harrowing scenes are unfolding at health facilities at the epicenter of an Ebola outbreak in the Democratic Republic of Congo. A 25-year-old midwife and a doctor in his early 30s are sick with Ebola symptoms, including fevers and severe joint pain, said their colleague Elisabeth Furaha, the medical....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Uganda confirms three new Ebola cases, one more death",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021690628",
-      "pubDate": "Fri, 05 Jun 2026 15:25:00 Z",
-      "desc": "NAIROBI, June 5 (Reuters) - Uganda has recorded three new confirmed Ebola cases in the country, bringing total cases to 19, the health ministry said on Friday.\nThe ministry said on its X account that the three new cases were contacts to confirmed cases who have been in institutional quarantine.",
-      "tag": "cases"
-    },
-    {
-      "title": "Ebola en RDC : le taux de traçage atteint 55,5 %, objectif 90 % (Ministre de la Santé)",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021690600",
-      "pubDate": "Fri, 05 Jun 2026 15:20:00 Z",
-      "desc": "Kinshasa, 5 juin 2026 (ACP).- Le taux de traçage des cas contacts dans la lutte contre l’épidémie d’Ebola en République démocratique du Congo (RDC), a atteint 55,5 %, avec un objectif fixé à 90 %, selon le compte rendu du briefing conjoint des ministres de la Santé publique et de la Communication consulté vendredi par l’ACP.",
-      "tag": "analysis"
-    },
-    {
-      "title": "WHO, Africa CDC unveil $518m Ebola plan as Uganda death toll rises",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021690583",
-      "pubDate": "Fri, 05 Jun 2026 15:20:00 Z",
-      "desc": "News | Ebola\nWHO, Africa CDC unveil $518m Ebola plan as Uganda death toll rises\nUganda reported three more cases and one more death from the outbreak, which has spread from neighbouring DRC.\nListen\nClick here to share on social media\nshare-nodes\nAdd Al Jazeera on Google\ninfo\nA health worker washes....",
-      "tag": "cases"
-    },
-    {
-      "title": "Ebola - 63 décès sur les 381 cas enregistrés au pays (Gouvernement)",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021690499",
-      "pubDate": "Fri, 05 Jun 2026 14:20:00 Z",
-      "desc": "Vingt jours après la déclaration officielle de la maladie à virus Ebola, 63 personnes sont décédées sur 381 cas, soit une létalité de moins de 17% dans les provinces touchées.\nLe ministre de la Sante publique, Roger Kamba, a dévoilé ces chiffres devant la presse jeudi 4 juin 2026 à Kinshasa, avec....",
-      "tag": "cases"
-    },
-    {
-      "title": "Great Britain working on 'world-first' vaccine, designed by AI: it could combat Ebola and flu",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021690436",
-      "pubDate": "Fri, 05 Jun 2026 14:15:00 Z",
-      "desc": "(Adnkronos) - A \"world-first\" vaccine, developed in Great Britain, could protect against a wide range of viruses and prevent pandemics. But the real novelty of the immunizing drug, as reported by the University of Cambridge team that developed it - writes the Bbc - is that it is the first time that....",
-      "tag": "analysis"
     }
   ],
   "highWater": {
     "drc": {
       "deaths": {
-        "value": 80,
-        "asOf": "2026-06-04T10:02:30Z",
+        "value": 84,
+        "asOf": "2026-06-07T13:57:36Z",
         "source": "WHO / OMS"
       },
       "confirmed_deaths": {
@@ -1840,9 +1841,9 @@ window.FEED_DATA = {
         "source": "WHO / OMS"
       },
       "deaths": {
-        "value": 1,
-        "asOf": "2026-05-23T19:57:00Z",
-        "source": "Uganda MoH"
+        "value": 2,
+        "asOf": "2026-06-07T13:57:36Z",
+        "source": "WHO / OMS"
       }
     }
   }
