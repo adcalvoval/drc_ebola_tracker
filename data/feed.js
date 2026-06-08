@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 08 Jun 2026 10:51:17 Z",
-  "fetchedAt": "2026-06-08T10:51:18Z",
+  "lastBuildDate": "Mon, 08 Jun 2026 11:00:43 Z",
+  "fetchedAt": "2026-06-08T11:00:43Z",
   "itemCount": 249,
   "stats": {
     "drc": {
@@ -257,6 +257,13 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
+      "title": "A Beni, les confessions religieuses s’engagent dans la prévention d’Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701521",
+      "pubDate": "Sun, 07 Jun 2026 19:16:00 Z",
+      "desc": "Les communautés chrétiennes et musulmanes de la ville de Beni, au Nord-Kivu, s’engagent activement dans la lutte contre la maladie à virus Ebola. Face à la menace persistante de cette épidémie qui touche la ville, plusieurs églises ont mis ...",
+      "tag": "analysis"
+    },
+    {
       "title": "Ebola en RDC : à Bunia, l'épidémie bouleverse l'organisation des mariages",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701531",
       "pubDate": "Sun, 07 Jun 2026 19:16:00 Z",
@@ -264,10 +271,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "A Beni, les confessions religieuses s’engagent dans la prévention d’Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701521",
-      "pubDate": "Sun, 07 Jun 2026 19:16:00 Z",
-      "desc": "Les communautés chrétiennes et musulmanes de la ville de Beni, au Nord-Kivu, s’engagent activement dans la lutte contre la maladie à virus Ebola. Face à la menace persistante de cette épidémie qui touche la ville, plusieurs églises ont mis ...",
+      "title": "Stop blowing the Ebola pandemic out of proportion",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702757",
+      "pubDate": "Sun, 07 Jun 2026 18:45:00 Z",
+      "desc": "Health workers prepare for a clean-up of one of the Ebola Treatment Units in Mubende District in 2023. Uganda has a strong history of dealing with Ebola. COURTESY PHOTO.",
       "tag": "analysis"
     },
     {
@@ -276,13 +283,6 @@ window.FEED_DATA = {
       "pubDate": "Sun, 07 Jun 2026 18:45:00 Z",
       "desc": "Access the original document here\nWHO Hands Over Ebola Preparedness Supplies to Strengthen Zambia’s Readiness\nWHO Hands Over Ebola Preparedness Supplies to Strengthen Zambia's Readiness\n07 June 2026\nLusaka, Zambia - The World Health Organization (WHO) has handed over critical Ebola preparedness....",
       "tag": "response"
-    },
-    {
-      "title": "Stop blowing the Ebola pandemic out of proportion",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702757",
-      "pubDate": "Sun, 07 Jun 2026 18:45:00 Z",
-      "desc": "Health workers prepare for a clean-up of one of the Ebola Treatment Units in Mubende District in 2023. Uganda has a strong history of dealing with Ebola. COURTESY PHOTO.",
-      "tag": "analysis"
     },
     {
       "title": "Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026 | MMWR",
@@ -313,18 +313,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Hanington: Is Ebola the next pandemic?",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702304",
-      "pubDate": "Sun, 07 Jun 2026 18:30:00 Z",
-      "desc": "Ebola in Africa is making the nightly news this month because larger outbreaks seem to be moving quickly and the rate of mortality is very high. This concerning virus, coming five years later on the heels of the Covid pandemic, conjures up images of masks and equal line spacing marks on grocery....",
-      "tag": "analysis"
-    },
-    {
       "title": "Officials are scrambling to understand the scope of the Ebola outbreak",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702685",
       "pubDate": "Sun, 07 Jun 2026 18:30:00 Z",
       "desc": "Health officials are still scrambling to understand the scope of the Ebola outbreak in Central Africa. The Democratic Republic of Congo and Uganda have nearly 400 confirmed cases now, just three weeks after the outbreak began, meaning it's ...",
       "tag": "cases"
+    },
+    {
+      "title": "Hanington: Is Ebola the next pandemic?",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702304",
+      "pubDate": "Sun, 07 Jun 2026 18:30:00 Z",
+      "desc": "Ebola in Africa is making the nightly news this month because larger outbreaks seem to be moving quickly and the rate of mortality is very high. This concerning virus, coming five years later on the heels of the Covid pandemic, conjures up images of masks and equal line spacing marks on grocery....",
+      "tag": "analysis"
     },
     {
       "title": "Kenya dispatch: High Court suspends US-backed Ebola quarantine facility",
@@ -348,17 +348,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "DRC: Local authorities, church impose certain Ebola restriction measures",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701601",
-      "pubDate": "Sun, 07 Jun 2026 18:20:00 Z",
-      "desc": "Despite the Ebola outbreak in Bunia, in the Democratic Republic of Congo, some families were determined to go ahead with their relatives’ weddings.\nHowever, the local authorities and the church imposed certain measures that had to be followed, even though not everyone was happy about it.",
-      "tag": "analysis"
-    },
-    {
       "title": "Health workers at the epicenter of Congo's Ebola outbreak labor with little pay or rest",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701536",
       "pubDate": "Sun, 07 Jun 2026 18:20:00 Z",
       "desc": "MONGBWALU, Congo -- Dr. Richard Lokudu, the medical director of Mongbwalu General Referral Hospital, has received barely any compensation for his work on the front line of one of Congo's deadliest Ebola virus outbreaks.",
+      "tag": "analysis"
+    },
+    {
+      "title": "DRC: Local authorities, church impose certain Ebola restriction measures",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701601",
+      "pubDate": "Sun, 07 Jun 2026 18:20:00 Z",
+      "desc": "Despite the Ebola outbreak in Bunia, in the Democratic Republic of Congo, some families were determined to go ahead with their relatives’ weddings.\nHowever, the local authorities and the church imposed certain measures that had to be followed, even though not everyone was happy about it.",
       "tag": "analysis"
     },
     {
@@ -936,17 +936,17 @@ window.FEED_DATA = {
       "tag": "pheic"
     },
     {
-      "title": "Ebola : le Parlement des jeunes dénonce la désinformation sur la maladie à Beni",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697815",
-      "pubDate": "Sat, 06 Jun 2026 19:50:00 Z",
-      "desc": "Beni, 6 juin 2026 (ACP).- La circulation de nombreuses informations non vérifiées sur la maladie à virus Ebola a été dénoncée à Beni, par le Parlement urbain des jeunes de cette ville du Nord-Kivu, dans l’Est de la République démocratique du Congo (RDC), selon un communiqué parvenu samedi à l’ACP.",
-      "tag": "analysis"
-    },
-    {
       "title": "EARLY RELEASE: Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697833",
       "pubDate": "Sat, 06 Jun 2026 19:50:00 Z",
       "desc": "What is already known about this topic?\nAn outbreak of Bundibugyo virus disease (BVD), a type of Ebola disease, is currently occurring, centered in the Ituri province of the Democratic Republic of the Congo (DRC).",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola : le Parlement des jeunes dénonce la désinformation sur la maladie à Beni",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697815",
+      "pubDate": "Sat, 06 Jun 2026 19:50:00 Z",
+      "desc": "Beni, 6 juin 2026 (ACP).- La circulation de nombreuses informations non vérifiées sur la maladie à virus Ebola a été dénoncée à Beni, par le Parlement urbain des jeunes de cette ville du Nord-Kivu, dans l’Est de la République démocratique du Congo (RDC), selon un communiqué parvenu samedi à l’ACP.",
       "tag": "analysis"
     },
     {
@@ -971,17 +971,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Ebola outbreak: US doctor who contracted the Bundibugyo strain, discharged from Berlin hospital; here's what we know",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698494",
-      "pubDate": "Sat, 06 Jun 2026 19:30:00 Z",
-      "desc": "New Delhi, June 6 -- The US doctor who contracted the Ebola virus while working on a humanitarian mission in the Democratic Republic of the Congo (DRC) has been released from a hospital in Germany after recovering from the potentially deadly disease.\nPeter Stafford was working with the missionary....",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola en Ituri: une université suspend les stages des doctorants en médecine",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697769",
       "pubDate": "Sat, 06 Jun 2026 19:30:00 Z",
       "desc": "Bunia, 6 juin 2026 (ACP).- Le rectorat de l’Université de Bunia (Unibu) a annoncé la suspension jusqu’à nouvel ordre des stages des étudiants de quatrième année de doctorat en médecine, en raison de la maladie à virus Ebola qui prévaut en Ituri(Nord-Est de la République démocratique du Congo), selon....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola outbreak: US doctor who contracted the Bundibugyo strain, discharged from Berlin hospital; here's what we know",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698494",
+      "pubDate": "Sat, 06 Jun 2026 19:30:00 Z",
+      "desc": "New Delhi, June 6 -- The US doctor who contracted the Ebola virus while working on a humanitarian mission in the Democratic Republic of the Congo (DRC) has been released from a hospital in Germany after recovering from the potentially deadly disease.\nPeter Stafford was working with the missionary....",
       "tag": "analysis"
     },
     {
@@ -1265,18 +1265,18 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "La Mauritanie confirme l'absence de cas d'Ebola et renforce ses mesures de prévention",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696029",
-      "pubDate": "Sat, 06 Jun 2026 11:11:00 Z",
-      "desc": "La Cellule nationale de suivi de la situation de l'épidémie d'Ebola a confirmé qu'aucun cas d'infection par la maladie n'a été enregistré parmi les citoyens mauritaniens résidant dans les pays touchés par la propagation du virus.",
-      "tag": "analysis"
-    },
-    {
       "title": "Mistrust of medics drives Ebola patients to traditional healers in DR Congo",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021695971",
       "pubDate": "Sat, 06 Jun 2026 11:11:00 Z",
       "desc": "Traditional healers in the Ituri province have become central to the response to the 17th Ebola outbreak in the Democratic Republic of the Congo (DRC), as community mistrust of health workers continues to hinder containment.",
       "tag": "response"
+    },
+    {
+      "title": "La Mauritanie confirme l'absence de cas d'Ebola et renforce ses mesures de prévention",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696029",
+      "pubDate": "Sat, 06 Jun 2026 11:11:00 Z",
+      "desc": "La Cellule nationale de suivi de la situation de l'épidémie d'Ebola a confirmé qu'aucun cas d'infection par la maladie n'a été enregistré parmi les citoyens mauritaniens résidant dans les pays touchés par la propagation du virus.",
+      "tag": "analysis"
     },
     {
       "title": "Ebola. Ebola: plan de 518 millions de l'OMS et l'Agence de santé africaine",
@@ -1615,18 +1615,18 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "US adds $38 million for Ebola as CDC warns outbreak could match 2014",
-      "link": "https://health.economictimes.indiatimes.com/news/industry/us-adds-38-million-for-ebola-as-cdc-warns-outbreak-could-match-2014/131543075",
-      "pubDate": "Sat, 06 Jun 2026 02:37:00 Z",
-      "desc": "Washington: The United States said on Friday it would provide an additional $38 million for Ebola response efforts, as the CDC warned that without strong public health interventions the outbreak in the Democratic Republic of Congo could match or surpass the 2014-2016 West Africa crisis. The additional funds bring the ‌total committed by ⁠the U.",
-      "tag": "response"
-    },
-    {
       "title": "One of two Sudanese nationals under observation in Hyderabad tests negative for Ebola",
       "link": "https://health.economictimes.indiatimes.com/news/industry/one-of-two-sudanese-nationals-under-observation-in-hyderabad-tests-negative-for-ebola/131543070",
       "pubDate": "Sat, 06 Jun 2026 02:37:00 Z",
       "desc": "Hyderabad: One of the two admitted to the state-run Gandhi Hospital here with complaints of fever tested negative for Ebola, officials said on Friday. The 35-year-old man, who arrived at Rajiv Gandhi International Airport on Thursday, was shifted to the isolation ward of Gandhi Hospital for further....",
       "tag": "analysis"
+    },
+    {
+      "title": "US adds $38 million for Ebola as CDC warns outbreak could match 2014",
+      "link": "https://health.economictimes.indiatimes.com/news/industry/us-adds-38-million-for-ebola-as-cdc-warns-outbreak-could-match-2014/131543075",
+      "pubDate": "Sat, 06 Jun 2026 02:37:00 Z",
+      "desc": "Washington: The United States said on Friday it would provide an additional $38 million for Ebola response efforts, as the CDC warned that without strong public health interventions the outbreak in the Democratic Republic of Congo could match or surpass the 2014-2016 West Africa crisis. The additional funds bring the ‌total committed by ⁠the U.",
+      "tag": "response"
     },
     {
       "title": "W.H.O. CHIEF: EBOLA OUTBREAK IN THE CONGO \"SPREADING RAPIDLY\" HEALTH OFFICIALS: GLOBAL RISK REMAINS LOW",
