@@ -46,7 +46,6 @@ window.FEED_DATA = {
     },
     "provinces": {},
     "uga": {
-      "deaths": 37,
       "mentioned": true,
       "cases": 16
     },
@@ -1830,11 +1829,6 @@ window.FEED_DATA = {
       "cases": {
         "value": 16,
         "asOf": "2026-06-05T19:57:54Z",
-        "source": "WHO / OMS"
-      },
-      "deaths": {
-        "value": 37,
-        "asOf": "2026-06-07T19:26:02Z",
         "source": "WHO / OMS"
       }
     }

@@ -430,6 +430,18 @@ def extract_uga_cases(items):
     return best or None
 
 
+def _in_historical_sentence(text, pos):
+    """Return True if pos falls in a sentence that references a past outbreak year (pre-2026).
+
+    Used to reject figures extracted from historical-context sentences like:
+    "Bundibugyo virus caused an outbreak in Uganda in 2007 with 37 deaths."
+    """
+    before = text.rfind('.', 0, pos)
+    after = text.find('.', pos)
+    sentence = text[before + 1: after if after != -1 else len(text)]
+    return bool(re.search(r'\b20(?:0[5-9]|1[0-9]|2[0-5])\b', sentence))
+
+
 def extract_uga_deaths(items):
     """Extract Uganda-specific death count, requiring explicit Uganda proximity."""
     best = 0
@@ -441,7 +453,9 @@ def extract_uga_deaths(items):
         for pat in [
             r'(\d+)\s+(?:confirmed\s+)?deaths?\s+(?:in|from|reported\s+in)\s+Uganda\b',
             r'(\d+)\s+(?:fatalities|fatality)\s+in\s+Uganda\b',
-            r'Uganda[^.]{0,50}?(\d+)\s+(?:confirmed\s+)?deaths?\b',
+            # Tightened: no intermediate digits allowed between Uganda and the count,
+            # preventing "Uganda with 149 suspected cases and 37 deaths" from matching.
+            r'Uganda[^.\d]{0,25}(\d+)\s+(?:confirmed\s+)?deaths?\b',
             # FR
             r'(\d+)\s+décès\s+(?:en|au)\s+(?:Ouganda|Uganda)\b',
             # ES
@@ -449,6 +463,8 @@ def extract_uga_deaths(items):
         ]:
             m = re.search(pat, text, re.IGNORECASE)
             if m:
+                if _in_historical_sentence(text, m.start()):
+                    continue
                 v = int(m.group(1))
                 if 0 < v < 50 and v > best:
                     best = v
@@ -521,8 +537,8 @@ def compute_stats(items):
     # Provincial breakdown uses all items for the widest possible coverage
     provinces = extract_provincial_breakdown(items)
 
-    uga_cases  = extract_uga_cases(items)
-    uga_deaths = extract_uga_deaths(items)
+    uga_cases  = extract_uga_cases(stat_items)
+    uga_deaths = extract_uga_deaths(stat_items)
     uga_mentioned = any(
         re.search(r'uganda|ouganda|أوغندا', item['title'] + ' ' + item.get('desc', ''), re.IGNORECASE)
         for item in items
