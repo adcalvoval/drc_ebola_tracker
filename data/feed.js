@@ -1,45 +1,41 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 08 Jun 2026 20:21:23 Z",
-  "fetchedAt": "2026-06-08T20:21:23Z",
+  "lastBuildDate": "Mon, 08 Jun 2026 22:29:03 Z",
+  "fetchedAt": "2026-06-08T22:29:04Z",
   "itemCount": 249,
   "stats": {
     "drc": {
       "deaths": 84,
-      "suspected": 500,
-      "confirmed": 500
+      "confirmed": 500,
+      "suspected": 500
     },
     "drcMeta": {
       "deaths": {
         "tier": 3,
         "src": "WHO confirms 471 Ebola cases in Central Africa"
       },
-      "suspected": {
-        "tier": 3,
-        "src": "Près de 500 cas d’Ebola confirmés en Afrique"
-      },
       "confirmed": {
         "tier": 3,
         "src": "À retenir ce soir : rassemblement pour Lyhanna, mort de Bernadette Chirac, ebola"
+      },
+      "suspected": {
+        "tier": 3,
+        "src": "Près de 500 cas d’Ebola confirmés en Afrique"
       }
     },
     "drcTiers": {
       "who": {
         "deaths": 84,
-        "suspected": 500,
-        "confirmed": 500
-      },
-      "moh": {
-        "deaths": 63,
-        "confirmed": 381
+        "confirmed": 500,
+        "suspected": 500
       },
       "cdc": {
         "deaths": 62
       },
       "media": {
-        "deaths": 86,
+        "deaths": 101,
+        "confirmed": 550,
         "suspected": 20000,
-        "confirmed": 500,
         "confirmed_deaths": 233
       }
     },
@@ -53,6 +49,20 @@ window.FEED_DATA = {
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Le point sur l'épidémie de maladie à virus Ebola causée par le virus Bundibugyo Patrick GEROME - 08/06/2026 Lire plus➟",
+      "link": "https://www.mesvaccins.net/web/news/24174-le-point-sur-l-epidemie-de-maladie-a-virus-ebola-causee-par-le-virus-bundibugyo",
+      "pubDate": "Mon, 08 Jun 2026 21:10:00 Z",
+      "desc": "République démocratique du Congo. Dans son dernier bilan publié ce jour 8 juin 2026, la fait état de 550 cas confirmés dont 101 décès (18,4%). La province d' Ituri est l'épicentre de l'épidémie avec 518 cas (94,2% des cas) signalés dans 17 zones de santé : Aru, Aungba, Bambu, Damas, Bunia, Gety,....",
+      "tag": "cases"
+    },
+    {
+      "title": "Ebola: le chef de l'OMS loue la stratégie de l'Ouganda, deuxième pays touché après la RDC",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021709102",
+      "pubDate": "Mon, 08 Jun 2026 20:25:00 Z",
+      "desc": "Le directeur général de l'Organisation mondiale de la santé (OMS) a loué lundi la stratégie de l'Ouganda contre la maladie Ebola, le pays ayant recensé 19 cas confirmés, dont deux décès, dus à une épidémie qui s'est propagée depuis la République démocratique du Congo voisine (RDC).",
+      "tag": "cases"
+    },
     {
       "title": "5 juin 2026 Communiqué commun Les CDC-Afrique et l’OMS lancent un plan commun de riposte à la maladie d’Ebola pour le continent africain",
       "link": "https://www.who.int/fr/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan",
@@ -362,17 +372,17 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "A Beni, les confessions religieuses s’engagent dans la prévention d’Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701521",
-      "pubDate": "Sun, 07 Jun 2026 19:16:00 Z",
-      "desc": "Les communautés chrétiennes et musulmanes de la ville de Beni, au Nord-Kivu, s’engagent activement dans la lutte contre la maladie à virus Ebola. Face à la menace persistante de cette épidémie qui touche la ville, plusieurs églises ont mis ...",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola en RDC : à Bunia, l'épidémie bouleverse l'organisation des mariages",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701531",
       "pubDate": "Sun, 07 Jun 2026 19:16:00 Z",
       "desc": "L’épidémie d'Ebola qui sévit actuellement en République démocratique du Congo s’invite jusque dans l’organisation des mariages.\nÀ Bunia, capitale de la province d'Ituri, l'épicentre de l’épidémie, les autorités locales et l’Église ont imposé...",
+      "tag": "analysis"
+    },
+    {
+      "title": "A Beni, les confessions religieuses s’engagent dans la prévention d’Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701521",
+      "pubDate": "Sun, 07 Jun 2026 19:16:00 Z",
+      "desc": "Les communautés chrétiennes et musulmanes de la ville de Beni, au Nord-Kivu, s’engagent activement dans la lutte contre la maladie à virus Ebola. Face à la menace persistante de cette épidémie qui touche la ville, plusieurs églises ont mis ...",
       "tag": "analysis"
     },
     {
@@ -390,18 +400,18 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026 | MMWR",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702769",
-      "pubDate": "Sun, 07 Jun 2026 18:40:00 Z",
-      "desc": "Eric Q. Mooring, ScD1,2; William T. Koval, PhD1; Isobel Routledge, PhD3; Inga Holmdahl, PhD4; Guido España, PhD1; Rebecca Kahn, PhD4; Beau B. Bruce, MD, PhD1 (View author affiliations)\nView suggested citation\nSummary\nWhat is already known about this topic?\nAn outbreak of Bundibugyo virus disease....",
-      "tag": "analysis"
-    },
-    {
       "title": "Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus — Democratic Republic of the Congo and Uganda, May 2026 | MMWR",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702770",
       "pubDate": "Sun, 07 Jun 2026 18:40:00 Z",
       "desc": "Bundibugyo virus disease (BVD) is a type of Ebola disease, a severe and often fatal viral hemorrhagic fever (1). Bundibugyo virus was first identified in 2007, when it caused an outbreak in Uganda with 149 suspected cases and 37 deaths (2). A 2012 BVD outbreak in DRC resulted in 56 laboratory-confirmed cases and 17 deaths (3).",
       "tag": "cases"
+    },
+    {
+      "title": "Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026 | MMWR",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702769",
+      "pubDate": "Sun, 07 Jun 2026 18:40:00 Z",
+      "desc": "Eric Q. Mooring, ScD1,2; William T. Koval, PhD1; Isobel Routledge, PhD3; Inga Holmdahl, PhD4; Guido España, PhD1; Rebecca Kahn, PhD4; Beau B. Bruce, MD, PhD1 (View author affiliations)\nView suggested citation\nSummary\nWhat is already known about this topic?\nAn outbreak of Bundibugyo virus disease....",
+      "tag": "analysis"
     },
     {
       "title": "Ebola : Hadja Lahbib en RDC pour soutenir la lutte contre le virus Ebola",
@@ -453,17 +463,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Health workers at the epicenter of Congo's Ebola outbreak labor with little pay or rest",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701536",
-      "pubDate": "Sun, 07 Jun 2026 18:20:00 Z",
-      "desc": "MONGBWALU, Congo -- Dr. Richard Lokudu, the medical director of Mongbwalu General Referral Hospital, has received barely any compensation for his work on the front line of one of Congo's deadliest Ebola virus outbreaks.",
-      "tag": "analysis"
-    },
-    {
       "title": "DRC: Local authorities, church impose certain Ebola restriction measures",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701601",
       "pubDate": "Sun, 07 Jun 2026 18:20:00 Z",
       "desc": "Despite the Ebola outbreak in Bunia, in the Democratic Republic of Congo, some families were determined to go ahead with their relatives’ weddings.\nHowever, the local authorities and the church imposed certain measures that had to be followed, even though not everyone was happy about it.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Health workers at the epicenter of Congo's Ebola outbreak labor with little pay or rest",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701536",
+      "pubDate": "Sun, 07 Jun 2026 18:20:00 Z",
+      "desc": "MONGBWALU, Congo -- Dr. Richard Lokudu, the medical director of Mongbwalu General Referral Hospital, has received barely any compensation for his work on the front line of one of Congo's deadliest Ebola virus outbreaks.",
       "tag": "analysis"
     },
     {
@@ -859,18 +869,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Infant revived after suspected overdose in Eddington",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021699622",
-      "pubDate": "Sat, 06 Jun 2026 23:50:00 Z",
-      "desc": "An infant survived what may have been an overdose over the weekend in Eddington.\nJust before 2:30 p.m. on Sunday, a 911 call came in reporting an infant in cardiac arrest at a home on Clewleyville Road, the Penobscot County Sheriff’s Office said in a news release, Thursday.",
-      "tag": "cases"
-    },
-    {
       "title": "À retenir ce soir : rassemblement pour Lyhanna, mort de Bernadette Chirac, ebola en Afrique centrale, flottille pour Gaza et Andreeva remporte Roland-Garros",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698585",
       "pubDate": "Sat, 06 Jun 2026 23:50:00 Z",
       "desc": "BONSOIR LA RÉUNION - À la une de ce samedi soir 6 juin 2026 :- Mort de Lyhanna : une mobilisation citoyenne organisée ce lundi à Saint-Denis - Bernadette Chirac est morte à l'âge de 93 ans - Ebola: près de 500 cas confirmés en Afrique centrale, selon l'OMS - \"Flottille pour Gaza\" : la justice....",
       "tag": "analysis"
+    },
+    {
+      "title": "Infant revived after suspected overdose in Eddington",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021699622",
+      "pubDate": "Sat, 06 Jun 2026 23:50:00 Z",
+      "desc": "An infant survived what may have been an overdose over the weekend in Eddington.\nJust before 2:30 p.m. on Sunday, a 911 call came in reporting an infant in cardiac arrest at a home on Clewleyville Road, the Penobscot County Sheriff’s Office said in a news release, Thursday.",
+      "tag": "cases"
     },
     {
       "title": "Robust Ebola prevention measures in place – PM Nsengiyumva",
@@ -929,17 +939,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Suspectés d’Ebola, cinq détenus de la prison de Bunia testés négatifs",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698136",
-      "pubDate": "Sat, 06 Jun 2026 21:51:00 Z",
-      "desc": "Les cinq détenus de la prison centrale de Bunia (Ituri) initialement suspectés d’Ebola ont été déclarés négatifs ce vendredi 5 juin, après analyses de laboratoire, selon les autorités sanitaires et pénitentiaires.",
-      "tag": "analysis"
-    },
-    {
       "title": "Enhanced Ebola screening for some incoming flights",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698160",
       "pubDate": "Sat, 06 Jun 2026 21:51:00 Z",
       "desc": "(CNS): While local health officials continue to rate the current risk of the Ebola virus reaching the Cayman Islands as low, enhanced screening measures for selected incoming flights at Owen Roberts International Airport will begin next ...",
+      "tag": "analysis"
+    },
+    {
+      "title": "Suspectés d’Ebola, cinq détenus de la prison de Bunia testés négatifs",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698136",
+      "pubDate": "Sat, 06 Jun 2026 21:51:00 Z",
+      "desc": "Les cinq détenus de la prison centrale de Bunia (Ituri) initialement suspectés d’Ebola ont été déclarés négatifs ce vendredi 5 juin, après analyses de laboratoire, selon les autorités sanitaires et pénitentiaires.",
       "tag": "analysis"
     },
     {
@@ -1041,17 +1051,17 @@ window.FEED_DATA = {
       "tag": "pheic"
     },
     {
-      "title": "EARLY RELEASE: Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697833",
-      "pubDate": "Sat, 06 Jun 2026 19:50:00 Z",
-      "desc": "What is already known about this topic?\nAn outbreak of Bundibugyo virus disease (BVD), a type of Ebola disease, is currently occurring, centered in the Ituri province of the Democratic Republic of the Congo (DRC).",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola : le Parlement des jeunes dénonce la désinformation sur la maladie à Beni",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697815",
       "pubDate": "Sat, 06 Jun 2026 19:50:00 Z",
       "desc": "Beni, 6 juin 2026 (ACP).- La circulation de nombreuses informations non vérifiées sur la maladie à virus Ebola a été dénoncée à Beni, par le Parlement urbain des jeunes de cette ville du Nord-Kivu, dans l’Est de la République démocratique du Congo (RDC), selon un communiqué parvenu samedi à l’ACP.",
+      "tag": "analysis"
+    },
+    {
+      "title": "EARLY RELEASE: Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697833",
+      "pubDate": "Sat, 06 Jun 2026 19:50:00 Z",
+      "desc": "What is already known about this topic?\nAn outbreak of Bundibugyo virus disease (BVD), a type of Ebola disease, is currently occurring, centered in the Ituri province of the Democratic Republic of the Congo (DRC).",
       "tag": "analysis"
     },
     {
@@ -1076,17 +1086,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Ebola en Ituri: une université suspend les stages des doctorants en médecine",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697769",
-      "pubDate": "Sat, 06 Jun 2026 19:30:00 Z",
-      "desc": "Bunia, 6 juin 2026 (ACP).- Le rectorat de l’Université de Bunia (Unibu) a annoncé la suspension jusqu’à nouvel ordre des stages des étudiants de quatrième année de doctorat en médecine, en raison de la maladie à virus Ebola qui prévaut en Ituri(Nord-Est de la République démocratique du Congo), selon....",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola outbreak: US doctor who contracted the Bundibugyo strain, discharged from Berlin hospital; here's what we know",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698494",
       "pubDate": "Sat, 06 Jun 2026 19:30:00 Z",
       "desc": "New Delhi, June 6 -- The US doctor who contracted the Ebola virus while working on a humanitarian mission in the Democratic Republic of the Congo (DRC) has been released from a hospital in Germany after recovering from the potentially deadly disease.\nPeter Stafford was working with the missionary....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en Ituri: une université suspend les stages des doctorants en médecine",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697769",
+      "pubDate": "Sat, 06 Jun 2026 19:30:00 Z",
+      "desc": "Bunia, 6 juin 2026 (ACP).- Le rectorat de l’Université de Bunia (Unibu) a annoncé la suspension jusqu’à nouvel ordre des stages des étudiants de quatrième année de doctorat en médecine, en raison de la maladie à virus Ebola qui prévaut en Ituri(Nord-Est de la République démocratique du Congo), selon....",
       "tag": "analysis"
     },
     {
@@ -1209,13 +1219,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Second Sudanese national admitted to Hyderabad hospital also tests negative for Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698035",
-      "pubDate": "Sat, 06 Jun 2026 16:40:00 Z",
-      "desc": "Hyderabad, Jun 6 (PTI) The second of two Sudanese nationals admitted to the state-run Gandhi Hospital here with complaints of fever also tested negative for Ebola, officials said on Saturday.\nThe student in his 20s, was referred to hospital on the evening of June 4 from a private healthcare facility in the city.",
-      "tag": "analysis"
-    },
-    {
       "title": "Bungoma sets up three Ebola quarantine centres, intensifies border surveillance",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698040",
       "pubDate": "Sat, 06 Jun 2026 16:40:00 Z",
@@ -1223,11 +1226,11 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "RDC : l’épidémie d’Ebola a « pris une bonne longueur d’avance », alerte l’OMS",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697097",
-      "pubDate": "Sat, 06 Jun 2026 16:30:00 Z",
-      "desc": "Le Directeur général de l’Organisation mondiale de la Santé (OMS), Tedros Adhanom Ghebreyesus, a tiré la sonnette d’alarme ce mercredi 3 juin concernant l’épidémie d’Ebola qui sévit en République démocratique du Congo (RDC).\n« Cette épidémie d’Ebola a pris une bonne longueur d’avance et nous sommes....",
-      "tag": "response"
+      "title": "Second Sudanese national admitted to Hyderabad hospital also tests negative for Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698035",
+      "pubDate": "Sat, 06 Jun 2026 16:40:00 Z",
+      "desc": "Hyderabad, Jun 6 (PTI) The second of two Sudanese nationals admitted to the state-run Gandhi Hospital here with complaints of fever also tested negative for Ebola, officials said on Saturday.\nThe student in his 20s, was referred to hospital on the evening of June 4 from a private healthcare facility in the city.",
+      "tag": "analysis"
     },
     {
       "title": "US public health agency warns latest Ebola outbreak could become largest on record",
@@ -1235,6 +1238,13 @@ window.FEED_DATA = {
       "pubDate": "Sat, 06 Jun 2026 16:30:00 Z",
       "desc": "The World Health Organisation says the outbreak is 'moving fast'.\nWorld Health Organisation officials are warning the current Ebola outgreak could swell to be largest on record.",
       "tag": "analysis"
+    },
+    {
+      "title": "RDC : l’épidémie d’Ebola a « pris une bonne longueur d’avance », alerte l’OMS",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697097",
+      "pubDate": "Sat, 06 Jun 2026 16:30:00 Z",
+      "desc": "Le Directeur général de l’Organisation mondiale de la Santé (OMS), Tedros Adhanom Ghebreyesus, a tiré la sonnette d’alarme ce mercredi 3 juin concernant l’épidémie d’Ebola qui sévit en République démocratique du Congo (RDC).\n« Cette épidémie d’Ebola a pris une bonne longueur d’avance et nous sommes....",
+      "tag": "response"
     },
     {
       "title": "1ST LEAD US doctor treated for Ebola discharged from Berlin hospital By Kristin Palitza and Stefan Kruse, dpa",
@@ -1503,18 +1513,18 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Flu cases on the rise in Hong Kong as immunity wanes, expert warns",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696361",
-      "pubDate": "Sat, 06 Jun 2026 08:31:00 Z",
-      "desc": "Steady rise in cases, especially among children and the elderly, prompts experts to urge vaccination and better hygiene to curb spread\nHong Kong is experiencing a rise in seasonal influenza cases, particularly among children and the elderly, as waning vaccine protection weakens community immunity, a leading infectious disease expert has warned.",
-      "tag": "cases"
-    },
-    {
       "title": "Maurice renforce les restrictions d'entrée face au risque lié à l'épidémie d'Ebola",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021695156",
       "pubDate": "Sat, 06 Jun 2026 08:31:00 Z",
       "desc": "PORT-LOUIS, 5 juin (Xinhua) -- Le gouvernement mauricien a décidé d'interdire temporairement l'entrée sur son territoire aux ressortissants étrangers ayant séjourné ou transité au cours des 21 derniers jours en République démocratique du Congo (RDC), en Ouganda ou au Soudan du Sud, selon les décisions du Conseil des ministres publiées vendredi.",
       "tag": "analysis"
+    },
+    {
+      "title": "Flu cases on the rise in Hong Kong as immunity wanes, expert warns",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696361",
+      "pubDate": "Sat, 06 Jun 2026 08:31:00 Z",
+      "desc": "Steady rise in cases, especially among children and the elderly, prompts experts to urge vaccination and better hygiene to curb spread\nHong Kong is experiencing a rise in seasonal influenza cases, particularly among children and the elderly, as waning vaccine protection weakens community immunity, a leading infectious disease expert has warned.",
+      "tag": "cases"
     },
     {
       "title": "Legionnaires' disease was discovered 50 years ago. Here's what experts say we've learned since then",
@@ -1587,18 +1597,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Three Ebola quarantine centres set up in Bungoma",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696031",
-      "pubDate": "Sat, 06 Jun 2026 07:06:00 Z",
-      "desc": "The Department of Health in Bungoma County has set up Ebola isolation and quarantine centres in three health facilities as a preparedness measure aimed at preventing a possible outbreak of the deadly viral disease in the area.\nThe facilities include the Bungoma County Referral Hospital (BCRH),....",
-      "tag": "response"
-    },
-    {
       "title": "\"Three returnees from Ebola-hit African countries quarantined in Durg\": Chhattisgarh Health Minister",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696045",
       "pubDate": "Sat, 06 Jun 2026 07:06:00 Z",
       "desc": "Raipur, June 6 -- Amidst the recent surge in Ebola virus cases in several parts of Africa, Chhattisgarh Health Minister Shyam Bihari Jaiswal on Saturday said the state is \"fully prepared to handle any potential virus infection\", while also announcing a new public grievance helpline under the Chief Minister's office.",
       "tag": "cases"
+    },
+    {
+      "title": "Three Ebola quarantine centres set up in Bungoma",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696031",
+      "pubDate": "Sat, 06 Jun 2026 07:06:00 Z",
+      "desc": "The Department of Health in Bungoma County has set up Ebola isolation and quarantine centres in three health facilities as a preparedness measure aimed at preventing a possible outbreak of the deadly viral disease in the area.\nThe facilities include the Bungoma County Referral Hospital (BCRH),....",
+      "tag": "response"
     },
     {
       "title": "War, fear, disease hamper Ebola response in DRC",
@@ -1622,18 +1632,18 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Hyderabad Ebola alert: Second Sudanese traveller admitted to hospital isolation ward",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021695913",
-      "pubDate": "Sat, 06 Jun 2026 06:36:00 Z",
-      "desc": "HYDERABAD: A second Sudanese national arriving in Hyderabad from Uganda was admitted to the Ebola isolation ward at Gandhi Hospital in the early hours of Friday, taking the number of individuals currently under observation to two.\nAccording to the Airport Public Health Officer (APHO), the....",
-      "tag": "response"
-    },
-    {
       "title": "Congo outbreak could rival the largest Ebola epidemic on record, CDC warns",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021695917",
       "pubDate": "Sat, 06 Jun 2026 06:36:00 Z",
       "desc": "The Ebola outbreak spreading through the Democratic Republic of Congo and Uganda could become more devastating than the largest Ebola epidemic in history unless efforts to contain it improve, according to modeling released Friday by the Centers for Disease Control and Prevention.",
       "tag": "analysis"
+    },
+    {
+      "title": "Hyderabad Ebola alert: Second Sudanese traveller admitted to hospital isolation ward",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021695913",
+      "pubDate": "Sat, 06 Jun 2026 06:36:00 Z",
+      "desc": "HYDERABAD: A second Sudanese national arriving in Hyderabad from Uganda was admitted to the Ebola isolation ward at Gandhi Hospital in the early hours of Friday, taking the number of individuals currently under observation to two.\nAccording to the Airport Public Health Officer (APHO), the....",
+      "tag": "response"
     },
     {
       "title": "Ebola : Maurice renforce ses mesures sanitaires et impose des restrictions aux voyageurs en provenance de trois pays africains",
@@ -1781,20 +1791,6 @@ window.FEED_DATA = {
       "pubDate": "Sat, 06 Jun 2026 02:01:00 Z",
       "desc": "TIB MOLBIOL developed the test using its \"rapid response\" library, with 15,000 designs and 3,000 controls.\nThe Bundibugyo virus is a rare Ebola species. Credit: QINQIE99 / Shutterstock.com.",
       "tag": "response"
-    },
-    {
-      "title": "Ebola en RDC : 381 cas confirmés et 63 décès, selon les autorités",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021694097",
-      "pubDate": "Sat, 06 Jun 2026 01:51:00 Z",
-      "desc": "Un total de 381 cas confirmés d’Ebola et 63 décès ont été enregistrés en République démocratique du Congo (RDC) depuis le lancement des opérations de dépistage et de surveillance, a indiqué jeudi le ministre de la Santé, Samuel-Roger Kamba.",
-      "tag": "cases"
-    },
-    {
-      "title": "Lung Diseases and Conditions - Pneumonia; Study Findings from Brooklyn Hospital Center Advance Knowledge in Pneumonia (An Unusual Case of Lipoid Pneumonia in an Elderly Female)",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021694030",
-      "pubDate": "Sat, 06 Jun 2026 01:41:00 Z",
-      "desc": "2026 JUN 5 (NewsRx) -- By a News Reporter-Staff News Editor at Drug Week -- Investigators discuss new findings in pneumonia. According to news reporting originating from Brooklyn, New York, by NewsRx correspondents, research stated, \"This case presents Lipoid Pneumonia, a rare form of lung disease....",
-      "tag": "analysis"
     }
   ],
   "highWater": {
