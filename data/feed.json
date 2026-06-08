@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 07 Jun 2026 22:05:26 Z",
-  "fetchedAt": "2026-06-07T22:05:26Z",
+  "lastBuildDate": "Mon, 08 Jun 2026 04:13:43 Z",
+  "fetchedAt": "2026-06-08T04:13:43Z",
   "itemCount": 249,
   "stats": {
     "drc": {
@@ -38,8 +38,8 @@
         "deaths": 62
       },
       "media": {
-        "deaths": 86,
         "suspected": 20000,
+        "deaths": 86,
         "confirmed": 500,
         "confirmed_deaths": 233
       }
@@ -54,6 +54,55 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Opinion - La flambée d’Ebola n’est pas un hasard",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021704365",
+      "pubDate": "Mon, 08 Jun 2026 03:30:00 Z",
+      "desc": "Elle est le résultat des coupes dans la solidarité internationale et de choix politiques. Ce qui se joue en RDC est un signal d’alarme.\nCe qui se joue aujourd’hui en République démocratique du Congo n’est pas une crise sanitaire isolée. C’est un signal d’alarme.",
+      "tag": "analysis"
+    },
+    {
+      "title": "ÉCONOMIE | 18e US-Africa Business Summit – Ebola joue les trouble-fêtes pour le rendez-vous de Maurice",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021704134",
+      "pubDate": "Mon, 08 Jun 2026 02:25:00 Z",
+      "desc": "Le sommet du 26 au 29 juillet devant attirer quelque 2500 participants d’Afrique et des États-Unis reporté Sine Die\nL’effrayant virus, avec des risques de contamination à la fièvre hémorragique Ebola, même si aucun cas avéré n’a été détecté à Maurice, a fait une première victime collatérale.",
+      "tag": "analysis"
+    },
+    {
+      "title": "WHO calls for global action to contain Ebola outbreak",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021704038",
+      "pubDate": "Mon, 08 Jun 2026 01:30:00 Z",
+      "desc": "Global health leaders have called for strengthened international cooperation to contain the Ebola outbreak in the Democratic Republic of Congo and Uganda and prevent its spread to neighboring countries.\nNearly 500 Ebola cases have now been confirmed in the deadly outbreak raging in central Africa, a....",
+      "tag": "cases"
+    },
+    {
+      "title": "There are now 55 cases of measles in BC; vaccination and surveillance efforts are being stepped up ahead of the 2026 World Cup",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021703745",
+      "pubDate": "Sun, 07 Jun 2026 23:20:00 Z",
+      "desc": "Mexicali, B.C.—Measles cases continue to rise in Baja California, where 55 infections have been confirmed so far in 2026, according to the Daily Report on the Measles Outbreak in Mexico issued by the General Directorate of Epidemiology as of June 5.\nIn the first week of June alone, four new cases....",
+      "tag": "cases"
+    },
+    {
+      "title": "Suspected Ebola case in Jaipur; Ugandan national under observation",
+      "link": "https://zocto.in/suspected-ebola-case-in-jaipur-ugandan-national-under-observation/",
+      "pubDate": "Sun, 07 Jun 2026 22:52:00 Z",
+      "desc": "The woman arrived in Jaipur from Sharjah on Friday morning and was flagged during routine airport screening after showing symptoms consistent with Ebola virus disease. The development prompted health authorities to activate precautionary protocols while laboratory confirmation is awaited.",
+      "tag": "cases"
+    },
+    {
+      "title": "'Do something useful with life': St. Paul native helped found organization in Africa during Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021703716",
+      "pubDate": "Sun, 07 Jun 2026 22:35:00 Z",
+      "desc": "When Colin Dunn and Virginia Price heard about the West Africa Ebola epidemic in 2014, they were in Price's home state of Maine, working on a sailboat.\nDunn, a St. Paul native, remembers the two, both trained paramedics, questioning why they were there and not abroad helping with the outbreak.",
+      "tag": "analysis"
+    },
+    {
+      "title": "PAHO steps up preparedness across Caribbean amid Ebola outbreak in Africa",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021703665",
+      "pubDate": "Sun, 07 Jun 2026 22:30:00 Z",
+      "desc": "WASHINGTON, United States (CMC) – The Pan American Health Organization (PAHO) is intensifying support to countries across the Americas, including the Caribbean, to strengthen preparedness for Ebola.\nThis follows the World Health Organization’s (WHO) declaration of a Public Health Emergency of....",
+      "tag": "pheic"
+    },
     {
       "title": "Region Six prepared to respond to potential flooding impacts",
       "link": "https://dpi.gov.gy/region-six-prepared-to-respond-to-potential-flooding-impacts/",
@@ -167,13 +216,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus — Democratic Republic of the Congo and Uganda, May 2026 | MMWR",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702770",
-      "pubDate": "Sun, 07 Jun 2026 18:40:00 Z",
-      "desc": "Bundibugyo virus disease (BVD) is a type of Ebola disease, a severe and often fatal viral hemorrhagic fever (1). Bundibugyo virus was first identified in 2007, when it caused an outbreak in Uganda with 149 suspected cases and 37 deaths (2). A 2012 BVD outbreak in DRC resulted in 56 laboratory-confirmed cases and 17 deaths (3).",
-      "tag": "cases"
-    },
-    {
       "title": "Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026 | MMWR",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702769",
       "pubDate": "Sun, 07 Jun 2026 18:40:00 Z",
@@ -181,17 +223,24 @@
       "tag": "analysis"
     },
     {
-      "title": "Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026 | MMWR",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702768",
+      "title": "Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus — Democratic Republic of the Congo and Uganda, May 2026 | MMWR",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702770",
       "pubDate": "Sun, 07 Jun 2026 18:40:00 Z",
-      "desc": "Danielle M. Richard, MPH1,*; Isobel Routledge, PhD2,*; Sarah Koeller, MPH1; Isaac Ghinai, MBBS1; Christopher H. Hsu, MD, PhD3; Kevin Chatham-Stephens, MD3; Beau B. Bruce, MD, PhD4; Rebecca Kahn, PhD1; Inga Holmdahl, PhD1 (View author affiliations)\nView suggested citation\nSummary\nWhat is already....",
-      "tag": "analysis"
+      "desc": "Bundibugyo virus disease (BVD) is a type of Ebola disease, a severe and often fatal viral hemorrhagic fever (1). Bundibugyo virus was first identified in 2007, when it caused an outbreak in Uganda with 149 suspected cases and 37 deaths (2). A 2012 BVD outbreak in DRC resulted in 56 laboratory-confirmed cases and 17 deaths (3).",
+      "tag": "cases"
     },
     {
       "title": "Ebola : Hadja Lahbib en RDC pour soutenir la lutte contre le virus Ebola",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702748",
       "pubDate": "Sun, 07 Jun 2026 18:40:00 Z",
       "desc": "La commissaire européenne en charge de la gestion des crises, Hadja Lahbib, se rendra dimanche à Bunia, en République démocratique du Congo (RDC), où une épidémie d'Ebola s'est déclarée. L'Union européenne apporte son soutien financier, matériel et technique au pays dans la lutte contre le virus.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026 | MMWR",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702768",
+      "pubDate": "Sun, 07 Jun 2026 18:40:00 Z",
+      "desc": "Danielle M. Richard, MPH1,*; Isobel Routledge, PhD2,*; Sarah Koeller, MPH1; Isaac Ghinai, MBBS1; Christopher H. Hsu, MD, PhD3; Kevin Chatham-Stephens, MD3; Beau B. Bruce, MD, PhD4; Rebecca Kahn, PhD1; Inga Holmdahl, PhD1 (View author affiliations)\nView suggested citation\nSummary\nWhat is already....",
       "tag": "analysis"
     },
     {
@@ -1746,55 +1795,6 @@
       "link": "https://health.economictimes.indiatimes.com/news/industry/who-announces-518-million-six-month-plan-to-fight-ebola/131540554",
       "pubDate": "Fri, 05 Jun 2026 21:00:00 Z",
       "desc": "Nairobi: The World Health Organization chief announced a $518 million six-month ​joint plan to fight ​Ebola on Friday, calling for money and political commitment ​to halt the spread of the outbreak that is already the fourth biggest on record. \"It's time-bound plan covering June to November this year, and .",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola en RDC et en Ouganda : la Guinée active son dispositif de veille sanitaire",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021692692",
-      "pubDate": "Fri, 05 Jun 2026 21:00:00 Z",
-      "desc": "Face à l’épidémie de maladie à virus Ebola qui sévit actuellement en République démocratique du Congo et en Ouganda, la Guinée a renforcé son dispositif de surveillance sanitaire afin de prévenir toute introduction du virus sur son territoire. Les autorités sanitaires ont annoncé une série de mesures préventives destinées à faire face à ce risque.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Congo criticises Spain after Chile friendly cancelled over Ebola concerns",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021692657",
-      "pubDate": "Fri, 05 Jun 2026 20:55:00 Z",
-      "desc": "Madrid, June 5 (IANS) The Democratic Republic of Congo has condemned a decision by Spanish authorities to cancel its pre-World Cup friendly against Chile on June 9 due to the ongoing Ebola outbreak in the African nation.\nThe match was scheduled to be played in La Linea de la Concepcion in southern....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola: vaccines alone won’t stop an outbreak – here’s what else is needed",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021692140",
-      "pubDate": "Fri, 05 Jun 2026 20:46:00 Z",
-      "desc": "Charlie Firth, University of Oxford\nTensions have recently emerged around the Ebola response in eastern Democratic Republic of the Congo (DRC). These tensions have manifested in a series of incidents, including the burning of an Ebola treatment facility in Mongbwalu, confrontations involving....",
-      "tag": "response"
-    },
-    {
-      "title": "NCDC Warns Of High Risk Of Ebola Importation Into Nigeria Amid Fresh Outbreaks in East Africa",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021692598",
-      "pubDate": "Fri, 05 Jun 2026 20:45:00 Z",
-      "desc": "Although Nigeria is yet to record any confirmed case of the deadly virus, the NCDC has ramped up nationwide surveillance and other preventive strategies to block importation and potential local transmission.",
-      "tag": "cases"
-    },
-    {
-      "title": "EU health ministers coordinate response as Ebola outbreak",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021692417",
-      "pubDate": "Fri, 05 Jun 2026 20:41:00 Z",
-      "desc": "Brussels, 5 June 2026\nEU health ministers took part in an informal video conference to discuss the recent outbreak of Ebola Bundibugyo Virus (BVD) in Central Africa.\nToday’s meeting highlighted the value of European solidarity in the face of public health emergencies.",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola : Des experts de la santé appellent à une trêve humanitaire pour lutter contre Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021692568",
-      "pubDate": "Fri, 05 Jun 2026 20:41:00 Z",
-      "desc": "Un groupe d'experts de la santé, parmi lesquels le microbiologiste Emmanuel André (KU Leuven) et l'infectiologue Erika Vlieghe (UZ Antwerpen), appelle vendredi à une trêve humanitaire temporaire afin de lutter contre l'épidémie d'Ebola dans l'est de la République démocratique du Congo (RDC).",
-      "tag": "analysis"
-    },
-    {
-      "title": "PM Calls for Compliance With Ebola Prevention Guidelines",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021692422",
-      "pubDate": "Fri, 05 Jun 2026 20:41:00 Z",
-      "desc": "PRIME Minister Dr Mwigulu Nchemba yesterday urged the public to continue heeding advice from health experts and follow official guidelines regarding the Ebola outbreak reported in some neighbouring countries.\nHe assured Tanzanians that the country remains free of the disease and that the government....",
       "tag": "analysis"
     }
   ],
