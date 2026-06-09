@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 09 Jun 2026 09:50:27 Z",
-  "fetchedAt": "2026-06-09T09:50:27Z",
+  "lastBuildDate": "Tue, 09 Jun 2026 14:56:15 Z",
+  "fetchedAt": "2026-06-09T14:56:15Z",
   "itemCount": 249,
   "stats": {
     "drc": {
@@ -34,9 +34,9 @@ window.FEED_DATA = {
         "confirmed": 515
       },
       "media": {
-        "deaths": 101,
         "confirmed": 550,
         "suspected": 20000,
+        "deaths": 101,
         "confirmed_deaths": 63
       }
     },
@@ -50,6 +50,41 @@ window.FEED_DATA = {
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Un parasite mangeur de chair progresse encore aux États-Unis, malgré des décennies d’éradication",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021715197",
+      "pubDate": "Tue, 09 Jun 2026 14:40:00 Z",
+      "desc": "On compte désormais cinq cas confirmés d’infestation par la mouche parasite New World screwworm chez des animaux aux États-Unis, après le premier foyer signalé la semaine dernière au Texas.\nLes animaux touchés comprennent trois veaux et une chèvre au Texas, ainsi qu’un chien dans l’État voisin du Nouveau-Mexique.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Les habitants de Bunia adaptent leurs habitudes quotidiennes face à la menace d'Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021714140",
+      "pubDate": "Tue, 09 Jun 2026 13:06:00 Z",
+      "desc": "Les habitants de Bunia modifient leurs comportements quotidiens pour se protéger contre l'épidémie de la maladie à virus Ebola. Alors que les autorités sanitaires intensifient les messages de prévention, les habitudes restent contrastées dans le chef-lieu de l'Ituri : si certains usagers déplorent....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Nakivale (Ouganda) : 13 cas suspects d’Ebola isolés dans un camp sous tension - SOS Médias Burundi",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021713897",
+      "pubDate": "Tue, 09 Jun 2026 11:25:00 Z",
+      "desc": "SOS Médias Burundi\nNakivale, 8 juin 2026 – La crainte d’une possible flambée de maladie à virus Ebola s’installe dans le camp de réfugiés de Nakivale, dans le sud-ouest de l’Ouganda, après la mise en quarantaine de treize cas suspects. Les autorités sanitaires suivent de près l’évolution de leur....",
+      "tag": "cases"
+    },
+    {
+      "title": "Ebola : Le CDC américain redoute 20 000 cas en trois mois",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021714019",
+      "pubDate": "Tue, 09 Jun 2026 10:55:00 Z",
+      "desc": "L’agence de santé américaine indique que l’ampleur de l’épidémie actuelle dépendra de la capacité des services de santé locaux à identifier et isoler les malades rapidement.\nDepuis un mois, le nord-est de la République démocratique du Congo (RDC) est en proie à une épidémie de fièvre à virus Ebola, qui touche également l’Ouganda voisin.",
+      "tag": "analysis"
+    },
+    {
+      "title": "La confiance envers le système de santéau cœur des écarts de mortalité",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021712642",
+      "pubDate": "Tue, 09 Jun 2026 10:06:00 Z",
+      "desc": "Genève ville-monde Les dirigeants des HUG et de l’OMS dressent un bilan sans fard de l’après-Covid. Désinformation, coupes américaines et vieillissement de la population menacent l’équilibre du système.\nCovid, hantavirus, Ebola: la santé est un des thèmes où dimensions locales et internationales se mêlent.",
+      "tag": "analysis"
+    },
     {
       "title": "«On voit avec Ebola combien un contexte de fragilité ou de conflit empêche de...",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021712560",
@@ -331,17 +366,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "L’Union européenne renforce son soutien à la riposte avec une nouvelle contribution de 5 millions d’euros.",
-      "link": "https://insp.cd/lunion-europeenne-renforce-son-soutien-a-la-riposte-avec-une-nouvelle-contribution-de-5-millions-deuros/",
-      "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
-      "desc": "juin 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, le 07 juin 2026. En visite de travail dans la province de l’Ituri, Mme Hadja Lahbib, Commissaire européenne chargée de l’Égalité, de la Préparation et de la Gestion des crises, a ré",
-      "tag": "analysis"
-    },
-    {
       "title": "Quand les rumeurs se propagent plus vite qu’Ebola",
       "link": "https://doi.org/10.1038/d44148-026-00150-8",
       "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1038/d44148-026-00150-8\nAuthors: Esther Nakkazi, Di Caelers",
+      "tag": "analysis"
+    },
+    {
+      "title": "L’Union européenne renforce son soutien à la riposte avec une nouvelle contribution de 5 millions d’euros.",
+      "link": "https://insp.cd/lunion-europeenne-renforce-son-soutien-a-la-riposte-avec-une-nouvelle-contribution-de-5-millions-deuros/",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
+      "desc": "juin 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, le 07 juin 2026. En visite de travail dans la province de l’Ituri, Mme Hadja Lahbib, Commissaire européenne chargée de l’Égalité, de la Préparation et de la Gestion des crises, a ré",
       "tag": "analysis"
     },
     {
@@ -352,18 +387,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "L’occasion manquée lors d’une précédente épidémie d’Ebola",
-      "link": "https://doi.org/10.1038/d44148-026-00148-2",
-      "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/d44148-026-00148-2",
-      "tag": "analysis"
-    },
-    {
       "title": "l’INSP renforce la coordination opérationnelle pour accélérer la riposte sur le terrain.",
       "link": "https://insp.cd/linsp-renforce-la-coordination-operationnelle-pour-accelerer-la-riposte-sur-le-terrain/",
       "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
       "desc": "juin 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, 07 juin 2026. Dans le cadre du renforcement de la réponse à la 17ᵉ épidémie de la maladie à virus Ebola qui sévit dans la province de l’Ituri, l’Institut National de Santé Publique",
       "tag": "response"
+    },
+    {
+      "title": "L’occasion manquée lors d’une précédente épidémie d’Ebola",
+      "link": "https://doi.org/10.1038/d44148-026-00148-2",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/d44148-026-00148-2",
+      "tag": "analysis"
     },
     {
       "title": "There are now 55 cases of measles in BC; vaccination and surveillance efforts are being stepped up ahead of the 2026 World Cup",
@@ -534,18 +569,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Officials are scrambling to understand the scope of the Ebola outbreak",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702685",
-      "pubDate": "Sun, 07 Jun 2026 18:30:00 Z",
-      "desc": "Health officials are still scrambling to understand the scope of the Ebola outbreak in Central Africa. The Democratic Republic of Congo and Uganda have nearly 400 confirmed cases now, just three weeks after the outbreak began, meaning it's ...",
-      "tag": "cases"
-    },
-    {
       "title": "Hanington: Is Ebola the next pandemic?",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702304",
       "pubDate": "Sun, 07 Jun 2026 18:30:00 Z",
       "desc": "Ebola in Africa is making the nightly news this month because larger outbreaks seem to be moving quickly and the rate of mortality is very high. This concerning virus, coming five years later on the heels of the Covid pandemic, conjures up images of masks and equal line spacing marks on grocery....",
       "tag": "analysis"
+    },
+    {
+      "title": "Officials are scrambling to understand the scope of the Ebola outbreak",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702685",
+      "pubDate": "Sun, 07 Jun 2026 18:30:00 Z",
+      "desc": "Health officials are still scrambling to understand the scope of the Ebola outbreak in Central Africa. The Democratic Republic of Congo and Uganda have nearly 400 confirmed cases now, just three weeks after the outbreak began, meaning it's ...",
+      "tag": "cases"
     },
     {
       "title": "Kenya dispatch: High Court suspends US-backed Ebola quarantine facility",
@@ -1178,17 +1213,17 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Opinion: I led the U.S. CDC response to the 2014 Ebola epidemic. The new outbreak needs massive, immediate, meticulous action",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698563",
-      "pubDate": "Sat, 06 Jun 2026 19:40:00 Z",
-      "desc": "By the time the world began responding to the West Africa epidemic in 2014, which killed more than 11,000 people before it ended in 2016, there were 40 to 50 suspected cases.\nThe current outbreak in the Democratic Republic of the Congo had approximately 10 times that number by the time the response started.",
-      "tag": "cases"
-    },
-    {
       "title": "Both Suspected Ebola Cases at Gandhi Hospital Test Negative",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698558",
       "pubDate": "Sat, 06 Jun 2026 19:40:00 Z",
       "desc": "Health minister Damodar Rajanarasimha said that tests conducted by the CSIR-centre for cellular and molecular biology, under the guidance of the national institute of virology (NIV), Pune, confirmed that both patients were Ebola-negative.\nHyderabad: Both individuals who were admitted to the....",
+      "tag": "cases"
+    },
+    {
+      "title": "Opinion: I led the U.S. CDC response to the 2014 Ebola epidemic. The new outbreak needs massive, immediate, meticulous action",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698563",
+      "pubDate": "Sat, 06 Jun 2026 19:40:00 Z",
+      "desc": "By the time the world began responding to the West Africa epidemic in 2014, which killed more than 11,000 people before it ended in 2016, there were 40 to 50 suspected cases.\nThe current outbreak in the Democratic Republic of the Congo had approximately 10 times that number by the time the response started.",
       "tag": "cases"
     },
     {
@@ -1757,41 +1792,6 @@ window.FEED_DATA = {
       "pubDate": "Sat, 06 Jun 2026 06:31:00 Z",
       "desc": "Face aux flambées actuelles de la maladie à virus Ebola dans certaines régions d'Afrique, le Conseil des ministres a approuvé ce vendredi une série de mesures sanitaires destinées à protéger la population mauricienne et à renforcer la ...",
       "tag": "analysis"
-    },
-    {
-      "title": "Kong Fanyi pointed out that the number of flu cases is rising, but it is uncertain whether the peak has been reached",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021695748",
-      "pubDate": "Sat, 06 Jun 2026 06:11:00 Z",
-      "desc": "Professor Kong Fan-yi, Head of the Department of Infectious Diseases at the Department of Medicine, Faculty of Medicine, University of Hong Kong, said that the number of flu cases in Hong Kong has been on the rise recently, but it is unclear whether the peak has been reached.",
-      "tag": "cases"
-    },
-    {
-      "title": "Ebola: LAWMA Rings Alarm Bell, Tightens Waste Safety Net Across Lagos",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021695676",
-      "pubDate": "Sat, 06 Jun 2026 06:01:00 Z",
-      "desc": "Nigeria, June 5 -- In a statement released on Friday in Lagos, the Managing Director of Lagos Waste Management Authority, Dr Muyiwa Gbadegesin, said the directive is aimed at tightening the bolts of preparedness and ensuring full compliance with infection prevention standards as well as medical waste handling protocols.",
-      "tag": "response"
-    },
-    {
-      "title": "Second Sudanese national isolated amid Ebola scare",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021695590",
-      "pubDate": "Sat, 06 Jun 2026 05:51:00 Z",
-      "desc": "Hyderabad : A second Sudanese national arriving in Hyderabad from Uganda was admitted to the Ebola isolation ward at Gandhi Hospital in the early hours of Friday. This comes a day after another Sudanese national was admitted to the hospital's isolation ward on Thursday after showing Ebola-like symptoms.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola : l'OMS et l'Agence de santé africaine annoncent un plan de 518 millions de dollars, de juin à novembre",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021693542",
-      "pubDate": "Sat, 06 Jun 2026 04:51:00 Z",
-      "desc": "Diplomate français condamné au Mali: Paris récuse à nouveau \"des accusations sans....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Red Alert On Ebola: NCDC Activates Enhanced Border Screening Measures",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021695201",
-      "pubDate": "Sat, 06 Jun 2026 04:36:00 Z",
-      "desc": "Amid fears of a fresh Ebola resurgence in East Africa, the Nigeria Centre for Disease Control and Prevention (NCDC) has activated enhanced border screening and emergency surveillance measures to block the deadly virus from entering the country.Disclosing this at a press briefing in Lagos on Friday,....",
-      "tag": "response"
     }
   ],
   "highWater": {
