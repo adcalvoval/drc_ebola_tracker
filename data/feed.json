@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 09 Jun 2026 17:26:20 Z",
-  "fetchedAt": "2026-06-09T17:26:21Z",
+  "lastBuildDate": "Tue, 09 Jun 2026 20:09:44 Z",
+  "fetchedAt": "2026-06-09T20:09:44Z",
   "itemCount": 249,
   "stats": {
     "drc": {
@@ -36,8 +36,7 @@
       "media": {
         "confirmed": 550,
         "suspected": 20000,
-        "deaths": 101,
-        "confirmed_deaths": 63
+        "deaths": 101
       }
     },
     "provinces": {},
@@ -50,6 +49,20 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Maladies neurodégénératives, maladies inflammatoires chroniques, prévention santé… planifier la recherche pour répondre aux enjeux de demain",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021716632",
+      "pubDate": "Tue, 09 Jun 2026 19:35:00 Z",
+      "desc": "Planifier la recherche médicale s’impose. D’abord, pour faire face aux enjeux majeurs de demain, comme les maladies neurodégénératives ou les maladies inflammatoires chroniques, dont le poids médico-économique va s’alourdir. Ensuite, pour sortir de la logique de réaction permanente face aux crises sanitaires qui se succèdent.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Epidémie d’Ebola : plus d’une centaine de morts au Congo",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021716266",
+      "pubDate": "Tue, 09 Jun 2026 18:30:00 Z",
+      "desc": "L’épidémie d’Ebola qui sévit en République démocratique du Congo (RDC) a déjà fait plus d’une centaine de morts. C’est ce qu’ont annoncé mardi les responsables.\nLes Centres africains pour le contrôle et la prévention des maladies (Africa CDC) ont confirmé que le nombre total de décès dus à Ebola au Congo et en Ouganda est passé à 102.",
+      "tag": "cases"
+    },
     {
       "title": "Un parasite mangeur de chair progresse encore aux États-Unis, malgré des décennies d’éradication",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021715197",
@@ -1777,20 +1790,6 @@
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021695917",
       "pubDate": "Sat, 06 Jun 2026 06:36:00 Z",
       "desc": "The Ebola outbreak spreading through the Democratic Republic of Congo and Uganda could become more devastating than the largest Ebola epidemic in history unless efforts to contain it improve, according to modeling released Friday by the Centers for Disease Control and Prevention.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Hyderabad Ebola alert: Second Sudanese traveller admitted to hospital isolation ward",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021695913",
-      "pubDate": "Sat, 06 Jun 2026 06:36:00 Z",
-      "desc": "HYDERABAD: A second Sudanese national arriving in Hyderabad from Uganda was admitted to the Ebola isolation ward at Gandhi Hospital in the early hours of Friday, taking the number of individuals currently under observation to two.\nAccording to the Airport Public Health Officer (APHO), the....",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola : Maurice renforce ses mesures sanitaires et impose des restrictions aux voyageurs en provenance de trois pays africains",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021694274",
-      "pubDate": "Sat, 06 Jun 2026 06:31:00 Z",
-      "desc": "Face aux flambées actuelles de la maladie à virus Ebola dans certaines régions d'Afrique, le Conseil des ministres a approuvé ce vendredi une série de mesures sanitaires destinées à protéger la population mauricienne et à renforcer la ...",
       "tag": "analysis"
     }
   ],
