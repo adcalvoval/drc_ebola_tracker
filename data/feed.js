@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 08 Jun 2026 22:29:03 Z",
-  "fetchedAt": "2026-06-08T22:29:04Z",
+  "lastBuildDate": "Tue, 09 Jun 2026 03:42:05 Z",
+  "fetchedAt": "2026-06-09T03:42:05Z",
   "itemCount": 249,
   "stats": {
     "drc": {
@@ -49,6 +49,27 @@ window.FEED_DATA = {
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "A Beni, les confessions religieuses s'engagent dans la prévention d'Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021709244",
+      "pubDate": "Tue, 09 Jun 2026 01:01:00 Z",
+      "desc": "Les communautés chrétiennes et musulmanes de la ville de Beni, au Nord-Kivu, s'engagent activement dans la lutte contre la maladie à virus Ebola. Face à la menace persistante de cette épidémie qui touche la ville, plusieurs églises ont mis en place, depuis quelques jours, des dispositifs de prévention afin de protéger leurs fidèles.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Un nouveau plan de 518 millions de dollars pour mieux lutter contre l'épidémie d'Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021710409",
+      "pubDate": "Mon, 08 Jun 2026 23:20:00 Z",
+      "desc": "L'Organisation mondiale de la santé et l'Agence de santé africaine, Africa CDC, ont annoncé un plan de 518 millions de dollars pour lutter contre l'épidémie d'Ebola qui sévit dans l'est de la RDC et dans les pays limitrophes. Selon les derniers chiffres de l'OMS, 381 cas ont été confirmés en RDC, dont 64 décès.",
+      "tag": "cases"
+    },
+    {
+      "title": "L'UE annonce une aide supplémentaire de 5 millions d'euros contre Ebola en RDC",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021710206",
+      "pubDate": "Mon, 08 Jun 2026 22:55:00 Z",
+      "desc": "L'Union européenne a annoncé une aide supplémentaire de 5 millions d’euros pour soutenir les efforts visant à juguler la dernière flambée d’Ebola dans l’est de la République démocratique du Congo, à l’occasion de la visite sur place, dimanche, de la Commissaire européenne à la gestion des crises, Hadja Lahbib.",
+      "tag": "analysis"
+    },
     {
       "title": "Le point sur l'épidémie de maladie à virus Ebola causée par le virus Bundibugyo Patrick GEROME - 08/06/2026 Lire plus➟",
       "link": "https://www.mesvaccins.net/web/news/24174-le-point-sur-l-epidemie-de-maladie-a-virus-ebola-causee-par-le-virus-bundibugyo",
@@ -225,17 +246,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "L’Union européenne renforce son soutien à la riposte avec une nouvelle contribution de 5 millions d’euros.",
-      "link": "https://insp.cd/lunion-europeenne-renforce-son-soutien-a-la-riposte-avec-une-nouvelle-contribution-de-5-millions-deuros/",
-      "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
-      "desc": "juin 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, le 07 juin 2026. En visite de travail dans la province de l’Ituri, Mme Hadja Lahbib, Commissaire européenne chargée de l’Égalité, de la Préparation et de la Gestion des crises, a ré",
-      "tag": "analysis"
-    },
-    {
       "title": "Quand les rumeurs se propagent plus vite qu’Ebola",
       "link": "https://doi.org/10.1038/d44148-026-00150-8",
       "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1038/d44148-026-00150-8\nAuthors: Esther Nakkazi, Di Caelers",
+      "tag": "analysis"
+    },
+    {
+      "title": "L’Union européenne renforce son soutien à la riposte avec une nouvelle contribution de 5 millions d’euros.",
+      "link": "https://insp.cd/lunion-europeenne-renforce-son-soutien-a-la-riposte-avec-une-nouvelle-contribution-de-5-millions-deuros/",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
+      "desc": "juin 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, le 07 juin 2026. En visite de travail dans la province de l’Ituri, Mme Hadja Lahbib, Commissaire européenne chargée de l’Égalité, de la Préparation et de la Gestion des crises, a ré",
       "tag": "analysis"
     },
     {
@@ -1770,27 +1791,6 @@ window.FEED_DATA = {
       "pubDate": "Sat, 06 Jun 2026 02:11:00 Z",
       "desc": "L'hôpital missionnaire Sainte-Thérèse de Nzara a lancé une vaste campagne de sensibilisation à l'intention du diocèse catholique de Tombura-Yambio afin de renforcer les mesures de précaution contre les épidémies d'Ebola qui sévissent actuellement en République démocratique du Congo et en Ouganda,....",
       "tag": "analysis"
-    },
-    {
-      "title": "RDC: un nouveau plan de 518 millions de dollars pour mieux lutter contre l'epidemie d'Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021694250",
-      "pubDate": "Sat, 06 Jun 2026 02:11:00 Z",
-      "desc": "France, Juin 6 -- L'epidemie d'Ebola dans l'est de la RDC est serieuse, mais nous pouvons la maîtriser si nous travaillons ensemble et vite , a indique le directeur de l'Organisation mondiale de la Sante. Tedros Ghebreyesus a annonce le lancement de ce plan conjoint pour contenir l'epidemie actuelle d'Ebola et reduire le risque de propagation.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Dans l’est de la RDC, la progression d’Ebola n’arrête pas les massacres",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021693001",
-      "pubDate": "Sat, 06 Jun 2026 02:11:00 Z",
-      "desc": "De nouvelles exactions meurtrières, commises par un groupe armé affilié à l’Etat islamique dans la province du Nord-Kivu, isole encore un peu plus sa voisine, l’Ituri, frappée par l’épidémie.\nIl n’y a pas que le virus d’Ebola qui tue en Ituri. Cette province, située sur les marges orientales de....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Roche develops RUO PCR assay to detect rare Ebola Bundibugyo virus",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021694128",
-      "pubDate": "Sat, 06 Jun 2026 02:01:00 Z",
-      "desc": "TIB MOLBIOL developed the test using its \"rapid response\" library, with 15,000 designs and 3,000 controls.\nThe Bundibugyo virus is a rare Ebola species. Credit: QINQIE99 / Shutterstock.com.",
-      "tag": "response"
     }
   ],
   "highWater": {
