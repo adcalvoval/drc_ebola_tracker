@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 10 Jun 2026 20:33:07 Z",
-  "fetchedAt": "2026-06-10T20:33:07Z",
+  "lastBuildDate": "Wed, 10 Jun 2026 22:52:54 Z",
+  "fetchedAt": "2026-06-10T22:52:54Z",
   "itemCount": 249,
   "stats": {
     "drc": {
@@ -42,6 +42,13 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "US Announces Additional $20 Million for Ebola Response",
+      "link": "https://www.medscape.com/s/viewarticle/us-announces-additional-20-million-ebola-response-2026a1000jjf?src=rss",
+      "pubDate": "Wed, 10 Jun 2026 20:53:00 Z",
+      "desc": "June 10 (Reuters) - The U.S. State Department ⁠said on Wednesday it would provide ⁠an additional $20 million to help fight ⁠the Ebola ‌outbreak in Africa, bringing its total direct support to more than $220 million.\n\nThe money ‌will support preparedness efforts in ​Burundi, ‌Kenya, Rwanda, ‌and....",
+      "tag": "response"
+    },
     {
       "title": "Kenya Ebola panic turns deadly over US quarantine facility - DW",
       "link": "https://www.dw.com/en/kenya-ebola-panic-turns-deadly-over-us-quarantine-facility/video-77496897",
@@ -183,17 +190,17 @@
       "tag": "response"
     },
     {
-      "title": "Aumentan a más de 100 los muertos por brote de ébola en República Democrática del Congo",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021721411",
-      "pubDate": "Wed, 10 Jun 2026 10:50:00 Z",
-      "desc": "Este es el contenido curado de los acontecimientos diarios más relevantes alrededor del mundo.\nAumentan a más de 100 los muertos por brote de ébola en República Democrática del Congo\n— El brote de ébola causado por el virus Bundibugyo ya dejó al menos 101 personas fallecidas en República Democrática....",
-      "tag": "cases"
-    },
-    {
       "title": "Relief in Lira as suspected Ebola case tests negative, but patient succumbs to liver failure",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021721410",
       "pubDate": "Wed, 10 Jun 2026 10:50:00 Z",
       "desc": "A suspected Ebola patient admitted to Lira Regional Referral Hospital has tested negative for the virus, bringing temporary relief to the Lango Sub-region amid heightened national surveillance. However, despite medical interventions, the patient ultimately succumbed to liver failure.",
+      "tag": "cases"
+    },
+    {
+      "title": "Aumentan a más de 100 los muertos por brote de ébola en República Democrática del Congo",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021721411",
+      "pubDate": "Wed, 10 Jun 2026 10:50:00 Z",
+      "desc": "Este es el contenido curado de los acontecimientos diarios más relevantes alrededor del mundo.\nAumentan a más de 100 los muertos por brote de ébola en República Democrática del Congo\n— El brote de ébola causado por el virus Bundibugyo ya dejó al menos 101 personas fallecidas en República Democrática....",
       "tag": "cases"
     },
     {
@@ -302,10 +309,24 @@
       "tag": "analysis"
     },
     {
+      "title": "DRC has strengthened its response to Ebola - but conflict and funding cuts are testing its capacity",
+      "link": "https://doi.org/10.1136/bmj-2026-721038",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/bmj-2026-721038\nAuthors: Aula Abbara, Michael Adeyemi Lawal",
+      "tag": "response"
+    },
+    {
       "title": "Bundibugyo ebolavirus outbreaks: update on the current situation",
       "link": "https://doi.org/10.37897/rjid.2026.2.4",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.37897/rjid.2026.2.4\nAuthors: Aseer Manilal, Kozhir Karim Abdullah, Nabaz Hamarashid Ham\n Bundibugyo ebolavirus, first detected in Uganda in 2007, is the fifth recognized species of ebolavirus and has been associated with several outbreaks in East and Central Africa since then. This virus is genetically distinct, with a reported case",
+      "tag": "analysis"
+    },
+    {
+      "title": "Successful treatment of an NDM-5-producing, carbapenem-resistant Salmonella Kentucky ST198 infection with aztreonam and ceftazidime-avibactam in a patient with acute erythroid leukemia: a case report",
+      "link": "https://doi.org/10.1186/s12879-026-13519-9",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s12879-026-13519-9\nAuthors: Yingcheng Qin, Li Lin, Hengrui Zhao, Xiumei Hu\n Abstract \n                   \n                     Introduction \n                     \n                       Salmonella enterica \n                      serotype Kentucky (",
       "tag": "analysis"
     },
     {
@@ -323,11 +344,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Successful treatment of an NDM-5-producing, carbapenem-resistant Salmonella Kentucky ST198 infection with aztreonam and ceftazidime-avibactam in a patient with acute erythroid leukemia: a case report",
-      "link": "https://doi.org/10.1186/s12879-026-13519-9",
+      "title": "An unusual case of Clostridium tetani bacteraemia likely arising from a skin and soft tissue infection",
+      "link": "https://doi.org/10.1099/acmi.0.001177.v2",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s12879-026-13519-9\nAuthors: Yingcheng Qin, Li Lin, Hengrui Zhao, Xiumei Hu\n Abstract \n                   \n                     Introduction \n                     \n                       Salmonella enterica \n                      serotype Kentucky (",
-      "tag": "analysis"
+      "desc": "DOI: 10.1099/acmi.0.001177.v2\nAuthors: Jun Yu Tay, Ibakkanavar Rajiva Guddappa, Alicia Xin Yu Ang, Angie Natalie Pinto\n Clostridium tetani, the causative organism of tetanus, is unusual in developed countries including Singapore and to our knowledge, only three known cases of Clostridium tetani bacteraemia have been reported worldwide. This",
+      "tag": "cases"
+    },
+    {
+      "title": "Knowledge, Attitudes, and Practices Regarding Ebola Virus Disease Among Medical Students and Their Implications for Outbreak Preparedness",
+      "link": "https://doi.org/10.7759/cureus.110595",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.7759/cureus.110595\nAuthors: Rania A El-Kady, Abdulelah F Alasmari, Sanhat   S Alotaibi, Abdullah  T Rawa",
+      "tag": "response"
     },
     {
       "title": "Nigéria : 360 otages de Boko Haram libérés par l'armée [Africanews Today]",
@@ -1756,34 +1784,6 @@
       "pubDate": "Sat, 06 Jun 2026 16:30:00 Z",
       "desc": "Le Directeur général de l’Organisation mondiale de la Santé (OMS), Tedros Adhanom Ghebreyesus, a tiré la sonnette d’alarme ce mercredi 3 juin concernant l’épidémie d’Ebola qui sévit en République démocratique du Congo (RDC).\n« Cette épidémie d’Ebola a pris une bonne longueur d’avance et nous sommes....",
       "tag": "response"
-    },
-    {
-      "title": "1ST LEAD US doctor treated for Ebola discharged from Berlin hospital By Kristin Palitza and Stefan Kruse, dpa",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697938",
-      "pubDate": "Sat, 06 Jun 2026 16:00:00 Z",
-      "desc": "Berlin (dpa) - The US doctor being treated for Ebola in Berlin's Charité hospital was discharged on Saturday after two weeks. \nThe hospital said the doctor is in good health after catching the virus in the Democratic Republic of the Congo. He has tested negative for the virus since May 30, so health....",
-      "tag": "analysis"
-    },
-    {
-      "title": "RDC : la préservation de l’environnement demeure essentielle pour prévenir les épidémies d’Ebola ( Un spécialiste)",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697912",
-      "pubDate": "Sat, 06 Jun 2026 15:55:00 Z",
-      "desc": "Kinshasa, 6 juin 2026 (ACP).- La protection de l’environnement demeure essentielle dans la prévention des épidémies de la maladie à virus Ebola ( MVE) en République démocratique du Congo ( RDC), en raison du lien étroit existant entre les perturbations écologiques et la transmission de cette....",
-      "tag": "analysis"
-    },
-    {
-      "title": "As Ebola Spreads in East Africa, Will China Step Up?",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697046",
-      "pubDate": "Sat, 06 Jun 2026 15:50:00 Z",
-      "desc": "China is well positioned to help stop the deadly virus, and could move into a gap left by U.S. retreat.\nAs Ebola spreads in East Africa, the United States is playing a much smaller role than it has in previous outbreaks. That leaves China, an economic powerhouse with epidemic control and biotech....",
-      "tag": "analysis"
-    },
-    {
-      "title": "India has intensified Ebola surveillance after suspected travel-linked cases were reported in multiple states, although no infection has been confirmed so far.",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697805",
-      "pubDate": "Sat, 06 Jun 2026 15:30:00 Z",
-      "desc": "Health authorities have stepped up screening, quarantine, and surveillance efforts after suspected Ebola cases were reported in Chhattisgarh, Telangana, and Rajasthan.",
-      "tag": "cases"
     }
   ],
   "highWater": {
