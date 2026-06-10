@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 10 Jun 2026 15:39:16 Z",
-  "fetchedAt": "2026-06-10T15:39:16Z",
+  "lastBuildDate": "Wed, 10 Jun 2026 20:33:07 Z",
+  "fetchedAt": "2026-06-10T20:33:07Z",
   "itemCount": 249,
   "stats": {
     "drc": {
@@ -29,7 +29,7 @@
       },
       "media": {
         "deaths": 115,
-        "suspected": 20000,
+        "suspected": 600,
         "confirmed": 600
       }
     },
@@ -43,6 +43,48 @@
   },
   "items": [
     {
+      "title": "Kenya Ebola panic turns deadly over US quarantine facility - DW",
+      "link": "https://www.dw.com/en/kenya-ebola-panic-turns-deadly-over-us-quarantine-facility/video-77496897",
+      "pubDate": "Wed, 10 Jun 2026 20:25:00 Z",
+      "desc": "-- Kenya. Significance Rating: 1 Kenya Ebola panic turns deadly over US quarantine facility&nbsp;&nbsp;DW",
+      "tag": "analysis"
+    },
+    {
+      "title": "APOL1 Gene and Focal Segmental Glomerulosclerosis",
+      "link": "https://www.medpagetoday.com/spotlight/fsgs/121700",
+      "pubDate": "Wed, 10 Jun 2026 20:25:00 Z",
+      "desc": "Variants in the apolipoprotein L1 ( APOL1 ) gene are associated with a significant increase in the risk of focal segmental glomerulosclerosis (FSGS), a rare and aggressive kidney disease characterized by scarring of the glomeruli. The variants, present only among people of African descent, have also....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Harnessing Participatory Surveillance Cohorts and Proxy Indicators to Dynamically Track Epidemic Trends and Undiagnosed COVID-19 Infections in Singapore: Longitudinal Observational Study",
+      "link": "https://www.jmir.org/2026/1/e85608",
+      "pubDate": "Wed, 10 Jun 2026 19:41:00 Z",
+      "desc": "Abstract. Background: Accurate COVID-19 incidence estimates, including undiagnosed cases, are vital for epidemic management but are often unavailable in real time. Participatory surveillance can capture community illness episodes; however, quantifying undiagnosed infections remains difficult.",
+      "tag": "cases"
+    },
+    {
+      "title": "Cancer Panelist's Ivermectin Paper; RFK Jr.'s Work Style; Measles Outbreak Genetics",
+      "link": "https://www.medpagetoday.com/special-reports/features/121690",
+      "pubDate": "Wed, 10 Jun 2026 16:57:00 Z",
+      "desc": "Harvey Risch, MD, PhD, the chair of the President's Cancer Panel , is a co-author on a new paper in Anticancer Research promoting ivermectin and mebendazole as a cancer treatment. The paper is backed by anti-vaccine organizations, including a supplement company known for selling unproven COVID treatments, including ivermectin.",
+      "tag": "analysis"
+    },
+    {
+      "title": "En el Congo, médicos enfrentan el ébola con poca protección",
+      "link": "https://espanol.medscape.com/s/viewarticle/vivimos-miedo-congo-m%C3%A9dicos-enfrentan-%C3%A9bola-poca-2026a1000ji8?src=",
+      "pubDate": "Wed, 10 Jun 2026 16:49:00 Z",
+      "desc": "Una partera de 25 años y un doctor de poco más de 30 están enfermos con síntomas de ébola como fiebre y dolor intenso en las articulaciones, contó su colega Elisabeth Furaha, directora médica del Centro Médico Karibuni Wa Mama de SOFEPADI , una organización de protección de las mujeres, en la provincia nororiental de Ituri.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Crise Ebola : 11,5 millions",
+      "link": "https://echosante.info/crise-ebola-115-millions-deuros-injectes-pour-muscler-la-riposte-du-cdc-afrique/",
+      "pubDate": "Wed, 10 Jun 2026 15:49:00 Z",
+      "desc": "L’Union Européenne a annoncé un financement majeur de 11,5millions d’euros pour soutenir le plan d’urgence continental coordonné par la CDC Afrique face à la souche Bundibugyo. Un appui financier direct qui s’accompagne d’une opération logistique d’envergure sur le terrain.",
+      "tag": "analysis"
+    },
+    {
       "title": "Today, June 10",
       "link": "https://kffhealthnews.org/morning-briefing/wednesday-june-10-2026/",
       "pubDate": "Wed, 10 Jun 2026 13:13:00 Z",
@@ -50,17 +92,17 @@
       "tag": "analysis"
     },
     {
-      "title": "As Measles Spiked In 2025, So Did Vitamin A Poisonings",
-      "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-061026/",
-      "pubDate": "Wed, 10 Jun 2026 13:13:00 Z",
-      "desc": "Internet searches for alternative measles treatments surged around the time Health and Human Services Secretary Robert F. Kennedy Jr. falsely claimed that the MMR vaccine causes encephalitis, according to a study reported in People.com. America's Poison Centers noted a 38.",
-      "tag": "analysis"
-    },
-    {
       "title": "Viewpoints: Our Politicians Will Always Find Something Else More Important Than Healthcare; Closure Of Strait Of Hormuz Is Hurting Food Production",
       "link": "https://kffhealthnews.org/morning-breakout/viewpoints-our-politicians-will-always-find-something-else-more-important-than-healthcare-closure-of-strait-of-hormuz-is-hurting-food-production/",
       "pubDate": "Wed, 10 Jun 2026 13:13:00 Z",
       "desc": "Perhaps it's understandable. Wars are raging. Prices for everything from gasoline to tomatoes are soaring. Chaos is the order of the day in the nation's capital. Who's got time to talk about the country's broken and failing healthcare system? So here we are, kicking the healthcare can down the road....",
+      "tag": "analysis"
+    },
+    {
+      "title": "As Measles Spiked In 2025, So Did Vitamin A Poisonings",
+      "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-061026/",
+      "pubDate": "Wed, 10 Jun 2026 13:13:00 Z",
+      "desc": "Internet searches for alternative measles treatments surged around the time Health and Human Services Secretary Robert F. Kennedy Jr. falsely claimed that the MMR vaccine causes encephalitis, according to a study reported in People.com. America's Poison Centers noted a 38.",
       "tag": "analysis"
     },
     {
@@ -85,17 +127,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Joseph K Aicher",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Aicher+JK&cauthor_id=42267532",
-      "pubDate": "Wed, 10 Jun 2026 11:08:00 Z",
-      "desc": "Aicher JK , Issakova D, Slaff B, Jewell S, Lahens NF, Grant GR, Baralle D, Rosenfeld JA, Scott DA; Undiagnosed Diseases Network; Bhoj EJ, Barash Y. Aicher JK , et al. Genet Med. 2026 Jun 9:102628. doi: 10.1016/j.gim.2026.102628. Online ahead of print. Genet Med. 2026. PMID: 42267532.",
-      "tag": "analysis"
-    },
-    {
       "title": "Undiagnosed Diseases Network",
       "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Undiagnosed+Diseases+Network%5BCorporate+Author%5D",
       "pubDate": "Wed, 10 Jun 2026 11:08:00 Z",
       "desc": "Cousin MA, Creighton BA, Breau KA, Spillmann RC, Torti E, Dontu S, Tripathi S, Ajit D, Edwards RJ, Afriyie S, Bay JC, Harper KM, Beltran AA, Munoz LJ, Falcon Rodriguez L, Stankewich MC, Person RE, Si Y, Normand EA, Blevins A, May AS, Bier L, Aggarwal V, Mancini GMS, van Slegtenhorst MA, Cremer K,....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Joseph K Aicher",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Aicher+JK&cauthor_id=42267532",
+      "pubDate": "Wed, 10 Jun 2026 11:08:00 Z",
+      "desc": "Aicher JK , Issakova D, Slaff B, Jewell S, Lahens NF, Grant GR, Baralle D, Rosenfeld JA, Scott DA; Undiagnosed Diseases Network; Bhoj EJ, Barash Y. Aicher JK , et al. Genet Med. 2026 Jun 9:102628. doi: 10.1016/j.gim.2026.102628. Online ahead of print. Genet Med. 2026. PMID: 42267532.",
       "tag": "analysis"
     },
     {
@@ -127,18 +169,18 @@
       "tag": "response"
     },
     {
-      "title": "Médecins du Monde - [**Ebola en RDC**]: co-construire la réponse avec les communautés pour endiguer l’épidémie",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021721406",
-      "pubDate": "Wed, 10 Jun 2026 10:50:00 Z",
-      "desc": "Access the original document here\n[**Ebola en RDC**]: co-construire la réponse avec les communautés pour endiguer l’épidémie\nEn à peine plus de deux semaines, l'épidémie d'Ebola qui sévit à l'est de la République démocratique du Congo (RDC) a touché plus de 320 personnes, dont près de 50 sont déjà....",
-      "tag": "response"
-    },
-    {
       "title": "Ebola cases in Congo rise to 598 as WHO says contact tracing still falls short",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021721436",
       "pubDate": "Wed, 10 Jun 2026 10:50:00 Z",
       "desc": "Geneva/Kinshasa, June 10 (SANA) The number of confirmed Ebola cases in the Democratic Republic of the Congo has risen to 598, including 115 deaths, according to government data released on Tuesday, as health authorities continue efforts to contain the country’s latest outbreak.",
       "tag": "cases"
+    },
+    {
+      "title": "Médecins du Monde - [**Ebola en RDC**]: co-construire la réponse avec les communautés pour endiguer l’épidémie",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021721406",
+      "pubDate": "Wed, 10 Jun 2026 10:50:00 Z",
+      "desc": "Access the original document here\n[**Ebola en RDC**]: co-construire la réponse avec les communautés pour endiguer l’épidémie\nEn à peine plus de deux semaines, l'épidémie d'Ebola qui sévit à l'est de la République démocratique du Congo (RDC) a touché plus de 320 personnes, dont près de 50 sont déjà....",
+      "tag": "response"
     },
     {
       "title": "Aumentan a más de 100 los muertos por brote de ébola en República Democrática del Congo",
@@ -260,6 +302,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Bundibugyo ebolavirus outbreaks: update on the current situation",
+      "link": "https://doi.org/10.37897/rjid.2026.2.4",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.37897/rjid.2026.2.4\nAuthors: Aseer Manilal, Kozhir Karim Abdullah, Nabaz Hamarashid Ham\n Bundibugyo ebolavirus, first detected in Uganda in 2007, is the fifth recognized species of ebolavirus and has been associated with several outbreaks in East and Central Africa since then. This virus is genetically distinct, with a reported case",
+      "tag": "analysis"
+    },
+    {
       "title": "Le premier patient guéri quitte le Centre de Traitement de Mungwalu, un tournant porteur d’espoir dans la riposte.",
       "link": "https://insp.cd/le-premier-patient-gueri-quitte-le-centre-de-traitement-de-mungwalu-un-tournant-porteur-despoir-dans-la-riposte/",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
@@ -271,6 +320,13 @@
       "link": "https://insp.cd/linsp-deploie-une-mission-strategique-a-beni-et-butembo-pour-rapprocher-la-coordination-et-le-diagnostic-des-communautes/",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
       "desc": "juin 10, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBeni–Butembo, Nord-Kivu, 10 juin 2026. Dans le cadre du renforcement de la riposte contre la 17ᵉ épidémie de la maladie à virus Ebola (MVE), une mission conjointe et multisectorielle cond",
+      "tag": "analysis"
+    },
+    {
+      "title": "Successful treatment of an NDM-5-producing, carbapenem-resistant Salmonella Kentucky ST198 infection with aztreonam and ceftazidime-avibactam in a patient with acute erythroid leukemia: a case report",
+      "link": "https://doi.org/10.1186/s12879-026-13519-9",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s12879-026-13519-9\nAuthors: Yingcheng Qin, Li Lin, Hengrui Zhao, Xiumei Hu\n Abstract \n                   \n                     Introduction \n                     \n                       Salmonella enterica \n                      serotype Kentucky (",
       "tag": "analysis"
     },
     {
@@ -680,17 +736,17 @@
       "tag": "cases"
     },
     {
-      "title": "L’Union européenne renforce son soutien à la riposte avec une nouvelle contribution de 5 millions d’euros.",
-      "link": "https://insp.cd/lunion-europeenne-renforce-son-soutien-a-la-riposte-avec-une-nouvelle-contribution-de-5-millions-deuros/",
-      "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
-      "desc": "juin 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, le 07 juin 2026. En visite de travail dans la province de l’Ituri, Mme Hadja Lahbib, Commissaire européenne chargée de l’Égalité, de la Préparation et de la Gestion des crises, a ré",
-      "tag": "analysis"
-    },
-    {
       "title": "Quand les rumeurs se propagent plus vite qu’Ebola",
       "link": "https://doi.org/10.1038/d44148-026-00150-8",
       "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1038/d44148-026-00150-8\nAuthors: Esther Nakkazi, Di Caelers",
+      "tag": "analysis"
+    },
+    {
+      "title": "L’Union européenne renforce son soutien à la riposte avec une nouvelle contribution de 5 millions d’euros.",
+      "link": "https://insp.cd/lunion-europeenne-renforce-son-soutien-a-la-riposte-avec-une-nouvelle-contribution-de-5-millions-deuros/",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
+      "desc": "juin 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, le 07 juin 2026. En visite de travail dans la province de l’Ituri, Mme Hadja Lahbib, Commissaire européenne chargée de l’Égalité, de la Préparation et de la Gestion des crises, a ré",
       "tag": "analysis"
     },
     {
@@ -841,13 +897,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Stop blowing the Ebola pandemic out of proportion",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702757",
-      "pubDate": "Sun, 07 Jun 2026 18:45:00 Z",
-      "desc": "Health workers prepare for a clean-up of one of the Ebola Treatment Units in Mubende District in 2023. Uganda has a strong history of dealing with Ebola. COURTESY PHOTO.",
-      "tag": "analysis"
-    },
-    {
       "title": "WHO - WHO Hands Over Ebola Preparedness Supplies to Strengthen Zambia’s Readiness",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702778",
       "pubDate": "Sun, 07 Jun 2026 18:45:00 Z",
@@ -855,11 +904,11 @@
       "tag": "response"
     },
     {
-      "title": "Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus — Democratic Republic of the Congo and Uganda, May 2026 | MMWR",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702770",
-      "pubDate": "Sun, 07 Jun 2026 18:40:00 Z",
-      "desc": "Bundibugyo virus disease (BVD) is a type of Ebola disease, a severe and often fatal viral hemorrhagic fever (1). Bundibugyo virus was first identified in 2007, when it caused an outbreak in Uganda with 149 suspected cases and 37 deaths (2). A 2012 BVD outbreak in DRC resulted in 56 laboratory-confirmed cases and 17 deaths (3).",
-      "tag": "cases"
+      "title": "Stop blowing the Ebola pandemic out of proportion",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702757",
+      "pubDate": "Sun, 07 Jun 2026 18:45:00 Z",
+      "desc": "Health workers prepare for a clean-up of one of the Ebola Treatment Units in Mubende District in 2023. Uganda has a strong history of dealing with Ebola. COURTESY PHOTO.",
+      "tag": "analysis"
     },
     {
       "title": "Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026 | MMWR",
@@ -867,6 +916,13 @@
       "pubDate": "Sun, 07 Jun 2026 18:40:00 Z",
       "desc": "Eric Q. Mooring, ScD1,2; William T. Koval, PhD1; Isobel Routledge, PhD3; Inga Holmdahl, PhD4; Guido España, PhD1; Rebecca Kahn, PhD4; Beau B. Bruce, MD, PhD1 (View author affiliations)\nView suggested citation\nSummary\nWhat is already known about this topic?\nAn outbreak of Bundibugyo virus disease....",
       "tag": "analysis"
+    },
+    {
+      "title": "Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus — Democratic Republic of the Congo and Uganda, May 2026 | MMWR",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702770",
+      "pubDate": "Sun, 07 Jun 2026 18:40:00 Z",
+      "desc": "Bundibugyo virus disease (BVD) is a type of Ebola disease, a severe and often fatal viral hemorrhagic fever (1). Bundibugyo virus was first identified in 2007, when it caused an outbreak in Uganda with 149 suspected cases and 37 deaths (2). A 2012 BVD outbreak in DRC resulted in 56 laboratory-confirmed cases and 17 deaths (3).",
+      "tag": "cases"
     },
     {
       "title": "Ebola : Hadja Lahbib en RDC pour soutenir la lutte contre le virus Ebola",
@@ -1114,18 +1170,18 @@
       "tag": "cases"
     },
     {
-      "title": "Hanta Cruise Virus Storm! New Zealand tourists strengthen self-health management for 42 days; quarantine lifted today",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700815",
-      "pubDate": "Sun, 07 Jun 2026 12:40:00 Z",
-      "desc": "Recently, the Dutch cruise ship 'MV Hondius' experienced a hantavirus Andean cluster. After being reported by the World Health Organization and the International Health Regulations (IHR), it was confirmed that a New Zealand passenger who had previously traveled on the cruise entered Taiwan on May 7.",
-      "tag": "cases"
-    },
-    {
       "title": "Breakthrough: Universal Coronavirus Vaccine Designed By AI Passes Human Trial",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700801",
       "pubDate": "Sun, 07 Jun 2026 12:40:00 Z",
       "desc": "In a historic milestone for global public health, an experimental \"universal\" coronavirus vaccine designed entirely by artificial intelligence (AI) has successfully completed its first human clinical trial. According to peer-reviewed data published in the Journal of Infection, the Phase 1 clinical....",
       "tag": "analysis"
+    },
+    {
+      "title": "Hanta Cruise Virus Storm! New Zealand tourists strengthen self-health management for 42 days; quarantine lifted today",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700815",
+      "pubDate": "Sun, 07 Jun 2026 12:40:00 Z",
+      "desc": "Recently, the Dutch cruise ship 'MV Hondius' experienced a hantavirus Andean cluster. After being reported by the World Health Organization and the International Health Regulations (IHR), it was confirmed that a New Zealand passenger who had previously traveled on the cruise entered Taiwan on May 7.",
+      "tag": "cases"
     },
     {
       "title": "Jaipur: Ugandan Tourist with Ebola-Like Symptoms Tests Negative",
@@ -1527,17 +1583,17 @@
       "tag": "response"
     },
     {
-      "title": "Opinion: I led the U.S. CDC response to the 2014 Ebola epidemic. The new outbreak needs massive, immediate, meticulous action",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698563",
-      "pubDate": "Sat, 06 Jun 2026 19:40:00 Z",
-      "desc": "By the time the world began responding to the West Africa epidemic in 2014, which killed more than 11,000 people before it ended in 2016, there were 40 to 50 suspected cases.\nThe current outbreak in the Democratic Republic of the Congo had approximately 10 times that number by the time the response started.",
-      "tag": "cases"
-    },
-    {
       "title": "Both Suspected Ebola Cases at Gandhi Hospital Test Negative",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698558",
       "pubDate": "Sat, 06 Jun 2026 19:40:00 Z",
       "desc": "Health minister Damodar Rajanarasimha said that tests conducted by the CSIR-centre for cellular and molecular biology, under the guidance of the national institute of virology (NIV), Pune, confirmed that both patients were Ebola-negative.\nHyderabad: Both individuals who were admitted to the....",
+      "tag": "cases"
+    },
+    {
+      "title": "Opinion: I led the U.S. CDC response to the 2014 Ebola epidemic. The new outbreak needs massive, immediate, meticulous action",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698563",
+      "pubDate": "Sat, 06 Jun 2026 19:40:00 Z",
+      "desc": "By the time the world began responding to the West Africa epidemic in 2014, which killed more than 11,000 people before it ended in 2016, there were 40 to 50 suspected cases.\nThe current outbreak in the Democratic Republic of the Congo had approximately 10 times that number by the time the response started.",
       "tag": "cases"
     },
     {
@@ -1728,62 +1784,6 @@
       "pubDate": "Sat, 06 Jun 2026 15:30:00 Z",
       "desc": "Health authorities have stepped up screening, quarantine, and surveillance efforts after suspected Ebola cases were reported in Chhattisgarh, Telangana, and Rajasthan.",
       "tag": "cases"
-    },
-    {
-      "title": "Gounder Fills In Details Behind Ebola, GLP-1, and Trump Headlines",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696810",
-      "pubDate": "Sat, 06 Jun 2026 15:10:00 Z",
-      "desc": "Céline Gounder, KFF Health News’ editor-at-large for public health, discussed a recent study that suggests ultraprocessed foods are linked to increased dementia risk on CBS News 24/7’s The Daily Report on June 3. Gounder also discussed the ...",
-      "tag": "analysis"
-    },
-    {
-      "title": "The World Has Learned From the Last Ebola Outbreak, but Gaps Remain",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696725",
-      "pubDate": "Sat, 06 Jun 2026 14:50:00 Z",
-      "desc": "The vaccine development process and coordination between health organizations have improved since a devastating 2014-2016 outbreak.\nThe response to the Ebola outbreak in East Africa, as troubled as it has been, offers signs that the world has learned key lessons from the last massive outbreak of the....",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola border shutdown leaves goods rotting between Uganda and DRC",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696660",
-      "pubDate": "Sat, 06 Jun 2026 14:50:00 Z",
-      "desc": "Ebola border shutdown leaves goods rotting between Uganda and DRC\nNewsFeed\nEbola border shutdown leaves goods rotting between Uganda and DRC\nTrade has come to a near standstill on the Uganda–DR Congo border as Ebola-related restrictions leave trucks stranded and perishable goods spoiling.",
-      "tag": "response"
-    },
-    {
-      "title": "Ugandan woman quarantined in Jaipur after showing Ebola-like symptoms",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697641",
-      "pubDate": "Sat, 06 Jun 2026 14:40:00 Z",
-      "desc": "A 19-year-old woman from Uganda has been admitted to a government hospital here after showing symptoms similar to Ebola virus infection, health officials said on Friday, adding that they have not confirmed the disease so far.",
-      "tag": "cases"
-    },
-    {
-      "title": "Maurice reporte le «US-Africa Business Summit» en raison des risques liés à Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697524",
-      "pubDate": "Sat, 06 Jun 2026 14:00:00 Z",
-      "desc": "C'est officiel. Le 18e US-Africa Business Summit, qui devait se tenir à Maurice du 26 au 29 juillet, est reporté en raison des risques sanitaires associés à la propagation du virus Ebola sur le continent africain.\nLa décision fait suite à un avis transmis par l'Organisation mondiale de la santé....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Le RDC alerte sur la propagation rapide du virus Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697433",
-      "pubDate": "Sat, 06 Jun 2026 13:40:00 Z",
-      "desc": "La République Démocratique du Congo a annoncé, vendredi 5 juin 2026, l’enregistrement de 71 nouveaux cas d’Ebola en l’espace de 24 heures, mettant en garde contre une propagation rapide du virus au sein de la population.\nSelon les autorités sanitaires congolaises, cette hausse porte à 452 le nombre....",
-      "tag": "response"
-    },
-    {
-      "title": "AUC Chairperson today received H.E. Amb. Jiang Feng, Head of Mission of China",
-      "link": "https://au.int/en/pressreleases/20260605/auc-chairperson-today-received-he-amb-jiang-feng-head-mission-china",
-      "pubDate": "Sat, 06 Jun 2026 13:15:00 Z",
-      "desc": "The Chairperson of the African Union Commission, H.E. Mahmoud Ali Youssouf, today received H.E. Amb. Jiang Feng, Head of Mission of the People’s Republic of China to the African Union, for discussions on AU–China cooperation and issues of mutual interest.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Mysterious disease wreaks havoc in Kerala's Wayanad, 150 school children sick, Health Department on alert",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697206",
-      "pubDate": "Sat, 06 Jun 2026 12:50:00 Z",
-      "desc": "Also read: Heavy rains in Delhi-NCR halt the summer season, IMD issues 'yellow alert' till June 6, monsoon arrives in Kerala\nA week's holiday declared in the school\nAfter several students fell ill, the authorities have declared a week-long holiday in the school as a precautionary measure.",
-      "tag": "response"
     }
   ],
   "highWater": {
