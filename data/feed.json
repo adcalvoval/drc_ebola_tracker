@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 09 Jun 2026 22:25:05 Z",
-  "fetchedAt": "2026-06-09T22:25:06Z",
+  "lastBuildDate": "Wed, 10 Jun 2026 03:56:32 Z",
+  "fetchedAt": "2026-06-10T03:56:33Z",
   "itemCount": 249,
   "stats": {
     "drc": {
@@ -16,7 +16,7 @@
       },
       "confirmed": {
         "tier": 3,
-        "src": "À retenir ce soir : rassemblement pour Lyhanna, mort de Bernadette Chirac, ebola"
+        "src": "WHO confirms 471 Ebola cases in Central Africa"
       },
       "suspected": {
         "tier": 3,
@@ -26,7 +26,7 @@
     "drcTiers": {
       "who": {
         "deaths": 84,
-        "confirmed": 500,
+        "confirmed": 471,
         "suspected": 500
       },
       "cdc": {
@@ -49,6 +49,69 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Epidémie Ebola Bundibugyo : « Il faut se préparer à un marathon » (Experts Alliance Gavi)",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021717706",
+      "pubDate": "Wed, 10 Jun 2026 03:26:00 Z",
+      "desc": "Il s'agit du 17e épisode d'Ebola en RDC depuis 1976, mais il se démarque de tous les précédents : des cas confirmés dans plusieurs provinces (Ituri, Nord-Kivu, Sud-Kivu) et en Ouganda voisin, aucun vaccin homologué, aucun traitement approuvé.\nLe 15 mai 2026, les ministères de la santé des 2 pays ont déclaré l'épidémie.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola - La commissaire européenne aux affaires humanitaires en visite à Bunia",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021717620",
+      "pubDate": "Wed, 10 Jun 2026 03:06:00 Z",
+      "desc": "La commissaire européenne à la coopération internationale, à l'aide humanitaire et à la réaction aux crises, Hadja Lahbib est attendue ce dimanche 7 juin pour une visite express à Bunia dans l'est de la RDC. La capitale de l'Ituri fait face depuis le 15 mai dernier à une nouvelle épidémie d'Ebola.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Washington appelle la communauté internationale à \"redoubler d'efforts\" contre Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021719114",
+      "pubDate": "Wed, 10 Jun 2026 02:56:00 Z",
+      "desc": "Les Etats-Unis ont appelé mardi la communauté internationale à en faire plus pour lutter contre les risques de propagation de la fièvre hémorragique Ebola, à quelques jours de l'ouverture de la Coupe du Monde de football.\n\"Les Etats-Unis ont pris des mesures.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola: un manifestant contre un centre de quarantaine américain au Kenya grièvement blessé à la tête (AFP)",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021716839",
+      "pubDate": "Wed, 10 Jun 2026 00:26:00 Z",
+      "desc": "Un manifestant contre un centre de quarantaine destiné à des Américains présentant des risques de contamination à la fièvre hémorragique Ebola a été grièvement blessé par balle à la tête mardi à Nanyuki, dans le centre du Kenya, a constaté l'AFP.\nUn journaliste de l'AFP présent dans cette ville....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Nigéria : 360 otages de Boko Haram libérés par l'armée [Africanews Today]",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021716602",
+      "pubDate": "Tue, 09 Jun 2026 23:46:00 Z",
+      "desc": "Face à l’épidémie d’Ebola qui se propage dans l’est de la RDC, l’Union européenne annonce une aide de 5 millions de dollars pour mettre en place des centres de diagnostic dans les régions touchées.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola : La Commission européenne libère 16,5 millions d'euros supplémentaires",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021717719",
+      "pubDate": "Tue, 09 Jun 2026 23:20:00 Z",
+      "desc": "L'Union européenne débloque 16,5 millions d'euros supplémentaires pour lutter contre l'épidémie d'Ebola en République démocratique du Congo, a annoncé mardi la commissaire européenne chargée de la gestion des crises, Hadja Lahbib, en mission dans ce pays.",
+      "tag": "analysis"
+    },
+    {
+      "title": "AIDE HUMANITAIRE; en visite en République démocratique du Congo, Hadja Lahbib annonce une aide supplémentaire de 5 millions d'euros pour faire face à l'épidémie d'Ebola",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021716277",
+      "pubDate": "Tue, 09 Jun 2026 22:46:00 Z",
+      "desc": "Bruxelles, 08/06/2026 (Agence Europe) – Hadja Lahbib, commissaire européenne chargée de l’Égalité, de l’État de préparation et de la Gestion des crises, s'est rendue dimanche 7 juin à Bunia, en République démocratique du Congo, afin de réaffirmer le soutien de l’Union européenne face à l'épidémie d'Ebola qui frappe l'est du pays (EUROPE B13873A19).",
+      "tag": "analysis"
+    },
+    {
+      "title": "Maurice reporte le sommet des affaires États-Unis-Afrique prévu du 26 au 29 juillet",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021717441",
+      "pubDate": "Tue, 09 Jun 2026 22:30:00 Z",
+      "desc": "Le gouvernement mauricien a décidé, vendredi 5 juin, de reporter le Sommet des affaires États-Unis-Afrique, prévu du 26 au 29 juillet au Centre Swami Vivekananda. En cause : les inquiétudes liées à l'épidémie d'Ebola en Afrique de l'Ouest.\nLe Bureau du Premier ministre mauricien indique que cette....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola : décès confirmé d'un manifestant contre un centre de quarantaine américain au Kenya (ONG)",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021717277",
+      "pubDate": "Tue, 09 Jun 2026 22:30:00 Z",
+      "desc": "L'homme que l'AFP avait vu mardi grièvement blessé à la tête lors d'une manifestation contre un centre de quarantaine américain pour malades d'Ebola à Nanyuki, au Kenya, est mort, a confirmé vendredi une ONG kényane de défense des droits humains.\nDes tirs avaient été entendus et un journaliste de....",
+      "tag": "cases"
+    },
     {
       "title": "Ebola : le chef de l’OMS en Ouganda après l’apparition de cas importés depuis la RDC",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021717060",
@@ -155,17 +218,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Ebola en Ituri : suspension des vols commerciaux plonge les opérateurs économiques dans l’incertitude",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021711987",
-      "pubDate": "Tue, 09 Jun 2026 08:26:00 Z",
-      "desc": "Bunia, 8 juin 2026 (ACP).- Une frange des opérateurs économiques a exprimé leur inquiétude après la suspension des vols commerciaux intervenus cinq jours seulement après la réouverture de l’aéroport de Bunia chef-lieu de la province de l’Ituri, dans le Nord-Est de la République démocratique du Congo....",
-      "tag": "analysis"
-    },
-    {
       "title": "RDC : l’UE débloque 5 millions d’euros supplémentaires pour renforcer la riposte contre Ebola",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021712059",
       "pubDate": "Tue, 09 Jun 2026 08:26:00 Z",
       "desc": "LIBREVILLE, 8 juin 2026 (AGP) – L’Union européenne (UE) a annoncé dimanche une aide humanitaire additionnelle de 5 millions d’euros en faveur de la République démocratique du Congo (RDC), confrontée à la plus importante épidémie d’Ebola de son histoire, rapporte Radio France Internationale.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en Ituri : suspension des vols commerciaux plonge les opérateurs économiques dans l’incertitude",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021711987",
+      "pubDate": "Tue, 09 Jun 2026 08:26:00 Z",
+      "desc": "Bunia, 8 juin 2026 (ACP).- Une frange des opérateurs économiques a exprimé leur inquiétude après la suspension des vols commerciaux intervenus cinq jours seulement après la réouverture de l’aéroport de Bunia chef-lieu de la province de l’Ituri, dans le Nord-Est de la République démocratique du Congo....",
       "tag": "analysis"
     },
     {
@@ -1728,69 +1791,6 @@
       "pubDate": "Sat, 06 Jun 2026 08:06:00 Z",
       "desc": "As debate intensifies over the proposed Ebola quarantine facility at Laikipia Air Base, which is intended to serve Americans exposed to the virus, health experts are urging the government to move beyond political rhetoric and provide clear answers on Kenya's preparedness to respond to a potential Ebola outbreak.",
       "tag": "response"
-    },
-    {
-      "title": "Vaccin contre la maladie à virus Ebola : un air de déjà-vu",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696278",
-      "pubDate": "Sat, 06 Jun 2026 08:06:00 Z",
-      "desc": "Vaccin contre la maladie à virus Ebola : un air de déjà-vu\nOuvrir en mode plein écran\nUn vaccin contre le virus Zaïre a été approuvé en 2019 par les États-Unis et l'Europe, mais il n’existe toujours pas de vaccins ni de traitements pour les autres espèces qui causent la maladie à virus Ebola.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Leukocyte Diseases and Conditions - Eosinophilia; Chicago Medical School at Rosalind Franklin University Researcher Releases New Data on Eosinophilia (A Case of Idiopathic Chronic Eosinophilic Pneumonia)",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696240",
-      "pubDate": "Sat, 06 Jun 2026 07:56:00 Z",
-      "desc": "2026 JUN 7 (NewsRx) -- By a News Reporter-Staff News Editor at Medical Devices & Surgical Technology Week -- Investigators publish new report on eosinophilia. According to news originating from North Chicago, Illinois, by NewsRx editors, the research stated, \"Idiopathic chronic eosinophilic....",
-      "tag": "analysis"
-    },
-    {
-      "title": "New 'AI vaccine' could protect against ALL viruses including Covid and Ebola: 'Cutting-edge jab technology is future proofed against new mutations'",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696239",
-      "pubDate": "Sat, 06 Jun 2026 07:56:00 Z",
-      "desc": "* READ MORE: NHS tells staff to prepare for Ebola outbreak in the UK\nResearchers have developed a new way to prevent people falling ill with potential pandemic level viruses - before they have even become a threat.\nDubbed 'universal vaccine' technology, the Cambridge University-led team believe that....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Kenya receives critical Ebola supplies to boost border surveillance",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696244",
-      "pubDate": "Sat, 06 Jun 2026 07:56:00 Z",
-      "desc": "ýKenya has received a consignment of infection prevention and control supplies aimed at strengthening the country's preparedness against Ebola and other public health threats.\nýThe supplies were handed over to the Ministry of Health by the International Organisation for Migration (IOM) on Friday in....",
-      "tag": "response"
-    },
-    {
-      "title": "Woman will be in quarantine until both test results out",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696204",
-      "pubDate": "Sat, 06 Jun 2026 07:51:00 Z",
-      "desc": "Jaipur: A 19-year-old Ugandan woman who arrived at Jaipur International Airport from the UAE Friday was found with symptoms consistent with an Ebola infection, in what is the first suspected case of the disease in Rajasthan. The woman, who arrived in Jaipur from Sharjah on an Air Arabia flight, was....",
-      "tag": "cases"
-    },
-    {
-      "title": "Nigeria Admits Ebola Gaps but Vows Containment",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696085",
-      "pubDate": "Sat, 06 Jun 2026 07:21:00 Z",
-      "desc": "NewsGhana, Latest Updates and Breaking News of Ghana, News Ghana, https://www.newsghana.com.gh/nigeria-admits-ebola-gaps-but-vows-containment/\nNigeria’s disease control agency says the country is not fully prepared for Ebola but can still contain the virus, as outbreaks in East and Central Africa raise the import risk.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Read moreLouisville nonprofit targets frontline Ebola outbreak with rapid sanitation support",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021694569",
-      "pubDate": "Sat, 06 Jun 2026 07:11:00 Z",
-      "desc": "WaterStep’s WOWCart is a mobile emergency water treatment plant. It utilizes disk filtration, ultra violet disinfectant, chlorination, and carbon filtration to produce up to 10,000 gallons of safe drinking water daily. However, during ...",
-      "tag": "analysis"
-    },
-    {
-      "title": "Three Ebola quarantine centres set up in Bungoma",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696031",
-      "pubDate": "Sat, 06 Jun 2026 07:06:00 Z",
-      "desc": "The Department of Health in Bungoma County has set up Ebola isolation and quarantine centres in three health facilities as a preparedness measure aimed at preventing a possible outbreak of the deadly viral disease in the area.\nThe facilities include the Bungoma County Referral Hospital (BCRH),....",
-      "tag": "response"
-    },
-    {
-      "title": "\"Three returnees from Ebola-hit African countries quarantined in Durg\": Chhattisgarh Health Minister",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021696045",
-      "pubDate": "Sat, 06 Jun 2026 07:06:00 Z",
-      "desc": "Raipur, June 6 -- Amidst the recent surge in Ebola virus cases in several parts of Africa, Chhattisgarh Health Minister Shyam Bihari Jaiswal on Saturday said the state is \"fully prepared to handle any potential virus infection\", while also announcing a new public grievance helpline under the Chief Minister's office.",
-      "tag": "cases"
     }
   ],
   "highWater": {
