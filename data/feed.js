@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 11 Jun 2026 04:10:18 Z",
-  "fetchedAt": "2026-06-11T04:10:18Z",
+  "lastBuildDate": "Thu, 11 Jun 2026 10:40:01 Z",
+  "fetchedAt": "2026-06-11T10:40:01Z",
   "itemCount": 249,
   "stats": {
     "drc": {
@@ -43,6 +43,34 @@ window.FEED_DATA = {
   },
   "items": [
     {
+      "title": "REUNION DE CONCERTATION D’URGENCE DES MINISTRES DE LA SANTE DES ETATSMEMBRES DE LA CEMAC POUR LA PRISE DES MESURES DE COORDINATION DE LA LUTTE CONTRE LA MALADIE A VIRUS EBOLA (MVE)",
+      "link": "https://oceac.org/reunion-de-concertation-durgence-des-ministres-de-la-sante-des-etatsmembres-de-la-cemac-pour-la-prise-des-mesures-de-coordination-de-la/",
+      "pubDate": "Thu, 11 Jun 2026 10:16:00 Z",
+      "desc": "FEUILLE DE ROUTE. Actions de Préparation et Riposte à la MVE en zone CEMAC AVEC l’approche ONE HEALTH.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ministry of health strengthens Busia boarder surveillance amidst reported Ebola cases in Uganda",
+      "link": "https://www.health.go.ke/ministry-health-strengthens-busia-boarder-surveillance-amidst-reported-ebola-cases-uganda",
+      "pubDate": "Thu, 11 Jun 2026 07:52:00 Z",
+      "desc": ",2026 Principal Secretary for Public Health and Professional Standards, Mary Muthoni, conducted a spot-check visit to the Busia One Stop Border Post to assess Ebola preparedness measures, surveillance systems, and traveler screening procedures amid reported cases in neighbouring Uganda.",
+      "tag": "cases"
+    },
+    {
+      "title": "¿Qué es la Enfermedad X y por qué la OMS se prepara para ella?",
+      "link": "https://espanol.medscape.com/s/viewarticle/amenaza-sin-nombre-qu%C3%A9-es-enfermedad-x-y-qu%C3%A9-oms-2026a1000jiq",
+      "pubDate": "Thu, 11 Jun 2026 07:24:00 Z",
+      "desc": "El patógeno que aún no existe... o que ya está entre nosotros En 2018, la Organización Mundial de la Salud (OMS) incorporó un elemento llamativo a su lista de enfermedades prioritarias: la \"Enfermedad X\". A diferencia de todas los demás componentes de esa lista, la Enfermedad X no hace referencia a un patógeno concreto ni a una dolencia conocida.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Kenya Strengthens Ebola Preparedness Through Rapid Response Team Training",
+      "link": "https://www.health.go.ke/kenya-strengthens-ebola-preparedness-through-rapid-response-team-training",
+      "pubDate": "Thu, 11 Jun 2026 06:53:00 Z",
+      "desc": "- Kenya has intensified its preparedness for Ebola Virus Disease (EVD) through a Rapid Response Team (RRT) Training of Trainers workshop aimed at strengthening national and sub-national capacity to detect, prevent and respond to potential outbreaks. Speaking during the opening of the four-day training in Nairobi, Cabinet Secretary for Health Hon.",
+      "tag": "response"
+    },
+    {
       "title": "Researchers identify genetic cause of severe childhood lung disease",
       "link": "https://www.news-medical.net/news/20260610/Researchers-identify-genetic-cause-of-severe-childhood-lung-disease.aspx",
       "pubDate": "Thu, 11 Jun 2026 03:11:00 Z",
@@ -55,6 +83,27 @@ window.FEED_DATA = {
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1097/ms9.0000000000005049\nAuthors: Harshika Khaim Chandani, Aasiya Ather, Erum Siddiqui, Muhammad Saad Khan, Devya Khaim Chandani, Abubakr Mahmoud\n \n                     Introduction and importance: \n                     Gitelman syndrome (GS) is a rare autosomal recessive renal tubulopathy caused by S",
       "tag": "analysis"
+    },
+    {
+      "title": "Clinical Profile and Genomic Characterization of the 2026 Bundibugyo Virus Index Case in Uganda",
+      "link": "https://doi.org/10.1038/s41591-026-04510-7",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/s41591-026-04510-7\nAuthors: Andrew Nsawotebba, Isaac Ssewanyana, Alisen Ayitewala, Misaki Wayengera, Stephen Kanyerezi, Jonathan Kabazzi, Valeria Nakintu, Aloysious Ssemaganda, Rodney Kisuule, Steven Ssekyondwa, Hellen Rosette Oundo, Ronald Kasujja, Amable Ayebare, Stephen Balinandi, Godfrey Pimundu, Tonny Muyigi, Godrine Mayanja Byekw",
+      "tag": "analysis"
+    },
+    {
+      "title": "Case Report: Genetically primed hyperinflammation: cytomegalovirus-triggered HLH-like syndrome in an adolescent with a gain-of-function STING1 (p.Arg281Trp) variant with novel autosomal dominant inheritance and atypical presentation",
+      "link": "https://doi.org/10.3389/fimmu.2026.1801755",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fimmu.2026.1801755\nAuthors: Ehab Abdelbadeeh Hassan Hammad, Tariq Zulfiquar Ali, Dieter Clemens Broering, Hassan Ali Aleid, Quaid Johar Nadri, Rehab Salah Fathy Nasr\n We report the case of an 18-year-old previously healthy female who developed acute liver and kidney injuries with cytopenia and hyperinflammatory markers following",
+      "tag": "analysis"
+    },
+    {
+      "title": "10 Jun 2026 – Bundibugyo virus disease outbreak: Confirmed cases reach 645; Africa CDC issues interim guidance",
+      "link": "https://beaconbio.org/en/report/?reportid=4f020d36-fa9b-4152-bb0f-098403395b53",
+      "pubDate": "Wed, 10 Jun 2026 23:50:00 Z",
+      "desc": "Event Title: Bundibugyo virus disease, Democratic Republic of the Congo and Uganda\nEvent URL: https://beaconbio.org/en/event/?eventid=1a9a0ef4-262f-45a1-9018-aa8f99d93a7c\n\nSources Africa CDC. Bundibugyo Virus Disease Outbreak Situational Report No. 23. 09 Jun 2026 Africa CDC. Interim Guidance on Blanket Travel Restrictions Following the Bundibugyo",
+      "tag": "cases"
     },
     {
       "title": "US Announces Additional $20 Million for Ebola Response",
@@ -113,17 +162,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Viewpoints: Our Politicians Will Always Find Something Else More Important Than Healthcare; Closure Of Strait Of Hormuz Is Hurting Food Production",
-      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-our-politicians-will-always-find-something-else-more-important-than-healthcare-closure-of-strait-of-hormuz-is-hurting-food-production/",
-      "pubDate": "Wed, 10 Jun 2026 13:13:00 Z",
-      "desc": "Perhaps it's understandable. Wars are raging. Prices for everything from gasoline to tomatoes are soaring. Chaos is the order of the day in the nation's capital. Who's got time to talk about the country's broken and failing healthcare system? So here we are, kicking the healthcare can down the road....",
-      "tag": "analysis"
-    },
-    {
       "title": "As Measles Spiked In 2025, So Did Vitamin A Poisonings",
       "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-061026/",
       "pubDate": "Wed, 10 Jun 2026 13:13:00 Z",
       "desc": "Internet searches for alternative measles treatments surged around the time Health and Human Services Secretary Robert F. Kennedy Jr. falsely claimed that the MMR vaccine causes encephalitis, according to a study reported in People.com. America's Poison Centers noted a 38.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Viewpoints: Our Politicians Will Always Find Something Else More Important Than Healthcare; Closure Of Strait Of Hormuz Is Hurting Food Production",
+      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-our-politicians-will-always-find-something-else-more-important-than-healthcare-closure-of-strait-of-hormuz-is-hurting-food-production/",
+      "pubDate": "Wed, 10 Jun 2026 13:13:00 Z",
+      "desc": "Perhaps it's understandable. Wars are raging. Prices for everything from gasoline to tomatoes are soaring. Chaos is the order of the day in the nation's capital. Who's got time to talk about the country's broken and failing healthcare system? So here we are, kicking the healthcare can down the road....",
       "tag": "analysis"
     },
     {
@@ -323,11 +372,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Headline Figure: Evolutionary Divergence of NPC1 Suggests Distinct Ebola Virus Interactions in Fruit Bats and Primates",
-      "link": "https://openalex.org/W7163994015",
+      "title": "DRC has strengthened its response to Ebola - but conflict and funding cuts are testing its capacity",
+      "link": "https://doi.org/10.1136/bmj-2026-721038",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.6084/m9.figshare.32609448.v1\nAuthors: Seth Bachman\nFigure 1. Evolutionary and structural variation in NPC1 across fruit batsand primates. (A) Maximum likelihood phylogeny (PhyML) of NPC1sequences from fruit bats (orange box), primates (blue box), andmouse outgroup (gray box). (B) Multiple sequence alignment of NPC1Domain C showing amino aci",
-      "tag": "analysis"
+      "desc": "DOI: 10.1136/bmj-2026-721038\nAuthors: Aula Abbara, Michael Adeyemi Lawal",
+      "tag": "response"
+    },
+    {
+      "title": "Viral load-driven systemic immune exhaustion is an enabler of antibody breadth in HIV infection",
+      "link": "https://doi.org/10.64898/2026.06.05.730519",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.05.730519\nAuthors: Izumi de los Rios Kobara, Uma Mangalanathan, Soneida Deline-Caballero, Mikayla Stabile, Camilo Andres Espinosa Bernal, Hannah L Itell, Vrasha Chohan, R Scott McClelland, Kishor Mandaliya, Julie Overbaugh, Catherine A Blish\n A broadly neutralizing response to a human immunodeficiency virus (HIV) vaccin",
+      "tag": "response"
     },
     {
       "title": "Headline Figure: Evolutionary Divergence of NPC1 Suggests Distinct Ebola Virus Interactions in Fruit Bats and Primates",
@@ -337,11 +393,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "DRC has strengthened its response to Ebola - but conflict and funding cuts are testing its capacity",
-      "link": "https://doi.org/10.1136/bmj-2026-721038",
+      "title": "Headline Figure: Evolutionary Divergence of NPC1 Suggests Distinct Ebola Virus Interactions in Fruit Bats and Primates",
+      "link": "https://openalex.org/W7163994015",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/bmj-2026-721038\nAuthors: Aula Abbara, Michael Adeyemi Lawal",
-      "tag": "response"
+      "desc": "DOI: 10.6084/m9.figshare.32609448.v1\nAuthors: Seth Bachman\nFigure 1. Evolutionary and structural variation in NPC1 across fruit batsand primates. (A) Maximum likelihood phylogeny (PhyML) of NPC1sequences from fruit bats (orange box), primates (blue box), andmouse outgroup (gray box). (B) Multiple sequence alignment of NPC1Domain C showing amino aci",
+      "tag": "analysis"
+    },
+    {
+      "title": "Headline Figure: Evolutionary Divergence of NPC1 Suggests Distinct Ebola Virus Interactions in Fruit Bats and Primates",
+      "link": "https://openalex.org/W7164042293",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.6084/m9.figshare.32609448\nAuthors: Seth Bachman\nFigure 1. Evolutionary and structural variation in NPC1 across fruit batsand primates. (A) Maximum likelihood phylogeny (PhyML) of NPC1sequences from fruit bats (orange box), primates (blue box), andmouse outgroup (gray box). (B) Multiple sequence alignment of NPC1Domain C showing amino acid v",
+      "tag": "analysis"
     },
     {
       "title": "Bundibugyo ebolavirus outbreaks: update on the current situation",
@@ -365,10 +428,52 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Dissecting the sources of variation in neuronally differentiated iPSC lines through multi-omics analysis",
+      "link": "https://doi.org/10.64898/2026.06.10.731279",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.10.731279\nAuthors: Casper de Visser, Lisa Rahm, Elly Lewerissa, Rachel Mijdam, Cenna Doornbos, Junda Huang, Luke O'Gorman, Firdaws Badmus, Clara D.M. van Karnebeek, Catharina G. Faber, Judith Verhoeven, Hans van Bokhoven, Nael Nadif Kasri, Dirk Lefeber, Peter A.C. 't Hoen, Alain J. van Gool, Purva Kulkarni\n Induced plur",
+      "tag": "analysis"
+    },
+    {
+      "title": "Neurological Manifestations in Adult Survivors of Ebola Virus Disease",
+      "link": "https://doi.org/10.1001/jamaneurol.2026.2112",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1001/jamaneurol.2026.2112\nAuthors: Bridgette Jeanne Billioux, Cavan Reilly, Collin van Ryn, Bryan Smith, Helen Tarfeh-Burnette, Joseph Dorbor, Korlia Bonarwolo, Victor Taryor, Matthew K. Schindler, Lauren Bowen Reoma, Shila Azodi, Joan Ohayon, Yoshimi Enose-Akahata, Rachel Bishop, Elizabeth Higgs, H. Clifford Lane, Kumblytee Johnson, Michae",
+      "tag": "analysis"
+    },
+    {
+      "title": "Knowledge, Attitudes, and Practices Regarding Ebola Virus Disease Among Medical Students and Their Implications for Outbreak Preparedness",
+      "link": "https://doi.org/10.7759/cureus.110595",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.7759/cureus.110595\nAuthors: Rania A El-Kady, Abdulelah F Alasmari, Sanhat   S Alotaibi, Abdullah  T Rawa",
+      "tag": "response"
+    },
+    {
+      "title": "The relationship between water quality measurements and the prevalence of kidney dysfunction among HTI employees in Banyuasin, Indonesia",
+      "link": "https://doi.org/10.55942/pssj.v6i6.1959",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.55942/pssj.v6i6.1959\nAuthors: Sulistya Ningsih, Marthia Ikhlasiah\n Chronic Kidney Disease (CKD) is a global health challenge with a worldwide prevalence of 13,4%. (Riskesdas, 2018). In. Indonesia, while the national prevalence among the productive-age population is 0,38%, Industrial Forest Plantation or Hutan Tanaman Industri (HTI) e",
+      "tag": "analysis"
+    },
+    {
+      "title": "Field evaluation of Kyasanur forest disease real-time PCR point-of-care assay",
+      "link": "https://doi.org/10.25259/ijmr_3018_2025",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.25259/ijmr_3018_2025\nAuthors: Anita Shete, Rima R. Sahay, Abhinendra Kumar, Pallavi D.M., Varsha Munj, Deepak Y. Patil, Savita Yadav, Yogita Kini, Patricia Fernandes, Pragya D. Yadav\n \n                     Background and objectives \n                     Kyasanur Forest Disease (KFD) is a tick-borne vir",
+      "tag": "analysis"
+    },
+    {
       "title": "Successful treatment of an NDM-5-producing, carbapenem-resistant Salmonella Kentucky ST198 infection with aztreonam and ceftazidime-avibactam in a patient with acute erythroid leukemia: a case report",
       "link": "https://doi.org/10.1186/s12879-026-13519-9",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1186/s12879-026-13519-9\nAuthors: Yingcheng Qin, Li Lin, Hengrui Zhao, Xiumei Hu\n Abstract \n                   \n                     Introduction \n                     \n                       Salmonella enterica \n                      serotype Kentucky (",
+      "tag": "analysis"
+    },
+    {
+      "title": "“Unmasking Primary Hyperparathyroidism: A Rare Endocrine Cause of Vesicovaginal Fistula and Severe Urological Complications”.",
+      "link": "https://doi.org/10.1159/000549962",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1159/000549962\nAuthors: Rudrakshi Mahaldar, Vinod Kumar, Pratisruti Hui, Saurabh Raj, Bayneswar Pal\n Introduction: \nPrimary hyperparathyroidism (PHPT) is a relatively common endocrine disorder that is more frequently diagnosed in postmenopausal women; however, its association with vesicovaginal fistula (VVF) and severe urological com",
       "tag": "analysis"
     },
     {
@@ -377,13 +482,6 @@ window.FEED_DATA = {
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1099/acmi.0.001177.v2\nAuthors: Jun Yu Tay, Ibakkanavar Rajiva Guddappa, Alicia Xin Yu Ang, Angie Natalie Pinto\n Clostridium tetani, the causative organism of tetanus, is unusual in developed countries including Singapore and to our knowledge, only three known cases of Clostridium tetani bacteraemia have been reported worldwide. This",
       "tag": "cases"
-    },
-    {
-      "title": "Knowledge, Attitudes, and Practices Regarding Ebola Virus Disease Among Medical Students and Their Implications for Outbreak Preparedness",
-      "link": "https://doi.org/10.7759/cureus.110595",
-      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.7759/cureus.110595\nAuthors: Rania A El-Kady, Abdulelah F Alasmari, Sanhat   S Alotaibi, Abdullah  T Rawa",
-      "tag": "response"
     },
     {
       "title": "Nigéria : 360 otages de Boko Haram libérés par l'armée [Africanews Today]",
@@ -596,6 +694,20 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Early assessment of potential airline-mediated importation risk during the 2026 DRC-Uganda Bundibugyo virus disease outbreak",
+      "link": "https://doi.org/10.64898/2026.06.01.26354569",
+      "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.01.26354569\nAuthors: Kinoshita, R.; Suzuki, M.; Yoneoka, D.\nDuring the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda, we projected potential airline-mediated importation risk using contemporary airline network and an externally calibrated Ebola importation hazard. Effective-distance",
+      "tag": "analysis"
+    },
+    {
+      "title": "Long-term Neurologic, Cognitive and Psychiatric Sequelae of Ebola in Liberian Pediatric Survivors (S9.003)",
+      "link": "https://doi.org/10.1212/wnl.0000000000217797",
+      "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1212/wnl.0000000000217797\nAuthors: Hanalise Huff, Princess Lobbo, Victor Taryor, Joseph Dorbor, Rebecca Slewion, Gina Norato, Richa Dugirrala, Leroy Yankae, Avindra Nath, Dehkontee Dennis, Kumblytee Johnson, Bridgette Billioux",
+      "tag": "analysis"
+    },
+    {
       "title": "Bundibugyo Virus Disease Outbreak | Situation Report, Issue No. 23 – June 9, 2026",
       "link": "https://africacdc.org/download/bundibugyo-virus-disease-outbreak-situation-report-issue-no-23-june-9-2026/",
       "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
@@ -792,17 +904,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "L’Union européenne renforce son soutien à la riposte avec une nouvelle contribution de 5 millions d’euros.",
-      "link": "https://insp.cd/lunion-europeenne-renforce-son-soutien-a-la-riposte-avec-une-nouvelle-contribution-de-5-millions-deuros/",
-      "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
-      "desc": "juin 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, le 07 juin 2026. En visite de travail dans la province de l’Ituri, Mme Hadja Lahbib, Commissaire européenne chargée de l’Égalité, de la Préparation et de la Gestion des crises, a ré",
-      "tag": "analysis"
-    },
-    {
       "title": "Quand les rumeurs se propagent plus vite qu’Ebola",
       "link": "https://doi.org/10.1038/d44148-026-00150-8",
       "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1038/d44148-026-00150-8\nAuthors: Esther Nakkazi, Di Caelers",
+      "tag": "analysis"
+    },
+    {
+      "title": "L’Union européenne renforce son soutien à la riposte avec une nouvelle contribution de 5 millions d’euros.",
+      "link": "https://insp.cd/lunion-europeenne-renforce-son-soutien-a-la-riposte-avec-une-nouvelle-contribution-de-5-millions-deuros/",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
+      "desc": "juin 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, le 07 juin 2026. En visite de travail dans la province de l’Ituri, Mme Hadja Lahbib, Commissaire européenne chargée de l’Égalité, de la Préparation et de la Gestion des crises, a ré",
       "tag": "analysis"
     },
     {
@@ -939,13 +1051,6 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Ebola en RDC : à Bunia, l'épidémie bouleverse l'organisation des mariages",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701531",
-      "pubDate": "Sun, 07 Jun 2026 19:16:00 Z",
-      "desc": "L’épidémie d'Ebola qui sévit actuellement en République démocratique du Congo s’invite jusque dans l’organisation des mariages.\nÀ Bunia, capitale de la province d'Ituri, l'épicentre de l’épidémie, les autorités locales et l’Église ont imposé...",
-      "tag": "analysis"
-    },
-    {
       "title": "A Beni, les confessions religieuses s’engagent dans la prévention d’Ebola",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701521",
       "pubDate": "Sun, 07 Jun 2026 19:16:00 Z",
@@ -953,10 +1058,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Stop blowing the Ebola pandemic out of proportion",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702757",
-      "pubDate": "Sun, 07 Jun 2026 18:45:00 Z",
-      "desc": "Health workers prepare for a clean-up of one of the Ebola Treatment Units in Mubende District in 2023. Uganda has a strong history of dealing with Ebola. COURTESY PHOTO.",
+      "title": "Ebola en RDC : à Bunia, l'épidémie bouleverse l'organisation des mariages",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701531",
+      "pubDate": "Sun, 07 Jun 2026 19:16:00 Z",
+      "desc": "L’épidémie d'Ebola qui sévit actuellement en République démocratique du Congo s’invite jusque dans l’organisation des mariages.\nÀ Bunia, capitale de la province d'Ituri, l'épicentre de l’épidémie, les autorités locales et l’Église ont imposé...",
       "tag": "analysis"
     },
     {
@@ -967,11 +1072,11 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus — Democratic Republic of the Congo and Uganda, May 2026 | MMWR",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702770",
-      "pubDate": "Sun, 07 Jun 2026 18:40:00 Z",
-      "desc": "Bundibugyo virus disease (BVD) is a type of Ebola disease, a severe and often fatal viral hemorrhagic fever (1). Bundibugyo virus was first identified in 2007, when it caused an outbreak in Uganda with 149 suspected cases and 37 deaths (2). A 2012 BVD outbreak in DRC resulted in 56 laboratory-confirmed cases and 17 deaths (3).",
-      "tag": "cases"
+      "title": "Stop blowing the Ebola pandemic out of proportion",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702757",
+      "pubDate": "Sun, 07 Jun 2026 18:45:00 Z",
+      "desc": "Health workers prepare for a clean-up of one of the Ebola Treatment Units in Mubende District in 2023. Uganda has a strong history of dealing with Ebola. COURTESY PHOTO.",
+      "tag": "analysis"
     },
     {
       "title": "Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026 | MMWR",
@@ -979,6 +1084,13 @@ window.FEED_DATA = {
       "pubDate": "Sun, 07 Jun 2026 18:40:00 Z",
       "desc": "Eric Q. Mooring, ScD1,2; William T. Koval, PhD1; Isobel Routledge, PhD3; Inga Holmdahl, PhD4; Guido España, PhD1; Rebecca Kahn, PhD4; Beau B. Bruce, MD, PhD1 (View author affiliations)\nView suggested citation\nSummary\nWhat is already known about this topic?\nAn outbreak of Bundibugyo virus disease....",
       "tag": "analysis"
+    },
+    {
+      "title": "Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus — Democratic Republic of the Congo and Uganda, May 2026 | MMWR",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702770",
+      "pubDate": "Sun, 07 Jun 2026 18:40:00 Z",
+      "desc": "Bundibugyo virus disease (BVD) is a type of Ebola disease, a severe and often fatal viral hemorrhagic fever (1). Bundibugyo virus was first identified in 2007, when it caused an outbreak in Uganda with 149 suspected cases and 37 deaths (2). A 2012 BVD outbreak in DRC resulted in 56 laboratory-confirmed cases and 17 deaths (3).",
+      "tag": "cases"
     },
     {
       "title": "Ebola : Hadja Lahbib en RDC pour soutenir la lutte contre le virus Ebola",
@@ -995,18 +1107,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Hanington: Is Ebola the next pandemic?",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702304",
-      "pubDate": "Sun, 07 Jun 2026 18:30:00 Z",
-      "desc": "Ebola in Africa is making the nightly news this month because larger outbreaks seem to be moving quickly and the rate of mortality is very high. This concerning virus, coming five years later on the heels of the Covid pandemic, conjures up images of masks and equal line spacing marks on grocery....",
-      "tag": "analysis"
-    },
-    {
       "title": "Officials are scrambling to understand the scope of the Ebola outbreak",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702685",
       "pubDate": "Sun, 07 Jun 2026 18:30:00 Z",
       "desc": "Health officials are still scrambling to understand the scope of the Ebola outbreak in Central Africa. The Democratic Republic of Congo and Uganda have nearly 400 confirmed cases now, just three weeks after the outbreak began, meaning it's ...",
       "tag": "cases"
+    },
+    {
+      "title": "Hanington: Is Ebola the next pandemic?",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702304",
+      "pubDate": "Sun, 07 Jun 2026 18:30:00 Z",
+      "desc": "Ebola in Africa is making the nightly news this month because larger outbreaks seem to be moving quickly and the rate of mortality is very high. This concerning virus, coming five years later on the heels of the Covid pandemic, conjures up images of masks and equal line spacing marks on grocery....",
+      "tag": "analysis"
     },
     {
       "title": "Kenya dispatch: High Court suspends US-backed Ebola quarantine facility",
@@ -1030,17 +1142,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "DRC: Local authorities, church impose certain Ebola restriction measures",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701601",
-      "pubDate": "Sun, 07 Jun 2026 18:20:00 Z",
-      "desc": "Despite the Ebola outbreak in Bunia, in the Democratic Republic of Congo, some families were determined to go ahead with their relatives’ weddings.\nHowever, the local authorities and the church imposed certain measures that had to be followed, even though not everyone was happy about it.",
-      "tag": "analysis"
-    },
-    {
       "title": "Health workers at the epicenter of Congo's Ebola outbreak labor with little pay or rest",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701536",
       "pubDate": "Sun, 07 Jun 2026 18:20:00 Z",
       "desc": "MONGBWALU, Congo -- Dr. Richard Lokudu, the medical director of Mongbwalu General Referral Hospital, has received barely any compensation for his work on the front line of one of Congo's deadliest Ebola virus outbreaks.",
+      "tag": "analysis"
+    },
+    {
+      "title": "DRC: Local authorities, church impose certain Ebola restriction measures",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701601",
+      "pubDate": "Sun, 07 Jun 2026 18:20:00 Z",
+      "desc": "Despite the Ebola outbreak in Bunia, in the Democratic Republic of Congo, some families were determined to go ahead with their relatives’ weddings.\nHowever, the local authorities and the church imposed certain measures that had to be followed, even though not everyone was happy about it.",
       "tag": "analysis"
     },
     {
@@ -1226,18 +1338,18 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Hanta Cruise Virus Storm! New Zealand tourists strengthen self-health management for 42 days; quarantine lifted today",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700815",
-      "pubDate": "Sun, 07 Jun 2026 12:40:00 Z",
-      "desc": "Recently, the Dutch cruise ship 'MV Hondius' experienced a hantavirus Andean cluster. After being reported by the World Health Organization and the International Health Regulations (IHR), it was confirmed that a New Zealand passenger who had previously traveled on the cruise entered Taiwan on May 7.",
-      "tag": "cases"
-    },
-    {
       "title": "Breakthrough: Universal Coronavirus Vaccine Designed By AI Passes Human Trial",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700801",
       "pubDate": "Sun, 07 Jun 2026 12:40:00 Z",
       "desc": "In a historic milestone for global public health, an experimental \"universal\" coronavirus vaccine designed entirely by artificial intelligence (AI) has successfully completed its first human clinical trial. According to peer-reviewed data published in the Journal of Infection, the Phase 1 clinical....",
       "tag": "analysis"
+    },
+    {
+      "title": "Hanta Cruise Virus Storm! New Zealand tourists strengthen self-health management for 42 days; quarantine lifted today",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021700815",
+      "pubDate": "Sun, 07 Jun 2026 12:40:00 Z",
+      "desc": "Recently, the Dutch cruise ship 'MV Hondius' experienced a hantavirus Andean cluster. After being reported by the World Health Organization and the International Health Regulations (IHR), it was confirmed that a New Zealand passenger who had previously traveled on the cruise entered Taiwan on May 7.",
+      "tag": "cases"
     },
     {
       "title": "Jaipur: Ugandan Tourist with Ebola-Like Symptoms Tests Negative",
@@ -1436,18 +1548,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "À retenir ce soir : rassemblement pour Lyhanna, mort de Bernadette Chirac, ebola en Afrique centrale, flottille pour Gaza et Andreeva remporte Roland-Garros",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698585",
-      "pubDate": "Sat, 06 Jun 2026 23:50:00 Z",
-      "desc": "BONSOIR LA RÉUNION - À la une de ce samedi soir 6 juin 2026 :- Mort de Lyhanna : une mobilisation citoyenne organisée ce lundi à Saint-Denis - Bernadette Chirac est morte à l'âge de 93 ans - Ebola: près de 500 cas confirmés en Afrique centrale, selon l'OMS - \"Flottille pour Gaza\" : la justice....",
-      "tag": "analysis"
-    },
-    {
       "title": "Infant revived after suspected overdose in Eddington",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021699622",
       "pubDate": "Sat, 06 Jun 2026 23:50:00 Z",
       "desc": "An infant survived what may have been an overdose over the weekend in Eddington.\nJust before 2:30 p.m. on Sunday, a 911 call came in reporting an infant in cardiac arrest at a home on Clewleyville Road, the Penobscot County Sheriff’s Office said in a news release, Thursday.",
       "tag": "cases"
+    },
+    {
+      "title": "À retenir ce soir : rassemblement pour Lyhanna, mort de Bernadette Chirac, ebola en Afrique centrale, flottille pour Gaza et Andreeva remporte Roland-Garros",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698585",
+      "pubDate": "Sat, 06 Jun 2026 23:50:00 Z",
+      "desc": "BONSOIR LA RÉUNION - À la une de ce samedi soir 6 juin 2026 :- Mort de Lyhanna : une mobilisation citoyenne organisée ce lundi à Saint-Denis - Bernadette Chirac est morte à l'âge de 93 ans - Ebola: près de 500 cas confirmés en Afrique centrale, selon l'OMS - \"Flottille pour Gaza\" : la justice....",
+      "tag": "analysis"
     },
     {
       "title": "Robust Ebola prevention measures in place – PM Nsengiyumva",
@@ -1618,17 +1730,17 @@ window.FEED_DATA = {
       "tag": "pheic"
     },
     {
-      "title": "Ebola : le Parlement des jeunes dénonce la désinformation sur la maladie à Beni",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697815",
-      "pubDate": "Sat, 06 Jun 2026 19:50:00 Z",
-      "desc": "Beni, 6 juin 2026 (ACP).- La circulation de nombreuses informations non vérifiées sur la maladie à virus Ebola a été dénoncée à Beni, par le Parlement urbain des jeunes de cette ville du Nord-Kivu, dans l’Est de la République démocratique du Congo (RDC), selon un communiqué parvenu samedi à l’ACP.",
-      "tag": "analysis"
-    },
-    {
       "title": "EARLY RELEASE: Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697833",
       "pubDate": "Sat, 06 Jun 2026 19:50:00 Z",
       "desc": "What is already known about this topic?\nAn outbreak of Bundibugyo virus disease (BVD), a type of Ebola disease, is currently occurring, centered in the Ituri province of the Democratic Republic of the Congo (DRC).",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola : le Parlement des jeunes dénonce la désinformation sur la maladie à Beni",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697815",
+      "pubDate": "Sat, 06 Jun 2026 19:50:00 Z",
+      "desc": "Beni, 6 juin 2026 (ACP).- La circulation de nombreuses informations non vérifiées sur la maladie à virus Ebola a été dénoncée à Beni, par le Parlement urbain des jeunes de cette ville du Nord-Kivu, dans l’Est de la République démocratique du Congo (RDC), selon un communiqué parvenu samedi à l’ACP.",
       "tag": "analysis"
     },
     {
@@ -1653,17 +1765,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Ebola outbreak: US doctor who contracted the Bundibugyo strain, discharged from Berlin hospital; here's what we know",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698494",
-      "pubDate": "Sat, 06 Jun 2026 19:30:00 Z",
-      "desc": "New Delhi, June 6 -- The US doctor who contracted the Ebola virus while working on a humanitarian mission in the Democratic Republic of the Congo (DRC) has been released from a hospital in Germany after recovering from the potentially deadly disease.\nPeter Stafford was working with the missionary....",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola en Ituri: une université suspend les stages des doctorants en médecine",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697769",
       "pubDate": "Sat, 06 Jun 2026 19:30:00 Z",
       "desc": "Bunia, 6 juin 2026 (ACP).- Le rectorat de l’Université de Bunia (Unibu) a annoncé la suspension jusqu’à nouvel ordre des stages des étudiants de quatrième année de doctorat en médecine, en raison de la maladie à virus Ebola qui prévaut en Ituri(Nord-Est de la République démocratique du Congo), selon....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola outbreak: US doctor who contracted the Bundibugyo strain, discharged from Berlin hospital; here's what we know",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698494",
+      "pubDate": "Sat, 06 Jun 2026 19:30:00 Z",
+      "desc": "New Delhi, June 6 -- The US doctor who contracted the Ebola virus while working on a humanitarian mission in the Democratic Republic of the Congo (DRC) has been released from a hospital in Germany after recovering from the potentially deadly disease.\nPeter Stafford was working with the missionary....",
       "tag": "analysis"
     },
     {
@@ -1672,118 +1784,6 @@ window.FEED_DATA = {
       "pubDate": "Sat, 06 Jun 2026 19:10:00 Z",
       "desc": "Environ six centres de santé de Bunia, en Ituri, ont été temporairement fermés, vendredi 5 juin, après la détection de cas suspects d’Ebola.",
       "tag": "cases"
-    },
-    {
-      "title": "WHO announces $518 million six-month plan to fight EbolaNAIROBI, June 5 (Reuters) - The World Health Organization chief announced a $518 million six-month joint plan to fight Ebola ... 22h ago",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697628",
-      "pubDate": "Sat, 06 Jun 2026 18:50:00 Z",
-      "desc": "NAIROBI, June 5 (Reuters) – The World Health Organization chief announced a $518 million six-month joint plan to fight Ebola on Friday, calling for money and political commitment to ​halt the spread of the outbreak that is ‌already the ...",
-      "tag": "analysis"
-    },
-    {
-      "title": "13:40Ebola: près de 500 cas confirmés en Afrique centrale",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697573",
-      "pubDate": "Sat, 06 Jun 2026 18:30:00 Z",
-      "desc": "Des membres de l’organisation Médecins Sans Frontières (MSF), au centre de traitement Ebola de la clinique Elikya, font un signe en quittant les chambres de patients atteints du virus à Bunia, dans l’est de la République démocratique du ...",
-      "tag": "analysis"
-    },
-    {
-      "title": "‘We live with fear': In Congo, doctors face Ebola with little protection",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697486",
-      "pubDate": "Sat, 06 Jun 2026 18:10:00 Z",
-      "desc": "Harrowing scenes are unfolding at health facilities at the epicenter of an Ebola outbreak in the Democratic Republic of Congo.\nA 25-year-old midwife and a doctor in his early 30s are sick with Ebola symptoms, including fevers and severe joint pain, said their colleague Elisabeth Furaha, the medical....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola: l’OMS lance un plan de 518 millions de dollars pour enrayer l’épidémie",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698312",
-      "pubDate": "Sat, 06 Jun 2026 18:05:00 Z",
-      "desc": "Kinshasa, 6 juin 2026(ACP).- Un plan de riposte évalué à 518 millions USD, mobilisant l’OMS et partenaires a été conçus et dévoilé pour une action rapide et coordonnée en Ituri en République démocratique du Congo et en Ouganda, selon le principe «un plan, un budget, une équipe» pour la période de....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Suspectés d'Ebola, cinq détenus de la prison de Bunia testés négatifs",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698292",
-      "pubDate": "Sat, 06 Jun 2026 18:05:00 Z",
-      "desc": "Les cinq détenus de la prison centrale de Bunia (Ituri) initialement suspectés d'Ebola ont été déclarés négatifs ce vendredi 5 juin, après analyses de laboratoire, selon les autorités sanitaires et pénitentiaires.\nMalgré ce résultat, les acteurs de la riposte appellent à renforcer le dispositif de....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola en Ituri : le triage sanitaire renforcé pour déceler les cas suspects malades",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698250",
-      "pubDate": "Sat, 06 Jun 2026 17:55:00 Z",
-      "desc": "Bunia, 6 juin 2026 (ACP).- Le système de triage a été renforcé dans les structures de santé dans la province de l’Ituri(Nord-est de la République Démocratique du Congo) afin de séparer les cas suspects de la maladie à virus Ebola et les autres malades, a annoncé vendredi le Directeur général de l’Institut national de santé publique (INSP).",
-      "tag": "cases"
-    },
-    {
-      "title": "SANTÉ; Ebola - malgré un risque estimé faible pour l’UE, les ministres européens renforcent leur coordination et maintiennent la vigilance",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698249",
-      "pubDate": "Sat, 06 Jun 2026 17:50:00 Z",
-      "desc": "Bruxelles, 05/06/2026 (Agence Europe) – Au cours de leur réunion informelle en vidéoconférence, vendredi 5 juin, les ministres européens de la Santé ont estimé que l’épidémie d’Ebola qui sévit en Afrique centrale présente un risque faible pour l’Union européenne, mais sont convenus de poursuivre une....",
-      "tag": "analysis"
-    },
-    {
-      "title": "How disinformation in Congo is worsening Ebola epidemic",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697434",
-      "pubDate": "Sat, 06 Jun 2026 17:50:00 Z",
-      "desc": "Three weeks since the start of the latest Ebola epidemic in the Democratic Republic of Congo, the facts are: 397 confirmed cases, including 63 confirmed deaths, according to the latest figures reported by the African Union's Africa Centres ...",
-      "tag": "cases"
-    },
-    {
-      "title": "Sud-Kivu : des traversées clandestines sur la rivière Ruzizi échappent à la surveillance sanitaire",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698219",
-      "pubDate": "Sat, 06 Jun 2026 17:50:00 Z",
-      "desc": "Kamanyola, 6 juin 2026 (ACP).– Les traversées clandestines entre le Rwanda et la République démocratique du Congo( RDC) continuent de se multiplier sur la rivière Ruzizi, échappant aux surveillances sanitaires contre Ebola, a-t-on appris samedi de source sanitaire.",
-      "tag": "analysis"
-    },
-    {
-      "title": "2 suspected Ebola cases from Sudan, Uganda hospitalised",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697432",
-      "pubDate": "Sat, 06 Jun 2026 17:50:00 Z",
-      "desc": "Two suspected Ebola casees were reported on Friday, one in Hyderabad and the other in Jaipur.\nThe Sudanese national, a student in his 20s, was referred to Gandhi Hospital on Thursday evening from a private health facility, they said.",
-      "tag": "cases"
-    },
-    {
-      "title": "Where’s the Ebola virus hiding and the years-long hunt to find the animal spreading itFor five decades, scientists have wondered which animal is responsible for the outbreak of Ebola viruses and they are still not sure.",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697461",
-      "pubDate": "Sat, 06 Jun 2026 17:50:00 Z",
-      "desc": "Despite decades of research, scientists still have not identified the animal reservoir responsible for Ebola outbreaks.\nSince 1976, when Ebola was first identified as a zoonotic disease, scientists have trapped and studied thousands of ...",
-      "tag": "analysis"
-    },
-    {
-      "title": "US adds $38 million for Ebola as CDC warns outbreak could match 2014By Ahmed Aboulenein and Michael Erman WASHINGTON, June 5 (Reuters) - The United States said on Friday it would provide an add... 16h ago",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697355",
-      "pubDate": "Sat, 06 Jun 2026 17:30:00 Z",
-      "desc": "WASHINGTON, June 5 (Reuters) – The United States said on Friday it would provide an additional $38 million for Ebola response efforts, as the CDC warned that without strong public health interventions the outbreak in the Democratic Republic...",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola 'spreads': Democratic Republic of the Congo reports 452 cases and 82 deaths",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698107",
-      "pubDate": "Sat, 06 Jun 2026 17:25:00 Z",
-      "desc": "Authorities in the Democratic Republic of the Congo (DRC) have raised the number of confirmed cases in the Ebola outbreak declared in the eastern part of the country on May 15 to 452. The figure includes 82 deaths and continues to raise concerns about “rapid and ongoing community transmission.",
-      "tag": "cases"
-    },
-    {
-      "title": "Spain is at the continental epicenter of global warming, warns The Lancet",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697220",
-      "pubDate": "Sat, 06 Jun 2026 17:10:00 Z",
-      "desc": "Tropical diseases are knocking on the Mediterranean’s door, droughts are shrinking harvests and emptying wallets… and politicians are talking about something else, denounces the European Lancet Countdown 2026 report. Prepared by 65 scientists from 46 institutions, it warns: the window of opportunity....",
-      "tag": "analysis"
-    },
-    {
-      "title": "The US said on Friday it would provide an additional $38m (R629.3m) for Ebola response efforts",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697183",
-      "pubDate": "Sat, 06 Jun 2026 16:50:00 Z",
-      "desc": "The US said on Friday it would provide an additional $38m (R629.3m) for Ebola response efforts, as the US Centres for Disease Control and Prevention (CDC) warned that without strong public health interventions the outbreak in the Democratic...",
-      "tag": "response"
-    },
-    {
-      "title": "Hantavirus and our changing relationship with nature",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021697174",
-      "pubDate": "Sat, 06 Jun 2026 16:50:00 Z",
-      "desc": "BEFORE THE Covid 19 pandemic fear would have been long forgotten, a possible pandemic threat lingered a new wave of fear across the globe.\nA few weeks ago, Dutch cruise ship, M/V Hondius, made global headlines for carrying a few infected passengers with hantavirus disease on board.",
-      "tag": "analysis"
     }
   ],
   "highWater": {
