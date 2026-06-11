@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 11 Jun 2026 20:24:41 Z",
-  "fetchedAt": "2026-06-11T20:24:42Z",
+  "lastBuildDate": "Thu, 11 Jun 2026 22:50:26 Z",
+  "fetchedAt": "2026-06-11T22:50:27Z",
   "itemCount": 249,
   "stats": {
     "drc": {
@@ -42,6 +42,20 @@
     "sourceLabel": "WHO / OMS"
   },
   "items": [
+    {
+      "title": "Africa CDC urges stronger Ebola exit screenings at member-state borders",
+      "link": "https://www.cidrap.umn.edu/ebola/africa-cdc-urges-stronger-ebola-exit-screenings-member-state-borders",
+      "pubDate": "Thu, 11 Jun 2026 20:55:00 Z",
+      "desc": "The Africa Centres for Disease Control and Prevention (Africa CDC) is urging member states to in light of the growing Ebola outbreak in the Democratic Republic of the Congo (DRC). Analysis from the Africa CDC Emergency Consultative Group (ECG), an independent advisory body to the Africa CDC, said....",
+      "tag": "response"
+    },
+    {
+      "title": "The State of US Vaccine Policy — Jun 11, 2026",
+      "link": "https://www.cidrap.umn.edu/childhood-vaccines/state-us-vaccine-policy-jun-11-2026",
+      "pubDate": "Thu, 11 Jun 2026 20:26:00 Z",
+      "desc": "The Storm Before the Storm: An Executive Order, Religious Exemptions, and More. Welcome to our biweekly series in partnership with at the University of Minnesota. Minneapolis was hit with severe thunderstorms a couple nights ago, so I (Izzy) spent a good chunk of the evening with my dog, swaddled in....",
+      "tag": "analysis"
+    },
     {
       "title": "Quick Takes: New avian flu detections, early uptick in Florida Vibrio cases, Salmonella outbreak of unknown origin",
       "link": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/quick-takes-new-avian-flu-detections-early-uptick-florida-vibrio-cases",
@@ -211,6 +225,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Protocol for Bundibugyo ebolavirus qPCR SYBR singleplex assay v1",
+      "link": "https://doi.org/10.17504/protocols.io.8epv5w655v1b/v1",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.17504/protocols.io.8epv5w655v1b/v1\nAuthors: Elyse Stachler, Kyle McMahon, Stella Nielsen, Hannah Knoll, Colby Wilkason, Al Ozonoff, Pardis Sabeti\n In May 2026, an outbreak of Bundibugyo ebolavirus (BDBV) in the Democratic Republic of the Congo was declared a Public Health Emergency of International Concern by the World Health Organization",
+      "tag": "pheic"
+    },
+    {
       "title": "Case Report: Genetically primed hyperinflammation: cytomegalovirus-triggered HLH-like syndrome in an adolescent with a gain-of-function STING1 (p.Arg281Trp) variant with novel autosomal dominant inheritance and atypical presentation",
       "link": "https://doi.org/10.3389/fimmu.2026.1801755",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
@@ -222,6 +243,20 @@
       "link": "https://doi.org/10.9734/jamb/2026/v26i71139",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.9734/jamb/2026/v26i71139\nAuthors: Chinwebudu M. Melford, Jerome A. Tan, Paul Peejay E. Celo, Racquel Huerte, Eunice Fay Cayacap, Lorreine Denise W. Castañares, Emmalyn B. Cutamora\n Hantaviruses are zoonotic negative-sense RNA viruses transmitted to humans principally through inhalation of aerosolised excreta from persistently infecte",
+      "tag": "analysis"
+    },
+    {
+      "title": "Pancreatic Stone Protein as an Early Predictor of Adverse Events in Patients with Infection Presenting to the Emergency Department: A Pilot Study",
+      "link": "https://doi.org/10.3390/jpm16060312",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/jpm16060312\nAuthors: Louiza Mpoumi, Georgia Sarantos, Vasiliki Bistola, Sofia Bezati, Christos Verras, Ioanna Rita, Sotirios Tsiodras, John Parissis, Effie Polyzogopoulou\n Background: Pancreatic stone protein (PSP) has recently emerged as a novel biomarker with diagnostic and prognostic potential in sepsis. The present study aim",
+      "tag": "analysis"
+    },
+    {
+      "title": "Pathogen detection in central nervous system infections: moving metagenomic sequencing closer to clinical practice",
+      "link": "https://doi.org/10.1186/s12879-026-13276-9",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s12879-026-13276-9\nAuthors: Nicola Cumley, Josh Quick, Thomas Brier, Sam Wilkinson, Chris Kent, Zaki Hassan-Smith, Nicholas Loman, Ghaniah Hassan-Smith\n Abstract \n                   \n                     Background \n                     Central nervous system infections (CNS",
       "tag": "analysis"
     },
     {
@@ -379,17 +414,17 @@
       "tag": "response"
     },
     {
-      "title": "Relief in Lira as suspected Ebola case tests negative, but patient succumbs to liver failure",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021721410",
-      "pubDate": "Wed, 10 Jun 2026 10:50:00 Z",
-      "desc": "A suspected Ebola patient admitted to Lira Regional Referral Hospital has tested negative for the virus, bringing temporary relief to the Lango Sub-region amid heightened national surveillance. However, despite medical interventions, the patient ultimately succumbed to liver failure.",
-      "tag": "cases"
-    },
-    {
       "title": "Aumentan a más de 100 los muertos por brote de ébola en República Democrática del Congo",
       "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021721411",
       "pubDate": "Wed, 10 Jun 2026 10:50:00 Z",
       "desc": "Este es el contenido curado de los acontecimientos diarios más relevantes alrededor del mundo.\nAumentan a más de 100 los muertos por brote de ébola en República Democrática del Congo\n— El brote de ébola causado por el virus Bundibugyo ya dejó al menos 101 personas fallecidas en República Democrática....",
+      "tag": "cases"
+    },
+    {
+      "title": "Relief in Lira as suspected Ebola case tests negative, but patient succumbs to liver failure",
+      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021721410",
+      "pubDate": "Wed, 10 Jun 2026 10:50:00 Z",
+      "desc": "A suspected Ebola patient admitted to Lira Regional Referral Hospital has tested negative for the virus, bringing temporary relief to the Lango Sub-region amid heightened national surveillance. However, despite medical interventions, the patient ultimately succumbed to liver failure.",
       "tag": "cases"
     },
     {
@@ -575,13 +610,6 @@
       "tag": "analysis"
     },
     {
-      "title": "The relationship between water quality measurements and the prevalence of kidney dysfunction among HTI employees in Banyuasin, Indonesia",
-      "link": "https://doi.org/10.55942/pssj.v6i6.1959",
-      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.55942/pssj.v6i6.1959\nAuthors: Sulistya Ningsih, Marthia Ikhlasiah\n Chronic Kidney Disease (CKD) is a global health challenge with a worldwide prevalence of 13,4%. (Riskesdas, 2018). In. Indonesia, while the national prevalence among the productive-age population is 0,38%, Industrial Forest Plantation or Hutan Tanaman Industri (HTI) e",
-      "tag": "analysis"
-    },
-    {
       "title": "Dissecting the sources of variation in neuronally differentiated iPSC lines through multi-omics analysis",
       "link": "https://doi.org/10.64898/2026.06.10.731279",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
@@ -589,10 +617,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Field evaluation of Kyasanur forest disease real-time PCR point-of-care assay",
-      "link": "https://doi.org/10.25259/ijmr_3018_2025",
+      "title": "The relationship between water quality measurements and the prevalence of kidney dysfunction among HTI employees in Banyuasin, Indonesia",
+      "link": "https://doi.org/10.55942/pssj.v6i6.1959",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.25259/ijmr_3018_2025\nAuthors: Anita Shete, Rima R. Sahay, Abhinendra Kumar, Pallavi D.M., Varsha Munj, Deepak Y. Patil, Savita Yadav, Yogita Kini, Patricia Fernandes, Pragya D. Yadav\n \n                     Background and objectives \n                     Kyasanur Forest Disease (KFD) is a tick-borne vir",
+      "desc": "DOI: 10.55942/pssj.v6i6.1959\nAuthors: Sulistya Ningsih, Marthia Ikhlasiah\n Chronic Kidney Disease (CKD) is a global health challenge with a worldwide prevalence of 13,4%. (Riskesdas, 2018). In. Indonesia, while the national prevalence among the productive-age population is 0,38%, Industrial Forest Plantation or Hutan Tanaman Industri (HTI) e",
       "tag": "analysis"
     },
     {
@@ -600,6 +628,13 @@
       "link": "https://doi.org/10.1001/jamaneurol.2026.2112",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1001/jamaneurol.2026.2112\nAuthors: Bridgette Jeanne Billioux, Cavan Reilly, Collin van Ryn, Bryan Smith, Helen Tarfeh-Burnette, Joseph Dorbor, Korlia Bonarwolo, Victor Taryor, Matthew K. Schindler, Lauren Bowen Reoma, Shila Azodi, Joan Ohayon, Yoshimi Enose-Akahata, Rachel Bishop, Elizabeth Higgs, H. Clifford Lane, Kumblytee Johnson, Michae",
+      "tag": "analysis"
+    },
+    {
+      "title": "Field evaluation of Kyasanur forest disease real-time PCR point-of-care assay",
+      "link": "https://doi.org/10.25259/ijmr_3018_2025",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.25259/ijmr_3018_2025\nAuthors: Anita Shete, Rima R. Sahay, Abhinendra Kumar, Pallavi D.M., Varsha Munj, Deepak Y. Patil, Savita Yadav, Yogita Kini, Patricia Fernandes, Pragya D. Yadav\n \n                     Background and objectives \n                     Kyasanur Forest Disease (KFD) is a tick-borne vir",
       "tag": "analysis"
     },
     {
@@ -1749,41 +1784,6 @@
       "pubDate": "Sat, 06 Jun 2026 21:51:00 Z",
       "desc": "Les cinq détenus de la prison centrale de Bunia (Ituri) initialement suspectés d’Ebola ont été déclarés négatifs ce vendredi 5 juin, après analyses de laboratoire, selon les autorités sanitaires et pénitentiaires.",
       "tag": "analysis"
-    },
-    {
-      "title": "Enhanced Ebola screening for some incoming flights",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698160",
-      "pubDate": "Sat, 06 Jun 2026 21:51:00 Z",
-      "desc": "(CNS): While local health officials continue to rate the current risk of the Ebola virus reaching the Cayman Islands as low, enhanced screening measures for selected incoming flights at Owen Roberts International Airport will begin next ...",
-      "tag": "analysis"
-    },
-    {
-      "title": "DR Congo's Bunia Airport reopens after 10-day Ebola closure",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698185",
-      "pubDate": "Sat, 06 Jun 2026 21:50:00 Z",
-      "desc": "Bunia Airport, the major airport in Ituri Province in eastern Democratic Republic of the Congo (DRC), resumed operations on Tuesday after a 10-day closure due to the Ebola outbreak, as authorities impose health protocols to allow flights to...",
-      "tag": "analysis"
-    },
-    {
-      "title": "Infectious disease specialist warns of the risk of Ebola to the country",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698178",
-      "pubDate": "Sat, 06 Jun 2026 21:50:00 Z",
-      "desc": "Santo Domingo, Dominican Republic — Infectious disease specialist Hector Balcácer drew the public’s attention to the possibility of Ebola reaching the country.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Screening, protocols, and surveillance: How is Mexico preparing to prevent outbreaks during the 2026 World Cup?",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021699000",
-      "pubDate": "Sat, 06 Jun 2026 21:10:00 Z",
-      "desc": "With just a few days to go before the 2026 FIFA World Cup kicks off, Mexico’s healthcare system is on high alert. The expected arrival of more than 5.5 million international tourists is forcing authorities to implement an unprecedented strategy to contain biological risks.",
-      "tag": "response"
-    },
-    {
-      "title": "Influenza cases are on the rise; experts urge high-risk individuals to get vaccinated quickly",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021698953",
-      "pubDate": "Sat, 06 Jun 2026 21:00:00 Z",
-      "desc": "Hong Kong Wen Wei Po (Reporter Zijing) — Professor Kong Fanyi, Chair Professor of Internal Medicine at the Faculty of Clinical Medicine, The University of Hong Kong, stated yesterday that the number of influenza A and B flu cases in Hong Kong has been on the rise recently, with increasing cases among children and the elderly.",
-      "tag": "cases"
     }
   ],
   "highWater": {
