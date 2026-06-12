@@ -1,8 +1,8 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 12 Jun 2026 15:19:35 Z",
-  "fetchedAt": "2026-06-12T15:19:35Z",
-  "itemCount": 249,
+  "lastBuildDate": "Fri, 12 Jun 2026 20:13:25 Z",
+  "fetchedAt": "2026-06-12T20:13:25Z",
+  "itemCount": 250,
   "stats": {
     "drc": {
       "deaths": 115,
@@ -27,8 +27,8 @@ window.FEED_DATA = {
         "suspected": 635
       },
       "media": {
-        "deaths": 115,
-        "suspected": 600,
+        "deaths": 138,
+        "suspected": 695,
         "confirmed": 600
       }
     },
@@ -42,6 +42,55 @@ window.FEED_DATA = {
   },
   "items": [
     {
+      "title": "Ebola strains coffee supply chains, with smallholders most at risk",
+      "link": "https://www.dairyreporter.com/Article/2026/06/12/uganda-ebola-outbreak-risks-to-coffee-trade-and-smallholder-farmers/",
+      "pubDate": "Fri, 12 Jun 2026 19:40:00 Z",
+      "desc": "In an interview with this publication, Alhassan Karakara, Associate Professor and Head of the Department of Applied Economics at the School of Economics at the University of Cape Coast (UCC) in Ghana, said restrictions imposed in Uganda to contain the Ebola outbreak mirror the situation during the pandemic.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Precautionary Guidance for the Ebola Virus",
+      "link": "https://www.gov.bm/articles/precautionary-guidance-ebola-virus",
+      "pubDate": "Fri, 12 Jun 2026 19:19:00 Z",
+      "desc": "Mr. Speaker, I rise this morning to provide an update to this Honorable House and to members of the public on the status of the Ebola Virus Disease and its relevance to Bermuda. On May 17, 2026, the World Health Organization declared Ebola Virus Disease a Public Health Emergency of International....",
+      "tag": "pheic"
+    },
+    {
+      "title": "Can Ebola disrupt coffee prices and stocks?",
+      "link": "https://www.dairyreporter.com/Article/2026/06/12/uganda-ebola-crisis-coffee-trade-risk-offset-by-global-supply-boom/",
+      "pubDate": "Fri, 12 Jun 2026 19:11:00 Z",
+      "desc": "The Ebola outbreak in the Democratic Republic of Congo and Uganda is causing alarm among global health and migration organisations. The outbreak, which has so far resulted in 695 cases and 138 deaths*, is being contained by African governments with the support of global organisations such as the WHO....",
+      "tag": "cases"
+    },
+    {
+      "title": "Weekly Bulletin EW 21, 2026",
+      "link": "https://www.moh.gov.jm/wp-content/uploads/2026/06/Weekly-Bulletin-EW-21-2026.pdf",
+      "pubDate": "Fri, 12 Jun 2026 17:57:00 Z",
+      "desc": "Week ending May 30, 2026 Epidemiological Week 21 WEEKLY EPIDEMIOLOGY BULLETIN NATIONAL SURVEILLANCE UNIT, MINISTRY OF HEALTH & WELLNESS, JAMAICA Weekly Spotlight Hurricanes Tropical cyclones, also known as typhoons or hurricanes, are among the most destructive weather phenomena.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Tanzania Advances Emergency Medical Team Readiness with EMT 10 Steps and Emergency Medical Team Coordination Cell EMTCC Training",
+      "link": "https://www.afro.who.int/countries/united-republic-of-tanzania/news/tanzania-advances-emergency-medical-team-readiness-emt-10-steps-and-emergency-medical-team",
+      "pubDate": "Fri, 12 Jun 2026 17:31:00 Z",
+      "desc": "Morogoro — As part of its commitment to strengthening preparedness, early detection, and rapid response to public health emergencies under the National Action Plan for Health Security (NAPHS), the Government of Tanzania is enhancing national emergency response capacity through Emergency Medical Team....",
+      "tag": "response"
+    },
+    {
+      "title": "El ébola y el oro - EL PAÍS",
+      "link": "https://elpais.com/america/2026-06-12/el-ebola-y-el-oro.html?outputType=amp",
+      "pubDate": "Fri, 12 Jun 2026 17:26:00 Z",
+      "desc": "-- Ecuador. Significance Rating: 1 El ébola y el oro&nbsp;&nbsp;EL PAÍS",
+      "tag": "analysis"
+    },
+    {
+      "title": "Kenya Ebola quarantine centre: The identity of a third person killed in protests confirmed - BBC",
+      "link": "https://www.bbc.com/news/articles/crlw3w84w30o",
+      "pubDate": "Fri, 12 Jun 2026 17:26:00 Z",
+      "desc": "Ebola -- Kenya. Significance Rating: 4 Kenya Ebola quarantine centre: The identity of a third person killed in protests confirmed&nbsp;&nbsp;BBC",
+      "tag": "cases"
+    },
+    {
       "title": "Ebola: Outbreak cases are “tip of iceberg,” says Africa CDC official at centre of epidemic",
       "link": "https://www.bmj.com/content/393/bmj-2026-726541",
       "pubDate": "Fri, 12 Jun 2026 14:20:00 Z",
@@ -49,18 +98,18 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "CDC Sets New World Screwworm Emergency Response In Motion",
-      "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-061226/",
-      "pubDate": "Fri, 12 Jun 2026 13:38:00 Z",
-      "desc": "The public health agency has activated a Level 3 emergency response — the agency’s lowest-level tier — and is assembling a team of career scientists who will closely monitor the outbreak and coordinate with local health departments, Bloomberg reports. Meanwhile, CIDRAP reports that the FDA has....",
-      "tag": "response"
-    },
-    {
       "title": "Viewpoints: Medicine Has Come So Far, And Now Politics Threatens Our Lifesaving Research; Government Doesn't Know What's Best For Children",
       "link": "https://kffhealthnews.org/morning-breakout/viewpoints-medicine-has-come-so-far-and-now-politics-threatens-our-lifesaving-research-government-doesnt-know-whats-best-for-children/",
       "pubDate": "Fri, 12 Jun 2026 13:38:00 Z",
       "desc": "Childhood leukemia, a likely death sentence when I was a medical student, is now survivable for most children. Cancer immunotherapy is extending life for many who would have died a decade ago. New technology is letting us repair genetic diseases at their source.",
       "tag": "analysis"
+    },
+    {
+      "title": "CDC Sets New World Screwworm Emergency Response In Motion",
+      "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-061226/",
+      "pubDate": "Fri, 12 Jun 2026 13:38:00 Z",
+      "desc": "The public health agency has activated a Level 3 emergency response — the agency’s lowest-level tier — and is assembling a team of career scientists who will closely monitor the outbreak and coordinate with local health departments, Bloomberg reports. Meanwhile, CIDRAP reports that the FDA has....",
+      "tag": "response"
     },
     {
       "title": "Communicable disease threats report, 6 - 12 June 2026, Week 24",
@@ -427,13 +476,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Characterization of Ebola Virus VP24-Host Protein Interactions",
-      "link": "https://openalex.org/W7164173136",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.7936/d7ej-pk86\nAuthors: Junjie Zhao\nEbola virus (EBOV) is a negative-sense single-stranded RNA virus that can cause high case fatality rates. EBOV has a genome of less than 20 kilobases, encodes seven genes, and thus has a limited coding capacity. As a result, Ebola virus relies on multifunctional proteins and co-opting host cell proteins t",
-      "tag": "analysis"
-    },
-    {
       "title": "Clinical Profile and Genomic Characterization of the 2026 Bundibugyo Virus Index Case in Uganda",
       "link": "https://doi.org/10.1038/s41591-026-04510-7",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
@@ -490,6 +532,20 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Long-term Penetrance of Disease Variants in Genes Prioritized for Genomic Newborn Screening: Evidence from Adult Biobanks",
+      "link": "https://doi.org/10.64898/2026.06.10.26355380",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.10.26355380\nAuthors: Nina B. Gold, Hana Zouk, Julie Yeo, Stuart Lipsitz, Satoshi Koyama, Harini Somanchi, Emma Perez, Margaret Sunitha Selvaraj, Lauren O'Grady, Emily Miller, Anna C.F. Lewis, Elizabeth W. Karlson, Alanna Strong, Jessica I. Gold, Heidi L. Rehm, Pradeep Natarajan, Robert C. Green\n Importance: Genomic newb",
+      "tag": "analysis"
+    },
+    {
+      "title": "Cross-protection against Bundibugyo by Ebola and Sudan vaccines",
+      "link": "https://doi.org/10.64898/2026.06.10.731377",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.10.731377\nAuthors: Lara Kelchtermans, Viktor Lemmens, Johan Neyts, Yeranddy A Alpizar, Kai Dallmeier\n Ebola outbreaks continue to expand across Central Africa, yet available countermeasures remain limited and virus-specific. Whether available vaccines developed against the related Ebola virus (EBOV) and Sudan virus (SUD",
+      "tag": "analysis"
+    },
+    {
       "title": "MicroRNAs in exhaled breath condensate and plasma for diagnosis of asbestos-related interstitial lung diseases",
       "link": "https://openalex.org/W7164163966",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
@@ -502,13 +558,6 @@ window.FEED_DATA = {
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.17504/protocols.io.8epv5w655v1b/v1\nAuthors: Elyse Stachler, Kyle McMahon, Stella Nielsen, Hannah Knoll, Colby Wilkason, Al Ozonoff, Pardis Sabeti\n In May 2026, an outbreak of Bundibugyo ebolavirus (BDBV) in the Democratic Republic of the Congo was declared a Public Health Emergency of International Concern by the World Health Organization",
       "tag": "pheic"
-    },
-    {
-      "title": "airport_screening_ebola_bvd: Effectiveness of airport screening for Bundibugyo ebolavirus",
-      "link": "https://openalex.org/W7164136878",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20632117\nAuthors: Billy J. Quilty\nAn R package and Shiny app for estimating the effectiveness of airport screening at detecting infected travellers, adapted for Bundibugyo ebolavirus (BDBV) in the context of the 2026 DRC outbreak.",
-      "tag": "response"
     },
     {
       "title": "Occurrence, Risk Factors, and Molecular Characterization of Ehrlichia canis Infection in Clinically Suspected Dogs from a Tropical Region of South India",
@@ -525,18 +574,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Long-term Penetrance of Disease Variants in Genes Prioritized for Genomic Newborn Screening: Evidence from Adult Biobanks",
-      "link": "https://doi.org/10.64898/2026.06.10.26355380",
+      "title": "Characterization of Ebola Virus VP24-Host Protein Interactions",
+      "link": "https://openalex.org/W7164173136",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.10.26355380\nAuthors: Nina B. Gold, Hana Zouk, Julie Yeo, Stuart Lipsitz, Satoshi Koyama, Harini Somanchi, Emma Perez, Margaret Sunitha Selvaraj, Lauren O'Grady, Emily Miller, Anna C.F. Lewis, Elizabeth W. Karlson, Alanna Strong, Jessica I. Gold, Heidi L. Rehm, Pradeep Natarajan, Robert C. Green\n Importance: Genomic newb",
+      "desc": "DOI: 10.7936/d7ej-pk86\nAuthors: Junjie Zhao\nEbola virus (EBOV) is a negative-sense single-stranded RNA virus that can cause high case fatality rates. EBOV has a genome of less than 20 kilobases, encodes seven genes, and thus has a limited coding capacity. As a result, Ebola virus relies on multifunctional proteins and co-opting host cell proteins t",
       "tag": "analysis"
     },
     {
-      "title": "Cross-protection against Bundibugyo by Ebola and Sudan vaccines",
-      "link": "https://doi.org/10.64898/2026.06.10.731377",
+      "title": "airport_screening_ebola_bvd: Effectiveness of airport screening for Bundibugyo ebolavirus",
+      "link": "https://openalex.org/W7164136878",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.10.731377\nAuthors: Lara Kelchtermans, Viktor Lemmens, Johan Neyts, Yeranddy A Alpizar, Kai Dallmeier\n Ebola outbreaks continue to expand across Central Africa, yet available countermeasures remain limited and virus-specific. Whether available vaccines developed against the related Ebola virus (EBOV) and Sudan virus (SUD",
-      "tag": "analysis"
+      "desc": "DOI: 10.5281/zenodo.20632117\nAuthors: Billy J. Quilty\nAn R package and Shiny app for estimating the effectiveness of airport screening at detecting infected travellers, adapted for Bundibugyo ebolavirus (BDBV) in the context of the 2026 DRC outbreak.",
+      "tag": "response"
     },
     {
       "title": "Ebola_Epidemic_Mathematical_Model___Democratic_Rep_20260610_005441",
@@ -550,20 +599,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.9734/jamb/2026/v26i71139",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.9734/jamb/2026/v26i71139\nAuthors: Chinwebudu M. Melford, Jerome A. Tan, Paul Peejay E. Celo, Racquel Huerte, Eunice Fay Cayacap, Lorreine Denise W. Castañares, Emmalyn B. Cutamora\n Hantaviruses are zoonotic negative-sense RNA viruses transmitted to humans principally through inhalation of aerosolised excreta from persistently infecte",
-      "tag": "analysis"
-    },
-    {
-      "title": "L’INSP accélère le renforcement des capacités de prise en charge à Butembo.",
-      "link": "https://insp.cd/linsp-accelere-le-renforcement-des-capacites-de-prise-en-charge-a-butembo/",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "juin 11, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nButembo, 11 juin 2026. Après l’étape de Beni, la coordination stratégique multisectorielle conduite par le Directeur général de l’Institut National de Santé Publique (INSP), le Docteur Mw",
-      "tag": "analysis"
-    },
-    {
-      "title": "Viral Encapsulation as a Theoretical Platform for Functional Neutralization of Pathogens: A Conceptual Model for Ebola and HIV",
-      "link": "https://openalex.org/W7164151932",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20630609\nAuthors: Adalberto Souza\nPublic Domain Declaration The author hereby declares that this work is released entirely into the public domain, allowing unrestricted access, reproduction, distribution, and use for scientific, educational, and humanitarian purposes. This publication is intended to contribute to the advancement",
       "tag": "analysis"
     },
     {
@@ -627,6 +662,20 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.64898/2026.06.09.26355279",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.06.09.26355279\nAuthors: Jensen, T. D.; Kaur, R.; Bonner, D. E.; Nguyen, J.; Reuter, C. M.; Undiagnosed Diseases Network,  ; Genomics Research to Elucidate the Genetics of Rare Diseases (GREGoR) Consortium,  ; Ashley, E. A.; Bernstein, J. A.; Wheeler, M. T.; Montgomery, S. B.\nBackground: Aberrant DNA methylation can mediate the fu",
+      "tag": "analysis"
+    },
+    {
+      "title": "L’INSP accélère le renforcement des capacités de prise en charge à Butembo.",
+      "link": "https://insp.cd/linsp-accelere-le-renforcement-des-capacites-de-prise-en-charge-a-butembo/",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "juin 11, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nButembo, 11 juin 2026. Après l’étape de Beni, la coordination stratégique multisectorielle conduite par le Directeur général de l’Institut National de Santé Publique (INSP), le Docteur Mw",
+      "tag": "analysis"
+    },
+    {
+      "title": "Viral Encapsulation as a Theoretical Platform for Functional Neutralization of Pathogens: A Conceptual Model for Ebola and HIV",
+      "link": "https://openalex.org/W7164151932",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20630609\nAuthors: Adalberto Souza\nPublic Domain Declaration The author hereby declares that this work is released entirely into the public domain, allowing unrestricted access, reproduction, distribution, and use for scientific, educational, and humanitarian purposes. This publication is intended to contribute to the advancement",
       "tag": "analysis"
     },
     {
@@ -1741,48 +1790,6 @@ window.FEED_DATA = {
       "pubDate": "Sun, 07 Jun 2026 17:35:00 Z",
       "desc": "Des chercheurs de l’université de Cambridge testent sur des sujets humains un vaccin conçu à l’aide de l’IA et capable de cibler toute une famille de coronavirus. Une première mondiale, qui pourrait redéfinir la prévention des pandémies.\nEt si la prochaine pandémie était stoppée… par un algorithme ?....",
       "tag": "analysis"
-    },
-    {
-      "title": "Health Ministry prepares Israel’s hospitals in event of Ebola case amid Central Africa outbreak",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702362",
-      "pubDate": "Sun, 07 Jun 2026 17:25:00 Z",
-      "desc": "\":\"Israel's Health Ministry recently began preparing hospitals, medical teams, and public health systems following theEbola outbreak in Central Africa, and prepared a scenario in which a suspected Ebola patient arrives in Israel.\nThe ministry believes that the risk of an Ebola outbreak remains low,....",
-      "tag": "cases"
-    },
-    {
-      "title": "Mexico 'Bans' Ebola: Here's How Suspected Cases Will Be Handled During the 2026 World Cup",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702282",
-      "pubDate": "Sun, 07 Jun 2026 17:10:00 Z",
-      "desc": "Ebola has not yet reached Mexico, but the country already has measures in place to contain it in the event of a suspected case of the Bundibugyo variant.\nAuthorities from the federal Ministry of Health issued an epidemiological advisory detailing the steps health personnel must follow, starting with....",
-      "tag": "cases"
-    },
-    {
-      "title": "Virologist prescribes caution, transparency",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702203",
-      "pubDate": "Sun, 07 Jun 2026 16:55:00 Z",
-      "desc": "Amidst concerns by parents over a confirmed case of a pupil contracting the virus that causes scarlet fever at Hillaby/Turner’s Hall Primary School, virologist Dr Camille Lange is calling for caution, transparency and vigilance.\nShe also says it is still too early to determine whether Barbados is facing a wider outbreak.",
-      "tag": "cases"
-    },
-    {
-      "title": "The DRC has confirmed four more deaths and 36 new cases of Ebola between Friday and Saturday",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702146",
-      "pubDate": "Sun, 07 Jun 2026 16:45:00 Z",
-      "desc": "The Ministry of Health of the Democratic Republic of the Congo has confirmed four new deaths and 36 additional cases of Ebola between Friday and Saturday, according to the latest figures released today regarding the outbreak that is ravaging the north and northeast of the country.",
-      "tag": "cases"
-    },
-    {
-      "title": "Ebola Outbreak Expands in Congo as 71 New Cases Confirmed",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702111",
-      "pubDate": "Sun, 07 Jun 2026 16:40:00 Z",
-      "desc": "India, June 7 -- The Ebola outbreak in the Democratic Republic of Congo (DRC) continues to worsen, with health authorities confirming 71 new cases in a single day.\nThe latest figures bring the total number of confirmed infections to 452, including 82 deaths, since the outbreak of the rare Bundibugyo strain was declared in May.",
-      "tag": "cases"
-    },
-    {
-      "title": "DRC raises confirmed Ebola cases to 488, including 86 deaths",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021701986",
-      "pubDate": "Sun, 07 Jun 2026 16:20:00 Z",
-      "desc": "Nairobi, Jun 7 (EFE).- The authorities of the Democratic Republic of Congo (DRC) raised to 488 the number of confirmed cases in the Ebola outbreak declared on May 15 in the east of the country, including 86 deaths. The authorities warned that there could be an increase in cases if adequate measures were not implemented quickly.",
-      "tag": "cases"
     }
   ],
   "highWater": {
