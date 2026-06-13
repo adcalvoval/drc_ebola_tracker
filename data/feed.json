@@ -1,30 +1,20 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 13 Jun 2026 09:19:30 Z",
-  "fetchedAt": "2026-06-13T09:19:31Z",
+  "lastBuildDate": "Sat, 13 Jun 2026 14:04:00 Z",
+  "fetchedAt": "2026-06-13T14:04:00Z",
   "itemCount": 250,
   "stats": {
     "drc": {
-      "deaths": 115,
       "confirmed": 500
     },
-    "drcMeta": {
-      "deaths": {
-        "tier": 3,
-        "src": "Ebola cases in Congo rise to 598 as WHO says contact tracing still falls short"
-      }
-    },
+    "drcMeta": {},
     "drcTiers": {
-      "who": {
-        "deaths": 115
-      },
       "cdc": {
         "suspected": 635
       },
       "media": {
         "deaths": 138,
-        "suspected": 695,
-        "confirmed": 600
+        "suspected": 695
       }
     },
     "provinces": {},
@@ -33,9 +23,16 @@
       "cases": 16
     },
     "whoAlert": "PHEIC",
-    "sourceLabel": "WHO / OMS"
+    "sourceLabel": "media reports"
   },
   "items": [
+    {
+      "title": "Governance Is Not Optional: Why Africa’s Investment Future Depends on Protecting Companies That Play by the Rules",
+      "link": "https://healthtimes.co.zw/2026/06/13/phc-sa-ebola-response-drc-governance-investment/",
+      "pubDate": "Sat, 13 Jun 2026 11:06:00 Z",
+      "desc": "In May 2026, as health authorities in the Democratic Republic of Congo, Uganda, and South Sudan raised the alarm over a new Ebola “Bundibugyo” outbreak, one company in the DRC’s remote interior did not wait to be told what to do. Plantations et Huileries du Congo SA — PHC SA — immediately mobilised....",
+      "tag": "analysis"
+    },
     {
       "title": "WHO Pushes Expansion of PEN-Plus to 30 African Countries Ahead of Tanzania Conference",
       "link": "https://healthtimes.co.zw/2026/06/13/who-expands-pen-plus-30-african-countries-tanzania-conference/",
@@ -149,18 +146,18 @@
       "tag": "response"
     },
     {
-      "title": "Kenya Ebola quarantine centre: The identity of a third person killed in protests confirmed - BBC",
-      "link": "https://www.bbc.com/news/articles/crlw3w84w30o",
-      "pubDate": "Fri, 12 Jun 2026 17:26:00 Z",
-      "desc": "Ebola -- Kenya. Significance Rating: 4 Kenya Ebola quarantine centre: The identity of a third person killed in protests confirmed&nbsp;&nbsp;BBC",
-      "tag": "cases"
-    },
-    {
       "title": "El ébola y el oro - EL PAÍS",
       "link": "https://elpais.com/america/2026-06-12/el-ebola-y-el-oro.html?outputType=amp",
       "pubDate": "Fri, 12 Jun 2026 17:26:00 Z",
       "desc": "-- Ecuador. Significance Rating: 1 El ébola y el oro&nbsp;&nbsp;EL PAÍS",
       "tag": "analysis"
+    },
+    {
+      "title": "Kenya Ebola quarantine centre: The identity of a third person killed in protests confirmed - BBC",
+      "link": "https://www.bbc.com/news/articles/crlw3w84w30o",
+      "pubDate": "Fri, 12 Jun 2026 17:26:00 Z",
+      "desc": "Ebola -- Kenya. Significance Rating: 4 Kenya Ebola quarantine centre: The identity of a third person killed in protests confirmed&nbsp;&nbsp;BBC",
+      "tag": "cases"
     },
     {
       "title": "12 Jun 2026 – Bundibugyo ebolavirus disease outbreak: Confirmed cases in DRC reach 679 as contact tracing and burial gaps persist",
@@ -401,10 +398,31 @@
       "tag": "analysis"
     },
     {
-      "title": "Domain-Specific Computational, Functional and Structural Methods Enable Interpretation of BRCA1 BRCT Variants of Uncertain Significance",
-      "link": "https://openalex.org/W7164353577",
+      "title": "Beyond the borders—coma as a complication of imported Japanese encephalitis: a case report",
+      "link": "https://doi.org/10.1186/s13256-026-06206-5",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/curroncol33060354\nAuthors: Gabriella C. Torretto, Matthew D. Martin, Kaamraan Islam, Nicole E. Archer, Harriet Feilotter, Scott Davey\nBackground: Pathogenic germline BRCA1 and BRCA2 variants cause most hereditary breast and ovarian cancers. Widespread genetic testing has revealed thousands of variants with unknown effects on disease ri",
+      "desc": "DOI: 10.1186/s13256-026-06206-5\nAuthors: Gio Gemelga, Vishwajit Tuchscherer, Jessie Wang, Mrinmayee Naik\n Abstract \n                   \n                     Background \n                     Japanese encephalitis (JE) is a mosquito-borne flavivirus infection endemic to much of Asia and th",
+      "tag": "response"
+    },
+    {
+      "title": "Ebola: Outbreak cases are “tip of iceberg,” says Africa CDC official at centre of epidemic",
+      "link": "https://doi.org/10.1136/bmj-2026-726541",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/bmj-2026-726541\nAuthors: Chris Baraniuk",
+      "tag": "cases"
+    },
+    {
+      "title": "Evolving Indications and Diagnostic Spectrum of Bone Marrow Examination in People with HIV During the Antiretroviral Therapy Era: A 6-Year Retrospective Study",
+      "link": "https://doi.org/10.1177/08892229261460535",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1177/08892229261460535\nAuthors: Jinglan Lai, Yahong Chen\n \n                    With the widespread use of antiretroviral therapy, the clinical spectrum among people with HIV has evolved significantly. This study aims to investigate the dynamic changes in the primary indications and final diagnostic spectrum of bone marrow examination",
+      "tag": "analysis"
+    },
+    {
+      "title": "Attacks on Public Health-Related Programmes Data",
+      "link": "https://openalex.org/W7164383035",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.71646/8idgzu\nAuthors: Insecurity Insight\nThis page contains agency- and open source events affecting public-health related programmes, including COVID-19, Ebola, and vaccination campaigns. published in the Attacks on Health Care News Brief. Categorized by country. Please get in touch if you are interested in curated Resources: info@insecuri",
       "tag": "analysis"
     },
     {
@@ -436,31 +454,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Beyond the borders—coma as a complication of imported Japanese encephalitis: a case report",
-      "link": "https://doi.org/10.1186/s13256-026-06206-5",
+      "title": "Domain-Specific Computational, Functional and Structural Methods Enable Interpretation of BRCA1 BRCT Variants of Uncertain Significance",
+      "link": "https://openalex.org/W7164353577",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s13256-026-06206-5\nAuthors: Gio Gemelga, Vishwajit Tuchscherer, Jessie Wang, Mrinmayee Naik\n Abstract \n                   \n                     Background \n                     Japanese encephalitis (JE) is a mosquito-borne flavivirus infection endemic to much of Asia and th",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola: Outbreak cases are “tip of iceberg,” says Africa CDC official at centre of epidemic",
-      "link": "https://doi.org/10.1136/bmj-2026-726541",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/bmj-2026-726541\nAuthors: Chris Baraniuk",
-      "tag": "cases"
-    },
-    {
-      "title": "Evolving Indications and Diagnostic Spectrum of Bone Marrow Examination in People with HIV During the Antiretroviral Therapy Era: A 6-Year Retrospective Study",
-      "link": "https://doi.org/10.1177/08892229261460535",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/08892229261460535\nAuthors: Jinglan Lai, Yahong Chen\n \n                    With the widespread use of antiretroviral therapy, the clinical spectrum among people with HIV has evolved significantly. This study aims to investigate the dynamic changes in the primary indications and final diagnostic spectrum of bone marrow examination",
-      "tag": "analysis"
-    },
-    {
-      "title": "Attacks on Public Health-Related Programmes Data",
-      "link": "https://openalex.org/W7164383035",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.71646/8idgzu\nAuthors: Insecurity Insight\nThis page contains agency- and open source events affecting public-health related programmes, including COVID-19, Ebola, and vaccination campaigns. published in the Attacks on Health Care News Brief. Categorized by country. Please get in touch if you are interested in curated Resources: info@insecuri",
+      "desc": "DOI: 10.3390/curroncol33060354\nAuthors: Gabriella C. Torretto, Matthew D. Martin, Kaamraan Islam, Nicole E. Archer, Harriet Feilotter, Scott Davey\nBackground: Pathogenic germline BRCA1 and BRCA2 variants cause most hereditary breast and ovarian cancers. Widespread genetic testing has revealed thousands of variants with unknown effects on disease ri",
       "tag": "analysis"
     },
     {
@@ -765,10 +762,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Ebola_Epidemic_Mathematical_Model___Democratic_Rep_20260610_005441",
-      "link": "https://openalex.org/W7164195951",
+      "title": "L’INSP accélère le renforcement des capacités de prise en charge à Butembo.",
+      "link": "https://insp.cd/linsp-accelere-le-renforcement-des-capacites-de-prise-en-charge-a-butembo/",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20618911\nAuthors: Flávio Codeço Coelho\nEbola Epidemic Mathematical Model — Democratic Republic of Congo EpidBot Analysis Report | May 31, 2026 Table of Contents 1. [1. Executive Summary](1-executive-summary) 2. [2. Data Sources & Evidence Base](2-data-sources--evidence-base) 3. [3. Model Structure: SEIHFR-V](3-model-structure-se",
+      "desc": "juin 11, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nButembo, 11 juin 2026. Après l’étape de Beni, la coordination stratégique multisectorielle conduite par le Directeur général de l’Institut National de Santé Publique (INSP), le Docteur Mw",
       "tag": "analysis"
     },
     {
@@ -776,6 +773,20 @@
       "link": "https://openalex.org/W7164151932",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.5281/zenodo.20630609\nAuthors: Adalberto Souza\nPublic Domain Declaration The author hereby declares that this work is released entirely into the public domain, allowing unrestricted access, reproduction, distribution, and use for scientific, educational, and humanitarian purposes. This publication is intended to contribute to the advancement",
+      "tag": "analysis"
+    },
+    {
+      "title": "Hantavirus at the Human–rodent Interface: A Global Review and Meta-analysis of Occupational Exposure",
+      "link": "https://doi.org/10.9734/jamb/2026/v26i71139",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.9734/jamb/2026/v26i71139\nAuthors: Chinwebudu M. Melford, Jerome A. Tan, Paul Peejay E. Celo, Racquel Huerte, Eunice Fay Cayacap, Lorreine Denise W. Castañares, Emmalyn B. Cutamora\n Hantaviruses are zoonotic negative-sense RNA viruses transmitted to humans principally through inhalation of aerosolised excreta from persistently infecte",
+      "tag": "analysis"
+    },
+    {
+      "title": "Case Report: Genetically primed hyperinflammation: cytomegalovirus-triggered HLH-like syndrome in an adolescent with a gain-of-function STING1 (p.Arg281Trp) variant with novel autosomal dominant inheritance and atypical presentation",
+      "link": "https://doi.org/10.3389/fimmu.2026.1801755",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fimmu.2026.1801755\nAuthors: Ehab Abdelbadeeh Hassan Hammad, Tariq Zulfiquar Ali, Dieter Clemens Broering, Hassan Ali Aleid, Quaid Johar Nadri, Rehab Salah Fathy Nasr\n We report the case of an 18-year-old previously healthy female who developed acute liver and kidney injuries with cytopenia and hyperinflammatory markers following",
       "tag": "analysis"
     },
     {
@@ -821,24 +832,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Case Report: Genetically primed hyperinflammation: cytomegalovirus-triggered HLH-like syndrome in an adolescent with a gain-of-function STING1 (p.Arg281Trp) variant with novel autosomal dominant inheritance and atypical presentation",
-      "link": "https://doi.org/10.3389/fimmu.2026.1801755",
+      "title": "Ebola_Epidemic_Mathematical_Model___Democratic_Rep_20260610_005441",
+      "link": "https://openalex.org/W7164195951",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fimmu.2026.1801755\nAuthors: Ehab Abdelbadeeh Hassan Hammad, Tariq Zulfiquar Ali, Dieter Clemens Broering, Hassan Ali Aleid, Quaid Johar Nadri, Rehab Salah Fathy Nasr\n We report the case of an 18-year-old previously healthy female who developed acute liver and kidney injuries with cytopenia and hyperinflammatory markers following",
-      "tag": "analysis"
-    },
-    {
-      "title": "Hantavirus at the Human–rodent Interface: A Global Review and Meta-analysis of Occupational Exposure",
-      "link": "https://doi.org/10.9734/jamb/2026/v26i71139",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.9734/jamb/2026/v26i71139\nAuthors: Chinwebudu M. Melford, Jerome A. Tan, Paul Peejay E. Celo, Racquel Huerte, Eunice Fay Cayacap, Lorreine Denise W. Castañares, Emmalyn B. Cutamora\n Hantaviruses are zoonotic negative-sense RNA viruses transmitted to humans principally through inhalation of aerosolised excreta from persistently infecte",
-      "tag": "analysis"
-    },
-    {
-      "title": "L’INSP accélère le renforcement des capacités de prise en charge à Butembo.",
-      "link": "https://insp.cd/linsp-accelere-le-renforcement-des-capacites-de-prise-en-charge-a-butembo/",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "juin 11, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nButembo, 11 juin 2026. Après l’étape de Beni, la coordination stratégique multisectorielle conduite par le Directeur général de l’Institut National de Santé Publique (INSP), le Docteur Mw",
+      "desc": "DOI: 10.5281/zenodo.20618911\nAuthors: Flávio Codeço Coelho\nEbola Epidemic Mathematical Model — Democratic Republic of Congo EpidBot Analysis Report | May 31, 2026 Table of Contents 1. [1. Executive Summary](1-executive-summary) 2. [2. Data Sources & Evidence Base](2-data-sources--evidence-base) 3. [3. Model Structure: SEIHFR-V](3-model-structure-se",
       "tag": "analysis"
     },
     {
@@ -1157,32 +1154,25 @@
       "tag": "analysis"
     },
     {
-      "title": "Single cell transcriptomics in a treatment-segregated cohort exposes a STAT3-regulated therapeutic gap in idiopathic pulmonary fibrosis",
-      "link": "https://doi.org/10.1101/2025.06.16.659944",
+      "title": "Successful treatment of an NDM-5-producing, carbapenem-resistant Salmonella Kentucky ST198 infection with aztreonam and ceftazidime-avibactam in a patient with acute erythroid leukemia: a case report",
+      "link": "https://doi.org/10.1186/s12879-026-13519-9",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1101/2025.06.16.659944\nAuthors: McKenna, N.; Ochsner, S. A.; Cohen, A. W.; Cala-Garcia, J.; Echartea, M. E.; Grimm, S. L.; Poli, F.; Castillo, R. C.; Zuluaga, J. D.; Poli, S.; Adams, T. S.; Pineda, R.; Moss, B.; Ryter, S.; Pillich, R. T.; Villalba, J.; Kato, K.; Hecker, L.; Celada, L. J.; Sauler, M.; Koenigshoff, M.; Kaminski, N.; Raby, B.;",
+      "desc": "DOI: 10.1186/s12879-026-13519-9\nAuthors: Yingcheng Qin, Li Lin, Hengrui Zhao, Xiumei Hu\n Abstract \n                   \n                     Introduction \n                     \n                       Salmonella enterica \n                      serotype Kentucky (",
       "tag": "analysis"
     },
     {
-      "title": "Knowledge, Attitudes, and Practices Regarding Ebola Virus Disease Among Medical Students and Their Implications for Outbreak Preparedness",
-      "link": "https://doi.org/10.7759/cureus.110595",
+      "title": "“Unmasking Primary Hyperparathyroidism: A Rare Endocrine Cause of Vesicovaginal Fistula and Severe Urological Complications”.",
+      "link": "https://doi.org/10.1159/000549962",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.7759/cureus.110595\nAuthors: Rania A El-Kady, Abdulelah F Alasmari, Sanhat   S Alotaibi, Abdullah  T Rawa",
-      "tag": "response"
-    },
-    {
-      "title": "Dissecting the sources of variation in neuronally differentiated iPSC lines through multi-omics analysis",
-      "link": "https://doi.org/10.64898/2026.06.10.731279",
-      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.10.731279\nAuthors: Casper de Visser, Lisa Rahm, Elly Lewerissa, Rachel Mijdam, Cenna Doornbos, Junda Huang, Luke O'Gorman, Firdaws Badmus, Clara D.M. van Karnebeek, Catharina G. Faber, Judith Verhoeven, Hans van Bokhoven, Nael Nadif Kasri, Dirk Lefeber, Peter A.C. 't Hoen, Alain J. van Gool, Purva Kulkarni\n Induced plur",
+      "desc": "DOI: 10.1159/000549962\nAuthors: Rudrakshi Mahaldar, Vinod Kumar, Pratisruti Hui, Saurabh Raj, Bayneswar Pal\n Introduction: \nPrimary hyperparathyroidism (PHPT) is a relatively common endocrine disorder that is more frequently diagnosed in postmenopausal women; however, its association with vesicovaginal fistula (VVF) and severe urological com",
       "tag": "analysis"
     },
     {
-      "title": "The relationship between water quality measurements and the prevalence of kidney dysfunction among HTI employees in Banyuasin, Indonesia",
-      "link": "https://doi.org/10.55942/pssj.v6i6.1959",
+      "title": "An unusual case of Clostridium tetani bacteraemia likely arising from a skin and soft tissue infection",
+      "link": "https://doi.org/10.1099/acmi.0.001177.v2",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.55942/pssj.v6i6.1959\nAuthors: Sulistya Ningsih, Marthia Ikhlasiah\n Chronic Kidney Disease (CKD) is a global health challenge with a worldwide prevalence of 13,4%. (Riskesdas, 2018). In. Indonesia, while the national prevalence among the productive-age population is 0,38%, Industrial Forest Plantation or Hutan Tanaman Industri (HTI) e",
-      "tag": "analysis"
+      "desc": "DOI: 10.1099/acmi.0.001177.v2\nAuthors: Jun Yu Tay, Ibakkanavar Rajiva Guddappa, Alicia Xin Yu Ang, Angie Natalie Pinto\n Clostridium tetani, the causative organism of tetanus, is unusual in developed countries including Singapore and to our knowledge, only three known cases of Clostridium tetani bacteraemia have been reported worldwide. This",
+      "tag": "cases"
     },
     {
       "title": "Le premier patient guéri quitte le Centre de Traitement de Mungwalu, un tournant porteur d’espoir dans la riposte.",
@@ -1213,25 +1203,32 @@
       "tag": "analysis"
     },
     {
-      "title": "Successful treatment of an NDM-5-producing, carbapenem-resistant Salmonella Kentucky ST198 infection with aztreonam and ceftazidime-avibactam in a patient with acute erythroid leukemia: a case report",
-      "link": "https://doi.org/10.1186/s12879-026-13519-9",
+      "title": "Single cell transcriptomics in a treatment-segregated cohort exposes a STAT3-regulated therapeutic gap in idiopathic pulmonary fibrosis",
+      "link": "https://doi.org/10.1101/2025.06.16.659944",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s12879-026-13519-9\nAuthors: Yingcheng Qin, Li Lin, Hengrui Zhao, Xiumei Hu\n Abstract \n                   \n                     Introduction \n                     \n                       Salmonella enterica \n                      serotype Kentucky (",
+      "desc": "DOI: 10.1101/2025.06.16.659944\nAuthors: McKenna, N.; Ochsner, S. A.; Cohen, A. W.; Cala-Garcia, J.; Echartea, M. E.; Grimm, S. L.; Poli, F.; Castillo, R. C.; Zuluaga, J. D.; Poli, S.; Adams, T. S.; Pineda, R.; Moss, B.; Ryter, S.; Pillich, R. T.; Villalba, J.; Kato, K.; Hecker, L.; Celada, L. J.; Sauler, M.; Koenigshoff, M.; Kaminski, N.; Raby, B.;",
       "tag": "analysis"
     },
     {
-      "title": "“Unmasking Primary Hyperparathyroidism: A Rare Endocrine Cause of Vesicovaginal Fistula and Severe Urological Complications”.",
-      "link": "https://doi.org/10.1159/000549962",
+      "title": "Dissecting the sources of variation in neuronally differentiated iPSC lines through multi-omics analysis",
+      "link": "https://doi.org/10.64898/2026.06.10.731279",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1159/000549962\nAuthors: Rudrakshi Mahaldar, Vinod Kumar, Pratisruti Hui, Saurabh Raj, Bayneswar Pal\n Introduction: \nPrimary hyperparathyroidism (PHPT) is a relatively common endocrine disorder that is more frequently diagnosed in postmenopausal women; however, its association with vesicovaginal fistula (VVF) and severe urological com",
+      "desc": "DOI: 10.64898/2026.06.10.731279\nAuthors: Casper de Visser, Lisa Rahm, Elly Lewerissa, Rachel Mijdam, Cenna Doornbos, Junda Huang, Luke O'Gorman, Firdaws Badmus, Clara D.M. van Karnebeek, Catharina G. Faber, Judith Verhoeven, Hans van Bokhoven, Nael Nadif Kasri, Dirk Lefeber, Peter A.C. 't Hoen, Alain J. van Gool, Purva Kulkarni\n Induced plur",
       "tag": "analysis"
     },
     {
-      "title": "An unusual case of Clostridium tetani bacteraemia likely arising from a skin and soft tissue infection",
-      "link": "https://doi.org/10.1099/acmi.0.001177.v2",
+      "title": "The relationship between water quality measurements and the prevalence of kidney dysfunction among HTI employees in Banyuasin, Indonesia",
+      "link": "https://doi.org/10.55942/pssj.v6i6.1959",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1099/acmi.0.001177.v2\nAuthors: Jun Yu Tay, Ibakkanavar Rajiva Guddappa, Alicia Xin Yu Ang, Angie Natalie Pinto\n Clostridium tetani, the causative organism of tetanus, is unusual in developed countries including Singapore and to our knowledge, only three known cases of Clostridium tetani bacteraemia have been reported worldwide. This",
-      "tag": "cases"
+      "desc": "DOI: 10.55942/pssj.v6i6.1959\nAuthors: Sulistya Ningsih, Marthia Ikhlasiah\n Chronic Kidney Disease (CKD) is a global health challenge with a worldwide prevalence of 13,4%. (Riskesdas, 2018). In. Indonesia, while the national prevalence among the productive-age population is 0,38%, Industrial Forest Plantation or Hutan Tanaman Industri (HTI) e",
+      "tag": "analysis"
+    },
+    {
+      "title": "Knowledge, Attitudes, and Practices Regarding Ebola Virus Disease Among Medical Students and Their Implications for Outbreak Preparedness",
+      "link": "https://doi.org/10.7759/cureus.110595",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.7759/cureus.110595\nAuthors: Rania A El-Kady, Abdulelah F Alasmari, Sanhat   S Alotaibi, Abdullah  T Rawa",
+      "tag": "response"
     },
     {
       "title": "Nigéria : 360 otages de Boko Haram libérés par l'armée [Africanews Today]",
@@ -1451,17 +1448,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Long-term Neurologic, Cognitive and Psychiatric Sequelae of Ebola in Liberian Pediatric Survivors (S9.003)",
-      "link": "https://doi.org/10.1212/wnl.0000000000217797",
-      "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1212/wnl.0000000000217797\nAuthors: Hanalise Huff, Princess Lobbo, Victor Taryor, Joseph Dorbor, Rebecca Slewion, Gina Norato, Richa Dugirrala, Leroy Yankae, Avindra Nath, Dehkontee Dennis, Kumblytee Johnson, Bridgette Billioux",
-      "tag": "analysis"
-    },
-    {
       "title": "Bundibugyo Virus Disease Outbreak | Situation Report, Issue No. 23 – June 9, 2026",
       "link": "https://africacdc.org/download/bundibugyo-virus-disease-outbreak-situation-report-issue-no-23-june-9-2026/",
       "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
       "desc": "Download Files\nFileActionDaily Update | Bundibugyo Virus Disease Outbreak, Issue No. 23 – June 9, 2026Download  \nDownload\n\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t9 June 2026\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tResource Type\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tSitRep\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tThemes",
+      "tag": "analysis"
+    },
+    {
+      "title": "Long-term Neurologic, Cognitive and Psychiatric Sequelae of Ebola in Liberian Pediatric Survivors (S9.003)",
+      "link": "https://doi.org/10.1212/wnl.0000000000217797",
+      "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1212/wnl.0000000000217797\nAuthors: Hanalise Huff, Princess Lobbo, Victor Taryor, Joseph Dorbor, Rebecca Slewion, Gina Norato, Richa Dugirrala, Leroy Yankae, Avindra Nath, Dehkontee Dennis, Kumblytee Johnson, Bridgette Billioux",
       "tag": "analysis"
     },
     {
@@ -1675,6 +1672,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Myeloma Presenting with Paraneoplastic Syndrome: Inflammatory-demyelinating Condition of the Central Nervous System",
+      "link": "https://doi.org/10.29328/journal.jhcr.1001043",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.29328/journal.jhcr.1001043\nAuthors: Dhillon Hirani, Sneha Patel\n Multiple myeloma (MM) is a clonal plasma cell malignancy classically presenting with CRAB features: hypercalcaemia, renal impairment, anaemia and osteolytic bone disease. Paraneoplastic neurological manifestations are rare and poorly characterised, with evidence limited",
+      "tag": "analysis"
+    },
+    {
       "title": "Actinomyces radingae Infection at an Unusual Location: A Case Report",
       "link": "https://europepmc.org/article/PMC/PMC13242278",
       "pubDate": "Mon, 08 Jun 2026 00:00:00 Z",
@@ -1771,20 +1775,6 @@
       "pubDate": "Sun, 07 Jun 2026 20:50:00 Z",
       "desc": "Eyewitness accounts from eastern Democratic Republic of Congo describe angry crowds attacking hospitals treating Ebola patients, with reports suggesting the violence was fueled in part by false claims that the virus is fake or created to ...",
       "tag": "analysis"
-    },
-    {
-      "title": "US Ebola facility is not in Kenya’s best interest",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021703004",
-      "pubDate": "Sun, 07 Jun 2026 19:55:00 Z",
-      "desc": "Kenyans were shocked to learn that the United States government is building an Ebola isolation and treatment centre at Nanyuki Airbase. They accessed the information from the US media.\nThe Government of Kenya hid this information from Kenyans and did not bother to seek their views on the project.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Measles Cases and Outbreaks | Measles (Rubeola) | CDC",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021702991",
-      "pubDate": "Sun, 07 Jun 2026 19:50:00 Z",
-      "desc": "Measles cases in 2026\nMeasles Cases and Outbreaks\nFor Everyone\nJune 5, 2026\nEspañol\n\n\nUpdated on June 5, 2026.\nThe data on this page reflect confirmed measles cases reported to CDC as of 12:00PM on Thursday.\nMap of airplanes traveling across the world.",
-      "tag": "cases"
     }
   ],
   "highWater": {
