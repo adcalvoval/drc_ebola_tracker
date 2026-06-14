@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 14 Jun 2026 09:38:11 Z",
-  "fetchedAt": "2026-06-14T09:38:11Z",
+  "lastBuildDate": "Sun, 14 Jun 2026 14:07:46 Z",
+  "fetchedAt": "2026-06-14T14:07:47Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -42,17 +42,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Computational Screening Novel Inhibitors from Plant-Derived Natural Products Against RNA-Directed RNA Polymerase of Ebola Virus",
-      "link": "https://doi.org/10.1007/s12247-026-10822-5",
-      "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1007/s12247-026-10822-5\nAuthors: Shaohua Xu, Huicheng Yuan",
-      "tag": "analysis"
-    },
-    {
       "title": "IMPACT DE LA PESTE DES PETITS RUMINANTS SUR LES REVENUS DES MENAGES EN REPUBLIQUE DEMOCRATIQUE DU CONGO « CAS DE LA CITE DE LUPUTU",
       "link": "https://openalex.org/W7164651112",
       "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.5281/zenodo.20677772\nAuthors: KALALA MULOWA Jean Clément, KASONGA TSHIBANGU Carrel, KAMUNGA LUSALA François, KASOMBW BWAN'A TSHING Joseph, KABENGELE KABENGELE Patient\nRésumé : Selon le décret du 28juiller/1938, ayant subi plusieurs modifications dont la dernière remonte : le 06/05/1950 ; portant n° 54/147/1950 déterminant les mesures à pren",
+      "tag": "analysis"
+    },
+    {
+      "title": "Computational Screening Novel Inhibitors from Plant-Derived Natural Products Against RNA-Directed RNA Polymerase of Ebola Virus",
+      "link": "https://doi.org/10.1007/s12247-026-10822-5",
+      "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1007/s12247-026-10822-5\nAuthors: Shaohua Xu, Huicheng Yuan",
       "tag": "analysis"
     },
     {
@@ -147,13 +147,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Outcomes of Percutaneous Interventions for Aortic Coarctation: Experience from a Tertiary Care Center.",
-      "link": "https://openalex.org/W7164549526",
-      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.14744/anatoljcardiol.2026.6127\nAuthors: Tuğba Çetin, Şeyda Dereli, Günseli Özdemir, Utku ULUKÖKSAL, Fatma Can, Can Yücel Karabay\nBACKGROUND: Coarctation of the aorta (CoA) is a congenital obstructive anomaly that may remain undiagnosed until adulthood, often presenting with systemic hypertension. While percutaneous interventions, including",
-      "tag": "analysis"
-    },
-    {
       "title": "Temporomandibular joint ankylosis: patterns, management, and outcomes at a Nigerian tertiary hospital - a ten year retrospective study.",
       "link": "https://openalex.org/W7164573665",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
@@ -161,17 +154,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Fatal dengue shock syndrome complicated by anterior ST-elevation myocardial infarction in a young adult: a case report",
-      "link": "https://openalex.org/W7164567225",
-      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/ms9.0000000000005246\nAuthors: Suprabha Jha, Alok Yadav, Sujata Mahato, Saurav Karki, Ganesh Pariyar, Sagar Jha, Chandra Prasad Acharya\nBackground: Dengue is a mosquito-borne viral illness, a common tropical disease with a wide clinical spectrum. Most infections are mild, but about 5% progress to severe dengue, which includes dengue hem",
-      "tag": "analysis"
-    },
-    {
       "title": "Assessing IRF3 as a Master Regulator of Acute Hepacivirus Clearance in Mice",
       "link": "https://openalex.org/W7164572999",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.17615/8jsv-k503\nAuthors: Amir Shaheen\nHuman genetic variation contributes to a wide array of disease outcomes following hepatitis C virus (HCV) infection. However, much of the host genetic variation guiding these disparate outcomes remains unknown. Norway rat hepacivirus (NrHV), a rodent homolog of HCV, can be employed to elucidate host fac",
+      "tag": "analysis"
+    },
+    {
+      "title": "Outcomes of Percutaneous Interventions for Aortic Coarctation: Experience from a Tertiary Care Center.",
+      "link": "https://openalex.org/W7164549526",
+      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.14744/anatoljcardiol.2026.6127\nAuthors: Tuğba Çetin, Şeyda Dereli, Günseli Özdemir, Utku ULUKÖKSAL, Fatma Can, Can Yücel Karabay\nBACKGROUND: Coarctation of the aorta (CoA) is a congenital obstructive anomaly that may remain undiagnosed until adulthood, often presenting with systemic hypertension. While percutaneous interventions, including",
+      "tag": "analysis"
+    },
+    {
+      "title": "Fatal dengue shock syndrome complicated by anterior ST-elevation myocardial infarction in a young adult: a case report",
+      "link": "https://openalex.org/W7164567225",
+      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1097/ms9.0000000000005246\nAuthors: Suprabha Jha, Alok Yadav, Sujata Mahato, Saurav Karki, Ganesh Pariyar, Sagar Jha, Chandra Prasad Acharya\nBackground: Dengue is a mosquito-borne viral illness, a common tropical disease with a wide clinical spectrum. Most infections are mild, but about 5% progress to severe dengue, which includes dengue hem",
       "tag": "analysis"
     },
     {
@@ -595,17 +595,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Estimating the effectiveness of syndromic screening at airports for Bundibugyo ebolavirus disease",
-      "link": "https://doi.org/10.64898/2026.06.11.26355442",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.11.26355442\nAuthors: Quilty, B. J.\nWe used a stochastic simulation model to estimate the effectiveness of combined exit and entry airport screening for Bundibugyo ebolavirus disease (BVD), using natural-history parameters from a Bayesian re-analysis of the 2012 Isiro outbreak. For a 12-hour international flight from DRC or Uga",
-      "tag": "analysis"
-    },
-    {
       "title": "Crimean-Congo haemorrhagic fever virus transmission: exploring perceptions of human-animal-tick interactions across six districts in Uganda",
       "link": "https://doi.org/10.64898/2026.06.10.26355422",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.06.10.26355422\nAuthors: Marina Kugler, Lazaaro Mujumbusi, Lucy Pickering, Richard Muhumuza, Mathias Akugizibwe, Edward Obicho, Titus Apangu, Evalyne Umo, Simpson Nuwamanya, Shirin Ashraf, Stella A Atim, Emma C Thomson, Poppy H L Lamberton\n Crimean-Congo haemorrhagic fever virus (CCHFV) causes a viral zoonotic disease trans",
+      "tag": "analysis"
+    },
+    {
+      "title": "Estimating the effectiveness of syndromic screening at airports for Bundibugyo ebolavirus disease",
+      "link": "https://doi.org/10.64898/2026.06.11.26355442",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.11.26355442\nAuthors: Quilty, B. J.\nWe used a stochastic simulation model to estimate the effectiveness of combined exit and entry airport screening for Bundibugyo ebolavirus disease (BVD), using natural-history parameters from a Bayesian re-analysis of the 2012 Isiro outbreak. For a 12-hour international flight from DRC or Uga",
       "tag": "analysis"
     },
     {
