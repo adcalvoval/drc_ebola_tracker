@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 14 Jun 2026 16:24:16 Z",
-  "fetchedAt": "2026-06-14T16:24:16Z",
+  "lastBuildDate": "Sun, 14 Jun 2026 19:39:39 Z",
+  "fetchedAt": "2026-06-14T19:39:39Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -126,17 +126,10 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Temporomandibular joint ankylosis: patterns, management, and outcomes at a Nigerian tertiary hospital - a ten year retrospective study.",
-      "link": "https://openalex.org/W7164573665",
+      "title": "Mathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis",
+      "link": "https://openalex.org/W7164480659",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20669174\nAuthors: Mohammed A.S Abdullahi,1 Ijakrayu E. Ijabani,2 Fatima Babagana,3 Sakeenatu Haruna,1 Kanadi Kwari,1 Ahmed M. Alhaji.4\nAbstract Background: Temporomandibular joint ankylosis (TMJA) occurs when there is fusion of the condyle to the glenoid fossa, gradually causing hypomobility of the mandible. It is mainly caused",
-      "tag": "analysis"
-    },
-    {
-      "title": "LIVER BIOPSY IN MODERN CLINICAL PRACTICE: INDICATIONS, METHODS AND SAFETY",
-      "link": "https://doi.org/10.17816/clinpract699338",
-      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.17816/clinpract699338\nAuthors: Mikhail Zinovskiy, Aishe Keshvedinova, Dmitriy Astakhov, Dmitriy Panchenkov\n Despite the availability of serological tests and radiographic examination methods, liver biopsy is a widely used procedure for diagnosis, prognosis, and appropriate subsequent treatment. The main reasons for biopsy include foc",
+      "desc": "DOI: 10.5281/zenodo.20670204\nAuthors: Flávio Codeço Coelho\nMathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis EpidBot Analysis Report | May 31, 2026 Table of Contents Executive Summary Model Structure: SEIR-B Framework Parameter Estimation and Calibration Scenario Anal",
       "tag": "analysis"
     },
     {
@@ -147,10 +140,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Mathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis",
-      "link": "https://openalex.org/W7164480659",
+      "title": "LIVER BIOPSY IN MODERN CLINICAL PRACTICE: INDICATIONS, METHODS AND SAFETY",
+      "link": "https://doi.org/10.17816/clinpract699338",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20670204\nAuthors: Flávio Codeço Coelho\nMathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis EpidBot Analysis Report | May 31, 2026 Table of Contents Executive Summary Model Structure: SEIR-B Framework Parameter Estimation and Calibration Scenario Anal",
+      "desc": "DOI: 10.17816/clinpract699338\nAuthors: Mikhail Zinovskiy, Aishe Keshvedinova, Dmitriy Astakhov, Dmitriy Panchenkov\n Despite the availability of serological tests and radiographic examination methods, liver biopsy is a widely used procedure for diagnosis, prognosis, and appropriate subsequent treatment. The main reasons for biopsy include foc",
+      "tag": "analysis"
+    },
+    {
+      "title": "Temporomandibular joint ankylosis: patterns, management, and outcomes at a Nigerian tertiary hospital - a ten year retrospective study.",
+      "link": "https://openalex.org/W7164573665",
+      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20669174\nAuthors: Mohammed A.S Abdullahi,1 Ijakrayu E. Ijabani,2 Fatima Babagana,3 Sakeenatu Haruna,1 Kanadi Kwari,1 Ahmed M. Alhaji.4\nAbstract Background: Temporomandibular joint ankylosis (TMJA) occurs when there is fusion of the condyle to the glenoid fossa, gradually causing hypomobility of the mandible. It is mainly caused",
       "tag": "analysis"
     },
     {
@@ -308,18 +308,18 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Viewpoints: Medicine Has Come So Far, And Now Politics Threatens Our Lifesaving Research; Government Doesn't Know What's Best For Children",
-      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-medicine-has-come-so-far-and-now-politics-threatens-our-lifesaving-research-government-doesnt-know-whats-best-for-children/",
-      "pubDate": "Fri, 12 Jun 2026 13:38:00 Z",
-      "desc": "Childhood leukemia, a likely death sentence when I was a medical student, is now survivable for most children. Cancer immunotherapy is extending life for many who would have died a decade ago. New technology is letting us repair genetic diseases at their source.",
-      "tag": "analysis"
-    },
-    {
       "title": "CDC Sets New World Screwworm Emergency Response In Motion",
       "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-061226/",
       "pubDate": "Fri, 12 Jun 2026 13:38:00 Z",
       "desc": "The public health agency has activated a Level 3 emergency response — the agency’s lowest-level tier — and is assembling a team of career scientists who will closely monitor the outbreak and coordinate with local health departments, Bloomberg reports. Meanwhile, CIDRAP reports that the FDA has....",
       "tag": "response"
+    },
+    {
+      "title": "Viewpoints: Medicine Has Come So Far, And Now Politics Threatens Our Lifesaving Research; Government Doesn't Know What's Best For Children",
+      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-medicine-has-come-so-far-and-now-politics-threatens-our-lifesaving-research-government-doesnt-know-whats-best-for-children/",
+      "pubDate": "Fri, 12 Jun 2026 13:38:00 Z",
+      "desc": "Childhood leukemia, a likely death sentence when I was a medical student, is now survivable for most children. Cancer immunotherapy is extending life for many who would have died a decade ago. New technology is letting us repair genetic diseases at their source.",
+      "tag": "analysis"
     },
     {
       "title": "Communicable disease threats report, 6 - 12 June 2026, Week 24",
@@ -476,6 +476,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Residues E124, K129, and R134 in eEF1A Domain I Promote ALV‑J Replication via direct interaction with reverse transcriptase",
+      "link": "https://openalex.org/W7164297413",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.17632/2rgtv8vsg4.2\nAuthors: sheng chen, Qingmei Xie\nSubgroup J avian leukosis virus (ALV-J) is an oncogenic retrovirus posing significant threats to the global poultry industry. While host factors are known to regulate retroviral reverse transcription, the specific host proteins that support this critical step in ALV infection have remained",
+      "tag": "analysis"
+    },
+    {
       "title": "Clinical manifestations and laboratory findings in patients coinfected with dengue virus and SARS-CoV-2: a systematic review",
       "link": "https://doi.org/10.1186/s12879-026-13752-2",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
@@ -490,11 +497,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Africa CDC Advisory Council Calls for Stronger Community Engagement and Cross-Border Cooperation on Ebola",
-      "link": "https://africacdc.org/news-item/africa-cdc-advisory-council-calls-for-stronger-community-engagement-and-cross-border-cooperation-on-ebola/",
+      "title": "Recombinant subunit vaccine against <i>Mycoplasma gallisepticum</i> disease confers cross-protection against multiple pathogenic strains",
+      "link": "https://doi.org/10.1128/iai.00025-26",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "Addis Ababa, Ethiopia, 12 June 2026 – The Africa Centres for Disease Control and Prevention (Africa CDC) Advisory and Technical Council (ATC), the institution’s principal technical advisory body, has called for stronger community engagement, cross-border cooperation and frontline response capacity to contain the ongoing Bundibugyo Ebola outb",
-      "tag": "response"
+      "desc": "DOI: 10.1128/iai.00025-26\nAuthors: Jeremy M. Miller, Rosemary G. Ozyck, Arlind B. Mara, Esmeralda F. Hernandez, Jessica B. Malek, Edan R. Tulman, Steven M. Szczepanek, Steven J. Geary\n ABSTRACT \n                   \n                     \n                     \n                      <jats:italic toggl",
+      "tag": "analysis"
     },
     {
       "title": "From Exercise to Emergency - An extreme presentation of MINOCA: A Case Report",
@@ -504,18 +511,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Residues E124, K129, and R134 in eEF1A Domain I Promote ALV‑J Replication via direct interaction with reverse transcriptase",
-      "link": "https://openalex.org/W7164297413",
+      "title": "Africa CDC Advisory Council Calls for Stronger Community Engagement and Cross-Border Cooperation on Ebola",
+      "link": "https://africacdc.org/news-item/africa-cdc-advisory-council-calls-for-stronger-community-engagement-and-cross-border-cooperation-on-ebola/",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.17632/2rgtv8vsg4.2\nAuthors: sheng chen, Qingmei Xie\nSubgroup J avian leukosis virus (ALV-J) is an oncogenic retrovirus posing significant threats to the global poultry industry. While host factors are known to regulate retroviral reverse transcription, the specific host proteins that support this critical step in ALV infection have remained",
-      "tag": "analysis"
-    },
-    {
-      "title": "Recombinant subunit vaccine against <i>Mycoplasma gallisepticum</i> disease confers cross-protection against multiple pathogenic strains",
-      "link": "https://doi.org/10.1128/iai.00025-26",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/iai.00025-26\nAuthors: Jeremy M. Miller, Rosemary G. Ozyck, Arlind B. Mara, Esmeralda F. Hernandez, Jessica B. Malek, Edan R. Tulman, Steven M. Szczepanek, Steven J. Geary\n ABSTRACT \n                   \n                     \n                     \n                      <jats:italic toggl",
-      "tag": "analysis"
+      "desc": "Addis Ababa, Ethiopia, 12 June 2026 – The Africa Centres for Disease Control and Prevention (Africa CDC) Advisory and Technical Council (ATC), the institution’s principal technical advisory body, has called for stronger community engagement, cross-border cooperation and frontline response capacity to contain the ongoing Bundibugyo Ebola outb",
+      "tag": "response"
     },
     {
       "title": "The HUSH Complex Dictates EBV-transformed B cell Sensitivity to NK Cell Surveillance Through Repression of NKG2A Ligand γ-Proto-cadherin",
@@ -777,6 +777,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Dengue virus infection in <i>Aedes aegypti</i> mosquito brains elicits minimal transcriptional response",
+      "link": "https://doi.org/10.64898/2026.06.10.731349",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.10.731349\nAuthors: Umberto Palatini, Stéphanie Dabo, Adriana Rosas-Villegas, Yael N. Tsitohay, Alexandra E. DeFoe, Nadav Shai, Louis Lambrechts, Leslie B. Vosshall\n \n                  Billions of people each year are at risk from infection by dengue, Zika, yellow fever, and chikungunya viruses, which are transmitted by",
+      "tag": "response"
+    },
+    {
       "title": "Clinical Profile and Genomic Characterization of the 2026 Bundibugyo Virus Index Case in Uganda",
       "link": "https://doi.org/10.1038/s41591-026-04510-7",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
@@ -805,20 +812,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Dengue virus infection in <i>Aedes aegypti</i> mosquito brains elicits minimal transcriptional response",
-      "link": "https://doi.org/10.64898/2026.06.10.731349",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.10.731349\nAuthors: Umberto Palatini, Stéphanie Dabo, Adriana Rosas-Villegas, Yael N. Tsitohay, Alexandra E. DeFoe, Nadav Shai, Louis Lambrechts, Leslie B. Vosshall\n \n                  Billions of people each year are at risk from infection by dengue, Zika, yellow fever, and chikungunya viruses, which are transmitted by",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola Epidemic Mathematical Model — Democratic Republic of Congo",
-      "link": "https://openalex.org/W7164140740",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20618910\nAuthors: Flávio Codeço Coelho\nEbola Epidemic Mathematical Model — Democratic Republic of Congo EpidBot Analysis Report | May 31, 2026 Table of Contents 1. Executive Summary 2. Data Sources & Evidence Base 3. Model Structure: SEIHFR-V 4. Mathematical Equations 5. Scenario Analysis Results 6. Sensitivity Analysis 7. Vacci",
-      "tag": "analysis"
-    },
-    {
       "title": "Available IPD datapackage for study 'A 52 Weeks, Double Blind, Randomized, Placebo-controlled Trial Evaluating the Effect of Oral BIBF 1120, 150 mg Twice Daily, on Annual Forced Vital Capacity Decline, in Patients With Idiopathic Pulmonary Fibrosis (IPF)'",
       "link": "https://openalex.org/W7164158450",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
@@ -826,17 +819,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Long-term Penetrance of Disease Variants in Genes Prioritized for Genomic Newborn Screening: Evidence from Adult Biobanks",
-      "link": "https://doi.org/10.64898/2026.06.10.26355380",
+      "title": "Supplementary Material for: “Unmasking Primary Hyperparathyroidism: A Rare Endocrine Cause of Vesicovaginal Fistula and Severe Urological Complications”.",
+      "link": "https://openalex.org/W7164137638",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.10.26355380\nAuthors: Nina B. Gold, Hana Zouk, Julie Yeo, Stuart Lipsitz, Satoshi Koyama, Harini Somanchi, Emma Perez, Margaret Sunitha Selvaraj, Lauren O'Grady, Emily Miller, Anna C.F. Lewis, Elizabeth W. Karlson, Alanna Strong, Jessica I. Gold, Heidi L. Rehm, Pradeep Natarajan, Robert C. Green\n Importance: Genomic newb",
-      "tag": "analysis"
-    },
-    {
-      "title": "MicroRNAs in exhaled breath condensate and plasma for diagnosis of asbestos-related interstitial lung diseases",
-      "link": "https://openalex.org/W7164163966",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.6084/m9.figshare.32626228.v1\nAuthors: Roberto Cherchi, Debraj Mukhopadhyay, Alice Spanu, Barbara Pardini, Roberto Cusano, Alessio Naccarati, Patrizia Zavattari, Enrico Bergamaschi, Pierluigi Cocco, Sara De Matteis\nMicroRNAs (miRNAs) have been proposed as diagnostic biomarkers of asbestos-related cancers, but their role in asbestos-related i",
+      "desc": "DOI: 10.6084/m9.figshare.32625972\nAuthors: figshare admin karger, Mahaldar R., Kumar V., Hui P., Raj S., Pal B.\nIntroduction: Primary hyperparathyroidism (PHPT) is a relatively common endocrine disorder that is more frequently diagnosed in postmenopausal women; however, its association with vesicovaginal fistula (VVF) and severe urological complica",
       "tag": "analysis"
     },
     {
@@ -847,6 +833,13 @@ window.FEED_DATA = {
       "tag": "pheic"
     },
     {
+      "title": "MicroRNAs in exhaled breath condensate and plasma for diagnosis of asbestos-related interstitial lung diseases",
+      "link": "https://openalex.org/W7164163966",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.6084/m9.figshare.32626228.v1\nAuthors: Roberto Cherchi, Debraj Mukhopadhyay, Alice Spanu, Barbara Pardini, Roberto Cusano, Alessio Naccarati, Patrizia Zavattari, Enrico Bergamaschi, Pierluigi Cocco, Sara De Matteis\nMicroRNAs (miRNAs) have been proposed as diagnostic biomarkers of asbestos-related cancers, but their role in asbestos-related i",
+      "tag": "analysis"
+    },
+    {
       "title": "Occurrence, Risk Factors, and Molecular Characterization of Ehrlichia canis Infection in Clinically Suspected Dogs from a Tropical Region of South India",
       "link": "https://openalex.org/W7164209025",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
@@ -854,17 +847,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Supplementary Material for: “Unmasking Primary Hyperparathyroidism: A Rare Endocrine Cause of Vesicovaginal Fistula and Severe Urological Complications”.",
-      "link": "https://openalex.org/W7164137638",
+      "title": "Ebola Epidemic Mathematical Model — Democratic Republic of Congo",
+      "link": "https://openalex.org/W7164140740",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.6084/m9.figshare.32625972\nAuthors: figshare admin karger, Mahaldar R., Kumar V., Hui P., Raj S., Pal B.\nIntroduction: Primary hyperparathyroidism (PHPT) is a relatively common endocrine disorder that is more frequently diagnosed in postmenopausal women; however, its association with vesicovaginal fistula (VVF) and severe urological complica",
+      "desc": "DOI: 10.5281/zenodo.20618910\nAuthors: Flávio Codeço Coelho\nEbola Epidemic Mathematical Model — Democratic Republic of Congo EpidBot Analysis Report | May 31, 2026 Table of Contents 1. Executive Summary 2. Data Sources & Evidence Base 3. Model Structure: SEIHFR-V 4. Mathematical Equations 5. Scenario Analysis Results 6. Sensitivity Analysis 7. Vacci",
       "tag": "analysis"
     },
     {
-      "title": "Characterization of Ebola Virus VP24-Host Protein Interactions",
-      "link": "https://openalex.org/W7164173136",
+      "title": "Long-term Penetrance of Disease Variants in Genes Prioritized for Genomic Newborn Screening: Evidence from Adult Biobanks",
+      "link": "https://doi.org/10.64898/2026.06.10.26355380",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.7936/d7ej-pk86\nAuthors: Junjie Zhao\nEbola virus (EBOV) is a negative-sense single-stranded RNA virus that can cause high case fatality rates. EBOV has a genome of less than 20 kilobases, encodes seven genes, and thus has a limited coding capacity. As a result, Ebola virus relies on multifunctional proteins and co-opting host cell proteins t",
+      "desc": "DOI: 10.64898/2026.06.10.26355380\nAuthors: Nina B. Gold, Hana Zouk, Julie Yeo, Stuart Lipsitz, Satoshi Koyama, Harini Somanchi, Emma Perez, Margaret Sunitha Selvaraj, Lauren O'Grady, Emily Miller, Anna C.F. Lewis, Elizabeth W. Karlson, Alanna Strong, Jessica I. Gold, Heidi L. Rehm, Pradeep Natarajan, Robert C. Green\n Importance: Genomic newb",
       "tag": "analysis"
     },
     {
@@ -875,10 +868,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "L’INSP renforce les capacités diagnostiques et de prise en charge à Beni.",
-      "link": "https://insp.cd/linsp-renforce-les-capacites-diagnostiques-et-de-prise-en-charge-a-beni/",
+      "title": "Characterization of Ebola Virus VP24-Host Protein Interactions",
+      "link": "https://openalex.org/W7164173136",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "juin 11, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBeni, 10 juin 2026. Dans le cadre de la riposte à la 17ᵉ épidémie de la Maladie à Virus Ebola (MVE), une mission de haut niveau conduite par le Directeur général de l’Institut National de",
+      "desc": "DOI: 10.7936/d7ej-pk86\nAuthors: Junjie Zhao\nEbola virus (EBOV) is a negative-sense single-stranded RNA virus that can cause high case fatality rates. EBOV has a genome of less than 20 kilobases, encodes seven genes, and thus has a limited coding capacity. As a result, Ebola virus relies on multifunctional proteins and co-opting host cell proteins t",
       "tag": "analysis"
     },
     {
@@ -886,6 +879,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.64898/2026.06.10.731377",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.06.10.731377\nAuthors: Lara Kelchtermans, Viktor Lemmens, Johan Neyts, Yeranddy A Alpizar, Kai Dallmeier\n Ebola outbreaks continue to expand across Central Africa, yet available countermeasures remain limited and virus-specific. Whether available vaccines developed against the related Ebola virus (EBOV) and Sudan virus (SUD",
+      "tag": "analysis"
+    },
+    {
+      "title": "L’INSP renforce les capacités diagnostiques et de prise en charge à Beni.",
+      "link": "https://insp.cd/linsp-renforce-les-capacites-diagnostiques-et-de-prise-en-charge-a-beni/",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "juin 11, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBeni, 10 juin 2026. Dans le cadre de la riposte à la 17ᵉ épidémie de la Maladie à Virus Ebola (MVE), une mission de haut niveau conduite par le Directeur général de l’Institut National de",
       "tag": "analysis"
     },
     {
@@ -1260,31 +1260,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "DRC has strengthened its response to Ebola - but conflict and funding cuts are testing its capacity",
-      "link": "https://doi.org/10.1136/bmj-2026-721038",
-      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/bmj-2026-721038\nAuthors: Aula Abbara, Michael Adeyemi Lawal",
-      "tag": "response"
-    },
-    {
       "title": "Headline Figure: Evolutionary Divergence of NPC1 Suggests Distinct Ebola Virus Interactions in Fruit Bats and Primates",
       "link": "https://openalex.org/W7164042293",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.6084/m9.figshare.32609448\nAuthors: Seth Bachman\nFigure 1. Evolutionary and structural variation in NPC1 across fruit batsand primates. (A) Maximum likelihood phylogeny (PhyML) of NPC1sequences from fruit bats (orange box), primates (blue box), andmouse outgroup (gray box). (B) Multiple sequence alignment of NPC1Domain C showing amino acid v",
-      "tag": "analysis"
-    },
-    {
-      "title": "Headline Figure: Evolutionary Divergence of NPC1 Suggests Distinct Ebola Virus Interactions in Fruit Bats and Primates",
-      "link": "https://openalex.org/W7164011955",
-      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.6084/m9.figshare.32613093\nAuthors: Seth Bachman, Vishya Adipudi, Sonali Bhana, Serena Cacciatore\n Figure 1. Positive selection on NPC1 Domain C reflects divergent evolutionary pressures fromEbola virus exposure in fruit bats versus primates.  NPC1 denotes Niemann-Pick C1 protein. In Panel B, fruit bat sequences are highlighted in yello",
-      "tag": "analysis"
-    },
-    {
-      "title": "Headline Figure: Evolutionary Divergence of NPC1 Suggests Distinct Ebola Virus Interactions in Fruit Bats and Primates",
-      "link": "https://openalex.org/W7163994015",
-      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.6084/m9.figshare.32609448.v1\nAuthors: Seth Bachman\nFigure 1. Evolutionary and structural variation in NPC1 across fruit batsand primates. (A) Maximum likelihood phylogeny (PhyML) of NPC1sequences from fruit bats (orange box), primates (blue box), andmouse outgroup (gray box). (B) Multiple sequence alignment of NPC1Domain C showing amino aci",
       "tag": "analysis"
     },
     {
@@ -1299,6 +1278,27 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.37897/rjid.2026.2.4",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.37897/rjid.2026.2.4\nAuthors: Aseer Manilal, Kozhir Karim Abdullah, Nabaz Hamarashid Ham\n Bundibugyo ebolavirus, first detected in Uganda in 2007, is the fifth recognized species of ebolavirus and has been associated with several outbreaks in East and Central Africa since then. This virus is genetically distinct, with a reported case",
+      "tag": "analysis"
+    },
+    {
+      "title": "DRC has strengthened its response to Ebola - but conflict and funding cuts are testing its capacity",
+      "link": "https://doi.org/10.1136/bmj-2026-721038",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/bmj-2026-721038\nAuthors: Aula Abbara, Michael Adeyemi Lawal",
+      "tag": "response"
+    },
+    {
+      "title": "Headline Figure: Evolutionary Divergence of NPC1 Suggests Distinct Ebola Virus Interactions in Fruit Bats and Primates",
+      "link": "https://openalex.org/W7163994015",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.6084/m9.figshare.32609448.v1\nAuthors: Seth Bachman\nFigure 1. Evolutionary and structural variation in NPC1 across fruit batsand primates. (A) Maximum likelihood phylogeny (PhyML) of NPC1sequences from fruit bats (orange box), primates (blue box), andmouse outgroup (gray box). (B) Multiple sequence alignment of NPC1Domain C showing amino aci",
+      "tag": "analysis"
+    },
+    {
+      "title": "Headline Figure: Evolutionary Divergence of NPC1 Suggests Distinct Ebola Virus Interactions in Fruit Bats and Primates",
+      "link": "https://openalex.org/W7164011955",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.6084/m9.figshare.32613093\nAuthors: Seth Bachman, Vishya Adipudi, Sonali Bhana, Serena Cacciatore\n Figure 1. Positive selection on NPC1 Domain C reflects divergent evolutionary pressures fromEbola virus exposure in fruit bats versus primates.  NPC1 denotes Niemann-Pick C1 protein. In Panel B, fruit bat sequences are highlighted in yello",
       "tag": "analysis"
     },
     {
@@ -1582,13 +1582,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Africa CDC appelle les États membres à renforcer le contrôle sanitaire au départ et les mesures de santé publique aux points d’entrée internationaux",
-      "link": "https://africacdc.org/news-item/africa-cdc-appelle-les-etats-membres-a-renforcer-le-controle-sanitaire-au-depart-et-les-mesures-de-sante-publique-aux-points-dentree-internationaux/",
-      "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
-      "desc": "Addis-Abeba, le 9 juin 2026 — Les Centres africains de contrôle et de prévention des maladies (Africa CDC) appellent l’ensemble des États membres de l’Union africaine à revoir, renforcer et mettre en œuvre sans délai les mesures de contrôle sanitaire au départ et de surveillance sanitaire dans les aéroports internationaux, les ports maritime",
-      "tag": "analysis"
-    },
-    {
       "title": "Early assessment of potential airline-mediated importation risk during the 2026 DRC-Uganda Bundibugyo virus disease outbreak",
       "link": "https://doi.org/10.64898/2026.06.01.26354569",
       "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
@@ -1596,10 +1589,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Bundibugyo Virus Disease Outbreak | Situation Report, Issue No. 23 – June 9, 2026",
-      "link": "https://africacdc.org/download/bundibugyo-virus-disease-outbreak-situation-report-issue-no-23-june-9-2026/",
+      "title": "Africa CDC appelle les États membres à renforcer le contrôle sanitaire au départ et les mesures de santé publique aux points d’entrée internationaux",
+      "link": "https://africacdc.org/news-item/africa-cdc-appelle-les-etats-membres-a-renforcer-le-controle-sanitaire-au-depart-et-les-mesures-de-sante-publique-aux-points-dentree-internationaux/",
       "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
-      "desc": "Download Files\nFileActionDaily Update | Bundibugyo Virus Disease Outbreak, Issue No. 23 – June 9, 2026Download  \nDownload\n\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t9 June 2026\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tResource Type\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tSitRep\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tThemes",
+      "desc": "Addis-Abeba, le 9 juin 2026 — Les Centres africains de contrôle et de prévention des maladies (Africa CDC) appellent l’ensemble des États membres de l’Union africaine à revoir, renforcer et mettre en œuvre sans délai les mesures de contrôle sanitaire au départ et de surveillance sanitaire dans les aéroports internationaux, les ports maritime",
       "tag": "analysis"
     },
     {
@@ -1615,6 +1608,13 @@ window.FEED_DATA = {
       "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
       "desc": "09th June 2026, Kampala – The Ministry of Health, with support convened a high-level meeting bringing together the WHO Director-General, Dr. Tedros Adhanom Ghebreyesus, Ambassadors, Heads of Mission, and Development Partners to review Uganda’s ongoing Ebola response and strengthen collaboration in efforts to bring the outbreak under control.",
       "tag": "response"
+    },
+    {
+      "title": "Bundibugyo Virus Disease Outbreak | Situation Report, Issue No. 23 – June 9, 2026",
+      "link": "https://africacdc.org/download/bundibugyo-virus-disease-outbreak-situation-report-issue-no-23-june-9-2026/",
+      "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
+      "desc": "Download Files\nFileActionDaily Update | Bundibugyo Virus Disease Outbreak, Issue No. 23 – June 9, 2026Download  \nDownload\n\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t9 June 2026\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tResource Type\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tSitRep\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tThemes",
+      "tag": "analysis"
     },
     {
       "title": "Un nouveau plan de 518 millions de dollars pour mieux lutter contre l'épidémie d'Ebola",
