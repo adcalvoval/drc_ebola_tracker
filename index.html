@@ -856,7 +856,8 @@ function applyHzData(geojsonLayer) {
   Object.entries(hz).forEach(([key, count]) => { byNom[hzNom(key)] = count; });
 
   geojsonLayer.eachLayer(layer => {
-    const nom = layer.feature.properties.Nom || '';
+    const nom      = layer.feature.properties.Nom      || '';
+    const province = layer.feature.properties.PROVINCE || '';
     const confirmed = byNom[nom] != null ? byNom[nom] : null;
     const style = confirmed != null ? HZ_STYLES.confirmed : HZ_STYLES.none;
     layer.setStyle(style);
@@ -873,8 +874,11 @@ function applyHzData(geojsonLayer) {
     layer.bindPopup(buildHzPopup(nom, confirmed), { maxWidth: 240 });
 
     if (confirmed != null) {
-      layer.bindTooltip(`<strong>${nom}</strong><br>${confirmed.toLocaleString()} confirmed`, {
-        sticky: true, className: 'hz-tooltip'
+      layer.bindTooltip(
+        `<strong>${nom}</strong><br>` +
+        `<span style="color:#8899bb;">${province} Province</span><br>` +
+        `${confirmed.toLocaleString()} confirmed`,
+        { sticky: true, className: 'hz-tooltip'
       });
     }
   });
