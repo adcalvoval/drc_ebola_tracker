@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 15 Jun 2026 12:19:54 Z",
-  "fetchedAt": "2026-06-15T12:19:55Z",
+  "lastBuildDate": "Mon, 15 Jun 2026 19:04:42 Z",
+  "fetchedAt": "2026-06-15T19:04:42Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -24,9 +24,9 @@
         "confirmed": 145
       },
       "media": {
+        "confirmed": 9200,
         "deaths": 139,
-        "suspected": 1600,
-        "confirmed": 689
+        "suspected": 1600
       }
     },
     "provinces": {},
@@ -38,6 +38,104 @@
     "sourceLabel": "Ministry of Health (DRC)"
   },
   "items": [
+    {
+      "title": "Level 3 - Ebola Bundibugyo Virus Disease in Parts of the Democratic Republic of the Congo",
+      "link": "https://wwwnc.cdc.gov/travel/notices/level3/ebola-democratic-republic-of-the-congo?permalink=43DB4D41DC5B2E3021B921FB5E7EC46EC4F1129A9E8E8981F2E805A7C19BFFEA",
+      "pubDate": "Mon, 15 Jun 2026 18:30:00 Z",
+      "desc": "is a rare and deadly illness that has caused outbreaks in the Democratic Republic of the Congo and Uganda in the past. BVD disease is spread by contact with the blood or body fluids of a person who is infected with or has died from BVD. It is also spread by contact with contaminated objects (such as....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Level 2 - Ebola Bundibugyo Virus Disease in the Democratic Republic of the Congo and Uganda",
+      "link": "https://wwwnc.cdc.gov/travel/notices/level2/ebola-drc-uganda?permalink=03C7806B2281EC7C8EA32EAFA0D95D3373BC4C57B35C1B1FBECF259954857EA5",
+      "pubDate": "Mon, 15 Jun 2026 18:30:00 Z",
+      "desc": "The Democratic Republic of the Congo (DRC) and Uganda are experiencing outbreaks of Bundibugyo virus disease (BVD) (see map). CDC recommends practicing enhanced precautions for travel to Uganda or to provinces in the DRC other than those affected by the outbreak (listed below).",
+      "tag": "response"
+    },
+    {
+      "title": "Record increase in DRC Ebola cases raises death toll to 181 - Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/15/record-daily-jump-in-drc-ebola-outbreak-takes-death-toll-to-178",
+      "pubDate": "Mon, 15 Jun 2026 17:26:00 Z",
+      "desc": "-- DR Congo. Significance Rating: 1 Record increase in DRC Ebola cases raises death toll to 181&nbsp;&nbsp;Al Jazeera",
+      "tag": "cases"
+    },
+    {
+      "title": "Congo reports record one-day increase in Ebola cases, a month after outbreak’s declaration - KGET.com",
+      "link": "https://www.kget.com/health/ap-congo-reports-record-one-day-increase-in-ebola-cases-a-month-after-outbreaks-declaration/amp/",
+      "pubDate": "Mon, 15 Jun 2026 17:26:00 Z",
+      "desc": "Conflict -- DR Congo. Significance Rating: 3 Congo reports record one-day increase in Ebola cases, a month after outbreak’s declaration&nbsp;&nbsp;KGET.com",
+      "tag": "cases"
+    },
+    {
+      "title": "La science en Afrique : conservation, érosion, hémophilie et sécheresse",
+      "link": "https://www.nature.com/articles/d44148-026-00155-3",
+      "pubDate": "Mon, 15 Jun 2026 17:09:00 Z",
+      "desc": "Les suricates en captivité perdent leur capacité à « écouter » les signaux de danger. Alors que les suricates sauvages et les mangoustes jaunes sont capables d’interpréter les cris d’alarme des espèces voisines, les suricates en captivité semblent perdre cette compétence de survie, selon une....",
+      "tag": "analysis"
+    },
+    {
+      "title": "What measles reveals about health security in Southeast Asia",
+      "link": "https://www.preventionweb.net/news/what-measles-reveals-about-health-security-southeast-asia",
+      "pubDate": "Mon, 15 Jun 2026 16:22:00 Z",
+      "desc": "A measles resurgence shows immunity gaps and is a barometer for health system resilience following the Covid-19 pandemic. While the in the Democratic Republic of Congo and Uganda commands headlines due to its deadly and exotic nature, the risk of the virus spreading widely is epidemiologically low –....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Measles Outbreak Kills Over 600 in Bangladesh as Vaccination Campaign Races Against Time",
+      "link": "https://globalbiodefense.com/2026/06/06/measles-kills-more-than-500-children-in-bangladesh-npr/",
+      "pubDate": "Mon, 15 Jun 2026 15:01:00 Z",
+      "desc": "A devastating measles outbreak that has claimed more than 600 lives is continuing to escalate in Bangladesh, even as a massive vaccination campaign reaches millions of children. Since mid-March 2026, Bangladesh has recorded more than 75,000 suspected measles cases and over 9,200 confirmed cases....",
+      "tag": "cases"
+    },
+    {
+      "title": "Orientaciones de la OMS para concentraciones multitudinarias a las que asistan personas procedentes de...",
+      "link": "https://www.who.int/es/publications/i/item/B09770",
+      "pubDate": "Mon, 15 Jun 2026 14:27:00 Z",
+      "desc": "Visión de conjunto. Estas orientaciones de la OMS ofrecen recomendaciones actualizadas para la planificación y gestión de concentraciones multitudinarias a las que asistan personas procedentes de zonas donde se haya documentado la transmisión de la enfermedad por el virus de Bundibugyo (EVB).",
+      "tag": "analysis"
+    },
+    {
+      "title": "Aplicación de recomendaciones temporales sobre salud fronteriza y viajes internacionales emitidas por...",
+      "link": "https://www.who.int/es/publications/i/item/B09769",
+      "pubDate": "Mon, 15 Jun 2026 14:27:00 Z",
+      "desc": "Visión de conjunto. Esta nota técnica presenta las consideraciones relativas a la aplicación de las recomendaciones temporales sobre salud transfronteriza y viajes internacionales emitidas por el Director General de la OMS tras la declaración de la epidemia de enfermedad por el virus del Ébola....",
+      "tag": "analysis"
+    },
+    {
+      "title": "West Nile Police Tighten Ebola Prevention Measures Along DR Congo Border - Nilepost News",
+      "link": "https://nilepost.co.ug/news/348758/west-nile-police-tighten-ebola-prevention-measures-along-dr-congo-border",
+      "pubDate": "Mon, 15 Jun 2026 14:26:00 Z",
+      "desc": "West Nile Virus -- DR Congo. Significance Rating: 3 West Nile Police Tighten Ebola Prevention Measures Along DR Congo Border&nbsp;&nbsp;Nilepost News",
+      "tag": "response"
+    },
+    {
+      "title": "“Finish What We Started”: WHO and Brazil Urge Leaders to Finalise Pandemic Agreement",
+      "link": "https://healthtimes.co.zw/2026/06/15/who-brazil-pandemic-agreement-pabs-annex-finish-what-we-started/",
+      "pubDate": "Mon, 15 Jun 2026 14:16:00 Z",
+      "desc": "The World Health Organization and the Government of Brazil have issued a joint appeal to global leaders, urging them to “finish what we started” by finalising the remaining piece of the WHO Pandemic Agreement , warning that the world remains dangerously exposed to the next health emergency.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Orientations de l’OMS pour les rassemblements de masse auxquels participent des personnes en provenance...",
+      "link": "https://www.who.int/fr/publications/i/item/B09770",
+      "pubDate": "Mon, 15 Jun 2026 13:55:00 Z",
+      "desc": "Vue d’ensemble. Ce document d’orientation de l’OMS fournit des recommandations actualisées pour la planification et la gestion des rassemblements de masse auxquels participent des personnes provenant de zones où une transmission documentée de la maladie à virus Bundibugyo (MVB) est en cours.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Crise Ebola : Bangui déploie",
+      "link": "https://echosante.info/crise-ebola-bangui-deploie-sa-riposte/",
+      "pubDate": "Mon, 15 Jun 2026 13:26:00 Z",
+      "desc": "Le gouvernement centrafricain a officiellement validé, sous la présidence du Premier ministre Félix Moloua, un plan national de riposte d’envergure estimé à 19 milliards de francs CFA. La RCA déploie son plan de riposte face à Ebola, estimé à 19 milliards de FCFA.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Menace Ebola : L’Africa CDC",
+      "link": "https://echosante.info/menace-ebola-lafrica-cdc-ordonne-le-verrouillage-sanitaire-des-frontieres/",
+      "pubDate": "Mon, 15 Jun 2026 13:26:00 Z",
+      "desc": "Le 12 juin 2026, l’agence technique de l’Union africaine a diffusé une directive officielle sommant les États membres de blinder en urgence les contrôles au niveau de toutes leurs frontières. Africa CDC demande aux États membres de renforcer les contrôles au niveau de toutes les frontières.",
+      "tag": "analysis"
+    },
     {
       "title": "Congo reports record one-day increase in Ebola cases, a month after outbreak's declaration - The Tribune-Democrat",
       "link": "https://www.tribdem.com/news/congo-reports-record-one-day-increase-in-ebola-cases-a-month-after-outbreaks-declaration/article_14a61b68-8a51-55ec-886d-2a4e88ad1155.html",
@@ -165,20 +263,6 @@
       "tag": "analysis"
     },
     {
-      "title": "SARS-CoV-2, mpox, chikungunya, hantavirus, Ebola… Pourquoi les émergence virales se multiplient-elles ?",
-      "link": "https://doi.org/10.64628/aak.mxp9uepq5",
-      "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64628/aak.mxp9uepq5\nAuthors: Yannick Simonin",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola virus disease: general aspects (LILACS).",
-      "link": "https://doi.org/10.1079/searchrxiv.2026.01347",
-      "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1079/searchrxiv.2026.01347\nAuthors: Rosemeire Rocha Pinto\n Abstract \n                 To promote timely access to scientific and technical information on Ebola virus disease, strengthening preparedness, detection, response, and recovery capacities in the face of outbreaks and public health emergencies.",
-      "tag": "response"
-    },
-    {
       "title": "IMPACT DE LA PESTE DES PETITS RUMINANTS SUR LES REVENUS DES MENAGES EN REPUBLIQUE DEMOCRATIQUE DU CONGO « CAS DE LA CITE DE LUPUTU",
       "link": "https://openalex.org/W7164651112",
       "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
@@ -190,6 +274,20 @@
       "link": "https://doi.org/10.1007/s12247-026-10822-5",
       "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1007/s12247-026-10822-5\nAuthors: Shaohua Xu, Huicheng Yuan",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola virus disease: general aspects (LILACS).",
+      "link": "https://doi.org/10.1079/searchrxiv.2026.01347",
+      "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1079/searchrxiv.2026.01347\nAuthors: Rosemeire Rocha Pinto\n Abstract \n                 To promote timely access to scientific and technical information on Ebola virus disease, strengthening preparedness, detection, response, and recovery capacities in the face of outbreaks and public health emergencies.",
+      "tag": "response"
+    },
+    {
+      "title": "SARS-CoV-2, mpox, chikungunya, hantavirus, Ebola… Pourquoi les émergence virales se multiplient-elles ?",
+      "link": "https://doi.org/10.64628/aak.mxp9uepq5",
+      "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64628/aak.mxp9uepq5\nAuthors: Yannick Simonin",
       "tag": "analysis"
     },
     {
@@ -285,13 +383,6 @@
     },
     {
       "title": "Mathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis",
-      "link": "https://openalex.org/W7164480659",
-      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20670204\nAuthors: Flávio Codeço Coelho\nMathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis EpidBot Analysis Report | May 31, 2026 Table of Contents Executive Summary Model Structure: SEIR-B Framework Parameter Estimation and Calibration Scenario Anal",
-      "tag": "analysis"
-    },
-    {
-      "title": "Mathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis",
       "link": "https://openalex.org/W7164544027",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.5281/zenodo.20670205\nAuthors: Flávio Codeço Coelho\nMathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis EpidBot Analysis Report | May 31, 2026 Table of Contents Executive Summary Model Structure: SEIR-B Framework Parameter Estimation and Calibration Scenario Anal",
@@ -340,6 +431,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Mathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis",
+      "link": "https://openalex.org/W7164480659",
+      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20670204\nAuthors: Flávio Codeço Coelho\nMathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis EpidBot Analysis Report | May 31, 2026 Table of Contents Executive Summary Model Structure: SEIR-B Framework Parameter Estimation and Calibration Scenario Anal",
+      "tag": "analysis"
+    },
+    {
       "title": "Targeted cleavage site mutations in the Gn precursor enable efficient generation of replication-competent rVSV-based surrogates for emerging nairoviruses",
       "link": "https://openalex.org/W7164478714",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
@@ -354,17 +452,17 @@
       "tag": "analysis"
     },
     {
-      "title": "AI-Driven Discovery of Prototype CLEC4M Inhibitors Targeting Marburg Virus Entry via Integrated Machine Learning and Molecular Modeling",
-      "link": "https://openalex.org/W7164562482",
-      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/ijms27125324\nAuthors: Mohammed Almaghrabi, Mansour S. Alturki\nMarburg virus (MARV), a highly pathogenic member of the Filoviridae family, causes severe hemorrhagic fever with a high case fatality rate and currently lacks effective therapeutics. The viral entry process, mediated by the interaction between the MARV glycoprotein (GP) and",
-      "tag": "analysis"
-    },
-    {
       "title": "Microdochium nannuoshanense J. Zhang, Z. X. Zhang, & Z. Li",
       "link": "https://openalex.org/W7164483202",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.5281/zenodo.20663691\nAuthors: Qiyun Liu, Yuxin Shang, Jinyang Yuan, Zhaoxue Zhang, Congcong Ai, Ji-Wen Xia, Xiu-Guo Zhang, Zhuang Li\nMicrodochium nannuoshanense J. Zhang, Z. X. Zhang, & Z. Li, Journal of Fungi 9, 1176 (2023) Fig. 11 Description. Asexual morph: Mycelium superficial, abundant, hyphae hyaline, branched, septate, thin-walled, 1",
+      "tag": "analysis"
+    },
+    {
+      "title": "AI-Driven Discovery of Prototype CLEC4M Inhibitors Targeting Marburg Virus Entry via Integrated Machine Learning and Molecular Modeling",
+      "link": "https://openalex.org/W7164562482",
+      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/ijms27125324\nAuthors: Mohammed Almaghrabi, Mansour S. Alturki\nMarburg virus (MARV), a highly pathogenic member of the Filoviridae family, causes severe hemorrhagic fever with a high case fatality rate and currently lacks effective therapeutics. The viral entry process, mediated by the interaction between the MARV glycoprotein (GP) and",
       "tag": "analysis"
     },
     {
@@ -634,34 +732,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Host–virus determinants of Ebola virus persistence in a human cerebral organoid model",
-      "link": "https://doi.org/10.1038/s41564-026-02388-2",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/s41564-026-02388-2\nAuthors: Lina Widerspick, Santiago Vidal Freire, Johanna F. Steffen, Shruti Shirsathe, Petra Allartz, Molly A. Vickers, Christoph Henkel, Pedro Neira Pelén, Julia Nave, Monika Rottstegge, Michelle Heung, Stephanie Wurr, Dennis Tappe, Lisa Oestereich, Jonas Müller, Angelique Hoelzemer, Leonore Mensching, Thomas Hoenen",
-      "tag": "analysis"
-    },
-    {
-      "title": "Africa CDC Advisory Council Calls for Stronger Community Engagement and Cross-Border Cooperation on Ebola",
-      "link": "https://africacdc.org/news-item/africa-cdc-advisory-council-calls-for-stronger-community-engagement-and-cross-border-cooperation-on-ebola/",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "Addis Ababa, Ethiopia, 12 June 2026 – The Africa Centres for Disease Control and Prevention (Africa CDC) Advisory and Technical Council (ATC), the institution’s principal technical advisory body, has called for stronger community engagement, cross-border cooperation and frontline response capacity to contain the ongoing Bundibugyo Ebola outb",
-      "tag": "response"
-    },
-    {
-      "title": "Recombinant subunit vaccine against <i>Mycoplasma gallisepticum</i> disease confers cross-protection against multiple pathogenic strains",
-      "link": "https://doi.org/10.1128/iai.00025-26",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/iai.00025-26\nAuthors: Jeremy M. Miller, Rosemary G. Ozyck, Arlind B. Mara, Esmeralda F. Hernandez, Jessica B. Malek, Edan R. Tulman, Steven M. Szczepanek, Steven J. Geary\n ABSTRACT \n                   \n                     \n                     \n                      <jats:italic toggl",
-      "tag": "analysis"
-    },
-    {
-      "title": "From Exercise to Emergency - An extreme presentation of MINOCA: A Case Report",
-      "link": "https://openalex.org/W7164334638",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/ehjcr/ytag442\nAuthors: Aswin Babu, Ciara Kennedy, Travis Chong, Jon Spiro\nAbstract Background Coronary artery vasospasm (CAS) is an important, yet under-recognised cause of myocardial infarction with non-obstructive coronary arteries (MINOCA), associated with significant morbidity and mortality. Case Summary A 51-year-old male presente",
-      "tag": "analysis"
-    },
-    {
       "title": "Case Report: Unveiling the enigma: a rare male neonatal case of MIRAGE syndrome with female external genital presentation and literature review",
       "link": "https://doi.org/10.3389/fped.2026.1808088",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
@@ -683,10 +753,38 @@
       "tag": "analysis"
     },
     {
+      "title": "Host–virus determinants of Ebola virus persistence in a human cerebral organoid model",
+      "link": "https://doi.org/10.1038/s41564-026-02388-2",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/s41564-026-02388-2\nAuthors: Lina Widerspick, Santiago Vidal Freire, Johanna F. Steffen, Shruti Shirsathe, Petra Allartz, Molly A. Vickers, Christoph Henkel, Pedro Neira Pelén, Julia Nave, Monika Rottstegge, Michelle Heung, Stephanie Wurr, Dennis Tappe, Lisa Oestereich, Jonas Müller, Angelique Hoelzemer, Leonore Mensching, Thomas Hoenen",
+      "tag": "analysis"
+    },
+    {
+      "title": "Africa CDC Advisory Council Calls for Stronger Community Engagement and Cross-Border Cooperation on Ebola",
+      "link": "https://africacdc.org/news-item/africa-cdc-advisory-council-calls-for-stronger-community-engagement-and-cross-border-cooperation-on-ebola/",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "Addis Ababa, Ethiopia, 12 June 2026 – The Africa Centres for Disease Control and Prevention (Africa CDC) Advisory and Technical Council (ATC), the institution’s principal technical advisory body, has called for stronger community engagement, cross-border cooperation and frontline response capacity to contain the ongoing Bundibugyo Ebola outb",
+      "tag": "response"
+    },
+    {
       "title": "The HUSH Complex Dictates EBV-transformed B cell Sensitivity to NK Cell Surveillance Through Repression of NKG2A Ligand γ-Proto-cadherin",
       "link": "https://doi.org/10.64898/2026.06.10.731186",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.06.10.731186\nAuthors: Sun, Y.; Kong, I. Y.; Li, W.; Plung, J. S.; Burton, E.; Zhong, L.; Li, S.; Van Besien, H.; Sun, S.; Reyburn, H. T.; Abraham, J.; Roth, L. G.; Gewurz, B. E.\nNatural Killer (NK) cells control Epstein-Barr virus (EBV), though how EBV+ B-cells escape NK surveillance to form tumors remains unknown. To gain insigh",
+      "tag": "analysis"
+    },
+    {
+      "title": "Recombinant subunit vaccine against <i>Mycoplasma gallisepticum</i> disease confers cross-protection against multiple pathogenic strains",
+      "link": "https://doi.org/10.1128/iai.00025-26",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1128/iai.00025-26\nAuthors: Jeremy M. Miller, Rosemary G. Ozyck, Arlind B. Mara, Esmeralda F. Hernandez, Jessica B. Malek, Edan R. Tulman, Steven M. Szczepanek, Steven J. Geary\n ABSTRACT \n                   \n                     \n                     \n                      <jats:italic toggl",
+      "tag": "analysis"
+    },
+    {
+      "title": "From Exercise to Emergency - An extreme presentation of MINOCA: A Case Report",
+      "link": "https://openalex.org/W7164334638",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/ehjcr/ytag442\nAuthors: Aswin Babu, Ciara Kennedy, Travis Chong, Jon Spiro\nAbstract Background Coronary artery vasospasm (CAS) is an important, yet under-recognised cause of myocardial infarction with non-obstructive coronary arteries (MINOCA), associated with significant morbidity and mortality. Case Summary A 51-year-old male presente",
       "tag": "analysis"
     },
     {
@@ -732,6 +830,13 @@
       "tag": "cases"
     },
     {
+      "title": "Estimating the effectiveness of syndromic screening at airports for Bundibugyo ebolavirus disease",
+      "link": "https://doi.org/10.64898/2026.06.11.26355442",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.11.26355442\nAuthors: Quilty, B. J.\nWe used a stochastic simulation model to estimate the effectiveness of combined exit and entry airport screening for Bundibugyo ebolavirus disease (BVD), using natural-history parameters from a Bayesian re-analysis of the 2012 Isiro outbreak. For a 12-hour international flight from DRC or Uga",
+      "tag": "analysis"
+    },
+    {
       "title": "Beyond the borders—coma as a complication of imported Japanese encephalitis: a case report",
       "link": "https://doi.org/10.1186/s13256-026-06206-5",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
@@ -764,13 +869,6 @@
       "link": "https://openalex.org/W7164353577",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/curroncol33060354\nAuthors: Gabriella C. Torretto, Matthew D. Martin, Kaamraan Islam, Nicole E. Archer, Harriet Feilotter, Scott Davey\nBackground: Pathogenic germline BRCA1 and BRCA2 variants cause most hereditary breast and ovarian cancers. Widespread genetic testing has revealed thousands of variants with unknown effects on disease ri",
-      "tag": "analysis"
-    },
-    {
-      "title": "Estimating the effectiveness of syndromic screening at airports for Bundibugyo ebolavirus disease",
-      "link": "https://doi.org/10.64898/2026.06.11.26355442",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.11.26355442\nAuthors: Quilty, B. J.\nWe used a stochastic simulation model to estimate the effectiveness of combined exit and entry airport screening for Bundibugyo ebolavirus disease (BVD), using natural-history parameters from a Bayesian re-analysis of the 2012 Isiro outbreak. For a 12-hour international flight from DRC or Uga",
       "tag": "analysis"
     },
     {
@@ -991,13 +1089,6 @@
       "tag": "analysis"
     },
     {
-      "title": "airport_screening_ebola_bvd: Effectiveness of airport screening for Bundibugyo ebolavirus",
-      "link": "https://openalex.org/W7164136878",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20632117\nAuthors: Billy J. Quilty\nAn R package and Shiny app for estimating the effectiveness of airport screening at detecting infected travellers, adapted for Bundibugyo ebolavirus (BDBV) in the context of the 2026 DRC outbreak.",
-      "tag": "response"
-    },
-    {
       "title": "Available IPD datapackage for study 'A 52 Weeks, Double Blind, Randomized, Placebo-controlled Trial Evaluating the Effect of Oral BIBF 1120, 150 mg Twice Daily, on Annual Forced Vital Capacity Decline, in Patients With Idiopathic Pulmonary Fibrosis (IPF)'",
       "link": "https://openalex.org/W7164158450",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
@@ -1033,6 +1124,20 @@
       "tag": "cases"
     },
     {
+      "title": "Long-term Penetrance of Disease Variants in Genes Prioritized for Genomic Newborn Screening: Evidence from Adult Biobanks",
+      "link": "https://doi.org/10.64898/2026.06.10.26355380",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.10.26355380\nAuthors: Nina B. Gold, Hana Zouk, Julie Yeo, Stuart Lipsitz, Satoshi Koyama, Harini Somanchi, Emma Perez, Margaret Sunitha Selvaraj, Lauren O'Grady, Emily Miller, Anna C.F. Lewis, Elizabeth W. Karlson, Alanna Strong, Jessica I. Gold, Heidi L. Rehm, Pradeep Natarajan, Robert C. Green\n Importance: Genomic newb",
+      "tag": "analysis"
+    },
+    {
+      "title": "Liquen escleroso extragenital: Reporte de un caso",
+      "link": "https://doi.org/10.70181/dv.2025.63.1.05",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.70181/dv.2025.63.1.05\nAuthors: María Gabriel González Antico, Miguel Alejandro López Blanco, Mariela Zamora de la Cabada\n El liquen escleroso es una enfermedad inflamatoria crónica de la piel de etiología desconocida, con especial predilección por el área genital femenina1. Presentamos el caso de un paciente de sexo masculino, de 57",
+      "tag": "analysis"
+    },
+    {
       "title": "Cross-protection against Bundibugyo by Ebola and Sudan vaccines",
       "link": "https://doi.org/10.64898/2026.06.10.731377",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
@@ -1047,18 +1152,11 @@
       "tag": "analysis"
     },
     {
-      "title": "Long-term Penetrance of Disease Variants in Genes Prioritized for Genomic Newborn Screening: Evidence from Adult Biobanks",
-      "link": "https://doi.org/10.64898/2026.06.10.26355380",
+      "title": "airport_screening_ebola_bvd: Effectiveness of airport screening for Bundibugyo ebolavirus",
+      "link": "https://openalex.org/W7164136878",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.10.26355380\nAuthors: Nina B. Gold, Hana Zouk, Julie Yeo, Stuart Lipsitz, Satoshi Koyama, Harini Somanchi, Emma Perez, Margaret Sunitha Selvaraj, Lauren O'Grady, Emily Miller, Anna C.F. Lewis, Elizabeth W. Karlson, Alanna Strong, Jessica I. Gold, Heidi L. Rehm, Pradeep Natarajan, Robert C. Green\n Importance: Genomic newb",
-      "tag": "analysis"
-    },
-    {
-      "title": "Liquen escleroso extragenital: Reporte de un caso",
-      "link": "https://doi.org/10.70181/dv.2025.63.1.05",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.70181/dv.2025.63.1.05\nAuthors: María Gabriel González Antico, Miguel Alejandro López Blanco, Mariela Zamora de la Cabada\n El liquen escleroso es una enfermedad inflamatoria crónica de la piel de etiología desconocida, con especial predilección por el área genital femenina1. Presentamos el caso de un paciente de sexo masculino, de 57",
-      "tag": "analysis"
+      "desc": "DOI: 10.5281/zenodo.20632117\nAuthors: Billy J. Quilty\nAn R package and Shiny app for estimating the effectiveness of airport screening at detecting infected travellers, adapted for Bundibugyo ebolavirus (BDBV) in the context of the 2026 DRC outbreak.",
+      "tag": "response"
     },
     {
       "title": "Viral Encapsulation as a Theoretical Platform for Functional Neutralization of Pathogens: A Conceptual Model for Ebola and HIV",
@@ -1689,104 +1787,6 @@
       "pubDate": "Tue, 09 Jun 2026 08:26:00 Z",
       "desc": "Bunia, 8 juin 2026 (ACP).- Une frange des opérateurs économiques a exprimé leur inquiétude après la suspension des vols commerciaux intervenus cinq jours seulement après la réouverture de l’aéroport de Bunia chef-lieu de la province de l’Ituri, dans le Nord-Est de la République démocratique du Congo....",
       "tag": "analysis"
-    },
-    {
-      "title": "RDC : l’UE débloque 5 millions d’euros supplémentaires pour renforcer la riposte contre Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021712059",
-      "pubDate": "Tue, 09 Jun 2026 08:26:00 Z",
-      "desc": "LIBREVILLE, 8 juin 2026 (AGP) – L’Union européenne (UE) a annoncé dimanche une aide humanitaire additionnelle de 5 millions d’euros en faveur de la République démocratique du Congo (RDC), confrontée à la plus importante épidémie d’Ebola de son histoire, rapporte Radio France Internationale.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Nord-Kivu : le projet d’appui au secteur agricole impacté par la maladie à virus Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021711824",
-      "pubDate": "Tue, 09 Jun 2026 08:06:00 Z",
-      "desc": "Beni, 8 juin 2026(ACP).- Les activités du projet d’appui au secteur agricole au Nord-Kivu (Pasa-NK) ont été impactées négativement par la maladie à virus Ebola suite à la restriction des voyages, a affirmé un responsable de ce projet qui s’exprimait lundi à Beni, dans l’Est de la République démocratique du Congo (RDC), lors d’un atelier.",
-      "tag": "analysis"
-    },
-    {
-      "title": "RDC : L’Union Européenne finance 5 millions d’euros de laboratoires anti-Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021711528",
-      "pubDate": "Tue, 09 Jun 2026 07:06:00 Z",
-      "desc": "© Radio OKAPI\nL'Union Européenne (UE) met la main au portefeuille pour combattre l'épidémie d'Ebola. Dimanche 7 juin 2026, Hadja Lahbib, commissaire européenne chargée de la gestion des crises, a atterri à Bunia, chef-lieu de la province de l'Ituri, avec une enveloppe supplémentaire de 5 millions....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Actualité | Kasaï-Oriental : la fin de l’épidémie de choléra saluée, la vigilance renforcée face à la menace d’Ebola - mediacongo.net",
-      "link": "https://www.mediacongo.net/article-actualite-164478_kasai_oriental_la_fin_de_l_epidemie_de_cholera_saluee_la_vigilance_renforcee_face_a_la_menace_d_ebola.html",
-      "pubDate": "Tue, 09 Jun 2026 05:26:00 Z",
-      "desc": "Ebola -- DR Congo. Significance Rating: 4 Actualité | Kasaï-Oriental : la fin de l’épidémie de choléra saluée, la vigilance renforcée face à la menace d’Ebola&nbsp;&nbsp;mediacongo.net",
-      "tag": "analysis"
-    },
-    {
-      "title": "Nord-Kivu: mise en service du centre de traitement d’Ebola de Katwa à Butembo",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021712448",
-      "pubDate": "Tue, 09 Jun 2026 05:01:00 Z",
-      "desc": "Butembo, 8 juin 2026 (ACP).-Le centre de traitement de la maladie à virus Ebola, d’une capacité de 20 lits, a été mis en service lundi à Butembo, dans la zone de santé de Katwa, au Nord-Kivu, dans l’Est de la République démocratique du Congo (RDC), a constaté l’ACP.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola en RDC : 515 cas, 91 morts… l’est du Congo sous tension sanitaire",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021711914",
-      "pubDate": "Tue, 09 Jun 2026 03:56:00 Z",
-      "desc": "© Actualité.cd\nL’épidémie de maladie à virus Ebola (souche Bundibugyo) continue sa progression silencieuse mais implacable dans l’est de la République démocratique du Congo. Selon le dernier rapport de situation de l’Institut national de santé publique (INSP), publié ce dimanche 7 juin, 515 cas....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Nord-Kivu : une personne guérie d’Ebola quitte l’hôpital avec satisfaction à Butembo",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021711868",
-      "pubDate": "Tue, 09 Jun 2026 03:51:00 Z",
-      "desc": "Butembo, 8 juin 2026 (ACP).- Un homme guéri d’Ebola a quitté l’hôpital de Ngothe lundi à Butembo, au Nord-Kivu, dans l’Est de la République démocratique du Congo(RDC), témoignant avoir trop souffert de cette maladie visiblement contracté depuis Bunia en Ituri, a constaté l’ACP. « J’ai été atteint par la maladie à Bunia.",
-      "tag": "analysis"
-    },
-    {
-      "title": "A Beni, les confessions religieuses s'engagent dans la prévention d'Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021709244",
-      "pubDate": "Tue, 09 Jun 2026 01:01:00 Z",
-      "desc": "Les communautés chrétiennes et musulmanes de la ville de Beni, au Nord-Kivu, s'engagent activement dans la lutte contre la maladie à virus Ebola. Face à la menace persistante de cette épidémie qui touche la ville, plusieurs églises ont mis en place, depuis quelques jours, des dispositifs de prévention afin de protéger leurs fidèles.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Early assessment of potential airline-mediated importation risk during the 2026 DRC-Uganda Bundibugyo virus disease outbreak",
-      "link": "https://doi.org/10.64898/2026.06.01.26354569",
-      "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.01.26354569\nAuthors: Kinoshita, R.; Suzuki, M.; Yoneoka, D.\nDuring the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda, we projected potential airline-mediated importation risk using contemporary airline network and an externally calibrated Ebola importation hazard. Effective-distance",
-      "tag": "analysis"
-    },
-    {
-      "title": "Africa CDC appelle les États membres à renforcer le contrôle sanitaire au départ et les mesures de santé publique aux points d’entrée internationaux",
-      "link": "https://africacdc.org/news-item/africa-cdc-appelle-les-etats-membres-a-renforcer-le-controle-sanitaire-au-depart-et-les-mesures-de-sante-publique-aux-points-dentree-internationaux/",
-      "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
-      "desc": "Addis-Abeba, le 9 juin 2026 — Les Centres africains de contrôle et de prévention des maladies (Africa CDC) appellent l’ensemble des États membres de l’Union africaine à revoir, renforcer et mettre en œuvre sans délai les mesures de contrôle sanitaire au départ et de surveillance sanitaire dans les aéroports internationaux, les ports maritime",
-      "tag": "analysis"
-    },
-    {
-      "title": "Long-term Neurologic, Cognitive and Psychiatric Sequelae of Ebola in Liberian Pediatric Survivors (S9.003)",
-      "link": "https://doi.org/10.1212/wnl.0000000000217797",
-      "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1212/wnl.0000000000217797\nAuthors: Hanalise Huff, Princess Lobbo, Victor Taryor, Joseph Dorbor, Rebecca Slewion, Gina Norato, Richa Dugirrala, Leroy Yankae, Avindra Nath, Dehkontee Dennis, Kumblytee Johnson, Bridgette Billioux",
-      "tag": "analysis"
-    },
-    {
-      "title": "Bundibugyo Virus Disease Outbreak | Situation Report, Issue No. 23 – June 9, 2026",
-      "link": "https://africacdc.org/download/bundibugyo-virus-disease-outbreak-situation-report-issue-no-23-june-9-2026/",
-      "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
-      "desc": "Download Files\nFileActionDaily Update | Bundibugyo Virus Disease Outbreak, Issue No. 23 – June 9, 2026Download  \nDownload\n\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t9 June 2026\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tResource Type\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tSitRep\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tThemes",
-      "tag": "analysis"
-    },
-    {
-      "title": "WHO DIRECTOR-GENERAL, AMBASSADORS AND DEVELOPMENT PARTNERS REAFFIRM SUPPORT FOR UGANDA’S EBOLA RESPONSE",
-      "link": "https://health.go.ug/who-director-general-ambassadors-and-development-partners-reaffirm-support-for-ugandas-ebola-response/",
-      "pubDate": "Tue, 09 Jun 2026 00:00:00 Z",
-      "desc": "09th June 2026, Kampala – The Ministry of Health, with support convened a high-level meeting bringing together the WHO Director-General, Dr. Tedros Adhanom Ghebreyesus, Ambassadors, Heads of Mission, and Development Partners to review Uganda’s ongoing Ebola response and strengthen collaboration in efforts to bring the outbreak under control.",
-      "tag": "response"
-    },
-    {
-      "title": "Un nouveau plan de 518 millions de dollars pour mieux lutter contre l'épidémie d'Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021710409",
-      "pubDate": "Mon, 08 Jun 2026 23:20:00 Z",
-      "desc": "L'Organisation mondiale de la santé et l'Agence de santé africaine, Africa CDC, ont annoncé un plan de 518 millions de dollars pour lutter contre l'épidémie d'Ebola qui sévit dans l'est de la RDC et dans les pays limitrophes. Selon les derniers chiffres de l'OMS, 381 cas ont été confirmés en RDC, dont 64 décès.",
-      "tag": "cases"
     }
   ],
   "highWater": {
