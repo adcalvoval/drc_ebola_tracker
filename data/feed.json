@@ -1,14 +1,28 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 14 Jun 2026 22:13:24 Z",
-  "fetchedAt": "2026-06-14T22:13:25Z",
+  "lastBuildDate": "Mon, 15 Jun 2026 04:41:17 Z",
+  "fetchedAt": "2026-06-15T04:41:17Z",
   "itemCount": 250,
   "stats": {
     "drc": {
+      "deaths": 9,
       "confirmed": 500
     },
-    "drcMeta": {},
+    "drcMeta": {
+      "deaths": {
+        "tier": 2,
+        "src": "Crimean Congo hemorrhagic fever in Iraq: 145 confirmed cases and nine deaths rep"
+      },
+      "confirmed": {
+        "tier": 2,
+        "src": "Crimean Congo hemorrhagic fever in Iraq: 145 confirmed cases and nine deaths rep"
+      }
+    },
     "drcTiers": {
+      "moh": {
+        "deaths": 9,
+        "confirmed": 145
+      },
       "cdc": {
         "suspected": 635
       },
@@ -24,7 +38,7 @@
       "cases": 16
     },
     "whoAlert": "PHEIC",
-    "sourceLabel": "media reports"
+    "sourceLabel": "Ministry of Health (DRC)"
   },
   "items": [
     {
@@ -33,6 +47,13 @@
       "pubDate": "Sun, 14 Jun 2026 20:26:00 Z",
       "desc": "Afghanistan : 16 cas de fièvre hémorragique de Crimée Congo dans la province d'Herat.\n\nEn Afghanistan , selon les autorités sanitaires talibanes de la province d' , 16 cas de fièvre hémorragique de Crimée-Congo ont été recensés dans la province depuis l'Aïd al-Adha.",
       "tag": "analysis"
+    },
+    {
+      "title": "Crimean Congo hemorrhagic fever in Iraq: 145 confirmed cases and nine deaths reported as of June 2026, with Dhi Qar bearing the highest burden",
+      "link": "https://beaconbio.org/en/report/?reportid=5d782630-8119-4cfa-9194-79d3e599f288",
+      "pubDate": "Sun, 14 Jun 2026 20:13:00 Z",
+      "desc": "Sources Iraq reports 145 Crimean-Congo hemorrhagic fever cases, 9 deaths, Xinhua News Agency, 09 Jun 2026 Hemorrhagic fever continues to spread in Dhi Qar, 14 Jun 2026 (In Arabic) IRQ: Epidemic - 05-2026 - Crimean-Congo Hemorrhagic Fever (CCHF) in Iraq/IRCS, Iraqi Red Crescent Society/Ministry of Health, 12 Jun 2026 Iraq records nine deaths, 145 in",
+      "tag": "cases"
     },
     {
       "title": "Computational Screening Novel Inhibitors from Plant-Derived Natural Products Against RNA-Directed RNA Polymerase of Ebola Virus",
@@ -60,6 +81,20 @@
       "link": "https://doi.org/10.1007/s12247-026-10822-5",
       "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1007/s12247-026-10822-5\nAuthors: Shaohua Xu, Huicheng Yuan",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola virus disease: general aspects (LILACS).",
+      "link": "https://doi.org/10.1079/searchrxiv.2026.01347",
+      "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1079/searchrxiv.2026.01347\nAuthors: Rosemeire Rocha Pinto\n Abstract \n                 To promote timely access to scientific and technical information on Ebola virus disease, strengthening preparedness, detection, response, and recovery capacities in the face of outbreaks and public health emergencies.",
+      "tag": "response"
+    },
+    {
+      "title": "Ebola, hantavirus, diphtheria: how distrust in health care is fuelling multiple outbreaks across the globe",
+      "link": "https://doi.org/10.64628/aa.ndmmqp7xq",
+      "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64628/aa.ndmmqp7xq\nAuthors: Holly Seale, Md Islam, Bianca Middleton",
       "tag": "analysis"
     },
     {
@@ -1755,27 +1790,6 @@
       "pubDate": "Mon, 08 Jun 2026 07:43:00 Z",
       "desc": "Bushenge PH, Murunda DH and Gahini DH (each reported 3 perinatal deaths) 1Weekly Epidemiological Bulletin | Week 12 11-17 May 202620WEEK WEEKLY EPIDEMIOLOGICAL BULLETIN Bushenge PH, Murunda DH and Gahini DH (each reported 3 perinatal deaths) 9 human deaths 1 human illness 2 animal deaths 7 dog bites....",
       "tag": "cases"
-    },
-    {
-      "title": "Observe high level of hygiene to avoid contracting Ebola say PS Muthoni",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021704396",
-      "pubDate": "Mon, 08 Jun 2026 07:35:00 Z",
-      "desc": "The Principal Secretary for Health, Mary Muthoni has urged residents of both Busia and Malaba borders to observe high levels of hygiene as a way of containing Ebola disease.\nSpeaking during an inspection tour of the two borders in terms of Ebola preparedness, Muthoni noted that the county’s....",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola en Ituri : 5 millions supplémentaires d’euros pour renforcer les centres de diagnostic(Commissaire européenne)",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021704291",
-      "pubDate": "Mon, 08 Jun 2026 06:55:00 Z",
-      "desc": "Bunia, 07 juin 2026 (ACP).- La commissaire européenne à l’Égalité, à la Protection et à la Gestion des crises, a annoncé dimanche à Bunia en Ituri (Nord-est de la République démocratique du Congo) un appui financier de 5 millions d’euros supplémentaires destinés à la création et au renforcement de....",
-      "tag": "analysis"
-    },
-    {
-      "title": "How you can avoid illness overseas on summer holidays",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021704979",
-      "pubDate": "Mon, 08 Jun 2026 06:45:00 Z",
-      "desc": "DR AZEEM MAJEED YOUR HEALTH MATTERS\nAdvice if you're jetting off this year, whether it's prevention or dealing with the unexpected...\nMost people return from an overseas holiday feeling recharged. But as an NHS GP, I have seen many whose holidays have been ruined by an illness that could have been prevented or made less serious.",
-      "tag": "analysis"
     }
   ],
   "highWater": {
