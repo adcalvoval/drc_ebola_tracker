@@ -20,6 +20,8 @@ from urllib.error import URLError
 from xml.etree import ElementTree as ET
 from email.utils import parsedate_to_datetime
 
+import fetch_who_don
+
 LOG_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'fetch_feed.log')
 
 
@@ -650,6 +652,57 @@ def parse(xml_bytes):
     }
 
 
+def merge_who_don_stats(stats, don_data):
+    """Inject WHO DON data into stats as the highest-authority source (tier 4)."""
+    drc    = don_data.get('drc', {})
+    uga    = don_data.get('uga', {})
+    don_id = don_data.get('donId', 'WHO DON')
+    as_of  = don_data.get('asOf', '')
+    src    = f'{don_id} (as of {as_of})' if as_of else don_id
+
+    # Core DRC figures — override whatever the RSS heuristic produced
+    for field in ('confirmed', 'deaths', 'suspected', 'recovered'):
+        if field in drc:
+            stats.setdefault('drc', {})[field] = drc[field]
+            stats.setdefault('drcMeta', {})[field] = {'tier': 4, 'src': src}
+
+    for field in ('zonesAffected', 'topHealthZones', 'suspectedDeaths',
+                  'healthcareWorkers', 'contacts'):
+        if field in drc:
+            stats.setdefault('drc', {})[field] = drc[field]
+
+    # Province breakdown — merge into the existing provinces dict
+    for slug, pdata in drc.get('provinces', {}).items():
+        existing = stats.setdefault('provinces', {}).get(slug, {})
+        stats['provinces'][slug] = {**existing, **pdata, 'sourceWeight': 4, 'source': src}
+
+    # Add a whoDon bucket to drcTiers for frontend transparency
+    don_tier = {f: drc[f] for f in ('confirmed', 'deaths', 'suspected', 'recovered') if f in drc}
+    if don_tier:
+        stats.setdefault('drcTiers', {})['whoDon'] = don_tier
+
+    # Uganda
+    if uga.get('confirmed'):
+        stats.setdefault('uga', {})['cases'] = uga['confirmed']
+    for field in ('deaths', 'probableDeaths', 'recovered', 'districts'):
+        if field in uga:
+            stats.setdefault('uga', {})[field] = uga[field]
+    if uga:
+        stats.setdefault('uga', {})['mentioned'] = True
+
+    if drc.get('confirmed') or drc.get('deaths'):
+        stats['sourceLabel'] = 'WHO Disease Outbreak News'
+
+    stats['whoDon'] = {
+        'donId':     don_data.get('donId'),
+        'url':       don_data.get('url'),
+        'asOf':      don_data.get('asOf'),
+        'fetchedAt': don_data.get('fetchedAt'),
+    }
+
+    return stats
+
+
 def main():
     os.makedirs(os.path.dirname(OUT_FILE), exist_ok=True)
 
@@ -674,6 +727,14 @@ def main():
         print(f'ERROR: {msg}', file=sys.stderr)
         log('ERROR', msg)
         sys.exit(1)
+
+    # Poll WHO DON bulletins and merge as authoritative source
+    try:
+        don_data = fetch_who_don.poll_and_update()
+        if don_data:
+            data['stats'] = merge_who_don_stats(data['stats'], don_data)
+    except Exception as e:  # noqa: BLE001
+        print(f'WHO DON: skipped due to error — {e}')
 
     # Update high-water marks and embed them in the output
     hw = load_high_water()
@@ -719,7 +780,9 @@ def main():
     log('OK', summary)
 
     subprocess.run(
-        ['git', 'add', 'data/feed.js', 'data/feed.json', 'data/high_water.json'],
+        ['git', 'add',
+         'data/feed.js', 'data/feed.json', 'data/high_water.json',
+         'data/who_don.json', 'data/who_don_seen.json'],
         cwd=repo_root, check=True
     )
     result = subprocess.run(
