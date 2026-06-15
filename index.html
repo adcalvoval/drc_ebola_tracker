@@ -323,8 +323,8 @@
     </div>
     <div class="layer-row">
       <div class="layer-label">
-        <span class="layer-dot" style="background:#e74c3c;border-radius:50%;width:10px;height:10px;border:2px solid #fff;opacity:0.85;"></span>
-        Health Zones (WHO DON)
+        <span class="layer-dot l-sq" style="background:#e74c3c;opacity:0.65;border:1.5px solid #c0392b;"></span>
+        Health Zones (Ituri · WHO DON)
       </div>
       <button class="toggle-btn active" id="btnHz" onclick="toggleHealthZones()">On</button>
     </div>
@@ -780,66 +780,104 @@ function toggleUga() {
   }
 }
 
-// ── Health zone markers (WHO DON topHealthZones) ──────────────────────────────
-// Approximate centroids for named DRC health zones; sourced from OCHA / OSM.
-const HZ_COORDS = {
-  bunia:      [1.5646,  30.2519],
-  rwampara:   [1.5167,  30.3167],
-  mongbwalu:  [1.9833,  30.0333],
-  nyankunde:  [1.4333,  30.2167],
+// ── Health zone polygons (WHO DON topHealthZones, Ituri) ─────────────────────
+// Boundaries: HDX / GRID3-M4H / OSM / DSNIS / WHO (April 2022), filtered to
+// Ituri province and pre-bundled at data/drc_affected_health_zones.geojson.
+
+// Feed keys (lowercase) → canonical Nom in the shapefile
+const HZ_NAME_ALIASES = { mongbwalu: 'Mongbalu' };
+
+function hzNom(feedKey) {
+  const k = feedKey.toLowerCase();
+  return HZ_NAME_ALIASES[k] || (k.charAt(0).toUpperCase() + k.slice(1));
+}
+
+const HZ_STYLES = {
+  confirmed: { fillColor: '#e74c3c', fillOpacity: 0.65, color: '#c0392b', weight: 1.5, dashArray: null },
+  affected:  { fillColor: '#e67e22', fillOpacity: 0.40, color: '#ca6f1e', weight: 1,   dashArray: null },
+  none:      { fillColor: '#2a3a5a', fillOpacity: 0.12, color: '#3a5070', weight: 0.6, dashArray: '3 3' },
 };
 
 let hzLayer      = null;
+let hzGeoJSON    = null; // cached after first fetch
 let hzVisible    = true;
 
-function buildHealthZoneMarkers() {
+function buildHzPopup(nom, confirmed, asOf) {
+  const s = getFeedStats();
+  const donDate = asOf || (s.whoDon && s.whoDon.asOf) || '';
+  if (confirmed != null) {
+    return (
+      `<div class="pu-name">${nom}</div>` +
+      `<div class="pu-sub">Health Zone · Ituri · DRC</div>` +
+      `<div class="pu-stats"><div class="pu-stat full">` +
+        `<div class="pu-stat-v" style="color:#e74c3c">${confirmed.toLocaleString()}</div>` +
+        `<div class="pu-stat-l">Confirmed Cases ${tierBadgeHTML(4)}</div>` +
+      `</div></div>` +
+      `<p class="pu-caveat">Source: WHO Disease Outbreak News${donDate ? ' · as of ' + donDate : ''}</p>`
+    );
+  }
+  return (
+    `<div class="pu-name">${nom}</div>` +
+    `<div class="pu-sub">Health Zone · Ituri · DRC</div>` +
+    `<div style="font-size:0.75rem;color:#6b7a96;margin-top:6px;">` +
+      `Affected province — zone-level case count not yet reported.` +
+    `</div>`
+  );
+}
+
+function applyHzData(geojsonLayer) {
   const s  = getFeedStats();
   const hz = (s.drc && s.drc.topHealthZones) || {};
-  const layers = [];
+  // Build lookup: canonical Nom → confirmed count
+  const byNom = {};
+  Object.entries(hz).forEach(([key, count]) => { byNom[hzNom(key)] = count; });
 
-  Object.entries(hz).forEach(([name, confirmed]) => {
-    const coords = HZ_COORDS[name.toLowerCase()];
-    if (!coords) return;
+  geojsonLayer.eachLayer(layer => {
+    const nom = layer.feature.properties.Nom || '';
+    const confirmed = byNom[nom] != null ? byNom[nom] : null;
+    const style = confirmed != null ? HZ_STYLES.confirmed : HZ_STYLES.none;
+    layer.setStyle(style);
 
-    const label = name.charAt(0).toUpperCase() + name.slice(1);
-    const marker = L.circleMarker(coords, {
-      radius: 7,
-      fillColor: '#e74c3c',
-      color: '#ffffff',
-      weight: 1.5,
-      fillOpacity: 0.88,
-      pane: 'markerPane'
+    layer.off('mouseover mouseout');
+    layer.on({
+      mouseover(e) { e.target.setStyle({ weight: 2.5, color: '#fff', fillOpacity: style.fillOpacity + 0.15 }); e.target.bringToFront(); },
+      mouseout(e)  { geojsonLayer.resetStyle(e.target); },
     });
 
-    marker.bindTooltip(`<strong>${label} HZ</strong><br>${confirmed.toLocaleString()} confirmed`, {
-      direction: 'top',
-      offset: [0, -8],
-      className: 'hz-tooltip'
-    });
+    layer.bindPopup(buildHzPopup(nom, confirmed), { maxWidth: 240 });
 
-    marker.bindPopup(
-      `<div class="pu-name">${label}</div>` +
-      `<div class="pu-sub">Health Zone · Ituri Province · DRC</div>` +
-      `<div class="pu-stats">` +
-        `<div class="pu-stat full">` +
-          `<div class="pu-stat-v" style="color:#e74c3c">${confirmed.toLocaleString()}</div>` +
-          `<div class="pu-stat-l">Confirmed Cases ${tierBadgeHTML(4)}</div>` +
-        `</div>` +
-      `</div>` +
-      `<p class="pu-caveat">Source: WHO Disease Outbreak News · ${(s.whoDon && s.whoDon.asOf) ? 'as of ' + s.whoDon.asOf : ''}</p>`,
-      { maxWidth: 240 }
-    );
-
-    layers.push(marker);
+    if (confirmed != null) {
+      layer.bindTooltip(`<strong>${nom}</strong><br>${confirmed.toLocaleString()} confirmed`, {
+        sticky: true, className: 'hz-tooltip'
+      });
+    }
   });
-
-  return L.layerGroup(layers);
 }
 
 function initHealthZoneLayer() {
-  if (hzLayer) map.removeLayer(hzLayer);
-  hzLayer = buildHealthZoneMarkers();
-  if (hzVisible) hzLayer.addTo(map);
+  const s = getFeedStats();
+  if (!s.drc) return; // no data yet
+
+  if (hzGeoJSON) {
+    // Already loaded — just refresh styles/popups with latest feed data
+    if (hzLayer) {
+      applyHzData(hzLayer);
+    }
+    return;
+  }
+
+  fetch('data/drc_affected_health_zones.geojson')
+    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(data => {
+      hzGeoJSON = data;
+      hzLayer = L.geoJSON(data, { style: HZ_STYLES.none });
+      applyHzData(hzLayer);
+      if (hzVisible) {
+        hzLayer.addTo(map);
+        if (adm1Layer) adm1Layer.bringToFront();
+      }
+    })
+    .catch(err => console.warn('Health zone GeoJSON load error:', err));
 }
 
 function toggleHealthZones() {
@@ -852,6 +890,7 @@ function toggleHealthZones() {
     btn.classList.remove('active');
   } else {
     hzLayer.addTo(map);
+    if (adm1Layer) adm1Layer.bringToFront();
     hzVisible = true;
     btn.textContent = 'On';
     btn.classList.add('active');
