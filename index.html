@@ -666,6 +666,11 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r
 map.createPane('darkOverlay');
 map.getPane('darkOverlay').style.zIndex = 350;
 map.getPane('darkOverlay').style.pointerEvents = 'none';
+
+// Health zone pane — sits above the default overlayPane (z 400) so zone polygons
+// receive click/hover events before the province layer underneath them.
+map.createPane('hzPane');
+map.getPane('hzPane').style.zIndex = 420;
 L.rectangle([[-90, -180], [90, 180]], {
   fillColor: '#000000',
   fillOpacity: 0.38,
@@ -900,7 +905,7 @@ function initHealthZoneLayer() {
     .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(data => {
       hzGeoJSON = data;
-      hzLayer = L.geoJSON(data, { style: HZ_STYLES.none });
+      hzLayer = L.geoJSON(data, { style: HZ_STYLES.none, pane: 'hzPane' });
       applyHzData(hzLayer);
       if (hzVisible) {
         hzLayer.addTo(map);
