@@ -203,6 +203,7 @@
     .pu-stat-l { font-size: 0.62rem; color: #6b7a96; margin-top: 2px; }
     .pu-note   { font-size: 0.73rem; color: #8899bb; line-height: 1.5; border-top: 1px solid #1e2a4a; padding-top: 8px; }
     .pu-caveat { font-size: 0.65rem; color: #4a5a76; margin-bottom: 6px; font-style: italic; }
+    .hz-tooltip { background: #0d1726; border: 1px solid #1e2a4a; color: #c8d4e8; font-size: 0.72rem; padding: 4px 8px; border-radius: 4px; white-space: nowrap; }
     .pu-adm-type { font-size: 0.65rem; color: #4a5a76; margin-bottom: 6px; }
 
     /* ── Legend ──────────────────────────────────────────────────────── */
@@ -320,6 +321,13 @@
       </div>
       <button class="toggle-btn active" id="btnUga" onclick="toggleUga()">On</button>
     </div>
+    <div class="layer-row">
+      <div class="layer-label">
+        <span class="layer-dot" style="background:#e74c3c;border-radius:50%;width:10px;height:10px;border:2px solid #fff;opacity:0.85;"></span>
+        Health Zones (WHO DON)
+      </div>
+      <button class="toggle-btn active" id="btnHz" onclick="toggleHealthZones()">On</button>
+    </div>
   </div>
 
   <div id="map"></div>
@@ -353,6 +361,7 @@ function loadFeed() {
       window.FEED_DATA = data;
       renderNews(data.items, data.fetchedAt);
       renderRssStats();
+      initHealthZoneLayer();
     })
     .catch(() => {
       document.getElementById('newsScroll').innerHTML =
@@ -771,6 +780,84 @@ function toggleUga() {
   }
 }
 
+// ── Health zone markers (WHO DON topHealthZones) ──────────────────────────────
+// Approximate centroids for named DRC health zones; sourced from OCHA / OSM.
+const HZ_COORDS = {
+  bunia:      [1.5646,  30.2519],
+  rwampara:   [1.5167,  30.3167],
+  mongbwalu:  [1.9833,  30.0333],
+  nyankunde:  [1.4333,  30.2167],
+};
+
+let hzLayer      = null;
+let hzVisible    = true;
+
+function buildHealthZoneMarkers() {
+  const s  = getFeedStats();
+  const hz = (s.drc && s.drc.topHealthZones) || {};
+  const layers = [];
+
+  Object.entries(hz).forEach(([name, confirmed]) => {
+    const coords = HZ_COORDS[name.toLowerCase()];
+    if (!coords) return;
+
+    const label = name.charAt(0).toUpperCase() + name.slice(1);
+    const marker = L.circleMarker(coords, {
+      radius: 7,
+      fillColor: '#e74c3c',
+      color: '#ffffff',
+      weight: 1.5,
+      fillOpacity: 0.88,
+      pane: 'markerPane'
+    });
+
+    marker.bindTooltip(`<strong>${label} HZ</strong><br>${confirmed.toLocaleString()} confirmed`, {
+      direction: 'top',
+      offset: [0, -8],
+      className: 'hz-tooltip'
+    });
+
+    marker.bindPopup(
+      `<div class="pu-name">${label}</div>` +
+      `<div class="pu-sub">Health Zone · Ituri Province · DRC</div>` +
+      `<div class="pu-stats">` +
+        `<div class="pu-stat full">` +
+          `<div class="pu-stat-v" style="color:#e74c3c">${confirmed.toLocaleString()}</div>` +
+          `<div class="pu-stat-l">Confirmed Cases ${tierBadgeHTML(4)}</div>` +
+        `</div>` +
+      `</div>` +
+      `<p class="pu-caveat">Source: WHO Disease Outbreak News · ${(s.whoDon && s.whoDon.asOf) ? 'as of ' + s.whoDon.asOf : ''}</p>`,
+      { maxWidth: 240 }
+    );
+
+    layers.push(marker);
+  });
+
+  return L.layerGroup(layers);
+}
+
+function initHealthZoneLayer() {
+  if (hzLayer) map.removeLayer(hzLayer);
+  hzLayer = buildHealthZoneMarkers();
+  if (hzVisible) hzLayer.addTo(map);
+}
+
+function toggleHealthZones() {
+  const btn = document.getElementById('btnHz');
+  if (!hzLayer) return;
+  if (map.hasLayer(hzLayer)) {
+    map.removeLayer(hzLayer);
+    hzVisible = false;
+    btn.textContent = 'Off';
+    btn.classList.remove('active');
+  } else {
+    hzLayer.addTo(map);
+    hzVisible = true;
+    btn.textContent = 'On';
+    btn.classList.add('active');
+  }
+}
+
 // ── ADM2: lazy-load on first toggle ──────────────────────────────────────────
 function toggleAdm2() {
   const btn = document.getElementById('btnAdm2');
@@ -914,8 +1001,8 @@ function renderNews(items, fetchedAt) {
 }
 
 // ── Source tier helpers ───────────────────────────────────────────────────────
-const TIER_LABELS = {3: 'WHO', 2: 'MoH', 1: 'CDC', 0: 'Media'};
-const TIER_CSS    = {3: 'tier-who', 2: 'tier-moh', 1: 'tier-cdc', 0: 'tier-media'};
+const TIER_LABELS = {4: 'WHO', 3: 'WHO', 2: 'MoH', 1: 'CDC', 0: 'Media'};
+const TIER_CSS    = {4: 'tier-who', 3: 'tier-who', 2: 'tier-moh', 1: 'tier-cdc', 0: 'tier-media'};
 
 function tierBadgeHTML(tier) {
   if (tier == null) return '';
