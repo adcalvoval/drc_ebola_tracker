@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 15 Jun 2026 04:41:17 Z",
-  "fetchedAt": "2026-06-15T04:41:17Z",
+  "lastBuildDate": "Mon, 15 Jun 2026 06:47:16 Z",
+  "fetchedAt": "2026-06-15T06:47:17Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -41,6 +41,13 @@ window.FEED_DATA = {
     "sourceLabel": "Ministry of Health (DRC)"
   },
   "items": [
+    {
+      "title": "El brote de ébola no está bajo control; se necesitan opciones de tratamiento y prevención | 15 junio 2026",
+      "link": "https://vacunasaep.org/profesionales/noticias/el-brote-de-ebola-no-esta-bajo-control-se-necesitan-opciones-de-tratamiento-y",
+      "pubDate": "Mon, 15 Jun 2026 06:16:00 Z",
+      "desc": "Introducción. La OMS declaró el pasado 17 de mayo la \"emergencia de salud pública de interés internacional\" (ESPII; PHEIC, en sus siglas en inglés) por el brote de ébola causado por la especie Bundibugyo (BDBV) en la Rep. Democrática del Congo y Uganda.",
+      "tag": "pheic"
+    },
     {
       "title": "Afghanistan : 16 cas de fièvre hémorragique de Crimée Congo dans la province d'Herat Patrick GEROME - 14/06/2026 Lire plus➟",
       "link": "https://www.mesvaccins.net/web/news/24188-afghanistan-16-cas-de-fievre-hemorragique-de-crimee-congo-dans-la-province-d-herat",
@@ -168,38 +175,10 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Temporomandibular joint ankylosis: patterns, management, and outcomes at a Nigerian tertiary hospital - a ten year retrospective study.",
-      "link": "https://openalex.org/W7164573665",
-      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20669174\nAuthors: Mohammed A.S Abdullahi,1 Ijakrayu E. Ijabani,2 Fatima Babagana,3 Sakeenatu Haruna,1 Kanadi Kwari,1 Ahmed M. Alhaji.4\nAbstract Background: Temporomandibular joint ankylosis (TMJA) occurs when there is fusion of the condyle to the glenoid fossa, gradually causing hypomobility of the mandible. It is mainly caused",
-      "tag": "analysis"
-    },
-    {
-      "title": "LIVER BIOPSY IN MODERN CLINICAL PRACTICE: INDICATIONS, METHODS AND SAFETY",
-      "link": "https://doi.org/10.17816/clinpract699338",
-      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.17816/clinpract699338\nAuthors: Mikhail Zinovskiy, Aishe Keshvedinova, Dmitriy Astakhov, Dmitriy Panchenkov\n Despite the availability of serological tests and radiographic examination methods, liver biopsy is a widely used procedure for diagnosis, prognosis, and appropriate subsequent treatment. The main reasons for biopsy include foc",
-      "tag": "analysis"
-    },
-    {
       "title": "Mathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis",
       "link": "https://openalex.org/W7164480659",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.5281/zenodo.20670204\nAuthors: Flávio Codeço Coelho\nMathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis EpidBot Analysis Report | May 31, 2026 Table of Contents Executive Summary Model Structure: SEIR-B Framework Parameter Estimation and Calibration Scenario Anal",
-      "tag": "analysis"
-    },
-    {
-      "title": "Assessing IRF3 as a Master Regulator of Acute Hepacivirus Clearance in Mice",
-      "link": "https://openalex.org/W7164572999",
-      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.17615/8jsv-k503\nAuthors: Amir Shaheen\nHuman genetic variation contributes to a wide array of disease outcomes following hepatitis C virus (HCV) infection. However, much of the host genetic variation guiding these disparate outcomes remains unknown. Norway rat hepacivirus (NrHV), a rodent homolog of HCV, can be employed to elucidate host fac",
-      "tag": "analysis"
-    },
-    {
-      "title": "Outcomes of Percutaneous Interventions for Aortic Coarctation: Experience from a Tertiary Care Center.",
-      "link": "https://openalex.org/W7164549526",
-      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.14744/anatoljcardiol.2026.6127\nAuthors: Tuğba Çetin, Şeyda Dereli, Günseli Özdemir, Utku ULUKÖKSAL, Fatma Can, Can Yücel Karabay\nBACKGROUND: Coarctation of the aorta (CoA) is a congenital obstructive anomaly that may remain undiagnosed until adulthood, often presenting with systemic hypertension. While percutaneous interventions, including",
       "tag": "analysis"
     },
     {
@@ -224,10 +203,45 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Outcomes of Percutaneous Interventions for Aortic Coarctation: Experience from a Tertiary Care Center.",
+      "link": "https://openalex.org/W7164549526",
+      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.14744/anatoljcardiol.2026.6127\nAuthors: Tuğba Çetin, Şeyda Dereli, Günseli Özdemir, Utku ULUKÖKSAL, Fatma Can, Can Yücel Karabay\nBACKGROUND: Coarctation of the aorta (CoA) is a congenital obstructive anomaly that may remain undiagnosed until adulthood, often presenting with systemic hypertension. While percutaneous interventions, including",
+      "tag": "analysis"
+    },
+    {
+      "title": "Assessing IRF3 as a Master Regulator of Acute Hepacivirus Clearance in Mice",
+      "link": "https://openalex.org/W7164572999",
+      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.17615/8jsv-k503\nAuthors: Amir Shaheen\nHuman genetic variation contributes to a wide array of disease outcomes following hepatitis C virus (HCV) infection. However, much of the host genetic variation guiding these disparate outcomes remains unknown. Norway rat hepacivirus (NrHV), a rodent homolog of HCV, can be employed to elucidate host fac",
+      "tag": "analysis"
+    },
+    {
+      "title": "LIVER BIOPSY IN MODERN CLINICAL PRACTICE: INDICATIONS, METHODS AND SAFETY",
+      "link": "https://doi.org/10.17816/clinpract699338",
+      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.17816/clinpract699338\nAuthors: Mikhail Zinovskiy, Aishe Keshvedinova, Dmitriy Astakhov, Dmitriy Panchenkov\n Despite the availability of serological tests and radiographic examination methods, liver biopsy is a widely used procedure for diagnosis, prognosis, and appropriate subsequent treatment. The main reasons for biopsy include foc",
+      "tag": "analysis"
+    },
+    {
+      "title": "Temporomandibular joint ankylosis: patterns, management, and outcomes at a Nigerian tertiary hospital - a ten year retrospective study.",
+      "link": "https://openalex.org/W7164573665",
+      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20669174\nAuthors: Mohammed A.S Abdullahi,1 Ijakrayu E. Ijabani,2 Fatima Babagana,3 Sakeenatu Haruna,1 Kanadi Kwari,1 Ahmed M. Alhaji.4\nAbstract Background: Temporomandibular joint ankylosis (TMJA) occurs when there is fusion of the condyle to the glenoid fossa, gradually causing hypomobility of the mandible. It is mainly caused",
+      "tag": "analysis"
+    },
+    {
       "title": "Targeted cleavage site mutations in the Gn precursor enable efficient generation of replication-competent rVSV-based surrogates for emerging nairoviruses",
       "link": "https://openalex.org/W7164478714",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.6084/m9.figshare.32657186.v1\nAuthors: Shilpi Jain, Stéphane Marot, Elif Karaaslan, Mohammad M. Sajadi, Nurcan Baykam, Derya Yapar, Trevor Shoemaker, Joel M. Montgomery, Christina F. Spiropoulou, César G. Albariño, Éric Bergeron\nOrthonairoviruses are rapidly emerging, tick-borne viruses including Crimean Congo hemorrhagic fever virus (CCHFV)",
+      "tag": "analysis"
+    },
+    {
+      "title": "AI-Driven Discovery of Prototype CLEC4M Inhibitors Targeting Marburg Virus Entry via Integrated Machine Learning and Molecular Modeling",
+      "link": "https://openalex.org/W7164562482",
+      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/ijms27125324\nAuthors: Mohammed Almaghrabi, Mansour S. Alturki\nMarburg virus (MARV), a highly pathogenic member of the Filoviridae family, causes severe hemorrhagic fever with a high case fatality rate and currently lacks effective therapeutics. The viral entry process, mediated by the interaction between the MARV glycoprotein (GP) and",
       "tag": "analysis"
     },
     {
@@ -238,10 +252,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "AI-Driven Discovery of Prototype CLEC4M Inhibitors Targeting Marburg Virus Entry via Integrated Machine Learning and Molecular Modeling",
-      "link": "https://openalex.org/W7164562482",
+      "title": "Le Ministère de la Santé à travers l’INSP dément les rumeurs de confinement et appelle à la vigilance face à la désinformation.",
+      "link": "https://insp.cd/le-ministere-de-la-sante-a-travers-linsp-dement-les-rumeurs-de-confinement-et-appelle-a-la-vigilance-face-a-la-desinformation/",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/ijms27125324\nAuthors: Mohammed Almaghrabi, Mansour S. Alturki\nMarburg virus (MARV), a highly pathogenic member of the Filoviridae family, causes severe hemorrhagic fever with a high case fatality rate and currently lacks effective therapeutics. The viral entry process, mediated by the interaction between the MARV glycoprotein (GP) and",
+      "desc": "juin 13, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nKinshasa, 13 juin 2026. Le Ministère de la Santé Publique, Hygiène et Prévoyance Sociale à travers l’INSP tient à rassurer l’ensemble de la population congolaise face aux informations err",
       "tag": "analysis"
     },
     {
@@ -350,18 +364,18 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Viewpoints: Medicine Has Come So Far, And Now Politics Threatens Our Lifesaving Research; Government Doesn't Know What's Best For Children",
-      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-medicine-has-come-so-far-and-now-politics-threatens-our-lifesaving-research-government-doesnt-know-whats-best-for-children/",
-      "pubDate": "Fri, 12 Jun 2026 13:38:00 Z",
-      "desc": "Childhood leukemia, a likely death sentence when I was a medical student, is now survivable for most children. Cancer immunotherapy is extending life for many who would have died a decade ago. New technology is letting us repair genetic diseases at their source.",
-      "tag": "analysis"
-    },
-    {
       "title": "CDC Sets New World Screwworm Emergency Response In Motion",
       "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-061226/",
       "pubDate": "Fri, 12 Jun 2026 13:38:00 Z",
       "desc": "The public health agency has activated a Level 3 emergency response — the agency’s lowest-level tier — and is assembling a team of career scientists who will closely monitor the outbreak and coordinate with local health departments, Bloomberg reports. Meanwhile, CIDRAP reports that the FDA has....",
       "tag": "response"
+    },
+    {
+      "title": "Viewpoints: Medicine Has Come So Far, And Now Politics Threatens Our Lifesaving Research; Government Doesn't Know What's Best For Children",
+      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-medicine-has-come-so-far-and-now-politics-threatens-our-lifesaving-research-government-doesnt-know-whats-best-for-children/",
+      "pubDate": "Fri, 12 Jun 2026 13:38:00 Z",
+      "desc": "Childhood leukemia, a likely death sentence when I was a medical student, is now survivable for most children. Cancer immunotherapy is extending life for many who would have died a decade ago. New technology is letting us repair genetic diseases at their source.",
+      "tag": "analysis"
     },
     {
       "title": "Communicable disease threats report, 6 - 12 June 2026, Week 24",
@@ -504,20 +518,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Case Report: Unveiling the enigma: a rare male neonatal case of MIRAGE syndrome with female external genital presentation and literature review",
-      "link": "https://doi.org/10.3389/fped.2026.1808088",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fped.2026.1808088\nAuthors: Shuyan Li, Fangjian Gao, Xiaojuan Lin, Dongmei Wang, Shuangquan Gao, Yu Ding, Jianwu Qiu\n \n                     Background \n                     \n                      MIRAGE syndrome is a severe congenital disease affecting multiple systems, caused by functional variant",
-      "tag": "analysis"
-    },
-    {
-      "title": "Lumbosacral spondylodiscitis following superior hypogastric nerve block performed during uterine artery embolization: a case report",
-      "link": "https://doi.org/10.1186/s42155-026-00719-2",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s42155-026-00719-2\nAuthors: Hamidreza Rouientan, Dina Seyedi, Shahram Akhlaghpoor\n Abstract \n                   \n                     Background \n                     Uterine artery embolization (UAE) is a minimally invasive, uterus-preserving treatment for symptomatic uteri",
-      "tag": "analysis"
-    },
-    {
       "title": "Clinical manifestations and laboratory findings in patients coinfected with dengue virus and SARS-CoV-2: a systematic review",
       "link": "https://doi.org/10.1186/s12879-026-13752-2",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
@@ -532,10 +532,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "From Exercise to Emergency - An extreme presentation of MINOCA: A Case Report",
-      "link": "https://openalex.org/W7164334638",
+      "title": "Africa CDC Advisory Council Calls for Stronger Community Engagement and Cross-Border Cooperation on Ebola",
+      "link": "https://africacdc.org/news-item/africa-cdc-advisory-council-calls-for-stronger-community-engagement-and-cross-border-cooperation-on-ebola/",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/ehjcr/ytag442\nAuthors: Aswin Babu, Ciara Kennedy, Travis Chong, Jon Spiro\nAbstract Background Coronary artery vasospasm (CAS) is an important, yet under-recognised cause of myocardial infarction with non-obstructive coronary arteries (MINOCA), associated with significant morbidity and mortality. Case Summary A 51-year-old male presente",
+      "desc": "Addis Ababa, Ethiopia, 12 June 2026 – The Africa Centres for Disease Control and Prevention (Africa CDC) Advisory and Technical Council (ATC), the institution’s principal technical advisory body, has called for stronger community engagement, cross-border cooperation and frontline response capacity to contain the ongoing Bundibugyo Ebola outb",
+      "tag": "response"
+    },
+    {
+      "title": "Case Report: Unveiling the enigma: a rare male neonatal case of MIRAGE syndrome with female external genital presentation and literature review",
+      "link": "https://doi.org/10.3389/fped.2026.1808088",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fped.2026.1808088\nAuthors: Shuyan Li, Fangjian Gao, Xiaojuan Lin, Dongmei Wang, Shuangquan Gao, Yu Ding, Jianwu Qiu\n \n                     Background \n                     \n                      MIRAGE syndrome is a severe congenital disease affecting multiple systems, caused by functional variant",
+      "tag": "analysis"
+    },
+    {
+      "title": "Lumbosacral spondylodiscitis following superior hypogastric nerve block performed during uterine artery embolization: a case report",
+      "link": "https://doi.org/10.1186/s42155-026-00719-2",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s42155-026-00719-2\nAuthors: Hamidreza Rouientan, Dina Seyedi, Shahram Akhlaghpoor\n Abstract \n                   \n                     Background \n                     Uterine artery embolization (UAE) is a minimally invasive, uterus-preserving treatment for symptomatic uteri",
       "tag": "analysis"
     },
     {
@@ -546,13 +560,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Recombinant subunit vaccine against <i>Mycoplasma gallisepticum</i> disease confers cross-protection against multiple pathogenic strains",
-      "link": "https://doi.org/10.1128/iai.00025-26",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/iai.00025-26\nAuthors: Jeremy M. Miller, Rosemary G. Ozyck, Arlind B. Mara, Esmeralda F. Hernandez, Jessica B. Malek, Edan R. Tulman, Steven M. Szczepanek, Steven J. Geary\n ABSTRACT \n                   \n                     \n                     \n                      <jats:italic toggl",
-      "tag": "analysis"
-    },
-    {
       "title": "The HUSH Complex Dictates EBV-transformed B cell Sensitivity to NK Cell Surveillance Through Repression of NKG2A Ligand γ-Proto-cadherin",
       "link": "https://doi.org/10.64898/2026.06.10.731186",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
@@ -560,11 +567,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Africa CDC Advisory Council Calls for Stronger Community Engagement and Cross-Border Cooperation on Ebola",
-      "link": "https://africacdc.org/news-item/africa-cdc-advisory-council-calls-for-stronger-community-engagement-and-cross-border-cooperation-on-ebola/",
+      "title": "Recombinant subunit vaccine against <i>Mycoplasma gallisepticum</i> disease confers cross-protection against multiple pathogenic strains",
+      "link": "https://doi.org/10.1128/iai.00025-26",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "Addis Ababa, Ethiopia, 12 June 2026 – The Africa Centres for Disease Control and Prevention (Africa CDC) Advisory and Technical Council (ATC), the institution’s principal technical advisory body, has called for stronger community engagement, cross-border cooperation and frontline response capacity to contain the ongoing Bundibugyo Ebola outb",
-      "tag": "response"
+      "desc": "DOI: 10.1128/iai.00025-26\nAuthors: Jeremy M. Miller, Rosemary G. Ozyck, Arlind B. Mara, Esmeralda F. Hernandez, Jessica B. Malek, Edan R. Tulman, Steven M. Szczepanek, Steven J. Geary\n ABSTRACT \n                   \n                     \n                     \n                      <jats:italic toggl",
+      "tag": "analysis"
+    },
+    {
+      "title": "From Exercise to Emergency - An extreme presentation of MINOCA: A Case Report",
+      "link": "https://openalex.org/W7164334638",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/ehjcr/ytag442\nAuthors: Aswin Babu, Ciara Kennedy, Travis Chong, Jon Spiro\nAbstract Background Coronary artery vasospasm (CAS) is an important, yet under-recognised cause of myocardial infarction with non-obstructive coronary arteries (MINOCA), associated with significant morbidity and mortality. Case Summary A 51-year-old male presente",
+      "tag": "analysis"
     },
     {
       "title": "Role of Cereals and Pseudo-cereals in the Management of Neurodegenerative Diseases (NDDs) with a Special Reference to Alzheimer’s and Parkinson’s Disease",
@@ -581,45 +595,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Domain-Specific Computational, Functional and Structural Methods Enable Interpretation of BRCA1 BRCT Variants of Uncertain Significance",
-      "link": "https://openalex.org/W7164353577",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/curroncol33060354\nAuthors: Gabriella C. Torretto, Matthew D. Martin, Kaamraan Islam, Nicole E. Archer, Harriet Feilotter, Scott Davey\nBackground: Pathogenic germline BRCA1 and BRCA2 variants cause most hereditary breast and ovarian cancers. Widespread genetic testing has revealed thousands of variants with unknown effects on disease ri",
-      "tag": "analysis"
-    },
-    {
       "title": "Structural Characterization of GD01- and hTfR1-Derived Peptides with Potential for Interaction with Junín Virus GP1.",
       "link": "https://openalex.org/W7164346508",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.5281/zenodo.20635952\nAuthors: Joaquin Freytes\nJunin virus (JUNV), the etiological agent of Argentine hemorrhagic fever, uses the GP1 glycoprotein to recognize the human transferrin receptor 1 (hTfR1) and initiate infection. Given the central role of this interaction during viral entry, the identification of molecules capable of interfering",
-      "tag": "analysis"
-    },
-    {
-      "title": "Hemodynamic stress as a cause of the high prevalence of arterial disease in women",
-      "link": "https://doi.org/10.1159/000552946",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1159/000552946\nAuthors: Almut Schreiber, Ulrich Barz, Helmut Barz\n Background: Intracranial aneurysms, spontaneous coronary artery dissection and fibromuscular dysplasia are significantly more common in women than in men, but the cause of these diseases and the cause of the predominance in women is unknown. It is also unclear whether",
-      "tag": "analysis"
-    },
-    {
-      "title": "The HUSH Complex Dictates EBV-transformed B cell Sensitivity to NK Cell Surveillance Through Repression of NKG2A Ligand γ-Proto-cadherin",
-      "link": "https://doi.org/10.64898/2026.06.10.731186",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.10.731186\nAuthors: Yizhe Sun, Isabella Y Kong, Wanyu Li, Jesse S Plung, Eric Burton, Ling Zhong, Shunji Li, Herman Van Besien, Suhong Sun, Hugh T Reyburn, Jonathan Abraham, Lisa Giulino Roth, Benjamin E Gewurz\n Natural Killer (NK) cells control Epstein-Barr virus (EBV), though how EBV+ B-cells escape NK surveillance to",
-      "tag": "analysis"
-    },
-    {
-      "title": "Beyond the borders—coma as a complication of imported Japanese encephalitis: a case report",
-      "link": "https://doi.org/10.1186/s13256-026-06206-5",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s13256-026-06206-5\nAuthors: Gio Gemelga, Vishwajit Tuchscherer, Jessie Wang, Mrinmayee Naik\n Abstract \n                   \n                     Background \n                     Japanese encephalitis (JE) is a mosquito-borne flavivirus infection endemic to much of Asia and th",
-      "tag": "response"
-    },
-    {
-      "title": "Evolving Indications and Diagnostic Spectrum of Bone Marrow Examination in People with HIV During the Antiretroviral Therapy Era: A 6-Year Retrospective Study",
-      "link": "https://doi.org/10.1177/08892229261460535",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/08892229261460535\nAuthors: Jinglan Lai, Yahong Chen\n \n                    With the widespread use of antiretroviral therapy, the clinical spectrum among people with HIV has evolved significantly. This study aims to investigate the dynamic changes in the primary indications and final diagnostic spectrum of bone marrow examination",
       "tag": "analysis"
     },
     {
@@ -648,6 +627,41 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.64898/2026.06.11.26355442",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.06.11.26355442\nAuthors: Quilty, B. J.\nWe used a stochastic simulation model to estimate the effectiveness of combined exit and entry airport screening for Bundibugyo ebolavirus disease (BVD), using natural-history parameters from a Bayesian re-analysis of the 2012 Isiro outbreak. For a 12-hour international flight from DRC or Uga",
+      "tag": "analysis"
+    },
+    {
+      "title": "Beyond the borders—coma as a complication of imported Japanese encephalitis: a case report",
+      "link": "https://doi.org/10.1186/s13256-026-06206-5",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s13256-026-06206-5\nAuthors: Gio Gemelga, Vishwajit Tuchscherer, Jessie Wang, Mrinmayee Naik\n Abstract \n                   \n                     Background \n                     Japanese encephalitis (JE) is a mosquito-borne flavivirus infection endemic to much of Asia and th",
+      "tag": "response"
+    },
+    {
+      "title": "Evolving Indications and Diagnostic Spectrum of Bone Marrow Examination in People with HIV During the Antiretroviral Therapy Era: A 6-Year Retrospective Study",
+      "link": "https://doi.org/10.1177/08892229261460535",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1177/08892229261460535\nAuthors: Jinglan Lai, Yahong Chen\n \n                    With the widespread use of antiretroviral therapy, the clinical spectrum among people with HIV has evolved significantly. This study aims to investigate the dynamic changes in the primary indications and final diagnostic spectrum of bone marrow examination",
+      "tag": "analysis"
+    },
+    {
+      "title": "Hemodynamic stress as a cause of the high prevalence of arterial disease in women",
+      "link": "https://doi.org/10.1159/000552946",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1159/000552946\nAuthors: Almut Schreiber, Ulrich Barz, Helmut Barz\n Background: Intracranial aneurysms, spontaneous coronary artery dissection and fibromuscular dysplasia are significantly more common in women than in men, but the cause of these diseases and the cause of the predominance in women is unknown. It is also unclear whether",
+      "tag": "analysis"
+    },
+    {
+      "title": "The HUSH Complex Dictates EBV-transformed B cell Sensitivity to NK Cell Surveillance Through Repression of NKG2A Ligand γ-Proto-cadherin",
+      "link": "https://doi.org/10.64898/2026.06.10.731186",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.10.731186\nAuthors: Yizhe Sun, Isabella Y Kong, Wanyu Li, Jesse S Plung, Eric Burton, Ling Zhong, Shunji Li, Herman Van Besien, Suhong Sun, Hugh T Reyburn, Jonathan Abraham, Lisa Giulino Roth, Benjamin E Gewurz\n Natural Killer (NK) cells control Epstein-Barr virus (EBV), though how EBV+ B-cells escape NK surveillance to",
+      "tag": "analysis"
+    },
+    {
+      "title": "Domain-Specific Computational, Functional and Structural Methods Enable Interpretation of BRCA1 BRCT Variants of Uncertain Significance",
+      "link": "https://openalex.org/W7164353577",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/curroncol33060354\nAuthors: Gabriella C. Torretto, Matthew D. Martin, Kaamraan Islam, Nicole E. Archer, Harriet Feilotter, Scott Davey\nBackground: Pathogenic germline BRCA1 and BRCA2 variants cause most hereditary breast and ovarian cancers. Widespread genetic testing has revealed thousands of variants with unknown effects on disease ri",
       "tag": "analysis"
     },
     {
@@ -819,17 +833,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Dengue virus infection in <i>Aedes aegypti</i> mosquito brains elicits minimal transcriptional response",
+      "link": "https://doi.org/10.64898/2026.06.10.731349",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.10.731349\nAuthors: Umberto Palatini, Stéphanie Dabo, Adriana Rosas-Villegas, Yael N. Tsitohay, Alexandra E. DeFoe, Nadav Shai, Louis Lambrechts, Leslie B. Vosshall\n \n                  Billions of people each year are at risk from infection by dengue, Zika, yellow fever, and chikungunya viruses, which are transmitted by",
+      "tag": "response"
+    },
+    {
       "title": "Clinical Profile and Genomic Characterization of the 2026 Bundibugyo Virus Index Case in Uganda",
       "link": "https://doi.org/10.1038/s41591-026-04510-7",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1038/s41591-026-04510-7\nAuthors: Andrew Nsawotebba, Isaac Ssewanyana, Alisen Ayitewala, Misaki Wayengera, Stephen Kanyerezi, Jonathan Kabazzi, Valeria Nakintu, Aloysious Ssemaganda, Rodney Kisuule, Steven Ssekyondwa, Hellen Rosette Oundo, Ronald Kasujja, Amable Ayebare, Stephen Balinandi, Godfrey Pimundu, Tonny Muyigi, Godrine Mayanja Byekw",
-      "tag": "analysis"
-    },
-    {
-      "title": "Mikulicz Disease Revealing IgG4-Related Tubulointerstitial Nephritis: A Case Report and Literature Review",
-      "link": "https://openalex.org/W7164143535",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/reports9020181\nAuthors: Lissethkaren Alvarez Vargas, Celia Rodríguez Tudero, Elena Jiménez Mayor, Avinash Chandu Nanwani, Esperanza Moral Berrio, Juan Daniel Díaz Díaz García, Arturo Villalobos Navarro, Emily Rosario Chamorro Chamorro Asto, Michael Cieza Terrones, José C. De La Flor\nBackground and Clinical Significance: IgG4-related di",
       "tag": "analysis"
     },
     {
@@ -847,41 +861,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Dengue virus infection in <i>Aedes aegypti</i> mosquito brains elicits minimal transcriptional response",
-      "link": "https://doi.org/10.64898/2026.06.10.731349",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.10.731349\nAuthors: Umberto Palatini, Stéphanie Dabo, Adriana Rosas-Villegas, Yael N. Tsitohay, Alexandra E. DeFoe, Nadav Shai, Louis Lambrechts, Leslie B. Vosshall\n \n                  Billions of people each year are at risk from infection by dengue, Zika, yellow fever, and chikungunya viruses, which are transmitted by",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola Epidemic Mathematical Model — Democratic Republic of Congo",
-      "link": "https://openalex.org/W7164140740",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20618910\nAuthors: Flávio Codeço Coelho\nEbola Epidemic Mathematical Model — Democratic Republic of Congo EpidBot Analysis Report | May 31, 2026 Table of Contents 1. Executive Summary 2. Data Sources & Evidence Base 3. Model Structure: SEIHFR-V 4. Mathematical Equations 5. Scenario Analysis Results 6. Sensitivity Analysis 7. Vacci",
-      "tag": "analysis"
-    },
-    {
-      "title": "Available IPD datapackage for study 'A 52 Weeks, Double Blind, Randomized, Placebo-controlled Trial Evaluating the Effect of Oral BIBF 1120, 150 mg Twice Daily, on Annual Forced Vital Capacity Decline, in Patients With Idiopathic Pulmonary Fibrosis (IPF)'",
-      "link": "https://openalex.org/W7164158450",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.25934/pr00003637.3\nAuthors: Boehringer Ingelheim\nIdiopathic Pulmonary Fibrosis (IPF) is a chronic disease of unknown cause that results in scarring of the lung and there is a high unmet medical need for effective treatment to halt lung function decline, delay or avoid exacerbation (flare-ups), and ultimately to reduce the death rate. In a l",
-      "tag": "analysis"
-    },
-    {
-      "title": "Long-term Penetrance of Disease Variants in Genes Prioritized for Genomic Newborn Screening: Evidence from Adult Biobanks",
-      "link": "https://doi.org/10.64898/2026.06.10.26355380",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.10.26355380\nAuthors: Nina B. Gold, Hana Zouk, Julie Yeo, Stuart Lipsitz, Satoshi Koyama, Harini Somanchi, Emma Perez, Margaret Sunitha Selvaraj, Lauren O'Grady, Emily Miller, Anna C.F. Lewis, Elizabeth W. Karlson, Alanna Strong, Jessica I. Gold, Heidi L. Rehm, Pradeep Natarajan, Robert C. Green\n Importance: Genomic newb",
-      "tag": "analysis"
-    },
-    {
-      "title": "MicroRNAs in exhaled breath condensate and plasma for diagnosis of asbestos-related interstitial lung diseases",
-      "link": "https://openalex.org/W7164163966",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.6084/m9.figshare.32626228.v1\nAuthors: Roberto Cherchi, Debraj Mukhopadhyay, Alice Spanu, Barbara Pardini, Roberto Cusano, Alessio Naccarati, Patrizia Zavattari, Enrico Bergamaschi, Pierluigi Cocco, Sara De Matteis\nMicroRNAs (miRNAs) have been proposed as diagnostic biomarkers of asbestos-related cancers, but their role in asbestos-related i",
-      "tag": "analysis"
-    },
-    {
       "title": "Protocol for Bundibugyo ebolavirus qPCR SYBR singleplex assay v1",
       "link": "https://doi.org/10.17504/protocols.io.8epv5w655v1b/v1",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
@@ -896,10 +875,10 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Supplementary Material for: “Unmasking Primary Hyperparathyroidism: A Rare Endocrine Cause of Vesicovaginal Fistula and Severe Urological Complications”.",
-      "link": "https://openalex.org/W7164137638",
+      "title": "Ebola Epidemic Mathematical Model — Democratic Republic of Congo",
+      "link": "https://openalex.org/W7164140740",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.6084/m9.figshare.32625972\nAuthors: figshare admin karger, Mahaldar R., Kumar V., Hui P., Raj S., Pal B.\nIntroduction: Primary hyperparathyroidism (PHPT) is a relatively common endocrine disorder that is more frequently diagnosed in postmenopausal women; however, its association with vesicovaginal fistula (VVF) and severe urological complica",
+      "desc": "DOI: 10.5281/zenodo.20618910\nAuthors: Flávio Codeço Coelho\nEbola Epidemic Mathematical Model — Democratic Republic of Congo EpidBot Analysis Report | May 31, 2026 Table of Contents 1. Executive Summary 2. Data Sources & Evidence Base 3. Model Structure: SEIHFR-V 4. Mathematical Equations 5. Scenario Analysis Results 6. Sensitivity Analysis 7. Vacci",
       "tag": "analysis"
     },
     {
@@ -910,10 +889,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Liquen escleroso extragenital: Reporte de un caso",
-      "link": "https://doi.org/10.70181/dv.2025.63.1.05",
+      "title": "Cross-protection against Bundibugyo by Ebola and Sudan vaccines",
+      "link": "https://doi.org/10.64898/2026.06.10.731377",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.70181/dv.2025.63.1.05\nAuthors: María Gabriel González Antico, Miguel Alejandro López Blanco, Mariela Zamora de la Cabada\n El liquen escleroso es una enfermedad inflamatoria crónica de la piel de etiología desconocida, con especial predilección por el área genital femenina1. Presentamos el caso de un paciente de sexo masculino, de 57",
+      "desc": "DOI: 10.64898/2026.06.10.731377\nAuthors: Lara Kelchtermans, Viktor Lemmens, Johan Neyts, Yeranddy A Alpizar, Kai Dallmeier\n Ebola outbreaks continue to expand across Central Africa, yet available countermeasures remain limited and virus-specific. Whether available vaccines developed against the related Ebola virus (EBOV) and Sudan virus (SUD",
       "tag": "analysis"
     },
     {
@@ -924,13 +903,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Cross-protection against Bundibugyo by Ebola and Sudan vaccines",
-      "link": "https://doi.org/10.64898/2026.06.10.731377",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.10.731377\nAuthors: Lara Kelchtermans, Viktor Lemmens, Johan Neyts, Yeranddy A Alpizar, Kai Dallmeier\n Ebola outbreaks continue to expand across Central Africa, yet available countermeasures remain limited and virus-specific. Whether available vaccines developed against the related Ebola virus (EBOV) and Sudan virus (SUD",
-      "tag": "analysis"
-    },
-    {
       "title": "airport_screening_ebola_bvd: Effectiveness of airport screening for Bundibugyo ebolavirus",
       "link": "https://openalex.org/W7164136878",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
@@ -938,17 +910,45 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Long-term Penetrance of Disease Variants in Genes Prioritized for Genomic Newborn Screening: Evidence from Adult Biobanks",
-      "link": "https://doi.org/10.64898/2026.06.10.26355380",
+      "title": "Available IPD datapackage for study 'A 52 Weeks, Double Blind, Randomized, Placebo-controlled Trial Evaluating the Effect of Oral BIBF 1120, 150 mg Twice Daily, on Annual Forced Vital Capacity Decline, in Patients With Idiopathic Pulmonary Fibrosis (IPF)'",
+      "link": "https://openalex.org/W7164158450",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.10.26355380\nAuthors: Gold, N. B.; Zouk, H.; Yeo, J.; Lipsitz, S.; Koyama, S.; Somanchi, H.; Perez, E.; Selvaraj, M. S.; O'Grady, L.; Miller, E.; Lewis, A. C. F.; Karlson, E. W.; Strong, A.; Gold, J. I.; Rehm, H. L.; Natarajan, P.; Green, R. C.\nImportance: Genomic newborn screening (gNBS) is a potential public health interventi",
+      "desc": "DOI: 10.25934/pr00003637.3\nAuthors: Boehringer Ingelheim\nIdiopathic Pulmonary Fibrosis (IPF) is a chronic disease of unknown cause that results in scarring of the lung and there is a high unmet medical need for effective treatment to halt lung function decline, delay or avoid exacerbation (flare-ups), and ultimately to reduce the death rate. In a l",
       "tag": "analysis"
     },
     {
-      "title": "Population-scale detection of methylation outliers from long-read genome sequencing",
-      "link": "https://doi.org/10.64898/2026.06.09.26355279",
+      "title": "MicroRNAs in exhaled breath condensate and plasma for diagnosis of asbestos-related interstitial lung diseases",
+      "link": "https://openalex.org/W7164163966",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.09.26355279\nAuthors: Jensen, T. D.; Kaur, R.; Bonner, D. E.; Nguyen, J.; Reuter, C. M.; Undiagnosed Diseases Network,  ; Genomics Research to Elucidate the Genetics of Rare Diseases (GREGoR) Consortium,  ; Ashley, E. A.; Bernstein, J. A.; Wheeler, M. T.; Montgomery, S. B.\nBackground: Aberrant DNA methylation can mediate the fu",
+      "desc": "DOI: 10.6084/m9.figshare.32626228.v1\nAuthors: Roberto Cherchi, Debraj Mukhopadhyay, Alice Spanu, Barbara Pardini, Roberto Cusano, Alessio Naccarati, Patrizia Zavattari, Enrico Bergamaschi, Pierluigi Cocco, Sara De Matteis\nMicroRNAs (miRNAs) have been proposed as diagnostic biomarkers of asbestos-related cancers, but their role in asbestos-related i",
+      "tag": "analysis"
+    },
+    {
+      "title": "Long-term Penetrance of Disease Variants in Genes Prioritized for Genomic Newborn Screening: Evidence from Adult Biobanks",
+      "link": "https://doi.org/10.64898/2026.06.10.26355380",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.10.26355380\nAuthors: Nina B. Gold, Hana Zouk, Julie Yeo, Stuart Lipsitz, Satoshi Koyama, Harini Somanchi, Emma Perez, Margaret Sunitha Selvaraj, Lauren O'Grady, Emily Miller, Anna C.F. Lewis, Elizabeth W. Karlson, Alanna Strong, Jessica I. Gold, Heidi L. Rehm, Pradeep Natarajan, Robert C. Green\n Importance: Genomic newb",
+      "tag": "analysis"
+    },
+    {
+      "title": "Liquen escleroso extragenital: Reporte de un caso",
+      "link": "https://doi.org/10.70181/dv.2025.63.1.05",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.70181/dv.2025.63.1.05\nAuthors: María Gabriel González Antico, Miguel Alejandro López Blanco, Mariela Zamora de la Cabada\n El liquen escleroso es una enfermedad inflamatoria crónica de la piel de etiología desconocida, con especial predilección por el área genital femenina1. Presentamos el caso de un paciente de sexo masculino, de 57",
+      "tag": "analysis"
+    },
+    {
+      "title": "Mikulicz Disease Revealing IgG4-Related Tubulointerstitial Nephritis: A Case Report and Literature Review",
+      "link": "https://openalex.org/W7164143535",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/reports9020181\nAuthors: Lissethkaren Alvarez Vargas, Celia Rodríguez Tudero, Elena Jiménez Mayor, Avinash Chandu Nanwani, Esperanza Moral Berrio, Juan Daniel Díaz Díaz García, Arturo Villalobos Navarro, Emily Rosario Chamorro Chamorro Asto, Michael Cieza Terrones, José C. De La Flor\nBackground and Clinical Significance: IgG4-related di",
+      "tag": "analysis"
+    },
+    {
+      "title": "Supplementary Material for: “Unmasking Primary Hyperparathyroidism: A Rare Endocrine Cause of Vesicovaginal Fistula and Severe Urological Complications”.",
+      "link": "https://openalex.org/W7164137638",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.6084/m9.figshare.32625972\nAuthors: figshare admin karger, Mahaldar R., Kumar V., Hui P., Raj S., Pal B.\nIntroduction: Primary hyperparathyroidism (PHPT) is a relatively common endocrine disorder that is more frequently diagnosed in postmenopausal women; however, its association with vesicovaginal fistula (VVF) and severe urological complica",
       "tag": "analysis"
     },
     {
@@ -964,34 +964,6 @@ window.FEED_DATA = {
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.5281/zenodo.20630609\nAuthors: Adalberto Souza\nPublic Domain Declaration The author hereby declares that this work is released entirely into the public domain, allowing unrestricted access, reproduction, distribution, and use for scientific, educational, and humanitarian purposes. This publication is intended to contribute to the advancement",
       "tag": "analysis"
-    },
-    {
-      "title": "Fatty acid amide hydrolase inhibition for treatment of amyotrophic lateral sclerosis",
-      "link": "https://doi.org/10.1172/jci.insight.198842",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1172/jci.insight.198842\nAuthors: Daisuke Ito, Madoka Iida, Yohei Iguchi, Atsushi Hashizume, Shinichiro Yamada, Yoshiyuki Kishimoto, Shota Komori, Kazuki Obara, Shuto Nishisaki, Satoshi Yokoi, Teppei Shimamura, Yuto Takemoto, Masahiro Nakatochi, Tomohiro Akashi, Kunihiko Hinohara, Hyeon-Cheol Lee-Okada, Yohei Okada, Junichi Niwa, Gen Sobue,",
-      "tag": "analysis"
-    },
-    {
-      "title": "RareBoost: A Research-Integrated Program for Rare and Undiagnosed Diseases in Türkiye",
-      "link": "https://doi.org/10.21203/rs.3.rs-9790284/v1",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-9790284/v1\nAuthors: Mehmet Mert Topaloğlu, Ayca Yigit, Aliye Kubra Unal, Emre Ozzeybek, Mert Pekerbas, Barıs Salman, Kutay Bulut, Inci Yaprak, Begum Utz, Emine Eylul Taskin, Noor Fatima, Sinem Aktug, Tugce Batur, Burcu Akman, Evin Iscan, Emrah Yucesan, Ugur Ozbek\n Abstract \n                 Background\n Advanced",
-      "tag": "analysis"
-    },
-    {
-      "title": "Parvovirus B19 IgG-Defined Prior Exposure and Its Association with Anemia in Maintenance Hemodialysis Patients: A Cross-Sectional Comparative Study",
-      "link": "https://openalex.org/W7164133592",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/jcm15124461\nAuthors: Metin Özsoy, Salih Cesur, Mehmet Emin Demir, Feyza Bayrakdar Çağlayan, Murat Duranay, Ugur Hatipoglu, Ramazan Öztürk, Simge Bardak, Altan Aksoy\nBackground: Parvovirus B19 (B19V) has a well-established tropism for erythroid progenitor cells and is a recognized cause of anemia in immunocompromised individuals. Patien",
-      "tag": "analysis"
-    },
-    {
-      "title": "Revealing the disease spectrum of acute Q fever in China's Coastal Areas: A Series Study of 11 Cases from Yantai",
-      "link": "https://doi.org/10.21203/rs.3.rs-9867863/v1",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-9867863/v1\nAuthors: Xiangjun LONG, Rujian Wang, Yanli Xu, Xinbo Liu, Qingmei Bi, HongXia Yu\n Abstract \n                 \n                   Background \n                  : Acute Q fever is a global zoonotic disease caused by Benatcocos. The clinical manifestations are diverse, ranging from self-limiti",
-      "tag": "cases"
     },
     {
       "title": "Pancreatic Stone Protein as an Early Predictor of Adverse Events in Patients with Infection Presenting to the Emergency Department: A Pilot Study",
@@ -1027,6 +999,48 @@ window.FEED_DATA = {
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
       "desc": "juin 11, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nButembo, 11 juin 2026. Après l’étape de Beni, la coordination stratégique multisectorielle conduite par le Directeur général de l’Institut National de Santé Publique (INSP), le Docteur Mw",
       "tag": "analysis"
+    },
+    {
+      "title": "Long-term Penetrance of Disease Variants in Genes Prioritized for Genomic Newborn Screening: Evidence from Adult Biobanks",
+      "link": "https://doi.org/10.64898/2026.06.10.26355380",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.10.26355380\nAuthors: Gold, N. B.; Zouk, H.; Yeo, J.; Lipsitz, S.; Koyama, S.; Somanchi, H.; Perez, E.; Selvaraj, M. S.; O'Grady, L.; Miller, E.; Lewis, A. C. F.; Karlson, E. W.; Strong, A.; Gold, J. I.; Rehm, H. L.; Natarajan, P.; Green, R. C.\nImportance: Genomic newborn screening (gNBS) is a potential public health interventi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Population-scale detection of methylation outliers from long-read genome sequencing",
+      "link": "https://doi.org/10.64898/2026.06.09.26355279",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.09.26355279\nAuthors: Jensen, T. D.; Kaur, R.; Bonner, D. E.; Nguyen, J.; Reuter, C. M.; Undiagnosed Diseases Network,  ; Genomics Research to Elucidate the Genetics of Rare Diseases (GREGoR) Consortium,  ; Ashley, E. A.; Bernstein, J. A.; Wheeler, M. T.; Montgomery, S. B.\nBackground: Aberrant DNA methylation can mediate the fu",
+      "tag": "analysis"
+    },
+    {
+      "title": "Fatty acid amide hydrolase inhibition for treatment of amyotrophic lateral sclerosis",
+      "link": "https://doi.org/10.1172/jci.insight.198842",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1172/jci.insight.198842\nAuthors: Daisuke Ito, Madoka Iida, Yohei Iguchi, Atsushi Hashizume, Shinichiro Yamada, Yoshiyuki Kishimoto, Shota Komori, Kazuki Obara, Shuto Nishisaki, Satoshi Yokoi, Teppei Shimamura, Yuto Takemoto, Masahiro Nakatochi, Tomohiro Akashi, Kunihiko Hinohara, Hyeon-Cheol Lee-Okada, Yohei Okada, Junichi Niwa, Gen Sobue,",
+      "tag": "analysis"
+    },
+    {
+      "title": "RareBoost: A Research-Integrated Program for Rare and Undiagnosed Diseases in Türkiye",
+      "link": "https://doi.org/10.21203/rs.3.rs-9790284/v1",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-9790284/v1\nAuthors: Mehmet Mert Topaloğlu, Ayca Yigit, Aliye Kubra Unal, Emre Ozzeybek, Mert Pekerbas, Barıs Salman, Kutay Bulut, Inci Yaprak, Begum Utz, Emine Eylul Taskin, Noor Fatima, Sinem Aktug, Tugce Batur, Burcu Akman, Evin Iscan, Emrah Yucesan, Ugur Ozbek\n Abstract \n                 Background\n Advanced",
+      "tag": "analysis"
+    },
+    {
+      "title": "Parvovirus B19 IgG-Defined Prior Exposure and Its Association with Anemia in Maintenance Hemodialysis Patients: A Cross-Sectional Comparative Study",
+      "link": "https://openalex.org/W7164133592",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/jcm15124461\nAuthors: Metin Özsoy, Salih Cesur, Mehmet Emin Demir, Feyza Bayrakdar Çağlayan, Murat Duranay, Ugur Hatipoglu, Ramazan Öztürk, Simge Bardak, Altan Aksoy\nBackground: Parvovirus B19 (B19V) has a well-established tropism for erythroid progenitor cells and is a recognized cause of anemia in immunocompromised individuals. Patien",
+      "tag": "analysis"
+    },
+    {
+      "title": "Revealing the disease spectrum of acute Q fever in China's Coastal Areas: A Series Study of 11 Cases from Yantai",
+      "link": "https://doi.org/10.21203/rs.3.rs-9867863/v1",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-9867863/v1\nAuthors: Xiangjun LONG, Rujian Wang, Yanli Xu, Xinbo Liu, Qingmei Bi, HongXia Yu\n Abstract \n                 \n                   Background \n                  : Acute Q fever is a global zoonotic disease caused by Benatcocos. The clinical manifestations are diverse, ranging from self-limiti",
+      "tag": "cases"
     },
     {
       "title": "10 Jun 2026 – Bundibugyo virus disease outbreak: Confirmed cases reach 645; Africa CDC issues interim guidance",
@@ -1302,31 +1316,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "DRC has strengthened its response to Ebola - but conflict and funding cuts are testing its capacity",
-      "link": "https://doi.org/10.1136/bmj-2026-721038",
-      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/bmj-2026-721038\nAuthors: Aula Abbara, Michael Adeyemi Lawal",
-      "tag": "response"
-    },
-    {
       "title": "Headline Figure: Evolutionary Divergence of NPC1 Suggests Distinct Ebola Virus Interactions in Fruit Bats and Primates",
       "link": "https://openalex.org/W7164042293",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.6084/m9.figshare.32609448\nAuthors: Seth Bachman\nFigure 1. Evolutionary and structural variation in NPC1 across fruit batsand primates. (A) Maximum likelihood phylogeny (PhyML) of NPC1sequences from fruit bats (orange box), primates (blue box), andmouse outgroup (gray box). (B) Multiple sequence alignment of NPC1Domain C showing amino acid v",
-      "tag": "analysis"
-    },
-    {
-      "title": "Headline Figure: Evolutionary Divergence of NPC1 Suggests Distinct Ebola Virus Interactions in Fruit Bats and Primates",
-      "link": "https://openalex.org/W7164011955",
-      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.6084/m9.figshare.32613093\nAuthors: Seth Bachman, Vishya Adipudi, Sonali Bhana, Serena Cacciatore\n Figure 1. Positive selection on NPC1 Domain C reflects divergent evolutionary pressures fromEbola virus exposure in fruit bats versus primates.  NPC1 denotes Niemann-Pick C1 protein. In Panel B, fruit bat sequences are highlighted in yello",
-      "tag": "analysis"
-    },
-    {
-      "title": "Headline Figure: Evolutionary Divergence of NPC1 Suggests Distinct Ebola Virus Interactions in Fruit Bats and Primates",
-      "link": "https://openalex.org/W7163994015",
-      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.6084/m9.figshare.32609448.v1\nAuthors: Seth Bachman\nFigure 1. Evolutionary and structural variation in NPC1 across fruit batsand primates. (A) Maximum likelihood phylogeny (PhyML) of NPC1sequences from fruit bats (orange box), primates (blue box), andmouse outgroup (gray box). (B) Multiple sequence alignment of NPC1Domain C showing amino aci",
       "tag": "analysis"
     },
     {
@@ -1344,10 +1337,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Single cell transcriptomics in a treatment-segregated cohort exposes a STAT3-regulated therapeutic gap in idiopathic pulmonary fibrosis",
-      "link": "https://doi.org/10.1101/2025.06.16.659944",
+      "title": "DRC has strengthened its response to Ebola - but conflict and funding cuts are testing its capacity",
+      "link": "https://doi.org/10.1136/bmj-2026-721038",
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1101/2025.06.16.659944\nAuthors: McKenna, N.; Ochsner, S. A.; Cohen, A. W.; Cala-Garcia, J.; Echartea, M. E.; Grimm, S. L.; Poli, F.; Castillo, R. C.; Zuluaga, J. D.; Poli, S.; Adams, T. S.; Pineda, R.; Moss, B.; Ryter, S.; Pillich, R. T.; Villalba, J.; Kato, K.; Hecker, L.; Celada, L. J.; Sauler, M.; Koenigshoff, M.; Kaminski, N.; Raby, B.;",
+      "desc": "DOI: 10.1136/bmj-2026-721038\nAuthors: Aula Abbara, Michael Adeyemi Lawal",
+      "tag": "response"
+    },
+    {
+      "title": "Headline Figure: Evolutionary Divergence of NPC1 Suggests Distinct Ebola Virus Interactions in Fruit Bats and Primates",
+      "link": "https://openalex.org/W7163994015",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.6084/m9.figshare.32609448.v1\nAuthors: Seth Bachman\nFigure 1. Evolutionary and structural variation in NPC1 across fruit batsand primates. (A) Maximum likelihood phylogeny (PhyML) of NPC1sequences from fruit bats (orange box), primates (blue box), andmouse outgroup (gray box). (B) Multiple sequence alignment of NPC1Domain C showing amino aci",
+      "tag": "analysis"
+    },
+    {
+      "title": "Headline Figure: Evolutionary Divergence of NPC1 Suggests Distinct Ebola Virus Interactions in Fruit Bats and Primates",
+      "link": "https://openalex.org/W7164011955",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.6084/m9.figshare.32613093\nAuthors: Seth Bachman, Vishya Adipudi, Sonali Bhana, Serena Cacciatore\n Figure 1. Positive selection on NPC1 Domain C reflects divergent evolutionary pressures fromEbola virus exposure in fruit bats versus primates.  NPC1 denotes Niemann-Pick C1 protein. In Panel B, fruit bat sequences are highlighted in yello",
       "tag": "analysis"
     },
     {
@@ -1419,6 +1426,13 @@ window.FEED_DATA = {
       "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1099/acmi.0.001177.v2\nAuthors: Jun Yu Tay, Ibakkanavar Rajiva Guddappa, Alicia Xin Yu Ang, Angie Natalie Pinto\n Clostridium tetani, the causative organism of tetanus, is unusual in developed countries including Singapore and to our knowledge, only three known cases of Clostridium tetani bacteraemia have been reported worldwide. This",
       "tag": "cases"
+    },
+    {
+      "title": "Single cell transcriptomics in a treatment-segregated cohort exposes a STAT3-regulated therapeutic gap in idiopathic pulmonary fibrosis",
+      "link": "https://doi.org/10.1101/2025.06.16.659944",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1101/2025.06.16.659944\nAuthors: McKenna, N.; Ochsner, S. A.; Cohen, A. W.; Cala-Garcia, J.; Echartea, M. E.; Grimm, S. L.; Poli, F.; Castillo, R. C.; Zuluaga, J. D.; Poli, S.; Adams, T. S.; Pineda, R.; Moss, B.; Ryter, S.; Pillich, R. T.; Villalba, J.; Kato, K.; Hecker, L.; Celada, L. J.; Sauler, M.; Koenigshoff, M.; Kaminski, N.; Raby, B.;",
+      "tag": "analysis"
     },
     {
       "title": "Nigéria : 360 otages de Boko Haram libérés par l'armée [Africanews Today]",
@@ -1776,20 +1790,6 @@ window.FEED_DATA = {
       "pubDate": "Mon, 08 Jun 2026 10:20:00 Z",
       "desc": "Des médecins de Médecins Sans Frontières (MSF) portant des équipements de protection individuelle se déplacent dans la zone rouge isolée pour surveiller les patients, prodiguer des soins médicaux et assurer l’assainissement des locaux au Centre de traitement d’Ebola (ETC) de Munigi, le 2 juin 2026. Crédit : Getty.",
       "tag": "analysis"
-    },
-    {
-      "title": "Ebola: All int'l arrivals to fill declaration form in India",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021704458",
-      "pubDate": "Mon, 08 Jun 2026 08:35:00 Z",
-      "desc": "TRAVEL ADVISORYNew Delhi: All international arrivals in India, both passengers and airline crew members, will now have to fill a selfdeclaration form in the wake of the Ebola outbreak in parts of Africa. Passengers who had direct contact with a person suspected/confirmed to have Ebola infection must....",
-      "tag": "cases"
-    },
-    {
-      "title": "The bulletin week 20 from 11h to 17th May 20261",
-      "link": "https://www.rbc.gov.rw/fileadmin/user_upload/bulletin/2026/The_bulletin_week_20_from_11h_to_17th_May_2026.pdf",
-      "pubDate": "Mon, 08 Jun 2026 07:43:00 Z",
-      "desc": "Bushenge PH, Murunda DH and Gahini DH (each reported 3 perinatal deaths) 1Weekly Epidemiological Bulletin | Week 12 11-17 May 202620WEEK WEEKLY EPIDEMIOLOGICAL BULLETIN Bushenge PH, Murunda DH and Gahini DH (each reported 3 perinatal deaths) 9 human deaths 1 human illness 2 animal deaths 7 dog bites....",
-      "tag": "cases"
     }
   ],
   "highWater": {
