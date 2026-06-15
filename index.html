@@ -873,7 +873,7 @@ function applyHzData(geojsonLayer) {
         e.target.setStyle({ weight: confirmed != null ? 3 : 1.5, color: '#ffffff', fillOpacity: Math.min(style.fillOpacity + 0.12, 1) });
         e.target.bringToFront();
       },
-      mouseout(e) { geojsonLayer.resetStyle(e.target); },
+      mouseout(e) { e.target.setStyle(style); },
     });
 
     layer.bindPopup(buildHzPopup(nom, confirmed), { maxWidth: 240 });
