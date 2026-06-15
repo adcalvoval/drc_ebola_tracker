@@ -323,7 +323,7 @@
     </div>
     <div class="layer-row">
       <div class="layer-label">
-        <span class="layer-dot l-sq" style="background:#e74c3c;opacity:0.65;border:1.5px solid #c0392b;"></span>
+        <span class="layer-dot l-sq" style="background:#f4d03f;opacity:0.9;border:1.5px solid #b7950b;"></span>
         Health Zones (Ituri · WHO DON)
       </div>
       <button class="toggle-btn active" id="btnHz" onclick="toggleHealthZones()">On</button>
@@ -792,36 +792,59 @@ function hzNom(feedKey) {
   return HZ_NAME_ALIASES[k] || (k.charAt(0).toUpperCase() + k.slice(1));
 }
 
+// Yellow-amber: contrasts clearly against the red Ituri province fill.
 const HZ_STYLES = {
-  confirmed: { fillColor: '#e74c3c', fillOpacity: 0.65, color: '#c0392b', weight: 1.5, dashArray: null },
-  affected:  { fillColor: '#e67e22', fillOpacity: 0.40, color: '#ca6f1e', weight: 1,   dashArray: null },
-  none:      { fillColor: '#2a3a5a', fillOpacity: 0.12, color: '#3a5070', weight: 0.6, dashArray: '3 3' },
+  confirmed: { fillColor: '#f4d03f', fillOpacity: 0.80, color: '#b7950b', weight: 2,   dashArray: null },
+  none:      { fillColor: '#1a2a40', fillOpacity: 0.08, color: '#4a6080', weight: 0.6, dashArray: '3 3' },
 };
 
 let hzLayer      = null;
 let hzGeoJSON    = null; // cached after first fetch
 let hzVisible    = true;
 
-function buildHzPopup(nom, confirmed, asOf) {
-  const s = getFeedStats();
-  const donDate = asOf || (s.whoDon && s.whoDon.asOf) || '';
+function buildHzPopup(nom, confirmed) {
+  const s         = getFeedStats();
+  const donDate   = (s.whoDon && s.whoDon.asOf) || '';
+  const drc       = s.drc       || {};
+  const prov      = s.provinces || {};
+  const ituri     = prov.ituri  || {};
+  const drcTotal  = drc.confirmed;
+  const zonesAff  = ituri.zonesAffected;
+
+  const provRow =
+    `<div class="pu-stats" style="margin-top:6px;">` +
+      `<div class="pu-stat">` +
+        `<div class="pu-stat-v" style="color:#e74c3c;font-size:0.95rem">${fmtN(drcTotal)}</div>` +
+        `<div class="pu-stat-l">DRC Total Confirmed ${tierBadgeHTML(4)}</div>` +
+      `</div>` +
+      `<div class="pu-stat">` +
+        `<div class="pu-stat-v" style="color:#e67e22;font-size:0.95rem">${zonesAff != null ? zonesAff : '—'}</div>` +
+        `<div class="pu-stat-l">Zones Affected · Ituri</div>` +
+      `</div>` +
+    `</div>`;
+
   if (confirmed != null) {
     return (
       `<div class="pu-name">${nom}</div>` +
-      `<div class="pu-sub">Health Zone · Ituri · DRC</div>` +
-      `<div class="pu-stats"><div class="pu-stat full">` +
-        `<div class="pu-stat-v" style="color:#e74c3c">${confirmed.toLocaleString()}</div>` +
-        `<div class="pu-stat-l">Confirmed Cases ${tierBadgeHTML(4)}</div>` +
-      `</div></div>` +
+      `<div class="pu-sub">Health Zone · Ituri Province · DRC</div>` +
+      `<div class="pu-stats">` +
+        `<div class="pu-stat full">` +
+          `<div class="pu-stat-v" style="color:#b7950b;font-size:1.2rem">${confirmed.toLocaleString()}</div>` +
+          `<div class="pu-stat-l">Confirmed · This Zone ${tierBadgeHTML(4)}</div>` +
+        `</div>` +
+      `</div>` +
+      provRow +
       `<p class="pu-caveat">Source: WHO Disease Outbreak News${donDate ? ' · as of ' + donDate : ''}</p>`
     );
   }
   return (
     `<div class="pu-name">${nom}</div>` +
-    `<div class="pu-sub">Health Zone · Ituri · DRC</div>` +
+    `<div class="pu-sub">Health Zone · Ituri Province · DRC</div>` +
     `<div style="font-size:0.75rem;color:#6b7a96;margin-top:6px;">` +
-      `Affected province — zone-level case count not yet reported.` +
-    `</div>`
+      `Zone-level case count not yet reported in WHO DON.` +
+    `</div>` +
+    provRow +
+    `<p class="pu-caveat">Source: WHO Disease Outbreak News${donDate ? ' · as of ' + donDate : ''}</p>`
   );
 }
 
@@ -840,8 +863,11 @@ function applyHzData(geojsonLayer) {
 
     layer.off('mouseover mouseout');
     layer.on({
-      mouseover(e) { e.target.setStyle({ weight: 2.5, color: '#fff', fillOpacity: style.fillOpacity + 0.15 }); e.target.bringToFront(); },
-      mouseout(e)  { geojsonLayer.resetStyle(e.target); },
+      mouseover(e) {
+        e.target.setStyle({ weight: confirmed != null ? 3 : 1.5, color: '#ffffff', fillOpacity: Math.min(style.fillOpacity + 0.12, 1) });
+        e.target.bringToFront();
+      },
+      mouseout(e) { geojsonLayer.resetStyle(e.target); },
     });
 
     layer.bindPopup(buildHzPopup(nom, confirmed), { maxWidth: 240 });
