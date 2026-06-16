@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 16 Jun 2026 16:58:04 Z",
-  "fetchedAt": "2026-06-16T16:58:04Z",
+  "lastBuildDate": "Tue, 16 Jun 2026 20:54:16 Z",
+  "fetchedAt": "2026-06-16T20:54:16Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -82,6 +82,34 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "Africa CDC head warns Ebola outbreak could be worst ever",
+      "link": "https://www.cidrap.umn.edu/ebola/africa-cdc-head-warns-ebola-outbreak-could-be-worst-ever",
+      "pubDate": "Tue, 16 Jun 2026 20:33:00 Z",
+      "desc": "Natalie Vestin / CIDRAP. Parents were more willing to allow their children to receive a vaccine against human papillomavirus (HPV) if they interacted with a chatbot powered by artificial intelligence (AI) compared with parents who received no information about the vaccine.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Red Cross says Congo Ebola epidemic yet to peak, may last a year - NTV Kenya",
+      "link": "https://ntvkenya.co.ke/news/red-cross-says-congo-ebola-epidemic-yet-to-peak-may-last-a-year/",
+      "pubDate": "Tue, 16 Jun 2026 19:36:00 Z",
+      "desc": "-- Kenya. Significance Rating: 1 Red Cross says Congo Ebola epidemic yet to peak, may last a year&nbsp;&nbsp;NTV Kenya",
+      "tag": "analysis"
+    },
+    {
+      "title": "Kenya remains at high Ebola risk, Health PS says - KBC Digital",
+      "link": "https://www.kbc.co.ke/kenya-remains-at-high-ebola-risk-health-ps-says/",
+      "pubDate": "Tue, 16 Jun 2026 17:27:00 Z",
+      "desc": "Ebola -- Kenya. Significance Rating: 4 Kenya remains at high Ebola risk, Health PS says&nbsp;&nbsp;KBC Digital",
+      "tag": "analysis"
+    },
+    {
+      "title": "Chicago doctor warns record increase in Congo Ebola cases is 'a significant concern' - FOX 32 Chicago",
+      "link": "https://www.fox32chicago.com/video/fmc-m2d8d3ayymet7r7k",
+      "pubDate": "Tue, 16 Jun 2026 17:26:00 Z",
+      "desc": "Conflict -- Chicago, Illinois, United States. Significance Rating: 3 Chicago doctor warns record increase in Congo Ebola cases is 'a significant concern'&nbsp;&nbsp;FOX 32 Chicago",
+      "tag": "cases"
+    },
     {
       "title": "What the hantavirus and Ebola outbreaks tell us about pandemic preparedness",
       "link": "https://www.nature.com/articles/d44151-026-00116-7",
@@ -230,10 +258,10 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Proliferative and granulomatous ileitis in a pig naturally infected with Lawsonia intracellularis",
-      "link": "https://doi.org/10.1186/s40813-026-00528-y",
+      "title": "Pourquoi les survivants d’Ebola ont leur place à la table des décisions",
+      "link": "https://doi.org/10.1038/d44148-026-00159-z",
       "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s40813-026-00528-y\nAuthors: Dávid Géza Horváth, Sonja Jeckel, Joaquim Segalés, Bernat Martí-Garcia\n Abstract \n                   \n                     Background \n                     \n                      Granulomatous enteritis in pigs is mostly associated with porcine ci",
+      "desc": "DOI: 10.1038/d44148-026-00159-z\nAuthors: Katherina  Thomas, Barthalomew  Wilson, Louise  Sigfrid, Olive  Kabajaasi, Shevin T.  Jacob",
       "tag": "analysis"
     },
     {
@@ -251,11 +279,32 @@ window.FEED_DATA = {
       "tag": "pheic"
     },
     {
+      "title": "Proliferative and granulomatous ileitis in a pig naturally infected with Lawsonia intracellularis",
+      "link": "https://doi.org/10.1186/s40813-026-00528-y",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s40813-026-00528-y\nAuthors: Dávid Géza Horváth, Sonja Jeckel, Joaquim Segalés, Bernat Martí-Garcia\n Abstract \n                   \n                     Background \n                     \n                      Granulomatous enteritis in pigs is mostly associated with porcine ci",
+      "tag": "analysis"
+    },
+    {
       "title": "Clinical case of aplastic anemia",
       "link": "https://doi.org/10.17116/rbpdpm2026302147",
       "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.17116/rbpdpm2026302147\nAuthors: A.G. Khrykova, E.V. Filatova, I.I. Ivanova\n Aplastic anemia is a rare disease of the hematopoietic system characterized by suppression of all hematopoietic growths and replacement of bone marrow with fatty tissue. Annual incidence is 2—3 cases per 1 million people in Europe and America, 7—9 cases per 1",
       "tag": "cases"
+    },
+    {
+      "title": "Why Ebola survivors belong at the decision-making table",
+      "link": "https://doi.org/10.1038/d44148-026-00158-0",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/d44148-026-00158-0\nAuthors: Katherina  Thomas, Barthalomew  Wilson, Louise  Sigfrid, Olive  Kabajaasi, Shevin T.  Jacob",
+      "tag": "analysis"
+    },
+    {
+      "title": "Molecular surveillance and predictive risk modelling of avian influenza virus in wild birds in Egypt",
+      "link": "https://www.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.002278",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
+      "desc": "info \nInfo \n\n\n\n\n\n\n\n\nArticle information \n\n\n\n\n\n\n\n\nFull-Text \n\n\n\n\n\n\n\n\n\nFigures and Tables \n\n\n\n\n\n\n\n\n\nReferences \n(40)\n\n\n\n\n\n\n\n\n\nCited By \n\n\n\n\n\n\n\n\n\nSupplementary Material \n\n\n\n\n\n\n\n\n\nMetrics \n\n\n\n\n \n\n\n\nlist\nSections\n\nTOPABSTRACTAbbreviationsIntroductionMethodsResultsDiscussionFunding informationAuthor contributionsConflicts of interestEthical state",
+      "tag": "analysis"
     },
     {
       "title": "Ebola case count mounts as outbreak hits 1-month mark",
@@ -524,17 +573,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Marburg virus disease: a comprehensive review",
-      "link": "https://doi.org/10.1128/cmr.00097-23",
+      "title": "Are there other undiagnosed tick-borne infections in children being evaluated for Lyme neuroborreliosis?",
+      "link": "https://doi.org/10.1186/s12887-026-07000-4",
       "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/cmr.00097-23\nAuthors: Courtney Woolsey, Thomas W. Geisbert\n SUMMARY \n                   Marburg virus disease (MVD) is a highly fatal illness closely resembling Ebola disease, caused by either Marburg virus (MARV) or Ravn virus (RAVV). It typically begins with a sudden onset of high fever, headache, and ma",
+      "desc": "DOI: 10.1186/s12887-026-07000-4\nAuthors: Henrik Hillerdal, Malin Lager, Anna Grankvist, Kenneth Nilsson, Christine Wennerås, Anna J Henningsson, Barbro H Skogman\n Abstract \n                   \n                     Background \n                     There is an increasing amount of reported",
       "tag": "analysis"
     },
     {
-      "title": "Ebola world nightmare from Congo 1976 to Congo again 2026",
-      "link": "https://doi.org/10.1186/s43162-026-00659-2",
+      "title": "Necroptosis is a key contributor to impaired cardiac repair following myocardial infarction",
+      "link": "https://doi.org/10.1038/s41419-026-08979-5",
       "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s43162-026-00659-2\nAuthors: Amr Saad, Haitham A Hashim\n Abstract \n                   The ongoing 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda has renewed global concern regarding the threat of ebolaviruses. Ebola virus disease is one of the most lethal viral hem",
+      "desc": "DOI: 10.1038/s41419-026-08979-5\nAuthors: Razoan Al Rimon, Yingxi Li, Ilamaran Meganathan, Faqi Wang, Allan G. Murray, Gavin Y. Oudit, Slava Epelman, Xavier Clemente-Casares, Zamaneh Kassiri\n Abstract \n                   \n                    Myocardial infarction (MI) is a leading cause of morbidity and death worldwide.",
       "tag": "analysis"
     },
     {
@@ -552,25 +601,25 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Marburg virus disease: a comprehensive review",
+      "link": "https://doi.org/10.1128/cmr.00097-23",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1128/cmr.00097-23\nAuthors: Courtney Woolsey, Thomas W. Geisbert\n SUMMARY \n                   Marburg virus disease (MVD) is a highly fatal illness closely resembling Ebola disease, caused by either Marburg virus (MARV) or Ravn virus (RAVV). It typically begins with a sudden onset of high fever, headache, and ma",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola world nightmare from Congo 1976 to Congo again 2026",
+      "link": "https://doi.org/10.1186/s43162-026-00659-2",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s43162-026-00659-2\nAuthors: Amr Saad, Haitham A Hashim\n Abstract \n                   The ongoing 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda has renewed global concern regarding the threat of ebolaviruses. Ebola virus disease is one of the most lethal viral hem",
+      "tag": "analysis"
+    },
+    {
       "title": "Press Release 15th June 2026 – Ebola Travel Advisory",
       "link": "https://health.go.ug/download/press-release-15th-june-2026-ebola-travel-advisory/",
       "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
       "desc": "Download\n                34\n            \n            \n                File Size\n                286.14 KB\n            \n            \n                File Count\n                1\n            \n            \n                Create Date\n                June 15, 2026",
       "tag": "response"
-    },
-    {
-      "title": "Necroptosis is a key contributor to impaired cardiac repair following myocardial infarction",
-      "link": "https://doi.org/10.1038/s41419-026-08979-5",
-      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/s41419-026-08979-5\nAuthors: Razoan Al Rimon, Yingxi Li, Ilamaran Meganathan, Faqi Wang, Allan G. Murray, Gavin Y. Oudit, Slava Epelman, Xavier Clemente-Casares, Zamaneh Kassiri\n Abstract \n                   \n                    Myocardial infarction (MI) is a leading cause of morbidity and death worldwide.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Are there other undiagnosed tick-borne infections in children being evaluated for Lyme neuroborreliosis?",
-      "link": "https://doi.org/10.1186/s12887-026-07000-4",
-      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s12887-026-07000-4\nAuthors: Henrik Hillerdal, Malin Lager, Anna Grankvist, Kenneth Nilsson, Christine Wennerås, Anna J Henningsson, Barbro H Skogman\n Abstract \n                   \n                     Background \n                     There is an increasing amount of reported",
-      "tag": "analysis"
     },
     {
       "title": "Health implications of Ebola and COVID-19 response strategies in Africa for Mpox control",
@@ -797,17 +846,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "AI-Driven Discovery of Prototype CLEC4M Inhibitors Targeting Marburg Virus Entry via Integrated Machine Learning and Molecular Modeling",
+      "link": "https://openalex.org/W7164562482",
+      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/ijms27125324\nAuthors: Mohammed Almaghrabi, Mansour S. Alturki\nMarburg virus (MARV), a highly pathogenic member of the Filoviridae family, causes severe hemorrhagic fever with a high case fatality rate and currently lacks effective therapeutics. The viral entry process, mediated by the interaction between the MARV glycoprotein (GP) and",
+      "tag": "analysis"
+    },
+    {
       "title": "Le Ministère de la Santé à travers l’INSP dément les rumeurs de confinement et appelle à la vigilance face à la désinformation.",
       "link": "https://insp.cd/le-ministere-de-la-sante-a-travers-linsp-dement-les-rumeurs-de-confinement-et-appelle-a-la-vigilance-face-a-la-desinformation/",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
       "desc": "juin 13, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nKinshasa, 13 juin 2026. Le Ministère de la Santé Publique, Hygiène et Prévoyance Sociale à travers l’INSP tient à rassurer l’ensemble de la population congolaise face aux informations err",
-      "tag": "analysis"
-    },
-    {
-      "title": "Targeted cleavage site mutations in the Gn precursor enable efficient generation of replication-competent rVSV-based surrogates for emerging nairoviruses",
-      "link": "https://openalex.org/W7164478714",
-      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.6084/m9.figshare.32657186.v1\nAuthors: Shilpi Jain, Stéphane Marot, Elif Karaaslan, Mohammad M. Sajadi, Nurcan Baykam, Derya Yapar, Trevor Shoemaker, Joel M. Montgomery, Christina F. Spiropoulou, César G. Albariño, Éric Bergeron\nOrthonairoviruses are rapidly emerging, tick-borne viruses including Crimean Congo hemorrhagic fever virus (CCHFV)",
       "tag": "analysis"
     },
     {
@@ -818,10 +867,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "AI-Driven Discovery of Prototype CLEC4M Inhibitors Targeting Marburg Virus Entry via Integrated Machine Learning and Molecular Modeling",
-      "link": "https://openalex.org/W7164562482",
+      "title": "Targeted cleavage site mutations in the Gn precursor enable efficient generation of replication-competent rVSV-based surrogates for emerging nairoviruses",
+      "link": "https://openalex.org/W7164478714",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/ijms27125324\nAuthors: Mohammed Almaghrabi, Mansour S. Alturki\nMarburg virus (MARV), a highly pathogenic member of the Filoviridae family, causes severe hemorrhagic fever with a high case fatality rate and currently lacks effective therapeutics. The viral entry process, mediated by the interaction between the MARV glycoprotein (GP) and",
+      "desc": "DOI: 10.6084/m9.figshare.32657186.v1\nAuthors: Shilpi Jain, Stéphane Marot, Elif Karaaslan, Mohammad M. Sajadi, Nurcan Baykam, Derya Yapar, Trevor Shoemaker, Joel M. Montgomery, Christina F. Spiropoulou, César G. Albariño, Éric Bergeron\nOrthonairoviruses are rapidly emerging, tick-borne viruses including Crimean Congo hemorrhagic fever virus (CCHFV)",
       "tag": "analysis"
     },
     {
@@ -853,18 +902,18 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "The behind-the-scenes work of protecting World Cup fans from infectious diseases",
-      "link": "https://www.cidrap.umn.edu/public-health/behind-scenes-work-protecting-world-cup-fans-infectious-diseases",
-      "pubDate": "Fri, 12 Jun 2026 20:58:00 Z",
-      "desc": "Infectious Disease Risk at the World CupThis is part 2 in a two-part series on the diseases that may circulate surrounding World Cup events and how public health officials have prepared for them. Part 1 was published yesterday.The 2026 FIFA World Cup, which began yesterday and runs till July 19, is the largest soccer tournament held in its almost 1",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola outbreak in DR Congo expands into large displacement camp",
       "link": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-expands-large-displacement-camp",
       "pubDate": "Fri, 12 Jun 2026 20:58:00 Z",
       "desc": "The number of confirmed cases in the growing Ebola outbreak in the Democratic Republic of the Congo (DRC) has risen to 676, including 136 deaths, as health officials warn it’s likely to get worse.Among the dead are two victims who were living in a displacement camp in eastern DRC, which has been plagued by conflict between the government and rebel",
       "tag": "cases"
+    },
+    {
+      "title": "The behind-the-scenes work of protecting World Cup fans from infectious diseases",
+      "link": "https://www.cidrap.umn.edu/public-health/behind-scenes-work-protecting-world-cup-fans-infectious-diseases",
+      "pubDate": "Fri, 12 Jun 2026 20:58:00 Z",
+      "desc": "Infectious Disease Risk at the World CupThis is part 2 in a two-part series on the diseases that may circulate surrounding World Cup events and how public health officials have prepared for them. Part 1 was published yesterday.The 2026 FIFA World Cup, which began yesterday and runs till July 19, is the largest soccer tournament held in its almost 1",
+      "tag": "analysis"
     },
     {
       "title": "Ebola strains coffee supply chains, with smallholders most at risk",
@@ -1154,6 +1203,27 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Structural Characterization of GD01- and hTfR1-Derived Peptides with Potential for Interaction with Junín Virus GP1.",
+      "link": "https://openalex.org/W7164346508",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20635952\nAuthors: Joaquin Freytes\nJunin virus (JUNV), the etiological agent of Argentine hemorrhagic fever, uses the GP1 glycoprotein to recognize the human transferrin receptor 1 (hTfR1) and initiate infection. Given the central role of this interaction during viral entry, the identification of molecules capable of interfering",
+      "tag": "analysis"
+    },
+    {
+      "title": "Crimean-Congo haemorrhagic fever virus transmission: exploring perceptions of human-animal-tick interactions across six districts in Uganda",
+      "link": "https://doi.org/10.64898/2026.06.10.26355422",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.10.26355422\nAuthors: Marina Kugler, Lazaaro Mujumbusi, Lucy Pickering, Richard Muhumuza, Mathias Akugizibwe, Edward Obicho, Titus Apangu, Evalyne Umo, Simpson Nuwamanya, Shirin Ashraf, Stella A Atim, Emma C Thomson, Poppy H L Lamberton\n Crimean-Congo haemorrhagic fever virus (CCHFV) causes a viral zoonotic disease trans",
+      "tag": "analysis"
+    },
+    {
+      "title": "Estimating the effectiveness of syndromic screening at airports for Bundibugyo ebolavirus disease",
+      "link": "https://doi.org/10.64898/2026.06.11.26355442",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.11.26355442\nAuthors: Quilty, B. J.\nWe used a stochastic simulation model to estimate the effectiveness of combined exit and entry airport screening for Bundibugyo ebolavirus disease (BVD), using natural-history parameters from a Bayesian re-analysis of the 2012 Isiro outbreak. For a 12-hour international flight from DRC or Uga",
+      "tag": "analysis"
+    },
+    {
       "title": "Attacks on Public Health-Related Programmes Data",
       "link": "https://openalex.org/W7164383035",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
@@ -1172,20 +1242,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.3390/ijms27125317",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/ijms27125317\nAuthors: Ralf Kircheis\n The SARS-CoV-2 spike protein has been shown to activate Toll-like receptor 4 (TLR4), yet the precise molecular structures driving recognition and subsequent activation remain poorly defined. Here, we present in silico structural alignments and molecular docking simulations indicating potentia",
-      "tag": "analysis"
-    },
-    {
-      "title": "Structural Characterization of GD01- and hTfR1-Derived Peptides with Potential for Interaction with Junín Virus GP1.",
-      "link": "https://openalex.org/W7164346508",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20635952\nAuthors: Joaquin Freytes\nJunin virus (JUNV), the etiological agent of Argentine hemorrhagic fever, uses the GP1 glycoprotein to recognize the human transferrin receptor 1 (hTfR1) and initiate infection. Given the central role of this interaction during viral entry, the identification of molecules capable of interfering",
-      "tag": "analysis"
-    },
-    {
-      "title": "Crimean-Congo haemorrhagic fever virus transmission: exploring perceptions of human-animal-tick interactions across six districts in Uganda",
-      "link": "https://doi.org/10.64898/2026.06.10.26355422",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.10.26355422\nAuthors: Marina Kugler, Lazaaro Mujumbusi, Lucy Pickering, Richard Muhumuza, Mathias Akugizibwe, Edward Obicho, Titus Apangu, Evalyne Umo, Simpson Nuwamanya, Shirin Ashraf, Stella A Atim, Emma C Thomson, Poppy H L Lamberton\n Crimean-Congo haemorrhagic fever virus (CCHFV) causes a viral zoonotic disease trans",
       "tag": "analysis"
     },
     {
@@ -1221,13 +1277,6 @@ window.FEED_DATA = {
       "link": "https://openalex.org/W7164353577",
       "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/curroncol33060354\nAuthors: Gabriella C. Torretto, Matthew D. Martin, Kaamraan Islam, Nicole E. Archer, Harriet Feilotter, Scott Davey\nBackground: Pathogenic germline BRCA1 and BRCA2 variants cause most hereditary breast and ovarian cancers. Widespread genetic testing has revealed thousands of variants with unknown effects on disease ri",
-      "tag": "analysis"
-    },
-    {
-      "title": "Estimating the effectiveness of syndromic screening at airports for Bundibugyo ebolavirus disease",
-      "link": "https://doi.org/10.64898/2026.06.11.26355442",
-      "pubDate": "Fri, 12 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.11.26355442\nAuthors: Quilty, B. J.\nWe used a stochastic simulation model to estimate the effectiveness of combined exit and entry airport screening for Bundibugyo ebolavirus disease (BVD), using natural-history parameters from a Bayesian re-analysis of the 2012 Isiro outbreak. For a 12-hour international flight from DRC or Uga",
       "tag": "analysis"
     },
     {
@@ -1518,34 +1567,6 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "L’INSP accélère le renforcement des capacités de prise en charge à Butembo.",
-      "link": "https://insp.cd/linsp-accelere-le-renforcement-des-capacites-de-prise-en-charge-a-butembo/",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "juin 11, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nButembo, 11 juin 2026. Après l’étape de Beni, la coordination stratégique multisectorielle conduite par le Directeur général de l’Institut National de Santé Publique (INSP), le Docteur Mw",
-      "tag": "analysis"
-    },
-    {
-      "title": "Viral Encapsulation as a Theoretical Platform for Functional Neutralization of Pathogens: A Conceptual Model for Ebola and HIV",
-      "link": "https://openalex.org/W7164151932",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20630609\nAuthors: Adalberto Souza\nPublic Domain Declaration The author hereby declares that this work is released entirely into the public domain, allowing unrestricted access, reproduction, distribution, and use for scientific, educational, and humanitarian purposes. This publication is intended to contribute to the advancement",
-      "tag": "analysis"
-    },
-    {
-      "title": "Hantavirus at the Human–rodent Interface: A Global Review and Meta-analysis of Occupational Exposure",
-      "link": "https://doi.org/10.9734/jamb/2026/v26i71139",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.9734/jamb/2026/v26i71139\nAuthors: Chinwebudu M. Melford, Jerome A. Tan, Paul Peejay E. Celo, Racquel Huerte, Eunice Fay Cayacap, Lorreine Denise W. Castañares, Emmalyn B. Cutamora\n Hantaviruses are zoonotic negative-sense RNA viruses transmitted to humans principally through inhalation of aerosolised excreta from persistently infecte",
-      "tag": "analysis"
-    },
-    {
-      "title": "Case Report: Genetically primed hyperinflammation: cytomegalovirus-triggered HLH-like syndrome in an adolescent with a gain-of-function STING1 (p.Arg281Trp) variant with novel autosomal dominant inheritance and atypical presentation",
-      "link": "https://doi.org/10.3389/fimmu.2026.1801755",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fimmu.2026.1801755\nAuthors: Ehab Abdelbadeeh Hassan Hammad, Tariq Zulfiquar Ali, Dieter Clemens Broering, Hassan Ali Aleid, Quaid Johar Nadri, Rehab Salah Fathy Nasr\n We report the case of an 18-year-old previously healthy female who developed acute liver and kidney injuries with cytopenia and hyperinflammatory markers following",
-      "tag": "analysis"
-    },
-    {
       "title": "Pancreatic Stone Protein as an Early Predictor of Adverse Events in Patients with Infection Presenting to the Emergency Department: A Pilot Study",
       "link": "https://doi.org/10.3390/jpm16060312",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
@@ -1560,6 +1581,34 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Case Report: Genetically primed hyperinflammation: cytomegalovirus-triggered HLH-like syndrome in an adolescent with a gain-of-function STING1 (p.Arg281Trp) variant with novel autosomal dominant inheritance and atypical presentation",
+      "link": "https://doi.org/10.3389/fimmu.2026.1801755",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fimmu.2026.1801755\nAuthors: Ehab Abdelbadeeh Hassan Hammad, Tariq Zulfiquar Ali, Dieter Clemens Broering, Hassan Ali Aleid, Quaid Johar Nadri, Rehab Salah Fathy Nasr\n We report the case of an 18-year-old previously healthy female who developed acute liver and kidney injuries with cytopenia and hyperinflammatory markers following",
+      "tag": "analysis"
+    },
+    {
+      "title": "Hantavirus at the Human–rodent Interface: A Global Review and Meta-analysis of Occupational Exposure",
+      "link": "https://doi.org/10.9734/jamb/2026/v26i71139",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.9734/jamb/2026/v26i71139\nAuthors: Chinwebudu M. Melford, Jerome A. Tan, Paul Peejay E. Celo, Racquel Huerte, Eunice Fay Cayacap, Lorreine Denise W. Castañares, Emmalyn B. Cutamora\n Hantaviruses are zoonotic negative-sense RNA viruses transmitted to humans principally through inhalation of aerosolised excreta from persistently infecte",
+      "tag": "analysis"
+    },
+    {
+      "title": "Viral Encapsulation as a Theoretical Platform for Functional Neutralization of Pathogens: A Conceptual Model for Ebola and HIV",
+      "link": "https://openalex.org/W7164151932",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20630609\nAuthors: Adalberto Souza\nPublic Domain Declaration The author hereby declares that this work is released entirely into the public domain, allowing unrestricted access, reproduction, distribution, and use for scientific, educational, and humanitarian purposes. This publication is intended to contribute to the advancement",
+      "tag": "analysis"
+    },
+    {
+      "title": "L’INSP accélère le renforcement des capacités de prise en charge à Butembo.",
+      "link": "https://insp.cd/linsp-accelere-le-renforcement-des-capacites-de-prise-en-charge-a-butembo/",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "juin 11, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nButembo, 11 juin 2026. Après l’étape de Beni, la coordination stratégique multisectorielle conduite par le Directeur général de l’Institut National de Santé Publique (INSP), le Docteur Mw",
+      "tag": "analysis"
+    },
+    {
       "title": "Long-term Penetrance of Disease Variants in Genes Prioritized for Genomic Newborn Screening: Evidence from Adult Biobanks",
       "link": "https://doi.org/10.64898/2026.06.10.26355380",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
@@ -1571,6 +1620,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.64898/2026.06.09.26355279",
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.06.09.26355279\nAuthors: Jensen, T. D.; Kaur, R.; Bonner, D. E.; Nguyen, J.; Reuter, C. M.; Undiagnosed Diseases Network,  ; Genomics Research to Elucidate the Genetics of Rare Diseases (GREGoR) Consortium,  ; Ashley, E. A.; Bernstein, J. A.; Wheeler, M. T.; Montgomery, S. B.\nBackground: Aberrant DNA methylation can mediate the fu",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola_Epidemic_Mathematical_Model___Democratic_Rep_20260610_005441",
+      "link": "https://openalex.org/W7164195951",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20618911\nAuthors: Flávio Codeço Coelho\nEbola Epidemic Mathematical Model — Democratic Republic of Congo EpidBot Analysis Report | May 31, 2026 Table of Contents 1. [1. Executive Summary](1-executive-summary) 2. [2. Data Sources & Evidence Base](2-data-sources--evidence-base) 3. [3. Model Structure: SEIHFR-V](3-model-structure-se",
       "tag": "analysis"
     },
     {
@@ -1600,13 +1656,6 @@ window.FEED_DATA = {
       "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-9867863/v1\nAuthors: Xiangjun LONG, Rujian Wang, Yanli Xu, Xinbo Liu, Qingmei Bi, HongXia Yu\n Abstract \n                 \n                   Background \n                  : Acute Q fever is a global zoonotic disease caused by Benatcocos. The clinical manifestations are diverse, ranging from self-limiti",
       "tag": "cases"
-    },
-    {
-      "title": "Ebola_Epidemic_Mathematical_Model___Democratic_Rep_20260610_005441",
-      "link": "https://openalex.org/W7164195951",
-      "pubDate": "Thu, 11 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20618911\nAuthors: Flávio Codeço Coelho\nEbola Epidemic Mathematical Model — Democratic Republic of Congo EpidBot Analysis Report | May 31, 2026 Table of Contents 1. [1. Executive Summary](1-executive-summary) 2. [2. Data Sources & Evidence Base](2-data-sources--evidence-base) 3. [3. Model Structure: SEIHFR-V](3-model-structure-se",
-      "tag": "analysis"
     },
     {
       "title": "10 Jun 2026 – Bundibugyo virus disease outbreak: Confirmed cases reach 645; Africa CDC issues interim guidance",
@@ -1782,55 +1831,6 @@ window.FEED_DATA = {
       "pubDate": "Wed, 10 Jun 2026 10:46:00 Z",
       "desc": "President Bola Ahmed Tinubu has approved the establishment of a Presidential Task Force on Ebola Virus Disease Preparedness and Emerging Public Health Threats, alongside the immediate release of ?10 billion as emergency intervention funding to strengthen Nigeria's response capability against possible disease outbreaks.",
       "tag": "response"
-    },
-    {
-      "title": "Uganda Assures Public As Ebola Outbreak Remains Under Control",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021721386",
-      "pubDate": "Wed, 10 Jun 2026 10:45:00 Z",
-      "desc": "The Ministry of Health has reassured Ugandans and the international community that the country remains capable of containing the ongoing Sudan Ebola Virus Disease (SVD) outbreak, emphasizing that the situation is under control despite a number of confirmed cases.\nThe Director of Public Health at the Ministry of Health, Dr.",
-      "tag": "cases"
-    },
-    {
-      "title": "La República Democrática del Congo informa cerca de 600 casos confirmados de Ébola, con 115 fallecimientos.",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021721339",
-      "pubDate": "Wed, 10 Jun 2026 10:40:00 Z",
-      "desc": "Las autoridades de la República Democrática del Congo han informado que el brote de ébola declarado en el este del país el 15 de mayo ha alcanzado 598 casos confirmados, con 115 muertes. Se advierte sobre la continua transmisión comunitaria de la enfermedad y se enfatiza la importancia de reportar....",
-      "tag": "cases"
-    },
-    {
-      "title": "Puzzle of tested people declared Ebola-free before 21-day window",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021721275",
-      "pubDate": "Wed, 10 Jun 2026 10:30:00 Z",
-      "desc": "The Ministry of Health could be declaring individuals tested for Ebola ‘negative’ and releasing them into the public before the mandatory 21-day incubation period has elapsed, a practice that infectious disease experts warn could spark a deadly outbreak.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Se discute la coordinación y los esfuerzos de respuesta conjunta entre EE. UU. y la UE frente al brote de Ébola en la RDC.",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021721236",
-      "pubDate": "Wed, 10 Jun 2026 10:20:00 Z",
-      "desc": "El gobierno de los Estados Unidos ha discutido con la Presidenta de la Comisión Europea, Ursula von der Leyen, sobre la coordinación y los esfuerzos de respuesta conjunta ante el brote de Ébola declarado a mediados de mayo en la República Democrática del Congo.",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola : le vaccin russe précipité qui inquiète",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021720842",
-      "pubDate": "Wed, 10 Jun 2026 08:50:00 Z",
-      "desc": "Ebola Bundibugyo : une urgence sanitaire régionale\nLa nouvelle flambée d’Ebola touche principalement l’est de la République démocratique du Congo, avec des cas confirmés en Ituri, au Nord-Kivu et au Sud-Kivu. L’Ouganda a également signalé des infections.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Nord-Kivu: sensibilisation des jeunes kimbanguites à la maladie à virus Ebola",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021719859",
-      "pubDate": "Wed, 10 Jun 2026 08:46:00 Z",
-      "desc": "Beni, 9 juin 2026 (ACP).- Un appel à la prise de conscience de la maladie à virus Ebola a été lancé mardi aux jeunes kimbanguites à Beni, au Nord-Kivu (est de la République démocratique du Congo), selon les sources religieuses.\n» Je vous appelle à la prise de conscience et à la sensibilisation de....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola : la stratégie des Etats-Unis jugée « excessive » et « contraire à l’éthique » par des experts en santé",
-      "link": "https://gphin.canada.ca/cepr/showarticle.jsp?docId=1021720288",
-      "pubDate": "Wed, 10 Jun 2026 06:41:00 Z",
-      "desc": "Interdictions de voyager, envoi en Europe d’Américains malades, centre de quarantaine au Kenya… Les mesures drastiques prises par Washington pour empêcher l’arrivée d’un cas dans le pays sont critiquées par de nombreux scientifiques.\nFace à l’épidémie de virus Ebola qui s’étend en République....",
-      "tag": "analysis"
     }
   ],
   "highWater": {
