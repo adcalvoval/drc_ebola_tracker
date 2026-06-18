@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 18 Jun 2026 20:28:11 Z",
-  "fetchedAt": "2026-06-18T20:28:12Z",
+  "lastBuildDate": "Thu, 18 Jun 2026 22:56:37 Z",
+  "fetchedAt": "2026-06-18T22:56:38Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -35,6 +35,10 @@
     "drcTiers": {
       "moh": {
         "deaths": 181
+      },
+      "cdc": {
+        "deaths": 204,
+        "suspected": 894
       },
       "media": {
         "confirmed": 837,
@@ -81,6 +85,34 @@
     }
   },
   "items": [
+    {
+      "title": "Episode 211: A System Held With Duct Tape",
+      "link": "https://www.cidrap.umn.edu/public-health/episode-211-system-held-duct-tape",
+      "pubDate": "Thu, 18 Jun 2026 22:31:00 Z",
+      "desc": "Chris Dall: Hello and welcome to the Osterholm update, a podcast about infectious diseases and public health featuring Dr. Michael Osterholm. Doctor Osterholm is an internationally recognized medical detective and director of the center for Infectious Disease Research and Policy, or CIDRAP, at the University of Minnesota. In this podcast, Dr. Oster",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola cases near 900 as officials say less than 10% of donations have made it to affected nations",
+      "link": "https://www.cidrap.umn.edu/ebola/ebola-cases-near-900-officials-say-less-10-donations-have-made-it-affected-nations",
+      "pubDate": "Thu, 18 Jun 2026 21:15:00 Z",
+      "desc": "NIAID. The Ebola outbreak in the Democratic Republic of the Congo (DRC) and Uganda rages, with BNO News reporting 894 cases and 204 deaths today and the Africa Centre for Disease Control and Prevention (Africa CDC) telling partners it has received only about 10% of the funding pledged to help fight the outbreak.",
+      "tag": "cases"
+    },
+    {
+      "title": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda and CDC's World Cup 2026(TM) activation",
+      "link": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-and-cdcs.html",
+      "pubDate": "Thu, 18 Jun 2026 20:45:00 Z",
+      "desc": "Please Note : This transcript is not edited and may contain errors. 00:00:00. Operator. Good afternoon and thank you all for standing by; for the duration of today's call all listeners are in a listen-only mode until the question and answer session; at that time credentialed members of the media can....",
+      "tag": "analysis"
+    },
+    {
+      "title": "The Open Syndrome Definition as a Machine-Readable Standard for Public Health: Design and Implementation Study",
+      "link": "https://www.jmir.org/2026/1/e86249",
+      "pubDate": "Thu, 18 Jun 2026 20:41:00 Z",
+      "desc": "] and established medical ontologies, successfully bridging the gap between human readability and computational precision. Consequently, OSD offers the flexibility and clarity required to create precise, unambiguous descriptions suitable for AI applications and diverse software tools.",
+      "tag": "analysis"
+    },
     {
       "title": "Ebola cases increase almost 40% in a week as death toll passes 200 - The Independent",
       "link": "https://www.independent.co.uk/news/uganda-congo-africa-dakar-senegal-b2998547.html",
@@ -296,6 +328,13 @@
       "link": "https://doi.org/10.1186/s12889-026-28172-9",
       "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1186/s12889-026-28172-9\nAuthors: Jennifer Pett, Mohammed Fahim, Richard Taylor, Nicholas J. Osborne, Stephen Morrell, Sally Nathan, Nishantha Nanayakkara, Christine Linhart",
+      "tag": "analysis"
+    },
+    {
+      "title": "Computational Identification and Density Functional Theory Insights into a Seaweed-Derived Metabolite of the Crimean–Congo hemorrhagic fever Virus Nucleoprotein",
+      "link": "https://openalex.org/W7165010454",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20731419\nAuthors: Abhithaj Jayanandan",
       "tag": "analysis"
     },
     {
@@ -579,18 +618,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Ebola Bundibugyo : l’Union africaine mobilise 910 millions de dollars et appelle à une riposte immédiate en RDC et en Ouganda",
-      "link": "https://africacdc.org/news-item/ebola-bundibugyo-lunion-africaine-mobilise-910-millions-de-dollars-et-appelle-a-une-riposte-immediate-en-rdc-et-en/",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "80 millions de dollars engagés par les États membres africains, alors qu’Africa CDC appelle à transformer les promesses en décaissements, fournitures et appui aux intervenants de première ligne \n\n\n\nBujumbura/Addis-Abeba, 17 juin 2026 – S.E. Évariste Ndayishimiye, Président de la République du Burundi et Président en exercice de l’Union afric",
-      "tag": "analysis"
-    },
-    {
       "title": "African Union High-Level Meeting mobilizes USD 910 million in pledges for Ebola Bundibugyo response in DRC and Uganda",
       "link": "https://africacdc.org/news-item/african-union-high-level-meeting-mobilizes-usd-910-million-in-pledges-for-ebola-bundibugyo-response-in-drc-and-uganda/",
       "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
       "desc": "USD 80 million committed by African Member States as Africa CDC calls for rapid disbursement and urgent support to frontline responders \n\n\n\nBujumbura/Addis Ababa, 17 June 2026 – H.E. Évariste Ndayishimiye, President of the Republic of Burundi and Chairperson of the African Union, convened a High-Level Emergency Meeting of African Heads of St",
       "tag": "response"
+    },
+    {
+      "title": "Ebola Bundibugyo : l’Union africaine mobilise 910 millions de dollars et appelle à une riposte immédiate en RDC et en Ouganda",
+      "link": "https://africacdc.org/news-item/ebola-bundibugyo-lunion-africaine-mobilise-910-millions-de-dollars-et-appelle-a-une-riposte-immediate-en-rdc-et-en/",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "80 millions de dollars engagés par les États membres africains, alors qu’Africa CDC appelle à transformer les promesses en décaissements, fournitures et appui aux intervenants de première ligne \n\n\n\nBujumbura/Addis-Abeba, 17 juin 2026 – S.E. Évariste Ndayishimiye, Président de la République du Burundi et Président en exercice de l’Union afric",
+      "tag": "analysis"
     },
     {
       "title": "Key factors for promoting protective behaviours in future pandemics: an umbrella review",
@@ -1795,41 +1834,6 @@
       "pubDate": "Fri, 12 Jun 2026 12:46:00 Z",
       "desc": "A 43-year-old man from Kerala’s Kozhikode district is critically ill on ventilator support with a suspected Nipah infection, again raising questions over how the deadly virus repeatedly spills over from bats to humans in the state. Health officials have started contact tracing and containment....",
       "tag": "cases"
-    },
-    {
-      "title": "Ebola cases in DRC rise to 676 as Kenya protests erupt over US plans - Ars Technica",
-      "link": "https://arstechnica.com/health/2026/06/ebola-cases-in-drc-rise-to-676-as-kenya-protests-erupt-over-us-plans/",
-      "pubDate": "Fri, 12 Jun 2026 12:26:00 Z",
-      "desc": "Ebola -- DR Congo. Significance Rating: 4 Ebola cases in DRC rise to 676 as Kenya protests erupt over US plans&nbsp;&nbsp;Ars Technica",
-      "tag": "cases"
-    },
-    {
-      "title": "Duale Assures Public as Kenya Strengthens Ebola Preparedness",
-      "link": "https://www.health.go.ke/duale-assures-public-kenya-strengthens-ebola-preparedness",
-      "pubDate": "Fri, 12 Jun 2026 11:26:00 Z",
-      "desc": "- Cabinet Secretary for Health Hon. Aden Duale today assured Kenyans that the country remains free of Ebola Virus Disease (EVD) cases, while emphasizing that the Government has intensified preparedness measures to safeguard public health and strengthen national readiness against potential threats.",
-      "tag": "cases"
-    },
-    {
-      "title": "Two killed in Kenya protests over US Ebola centre: rights group - MSN",
-      "link": "http://www.msn.com/en-us/news/world/two-killed-in-kenya-protests-over-us-ebola-centre-rights-group/ar-AA24CVFY",
-      "pubDate": "Fri, 12 Jun 2026 11:26:00 Z",
-      "desc": "-- Kenya. Significance Rating: 1 Two killed in Kenya protests over US Ebola centre: rights group&nbsp;&nbsp;MSN",
-      "tag": "analysis"
-    },
-    {
-      "title": "The COVID-19 pandemic and global environmental change: Emerging research needs",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0160412020322273",
-      "pubDate": "Fri, 12 Jun 2026 11:02:00 Z",
-      "desc": "The outbreak of COVID-19 raised numerous questions on the interactions between the occurrence of new infections, the environment, climate and health. The European Union requested the H2020 HERA project which aims at setting priorities in research on environment, climate and health, to identify relevant research needs regarding Covid-19.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Press release Elsevier launches Ebola Information Center with free clinical and research resources to support response to outbreak Jun 12, 2026",
-      "link": "https://www.elsevier.com/about/press-releases/elsevier-launches-ebola-information-center-with-free-clinical-and-research-resources-to-support-response-to-outbreak",
-      "pubDate": "Fri, 12 Jun 2026 10:27:00 Z",
-      "desc": "Following the World Health Organization’s declaration of an Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of Congo and Uganda as a Public Health Emergency of International Concern (PHEIC), Elsevier, a global leader in scientific information and analytics, has launched its....",
-      "tag": "pheic"
     }
   ],
   "highWater": {
