@@ -1,35 +1,70 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 19 Jun 2026 04:40:36 Z",
-  "fetchedAt": "2026-06-19T04:40:36Z",
+  "lastBuildDate": "Fri, 19 Jun 2026 08:47:22 Z",
+  "fetchedAt": "2026-06-19T08:47:22Z",
   "itemCount": 250,
   "stats": {
     "drc": {
-      "confirmed": 676,
-      "deaths": 136,
-      "recovered": 32,
-      "zonesAffected": 29,
+      "confirmed": 875,
+      "deaths": 202,
+      "recovered": 67,
+      "zonesAffected": 33,
       "topHealthZones": {
-        "bunia": 185,
-        "rwampara": 137,
-        "mongbwalu": 132,
-        "nyankunde": 33
+        "Bunia": 226,
+        "Mongbwalu": 189,
+        "Rwampara": 172,
+        "Nyankunde": 45,
+        "Butembo": 24,
+        "Katwa": 23,
+        "Nizi": 16,
+        "Beni": 14,
+        "Lita": 9,
+        "Bambu": 7,
+        "Komanda": 7,
+        "Mangala": 5,
+        "Tchomia": 5,
+        "Kilo": 4,
+        "Damas": 4,
+        "Rimba": 3,
+        "Aru": 3,
+        "Oicha": 3,
+        "Miti-Murhesa": 3,
+        "Aungba": 2,
+        "Mambasa": 2,
+        "Logo": 2,
+        "Kyondo": 2,
+        "Kalunguta": 2,
+        "Fataki": 1,
+        "Gety": 1,
+        "Kambala": 1,
+        "Nia-Nia": 1,
+        "Goma": 1,
+        "Masereka": 1,
+        "Vuhovi": 1,
+        "Mabalako": 1,
+        "Musienene": 1
       },
       "healthcareWorkers": 16,
-      "contacts": 5768
+      "contacts": 5768,
+      "suspected": 192,
+      "cfr": 23.1
     },
     "drcMeta": {
       "confirmed": {
-        "tier": 4,
-        "src": "2026-DON607 (as of 10 June 2026)"
+        "tier": 5,
+        "src": "INRB sitrep (2026-06-16)"
       },
       "deaths": {
-        "tier": 4,
-        "src": "2026-DON607 (as of 10 June 2026)"
+        "tier": 5,
+        "src": "INRB sitrep (2026-06-16)"
       },
       "recovered": {
-        "tier": 4,
-        "src": "2026-DON607 (as of 10 June 2026)"
+        "tier": 5,
+        "src": "INRB sitrep (2026-06-16)"
+      },
+      "suspected": {
+        "tier": 5,
+        "src": "INRB sitrep (2026-06-16)"
       }
     },
     "drcTiers": {
@@ -46,6 +81,12 @@ window.FEED_DATA = {
         "confirmed": 676,
         "deaths": 136,
         "recovered": 32
+      },
+      "inrb": {
+        "confirmed": 875,
+        "deaths": 202,
+        "suspected": 192,
+        "recovered": 67
       }
     },
     "provinces": {
@@ -73,15 +114,27 @@ window.FEED_DATA = {
       "recovered": 5
     },
     "whoAlert": "PHEIC",
-    "sourceLabel": "WHO Disease Outbreak News",
+    "sourceLabel": "INRB MVE Sitrep",
     "whoDon": {
       "donId": "2026-DON607",
       "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON607",
       "asOf": "10 June 2026",
       "fetchedAt": "2026-06-15T20:15:11Z"
+    },
+    "inrbSitrep": {
+      "asOf": "2026-06-16",
+      "url": "https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/insp_sitrep/processed",
+      "fetchedAt": "2026-06-19T08:37:11.130953+00:00"
     }
   },
   "items": [
+    {
+      "title": "Host–virus miRNA crosstalk in ebola virus disease",
+      "link": "https://link.springer.com/article/10.1007/s12223-026-01538-7",
+      "pubDate": "Fri, 19 Jun 2026 07:41:00 Z",
+      "desc": "Ebola virus disease (EVD) is a severe and often fatal illness characterized by aggressive viral replication, dysregulated immunity, and multi-organ dysfunction. Emerging evidence demonstrates that microRNAs (miRNAs), both host-derived and virus-encoded, play essential regulatory roles throughout the course of Ebola virus (EBOV) infection.",
+      "tag": "analysis"
+    },
     {
       "title": "US CDC activates $107 million in emergency funding for Ebola response",
       "link": "https://health.economictimes.indiatimes.com/news/industry/us-cdc-activates-107-million-in-emergency-funding-for-ebola-response/131844240",
@@ -321,17 +374,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Computational Identification and Density Functional Theory Insights into a Seaweed-Derived Metabolite of the Crimean–Congo hemorrhagic fever Virus Nucleoprotein",
-      "link": "https://openalex.org/W7165010454",
+      "title": "Environmental and occupational exposures for chronic kidney disease of unknown aetiology (CKDu): field investigations in rural Sri Lanka",
+      "link": "https://doi.org/10.1186/s12889-026-28172-9",
       "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20731419\nAuthors: Abhithaj Jayanandan",
-      "tag": "analysis"
-    },
-    {
-      "title": "Development and Analytical Validation of a Novel Real-Time RT-PCR Assay for the Detection of Human Enteroviruses",
-      "link": "https://doi.org/10.21203/rs.3.rs-10063818/v1",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10063818/v1\nAuthors: Aigul Abdirassilova, Zauresh Zhumadilova, Altyn Rysbekova, Altynai Kassenova, Beck Abdeliyev, Ziyat Abdel, Ayaulym Maksatova, Sanzhar Agzam, Ainur Nurpeisova, Raikhan Nissanova, Anna Shin, Nazym Saduakassova, Duman Yessimseit\n Abstract \n                 \n                  Background\n Human e",
+      "desc": "DOI: 10.1186/s12889-026-28172-9\nAuthors: Jennifer Pett, Mohammed Fahim, Richard Taylor, Nicholas J. Osborne, Stephen Morrell, Sally Nathan, Nishantha Nanayakkara, Christine Linhart",
       "tag": "analysis"
     },
     {
@@ -339,13 +385,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1002/dta.70105",
       "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1002/dta.70105\nAuthors: Genye He, Sisi Zhu, Xin Liu, Zhanliang Wang, Lisi Zhang, Jianghai Lu, Jing Li\n ABSTRACT \n                   A package of raw material, deliberately mislabelled as a muscle‐building supplement, was obtained online to contain an unknown steroid. In order to accurately identify the composit",
-      "tag": "analysis"
-    },
-    {
-      "title": "Environmental and occupational exposures for chronic kidney disease of unknown aetiology (CKDu): field investigations in rural Sri Lanka",
-      "link": "https://doi.org/10.1186/s12889-026-28172-9",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s12889-026-28172-9\nAuthors: Jennifer Pett, Mohammed Fahim, Richard Taylor, Nicholas J. Osborne, Stephen Morrell, Sally Nathan, Nishantha Nanayakkara, Christine Linhart",
       "tag": "analysis"
     },
     {
@@ -370,6 +409,62 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Development and Analytical Validation of a Novel Real-Time RT-PCR Assay for the Detection of Human Enteroviruses",
+      "link": "https://doi.org/10.21203/rs.3.rs-10063818/v1",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10063818/v1\nAuthors: Aigul Abdirassilova, Zauresh Zhumadilova, Altyn Rysbekova, Altynai Kassenova, Beck Abdeliyev, Ziyat Abdel, Ayaulym Maksatova, Sanzhar Agzam, Ainur Nurpeisova, Raikhan Nissanova, Anna Shin, Nazym Saduakassova, Duman Yessimseit\n Abstract \n                 \n                  Background\n Human e",
+      "tag": "analysis"
+    },
+    {
+      "title": "Computational Identification and Density Functional Theory Insights into a Seaweed-Derived Metabolite of the Crimean–Congo hemorrhagic fever Virus Nucleoprotein",
+      "link": "https://openalex.org/W7165010454",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20731419\nAuthors: Abhithaj Jayanandan",
+      "tag": "analysis"
+    },
+    {
+      "title": "Primary hydatid cyst of the abdominal wall: a case report and review of the literature",
+      "link": "https://doi.org/10.1097/rc9.0000000000000603",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1097/rc9.0000000000000603\nAuthors: Soukayna Bourabaa, Yahia Zain-Al-Abidine Khedid\n \n                     Introduction: \n                     \n                      Hydatid disease is a parasitic infection caused by\n                       Echinococcus",
+      "tag": "analysis"
+    },
+    {
+      "title": "TL1A/DR3 signaling deletion attenuates mucosal inflammation and alveolar bone loss in a murine model of spontaneous periodontitis",
+      "link": "https://doi.org/10.1073/pnas.2611178123",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1073/pnas.2611178123\nAuthors: Sara Di Nicolantonio, Maria R. Miranda, Adrian Gomez-Nguyen, Davide Pietropaoli, Annalisa Monaco, Paola Menghini, Fabio Cominelli\n \n                    TL1A and its receptor DR3 are key regulators of mucosal immune responses, but their role in periodontal disease is unknown. Herein, we investigated wheth",
+      "tag": "response"
+    },
+    {
+      "title": "A Novel Lytic Podovirus AP-20-A Infecting Sinorhizobium meliloti: Mosaic Genome with Cross-Phylum Homology and Implications for Inoculant Establishment",
+      "link": "https://doi.org/10.3390/ijms27125515",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/ijms27125515\nAuthors: Alexandra P. Kozlova, Marina L. Roumiantseva, Alla S. Saksaganskaia, Maria E. Vladimirova, Victoria S. Muntyan, Maria K. Gorbunova, Andrey N. Gorshkov\n This study characterizes AP-20-A, a lytic podovirus infecting Sinorhizobium meliloti, isolated from agricultural chernozem. Its 49.4 kbp genome shows neglig",
+      "tag": "analysis"
+    },
+    {
+      "title": "Consensus recommendations on clinical criteria for genetic screening of atypical hemolytic uremic syndrome in end-stage kidney disease patients listed for kidney transplantation: Insights from the United Arab Emirates (Emirates Medical Association Nephrology and Transplantation [EMAN-T] Society)",
+      "link": "https://openalex.org/W7165056455",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/rescon/vmag084\nAuthors: Mona AlRukhaimi, Ayman Almadani, Mohamed Hassan, Mohamed Alseiari, Shaikha Ali, Harith M. Saeed, Amna Khalifa Alhadri, R. Abou Ayache, Hassan Khammas Alyammahi, Hormaz Dastoor\nAbstract Background Atypical haemolytic uraemic syndrome (aHUS) is an uncommon complement-mediated thrombotic microangiopathy that often",
+      "tag": "analysis"
+    },
+    {
+      "title": "N-K Sciences International Publication: Complete Deterministic Molecular Structure — From Hemoglobin to Viruses, Bacteria, Toxins, and Enzymes",
+      "link": "https://openalex.org/W7165034465",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20726111\nAuthors: Muhammad Usman Malik\nZenodo Description for DOI: 10.5281/zenodo.20726111 Title: N-K Sciences International Publication: Complete Deterministic Molecular Structure — From Hemoglobin to Viruses, Bacteria, Toxins, and Enzymes Creators: · Usman, Malik Muhammad (ORCID: 0009-0004-3269-2918), Affiliation: N-K Universa",
+      "tag": "analysis"
+    },
+    {
+      "title": "Kyasanur Forest Disease: Advances in Experimental Animal Models, Immune Assays, and Challenges in Vaccine Development",
+      "link": "https://doi.org/10.1002/rmv.70177",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/rmv.70177\nAuthors: Sahina Sidhik, Zaigham Abbas Rizvi, Amit Awasthi\n ABSTRACT \n                   Kyasanur Forest Disease (KFD) is a tick‐borne viral haemorrhagic fever endemic to forested regions of South India, with case fatality rates ranging from 3% to 10% and seasonal outbreaks causing recurrent illne",
+      "tag": "analysis"
+    },
+    {
       "title": "Comparing conditional autoregressive models for Bayesian spatial mapping of dengue cases in Indonesia",
       "link": "https://doi.org/10.4081/gh.2026.1443",
       "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
@@ -384,45 +479,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Primary hydatid cyst of the abdominal wall: a case report and review of the literature",
-      "link": "https://doi.org/10.1097/rc9.0000000000000603",
+      "title": "Laudanosine restricts Ebola virus entry by targeting TPC2-dependent endolysosomal trafficking",
+      "link": "https://doi.org/10.64898/2026.06.17.732874",
       "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/rc9.0000000000000603\nAuthors: Soukayna Bourabaa, Yahia Zain-Al-Abidine Khedid\n \n                     Introduction: \n                     \n                      Hydatid disease is a parasitic infection caused by\n                       Echinococcus",
-      "tag": "analysis"
-    },
-    {
-      "title": "N-K Sciences International Publication: Complete Deterministic Molecular Structure — From Hemoglobin to Viruses, Bacteria, Toxins, and Enzymes",
-      "link": "https://openalex.org/W7165034465",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20726111\nAuthors: Muhammad Usman Malik\nZenodo Description for DOI: 10.5281/zenodo.20726111 Title: N-K Sciences International Publication: Complete Deterministic Molecular Structure — From Hemoglobin to Viruses, Bacteria, Toxins, and Enzymes Creators: · Usman, Malik Muhammad (ORCID: 0009-0004-3269-2918), Affiliation: N-K Universa",
-      "tag": "analysis"
-    },
-    {
-      "title": "A Novel Lytic Podovirus AP-20-A Infecting Sinorhizobium meliloti: Mosaic Genome with Cross-Phylum Homology and Implications for Inoculant Establishment",
-      "link": "https://doi.org/10.3390/ijms27125515",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/ijms27125515\nAuthors: Alexandra P. Kozlova, Marina L. Roumiantseva, Alla S. Saksaganskaia, Maria E. Vladimirova, Victoria S. Muntyan, Maria K. Gorbunova, Andrey N. Gorshkov\n This study characterizes AP-20-A, a lytic podovirus infecting Sinorhizobium meliloti, isolated from agricultural chernozem. Its 49.4 kbp genome shows neglig",
-      "tag": "analysis"
-    },
-    {
-      "title": "Kyasanur Forest Disease: Advances in Experimental Animal Models, Immune Assays, and Challenges in Vaccine Development",
-      "link": "https://doi.org/10.1002/rmv.70177",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/rmv.70177\nAuthors: Sahina Sidhik, Zaigham Abbas Rizvi, Amit Awasthi\n ABSTRACT \n                   Kyasanur Forest Disease (KFD) is a tick‐borne viral haemorrhagic fever endemic to forested regions of South India, with case fatality rates ranging from 3% to 10% and seasonal outbreaks causing recurrent illne",
-      "tag": "analysis"
-    },
-    {
-      "title": "TL1A/DR3 signaling deletion attenuates mucosal inflammation and alveolar bone loss in a murine model of spontaneous periodontitis",
-      "link": "https://doi.org/10.1073/pnas.2611178123",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1073/pnas.2611178123\nAuthors: Sara Di Nicolantonio, Maria R. Miranda, Adrian Gomez-Nguyen, Davide Pietropaoli, Annalisa Monaco, Paola Menghini, Fabio Cominelli\n \n                    TL1A and its receptor DR3 are key regulators of mucosal immune responses, but their role in periodontal disease is unknown. Herein, we investigated wheth",
-      "tag": "response"
-    },
-    {
-      "title": "Consensus recommendations on clinical criteria for genetic screening of atypical hemolytic uremic syndrome in end-stage kidney disease patients listed for kidney transplantation: Insights from the United Arab Emirates (Emirates Medical Association Nephrology and Transplantation [EMAN-T] Society)",
-      "link": "https://openalex.org/W7165056455",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/rescon/vmag084\nAuthors: Mona AlRukhaimi, Ayman Almadani, Mohamed Hassan, Mohamed Alseiari, Shaikha Ali, Harith M. Saeed, Amna Khalifa Alhadri, R. Abou Ayache, Hassan Khammas Alyammahi, Hormaz Dastoor\nAbstract Background Atypical haemolytic uraemic syndrome (aHUS) is an uncommon complement-mediated thrombotic microangiopathy that often",
+      "desc": "DOI: 10.64898/2026.06.17.732874\nAuthors: Tom Seitz, Julian Koengeter, Susanne Klute, Franziska Kraft, Denise Christine Clesle, Lily Tschampel, Nico Preising, Armando Alexei Rodríguez Alfonso, Sebastian Wiese, Ludger Ständker, Christoph Jung, Timo Jacob, Janet Köhler, Gilbert Weidinger, Nadine Biedenkopf, Konstantin Maria Johannes Sparrer, Frank Kir",
       "tag": "analysis"
     },
     {
@@ -608,31 +668,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Prevalence and detection of Brucella infection in people with fever of unknown origin in Inner Mongolia, China",
-      "link": "https://doi.org/10.3389/fcimb.2026.1838461",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fcimb.2026.1838461\nAuthors: Tianlong Zhang, Jing Li, Yan Hai, Zhen Wang, Mingmei Wang, Yingdi Wang, Ying Zhang, AiPing Qin, Jie Liu\n \n                     Background \n                     \n                      Brucellosis is a highly endemic zoonosis in Inner Mongolia, yet its contribution to und",
-      "tag": "analysis"
-    },
-    {
       "title": "Population immunity to hepatitis B virus and infection marker seroprevalence in Belgrade, Serbia",
       "link": "https://doi.org/10.3389/fpubh.2026.1819814",
       "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fpubh.2026.1819814\nAuthors: Anna Yu. Popova, Alesia Yu. Olkhovskaya, Luka Dragačević, Olga A. Petrova, Yulia V. Ostankova, Svetlana A. Egorova, Alexandr N. Schemelev, Marija Petrušić, Ekaterina V. Anufrieva, Anastasiya R. Ivanova, Irina V. Drozd, Ojuna B. Zhimbaeva, Darija K. Tepavcevic, Jelena Protić, Ekaterina M. Danilova, Angelica M",
-      "tag": "analysis"
-    },
-    {
-      "title": "The Negative Impact of Intellectual Property Protection on Vaccine Accessibility",
-      "link": "https://doi.org/10.4467/30718481cjl.26.003.23653",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.4467/30718481cjl.26.003.23653\nAuthors: Tamta Kenia\n This article examines the tension between intellectual property protection and vaccine accessibility, demonstrating how patent law and trade secret regimes impede equitable access to vaccines as global public goods. Through analysis of international legal frameworks and recent pande",
-      "tag": "analysis"
-    },
-    {
-      "title": "Characterisation of disease progression in hantavirus haemorrhagic fever with renal syndrome",
-      "link": "https://doi.org/10.64898/2026.06.15.26355676",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.15.26355676\nAuthors: Stuart Armstrong, Katarina Rus, Natasa Knap, Efthyvoulos Drousiotis, Claire Eyers, Iain E Buchan, Tatjana Avsic-Zupanc, Julian Alexander Hiscox, Misa Korva\n Hantaviruses can cause haemorrhagic fever with renal syndrome (HFRS). This is a clinically variable disease in which severe outcomes are hypoth",
       "tag": "analysis"
     },
     {
@@ -643,11 +682,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Sierra Leone’s Polydrug Crisis is an Epidemic of Structural Violence: Community Engagement During the Ebola Response May Offer a Viable Framework for Communication Interventions",
-      "link": "https://doi.org/10.1080/10810730.2026.2689086",
+      "title": "Characterisation of disease progression in hantavirus haemorrhagic fever with renal syndrome",
+      "link": "https://doi.org/10.64898/2026.06.15.26355676",
       "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1080/10810730.2026.2689086\nAuthors: Usman Bah, Shaunak Sastry",
-      "tag": "response"
+      "desc": "DOI: 10.64898/2026.06.15.26355676\nAuthors: Stuart Armstrong, Katarina Rus, Natasa Knap, Efthyvoulos Drousiotis, Claire Eyers, Iain E Buchan, Tatjana Avsic-Zupanc, Julian Alexander Hiscox, Misa Korva\n Hantaviruses can cause haemorrhagic fever with renal syndrome (HFRS). This is a clinically variable disease in which severe outcomes are hypoth",
+      "tag": "analysis"
     },
     {
       "title": "Rethinking the Central Dogma: Protein Amyloids acting as Transgenerational Epigenetic Memory Carriers",
@@ -685,11 +724,25 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "African Union High-Level Meeting mobilizes USD 910 million in pledges for Ebola Bundibugyo response in DRC and Uganda",
-      "link": "https://africacdc.org/news-item/african-union-high-level-meeting-mobilizes-usd-910-million-in-pledges-for-ebola-bundibugyo-response-in-drc-and-uganda/",
+      "title": "The Negative Impact of Intellectual Property Protection on Vaccine Accessibility",
+      "link": "https://doi.org/10.4467/30718481cjl.26.003.23653",
       "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "USD 80 million committed by African Member States as Africa CDC calls for rapid disbursement and urgent support to frontline responders \n\n\n\nBujumbura/Addis Ababa, 17 June 2026 – H.E. Évariste Ndayishimiye, President of the Republic of Burundi and Chairperson of the African Union, convened a High-Level Emergency Meeting of African Heads of St",
+      "desc": "DOI: 10.4467/30718481cjl.26.003.23653\nAuthors: Tamta Kenia\n This article examines the tension between intellectual property protection and vaccine accessibility, demonstrating how patent law and trade secret regimes impede equitable access to vaccines as global public goods. Through analysis of international legal frameworks and recent pande",
+      "tag": "analysis"
+    },
+    {
+      "title": "Sierra Leone’s Polydrug Crisis is an Epidemic of Structural Violence: Community Engagement During the Ebola Response May Offer a Viable Framework for Communication Interventions",
+      "link": "https://doi.org/10.1080/10810730.2026.2689086",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1080/10810730.2026.2689086\nAuthors: Usman Bah, Shaunak Sastry",
       "tag": "response"
+    },
+    {
+      "title": "Prevalence and detection of Brucella infection in people with fever of unknown origin in Inner Mongolia, China",
+      "link": "https://doi.org/10.3389/fcimb.2026.1838461",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fcimb.2026.1838461\nAuthors: Tianlong Zhang, Jing Li, Yan Hai, Zhen Wang, Mingmei Wang, Yingdi Wang, Ying Zhang, AiPing Qin, Jie Liu\n \n                     Background \n                     \n                      Brucellosis is a highly endemic zoonosis in Inner Mongolia, yet its contribution to und",
+      "tag": "analysis"
     },
     {
       "title": "Ebola Bundibugyo : l’Union africaine mobilise 910 millions de dollars et appelle à une riposte immédiate en RDC et en Ouganda",
@@ -699,10 +752,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Key factors for promoting protective behaviours in future pandemics: an umbrella review",
-      "link": "https://doi.org/10.1186/s13690-026-01948-6",
+      "title": "African Union High-Level Meeting mobilizes USD 910 million in pledges for Ebola Bundibugyo response in DRC and Uganda",
+      "link": "https://africacdc.org/news-item/african-union-high-level-meeting-mobilizes-usd-910-million-in-pledges-for-ebola-bundibugyo-response-in-drc-and-uganda/",
       "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s13690-026-01948-6\nAuthors: Aurélien Cornil, Sandrine Roussel, Marie Vander Haegen, Catherine Grenier, Dominique Vanpee, Stephan Van den Broucke\n Abstract \n                   \n                     Background \n                     The COVID-19 pandemic highlighted the critica",
+      "desc": "USD 80 million committed by African Member States as Africa CDC calls for rapid disbursement and urgent support to frontline responders \n\n\n\nBujumbura/Addis Ababa, 17 June 2026 – H.E. Évariste Ndayishimiye, President of the Republic of Burundi and Chairperson of the African Union, convened a High-Level Emergency Meeting of African Heads of St",
+      "tag": "response"
+    },
+    {
+      "title": "Beyond the Tip of the Iceberg: The Clinical Impact of Maternal Nonprimary Cytomegalovirus Infection",
+      "link": "https://doi.org/10.1097/inf.0000000000005311",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1097/inf.0000000000005311\nAuthors: Goni Peleg, Efraim Bilavsky, David Levy, Gabriel Chodick, Jacob Amir, Shani Levin, Michal Paret, Ilan Youngster, Roni Gur Lavy, Amir Klivitsky, Galia Grisaru-Soen, Diana Tasher, Zohar Steinberg Ben Zeev, Guy Katzenellenbogen, Meirav Sokolov, Nimrod Sachs\n \n                     Backgroun",
       "tag": "analysis"
     },
     {
@@ -713,10 +773,10 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Beyond the Tip of the Iceberg: The Clinical Impact of Maternal Nonprimary Cytomegalovirus Infection",
-      "link": "https://doi.org/10.1097/inf.0000000000005311",
+      "title": "Key factors for promoting protective behaviours in future pandemics: an umbrella review",
+      "link": "https://doi.org/10.1186/s13690-026-01948-6",
       "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/inf.0000000000005311\nAuthors: Goni Peleg, Efraim Bilavsky, David Levy, Gabriel Chodick, Jacob Amir, Shani Levin, Michal Paret, Ilan Youngster, Roni Gur Lavy, Amir Klivitsky, Galia Grisaru-Soen, Diana Tasher, Zohar Steinberg Ben Zeev, Guy Katzenellenbogen, Meirav Sokolov, Nimrod Sachs\n \n                     Backgroun",
+      "desc": "DOI: 10.1186/s13690-026-01948-6\nAuthors: Aurélien Cornil, Sandrine Roussel, Marie Vander Haegen, Catherine Grenier, Dominique Vanpee, Stephan Van den Broucke\n Abstract \n                   \n                     Background \n                     The COVID-19 pandemic highlighted the critica",
       "tag": "analysis"
     },
     {
@@ -731,48 +791,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1056/nejmp2607429",
       "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1056/nejmp2607429\nAuthors: Serge Tonen-Wolyec, Laurent Bélec",
-      "tag": "analysis"
-    },
-    {
-      "title": "Mapping power in community engagement: methodological reflections from health emergencies",
-      "link": "https://doi.org/10.1186/s12874-026-02905-1",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s12874-026-02905-1\nAuthors: Luisa Enria, Giulia Loffreda, Angus F. Tengbeh, Abass S. Kamara, Alie D. Timbo, Karin Diaconu, Sophie Witter\n Abstract \n                   Community engagement is increasingly seen as a key component of public health responses to health emergencies. Recent outbreaks, from Ebola",
-      "tag": "response"
-    },
-    {
-      "title": "METHODS FOR STUDYING THE SPREAD OF INFECTIOUS DISEASES",
-      "link": "https://openalex.org/W7164898052",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20719553\nAuthors: Hossein Rezazadeh, Erfan Fakouri, Benyamin Fazayeli Rad, Mohammadamin Hesamarefi, Reza Soltaninejad, Fahimeh Sadeghi zarandi\nThis comprehensive academic reference examines the full spectrum of methods used to study the spread of infectious diseases — from classical epidemiology to artificial intelligence. Spann",
-      "tag": "analysis"
-    },
-    {
-      "title": "Sistema Universal — Serie II Volumen 4: Epidemiología — Pandemias como Rupturas y la Inmunidad de Rebaño como Atractor Colectivo",
-      "link": "https://openalex.org/W7164930795",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20721519\nAuthors: ERICK OMAR SANTOS HERNANDEZ\nEste volumen, cuarto de la Serie II del Sistema Universal, desarrolla una teoría sistémica completa de la epidemiología, interpretando las pandemias como rupturas dinámicas y la inmunidad de rebaño como el atractor colectivo del sistema. El libro recorre la historia de la epidemiolog",
-      "tag": "analysis"
-    },
-    {
-      "title": "Development of Peptide Entry Inhibitors Targeting the Endosomal Receptor NPC1 Binding Site of Orthoebolavirus",
-      "link": "https://openalex.org/W7164910457",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/pathogens15060640\nAuthors: Leah Liu Wang, Kendra Alfson, J. J. Patten, Marc E. Mattix, Yenny Goez-Gazi, Sean N. Avedissian, Robert A. Davey, Ricardo Carrion, Shi-Hua Xiang\nOrthoebolavirus causes severe Ebola virus disease (EVD) and deadly outbreaks in humans. This infection occurs through macropinocytosis and trafficking to late endoso",
-      "tag": "analysis"
-    },
-    {
-      "title": "Orthohantavirus Infection Mimicking Acute Viral Hepatitis: An Underrecognized Clinical Presentation",
-      "link": "https://openalex.org/W7164944759",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/pathogens15060632\nAuthors: Francesco De Maria, Francesco Branda, Giancarlo Ceccarelli, Fabio Scarpa, Massimo Ciccozzi, Alessandro Russo\nOrthohantavirus infections are classically associated with hemorrhagic fever with renal syndrome (HFRS) in Eurasia and hantavirus cardiopulmonary syndrome (HCPS) in the Americas. However, accumulating",
-      "tag": "analysis"
-    },
-    {
-      "title": "Geographical distribution of <i>Hyalomma marginatum</i> Koch, 1844 in northwestern Spain from 2019 to 2024: A one health approach",
-      "link": "https://doi.org/10.1111/mve.70090",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/mve.70090\nAuthors: Inês Abreu Ramos, María Vilá Pena, David Boso Dafonte, Mercedes Camiña García, Ánxela Pousa Ortega, José Ángel Hernández Malagón, Cristiana Cazapal Monteiro, Inés Mato Naveira, Adolfo Paz Silva, Rita Sánchez‐Andrade Fernández, María Sol Arias Vázquez\n Abstract",
       "tag": "analysis"
     },
     {
@@ -808,6 +826,48 @@ window.FEED_DATA = {
       "link": "https://openalex.org/W7164894009",
       "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.5281/zenodo.20716062\nAuthors: Neha Singh*, Vishva Patel, Krinal Patel, Srusti Mistry, Vandan Patel\nCoronary Microvascular Angina (CMVA) is a chest pain which is caused by a blockage in the heart’s small blood vessels, even when the larger vessels are clear. In past times, it was referred as “Cardiac Syndrome X”. This condition is most commo",
+      "tag": "analysis"
+    },
+    {
+      "title": "METHODS FOR STUDYING THE SPREAD OF INFECTIOUS DISEASES",
+      "link": "https://openalex.org/W7164898052",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20719553\nAuthors: Hossein Rezazadeh, Erfan Fakouri, Benyamin Fazayeli Rad, Mohammadamin Hesamarefi, Reza Soltaninejad, Fahimeh Sadeghi zarandi\nThis comprehensive academic reference examines the full spectrum of methods used to study the spread of infectious diseases — from classical epidemiology to artificial intelligence. Spann",
+      "tag": "analysis"
+    },
+    {
+      "title": "Sistema Universal — Serie II Volumen 4: Epidemiología — Pandemias como Rupturas y la Inmunidad de Rebaño como Atractor Colectivo",
+      "link": "https://openalex.org/W7164930795",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20721519\nAuthors: ERICK OMAR SANTOS HERNANDEZ\nEste volumen, cuarto de la Serie II del Sistema Universal, desarrolla una teoría sistémica completa de la epidemiología, interpretando las pandemias como rupturas dinámicas y la inmunidad de rebaño como el atractor colectivo del sistema. El libro recorre la historia de la epidemiolog",
+      "tag": "analysis"
+    },
+    {
+      "title": "Development of Peptide Entry Inhibitors Targeting the Endosomal Receptor NPC1 Binding Site of Orthoebolavirus",
+      "link": "https://openalex.org/W7164910457",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/pathogens15060640\nAuthors: Leah Liu Wang, Kendra Alfson, J. J. Patten, Marc E. Mattix, Yenny Goez-Gazi, Sean N. Avedissian, Robert A. Davey, Ricardo Carrion, Shi-Hua Xiang\nOrthoebolavirus causes severe Ebola virus disease (EVD) and deadly outbreaks in humans. This infection occurs through macropinocytosis and trafficking to late endoso",
+      "tag": "analysis"
+    },
+    {
+      "title": "Orthohantavirus Infection Mimicking Acute Viral Hepatitis: An Underrecognized Clinical Presentation",
+      "link": "https://openalex.org/W7164944759",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/pathogens15060632\nAuthors: Francesco De Maria, Francesco Branda, Giancarlo Ceccarelli, Fabio Scarpa, Massimo Ciccozzi, Alessandro Russo\nOrthohantavirus infections are classically associated with hemorrhagic fever with renal syndrome (HFRS) in Eurasia and hantavirus cardiopulmonary syndrome (HCPS) in the Americas. However, accumulating",
+      "tag": "analysis"
+    },
+    {
+      "title": "Mapping power in community engagement: methodological reflections from health emergencies",
+      "link": "https://doi.org/10.1186/s12874-026-02905-1",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s12874-026-02905-1\nAuthors: Luisa Enria, Giulia Loffreda, Angus F. Tengbeh, Abass S. Kamara, Alie D. Timbo, Karin Diaconu, Sophie Witter\n Abstract \n                   Community engagement is increasingly seen as a key component of public health responses to health emergencies. Recent outbreaks, from Ebola",
+      "tag": "response"
+    },
+    {
+      "title": "Geographical distribution of <i>Hyalomma marginatum</i> Koch, 1844 in northwestern Spain from 2019 to 2024: A one health approach",
+      "link": "https://doi.org/10.1111/mve.70090",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1111/mve.70090\nAuthors: Inês Abreu Ramos, María Vilá Pena, David Boso Dafonte, Mercedes Camiña García, Ánxela Pousa Ortega, José Ángel Hernández Malagón, Cristiana Cazapal Monteiro, Inés Mato Naveira, Adolfo Paz Silva, Rita Sánchez‐Andrade Fernández, María Sol Arias Vázquez\n Abstract",
       "tag": "analysis"
     },
     {
@@ -1042,31 +1102,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Microneedle Arrays for Painless Vaccine Delivery: A Critical Review of Design, Immunological Mechanisms, and Clinical Progress",
-      "link": "https://openalex.org/W7164826649",
+      "title": "<b>A Single-Dose Bundibugyo Virus Vaccine Protects Macaques Within 3 Days</b>",
+      "link": "https://openalex.org/W7164815198",
       "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20699794\nAuthors: Manish Kumar2 Praveen Kumar1*\nAbstract Conventional hypodermic needle vaccination suffers from barriers of needle phobia, sharps-waste generation, cold-chain dependence and reliance on trained personnel that together undermine global immunization equity. Microneedle arrays (MNAs) are a revolutionary intradermal",
-      "tag": "analysis"
+      "desc": "DOI: 10.6084/m9.figshare.32671326.v1\nAuthors: Andrea Marzi\nBundibugyo virus (BDBV), a member of the orthoebolaviruses in the  Filoviridae  family, causes severe hemorrhagic disease with high case-fatality rates. Currently, there are no medical countermeasures approved for human use hampering the response to the large ongoing outbreak in the De",
+      "tag": "response"
     },
     {
       "title": "Proliferative and granulomatous ileitis in a pig naturally infected with Lawsonia intracellularis",
       "link": "https://doi.org/10.1186/s40813-026-00528-y",
       "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1186/s40813-026-00528-y\nAuthors: Dávid Géza Horváth, Sonja Jeckel, Joaquim Segalés, Bernat Martí-Garcia\n Abstract \n                   \n                     Background \n                     \n                      Granulomatous enteritis in pigs is mostly associated with porcine ci",
-      "tag": "analysis"
-    },
-    {
-      "title": "<scp>PACS</scp> ‐1 unlocked: How a single mutation disrupts intramolecular regulation to drive neurodevelopmental disease",
-      "link": "https://doi.org/10.1111/febs.70613",
-      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/febs.70613\nAuthors: Nadia Izadi‐Pruneyre\n \n                    Rare monogenic disorders provide powerful insights into fundamental cell biology. PACS1 syndrome is a striking example of this: a neurodevelopmental disorder, caused almost exclusively by a single missense mutation in the\n                     PACS1</jats:",
-      "tag": "analysis"
-    },
-    {
-      "title": "Pourquoi les survivants d’Ebola ont leur place à la table des décisions",
-      "link": "https://doi.org/10.1038/d44148-026-00159-z",
-      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/d44148-026-00159-z\nAuthors: Katherina  Thomas, Barthalomew  Wilson, Louise  Sigfrid, Olive  Kabajaasi, Shevin T.  Jacob",
       "tag": "analysis"
     },
     {
@@ -1098,6 +1144,20 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Pourquoi les survivants d’Ebola ont leur place à la table des décisions",
+      "link": "https://doi.org/10.1038/d44148-026-00159-z",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/d44148-026-00159-z\nAuthors: Katherina  Thomas, Barthalomew  Wilson, Louise  Sigfrid, Olive  Kabajaasi, Shevin T.  Jacob",
+      "tag": "analysis"
+    },
+    {
+      "title": "Microneedle Arrays for Painless Vaccine Delivery: A Critical Review of Design, Immunological Mechanisms, and Clinical Progress",
+      "link": "https://openalex.org/W7164826649",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20699794\nAuthors: Manish Kumar2 Praveen Kumar1*\nAbstract Conventional hypodermic needle vaccination suffers from barriers of needle phobia, sharps-waste generation, cold-chain dependence and reliance on trained personnel that together undermine global immunization equity. Microneedle arrays (MNAs) are a revolutionary intradermal",
+      "tag": "analysis"
+    },
+    {
       "title": "Bundibugyo Ebola without vaccines or therapeutics: why public health fundamentals matter more than border closures",
       "link": "https://africacdc.org/news-item/bundibugyo-ebola-without-vaccines-or-therapeutics-why-public-health-fundamentals-matter-more-than-border-closures/",
       "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
@@ -1112,11 +1172,11 @@ window.FEED_DATA = {
       "tag": "pheic"
     },
     {
-      "title": "<b>A Single-Dose Bundibugyo Virus Vaccine Protects Macaques Within 3 Days</b>",
-      "link": "https://openalex.org/W7164815198",
+      "title": "<scp>PACS</scp> ‐1 unlocked: How a single mutation disrupts intramolecular regulation to drive neurodevelopmental disease",
+      "link": "https://doi.org/10.1111/febs.70613",
       "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.6084/m9.figshare.32671326.v1\nAuthors: Andrea Marzi\nBundibugyo virus (BDBV), a member of the orthoebolaviruses in the  Filoviridae  family, causes severe hemorrhagic disease with high case-fatality rates. Currently, there are no medical countermeasures approved for human use hampering the response to the large ongoing outbreak in the De",
-      "tag": "response"
+      "desc": "DOI: 10.1111/febs.70613\nAuthors: Nadia Izadi‐Pruneyre\n \n                    Rare monogenic disorders provide powerful insights into fundamental cell biology. PACS1 syndrome is a striking example of this: a neurodevelopmental disorder, caused almost exclusively by a single missense mutation in the\n                     PACS1</jats:",
+      "tag": "analysis"
     },
     {
       "title": "Hantavirus Infections: Emerging Epidemiological and Therapeutic Challenges, Epidemiology, Pathogenesis, Diagnosis and Management",
@@ -1140,39 +1200,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Why Ebola survivors belong at the decision-making table",
-      "link": "https://doi.org/10.1038/d44148-026-00158-0",
-      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/d44148-026-00158-0\nAuthors: Katherina  Thomas, Barthalomew  Wilson, Louise  Sigfrid, Olive  Kabajaasi, Shevin T.  Jacob",
-      "tag": "analysis"
-    },
-    {
       "title": "Clinical case of aplastic anemia",
       "link": "https://doi.org/10.17116/rbpdpm2026302147",
       "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.17116/rbpdpm2026302147\nAuthors: A.G. Khrykova, E.V. Filatova, I.I. Ivanova\n Aplastic anemia is a rare disease of the hematopoietic system characterized by suppression of all hematopoietic growths and replacement of bone marrow with fatty tissue. Annual incidence is 2—3 cases per 1 million people in Europe and America, 7—9 cases per 1",
       "tag": "cases"
-    },
-    {
-      "title": "What types of tests are most relevant for evaluating the progression of different types of infections?",
-      "link": "https://openalex.org/W7164808001",
-      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20700404\nAuthors: Tripdatabase\nTesting methods vary by infection type, including biomarker assays for sepsis and molecular tests for viral diseases like Ebola. Advances in diagnostics enable better infection progression evaluation, but limitations in accuracy and accessibility persist.",
-      "tag": "analysis"
-    },
-    {
-      "title": "What the hantavirus and Ebola outbreaks tell us about pandemic preparedness",
-      "link": "https://doi.org/10.1038/d44151-026-00116-7",
-      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/d44151-026-00116-7\nAuthors: Shahid Jameel",
-      "tag": "response"
-    },
-    {
-      "title": "Sleep regularity outweighs sleep duration as a predictor of disease",
-      "link": "https://doi.org/10.64898/2026.06.15.26355648",
-      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.15.26355648\nAuthors: Daniel P Windred, Angus C Burns, Amy Reynolds, Kelly Sansom, Bastien C Lechat, Hannah Scott, Robert Adams, Dorothee Steven, Richa Saxena, Martin Rutter, Frank AJL Scheer, Sean W. Cain, Andrew J. K. Phillips\n Sleep regularity, the consistency of sleep-wake timing from one day to the next, is more str",
-      "tag": "analysis"
     },
     {
       "title": "A Case of Animal Hoarding and Neglect in Bangkok, Thailand: Application of the TRACE Model in Veterinary Forensic Investigation",
@@ -1187,6 +1219,34 @@ window.FEED_DATA = {
       "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1159/000553130\nAuthors: Minami Matsumoto, Shinya Yamamoto, Kanna Shinkawa, Takeshi Matsubara, June Takeda, Toshio Kitawaki, Yasuyuki Arai, Yuki Teramoto, Sachiko Minamiguchi, Yukiko Kanetsuna, Kensuke Joh, Yutaka Yamaguchi, Dedong Kang, Kazuho Honda, Akiko Mii, Akira Shimizu, Yoshifumi Ubara, Motoko Yanagita\n Lysozyme-associated neph",
       "tag": "cases"
+    },
+    {
+      "title": "Sleep regularity outweighs sleep duration as a predictor of disease",
+      "link": "https://doi.org/10.64898/2026.06.15.26355648",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.15.26355648\nAuthors: Daniel P Windred, Angus C Burns, Amy Reynolds, Kelly Sansom, Bastien C Lechat, Hannah Scott, Robert Adams, Dorothee Steven, Richa Saxena, Martin Rutter, Frank AJL Scheer, Sean W. Cain, Andrew J. K. Phillips\n Sleep regularity, the consistency of sleep-wake timing from one day to the next, is more str",
+      "tag": "analysis"
+    },
+    {
+      "title": "Why Ebola survivors belong at the decision-making table",
+      "link": "https://doi.org/10.1038/d44148-026-00158-0",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/d44148-026-00158-0\nAuthors: Katherina  Thomas, Barthalomew  Wilson, Louise  Sigfrid, Olive  Kabajaasi, Shevin T.  Jacob",
+      "tag": "analysis"
+    },
+    {
+      "title": "What types of tests are most relevant for evaluating the progression of different types of infections?",
+      "link": "https://openalex.org/W7164808001",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20700404\nAuthors: Tripdatabase\nTesting methods vary by infection type, including biomarker assays for sepsis and molecular tests for viral diseases like Ebola. Advances in diagnostics enable better infection progression evaluation, but limitations in accuracy and accessibility persist.",
+      "tag": "analysis"
+    },
+    {
+      "title": "What the hantavirus and Ebola outbreaks tell us about pandemic preparedness",
+      "link": "https://doi.org/10.1038/d44151-026-00116-7",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/d44151-026-00116-7\nAuthors: Shahid Jameel",
+      "tag": "response"
     },
     {
       "title": "Molecular surveillance and predictive risk modelling of avian influenza virus in wild birds in Egypt",
@@ -1406,41 +1466,6 @@ window.FEED_DATA = {
       "tag": "pheic"
     },
     {
-      "title": "Virome-antibodiome association studies (VAAS) reveal tick-borne risk viruses in Northeast China",
-      "link": "https://doi.org/10.21203/rs.3.rs-9896868/v1",
-      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-9896868/v1\nAuthors: Biao He, Yuhang Liu, Shuai Li, Yutian Wang, Le Yi, Zhongzhong Tu, Lu Qiu, Dongmei Zhao, Xiaomin Yan, Yehong Wu, Changchun Tu\n Abstract \n                 Northeast China constitutes a classic natural epidemic focus of tick-borne diseases, where frequent emergence of infection with unknown tick",
-      "tag": "analysis"
-    },
-    {
-      "title": "La RDC et l’Ouganda consolident leur coopération transfrontalière pour une riposte plus efficace",
-      "link": "https://insp.cd/la-rdc-et-louganda-consolident-leur-cooperation-transfrontaliere-pour-une-riposte-plus-efficace/",
-      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "juin 15, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nLa réunion bilatérale de collaboration transfrontalière de deux jours entre la République démocratique du Congo (RDC) et l’Ouganda s’est tenue dans le cadre du suivi des recommandations d",
-      "tag": "analysis"
-    },
-    {
-      "title": "Bundibugyo en RDC: 10 enseignements du partage d'expérience face à Ebola",
-      "link": "https://doi.org/10.59350/f4v3k-frg41",
-      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.59350/f4v3k-frg41\nAuthors: Reda Sadki\n KINSHASA, samedi 13 juin 2026. Pendant deux heures, 55 Scholars congolais de la Fondation Apprendre Genève ont tenu, en visioconférence, une réunion de partage d'expérience sur la riposte à la maladie à virus Ebola, souche Bundibugyo, qui circule depuis le mois précédent à l'est du pays. La séan",
-      "tag": "analysis"
-    },
-    {
-      "title": "A Single-Dose Bundibugyo Virus Vaccine Protects Macaques Within 3 Days",
-      "link": "https://doi.org/10.64898/2026.06.14.732188",
-      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.14.732188\nAuthors: Kyle L O'Donnell, Jil A Haase, Corey W Henderson, B Ryder Gathright, Paige Fletcher, Joseph F Rhoderick, Chad S Clancy, Shilpi Jain, Cesar Albarino, Brian J Smith, Andrea Marzi\n Bundibugyo virus (BDBV), a member of the orthoebolaviruses in the Filoviridae family, causes severe hemorrhagic disease with",
-      "tag": "analysis"
-    },
-    {
-      "title": "Egypt Joins African Pooled Procurement Mechanism (APPM)",
-      "link": "https://africacdc.org/news-item/egypt-joins-african-pooled-procurement-mechanism-appm/",
-      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "Cairo, Arab Republic of Egypt – 15 June 2026 – The Arab Republic of Egypt has become the first African Union (AU) Member State to formally join the African Pooled Procurement Mechanism (APPM), signing the APPM Memorandum of Understanding (MoU) during the opening ceremony of Africa Health ExCon 2026 in Cairo. The Africa Health ExCon provided",
-      "tag": "analysis"
-    },
-    {
       "title": "Association between deployment and Gulf War Illness and adverse COVID outcomes in a nationwide cohort of 1990–1991 Gulf Era war veterans in the VA’s Million Veteran Program",
       "link": "https://doi.org/10.1371/journal.pone.0348594",
       "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
@@ -1462,31 +1487,38 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Health Communication Strategies in Dengue Fever Prevention at Wonokusumo Health Center Surabaya",
-      "link": "https://doi.org/10.56480/jln.v6i2.71",
+      "title": "Bundibugyo en RDC: 10 enseignements du partage d'expérience face à Ebola",
+      "link": "https://doi.org/10.59350/f4v3k-frg41",
       "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.56480/jln.v6i2.71\nAuthors: Satrio Bagas Prakoso, Moh Agung Kurniawan\n This study aims to analyze the implementation of health communication strategies as well as the supporting and inhibiting factors affecting communication effectiveness in the Dengue Hemorrhagic Fever (DHF) prevention program at the Wonokusumo Community Health Cente",
+      "desc": "DOI: 10.59350/f4v3k-frg41\nAuthors: Reda Sadki\n KINSHASA, samedi 13 juin 2026. Pendant deux heures, 55 Scholars congolais de la Fondation Apprendre Genève ont tenu, en visioconférence, une réunion de partage d'expérience sur la riposte à la maladie à virus Ebola, souche Bundibugyo, qui circule depuis le mois précédent à l'est du pays. La séan",
       "tag": "analysis"
     },
     {
-      "title": "Health implications of Ebola and COVID-19 response strategies in Africa for Mpox control",
-      "link": "https://doi.org/10.1186/s12982-026-02332-z",
+      "title": "La RDC et l’Ouganda consolident leur coopération transfrontalière pour une riposte plus efficace",
+      "link": "https://insp.cd/la-rdc-et-louganda-consolident-leur-cooperation-transfrontaliere-pour-une-riposte-plus-efficace/",
       "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s12982-026-02332-z\nAuthors: Peter Olaniyi, Danladi Nengak Precious, Oluwatimilehin Oladapo, Oto Peter Ode, Favour Orunchukwu Meye, Promise Oladejo, Praise Ogunleke, Adekemi Adetunji, Rebecca Adeyemo",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola en RDC: les citations les plus marquantes issues du terrain face au virus Bundibugyo",
-      "link": "https://doi.org/10.59350/v60ca-4vk41",
-      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.59350/v60ca-4vk41\nAuthors: Reda Sadki\n KINSHASA, samedi 13 juin 2026. Les phrases qui suivent sont tirées de la séance de partage d'expérience tenue par cinquante-cinq Scholars congolais de la Fondation Apprendre Genève sur la riposte à la maladie à virus Ebola, souche Bundibugyo.",
+      "desc": "juin 15, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nLa réunion bilatérale de collaboration transfrontalière de deux jours entre la République démocratique du Congo (RDC) et l’Ouganda s’est tenue dans le cadre du suivi des recommandations d",
       "tag": "analysis"
     },
     {
-      "title": "Virus Bundibugyo: un réseau de soignants congolais tissent des liens de riposte et de résilience",
-      "link": "https://doi.org/10.59350/qra6m-c2190",
+      "title": "Virome-antibodiome association studies (VAAS) reveal tick-borne risk viruses in Northeast China",
+      "link": "https://doi.org/10.21203/rs.3.rs-9896868/v1",
       "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.59350/qra6m-c2190\nAuthors: Reda Sadki\n KINSHASA et BUKAVU, samedi 13 juin 2026. Cinquante-cinq soignants et cadres de santé congolais se retrouvent en visioconférence p our deux heures. Ils ont préparé la séance pendant trois semaines. Le sujet, l'épidémie de maladie à virus Ebola, souche Bundibugyo, qui circule depuis le mois précéd",
+      "desc": "DOI: 10.21203/rs.3.rs-9896868/v1\nAuthors: Biao He, Yuhang Liu, Shuai Li, Yutian Wang, Le Yi, Zhongzhong Tu, Lu Qiu, Dongmei Zhao, Xiaomin Yan, Yehong Wu, Changchun Tu\n Abstract \n                 Northeast China constitutes a classic natural epidemic focus of tick-borne diseases, where frequent emergence of infection with unknown tick",
+      "tag": "analysis"
+    },
+    {
+      "title": "A Single-Dose Bundibugyo Virus Vaccine Protects Macaques Within 3 Days",
+      "link": "https://doi.org/10.64898/2026.06.14.732188",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.14.732188\nAuthors: Kyle L O'Donnell, Jil A Haase, Corey W Henderson, B Ryder Gathright, Paige Fletcher, Joseph F Rhoderick, Chad S Clancy, Shilpi Jain, Cesar Albarino, Brian J Smith, Andrea Marzi\n Bundibugyo virus (BDBV), a member of the orthoebolaviruses in the Filoviridae family, causes severe hemorrhagic disease with",
+      "tag": "analysis"
+    },
+    {
+      "title": "Egypt Joins African Pooled Procurement Mechanism (APPM)",
+      "link": "https://africacdc.org/news-item/egypt-joins-african-pooled-procurement-mechanism-appm/",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
+      "desc": "Cairo, Arab Republic of Egypt – 15 June 2026 – The Arab Republic of Egypt has become the first African Union (AU) Member State to formally join the African Pooled Procurement Mechanism (APPM), signing the APPM Memorandum of Understanding (MoU) during the opening ceremony of Africa Health ExCon 2026 in Cairo. The Africa Health ExCon provided",
       "tag": "analysis"
     },
     {
@@ -1501,6 +1533,20 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1186/s43162-026-00659-2",
       "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1186/s43162-026-00659-2\nAuthors: Amr Saad, Haitham A Hashim\n Abstract \n                   The ongoing 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda has renewed global concern regarding the threat of ebolaviruses. Ebola virus disease is one of the most lethal viral hem",
+      "tag": "analysis"
+    },
+    {
+      "title": "Virus Bundibugyo: un réseau de soignants congolais tissent des liens de riposte et de résilience",
+      "link": "https://doi.org/10.59350/qra6m-c2190",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.59350/qra6m-c2190\nAuthors: Reda Sadki\n KINSHASA et BUKAVU, samedi 13 juin 2026. Cinquante-cinq soignants et cadres de santé congolais se retrouvent en visioconférence p our deux heures. Ils ont préparé la séance pendant trois semaines. Le sujet, l'épidémie de maladie à virus Ebola, souche Bundibugyo, qui circule depuis le mois précéd",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola en RDC: les citations les plus marquantes issues du terrain face au virus Bundibugyo",
+      "link": "https://doi.org/10.59350/v60ca-4vk41",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.59350/v60ca-4vk41\nAuthors: Reda Sadki\n KINSHASA, samedi 13 juin 2026. Les phrases qui suivent sont tirées de la séance de partage d'expérience tenue par cinquante-cinq Scholars congolais de la Fondation Apprendre Genève sur la riposte à la maladie à virus Ebola, souche Bundibugyo.",
       "tag": "analysis"
     },
     {
@@ -1522,6 +1568,20 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1186/s12887-026-07000-4",
       "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1186/s12887-026-07000-4\nAuthors: Henrik Hillerdal, Malin Lager, Anna Grankvist, Kenneth Nilsson, Christine Wennerås, Anna J Henningsson, Barbro H Skogman\n Abstract \n                   \n                     Background \n                     There is an increasing amount of reported",
+      "tag": "analysis"
+    },
+    {
+      "title": "Health implications of Ebola and COVID-19 response strategies in Africa for Mpox control",
+      "link": "https://doi.org/10.1186/s12982-026-02332-z",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s12982-026-02332-z\nAuthors: Peter Olaniyi, Danladi Nengak Precious, Oluwatimilehin Oladapo, Oto Peter Ode, Favour Orunchukwu Meye, Promise Oladejo, Praise Ogunleke, Adekemi Adetunji, Rebecca Adeyemo",
+      "tag": "response"
+    },
+    {
+      "title": "Health Communication Strategies in Dengue Fever Prevention at Wonokusumo Health Center Surabaya",
+      "link": "https://doi.org/10.56480/jln.v6i2.71",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.56480/jln.v6i2.71\nAuthors: Satrio Bagas Prakoso, Moh Agung Kurniawan\n This study aims to analyze the implementation of health communication strategies as well as the supporting and inhibiting factors affecting communication effectiveness in the Dengue Hemorrhagic Fever (DHF) prevention program at the Wonokusumo Community Health Cente",
       "tag": "analysis"
     },
     {
@@ -1686,6 +1746,20 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
+      "title": "Encapsulated Clues: Exosomal MicroRNAs in Postmortem Body Fluids for Cause of Death Diagnosis and Postmortem Interval Estimation – A Systematic Scoping Review",
+      "link": "https://doi.org/10.4103/sjfms.sjfms_9_25",
+      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.4103/sjfms.sjfms_9_25\nAuthors: Abdulkreem Abdullah Al-Juhani, Naif Aljohani, Omar Oudah Aljohani, Ibrahim Abdullah Almutairi, Abdulelah Faiz Alasmari, Muhannad Khaled Badghaish\n Abstract \n                   Molecular markers such as exosome-associated microRNAs (miRNAs) may be stable and disease-specific in pos",
+      "tag": "analysis"
+    },
+    {
+      "title": "Mathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis",
+      "link": "https://openalex.org/W7164480659",
+      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20670204\nAuthors: Flávio Codeço Coelho\nMathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis EpidBot Analysis Report | May 31, 2026 Table of Contents Executive Summary Model Structure: SEIR-B Framework Parameter Estimation and Calibration Scenario Anal",
+      "tag": "analysis"
+    },
+    {
       "title": "LIVER BIOPSY IN MODERN CLINICAL PRACTICE: INDICATIONS, METHODS AND SAFETY",
       "link": "https://doi.org/10.17816/clinpract699338",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
@@ -1714,6 +1788,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Mathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis",
+      "link": "https://openalex.org/W7164544027",
+      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20670205\nAuthors: Flávio Codeço Coelho\nMathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis EpidBot Analysis Report | May 31, 2026 Table of Contents Executive Summary Model Structure: SEIR-B Framework Parameter Estimation and Calibration Scenario Anal",
+      "tag": "analysis"
+    },
+    {
       "title": "Single and combined use of the platelet–lymphocyte ratio and neutrophil–lymphocyte ratio in hemorrhagic fever with renal syndrome",
       "link": "https://europepmc.org/article/PMC/PMC13259994",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
@@ -1728,24 +1809,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Mathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis",
-      "link": "https://openalex.org/W7164544027",
+      "title": "Le Ministère de la Santé à travers l’INSP dément les rumeurs de confinement et appelle à la vigilance face à la désinformation.",
+      "link": "https://insp.cd/le-ministere-de-la-sante-a-travers-linsp-dement-les-rumeurs-de-confinement-et-appelle-a-la-vigilance-face-a-la-desinformation/",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20670205\nAuthors: Flávio Codeço Coelho\nMathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis EpidBot Analysis Report | May 31, 2026 Table of Contents Executive Summary Model Structure: SEIR-B Framework Parameter Estimation and Calibration Scenario Anal",
-      "tag": "analysis"
-    },
-    {
-      "title": "Encapsulated Clues: Exosomal MicroRNAs in Postmortem Body Fluids for Cause of Death Diagnosis and Postmortem Interval Estimation – A Systematic Scoping Review",
-      "link": "https://doi.org/10.4103/sjfms.sjfms_9_25",
-      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.4103/sjfms.sjfms_9_25\nAuthors: Abdulkreem Abdullah Al-Juhani, Naif Aljohani, Omar Oudah Aljohani, Ibrahim Abdullah Almutairi, Abdulelah Faiz Alasmari, Muhannad Khaled Badghaish\n Abstract \n                   Molecular markers such as exosome-associated microRNAs (miRNAs) may be stable and disease-specific in pos",
-      "tag": "analysis"
-    },
-    {
-      "title": "Mathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis",
-      "link": "https://openalex.org/W7164480659",
-      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20670204\nAuthors: Flávio Codeço Coelho\nMathematical Epidemic Model for Ebola Virus Disease in the Democratic Republic of the Congo: SEIR-B Framework for Scenario Analysis EpidBot Analysis Report | May 31, 2026 Table of Contents Executive Summary Model Structure: SEIR-B Framework Parameter Estimation and Calibration Scenario Anal",
+      "desc": "juin 13, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nKinshasa, 13 juin 2026. Le Ministère de la Santé Publique, Hygiène et Prévoyance Sociale à travers l’INSP tient à rassurer l’ensemble de la population congolaise face aux informations err",
       "tag": "analysis"
     },
     {
@@ -1753,13 +1820,6 @@ window.FEED_DATA = {
       "link": "https://openalex.org/W7164478714",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.6084/m9.figshare.32657186.v1\nAuthors: Shilpi Jain, Stéphane Marot, Elif Karaaslan, Mohammad M. Sajadi, Nurcan Baykam, Derya Yapar, Trevor Shoemaker, Joel M. Montgomery, Christina F. Spiropoulou, César G. Albariño, Éric Bergeron\nOrthonairoviruses are rapidly emerging, tick-borne viruses including Crimean Congo hemorrhagic fever virus (CCHFV)",
-      "tag": "analysis"
-    },
-    {
-      "title": "Le Ministère de la Santé à travers l’INSP dément les rumeurs de confinement et appelle à la vigilance face à la désinformation.",
-      "link": "https://insp.cd/le-ministere-de-la-sante-a-travers-linsp-dement-les-rumeurs-de-confinement-et-appelle-a-la-vigilance-face-a-la-desinformation/",
-      "pubDate": "Sat, 13 Jun 2026 00:00:00 Z",
-      "desc": "juin 13, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nKinshasa, 13 juin 2026. Le Ministère de la Santé Publique, Hygiène et Prévoyance Sociale à travers l’INSP tient à rassurer l’ensemble de la population congolaise face aux informations err",
       "tag": "analysis"
     },
     {
@@ -1817,28 +1877,14 @@ window.FEED_DATA = {
       "pubDate": "Fri, 12 Jun 2026 20:58:00 Z",
       "desc": "The number of confirmed cases in the growing Ebola outbreak in the Democratic Republic of the Congo (DRC) has risen to 676, including 136 deaths, as health officials warn it’s likely to get worse.Among the dead are two victims who were living in a displacement camp in eastern DRC, which has been plagued by conflict between the government and rebel",
       "tag": "cases"
-    },
-    {
-      "title": "Ebola strains coffee supply chains, with smallholders most at risk",
-      "link": "https://www.dairyreporter.com/Article/2026/06/12/uganda-ebola-outbreak-risks-to-coffee-trade-and-smallholder-farmers/",
-      "pubDate": "Fri, 12 Jun 2026 19:40:00 Z",
-      "desc": "In an interview with this publication, Alhassan Karakara, Associate Professor and Head of the Department of Applied Economics at the School of Economics at the University of Cape Coast (UCC) in Ghana, said restrictions imposed in Uganda to contain the Ebola outbreak mirror the situation during the pandemic.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Precautionary Guidance for the Ebola Virus",
-      "link": "https://www.gov.bm/articles/precautionary-guidance-ebola-virus",
-      "pubDate": "Fri, 12 Jun 2026 19:19:00 Z",
-      "desc": "Mr. Speaker, I rise this morning to provide an update to this Honorable House and to members of the public on the status of the Ebola Virus Disease and its relevance to Bermuda. On May 17, 2026, the World Health Organization declared Ebola Virus Disease a Public Health Emergency of International....",
-      "tag": "pheic"
     }
   ],
   "highWater": {
     "drc": {
       "deaths": {
-        "value": 136,
-        "asOf": "2026-06-15T20:19:16Z",
-        "source": "WHO Disease Outbreak News"
+        "value": 202,
+        "asOf": "2026-06-19T08:47:22Z",
+        "source": "INRB MVE Sitrep"
       },
       "confirmed_deaths": {
         "value": 60,
@@ -1851,9 +1897,9 @@ window.FEED_DATA = {
         "source": "WHO / OMS"
       },
       "confirmed": {
-        "value": 676,
-        "asOf": "2026-06-15T20:19:16Z",
-        "source": "WHO Disease Outbreak News"
+        "value": 875,
+        "asOf": "2026-06-19T08:47:22Z",
+        "source": "INRB MVE Sitrep"
       },
       "active": {
         "value": 13,
