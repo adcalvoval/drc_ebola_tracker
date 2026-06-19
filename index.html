@@ -799,7 +799,13 @@ function toggleUga() {
 // Properties: nom (string), province (string), zscode (string).
 
 // INRB sitrep name → GeoJSON canonical nom (only where they differ)
-const HZ_NAME_ALIASES = { mongbwalu: 'Mongbalu', nyankunde: 'Nyakunde', gety: 'Gethy' };
+const HZ_NAME_ALIASES = {
+  mongbwalu:    'Mongbalu',
+  nyankunde:    'Nyakunde',
+  gety:         'Gethy',
+  'miti-murhesa': 'Miti-Murhesa',
+  'nia-nia':    'Nia-Nia',
+};
 
 function hzNom(feedKey) {
   const k = feedKey.toLowerCase();
@@ -909,7 +915,7 @@ function initHealthZoneLayer() {
     return;
   }
 
-  fetch('data/drc_affected_health_zones.geojson')
+  fetch('data/drc_affected_health_zones.geojson?v=2')
     .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(data => {
       hzGeoJSON = data;

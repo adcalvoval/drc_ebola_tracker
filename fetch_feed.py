@@ -718,6 +718,25 @@ def merge_inrb_stats(stats, inrb_data):
         if field in drc:
             stats.setdefault('drc', {})[field] = drc[field]
 
+    # Roll up zone-level counts to province totals so province popups show real numbers
+    _NK_ZONES = {'Butembo', 'Katwa', 'Beni', 'Oicha', 'Kyondo', 'Kalunguta',
+                 'Masereka', 'Vuhovi', 'Mabalako', 'Musienene', 'Goma'}
+    _SK_ZONES = {'Miti-Murhesa'}
+    hz = drc.get('topHealthZones', {})
+    if hz:
+        nk = sum(hz.get(z, 0) for z in _NK_ZONES)
+        sk = sum(hz.get(z, 0) for z in _SK_ZONES)
+        if nk > 0:
+            prov_nk = stats.setdefault('provinces', {}).setdefault('northKivu', {})
+            prov_nk['confirmed'] = nk
+            prov_nk['sourceWeight'] = 5
+            prov_nk['source'] = src
+        if sk > 0:
+            prov_sk = stats.setdefault('provinces', {}).setdefault('southKivu', {})
+            prov_sk['confirmed'] = sk
+            prov_sk['sourceWeight'] = 5
+            prov_sk['source'] = src
+
     inrb_tier = {f: drc[f] for f in ('confirmed', 'deaths', 'suspected', 'recovered') if f in drc}
     if inrb_tier:
         stats.setdefault('drcTiers', {})['inrb'] = inrb_tier
