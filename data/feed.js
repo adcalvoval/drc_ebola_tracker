@@ -1,12 +1,12 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 18 Jun 2026 22:56:37 Z",
-  "fetchedAt": "2026-06-18T22:56:38Z",
+  "lastBuildDate": "Fri, 19 Jun 2026 04:40:36 Z",
+  "fetchedAt": "2026-06-19T04:40:36Z",
   "itemCount": 250,
   "stats": {
     "drc": {
-      "deaths": 136,
       "confirmed": 676,
+      "deaths": 136,
       "recovered": 32,
       "zonesAffected": 29,
       "topHealthZones": {
@@ -19,11 +19,11 @@ window.FEED_DATA = {
       "contacts": 5768
     },
     "drcMeta": {
-      "deaths": {
+      "confirmed": {
         "tier": 4,
         "src": "2026-DON607 (as of 10 June 2026)"
       },
-      "confirmed": {
+      "deaths": {
         "tier": 4,
         "src": "2026-DON607 (as of 10 June 2026)"
       },
@@ -33,16 +33,13 @@ window.FEED_DATA = {
       }
     },
     "drcTiers": {
-      "moh": {
-        "deaths": 181
-      },
       "cdc": {
         "deaths": 204,
         "suspected": 894
       },
       "media": {
         "confirmed": 837,
-        "suspected": 9,
+        "suspected": 2,
         "deaths": 196
       },
       "whoDon": {
@@ -85,6 +82,13 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "US CDC activates $107 million in emergency funding for Ebola response",
+      "link": "https://health.economictimes.indiatimes.com/news/industry/us-cdc-activates-107-million-in-emergency-funding-for-ebola-response/131844240",
+      "pubDate": "Fri, 19 Jun 2026 01:45:00 Z",
+      "desc": "Washington: The U.S. Centers for Disease Control and Prevention said on Thursday it would make available $107 million in emergency funding to strengthen its domestic and international response to the Ebola outbreak in the\n\nand Uganda. The agency currently has 23 field staff supporting epidemiological investigations and the DRC health ministry, Dr.",
+      "tag": "response"
+    },
     {
       "title": "Episode 211: A System Held With Duct Tape",
       "link": "https://www.cidrap.umn.edu/public-health/episode-211-system-held-duct-tape",
@@ -317,11 +321,25 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Les leaders communautaires s’engagent aux côtés de la coordination stratégique multisectorielle",
-      "link": "https://insp.cd/les-eaders-communautaires-sengagent-aux-cotes-de-la-coordination-strategique-multisectorielle/",
+      "title": "Computational Identification and Density Functional Theory Insights into a Seaweed-Derived Metabolite of the Crimean–Congo hemorrhagic fever Virus Nucleoprotein",
+      "link": "https://openalex.org/W7165010454",
       "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "juin 18, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nLe Directeur général de l’Institut national de Santé publique (INSP), accompagné du Coordonnateur du Centre des Opérations d’Urgence de Santé Publique (COUSP), a échangé, hier, à l’Hôtel",
-      "tag": "pheic"
+      "desc": "DOI: 10.5281/zenodo.20731419\nAuthors: Abhithaj Jayanandan",
+      "tag": "analysis"
+    },
+    {
+      "title": "Development and Analytical Validation of a Novel Real-Time RT-PCR Assay for the Detection of Human Enteroviruses",
+      "link": "https://doi.org/10.21203/rs.3.rs-10063818/v1",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10063818/v1\nAuthors: Aigul Abdirassilova, Zauresh Zhumadilova, Altyn Rysbekova, Altynai Kassenova, Beck Abdeliyev, Ziyat Abdel, Ayaulym Maksatova, Sanzhar Agzam, Ainur Nurpeisova, Raikhan Nissanova, Anna Shin, Nazym Saduakassova, Duman Yessimseit\n Abstract \n                 \n                  Background\n Human e",
+      "tag": "analysis"
+    },
+    {
+      "title": "Chemical Characterization of an Emerging Designer Steroid, 6‐Bromo‐androst‐4‐en‐3,17‐dione, via NMR and LC‐HRMS and GC‐HRMS",
+      "link": "https://doi.org/10.1002/dta.70105",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/dta.70105\nAuthors: Genye He, Sisi Zhu, Xin Liu, Zhanliang Wang, Lisi Zhang, Jianghai Lu, Jing Li\n ABSTRACT \n                   A package of raw material, deliberately mislabelled as a muscle‐building supplement, was obtained online to contain an unknown steroid. In order to accurately identify the composit",
+      "tag": "analysis"
     },
     {
       "title": "Environmental and occupational exposures for chronic kidney disease of unknown aetiology (CKDu): field investigations in rural Sri Lanka",
@@ -331,10 +349,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Computational Identification and Density Functional Theory Insights into a Seaweed-Derived Metabolite of the Crimean–Congo hemorrhagic fever Virus Nucleoprotein",
-      "link": "https://openalex.org/W7165010454",
+      "title": "Isolated Tricuspid Valve Dysplasia in a Patient with Behçet's Disease: An Unusual Mimic of Carcinoid Heart Disease and Arrhythmogenic Right Ventricular Cardiomyopathy",
+      "link": "https://doi.org/10.9734/ajarr/2026/v20i61396",
       "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20731419\nAuthors: Abhithaj Jayanandan",
+      "desc": "DOI: 10.9734/ajarr/2026/v20i61396\nAuthors: Chawki Khawla, Aboulmajd Saad, Baba Mohamed Amine, Rochd El Mehdi, Bouziane Maha, Haboub Meryem, Arous Salim, Drighil Abdenasser\n Isolated tricuspid valve dysplasia (ITVD) is a rare congenital abnormality of the tricuspid valve that may remain clinically silent until adulthood and can resemble acqui",
+      "tag": "analysis"
+    },
+    {
+      "title": "Les leaders communautaires s’engagent aux côtés de la coordination stratégique multisectorielle",
+      "link": "https://insp.cd/les-eaders-communautaires-sengagent-aux-cotes-de-la-coordination-strategique-multisectorielle/",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "juin 18, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nLe Directeur général de l’Institut national de Santé publique (INSP), accompagné du Coordonnateur du Centre des Opérations d’Urgence de Santé Publique (COUSP), a échangé, hier, à l’Hôtel",
+      "tag": "pheic"
+    },
+    {
+      "title": "Big Ebola outbreak puts research spotlight on little-known virus",
+      "link": "https://doi.org/10.1126/science.aej7944",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1126/science.aej7944\nAuthors: Kai Kupferschmidt\n The Bundibugyo virus only emerged twice before. Now, scientists see a chance to get to know it better",
       "tag": "analysis"
     },
     {
@@ -356,6 +388,41 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1097/rc9.0000000000000603",
       "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1097/rc9.0000000000000603\nAuthors: Soukayna Bourabaa, Yahia Zain-Al-Abidine Khedid\n \n                     Introduction: \n                     \n                      Hydatid disease is a parasitic infection caused by\n                       Echinococcus",
+      "tag": "analysis"
+    },
+    {
+      "title": "N-K Sciences International Publication: Complete Deterministic Molecular Structure — From Hemoglobin to Viruses, Bacteria, Toxins, and Enzymes",
+      "link": "https://openalex.org/W7165034465",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20726111\nAuthors: Muhammad Usman Malik\nZenodo Description for DOI: 10.5281/zenodo.20726111 Title: N-K Sciences International Publication: Complete Deterministic Molecular Structure — From Hemoglobin to Viruses, Bacteria, Toxins, and Enzymes Creators: · Usman, Malik Muhammad (ORCID: 0009-0004-3269-2918), Affiliation: N-K Universa",
+      "tag": "analysis"
+    },
+    {
+      "title": "A Novel Lytic Podovirus AP-20-A Infecting Sinorhizobium meliloti: Mosaic Genome with Cross-Phylum Homology and Implications for Inoculant Establishment",
+      "link": "https://doi.org/10.3390/ijms27125515",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/ijms27125515\nAuthors: Alexandra P. Kozlova, Marina L. Roumiantseva, Alla S. Saksaganskaia, Maria E. Vladimirova, Victoria S. Muntyan, Maria K. Gorbunova, Andrey N. Gorshkov\n This study characterizes AP-20-A, a lytic podovirus infecting Sinorhizobium meliloti, isolated from agricultural chernozem. Its 49.4 kbp genome shows neglig",
+      "tag": "analysis"
+    },
+    {
+      "title": "Kyasanur Forest Disease: Advances in Experimental Animal Models, Immune Assays, and Challenges in Vaccine Development",
+      "link": "https://doi.org/10.1002/rmv.70177",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/rmv.70177\nAuthors: Sahina Sidhik, Zaigham Abbas Rizvi, Amit Awasthi\n ABSTRACT \n                   Kyasanur Forest Disease (KFD) is a tick‐borne viral haemorrhagic fever endemic to forested regions of South India, with case fatality rates ranging from 3% to 10% and seasonal outbreaks causing recurrent illne",
+      "tag": "analysis"
+    },
+    {
+      "title": "TL1A/DR3 signaling deletion attenuates mucosal inflammation and alveolar bone loss in a murine model of spontaneous periodontitis",
+      "link": "https://doi.org/10.1073/pnas.2611178123",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1073/pnas.2611178123\nAuthors: Sara Di Nicolantonio, Maria R. Miranda, Adrian Gomez-Nguyen, Davide Pietropaoli, Annalisa Monaco, Paola Menghini, Fabio Cominelli\n \n                    TL1A and its receptor DR3 are key regulators of mucosal immune responses, but their role in periodontal disease is unknown. Herein, we investigated wheth",
+      "tag": "response"
+    },
+    {
+      "title": "Consensus recommendations on clinical criteria for genetic screening of atypical hemolytic uremic syndrome in end-stage kidney disease patients listed for kidney transplantation: Insights from the United Arab Emirates (Emirates Medical Association Nephrology and Transplantation [EMAN-T] Society)",
+      "link": "https://openalex.org/W7165056455",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/rescon/vmag084\nAuthors: Mona AlRukhaimi, Ayman Almadani, Mohamed Hassan, Mohamed Alseiari, Shaikha Ali, Harith M. Saeed, Amna Khalifa Alhadri, R. Abou Ayache, Hassan Khammas Alyammahi, Hormaz Dastoor\nAbstract Background Atypical haemolytic uraemic syndrome (aHUS) is an uncommon complement-mediated thrombotic microangiopathy that often",
       "tag": "analysis"
     },
     {
@@ -1059,6 +1126,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Protocol for ebolavirus qPCR TaqMan multiplex assay (Bundibugyo ebolavirus, Zaire ebolavirus, Sudan ebolavirus, and human internal control) v1",
+      "link": "https://doi.org/10.17504/protocols.io.yxmvmdxe5v3p/v1",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.17504/protocols.io.yxmvmdxe5v3p/v1\nAuthors: Elyse Stachler, Kyle McMahon, Stella Nielsen, Hannah Knoll, Colby Wilkason, Al Ozonoff, Pardis Sabeti\n Rapid molecular diagnostics are essential for both outbreak response and ongoing surveillance of ebolaviruses. In earlier work, we developed and analytically validated a targeted qPCR assay for",
+      "tag": "response"
+    },
+    {
       "title": "Réunion de Haut Niveau Présidentiel des Chefs d’Etat et de Gouvernement africains et partenaires (RHNP) consacré à la flambée de maladie à virus Ebola Bundibugyo en RDC et en Ouganda",
       "link": "https://africacdc.org/news-item/reunion-de-haut-niveau-presidentiel-des-chefs-detat-et-de-gouvernement-africains-et-partenaires-rhnp-consacre-a-la-flambee-de-maladie-a-virus-ebola-bundibugyo-en-rdc-et-en-ouganda/",
       "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
@@ -1757,83 +1831,6 @@ window.FEED_DATA = {
       "pubDate": "Fri, 12 Jun 2026 19:19:00 Z",
       "desc": "Mr. Speaker, I rise this morning to provide an update to this Honorable House and to members of the public on the status of the Ebola Virus Disease and its relevance to Bermuda. On May 17, 2026, the World Health Organization declared Ebola Virus Disease a Public Health Emergency of International....",
       "tag": "pheic"
-    },
-    {
-      "title": "Can Ebola disrupt coffee prices and stocks?",
-      "link": "https://www.dairyreporter.com/Article/2026/06/12/uganda-ebola-crisis-coffee-trade-risk-offset-by-global-supply-boom/",
-      "pubDate": "Fri, 12 Jun 2026 19:11:00 Z",
-      "desc": "The Ebola outbreak in the Democratic Republic of Congo and Uganda is causing alarm among global health and migration organisations. The outbreak, which has so far resulted in 695 cases and 138 deaths*, is being contained by African governments with the support of global organisations such as the WHO....",
-      "tag": "cases"
-    },
-    {
-      "title": "Weekly Bulletin EW 21, 2026",
-      "link": "https://www.moh.gov.jm/wp-content/uploads/2026/06/Weekly-Bulletin-EW-21-2026.pdf",
-      "pubDate": "Fri, 12 Jun 2026 17:57:00 Z",
-      "desc": "Week ending May 30, 2026 Epidemiological Week 21 WEEKLY EPIDEMIOLOGY BULLETIN NATIONAL SURVEILLANCE UNIT, MINISTRY OF HEALTH & WELLNESS, JAMAICA Weekly Spotlight Hurricanes Tropical cyclones, also known as typhoons or hurricanes, are among the most destructive weather phenomena.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Tanzania Advances Emergency Medical Team Readiness with EMT 10 Steps and Emergency Medical Team Coordination Cell EMTCC Training",
-      "link": "https://www.afro.who.int/countries/united-republic-of-tanzania/news/tanzania-advances-emergency-medical-team-readiness-emt-10-steps-and-emergency-medical-team",
-      "pubDate": "Fri, 12 Jun 2026 17:31:00 Z",
-      "desc": "Morogoro — As part of its commitment to strengthening preparedness, early detection, and rapid response to public health emergencies under the National Action Plan for Health Security (NAPHS), the Government of Tanzania is enhancing national emergency response capacity through Emergency Medical Team....",
-      "tag": "response"
-    },
-    {
-      "title": "El ébola y el oro - EL PAÍS",
-      "link": "https://elpais.com/america/2026-06-12/el-ebola-y-el-oro.html?outputType=amp",
-      "pubDate": "Fri, 12 Jun 2026 17:26:00 Z",
-      "desc": "-- Ecuador. Significance Rating: 1 El ébola y el oro&nbsp;&nbsp;EL PAÍS",
-      "tag": "analysis"
-    },
-    {
-      "title": "Kenya Ebola quarantine centre: The identity of a third person killed in protests confirmed - BBC",
-      "link": "https://www.bbc.com/news/articles/crlw3w84w30o",
-      "pubDate": "Fri, 12 Jun 2026 17:26:00 Z",
-      "desc": "Ebola -- Kenya. Significance Rating: 4 Kenya Ebola quarantine centre: The identity of a third person killed in protests confirmed&nbsp;&nbsp;BBC",
-      "tag": "cases"
-    },
-    {
-      "title": "12 Jun 2026 – Bundibugyo ebolavirus disease outbreak: Confirmed cases in DRC reach 679 as contact tracing and burial gaps persist",
-      "link": "https://beaconbio.org/en/report/?reportid=28fc734e-a3a5-4386-8a8b-7d31a7540b07",
-      "pubDate": "Fri, 12 Jun 2026 15:21:00 Z",
-      "desc": "Sources Africa CDC. Bundibugyo Virus Disease Outbreak Situation Report, Issue No. 24 – June 10, 2026. 11 Jun 2026 Africa CDC. Advisory Council Calls for Stronger Community Engagement and Cross-Border Cooperation on Ebola. 12 Jun 2026 Africa CDC. Weekly press briefing. 11 June 2026 National Institute of Public Health DRC. Press Release. The INSP str",
-      "tag": "cases"
-    },
-    {
-      "title": "Ebola: Outbreak cases are “tip of iceberg,” says Africa CDC official at centre of epidemic",
-      "link": "https://www.bmj.com/content/393/bmj-2026-726541",
-      "pubDate": "Fri, 12 Jun 2026 14:20:00 Z",
-      "desc": "“Better to die from Ebola than the attacker who would come and cut my head off.” That was what Yap Boum II’s driver told him as he arrived this week in Beni, North Kivu, a province of the Democratic Republic of the Congo (DRC). Boum is head of the emergency preparedness and response division for the....",
-      "tag": "cases"
-    },
-    {
-      "title": "Viewpoints: Medicine Has Come So Far, And Now Politics Threatens Our Lifesaving Research; Government Doesn't Know What's Best For Children",
-      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-medicine-has-come-so-far-and-now-politics-threatens-our-lifesaving-research-government-doesnt-know-whats-best-for-children/",
-      "pubDate": "Fri, 12 Jun 2026 13:38:00 Z",
-      "desc": "Childhood leukemia, a likely death sentence when I was a medical student, is now survivable for most children. Cancer immunotherapy is extending life for many who would have died a decade ago. New technology is letting us repair genetic diseases at their source.",
-      "tag": "analysis"
-    },
-    {
-      "title": "CDC Sets New World Screwworm Emergency Response In Motion",
-      "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-061226/",
-      "pubDate": "Fri, 12 Jun 2026 13:38:00 Z",
-      "desc": "The public health agency has activated a Level 3 emergency response — the agency’s lowest-level tier — and is assembling a team of career scientists who will closely monitor the outbreak and coordinate with local health departments, Bloomberg reports. Meanwhile, CIDRAP reports that the FDA has....",
-      "tag": "response"
-    },
-    {
-      "title": "Communicable disease threats report, 6 - 12 June 2026, Week 24",
-      "link": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-6-12-june-2026-week-24",
-      "pubDate": "Fri, 12 Jun 2026 13:31:00 Z",
-      "desc": "The ECDC Communicable Disease Threats Report (CDTR) is a weekly bulletin for epidemiologists and health professionals on active public health threats. This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 6-12 June, and includes updates on measles, Nipah virus....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Kerala contains Nipah swiftly, but still lacks answers on how virus spills over",
-      "link": "https://www.downtoearth.org.in/health/kerala-contains-nipah-swiftly-but-still-lacks-answers-on-how-virus-spills-over",
-      "pubDate": "Fri, 12 Jun 2026 12:46:00 Z",
-      "desc": "A 43-year-old man from Kerala’s Kozhikode district is critically ill on ventilator support with a suspected Nipah infection, again raising questions over how the deadly virus repeatedly spills over from bats to humans in the state. Health officials have started contact tracing and containment....",
-      "tag": "cases"
     }
   ],
   "highWater": {
