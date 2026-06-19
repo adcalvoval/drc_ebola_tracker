@@ -26,4 +26,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Fetch feed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python fetch_feed.py

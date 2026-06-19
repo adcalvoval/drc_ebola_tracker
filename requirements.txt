@@ -1,0 +1,1 @@
+# No third-party dependencies — fetch_inrb_sitrep.py uses only stdlib (csv, urllib)

@@ -49,6 +49,7 @@
     .s-confirmed   .stat-value { color: #3498db; }
     .s-susp-deaths .stat-value { color: #e67e22; }
     .s-conf-deaths .stat-value { color: #e74c3c; }
+    .s-cfr         .stat-value { color: #1abc9c; }
     .stat-breakdown { font-size: 0.58rem; color: #4a5a76; margin-top: 3px; line-height: 1.5; }
     .stat-breakdown .bd-country { color: #8899bb; }
 
@@ -233,6 +234,7 @@
       text-transform: uppercase; letter-spacing: 0.5px; display: inline-block;
       vertical-align: middle; margin-left: 3px;
     }
+    .tier-inrb  { background: #1a3d4f; color: #40e0d0; }
     .tier-who   { background: #1a5c2e; color: #58d68d; }
     .tier-moh   { background: #1a3a6e; color: #5dade2; }
     .tier-cdc   { background: #5c4a0a; color: #f4d03f; }
@@ -279,6 +281,12 @@
     <div class="stat-label">Confirmed Deaths</div>
     <div class="stat-breakdown" id="bkd-conf-deaths"></div>
     <div class="stat-tier" id="tier-conf-deaths"></div>
+  </div>
+  <div class="stat s-cfr">
+    <div class="stat-value" id="val-cfr">—</div>
+    <div class="stat-label">Case Fatality Rate</div>
+    <div class="stat-breakdown" id="bkd-cfr"></div>
+    <div class="stat-tier" id="tier-cfr"></div>
   </div>
   <div class="stat" style="flex:1.4;">
     <div id="go-status" style="font-size:0.65rem;color:#c8d4e8;line-height:1.6;">
@@ -1075,8 +1083,8 @@ function renderNews(items, fetchedAt) {
 }
 
 // ── Source tier helpers ───────────────────────────────────────────────────────
-const TIER_LABELS = {4: 'WHO', 3: 'WHO', 2: 'MoH', 1: 'CDC', 0: 'Media'};
-const TIER_CSS    = {4: 'tier-who', 3: 'tier-who', 2: 'tier-moh', 1: 'tier-cdc', 0: 'tier-media'};
+const TIER_LABELS = {5: 'INRB', 4: 'WHO', 3: 'WHO', 2: 'MoH', 1: 'CDC', 0: 'Media'};
+const TIER_CSS    = {5: 'tier-inrb', 4: 'tier-who', 3: 'tier-who', 2: 'tier-moh', 1: 'tier-cdc', 0: 'tier-media'};
 
 function tierBadgeHTML(tier) {
   if (tier == null) return '';
@@ -1198,13 +1206,23 @@ function renderRssStats() {
     [['DRC', drcConfDeath], ['Uganda', uga.deaths]],
     confDeathTier);
 
+  // CFR — derived value, no tier badge
+  const cfrEl = document.getElementById('val-cfr');
+  if (cfrEl) cfrEl.textContent = drc.cfr != null ? drc.cfr.toFixed(1) + '%' : '—';
+
   // Source + countries cell
   const countries = ['DRC'];
   if (uga.cases != null || uga.mentioned) countries.push('Uganda');
   const fetched  = window.FEED_DATA.fetchedAt ? new Date(window.FEED_DATA.fetchedAt).toUTCString() : '—';
-  const srcLabel = s.sourceLabel || 'WHO EIOS RSS';
+  const srcLabel  = s.sourceLabel || 'WHO EIOS RSS';
+  const inrb      = s.inrbSitrep;
+  const inrbLine  = inrb && inrb.asOf
+    ? `<span style="color:#40e0d0;font-weight:700;">&#10003; INRB</span> ` +
+      `<a href="${inrb.url}" target="_blank" rel="noopener" style="color:#40e0d0;font-size:0.7rem;">sitrep ${inrb.asOf}</a><br>`
+    : '';
   srcEl.innerHTML =
     `<span style="color:#2ecc71;font-weight:700;">&#10003; WHO EIOS RSS</span><br>` +
+    inrbLine +
     `Source: ${srcLabel}<br>` +
     `Countries: ${countries.join(', ')}<br>` +
     `<span style="color:#c8d4e8;">${fetched}</span><br>` +

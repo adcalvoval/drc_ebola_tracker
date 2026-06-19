@@ -21,6 +21,7 @@ from xml.etree import ElementTree as ET
 from email.utils import parsedate_to_datetime
 
 import fetch_who_don
+import fetch_inrb_sitrep
 
 LOG_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'fetch_feed.log')
 
@@ -703,6 +704,36 @@ def merge_who_don_stats(stats, don_data):
     return stats
 
 
+def merge_inrb_stats(stats, inrb_data):
+    """Inject INRB sitrep CSV data as the highest-authority source (tier 5)."""
+    drc = inrb_data.get('drc', {})
+    src = f'INRB sitrep ({inrb_data.get("asOf", "")})'
+
+    for field in ('confirmed', 'deaths', 'suspected', 'recovered'):
+        if field in drc:
+            stats.setdefault('drc', {})[field] = drc[field]
+            stats.setdefault('drcMeta', {})[field] = {'tier': 5, 'src': src}
+
+    for field in ('zonesAffected', 'topHealthZones'):
+        if field in drc:
+            stats.setdefault('drc', {})[field] = drc[field]
+
+    inrb_tier = {f: drc[f] for f in ('confirmed', 'deaths', 'suspected', 'recovered') if f in drc}
+    if inrb_tier:
+        stats.setdefault('drcTiers', {})['inrb'] = inrb_tier
+
+    if drc.get('confirmed') or drc.get('deaths'):
+        stats['sourceLabel'] = 'INRB MVE Sitrep'
+
+    stats['inrbSitrep'] = {
+        'asOf':      inrb_data.get('asOf'),
+        'url':       inrb_data.get('url'),
+        'fetchedAt': inrb_data.get('fetchedAt'),
+    }
+
+    return stats
+
+
 def main():
     os.makedirs(os.path.dirname(OUT_FILE), exist_ok=True)
 
@@ -728,13 +759,26 @@ def main():
         log('ERROR', msg)
         sys.exit(1)
 
-    # Poll WHO DON bulletins and merge as authoritative source
+    # Poll WHO DON bulletins and merge as authoritative source (tier 4)
     try:
         don_data = fetch_who_don.poll_and_update()
         if don_data:
             data['stats'] = merge_who_don_stats(data['stats'], don_data)
     except Exception as e:  # noqa: BLE001
         print(f'WHO DON: skipped due to error — {e}')
+
+    # Poll INRB sitrep repo and merge as highest-authority source (tier 5)
+    try:
+        inrb_data = fetch_inrb_sitrep.poll_and_update()
+        if inrb_data:
+            data['stats'] = merge_inrb_stats(data['stats'], inrb_data)
+    except Exception as e:  # noqa: BLE001
+        print(f'INRB: skipped due to error — {e}')
+
+    # Compute CFR from final authoritative confirmed/deaths figures
+    _drc = data['stats'].get('drc', {})
+    if _drc.get('confirmed') and _drc.get('deaths'):
+        data['stats']['drc']['cfr'] = round(_drc['deaths'] / _drc['confirmed'] * 100, 1)
 
     # Update high-water marks and embed them in the output
     hw = load_high_water()
@@ -782,7 +826,8 @@ def main():
     subprocess.run(
         ['git', 'add',
          'data/feed.js', 'data/feed.json', 'data/high_water.json',
-         'data/who_don.json', 'data/who_don_seen.json'],
+         'data/who_don.json', 'data/who_don_seen.json',
+         'data/inrb_sitrep.json'],
         cwd=repo_root, check=True
     )
     result = subprocess.run(
