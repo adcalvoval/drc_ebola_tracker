@@ -1,23 +1,22 @@
 {
   "drc": {
-    "confirmed": 676,
-    "deaths": 136,
-    "recovered": 32,
-    "contacts": 5768,
-    "zonesAffected": 29,
+    "confirmed": 896,
+    "deaths": 232,
+    "recovered": 88,
+    "contacts": 6367,
+    "zonesAffected": 33,
     "topHealthZones": {
-      "bunia": 185,
-      "rwampara": 137,
-      "mongbwalu": 132,
-      "nyankunde": 33
+      "bunia": 247,
+      "rwampara": 195,
+      "mongbwalu": 189,
+      "nyankunde": 68
     },
-    "healthcareWorkers": 16,
     "provinces": {
       "ituri": {
-        "zonesAffected": 19
+        "zonesAffected": 21
       },
       "northKivu": {
-        "zonesAffected": 9
+        "zonesAffected": 11
       },
       "southKivu": {
         "zonesAffected": 1
@@ -28,10 +27,10 @@
     "confirmed": 19,
     "deaths": 2,
     "probableDeaths": 1,
-    "recovered": 5
+    "recovered": 10
   },
-  "asOf": "10 June 2026",
-  "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON607",
-  "donId": "2026-DON607",
-  "fetchedAt": "2026-06-15T20:15:11Z"
+  "asOf": "17 June 2026",
+  "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON608",
+  "donId": "2026-DON608",
+  "fetchedAt": "2026-06-19T13:10:37Z"
 }
