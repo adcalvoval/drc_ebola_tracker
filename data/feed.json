@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 19 Jun 2026 22:05:22 Z",
-  "fetchedAt": "2026-06-19T22:05:22Z",
+  "lastBuildDate": "Sat, 20 Jun 2026 03:54:09 Z",
+  "fetchedAt": "2026-06-20T03:54:09Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -73,9 +73,7 @@
         "suspected": 894
       },
       "media": {
-        "confirmed": 837,
-        "suspected": 2,
-        "deaths": 196
+        "confirmed": 72
       },
       "whoDon": {
         "confirmed": 896,
@@ -130,6 +128,20 @@
     }
   },
   "items": [
+    {
+      "title": "Review Accepted on 19 Jun 2026 Beyond CCR5 and HLA: Rare Genetic Variants in HIV Acquisition and Disease progression in Genetics of Common and Rare Diseases Marion Amujal John Mukisa Eric Katagirya Samuel Kyobe Thabo Diphoko Savannah Mwesigwa Sebetso Gaseene Gerald Mboowa Daudi Jjingo David P....",
+      "link": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1874407/abstract",
+      "pubDate": "Sat, 20 Jun 2026 00:39:00 Z",
+      "desc": "Abstract. The CCR5 locus and the HLA class I region, first identified through candidate gene studies, remain the most well‑characterized host genetic factors associated with HIV acquisition and disease progression, respectively. To date, genome wide association studies (GWAS) including those with....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Why does hepatitis B remain underprioritized? A view through lived experience",
+      "link": "https://doi.org/10.5662/wjm.v16.i2.114604",
+      "pubDate": "Sat, 20 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5662/wjm.v16.i2.114604\nAuthors: Yasmin Ibrahim, Anousha Qureshi, Michaela Jackson, Beatrice Zovich, Catherine Freeland, Monue Flomo, Kenson Alik, Ravshan Yakubov, Li-Hui Chen, Philip Kwame Yeboah, Chari Cohen\n Nearly 259 million people are living with chronic hepatitis B globally, with just 7 million of them receiving life-saving tre",
+      "tag": "analysis"
+    },
     {
       "title": "DR Congo's deadly Ebola outbreak is 'evolving fast', WHO warns - France 24",
       "link": "https://www.france24.com/en/africa/20260619-dr-congo-ebola-outbreak-evolving-fast-who-warns",
@@ -327,6 +339,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Host–virus miRNA crosstalk in ebola virus disease",
+      "link": "https://doi.org/10.1007/s12223-026-01538-7",
+      "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1007/s12223-026-01538-7\nAuthors: Ahmed S. Doghish, Gharieb S. El-Sayyad, Hamdi Bendif, Ahmed I. Abulsoud, Aya Salman, Hend H. Mohamed, Akram N. Salah, Ghadir A. Sayed, Nourhan H. Elshami, Hebatallah Ahmed Mohamed Moustafa, Mohamed Bakr Zaki, Osama A. Mohammed, Reda M. Mansour",
+      "tag": "analysis"
+    },
+    {
       "title": "Phenotypic Characterization of Unclassified Pulmonary Hypertension",
       "link": "https://doi.org/10.1161/circheartfailure.125.014480",
       "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
@@ -334,10 +353,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Host–virus miRNA crosstalk in ebola virus disease",
-      "link": "https://doi.org/10.1007/s12223-026-01538-7",
+      "title": "Ebola: We are losing arms race against virus amid funding and tracing struggles, experts warn",
+      "link": "https://doi.org/10.1136/bmj-2026-100045",
       "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1007/s12223-026-01538-7\nAuthors: Ahmed S. Doghish, Gharieb S. El-Sayyad, Hamdi Bendif, Ahmed I. Abulsoud, Aya Salman, Hend H. Mohamed, Akram N. Salah, Ghadir A. Sayed, Nourhan H. Elshami, Hebatallah Ahmed Mohamed Moustafa, Mohamed Bakr Zaki, Osama A. Mohammed, Reda M. Mansour",
+      "desc": "DOI: 10.1136/bmj-2026-100045\nAuthors: Luke Taylor",
+      "tag": "analysis"
+    },
+    {
+      "title": "Unmet needs in the care of patients with neuromyelitis optica spectrum disorder and myelin oligodendrocyte glycoprotein antibody associated disease: insights from Germany",
+      "link": "https://doi.org/10.1186/s42466-026-00503-6",
+      "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s42466-026-00503-6\n Abstract \n                   \n                     Background \n                     Neuromyelitis optica spectrum disorder (NMOSD) and myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) are rare autoimmune disorders. Their true preval",
       "tag": "analysis"
     },
     {
@@ -352,6 +378,13 @@
       "link": "https://doi.org/10.3390/ani16121906",
       "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/ani16121906\nAuthors: Manuela Tripepi, Ellianna Ruggeri, Ahmad Arfan, Emily Valenzuela, Isabella Vitales\n Fibropapillomatosis (FP) is a disease that threatens the health and safety of sea turtles globally, with green sea turtles having the highest FP prevalence. FP is associated with Chelonid alphaherpesvirus 5, but the primary e",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ascites Decompensation in a Patient without Liver Disease: A Case Report",
+      "link": "https://doi.org/10.1159/000552879",
+      "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1159/000552879\nAuthors: Alejandra Maria Peñuela-Romero, Peter Studer, Carolin Wagener, Felix Stickel\n Ascites in the absence of liver disease poses a diagnostic challenge that requires thorough evaluation. We here report a case of a previously healthy 50-year-old Swiss man who presented with constitutional symptoms and progressive ab",
       "tag": "analysis"
     },
     {
@@ -439,18 +472,18 @@
       "tag": "cases"
     },
     {
-      "title": "ECDC publishes practical guidance to improve Ebola preparedness",
-      "link": "https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness",
-      "pubDate": "Thu, 18 Jun 2026 14:42:00 Z",
-      "desc": "The publication, ' Preparedness and response for imported cases of Ebola disease into an EU/EEA country ', serves as a broad baseline for national authorities to review internal procedures and strengthen system readiness, ensuring they can react quickly and effectively in case of need.",
-      "tag": "cases"
-    },
-    {
       "title": "Communicable disease threats report, 13 - 18 June 2026, Week 25",
       "link": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-13-18-june-2026-week-25",
       "pubDate": "Thu, 18 Jun 2026 14:42:00 Z",
       "desc": "The ECDC Communicable Disease Threats Report (CDTR) is a weekly bulletin for epidemiologists and health professionals on active public health threats. This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 13-18 June, and includes updates on Ebola, West Nile virus, avian influenza, and expert deployment.",
       "tag": "analysis"
+    },
+    {
+      "title": "ECDC publishes practical guidance to improve Ebola preparedness",
+      "link": "https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness",
+      "pubDate": "Thu, 18 Jun 2026 14:42:00 Z",
+      "desc": "The publication, ' Preparedness and response for imported cases of Ebola disease into an EU/EEA country ', serves as a broad baseline for national authorities to review internal procedures and strengthen system readiness, ensuring they can react quickly and effectively in case of need.",
+      "tag": "cases"
     },
     {
       "title": "Crise Ebola : La Fédération",
@@ -663,6 +696,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Review on India’s Pharmaceutical Resilience: Innovations and Challenges in Global Health and the COVID-19 Era",
+      "link": "https://doi.org/10.2174/0126667975434999260616200351",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.2174/0126667975434999260616200351\nAuthors: V. Sakthivel, Nitish Kumar, Vipul Kumar, Achal Anand, Satendra Kumar, Sonakshi Antal, Sweety Sani\n \n                     Introduction: \n                     The global healthcare system is highly dependent on the pharmaceutical\nindustry for uninterrupted acces",
+      "tag": "analysis"
+    },
+    {
       "title": "A Novel Lytic Podovirus AP-20-A Infecting Sinorhizobium meliloti: Mosaic Genome with Cross-Phylum Homology and Implications for Inoculant Establishment",
       "link": "https://doi.org/10.3390/ijms27125515",
       "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
@@ -674,13 +714,6 @@
       "link": "https://openalex.org/W7165056455",
       "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1093/rescon/vmag084\nAuthors: Mona AlRukhaimi, Ayman Almadani, Mohamed Hassan, Mohamed Alseiari, Shaikha Ali, Harith M. Saeed, Amna Khalifa Alhadri, R. Abou Ayache, Hassan Khammas Alyammahi, Hormaz Dastoor\nAbstract Background Atypical haemolytic uraemic syndrome (aHUS) is an uncommon complement-mediated thrombotic microangiopathy that often",
-      "tag": "analysis"
-    },
-    {
-      "title": "N-K Sciences International Publication: Complete Deterministic Molecular Structure — From Hemoglobin to Viruses, Bacteria, Toxins, and Enzymes",
-      "link": "https://openalex.org/W7165034465",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20726111\nAuthors: Muhammad Usman Malik\nZenodo Description for DOI: 10.5281/zenodo.20726111 Title: N-K Sciences International Publication: Complete Deterministic Molecular Structure — From Hemoglobin to Viruses, Bacteria, Toxins, and Enzymes Creators: · Usman, Malik Muhammad (ORCID: 0009-0004-3269-2918), Affiliation: N-K Universa",
       "tag": "analysis"
     },
     {
@@ -698,17 +731,17 @@
       "tag": "response"
     },
     {
+      "title": "N-K Sciences International Publication: Complete Deterministic Molecular Structure — From Hemoglobin to Viruses, Bacteria, Toxins, and Enzymes",
+      "link": "https://openalex.org/W7165034465",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.20726111\nAuthors: Muhammad Usman Malik\nZenodo Description for DOI: 10.5281/zenodo.20726111 Title: N-K Sciences International Publication: Complete Deterministic Molecular Structure — From Hemoglobin to Viruses, Bacteria, Toxins, and Enzymes Creators: · Usman, Malik Muhammad (ORCID: 0009-0004-3269-2918), Affiliation: N-K Universa",
+      "tag": "analysis"
+    },
+    {
       "title": "Laudanosine restricts Ebola virus entry by targeting TPC2-dependent endolysosomal trafficking",
       "link": "https://doi.org/10.64898/2026.06.17.732874",
       "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.06.17.732874\nAuthors: Tom Seitz, Julian Koengeter, Susanne Klute, Franziska Kraft, Denise Christine Clesle, Lily Tschampel, Nico Preising, Armando Alexei Rodríguez Alfonso, Sebastian Wiese, Ludger Ständker, Christoph Jung, Timo Jacob, Janet Köhler, Gilbert Weidinger, Nadine Biedenkopf, Konstantin Maria Johannes Sparrer, Frank Kir",
-      "tag": "analysis"
-    },
-    {
-      "title": "Review on India’s Pharmaceutical Resilience: Innovations and Challenges in Global Health and the COVID-19 Era",
-      "link": "https://doi.org/10.2174/0126667975434999260616200351",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.2174/0126667975434999260616200351\nAuthors: V. Sakthivel, Nitish Kumar, Vipul Kumar, Achal Anand, Satendra Kumar, Sonakshi Antal, Sweety Sani\n \n                     Introduction: \n                     The global healthcare system is highly dependent on the pharmaceutical\nindustry for uninterrupted acces",
       "tag": "analysis"
     },
     {
@@ -999,25 +1032,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Key factors for promoting protective behaviours in future pandemics: an umbrella review",
-      "link": "https://doi.org/10.1186/s13690-026-01948-6",
+      "title": "Orthohantavirus Infection Mimicking Acute Viral Hepatitis: An Underrecognized Clinical Presentation",
+      "link": "https://openalex.org/W7164944759",
       "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s13690-026-01948-6\nAuthors: Aurélien Cornil, Sandrine Roussel, Marie Vander Haegen, Catherine Grenier, Dominique Vanpee, Stephan Van den Broucke\n Abstract \n                   \n                     Background \n                     The COVID-19 pandemic highlighted the critica",
+      "desc": "DOI: 10.3390/pathogens15060632\nAuthors: Francesco De Maria, Francesco Branda, Giancarlo Ceccarelli, Fabio Scarpa, Massimo Ciccozzi, Alessandro Russo\nOrthohantavirus infections are classically associated with hemorrhagic fever with renal syndrome (HFRS) in Eurasia and hantavirus cardiopulmonary syndrome (HCPS) in the Americas. However, accumulating",
       "tag": "analysis"
     },
     {
-      "title": "Beyond the Tip of the Iceberg: The Clinical Impact of Maternal Nonprimary Cytomegalovirus Infection",
-      "link": "https://doi.org/10.1097/inf.0000000000005311",
+      "title": "Mapping power in community engagement: methodological reflections from health emergencies",
+      "link": "https://doi.org/10.1186/s12874-026-02905-1",
       "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/inf.0000000000005311\nAuthors: Goni Peleg, Efraim Bilavsky, David Levy, Gabriel Chodick, Jacob Amir, Shani Levin, Michal Paret, Ilan Youngster, Roni Gur Lavy, Amir Klivitsky, Galia Grisaru-Soen, Diana Tasher, Zohar Steinberg Ben Zeev, Guy Katzenellenbogen, Meirav Sokolov, Nimrod Sachs\n \n                     Backgroun",
-      "tag": "analysis"
-    },
-    {
-      "title": "Mysterious deaths of monkeys in the Hong Kong Zoological and Botanical Gardens and anxious parents: paediatricians’ perspectives and health education opportunities",
-      "link": "https://doi.org/10.12809/hkmj2512899",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.12809/hkmj2512899\nAuthors: KL Hon, Alexander KC Leung, Genevieve PG Fung, Jeng Sum C Kung, Li Lyn Ooi, Karen KY Leung",
-      "tag": "cases"
+      "desc": "DOI: 10.1186/s12874-026-02905-1\nAuthors: Luisa Enria, Giulia Loffreda, Angus F. Tengbeh, Abass S. Kamara, Alie D. Timbo, Karin Diaconu, Sophie Witter\n Abstract \n                   Community engagement is increasingly seen as a key component of public health responses to health emergencies. Recent outbreaks, from Ebola",
+      "tag": "response"
     },
     {
       "title": "Rare presentation of congenital cystic adenomatoid malformation type II detected in adulthood – a case report",
@@ -1055,6 +1081,34 @@
       "tag": "analysis"
     },
     {
+      "title": "Geographical distribution of <i>Hyalomma marginatum</i> Koch, 1844 in northwestern Spain from 2019 to 2024: A one health approach",
+      "link": "https://doi.org/10.1111/mve.70090",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1111/mve.70090\nAuthors: Inês Abreu Ramos, María Vilá Pena, David Boso Dafonte, Mercedes Camiña García, Ánxela Pousa Ortega, José Ángel Hernández Malagón, Cristiana Cazapal Monteiro, Inés Mato Naveira, Adolfo Paz Silva, Rita Sánchez‐Andrade Fernández, María Sol Arias Vázquez\n Abstract",
+      "tag": "analysis"
+    },
+    {
+      "title": "Key factors for promoting protective behaviours in future pandemics: an umbrella review",
+      "link": "https://doi.org/10.1186/s13690-026-01948-6",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s13690-026-01948-6\nAuthors: Aurélien Cornil, Sandrine Roussel, Marie Vander Haegen, Catherine Grenier, Dominique Vanpee, Stephan Van den Broucke\n Abstract \n                   \n                     Background \n                     The COVID-19 pandemic highlighted the critica",
+      "tag": "analysis"
+    },
+    {
+      "title": "Mysterious deaths of monkeys in the Hong Kong Zoological and Botanical Gardens and anxious parents: paediatricians’ perspectives and health education opportunities",
+      "link": "https://doi.org/10.12809/hkmj2512899",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.12809/hkmj2512899\nAuthors: KL Hon, Alexander KC Leung, Genevieve PG Fung, Jeng Sum C Kung, Li Lyn Ooi, Karen KY Leung",
+      "tag": "cases"
+    },
+    {
+      "title": "Beyond the Tip of the Iceberg: The Clinical Impact of Maternal Nonprimary Cytomegalovirus Infection",
+      "link": "https://doi.org/10.1097/inf.0000000000005311",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1097/inf.0000000000005311\nAuthors: Goni Peleg, Efraim Bilavsky, David Levy, Gabriel Chodick, Jacob Amir, Shani Levin, Michal Paret, Ilan Youngster, Roni Gur Lavy, Amir Klivitsky, Galia Grisaru-Soen, Diana Tasher, Zohar Steinberg Ben Zeev, Guy Katzenellenbogen, Meirav Sokolov, Nimrod Sachs\n \n                     Backgroun",
+      "tag": "analysis"
+    },
+    {
       "title": "Zoonotic disease knowledge, attitudes, and livestock biosecurity practices among community members in Ada East District, Ghana: a concurrent mixed-methods study",
       "link": "https://openalex.org/W7164902499",
       "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
@@ -1080,27 +1134,6 @@
       "link": "https://openalex.org/W7164910457",
       "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/pathogens15060640\nAuthors: Leah Liu Wang, Kendra Alfson, J. J. Patten, Marc E. Mattix, Yenny Goez-Gazi, Sean N. Avedissian, Robert A. Davey, Ricardo Carrion, Shi-Hua Xiang\nOrthoebolavirus causes severe Ebola virus disease (EVD) and deadly outbreaks in humans. This infection occurs through macropinocytosis and trafficking to late endoso",
-      "tag": "analysis"
-    },
-    {
-      "title": "Orthohantavirus Infection Mimicking Acute Viral Hepatitis: An Underrecognized Clinical Presentation",
-      "link": "https://openalex.org/W7164944759",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/pathogens15060632\nAuthors: Francesco De Maria, Francesco Branda, Giancarlo Ceccarelli, Fabio Scarpa, Massimo Ciccozzi, Alessandro Russo\nOrthohantavirus infections are classically associated with hemorrhagic fever with renal syndrome (HFRS) in Eurasia and hantavirus cardiopulmonary syndrome (HCPS) in the Americas. However, accumulating",
-      "tag": "analysis"
-    },
-    {
-      "title": "Mapping power in community engagement: methodological reflections from health emergencies",
-      "link": "https://doi.org/10.1186/s12874-026-02905-1",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s12874-026-02905-1\nAuthors: Luisa Enria, Giulia Loffreda, Angus F. Tengbeh, Abass S. Kamara, Alie D. Timbo, Karin Diaconu, Sophie Witter\n Abstract \n                   Community engagement is increasingly seen as a key component of public health responses to health emergencies. Recent outbreaks, from Ebola",
-      "tag": "response"
-    },
-    {
-      "title": "Geographical distribution of <i>Hyalomma marginatum</i> Koch, 1844 in northwestern Spain from 2019 to 2024: A one health approach",
-      "link": "https://doi.org/10.1111/mve.70090",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/mve.70090\nAuthors: Inês Abreu Ramos, María Vilá Pena, David Boso Dafonte, Mercedes Camiña García, Ánxela Pousa Ortega, José Ángel Hernández Malagón, Cristiana Cazapal Monteiro, Inés Mato Naveira, Adolfo Paz Silva, Rita Sánchez‐Andrade Fernández, María Sol Arias Vázquez\n Abstract",
       "tag": "analysis"
     },
     {
@@ -1440,31 +1473,10 @@
       "tag": "analysis"
     },
     {
-      "title": "A Case of Animal Hoarding and Neglect in Bangkok, Thailand: Application of the TRACE Model in Veterinary Forensic Investigation",
-      "link": "https://openalex.org/W7164812207",
-      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/forensicsci6020053\nAuthors: Athip Lorsirigool, Narong Kulnides, Natapol Pumipuntu, Pratch Sukumolanan, Benjamabhorn Pumhirunroj\nBackground and Clinical Significance: Animal hoarding is a recognized form of animal cruelty characterized by the accumulation of animals under conditions of inadequate care, leading to compromised welfare and",
-      "tag": "analysis"
-    },
-    {
-      "title": "Lysozyme-Associated Nephropathy in Myeloid Neoplasms: A Clinicopathological and Mass Spectrometric Study of Two Cases",
-      "link": "https://doi.org/10.1159/000553130",
-      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1159/000553130\nAuthors: Minami Matsumoto, Shinya Yamamoto, Kanna Shinkawa, Takeshi Matsubara, June Takeda, Toshio Kitawaki, Yasuyuki Arai, Yuki Teramoto, Sachiko Minamiguchi, Yukiko Kanetsuna, Kensuke Joh, Yutaka Yamaguchi, Dedong Kang, Kazuho Honda, Akiko Mii, Akira Shimizu, Yoshifumi Ubara, Motoko Yanagita\n Lysozyme-associated neph",
-      "tag": "cases"
-    },
-    {
       "title": "Why Ebola survivors belong at the decision-making table",
       "link": "https://doi.org/10.1038/d44148-026-00158-0",
       "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1038/d44148-026-00158-0\nAuthors: Katherina  Thomas, Barthalomew  Wilson, Louise  Sigfrid, Olive  Kabajaasi, Shevin T.  Jacob",
-      "tag": "analysis"
-    },
-    {
-      "title": "Sleep regularity outweighs sleep duration as a predictor of disease",
-      "link": "https://doi.org/10.64898/2026.06.15.26355648",
-      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.15.26355648\nAuthors: Daniel P Windred, Angus C Burns, Amy Reynolds, Kelly Sansom, Bastien C Lechat, Hannah Scott, Robert Adams, Dorothee Steven, Richa Saxena, Martin Rutter, Frank AJL Scheer, Sean W. Cain, Andrew J. K. Phillips\n Sleep regularity, the consistency of sleep-wake timing from one day to the next, is more str",
       "tag": "analysis"
     },
     {
@@ -1473,13 +1485,6 @@
       "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.17116/rbpdpm2026302147\nAuthors: A.G. Khrykova, E.V. Filatova, I.I. Ivanova\n Aplastic anemia is a rare disease of the hematopoietic system characterized by suppression of all hematopoietic growths and replacement of bone marrow with fatty tissue. Annual incidence is 2—3 cases per 1 million people in Europe and America, 7—9 cases per 1",
       "tag": "cases"
-    },
-    {
-      "title": "Molecular surveillance and predictive risk modelling of avian influenza virus in wild birds in Egypt",
-      "link": "https://www.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.002278",
-      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
-      "desc": "info \nInfo \n\n\n\n\n\n\n\n\nArticle information \n\n\n\n\n\n\n\n\nFull-Text \n\n\n\n\n\n\n\n\n\nFigures and Tables \n\n\n\n\n\n\n\n\n\nReferences \n(40)\n\n\n\n\n\n\n\n\n\nCited By \n\n\n\n\n\n\n\n\n\nSupplementary Material \n\n\n\n\n\n\n\n\n\nMetrics \n\n\n\n\n \n\n\n\nlist\nSections\n\nTOPABSTRACTAbbreviationsIntroductionMethodsResultsDiscussionFunding informationAuthor contributionsConflicts of interestEthical state",
-      "tag": "analysis"
     },
     {
       "title": "What types of tests are most relevant for evaluating the progression of different types of infections?",
@@ -1494,6 +1499,34 @@
       "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1038/d44151-026-00116-7\nAuthors: Shahid Jameel",
       "tag": "response"
+    },
+    {
+      "title": "Sleep regularity outweighs sleep duration as a predictor of disease",
+      "link": "https://doi.org/10.64898/2026.06.15.26355648",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.15.26355648\nAuthors: Daniel P Windred, Angus C Burns, Amy Reynolds, Kelly Sansom, Bastien C Lechat, Hannah Scott, Robert Adams, Dorothee Steven, Richa Saxena, Martin Rutter, Frank AJL Scheer, Sean W. Cain, Andrew J. K. Phillips\n Sleep regularity, the consistency of sleep-wake timing from one day to the next, is more str",
+      "tag": "analysis"
+    },
+    {
+      "title": "A Case of Animal Hoarding and Neglect in Bangkok, Thailand: Application of the TRACE Model in Veterinary Forensic Investigation",
+      "link": "https://openalex.org/W7164812207",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/forensicsci6020053\nAuthors: Athip Lorsirigool, Narong Kulnides, Natapol Pumipuntu, Pratch Sukumolanan, Benjamabhorn Pumhirunroj\nBackground and Clinical Significance: Animal hoarding is a recognized form of animal cruelty characterized by the accumulation of animals under conditions of inadequate care, leading to compromised welfare and",
+      "tag": "analysis"
+    },
+    {
+      "title": "Lysozyme-Associated Nephropathy in Myeloid Neoplasms: A Clinicopathological and Mass Spectrometric Study of Two Cases",
+      "link": "https://doi.org/10.1159/000553130",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1159/000553130\nAuthors: Minami Matsumoto, Shinya Yamamoto, Kanna Shinkawa, Takeshi Matsubara, June Takeda, Toshio Kitawaki, Yasuyuki Arai, Yuki Teramoto, Sachiko Minamiguchi, Yukiko Kanetsuna, Kensuke Joh, Yutaka Yamaguchi, Dedong Kang, Kazuho Honda, Akiko Mii, Akira Shimizu, Yoshifumi Ubara, Motoko Yanagita\n Lysozyme-associated neph",
+      "tag": "cases"
+    },
+    {
+      "title": "Molecular surveillance and predictive risk modelling of avian influenza virus in wild birds in Egypt",
+      "link": "https://www.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.002278",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 Z",
+      "desc": "info \nInfo \n\n\n\n\n\n\n\n\nArticle information \n\n\n\n\n\n\n\n\nFull-Text \n\n\n\n\n\n\n\n\n\nFigures and Tables \n\n\n\n\n\n\n\n\n\nReferences \n(40)\n\n\n\n\n\n\n\n\n\nCited By \n\n\n\n\n\n\n\n\n\nSupplementary Material \n\n\n\n\n\n\n\n\n\nMetrics \n\n\n\n\n \n\n\n\nlist\nSections\n\nTOPABSTRACTAbbreviationsIntroductionMethodsResultsDiscussionFunding informationAuthor contributionsConflicts of interestEthical state",
+      "tag": "analysis"
     },
     {
       "title": "Virtual High level presidential meeting (HLPM) of African Heads of State and Government and Partners on the Ebola Bundibugyo Virus Disease Outbreak in the DRC and Uganda",
@@ -1769,17 +1802,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Are there other undiagnosed tick-borne infections in children being evaluated for Lyme neuroborreliosis?",
-      "link": "https://doi.org/10.1186/s12887-026-07000-4",
+      "title": "Health implications of Ebola and COVID-19 response strategies in Africa for Mpox control",
+      "link": "https://doi.org/10.1186/s12982-026-02332-z",
       "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s12887-026-07000-4\nAuthors: Henrik Hillerdal, Malin Lager, Anna Grankvist, Kenneth Nilsson, Christine Wennerås, Anna J Henningsson, Barbro H Skogman\n Abstract \n                   \n                     Background \n                     There is an increasing amount of reported",
-      "tag": "analysis"
+      "desc": "DOI: 10.1186/s12982-026-02332-z\nAuthors: Peter Olaniyi, Danladi Nengak Precious, Oluwatimilehin Oladapo, Oto Peter Ode, Favour Orunchukwu Meye, Promise Oladejo, Praise Ogunleke, Adekemi Adetunji, Rebecca Adeyemo",
+      "tag": "response"
     },
     {
-      "title": "Necroptosis is a key contributor to impaired cardiac repair following myocardial infarction",
-      "link": "https://doi.org/10.1038/s41419-026-08979-5",
+      "title": "Ebola en RDC: les citations les plus marquantes issues du terrain face au virus Bundibugyo",
+      "link": "https://doi.org/10.59350/v60ca-4vk41",
       "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/s41419-026-08979-5\nAuthors: Razoan Al Rimon, Yingxi Li, Ilamaran Meganathan, Faqi Wang, Allan G. Murray, Gavin Y. Oudit, Slava Epelman, Xavier Clemente-Casares, Zamaneh Kassiri\n Abstract \n                   \n                    Myocardial infarction (MI) is a leading cause of morbidity and death worldwide.",
+      "desc": "DOI: 10.59350/v60ca-4vk41\nAuthors: Reda Sadki\n KINSHASA, samedi 13 juin 2026. Les phrases qui suivent sont tirées de la séance de partage d'expérience tenue par cinquante-cinq Scholars congolais de la Fondation Apprendre Genève sur la riposte à la maladie à virus Ebola, souche Bundibugyo.",
       "tag": "analysis"
     },
     {
@@ -1787,13 +1820,6 @@
       "link": "https://doi.org/10.59350/qra6m-c2190",
       "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.59350/qra6m-c2190\nAuthors: Reda Sadki\n KINSHASA et BUKAVU, samedi 13 juin 2026. Cinquante-cinq soignants et cadres de santé congolais se retrouvent en visioconférence p our deux heures. Ils ont préparé la séance pendant trois semaines. Le sujet, l'épidémie de maladie à virus Ebola, souche Bundibugyo, qui circule depuis le mois précéd",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola en RDC: les citations les plus marquantes issues du terrain face au virus Bundibugyo",
-      "link": "https://doi.org/10.59350/v60ca-4vk41",
-      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.59350/v60ca-4vk41\nAuthors: Reda Sadki\n KINSHASA, samedi 13 juin 2026. Les phrases qui suivent sont tirées de la séance de partage d'expérience tenue par cinquante-cinq Scholars congolais de la Fondation Apprendre Genève sur la riposte à la maladie à virus Ebola, souche Bundibugyo.",
       "tag": "analysis"
     },
     {
@@ -1818,11 +1844,18 @@
       "tag": "response"
     },
     {
-      "title": "Health implications of Ebola and COVID-19 response strategies in Africa for Mpox control",
-      "link": "https://doi.org/10.1186/s12982-026-02332-z",
+      "title": "Necroptosis is a key contributor to impaired cardiac repair following myocardial infarction",
+      "link": "https://doi.org/10.1038/s41419-026-08979-5",
       "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s12982-026-02332-z\nAuthors: Peter Olaniyi, Danladi Nengak Precious, Oluwatimilehin Oladapo, Oto Peter Ode, Favour Orunchukwu Meye, Promise Oladejo, Praise Ogunleke, Adekemi Adetunji, Rebecca Adeyemo",
-      "tag": "response"
+      "desc": "DOI: 10.1038/s41419-026-08979-5\nAuthors: Razoan Al Rimon, Yingxi Li, Ilamaran Meganathan, Faqi Wang, Allan G. Murray, Gavin Y. Oudit, Slava Epelman, Xavier Clemente-Casares, Zamaneh Kassiri\n Abstract \n                   \n                    Myocardial infarction (MI) is a leading cause of morbidity and death worldwide.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Are there other undiagnosed tick-borne infections in children being evaluated for Lyme neuroborreliosis?",
+      "link": "https://doi.org/10.1186/s12887-026-07000-4",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s12887-026-07000-4\nAuthors: Henrik Hillerdal, Malin Lager, Anna Grankvist, Kenneth Nilsson, Christine Wennerås, Anna J Henningsson, Barbro H Skogman\n Abstract \n                   \n                     Background \n                     There is an increasing amount of reported",
+      "tag": "analysis"
     },
     {
       "title": "Afghanistan : 16 cas de fièvre hémorragique de Crimée Congo dans la province d'Herat Patrick GEROME - 14/06/2026 Lire plus➟",
@@ -1843,41 +1876,6 @@
       "link": "https://link.springer.com/article/10.1007/s12247-026-10822-5",
       "pubDate": "Sun, 14 Jun 2026 08:32:00 Z",
       "desc": "The RNA- directed RNA polymerase (RdRp) of Ebola virus (EBOV) represents a highly validated and druggable target for the development of novel anti-EBOV therapeutics. This study aimed to identify plant-derived compounds capable of inhibiting EBOV RdRp and to characterize their binding mechanisms....",
-      "tag": "analysis"
-    },
-    {
-      "title": "7 días en 7 noticias: lo imperdible del 5 al 11 de junio de 2026",
-      "link": "https://espanol.medscape.com/viewarticle/7-d%C3%ADas-7-noticias-1-cifra-y-1-frase-imperdible-del-5-al-2026a1000jth",
-      "pubDate": "Sun, 14 Jun 2026 04:38:00 Z",
-      "desc": "Lo más destacado Guía de AHA/ACC para manejo de sobrepeso y obesidad suma sociedades y se reconvierte a un enfoque al síndrome cardiovascular-renal-metabólico La guía de la American Heart Association (AHA) y el American College of Cardiology (ACC) de 2013 para el tratamiento de sobrepeso y obesidad....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Bundibugyo Virus Disease Outbreak | Situation Report, Issue No. 28 – June 14, 2026",
-      "link": "https://africacdc.org/download/bundibugyo-virus-disease-outbreak-situation-report-issue-no-28-june-14-2026/",
-      "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
-      "desc": "Download Files\nFileActionDaily Update | Bundibugyo Virus Disease Outbreak, Issue No. 28 – June 14, 2026Download  \nDownload\n\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t16 June 2026\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tResource Type\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tSitRep\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tThemes",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola virus disease: general aspects (LILACS).",
-      "link": "https://doi.org/10.1079/searchrxiv.2026.01347",
-      "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1079/searchrxiv.2026.01347\nAuthors: Rosemeire Rocha Pinto\n Abstract \n                 To promote timely access to scientific and technical information on Ebola virus disease, strengthening preparedness, detection, response, and recovery capacities in the face of outbreaks and public health emergencies.",
-      "tag": "response"
-    },
-    {
-      "title": "SARS-CoV-2, mpox, chikungunya, hantavirus, Ebola… Pourquoi les émergence virales se multiplient-elles ?",
-      "link": "https://doi.org/10.64628/aak.mxp9uepq5",
-      "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64628/aak.mxp9uepq5\nAuthors: Yannick Simonin",
-      "tag": "analysis"
-    },
-    {
-      "title": "IMPACT DE LA PESTE DES PETITS RUMINANTS SUR LES REVENUS DES MENAGES EN REPUBLIQUE DEMOCRATIQUE DU CONGO « CAS DE LA CITE DE LUPUTU",
-      "link": "https://openalex.org/W7164651112",
-      "pubDate": "Sun, 14 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20677772\nAuthors: KALALA MULOWA Jean Clément, KASONGA TSHIBANGU Carrel, KAMUNGA LUSALA François, KASOMBW BWAN'A TSHING Joseph, KABENGELE KABENGELE Patient\nRésumé : Selon le décret du 28juiller/1938, ayant subi plusieurs modifications dont la dernière remonte : le 06/05/1950 ; portant n° 54/147/1950 déterminant les mesures à pren",
       "tag": "analysis"
     }
   ],
