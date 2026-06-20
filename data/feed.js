@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 20 Jun 2026 16:20:45 Z",
-  "fetchedAt": "2026-06-20T16:20:45Z",
+  "lastBuildDate": "Sat, 20 Jun 2026 19:40:00 Z",
+  "fetchedAt": "2026-06-20T19:40:00Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -129,6 +129,20 @@ window.FEED_DATA = {
   },
   "items": [
     {
+      "title": "Une maladie étrange qui rend allergique à la viande rouge et aux produits laitiers se propage dans le monde",
+      "link": "https://www.science-et-vie.com/nature-et-environnement/animaux/une-maladie-etrange-qui-rend-allergique-a-la-viande-rouge-et-aux-produits-laitiers-se-propage-dans-le-monde-203308.html",
+      "pubDate": "Sat, 20 Jun 2026 17:47:00 Z",
+      "desc": "Le réchauffement climatique favorise l'expansion des tiques, entraînant une augmentation des cas d'allergie à la viande rouge, selon les chercheurs.\n\n[Article déjà publié le 7 août 2025] Avec le réchauffement climatique, certaines espèces profitent de nouveaux territoires pour proliférer.",
+      "tag": "analysis"
+    },
+    {
+      "title": "MinSalud desplegó Asambleas Comunitarias en Caracas para reforzar la prevención epidemiológica",
+      "link": "https://mpps.gob.ve/minsalud-desplego-asambleas-comunitarias-en-todo-el-pais-para-reforzar-la-prevencion-epidemiologica/",
+      "pubDate": "Sat, 20 Jun 2026 17:34:00 Z",
+      "desc": "Prensa MinSalud-. En un esfuerzo conjunto por fortalecer la prevención y la seguridad sanitaria en todo el territorio nacional, el Ministerio del Poder Popular para la Salud (MPPS), a través de la viceministra de Salud Integral, Rosalbina Hurtado, inició este sábado el despliegue de las Asambleas Comunitarias de Salud.",
+      "tag": "analysis"
+    },
+    {
       "title": "Supermassive black holes may be surrounded by dark matter clusters, new 'echo map' technique suggests",
       "link": "https://www.space.com/astronomy/dark-universe/supermassive-black-holes-may-be-surrounded-by-dark-matter-clusters-new-echo-map-technique-suggests",
       "pubDate": "Sat, 20 Jun 2026 14:19:00 Z",
@@ -182,6 +196,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.56098/7mhh1467",
       "pubDate": "Sat, 20 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.56098/7mhh1467\nAuthors: Shimon D Yanowitz, Daniel Broudy\n Lipid nanoparticles containing “mRNA” have reportedly been injected into the bodies of as many as 5.2 billion people in the COVID-19 injectables. Forensic study has shown that the general public was deceived  about the chemical composition, the toxicity, and the destructive po",
+      "tag": "analysis"
+    },
+    {
+      "title": "The effects of meteorological factors on hemorrhagic fever with renal syndrome in Yichun, China: a major Apodemus-type endemic city",
+      "link": "https://doi.org/10.1038/s41598-026-59003-x",
+      "pubDate": "Sat, 20 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/s41598-026-59003-x\nAuthors: Shu Yang, Xiaobo Liu, Xin Qi, Hui Li, Guihua Zhuang",
       "tag": "analysis"
     },
     {
@@ -1855,27 +1876,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.64898/2026.06.14.732188",
       "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.06.14.732188\nAuthors: Kyle L O'Donnell, Jil A Haase, Corey W Henderson, B Ryder Gathright, Paige Fletcher, Joseph F Rhoderick, Chad S Clancy, Shilpi Jain, Cesar Albarino, Brian J Smith, Andrea Marzi\n Bundibugyo virus (BDBV), a member of the orthoebolaviruses in the Filoviridae family, causes severe hemorrhagic disease with",
-      "tag": "analysis"
-    },
-    {
-      "title": "Egypt Joins African Pooled Procurement Mechanism (APPM)",
-      "link": "https://africacdc.org/news-item/egypt-joins-african-pooled-procurement-mechanism-appm/",
-      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "Cairo, Arab Republic of Egypt – 15 June 2026 – The Arab Republic of Egypt has become the first African Union (AU) Member State to formally join the African Pooled Procurement Mechanism (APPM), signing the APPM Memorandum of Understanding (MoU) during the opening ceremony of Africa Health ExCon 2026 in Cairo. The Africa Health ExCon provided",
-      "tag": "analysis"
-    },
-    {
-      "title": "Marburg virus disease: a comprehensive review",
-      "link": "https://doi.org/10.1128/cmr.00097-23",
-      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/cmr.00097-23\nAuthors: Courtney Woolsey, Thomas W. Geisbert\n SUMMARY \n                   Marburg virus disease (MVD) is a highly fatal illness closely resembling Ebola disease, caused by either Marburg virus (MARV) or Ravn virus (RAVV). It typically begins with a sudden onset of high fever, headache, and ma",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola world nightmare from Congo 1976 to Congo again 2026",
-      "link": "https://doi.org/10.1186/s43162-026-00659-2",
-      "pubDate": "Mon, 15 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s43162-026-00659-2\nAuthors: Amr Saad, Haitham A Hashim\n Abstract \n                   The ongoing 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda has renewed global concern regarding the threat of ebolaviruses. Ebola virus disease is one of the most lethal viral hem",
       "tag": "analysis"
     }
   ],
