@@ -1,31 +1,31 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 20 Jun 2026 19:40:00 Z",
-  "fetchedAt": "2026-06-20T19:40:00Z",
+  "lastBuildDate": "Sat, 20 Jun 2026 22:10:14 Z",
+  "fetchedAt": "2026-06-20T22:10:14Z",
   "itemCount": 250,
   "stats": {
     "drc": {
-      "confirmed": 896,
-      "deaths": 232,
-      "recovered": 78,
+      "confirmed": 933,
+      "deaths": 245,
+      "recovered": 80,
       "zonesAffected": 34,
       "topHealthZones": {
-        "Bunia": 247,
-        "Rwampara": 195,
-        "Mongbwalu": 189,
-        "Nyankunde": 68,
-        "Nizi": 25,
+        "Bunia": 253,
+        "Rwampara": 199,
+        "Mongbwalu": 198,
+        "Nyankunde": 77,
+        "Nizi": 26,
         "Butembo": 25,
         "Katwa": 24,
-        "Lita": 18,
-        "Beni": 15,
+        "Lita": 20,
+        "Beni": 16,
         "Komanda": 10,
         "Bambu": 9,
         "Kilo": 7,
-        "Mangala": 5,
+        "Mangala": 7,
+        "Aungba": 6,
         "Tchomia": 5,
         "Damas": 4,
-        "Aungba": 4,
         "Rimba": 3,
         "Aru": 3,
         "Oicha": 3,
@@ -46,25 +46,25 @@ window.FEED_DATA = {
         "Musienene": 1
       },
       "contacts": 6367,
-      "suspected": 151,
-      "cfr": 25.9
+      "suspected": 238,
+      "cfr": 26.3
     },
     "drcMeta": {
       "confirmed": {
         "tier": 5,
-        "src": "INRB sitrep (2026-06-17)"
+        "src": "INRB sitrep (2026-06-18)"
       },
       "deaths": {
         "tier": 5,
-        "src": "INRB sitrep (2026-06-17)"
+        "src": "INRB sitrep (2026-06-18)"
       },
       "recovered": {
         "tier": 5,
-        "src": "INRB sitrep (2026-06-17)"
+        "src": "INRB sitrep (2026-06-18)"
       },
       "suspected": {
         "tier": 5,
-        "src": "INRB sitrep (2026-06-17)"
+        "src": "INRB sitrep (2026-06-18)"
       }
     },
     "drcTiers": {
@@ -81,10 +81,10 @@ window.FEED_DATA = {
         "recovered": 88
       },
       "inrb": {
-        "confirmed": 896,
-        "deaths": 232,
-        "suspected": 151,
-        "recovered": 78
+        "confirmed": 933,
+        "deaths": 245,
+        "suspected": 238,
+        "recovered": 80
       }
     },
     "provinces": {
@@ -96,13 +96,13 @@ window.FEED_DATA = {
       "northKivu": {
         "zonesAffected": 11,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-06-17)",
-        "confirmed": 76
+        "source": "INRB sitrep (2026-06-18)",
+        "confirmed": 77
       },
       "southKivu": {
         "zonesAffected": 1,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-06-17)",
+        "source": "INRB sitrep (2026-06-18)",
         "confirmed": 3
       }
     },
@@ -122,9 +122,9 @@ window.FEED_DATA = {
       "fetchedAt": "2026-06-19T13:10:37Z"
     },
     "inrbSitrep": {
-      "asOf": "2026-06-17",
+      "asOf": "2026-06-18",
       "url": "https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/insp_sitrep/processed",
-      "fetchedAt": "2026-06-19T15:23:53.298942+00:00"
+      "fetchedAt": "2026-06-20T22:10:16.365488+00:00"
     }
   },
   "items": [
@@ -402,13 +402,6 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Acute Liver Injury with Viral-like Illness and Ceftriaxone Exposure in a Patient with Previously Undiagnosed Hereditary Elliptocytosis",
-      "link": "https://doi.org/10.4274/tjh.galenos.2026.47704",
-      "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.4274/tjh.galenos.2026.47704\nAuthors: Wei Wei, Yunyun Ye, Lei Chen, Juanyu Ke",
-      "tag": "analysis"
-    },
-    {
       "title": "Stakeholders' perspectives on integrating point‐of‐care diagnostics into forensic death investigations in South Africa",
       "link": "https://doi.org/10.1111/1556-4029.70390",
       "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
@@ -427,6 +420,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.4103/aam.aam_122_26",
       "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.4103/aam.aam_122_26\nAuthors: Olusola Adetunji Oyedeji, Olanike Taye Oladibu, Temitope Ajibola Oyelami, Mayowa Mary Adetoye, Gbemiga Olorunfemi Osawu, Victor Idowu Joel-Medewase, Efeturi Agelebe\n Abstract \n                   A 2-month-old male infant was diagnosed as having congenital syphilis at the Outpatient",
+      "tag": "analysis"
+    },
+    {
+      "title": "Acute Liver Injury with Viral-like Illness and Ceftriaxone Exposure in a Patient with Previously Undiagnosed Hereditary Elliptocytosis",
+      "link": "https://doi.org/10.4274/tjh.galenos.2026.47704",
+      "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.4274/tjh.galenos.2026.47704\nAuthors: Wei Wei, Yunyun Ye, Lei Chen, Juanyu Ke",
       "tag": "analysis"
     },
     {
@@ -1074,6 +1074,27 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Ebola Bundibugyo : l’Union africaine mobilise 910 millions de dollars et appelle à une riposte immédiate en RDC et en Ouganda",
+      "link": "https://africacdc.org/news-item/ebola-bundibugyo-lunion-africaine-mobilise-910-millions-de-dollars-et-appelle-a-une-riposte-immediate-en-rdc-et-en/",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "80 millions de dollars engagés par les États membres africains, alors qu’Africa CDC appelle à transformer les promesses en décaissements, fournitures et appui aux intervenants de première ligne \n\n\n\nBujumbura/Addis-Abeba, 17 juin 2026 – S.E. Évariste Ndayishimiye, Président de la République du Burundi et Président en exercice de l’Union afric",
+      "tag": "analysis"
+    },
+    {
+      "title": "African Union High-Level Meeting mobilizes USD 910 million in pledges for Ebola Bundibugyo response in DRC and Uganda",
+      "link": "https://africacdc.org/news-item/african-union-high-level-meeting-mobilizes-usd-910-million-in-pledges-for-ebola-bundibugyo-response-in-drc-and-uganda/",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "USD 80 million committed by African Member States as Africa CDC calls for rapid disbursement and urgent support to frontline responders \n\n\n\nBujumbura/Addis Ababa, 17 June 2026 – H.E. Évariste Ndayishimiye, President of the Republic of Burundi and Chairperson of the African Union, convened a High-Level Emergency Meeting of African Heads of St",
+      "tag": "response"
+    },
+    {
+      "title": "Bundibugyo Virus Disease Outbreak | Situation Report, Issue No. 31 – June 17, 2026",
+      "link": "https://africacdc.org/download/bundibugyo-virus-disease-outbreak-situation-report-issue-no-31-june-17-2026/",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
+      "desc": "Download Files\nFileActionDaily Update | Bundibugyo Virus Disease Outbreak, Issue No. 31 – June 17, 2026Download  \nDownload\n\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t19 June 2026\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tResource Type\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tSitRep\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tThemes\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tPublic Health Emergency of",
+      "tag": "pheic"
+    },
+    {
       "title": "The development of biologically contained Sudan virus as an alternative and safe tool for fundamental filovirus research",
       "link": "https://doi.org/10.1080/22221751.2026.2678654",
       "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
@@ -1100,27 +1121,6 @@ window.FEED_DATA = {
       "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fcimb.2026.1838461\nAuthors: Tianlong Zhang, Jing Li, Yan Hai, Zhen Wang, Mingmei Wang, Yingdi Wang, Ying Zhang, AiPing Qin, Jie Liu\n \n                     Background \n                     \n                      Brucellosis is a highly endemic zoonosis in Inner Mongolia, yet its contribution to und",
       "tag": "analysis"
-    },
-    {
-      "title": "Ebola Bundibugyo : l’Union africaine mobilise 910 millions de dollars et appelle à une riposte immédiate en RDC et en Ouganda",
-      "link": "https://africacdc.org/news-item/ebola-bundibugyo-lunion-africaine-mobilise-910-millions-de-dollars-et-appelle-a-une-riposte-immediate-en-rdc-et-en/",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "80 millions de dollars engagés par les États membres africains, alors qu’Africa CDC appelle à transformer les promesses en décaissements, fournitures et appui aux intervenants de première ligne \n\n\n\nBujumbura/Addis-Abeba, 17 juin 2026 – S.E. Évariste Ndayishimiye, Président de la République du Burundi et Président en exercice de l’Union afric",
-      "tag": "analysis"
-    },
-    {
-      "title": "African Union High-Level Meeting mobilizes USD 910 million in pledges for Ebola Bundibugyo response in DRC and Uganda",
-      "link": "https://africacdc.org/news-item/african-union-high-level-meeting-mobilizes-usd-910-million-in-pledges-for-ebola-bundibugyo-response-in-drc-and-uganda/",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "USD 80 million committed by African Member States as Africa CDC calls for rapid disbursement and urgent support to frontline responders \n\n\n\nBujumbura/Addis Ababa, 17 June 2026 – H.E. Évariste Ndayishimiye, President of the Republic of Burundi and Chairperson of the African Union, convened a High-Level Emergency Meeting of African Heads of St",
-      "tag": "response"
-    },
-    {
-      "title": "Bundibugyo Virus Disease Outbreak | Situation Report, Issue No. 31 – June 17, 2026",
-      "link": "https://africacdc.org/download/bundibugyo-virus-disease-outbreak-situation-report-issue-no-31-june-17-2026/",
-      "pubDate": "Wed, 17 Jun 2026 00:00:00 Z",
-      "desc": "Download Files\nFileActionDaily Update | Bundibugyo Virus Disease Outbreak, Issue No. 31 – June 17, 2026Download  \nDownload\n\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t19 June 2026\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tResource Type\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tSitRep\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tThemes\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tPublic Health Emergency of",
-      "tag": "pheic"
     },
     {
       "title": "Beyond the Tip of the Iceberg: The Clinical Impact of Maternal Nonprimary Cytomegalovirus Infection",
@@ -1882,8 +1882,8 @@ window.FEED_DATA = {
   "highWater": {
     "drc": {
       "deaths": {
-        "value": 232,
-        "asOf": "2026-06-19T15:23:51Z",
+        "value": 245,
+        "asOf": "2026-06-20T22:10:14Z",
         "source": "INRB MVE Sitrep"
       },
       "confirmed_deaths": {
@@ -1897,8 +1897,8 @@ window.FEED_DATA = {
         "source": "WHO / OMS"
       },
       "confirmed": {
-        "value": 896,
-        "asOf": "2026-06-19T15:23:51Z",
+        "value": 933,
+        "asOf": "2026-06-20T22:10:14Z",
         "source": "INRB MVE Sitrep"
       },
       "active": {
