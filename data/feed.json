@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 23 Jun 2026 20:08:31 Z",
-  "fetchedAt": "2026-06-23T20:08:32Z",
+  "lastBuildDate": "Tue, 23 Jun 2026 22:15:52 Z",
+  "fetchedAt": "2026-06-23T22:15:53Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -69,9 +69,9 @@
     },
     "drcTiers": {
       "media": {
+        "suspected": 1000,
         "confirmed": 48,
-        "deaths": 270,
-        "suspected": 1000
+        "deaths": 270
       },
       "whoDon": {
         "confirmed": 896,
@@ -126,6 +126,27 @@
     }
   },
   "items": [
+    {
+      "title": "Maimuna Sali Paul",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Paul+MS&cauthor_id=42335246",
+      "pubDate": "Tue, 23 Jun 2026 21:29:00 Z",
+      "desc": "Modares NF, Hendrikse LD, Smith LK, Paul MS , Haight J, Luo P, Liu S, Fortin J, Tong FK, Wakeham AC, Jafari SM, Zheng C, Buckland M, Flick R, Silvester J, Berger T, Ketela T, Helke S, Foffi E, Niavarani R, Mcwilliam R, Saunders ME, Colonna I, David BA, Rastogi T, Lee WY, Kubes P, Mak TW. Modares NF, et al.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Creutzfeldt-Jakob Disease Factsheet ⯑",
+      "link": "https://www.hhs.nd.gov/public-health-information/diseases-conditions-and-immunization/az-diseases-conditions/creutzfeldt-jakob-disease-factsheet",
+      "pubDate": "Tue, 23 Jun 2026 21:03:00 Z",
+      "desc": "Creutzfeldt-Jakob disease (CJD) is a rare disease that causes brain lesions in humans and is believed to be caused by an infectious particle called a prion protein. It occurs worldwide and is reported to be about one case per million population each year. The risk of classic CJD increases with a person’s age.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Construction of US-backed Ebola quarantine unit in Kenya is stopped",
+      "link": "https://www.cidrap.umn.edu/ebola/construction-us-backed-ebola-quarantine-unit-kenya-stopped",
+      "pubDate": "Tue, 23 Jun 2026 21:02:00 Z",
+      "desc": "After weeks of legal turmoil and deadly protests, the construction of a US-funded Ebola quarantine building near Laikipia Air Base in Kenya has officially been stopped by Kenya's Health Cabinet Secretary Aden Duale. the cessation of the project after being found in contempt of court for allowing construction to continue despite a court order.",
+      "tag": "analysis"
+    },
     {
       "title": "Vigilancia epidemiológica provincial panorama sanitario en análisis",
       "link": "https://msptucuman.gov.ar/vigilancia-epidemiologica-provincial-panorama-sanitario-en-analisis/",
@@ -246,10 +267,38 @@
       "tag": "analysis"
     },
     {
+      "title": "Early-Onset Somatic Delusional Presentation: A Case Report and Two-Decade Comparative Synthesis",
+      "link": "https://doi.org/10.18502/ijps.v21i3.21870",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.18502/ijps.v21i3.21870\nAuthors: Lakshmi Dorai B, Alluri Swetha Reddy, Mukesh B M, Arbind Kumar Choudhary\n Objective: Somatic-type delusional disorder is characterized by fixed false beliefs related to bodily changes or illness. This report describes an unusual early-onset case associated with significant functional decline and compar",
+      "tag": "analysis"
+    },
+    {
+      "title": "Déclaration d’Africa CDC à l’issue de la Réunion de Haut Niveau sur la Riposte à Ebola en République Démocratique du Congo",
+      "link": "https://africacdc.org/news-item/declaration-dafrica-cdc-a-lissue-de-la-reunion-de-haut-niveau-sur-la-riposte-a-ebola-en-republique-democratique-du-congo/",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "Aujourd’hui, 23 juin 2026, Africa CDC a participé à une réunion de haut niveau tenue en présence de S.E. Évariste Ndayishimiye, Président de la République du Burundi et Président de l’Union africaine, et de S.E. Félix Tshisekedi, Président de la République démocratique du Congo, ainsi que du Premier Ministre de la République démocratique du",
+      "tag": "analysis"
+    },
+    {
+      "title": "Africa CDC Statement on the High-Level Ebola Response Meeting in the Democratic Republic of Congo",
+      "link": "https://africacdc.org/news-item/africa-cdc-statement-on-the-high-level-ebola-response-meeting-in-the-democratic-republic-of-congo/",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "Today, 23 June 2026, Africa Centers for Disease Control and prevention ( Africa CDC) participated in a high-level meeting convened in the presence of H.E. Évariste Ndayishimiye, President of the Republic of Burundi and Chairperson of the African Union, and H.E. Félix Tshisekedi, President of the Democratic Republic of Congo, alongside the Pr",
+      "tag": "response"
+    },
+    {
       "title": "When it could have been prevented: A maternal death from postpartum hemorrhage due to genital tract lesions complicated by urinary fistula in an Ebola treatment unit in DR Congo",
       "link": "https://doi.org/10.1186/s12884-026-09271-2",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1186/s12884-026-09271-2\nAuthors: Prince Imani-Musimwa, Emilie Grant, Daniel Mukadi-Bamuleka, Zacharie Tsongo-Kibendelwa, Rigo Fraterne-Muhayangabo, Placide Mbala-Kingebeni, Richard Kitenge-Omasumbu, Théophile Barhwamire-Kabesha, Olivier Nyakio-Ngeleza, Juakali Sihali-Kyolov, Micheline Feza-Malira, Baudouin Manwa-Budwaga, Desiré Alumeti-Muny",
+      "tag": "analysis"
+    },
+    {
+      "title": "Recurrent and unusual infections unmasking a rare inborn error of immunity: a case report RAS-associated Autoimmune Lymphoproliferative Disease (RALD)",
+      "link": "https://doi.org/10.1186/s12887-026-07194-7",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s12887-026-07194-7\nAuthors: Mohamad Qazreen Ahmad Shawaludin, Mohd Anas Che Nik, Zarina Thasneem Zainudeen, Fahisham Taib, Intan Juliana Abd Hamid",
       "tag": "analysis"
     },
     {
@@ -1826,55 +1875,6 @@
       "pubDate": "Tue, 16 Jun 2026 21:32:00 Z",
       "desc": "News brief\n      \n            43 minutes ago.\n      \n  \n\n  \n\nEvgeniyShkolenko / iStock\n\nChildren diagnosed as having multisystem inflammatory syndrome in children (MIS-C) following COVID-19 infection are more likely to have new and lingering health conditions than those",
       "tag": "analysis"
-    },
-    {
-      "title": "AI chatbots boost parents’ willingness to vaccinate kids against HPV, but only in the short term",
-      "link": "https://www.cidrap.umn.edu/human-papillomavirus-hpv/ai-chatbots-boost-parents-willingness-vaccinate-kids-against-hpv-only",
-      "pubDate": "Tue, 16 Jun 2026 21:32:00 Z",
-      "desc": "News brief\n      \n            Today at 7:48 p.m.\n      \n  \n\n  \n\nNatalie Vestin / CIDRAP\n\nParents were more willing to allow their children to receive a vaccine against human papillomavirus (HPV) if they interacted with a chatbot powered by artificial intelligence (AI) co",
-      "tag": "analysis"
-    },
-    {
-      "title": "Le directeur du CDC Afrique met en garde contre une épidémie d'Ebola potentiellement catastrophique Patrick GEROME - 16/06/2026 Lire plus➟",
-      "link": "https://www.mesvaccins.net/web/news/24198-le-directeur-du-cdc-afrique-met-en-garde-contre-une-epidemie-d-ebola-potentiellement-catastrophique",
-      "pubDate": "Tue, 16 Jun 2026 21:10:00 Z",
-      "desc": "Aujourd'hui, le directeur des Centres africains de contrôle et de prévention des maladies (CDC Afrique) a alerté sur le fait que des milliers de contacts de personnes infectées n'ont pas pu être identifiés dans le cadre de l'épidémie d'Ebola qui sévit actuellement en République démocratique du Congo (RDC).",
-      "tag": "response"
-    },
-    {
-      "title": "Africa CDC head warns Ebola outbreak could be worst ever",
-      "link": "https://www.cidrap.umn.edu/ebola/africa-cdc-head-warns-ebola-outbreak-could-be-worst-ever",
-      "pubDate": "Tue, 16 Jun 2026 20:33:00 Z",
-      "desc": "Natalie Vestin / CIDRAP. Parents were more willing to allow their children to receive a vaccine against human papillomavirus (HPV) if they interacted with a chatbot powered by artificial intelligence (AI) compared with parents who received no information about the vaccine.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Red Cross says Congo Ebola epidemic yet to peak, may last a year - NTV Kenya",
-      "link": "https://ntvkenya.co.ke/news/red-cross-says-congo-ebola-epidemic-yet-to-peak-may-last-a-year/",
-      "pubDate": "Tue, 16 Jun 2026 19:36:00 Z",
-      "desc": "-- Kenya. Significance Rating: 1 Red Cross says Congo Ebola epidemic yet to peak, may last a year&nbsp;&nbsp;NTV Kenya",
-      "tag": "analysis"
-    },
-    {
-      "title": "Kenya remains at high Ebola risk, Health PS says - KBC Digital",
-      "link": "https://www.kbc.co.ke/kenya-remains-at-high-ebola-risk-health-ps-says/",
-      "pubDate": "Tue, 16 Jun 2026 17:27:00 Z",
-      "desc": "Ebola -- Kenya. Significance Rating: 4 Kenya remains at high Ebola risk, Health PS says&nbsp;&nbsp;KBC Digital",
-      "tag": "analysis"
-    },
-    {
-      "title": "Chicago doctor warns record increase in Congo Ebola cases is 'a significant concern' - FOX 32 Chicago",
-      "link": "https://www.fox32chicago.com/video/fmc-m2d8d3ayymet7r7k",
-      "pubDate": "Tue, 16 Jun 2026 17:26:00 Z",
-      "desc": "Conflict -- Chicago, Illinois, United States. Significance Rating: 3 Chicago doctor warns record increase in Congo Ebola cases is 'a significant concern'&nbsp;&nbsp;FOX 32 Chicago",
-      "tag": "cases"
-    },
-    {
-      "title": "What the hantavirus and Ebola outbreaks tell us about pandemic preparedness",
-      "link": "https://www.nature.com/articles/d44151-026-00116-7",
-      "pubDate": "Tue, 16 Jun 2026 16:33:00 Z",
-      "desc": "aboard the Antarctic cruise ship MV Hondius resulted in multiple deaths and triggered an international public-health response. Ebola has returned to central Africa, causing over 700 infections and over 150 deaths by 13 June, with transmission continuing in several affected regions. Neither outbreak is on the scale of COVID-19.",
-      "tag": "cases"
     }
   ],
   "highWater": {
