@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 24 Jun 2026 17:06:46 Z",
-  "fetchedAt": "2026-06-24T17:06:46Z",
+  "lastBuildDate": "Wed, 24 Jun 2026 19:49:18 Z",
+  "fetchedAt": "2026-06-24T19:49:18Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -111,7 +111,7 @@ window.FEED_DATA = {
       "probableDeaths": 1,
       "recovered": 10
     },
-    "whoAlert": "PHEIC",
+    "whoAlert": null,
     "sourceLabel": "INRB MVE Sitrep",
     "whoDon": {
       "donId": "2026-DON608",
@@ -126,6 +126,48 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "Open source tool automates data reanalysis to detect rare diseases",
+      "link": "https://www.news-medical.net/news/20260624/Open-source-tool-automates-data-reanalysis-to-detect-rare-diseases.aspx",
+      "pubDate": "Wed, 24 Jun 2026 18:50:00 Z",
+      "desc": "A newly developed open-source tool designed for rigorous reanalysis of genomic data is highly effective at detecting new rare disease diagnoses. And the tool's ability to frequently and automatically reexamine stored DNA data will ensure more timely answers for hundreds of families.",
+      "tag": "analysis"
+    },
+    {
+      "title": "The transcriptional gradient in negative-strand RNA viruses suggests a common RNA transcription mechanism",
+      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014441",
+      "pubDate": "Wed, 24 Jun 2026 18:17:00 Z",
+      "desc": "Nonsegmented negative-strand RNA viruses (NNSV) are a diverse class of medically relevant viruses which display a conserved attenuation gradient in the transcription of their genomes. This gradient has been traditionally explained by the Stop-Start model which attributes attenuation to polymerase behavior at gene junctions.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Obligatory intracellular bacterium Anaplasma phagocytophilum AnkA regulates actin dynamics and spatiotemporal bacterial release",
+      "link": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014350",
+      "pubDate": "Wed, 24 Jun 2026 17:57:00 Z",
+      "desc": "Anaplasma phagocytophilum is an obligatory intracellular bacterium that causes an emerging infectious disease, human granulocytic anaplasmosis. It undergoes a biphasic developmental cycle inside membrane-bound vacuoles within the host human neutrophils, maturing from a proliferating reticulate cell....",
+      "tag": "analysis"
+    },
+    {
+      "title": "France reports first Ebola case after doctor returning from DR Congo tests positive - Yahoo News UK",
+      "link": "https://uk.news.yahoo.com/france-reports-first-ebola-case-065600623.html",
+      "pubDate": "Wed, 24 Jun 2026 17:27:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports first Ebola case after doctor returning from DR Congo tests positive&nbsp;&nbsp;Yahoo News UK",
+      "tag": "analysis"
+    },
+    {
+      "title": "France reports first Ebola case detected on its soil - Winnipeg Sun",
+      "link": "https://www.winnipegsun.com/news/world/france-reports-first-ebola-case-detected-on-its-soil/article_ce67e912-e227-4593-9508-44fcf82204f5.html",
+      "pubDate": "Wed, 24 Jun 2026 17:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports first Ebola case detected on its soil&nbsp;&nbsp;Winnipeg Sun",
+      "tag": "analysis"
+    },
+    {
+      "title": "RD del Congo eleva a 277 los muertos y 1.094 los casos confirmados de ébola",
+      "link": "https://eldiariodeguayana.com.ve/rd-del-congo-eleva-a-277-los-muertos-y-1-094-los-casos-confirmados-de-ebola/",
+      "pubDate": "Wed, 24 Jun 2026 17:19:00 Z",
+      "desc": "Nairobi.- La República Democrática del Congo (RDC) elevó a 277 los muertos y 1.094 los casos confirmados por el brote de ébola declarado en el este del país el pasado 15 de mayo, y alertó de que se mantiene “una transmisión comunitaria continua y creciente”.",
+      "tag": "cases"
+    },
     {
       "title": "First Ebola case outside Africa reported in France - Daily Observer",
       "link": "https://www.observerbd.com/news/580747",
@@ -274,27 +316,6 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "France Confirms Ebola Case Tied To Congo Outbreak - thedeepdive.ca",
-      "link": "https://thedeepdive.ca/france-ebola-case-congo-outbreak/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France Confirms Ebola Case Tied To Congo Outbreak&nbsp;&nbsp;thedeepdive.ca",
-      "tag": "analysis"
-    },
-    {
-      "title": "France confirms first-ever Ebola case as doctor returns from DR Congo - Mid-day",
-      "link": "https://www.mid-day.com/news/world-news/article/ebola-outbreak-france-confirms-first-ever-case-as-doctor-returns-from-dr-congo-23636657",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "Fever -- France. Significance Rating: 3 France confirms first-ever Ebola case as doctor returns from DR Congo&nbsp;&nbsp;Mid-day",
-      "tag": "analysis"
-    },
-    {
-      "title": "France Confirms First Ebola Case Amid DRC Outbreak - The Trumpet Newspaper Nigeria",
-      "link": "https://thetrumpet.ng/france-confirms-first-ebola-case-amid-drc-outbreak/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France Confirms First Ebola Case Amid DRC Outbreak&nbsp;&nbsp;The Trumpet Newspaper Nigeria",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola Outbreak Spreads Outside Africa As France Diagnoses First Case - Forbes",
       "link": "https://www.forbes.com/sites/maryroeloffs/2026/06/24/frances-first-ever-ebola-case-diagnosed-in-doctor-returning-from-congo-live-updates/",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
@@ -327,6 +348,27 @@ window.FEED_DATA = {
       "link": "https://www.businessday.co.za/world/europe/2026-06-24-france-reports-ebola-case-in-doctor-returning-from-drc/",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France reports Ebola case in doctor returning from DRC&nbsp;&nbsp;Business Day",
+      "tag": "analysis"
+    },
+    {
+      "title": "France Confirms Ebola Case Tied To Congo Outbreak - thedeepdive.ca",
+      "link": "https://thedeepdive.ca/france-ebola-case-congo-outbreak/",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France Confirms Ebola Case Tied To Congo Outbreak&nbsp;&nbsp;thedeepdive.ca",
+      "tag": "analysis"
+    },
+    {
+      "title": "France confirms first-ever Ebola case as doctor returns from DR Congo - Mid-day",
+      "link": "https://www.mid-day.com/news/world-news/article/ebola-outbreak-france-confirms-first-ever-case-as-doctor-returns-from-dr-congo-23636657",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "Fever -- France. Significance Rating: 3 France confirms first-ever Ebola case as doctor returns from DR Congo&nbsp;&nbsp;Mid-day",
+      "tag": "analysis"
+    },
+    {
+      "title": "France Confirms First Ebola Case Amid DRC Outbreak - The Trumpet Newspaper Nigeria",
+      "link": "https://thetrumpet.ng/france-confirms-first-ebola-case-amid-drc-outbreak/",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France Confirms First Ebola Case Amid DRC Outbreak&nbsp;&nbsp;The Trumpet Newspaper Nigeria",
       "tag": "analysis"
     },
     {
@@ -400,17 +442,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Today, June 24",
-      "link": "https://kffhealthnews.org/morning-briefing/wednesday-june-24-2026/",
-      "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
-      "desc": "Tears glazed Daniel Cressy’s face as he became the first patient in the Gulf South to be functionally cured of sickle cell disease through gene editing on Monday. He said it felt like being reborn. “ God has given me another life, a new chapter. I was able to experience a second birthday, something....",
-      "tag": "analysis"
-    },
-    {
       "title": "Study Showing Benefits Of Covid Vaccine Published In AMA Journal After CDC Refused To Run It In Theirs",
       "link": "https://kffhealthnews.org/morning-breakout/vaccines-062426/",
       "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
       "desc": "A study on Covid vaccines that the Centers for Disease Control and Prevention’s acting director blocked from publication came out Tuesday in a different journal. The findings show that Covid vaccines reduced the likelihood of severe illness by about half among adults last fall and winter.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Today, June 24",
+      "link": "https://kffhealthnews.org/morning-briefing/wednesday-june-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
+      "desc": "Tears glazed Daniel Cressy’s face as he became the first patient in the Gulf South to be functionally cured of sickle cell disease through gene editing on Monday. He said it felt like being reborn. “ God has given me another life, a new chapter. I was able to experience a second birthday, something....",
       "tag": "analysis"
     },
     {
@@ -419,6 +461,13 @@ window.FEED_DATA = {
       "pubDate": "Wed, 24 Jun 2026 12:52:00 Z",
       "desc": "Unclassified / Non classifié\n***Preliminary report from official and unofficial sources***\n \nLocation: France\n \nSummary of Situation:\nAccording to media and official reports, on June 24, the Ministry of Health has diagnosed a confirmed case of Ebola in France. The patient is a humanitarian physician who recently returned from the Democratic Republi",
       "tag": "cases"
+    },
+    {
+      "title": "Alarm in France! A case of Ebola is discovered, the doctor who returned from Congo is placed in isolation - Balkanweb.com",
+      "link": "https://www.balkanweb.com/en/Alarm-in-France--a-case-of-Ebola-is-discovered--the-doctor-who-returned-from-Congo-is-placed-in-isolation/",
+      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 Alarm in France! A case of Ebola is discovered, the doctor who returned from Congo is placed in isolation&nbsp;&nbsp;Balkanweb.com",
+      "tag": "analysis"
     },
     {
       "title": "Doctor in France tests positive for Ebola - The Telegraph",
@@ -456,10 +505,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Alarm in France! A case of Ebola is discovered, the doctor who returned from Congo is placed in isolation - Balkanweb.com",
-      "link": "https://www.balkanweb.com/en/Alarm-in-France--a-case-of-Ebola-is-discovered--the-doctor-who-returned-from-Congo-is-placed-in-isolation/",
+      "title": "France confirms 1st Ebola case linked to outbreak in the DRC - Yahoo",
+      "link": "https://www.yahoo.com/news/world/articles/france-confirms-1st-ebola-case-102129045.html",
       "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 Alarm in France! A case of Ebola is discovered, the doctor who returned from Congo is placed in isolation&nbsp;&nbsp;Balkanweb.com",
+      "desc": "-- France. Significance Rating: 1 France confirms 1st Ebola case linked to outbreak in the DRC&nbsp;&nbsp;Yahoo",
       "tag": "analysis"
     },
     {
@@ -467,13 +516,6 @@ window.FEED_DATA = {
       "link": "https://informat.ro/en/international/first-case-of-ebola-in-france-doctor-returned-from-drc-tested-positive-127550",
       "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
       "desc": "-- France. Significance Rating: 1 First case of Ebola in France: doctor returned from DRC tested positive&nbsp;&nbsp;Informat.ro",
-      "tag": "analysis"
-    },
-    {
-      "title": "France confirms 1st Ebola case linked to outbreak in the DRC - Yahoo",
-      "link": "https://www.yahoo.com/news/world/articles/france-confirms-1st-ebola-case-102129045.html",
-      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms 1st Ebola case linked to outbreak in the DRC&nbsp;&nbsp;Yahoo",
       "tag": "analysis"
     },
     {
@@ -687,6 +729,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "La RDC et l’Ouganda lancent un plan transfrontalier de 90 jours pour renforcer la réponse à Aru.",
+      "link": "https://insp.cd/la-rdc-et-louganda-lancent-un-plan-transfrontalier-de-90-jours-pour-renforcer-la-reponse-a-aru/",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "juin 24, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nAru, La République Démocratique du Congo et la République de l’Ouganda ont franchi une étape majeure dans la lutte contre la Maladie à Virus Ebola (MVE) avec le lancement officiel d’un Pl",
+      "tag": "response"
+    },
+    {
       "title": "Maimuna Sali Paul",
       "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Paul+MS&cauthor_id=42335246",
       "pubDate": "Tue, 23 Jun 2026 21:29:00 Z",
@@ -820,17 +869,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Déclaration d’Africa CDC à l’issue de la Réunion de Haut Niveau sur la Riposte à Ebola en République Démocratique du Congo",
+      "link": "https://africacdc.org/news-item/declaration-dafrica-cdc-a-lissue-de-la-reunion-de-haut-niveau-sur-la-riposte-a-ebola-en-republique-democratique-du-congo/",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "Aujourd’hui, 23 juin 2026, Africa CDC a participé à une réunion de haut niveau tenue en présence de S.E. Évariste Ndayishimiye, Président de la République du Burundi et Président de l’Union africaine, et de S.E. Félix Tshisekedi, Président de la République démocratique du Congo, ainsi que du Premier Ministre de la République démocratique du",
+      "tag": "analysis"
+    },
+    {
+      "title": "Africa CDC Statement on the High-Level Ebola Response Meeting in the Democratic Republic of Congo",
+      "link": "https://africacdc.org/news-item/africa-cdc-statement-on-the-high-level-ebola-response-meeting-in-the-democratic-republic-of-congo/",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "Today, 23 June 2026, Africa Centers for Disease Control and prevention ( Africa CDC) participated in a high-level meeting convened in the presence of H.E. Évariste Ndayishimiye, President of the Republic of Burundi and Chairperson of the African Union, and H.E. Félix Tshisekedi, President of the Democratic Republic of Congo, alongside the Pr",
+      "tag": "response"
+    },
+    {
       "title": "Validation of diagnostic codes for identifying chlamydial infections from TriNetX electronic health record data in the United States",
       "link": "https://doi.org/10.1097/olq.0000000000002378",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1097/olq.0000000000002378\nAuthors: Lin Li, Kexin Zhu, Hosn Nabaa, Konstantin Kozmenko, Valerie Bosch Castells, Delphine Saragoussi, Sandra S. Chaves\n \n                     Background: \n                     The accuracy of diagnostic codes for chlamydial infections in electronic health records (EHR) is",
-      "tag": "analysis"
-    },
-    {
-      "title": "Epidemiological study of Crimean- Congo haemorrhagic fever in Thi Qar (2023–2024): assessing the role of tick bites, household animals, slaughter and fresh meat exposure in disease transmission",
-      "link": "https://doi.org/10.1007/s13337-026-00968-8",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1007/s13337-026-00968-8\nAuthors: Saja Abdalkadhum Hommod, Azhar kareem Razzaq, Ali B. Roomi",
       "tag": "analysis"
     },
     {
@@ -845,13 +901,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1371/journal.ppat.1014372",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1371/journal.ppat.1014372\nAuthors: Reena Mukhiya, Jessica R. Loughland, Nick L. Dooley, Zuleima Pava, Damian Oyong, Dean W. Andrew, Julianne Hamelink, Kiana Berry, James S. McCarthy, Bridget E. Barber, J. Alejandro Lopez, Christian R. Engwerda, Michelle J. Boyle\n \n                    NK cells are innate and adaptive responders to mal",
-      "tag": "response"
-    },
-    {
-      "title": "Africa CDC Statement on the High-Level Ebola Response Meeting in the Democratic Republic of Congo",
-      "link": "https://africacdc.org/news-item/africa-cdc-statement-on-the-high-level-ebola-response-meeting-in-the-democratic-republic-of-congo/",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "Today, 23 June 2026, Africa Centers for Disease Control and prevention ( Africa CDC) participated in a high-level meeting convened in the presence of H.E. Évariste Ndayishimiye, President of the Republic of Burundi and Chairperson of the African Union, and H.E. Félix Tshisekedi, President of the Democratic Republic of Congo, alongside the Pr",
       "tag": "response"
     },
     {
@@ -876,10 +925,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Déclaration d’Africa CDC à l’issue de la Réunion de Haut Niveau sur la Riposte à Ebola en République Démocratique du Congo",
-      "link": "https://africacdc.org/news-item/declaration-dafrica-cdc-a-lissue-de-la-reunion-de-haut-niveau-sur-la-riposte-a-ebola-en-republique-democratique-du-congo/",
+      "title": "Epidemiological study of Crimean- Congo haemorrhagic fever in Thi Qar (2023–2024): assessing the role of tick bites, household animals, slaughter and fresh meat exposure in disease transmission",
+      "link": "https://doi.org/10.1007/s13337-026-00968-8",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "Aujourd’hui, 23 juin 2026, Africa CDC a participé à une réunion de haut niveau tenue en présence de S.E. Évariste Ndayishimiye, Président de la République du Burundi et Président de l’Union africaine, et de S.E. Félix Tshisekedi, Président de la République démocratique du Congo, ainsi que du Premier Ministre de la République démocratique du",
+      "desc": "DOI: 10.1007/s13337-026-00968-8\nAuthors: Saja Abdalkadhum Hommod, Azhar kareem Razzaq, Ali B. Roomi",
       "tag": "analysis"
     },
     {
@@ -1037,18 +1086,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "At least 30 deaths at Congo camp show Ebola could be spreading fast - NTV Kenya",
-      "link": "https://ntvkenya.co.ke/news/at-least-30-deaths-at-congo-camp-show-ebola-could-be-spreading-fast/",
-      "pubDate": "Mon, 22 Jun 2026 12:26:00 Z",
-      "desc": "Fever -- Kenya. Significance Rating: 3 At least 30 deaths at Congo camp show Ebola could be spreading fast&nbsp;&nbsp;NTV Kenya",
-      "tag": "cases"
-    },
-    {
       "title": "El ébola y el hantavirus obligan al sector sanitario a extremar su preparación ante nuevas amenazas globales - consalud.es",
       "link": "https://www.consalud.es/profesionales/el-ebola-y-el-hantavirus-obligan-al-sector-sanitario-a-extremar-su-preparacion-ante-nuevas-amenazas-globales.html",
       "pubDate": "Mon, 22 Jun 2026 12:26:00 Z",
       "desc": "Hantavirus -- Saskatchewan Province, Canada. Significance Rating: 3 El ébola y el hantavirus obligan al sector sanitario a extremar su preparación ante nuevas amenazas globales&nbsp;&nbsp;consalud",
       "tag": "analysis"
+    },
+    {
+      "title": "At least 30 deaths at Congo camp show Ebola could be spreading fast - NTV Kenya",
+      "link": "https://ntvkenya.co.ke/news/at-least-30-deaths-at-congo-camp-show-ebola-could-be-spreading-fast/",
+      "pubDate": "Mon, 22 Jun 2026 12:26:00 Z",
+      "desc": "Fever -- Kenya. Significance Rating: 3 At least 30 deaths at Congo camp show Ebola could be spreading fast&nbsp;&nbsp;NTV Kenya",
+      "tag": "cases"
     },
     {
       "title": "埃博拉疫情封锁边境 刚果与卢旺达贸易命脉断裂 数万人生计受创 - aboluowang.com",
@@ -1128,18 +1177,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Inhibitors of the Machupo Virus L Endonuclease for Bolivian Hemorrhagic Fever Treatments",
-      "link": "https://doi.org/10.3390/microorganisms14061377",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/microorganisms14061377\nAuthors: Oluwafoyinsola O. Faniyi, Kristin V. Lyles, Neva Agarwala, Haozhe Cheng, Elise Copeland, Teri Tran, Shuyue Yang, Bingchen Yu, Binghe Wang, Xiaoxiao Yang, Ming Luo\n Machupo virus (MACV) is the causal agent of Bolivian Hemorrhagic fever. It is highly pathogenic, has a high mortality rate, and curren",
-      "tag": "analysis"
-    },
-    {
       "title": "Group B streptococcal membrane vesicles induce proinflammatory responses in neonatal meninges",
       "link": "https://doi.org/10.1128/iai.00231-26",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1128/iai.00231-26\nAuthors: Luke R. Joyce, Amanda Brady, Sol Kim, Priya M. Christensen, Kelli L. Palmer, Ziqiang Guan, Julie A. Siegnethaler, Kelly S. Doran\n ABSTRACT \n                   \n                     \n                     \n                       Streptococcu",
       "tag": "response"
+    },
+    {
+      "title": "Inhibitors of the Machupo Virus L Endonuclease for Bolivian Hemorrhagic Fever Treatments",
+      "link": "https://doi.org/10.3390/microorganisms14061377",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/microorganisms14061377\nAuthors: Oluwafoyinsola O. Faniyi, Kristin V. Lyles, Neva Agarwala, Haozhe Cheng, Elise Copeland, Teri Tran, Shuyue Yang, Bingchen Yu, Binghe Wang, Xiaoxiao Yang, Ming Luo\n Machupo virus (MACV) is the causal agent of Bolivian Hemorrhagic fever. It is highly pathogenic, has a high mortality rate, and curren",
+      "tag": "analysis"
     },
     {
       "title": "Hantavirus infection in emergency radiology: Imaging manifestations, pathophysiology, and infection control considerations",
@@ -1268,17 +1317,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Data-driven fractional-order modeling and optimal control of Ebola virus dynamics with environmental transmission and memory effects",
-      "link": "https://doi.org/10.1140/epjs/s11734-026-02429-1",
-      "pubDate": "Sun, 21 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1140/epjs/s11734-026-02429-1\nAuthors: Dipti Dolai, Mst Sebi Khatun, Palakshi Paul, Pritha Das, Dibakar Ghosh, Ranjit Kumar Upadhyay",
-      "tag": "analysis"
-    },
-    {
       "title": "Incidence of unplanned gastrostomy tube replacements and associated complications in people with motor neurone disease and other conditions: A retrospective audit of an Australian dietitian‐led clinic",
       "link": "https://doi.org/10.1002/ncp.70140",
       "pubDate": "Sun, 21 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1002/ncp.70140\nAuthors: Emily Farrugia, Shanelle Bailey, Adam I. Semciw, Mani Suleiman, Mark Tacey, Caroline J. Tuck, Liam M. Hannan\n Abstract \n                   \n                     Background \n                     Gastrostomy tube placement is a common intervention for long‐t",
+      "tag": "analysis"
+    },
+    {
+      "title": "Data-driven fractional-order modeling and optimal control of Ebola virus dynamics with environmental transmission and memory effects",
+      "link": "https://doi.org/10.1140/epjs/s11734-026-02429-1",
+      "pubDate": "Sun, 21 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1140/epjs/s11734-026-02429-1\nAuthors: Dipti Dolai, Mst Sebi Khatun, Palakshi Paul, Pritha Das, Dibakar Ghosh, Ranjit Kumar Upadhyay",
       "tag": "analysis"
     },
     {
@@ -1604,20 +1653,6 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Bundibugyo virus outbreak: when a concerning pathogen meets a humanitarian emergency",
-      "link": "https://doi.org/10.1038/s41579-026-01332-9",
-      "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/s41579-026-01332-9\nAuthors: Nahid Bhadelia",
-      "tag": "analysis"
-    },
-    {
-      "title": "Stakeholders' perspectives on integrating point‐of‐care diagnostics into forensic death investigations in South Africa",
-      "link": "https://doi.org/10.1111/1556-4029.70390",
-      "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/1556-4029.70390\nAuthors: Sebueng Ramatsokotla, Bathabile Soul, Kuhlula Maluleke, Lucinda Evert, Stefan Jansen van Vurren, Bettina Chale‐Matsau, Susan Mabotja, Evans Duah, Tivani Mashamba‐Thompson\n Abstract \n                   Unnatural and unexplained deaths present critical challenges to the criminal just",
-      "tag": "cases"
-    },
-    {
       "title": "Acute Liver Injury with Viral-like Illness and Ceftriaxone Exposure in a Patient with Previously Undiagnosed Hereditary Elliptocytosis",
       "link": "https://doi.org/10.4274/tjh.galenos.2026.47704",
       "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
@@ -1629,6 +1664,20 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.4103/aam.aam_122_26",
       "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.4103/aam.aam_122_26\nAuthors: Olusola Adetunji Oyedeji, Olanike Taye Oladibu, Temitope Ajibola Oyelami, Mayowa Mary Adetoye, Gbemiga Olorunfemi Osawu, Victor Idowu Joel-Medewase, Efeturi Agelebe\n Abstract \n                   A 2-month-old male infant was diagnosed as having congenital syphilis at the Outpatient",
+      "tag": "analysis"
+    },
+    {
+      "title": "Stakeholders' perspectives on integrating point‐of‐care diagnostics into forensic death investigations in South Africa",
+      "link": "https://doi.org/10.1111/1556-4029.70390",
+      "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1111/1556-4029.70390\nAuthors: Sebueng Ramatsokotla, Bathabile Soul, Kuhlula Maluleke, Lucinda Evert, Stefan Jansen van Vurren, Bettina Chale‐Matsau, Susan Mabotja, Evans Duah, Tivani Mashamba‐Thompson\n Abstract \n                   Unnatural and unexplained deaths present critical challenges to the criminal just",
+      "tag": "cases"
+    },
+    {
+      "title": "Bundibugyo virus outbreak: when a concerning pathogen meets a humanitarian emergency",
+      "link": "https://doi.org/10.1038/s41579-026-01332-9",
+      "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/s41579-026-01332-9\nAuthors: Nahid Bhadelia",
       "tag": "analysis"
     },
     {
@@ -1826,55 +1875,6 @@ window.FEED_DATA = {
       "pubDate": "Thu, 18 Jun 2026 13:50:00 Z",
       "desc": "The Trump administration’s Justice Department is challenging several state laws passed by Virginia Democrats targeting the work of federal immigration enforcement officers. The complaint, filed in the Eastern District of Virginia’s Richmond Division, challenges state laws that seek to ban federal....",
       "tag": "analysis"
-    },
-    {
-      "title": "Viewpoints: Why Is Eating Right So Difficult?; Bundibugyo Strain Of Ebola Requires Immediate Attention",
-      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-why-is-eating-right-so-difficult-bundibugyo-strain-of-ebola-requires-immediate-attention/",
-      "pubDate": "Thu, 18 Jun 2026 13:50:00 Z",
-      "desc": "From accelerating drug discovery to improving diagnostics, AI’s potential in health care is enormous. But AI is also creating a new and largely overlooked strain on something fundamental to health: the electricity and water systems that sustain modern life. (Sten H. Vermund and Patricia J.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Amid Ebola Outbreak, Trump Admin Narrows CDC Role In Global Health",
-      "link": "https://kffhealthnews.org/morning-breakout/administration-news-061826/",
-      "pubDate": "Thu, 18 Jun 2026 13:50:00 Z",
-      "desc": "Even as the world is racing to contain the deadly Ebola epidemic in the Democratic Republic of Congo, the Trump administration is moving ahead with a plan that could decimate support for programs that detect and snuff out exactly such outbreaks. The new plan, proposed by the State Department, aims....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Así es como el ébola persiste en el sistema nervioso central y mantiene su capacidad infecciosa",
-      "link": "https://www.consalud.es/pacientes/ebola-persiste-en-el-sistema-nervioso-central-y-mantiene-su-capacidad-infecciosa.html",
-      "pubDate": "Thu, 18 Jun 2026 13:49:00 Z",
-      "desc": "La capacidad del virus del Ébola para permanecer en el organismo tras la infección sigue siendo una de las principales incógnitas sobre esta enfermedad. Un estudio realizado por investigadores de la Escuela de Medicina Icahn del Monte Sinaí, el Instituto Bernhard Nocht de Medicina Tropical (BNITM) y....",
-      "tag": "analysis"
-    },
-    {
-      "title": "A visual guide to the 2026 Ebola outbreak",
-      "link": "https://pharmaceutical-journal.com/article/feature/a-visual-guide-to-the-2026-ebola-outbreak",
-      "pubDate": "Thu, 18 Jun 2026 13:08:00 Z",
-      "desc": "Cases of Ebola in the Democratic Republic of the Congo (DRC) and Uganda are rising, and the outbreak has been deemed a “public health emergency of international concern” by the World Health Organization. Meanwhile, the UK Health Security Agency (UKHSA) has urged clinicians to consider Ebola in any....",
-      "tag": "pheic"
-    },
-    {
-      "title": "Hunger set to worsen in 13 global hotspots, UN agencies warn",
-      "link": "https://www.downtoearth.org.in/food/hunger-set-to-worsen-in-13-global-hotspots-un-agencies-warn",
-      "pubDate": "Thu, 18 Jun 2026 11:08:00 Z",
-      "desc": "Millions of people are likely to face worsening acute hunger across 13 global hotspots in the coming months, the United Nations’ food agencies have warned. A joint Hunger Hotspots report by the Food and Agriculture Organization and the World Food Programme, released on June 17, 2026 said food....",
-      "tag": "analysis"
-    },
-    {
-      "title": "More Evidence Ties Shingles Vax to Lower Dementia Risk",
-      "link": "https://www.medscape.com/viewarticle/more-evidence-ties-shingles-vax-lower-dementia-risk-2026a1000kl8?src=rss",
-      "pubDate": "Thu, 18 Jun 2026 10:08:00 Z",
-      "desc": "Published in Annals of Internal Medicine , the research found Medicare beneficiaries who received the recombinant zoster vaccine had a 24% lower relative risk for dementia than their unvaccinated peers. While experts remain divided on whether the brain-protecting benefit stems from a biological....",
-      "tag": "analysis"
-    },
-    {
-      "title": "12 June 2026 Departmental update Why community trust is critical to health emergency response",
-      "link": "https://www.who.int/news/item/12-06-2026-why-community-trust-is-critical-to-health-emergency-response",
-      "pubDate": "Thu, 18 Jun 2026 09:47:00 Z",
-      "desc": "Brazzaville When an outbreak of Ebola was declared in the Democratic Republic of the Congo's Kasai Province on 4 September 2025, health authorities faced more than the virus itself. Fear, uncertainty and mistrust threatened to undermine outbreak control efforts in communities experiencing their first Ebola outbreak since 2007.",
-      "tag": "response"
     }
   ],
   "highWater": {
