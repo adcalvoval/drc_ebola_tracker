@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 24 Jun 2026 14:35:18 Z",
-  "fetchedAt": "2026-06-24T14:35:18Z",
+  "lastBuildDate": "Wed, 24 Jun 2026 17:06:46 Z",
+  "fetchedAt": "2026-06-24T17:06:46Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -69,8 +69,8 @@ window.FEED_DATA = {
     },
     "drcTiers": {
       "media": {
-        "deaths": 270,
         "suspected": 1000,
+        "deaths": 270,
         "confirmed": 48
       },
       "whoDon": {
@@ -127,6 +127,125 @@ window.FEED_DATA = {
   },
   "items": [
     {
+      "title": "First Ebola case outside Africa reported in France - Daily Observer",
+      "link": "https://www.observerbd.com/news/580747",
+      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
+      "desc": "Chronic/Non-Infectious Disease -- France. Significance Rating: 1 First Ebola case outside Africa reported in France&nbsp;&nbsp;Daily Observer",
+      "tag": "analysis"
+    },
+    {
+      "title": "First Ebola case confirmed in France after doctor returns from Congo - Business Today",
+      "link": "https://www.businesstoday.in/world/story/first-ebola-case-confirmed-in-france-after-doctor-returns-from-congo-539050-2026-06-24",
+      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 First Ebola case confirmed in France after doctor returns from Congo&nbsp;&nbsp;Business Today",
+      "tag": "cases"
+    },
+    {
+      "title": "France confirms first-ever Ebola case after doctor’s return from DR Congo - nigerianeye.com",
+      "link": "https://www.nigerianeye.com/2026/06/france-confirms-first-ever-ebola-case.html",
+      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
+      "desc": "Ebola -- France. Significance Rating: 4 France confirms first-ever Ebola case after doctor’s return from DR Congo&nbsp;&nbsp;nigerianeye.com",
+      "tag": "analysis"
+    },
+    {
+      "title": "France Reports Ebola Case in Doctor Returning from Congo - Asharq Al-Awsat | Explore World News Today",
+      "link": "https://english.aawsat.com/world/5287929-france-reports-ebola-case-doctor-returning-congo",
+      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France Reports Ebola Case in Doctor Returning from Congo&nbsp;&nbsp;Asharq Al-Awsat | Explore World News Today",
+      "tag": "analysis"
+    },
+    {
+      "title": "France reports 1st Ebola case in individual returning from DRC - Outbreak News Today",
+      "link": "https://outbreaknewstoday.substack.com/p/france-reports-1st-ebola-case-in",
+      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports 1st Ebola case in individual returning from DRC&nbsp;&nbsp;Outbreak News Today",
+      "tag": "analysis"
+    },
+    {
+      "title": "France Reports First Ebola Case After Doctor Returns from Congo - Global Banking & Finance Review",
+      "link": "https://www.globalbankingandfinance.com/france-reports-ebola-case-doctor-returning-humanitarian/",
+      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France Reports First Ebola Case After Doctor Returns from Congo&nbsp;&nbsp;Global Banking & Finance Review",
+      "tag": "analysis"
+    },
+    {
+      "title": "France confirms first ever case of Ebola in doctor returning from DRC - africanews.com",
+      "link": "https://www.africanews.com/2026/06/24/france-confirms-first-ever-case-of-ebola-in-doctor-returning-from-drc/",
+      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
+      "desc": "Hemorrhagic Fever -- France. Significance Rating: 4 France confirms first ever case of Ebola in doctor returning from DRC&nbsp;&nbsp;africanews.com",
+      "tag": "analysis"
+    },
+    {
+      "title": "France reports first Ebola case in doctor returning from DRC - Australian Broadcasting Corporation",
+      "link": "https://www.abc.net.au/news/2026-06-24/france-detects-first-ebola-case-outside-africa-in-current-outbre/106838794",
+      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DRC&nbsp;&nbsp;Australian Broadcasting Corporation",
+      "tag": "analysis"
+    },
+    {
+      "title": "France confirms first Ebola case linked to DR Congo outbreak - Eye Radio",
+      "link": "https://www.eyeradio.org/france-confirms-first-ebola-case-linked-to-dr-congo-outbreak/",
+      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case linked to DR Congo outbreak&nbsp;&nbsp;Eye Radio",
+      "tag": "analysis"
+    },
+    {
+      "title": "Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction - foreignpolicyjournal.com",
+      "link": "https://www.foreignpolicyjournal.com/2026/06/24/congo-ebola-outbreak-sets-record-first-month-case-count-as-kenya-halts-us-quarantine-facility-construction/",
+      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
+      "desc": "-- Kenya. Significance Rating: 1 Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction&nbsp;&nbsp;foreignpolicyjournal.com",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola Outbreak Surpasses 1,000 Cases, Becoming Second Largest on Record",
+      "link": "https://globalbiodefense.com/2026/06/23/cdc-ebola-sitrep-1000-plus-cases-budibugyo-evd/",
+      "pubDate": "Wed, 24 Jun 2026 16:12:00 Z",
+      "desc": "An Ebola outbreak driven by a rare viral strain has crossed a grim milestone, with the Democratic Republic of the Congo confirming more than 1,000 cases as of June 22 — making it the second largest Ebola outbreak ever recorded. The outbreak, caused by Bundibugyo virus, has spread faster than any....",
+      "tag": "cases"
+    },
+    {
+      "title": "A Race Against the Clock: CDC Models Warn of Catastrophic Ebola Escalation Without Aggressive Intervention",
+      "link": "https://globalbiodefense.com/2026/06/11/a-race-against-the-clock-cdc-models-warn-of-catastrophic-ebola-escalation-without-aggressive-intervention/",
+      "pubDate": "Wed, 24 Jun 2026 15:42:00 Z",
+      "desc": "The world has been here before — a hemorrhagic fever outbreak simmering undetected for weeks, then confirmed too late for easy containment. What happened in West Africa between 2014 and 2016, killing more than 11,000 people and infecting more than 28,000, began the same way.",
+      "tag": "cases"
+    },
+    {
+      "title": "Rare Ebola strain confirmed in France as doctor diagnosed with potentially deadly virus - MSN",
+      "link": "https://www.msn.com/en-gb/health/other/rare-ebola-strain-confirmed-in-france-as-doctor-diagnosed-with-potentially-deadly-virus/ar-AA26qyPd",
+      "pubDate": "Wed, 24 Jun 2026 15:27:00 Z",
+      "desc": "-- France. Significance Rating: 1 Rare Ebola strain confirmed in France as doctor diagnosed with potentially deadly virus&nbsp;&nbsp;MSN",
+      "tag": "cases"
+    },
+    {
+      "title": "Virus: Epidémie d’Ebola: un premier cas identifié en France - Le Matin",
+      "link": "https://www.lematin.ch/story/virus-epidemie-d-ebola-un-premier-cas-identifie-en-france-103589434",
+      "pubDate": "Wed, 24 Jun 2026 15:26:00 Z",
+      "desc": "Ebola -- France. Significance Rating: 4 Virus: Epidémie d’Ebola: un premier cas identifié en France&nbsp;&nbsp;Le Matin",
+      "tag": "analysis"
+    },
+    {
+      "title": "The-bulletin-week-23-from-1st-to-7th-June-2026-1",
+      "link": "https://www.rbc.gov.rw/fileadmin/user_upload/bulletin/2026/The%20bulletin%20week%2023%20from%201st%20to%207th%20June%202026.pdf",
+      "pubDate": "Wed, 24 Jun 2026 14:50:00 Z",
+      "desc": "Bushenge PH, Murunda DH and Gahini DH (each reported 3 perinatal deaths) 1Weekly Epidemiological Bulletin | Week 12 01-07 June 202623WEEK WEEKLY EPIDEMIOLOGICAL BULLETIN Bushenge PH, Murunda DH and Gahini DH (each reported 3 perinatal deaths) 9 human deaths 1 human illness 2 animal deaths 7 dog....",
+      "tag": "cases"
+    },
+    {
+      "title": "24 June 2026 WHO Director-General's opening remarks at the media briefing – 24 June 2026",
+      "link": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---24-june-2026",
+      "pubDate": "Wed, 24 Jun 2026 14:40:00 Z",
+      "desc": "Good afternoon to those in the room, and good morning, good afternoon and good evening to those online, wherever you are in the world. We begin with the Ebola outbreak in the Democratic Republic of the Congo. It’s encouraging to see that since the outbreak was first reported five weeks ago, the....",
+      "tag": "analysis"
+    },
+    {
+      "title": "As first imported Ebola case is recorded in Europe, ECDC calls on EU member states to continue investing in preparedness",
+      "link": "https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue",
+      "pubDate": "Wed, 24 Jun 2026 14:37:00 Z",
+      "desc": "Following confirmation of the first imported case of Ebola disease in Europe since the current outbreak began after a doctor returning to France from the Democratic Republic of the Congo ‌tested positive, the European Centre for Disease Prevention and Control (ECDC) calls on EU Member States to continue strengthening their preparedness.",
+      "tag": "response"
+    },
+    {
       "title": "Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway - Jamaica Observer",
       "link": "https://www.jamaicaobserver.com/2026/06/24/doctor-returning-dr-congo-tests-positive-ebola-france-contact-tracing-underway/",
       "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
@@ -155,13 +274,6 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Ebola Outbreak Spreads Outside Africa As France Diagnoses First Case - Forbes",
-      "link": "https://www.forbes.com/sites/maryroeloffs/2026/06/24/frances-first-ever-ebola-case-diagnosed-in-doctor-returning-from-congo-live-updates/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 Ebola Outbreak Spreads Outside Africa As France Diagnoses First Case&nbsp;&nbsp;Forbes",
-      "tag": "analysis"
-    },
-    {
       "title": "France Confirms Ebola Case Tied To Congo Outbreak - thedeepdive.ca",
       "link": "https://thedeepdive.ca/france-ebola-case-congo-outbreak/",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
@@ -176,17 +288,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "France reports Ebola case in doctor returning from DRC - Business Day",
-      "link": "https://www.businessday.co.za/world/europe/2026-06-24-france-reports-ebola-case-in-doctor-returning-from-drc/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France reports Ebola case in doctor returning from DRC&nbsp;&nbsp;Business Day",
-      "tag": "analysis"
-    },
-    {
       "title": "France Confirms First Ebola Case Amid DRC Outbreak - The Trumpet Newspaper Nigeria",
       "link": "https://thetrumpet.ng/france-confirms-first-ebola-case-amid-drc-outbreak/",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France Confirms First Ebola Case Amid DRC Outbreak&nbsp;&nbsp;The Trumpet Newspaper Nigeria",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola Outbreak Spreads Outside Africa As France Diagnoses First Case - Forbes",
+      "link": "https://www.forbes.com/sites/maryroeloffs/2026/06/24/frances-first-ever-ebola-case-diagnosed-in-doctor-returning-from-congo-live-updates/",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 Ebola Outbreak Spreads Outside Africa As France Diagnoses First Case&nbsp;&nbsp;Forbes",
       "tag": "analysis"
     },
     {
@@ -208,6 +320,13 @@ window.FEED_DATA = {
       "link": "https://www.emirates247.com/world/france-confirms-first-ebola-case-in-doctor-returning-from-congo-humanitarian-mission/2936",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France confirms first Ebola case in doctor returning from Congo humanitarian mission&nbsp;&nbsp;Emirates 24|7",
+      "tag": "analysis"
+    },
+    {
+      "title": "France reports Ebola case in doctor returning from DRC - Business Day",
+      "link": "https://www.businessday.co.za/world/europe/2026-06-24-france-reports-ebola-case-in-doctor-returning-from-drc/",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports Ebola case in doctor returning from DRC&nbsp;&nbsp;Business Day",
       "tag": "analysis"
     },
     {
@@ -253,18 +372,18 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "France confirms first Ebola case after doctor returning from DRC tests positive - The National",
-      "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
-      "tag": "analysis"
-    },
-    {
       "title": "Urgent: First Ebola case confirmed in France after doctor returns from DRC -- media-Xinhua - 新华网",
       "link": "http://www.xinhuanet.com/english/20260624/6e2c0b28af854e9296c807b7bf340c39/c.html",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "-- France. Significance Rating: 1 Urgent: First Ebola case confirmed in France after doctor returns from DRC -- media-Xinhua&nbsp;&nbsp;新华网",
       "tag": "cases"
+    },
+    {
+      "title": "France confirms first Ebola case after doctor returning from DRC tests positive - The National",
+      "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
+      "tag": "analysis"
     },
     {
       "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
@@ -281,17 +400,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Study Showing Benefits Of Covid Vaccine Published In AMA Journal After CDC Refused To Run It In Theirs",
-      "link": "https://kffhealthnews.org/morning-breakout/vaccines-062426/",
-      "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
-      "desc": "A study on Covid vaccines that the Centers for Disease Control and Prevention’s acting director blocked from publication came out Tuesday in a different journal. The findings show that Covid vaccines reduced the likelihood of severe illness by about half among adults last fall and winter.",
-      "tag": "analysis"
-    },
-    {
       "title": "Today, June 24",
       "link": "https://kffhealthnews.org/morning-briefing/wednesday-june-24-2026/",
       "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
       "desc": "Tears glazed Daniel Cressy’s face as he became the first patient in the Gulf South to be functionally cured of sickle cell disease through gene editing on Monday. He said it felt like being reborn. “ God has given me another life, a new chapter. I was able to experience a second birthday, something....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Study Showing Benefits Of Covid Vaccine Published In AMA Journal After CDC Refused To Run It In Theirs",
+      "link": "https://kffhealthnews.org/morning-breakout/vaccines-062426/",
+      "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
+      "desc": "A study on Covid vaccines that the Centers for Disease Control and Prevention’s acting director blocked from publication came out Tuesday in a different journal. The findings show that Covid vaccines reduced the likelihood of severe illness by about half among adults last fall and winter.",
       "tag": "analysis"
     },
     {
@@ -323,13 +442,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "France confirms 1st Ebola case linked to outbreak in the DRC - Yahoo",
-      "link": "https://www.yahoo.com/news/world/articles/france-confirms-1st-ebola-case-102129045.html",
-      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms 1st Ebola case linked to outbreak in the DRC&nbsp;&nbsp;Yahoo",
-      "tag": "analysis"
-    },
-    {
       "title": "France Confirms First Ebola Case Linked to DR Congo Outbreak - streamlinefeed.co.ke",
       "link": "https://streamlinefeed.co.ke/news/france-confirms-first-ebola-case-linked-to-dr-congo-outbreak",
       "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
@@ -344,6 +456,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Alarm in France! A case of Ebola is discovered, the doctor who returned from Congo is placed in isolation - Balkanweb.com",
+      "link": "https://www.balkanweb.com/en/Alarm-in-France--a-case-of-Ebola-is-discovered--the-doctor-who-returned-from-Congo-is-placed-in-isolation/",
+      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 Alarm in France! A case of Ebola is discovered, the doctor who returned from Congo is placed in isolation&nbsp;&nbsp;Balkanweb.com",
+      "tag": "analysis"
+    },
+    {
       "title": "First case of Ebola in France: doctor returned from DRC tested positive - Informat.ro",
       "link": "https://informat.ro/en/international/first-case-of-ebola-in-france-doctor-returned-from-drc-tested-positive-127550",
       "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
@@ -351,10 +470,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Alarm in France! A case of Ebola is discovered, the doctor who returned from Congo is placed in isolation - Balkanweb.com",
-      "link": "https://www.balkanweb.com/en/Alarm-in-France--a-case-of-Ebola-is-discovered--the-doctor-who-returned-from-Congo-is-placed-in-isolation/",
+      "title": "France confirms 1st Ebola case linked to outbreak in the DRC - Yahoo",
+      "link": "https://www.yahoo.com/news/world/articles/france-confirms-1st-ebola-case-102129045.html",
       "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 Alarm in France! A case of Ebola is discovered, the doctor who returned from Congo is placed in isolation&nbsp;&nbsp;Balkanweb.com",
+      "desc": "-- France. Significance Rating: 1 France confirms 1st Ebola case linked to outbreak in the DRC&nbsp;&nbsp;Yahoo",
+      "tag": "analysis"
+    },
+    {
+      "title": "France reports first Ebola case after doctor returning from DR Congo tests positive - Manx Radio",
+      "link": "https://www.manxradio.com/news/world-news/france-reports-first-ebola-case-after-doctor-returning-from-dr-congo-tests-positive/",
+      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports first Ebola case after doctor returning from DR Congo tests positive&nbsp;&nbsp;Manx Radio",
+      "tag": "analysis"
+    },
+    {
+      "title": "France confirms first Ebola case in doctor returning from DR Congo mission - Modern Ghana",
+      "link": "https://www.modernghana.com/news/1505109/france-confirms-first-ebola-case-in-doctor-returni.amp",
+      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
+      "desc": "-- DR Congo. Significance Rating: 1 France confirms first Ebola case in doctor returning from DR Congo mission&nbsp;&nbsp;Modern Ghana",
       "tag": "analysis"
     },
     {
@@ -376,13 +509,6 @@ window.FEED_DATA = {
       "link": "https://www.jwview.com/jingwei/html/m/06-24/676430.shtml",
       "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
       "desc": "Ebola -- France. Significance Rating: 1 法国发现首例输入性埃博拉病例&nbsp;&nbsp;jwview.com",
-      "tag": "analysis"
-    },
-    {
-      "title": "France records its first Ebola case in a doctor returning from the Democratic Republic of Congo - صوت الإمارات",
-      "link": "https://www.voiceofemirates.com/en/health/2026/06/24/france-records-its-first-ebola-case-in-a-doctor-returning-from-the-democratic-republic-of-congo/",
-      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France records its first Ebola case in a doctor returning from the Democratic Republic of Congo&nbsp;&nbsp;صوت الإمارات",
       "tag": "analysis"
     },
     {
@@ -414,17 +540,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "France reports first Ebola case after doctor returning from DR Congo tests positive - Manx Radio",
-      "link": "https://www.manxradio.com/news/world-news/france-reports-first-ebola-case-after-doctor-returning-from-dr-congo-tests-positive/",
+      "title": "France records its first Ebola case in a doctor returning from the Democratic Republic of Congo - صوت الإمارات",
+      "link": "https://www.voiceofemirates.com/en/health/2026/06/24/france-records-its-first-ebola-case-in-a-doctor-returning-from-the-democratic-republic-of-congo/",
       "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France reports first Ebola case after doctor returning from DR Congo tests positive&nbsp;&nbsp;Manx Radio",
-      "tag": "analysis"
-    },
-    {
-      "title": "France confirms first Ebola case in doctor returning from DR Congo mission - Modern Ghana",
-      "link": "https://www.modernghana.com/news/1505109/france-confirms-first-ebola-case-in-doctor-returni.amp",
-      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
-      "desc": "-- DR Congo. Significance Rating: 1 France confirms first Ebola case in doctor returning from DR Congo mission&nbsp;&nbsp;Modern Ghana",
+      "desc": "-- France. Significance Rating: 1 France records its first Ebola case in a doctor returning from the Democratic Republic of Congo&nbsp;&nbsp;صوت الإمارات",
       "tag": "analysis"
     },
     {
@@ -537,6 +656,34 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1186/s13756-026-01779-8",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1186/s13756-026-01779-8\nAuthors: Ben Bepouka, Mardoche Kafua",
+      "tag": "analysis"
+    },
+    {
+      "title": "Phenotypic variant of diffuse uterine leiomyomatosis presenting as cellular leiomyoma with retroperitoneal extension: A case report",
+      "link": "https://doi.org/10.5348/100232z08ah2026cr",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5348/100232z08ah2026cr\nAuthors: Akkamahadevi C Hiremath, Brunda Muniswamy, Vivek Tubagere Gururaj\n Introduction: Diffuse uterine leiomyomatosis (DUL) is a rare benign smooth-muscle disorder characterized by diffuse myometrial involvement and uterine enlargement. Its radiologic appearance may mimic malignant or extra-uterine disease,",
+      "tag": "analysis"
+    },
+    {
+      "title": "Case Report: Primary hepatic carcinosarcoma with ectopic β-hCG secretion and a paraneoplastic leukemoid reaction mimicking gynecologic and hematologic disease",
+      "link": "https://doi.org/10.3389/fonc.2026.1864613",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fonc.2026.1864613\nAuthors: Pin Wang, Xin Xu, Lan Zhang\n Primary hepatic carcinosarcoma is an exceptionally rare and highly aggressive malignancy, and ectopic β-hCG production and paraneoplastic leukemoid reaction are both uncommon findings in solid tumors. We report the case of a 47-year-old woman who initially presented with ab",
+      "tag": "analysis"
+    },
+    {
+      "title": "Infective endocarditis complicated with multiple cerebral embolism and hemorrhage caused by Streptococcus sinensis: a rare case report and literature review",
+      "link": "https://doi.org/10.3389/fmed.2026.1786870",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fmed.2026.1786870\nAuthors: Hong Zheng, Cuilin He, Kai Tang, Xiwen Wang, Longbiao Xie, Wei Li, Jianli Wu, Danjie Zhao\n \n                     Streptococcus sinensis \n                    (\n                     S. sinensis \n                    ) is a rare pathogen causing infective e",
+      "tag": "analysis"
+    },
+    {
+      "title": "Development of an immunochromatographic lateral flow assay for the rapid detection of all known orthoebolavirus glycoproteins",
+      "link": "https://doi.org/10.1038/s44298-026-00209-1",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/s44298-026-00209-1\nAuthors: Helene Schulz, Guodong Liu, Jordan Wight, Karla Emeterio, Wenguang Cao, Mable Chan, Ming Yang, Logan Banadyga\n Abstract \n                   Orthoebolaviruses, like Ebola, Sudan, and Bundibugyo viruses, are responsible for causing sporadic and unpredictable outbreaks of severe di",
       "tag": "analysis"
     },
     {
@@ -1023,10 +1170,31 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Estimating importation risk of Bundibugyo Ebola virus disease to Europe under different outbreak expansion scenarios",
+      "link": "https://doi.org/10.1093/jtm/taag055",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/jtm/taag055\nAuthors: Federico Fanelli, Francesco Parino, Chiara Poletto, Vittoria Colizza",
+      "tag": "analysis"
+    },
+    {
       "title": "TRP120-dependent activation of noncanonical Wnt/NFAT signaling drives monocyte chemokine production in <i>Ehrlichia chaffeensis</i> infection",
       "link": "https://doi.org/10.1128/msphere.00081-26",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1128/msphere.00081-26\nAuthors: Regina N. Solomon, Duc-Cuong Bui, Ayana P. Pai, Jere W. McBride\n ABSTRACT \n                   \n                     \n                     \n                       Ehrlichia chaffeensis \n                      is an obligatel",
+      "tag": "analysis"
+    },
+    {
+      "title": "Simulasi Numerik Pengendalian Endemik Demam Berdarah Dengue di Kabupaten Minahasa menggunakan Pendekatan Model SIR-A",
+      "link": "https://doi.org/10.29303/griya.v6i2.1201",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.29303/griya.v6i2.1201\nAuthors: Christari Lois Palit, Virginia Sarah Kaparang, Samuel Jason Bisuan, Suci Cahnia Laode, Gerald Sunantepar Pakala, Harly Marsel Karamoy\n Dengue Hemorrhagic Fever (DHF) persists as a critical threat to public health sectors within tropical ecosystems, including Indonesia. This study evaluates the epidemiol",
+      "tag": "analysis"
+    },
+    {
+      "title": "Correction to: Genetic testing in a national cohort of adults with chronic kidney disease of unknown origin",
+      "link": "https://doi.org/10.1093/ndt/gfag127",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/ndt/gfag127",
       "tag": "analysis"
     },
     {
@@ -1051,27 +1219,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Correction to: Genetic testing in a national cohort of adults with chronic kidney disease of unknown origin",
-      "link": "https://doi.org/10.1093/ndt/gfag127",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/ndt/gfag127",
-      "tag": "analysis"
-    },
-    {
-      "title": "Simulasi Numerik Pengendalian Endemik Demam Berdarah Dengue di Kabupaten Minahasa menggunakan Pendekatan Model SIR-A",
-      "link": "https://doi.org/10.29303/griya.v6i2.1201",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.29303/griya.v6i2.1201\nAuthors: Christari Lois Palit, Virginia Sarah Kaparang, Samuel Jason Bisuan, Suci Cahnia Laode, Gerald Sunantepar Pakala, Harly Marsel Karamoy\n Dengue Hemorrhagic Fever (DHF) persists as a critical threat to public health sectors within tropical ecosystems, including Indonesia. This study evaluates the epidemiol",
-      "tag": "analysis"
-    },
-    {
-      "title": "Estimating importation risk of Bundibugyo Ebola virus disease to Europe under different outbreak expansion scenarios",
-      "link": "https://doi.org/10.1093/jtm/taag055",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/jtm/taag055\nAuthors: Federico Fanelli, Francesco Parino, Chiara Poletto, Vittoria Colizza",
-      "tag": "analysis"
-    },
-    {
       "title": "Rapid gender analysis: what we know so far about the Bundibugyo Ebola outbreak in the Democratic Republic of Congo and Uganda",
       "link": "https://doi.org/10.59350/7nhg3-m5h81",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
@@ -1079,17 +1226,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "COVID-19 AND MALE INFERTILITY: PATHOPHYSIOLOGICAL MECHANISMS AND CLINICAL OUTCOMES",
-      "link": "https://doi.org/10.36107/2782-1714_2026-6-2-96-101",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.36107/2782-1714_2026-6-2-96-101\nAuthors: Galina Myandina, Sergey Kurevlev, Ekaterina Tarasenko, Andrey Kuchuk\n Background. The pandemic of coronavirus disease COVID-19 caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been a major obstacle for the performing of current medical activities throughout the wo",
-      "tag": "analysis"
-    },
-    {
       "title": "Epidemiological situation of natural focal infections in different landscape-ecological zones of the Volgograd region",
       "link": "https://doi.org/10.21886/2219-8075-2026-17-2-120-130",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.21886/2219-8075-2026-17-2-120-130\nAuthors: V. P. Smelyanskiy, K. V. Zhukov, S. A. Kargashin, A. K. Mendygalieva, M. N. Taratutina, Yu. D. Gerasimova, E. R. Posokhova, E. I. Romasova\n The article analyzes the incidence of natural focal infections (NFI) in the Volgograd region (VR) for the period from 2015 to 2024, taking into account",
+      "tag": "analysis"
+    },
+    {
+      "title": "COVID-19 AND MALE INFERTILITY: PATHOPHYSIOLOGICAL MECHANISMS AND CLINICAL OUTCOMES",
+      "link": "https://doi.org/10.36107/2782-1714_2026-6-2-96-101",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.36107/2782-1714_2026-6-2-96-101\nAuthors: Galina Myandina, Sergey Kurevlev, Ekaterina Tarasenko, Andrey Kuchuk\n Background. The pandemic of coronavirus disease COVID-19 caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been a major obstacle for the performing of current medical activities throughout the wo",
       "tag": "analysis"
     },
     {
@@ -1485,27 +1632,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Multisensory integration of a host metabolite coordinates bacterial predation of macrophages",
-      "link": "https://doi.org/10.64898/2026.06.19.733280",
-      "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.19.733280\nAuthors: Qinmeng Liu, Shuyu Li, Yufei Zhao, Sidi Chen, Heyan Shen, Yayong Yang, Tao Huang, Zhiyan Wei, Zhuo Wang, Lingfang Zhu, Yao Wang, Xihui Shen\n Chemical communication across kingdoms underpins infection, yet how pathogens actively decode host signals to launch coordinated attacks remains a fundamental my",
-      "tag": "analysis"
-    },
-    {
-      "title": "Unmet needs in the care of patients with neuromyelitis optica spectrum disorder and myelin oligodendrocyte glycoprotein antibody associated disease: insights from Germany",
-      "link": "https://doi.org/10.1186/s42466-026-00503-6",
-      "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s42466-026-00503-6\n Abstract \n                   \n                     Background \n                     Neuromyelitis optica spectrum disorder (NMOSD) and myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) are rare autoimmune disorders. Their true preval",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ascites Decompensation in a Patient without Liver Disease: A Case Report",
-      "link": "https://doi.org/10.1159/000552879",
-      "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1159/000552879\nAuthors: Alejandra Maria Peñuela-Romero, Peter Studer, Carolin Wagener, Felix Stickel\n Ascites in the absence of liver disease poses a diagnostic challenge that requires thorough evaluation. We here report a case of a previously healthy 50-year-old Swiss man who presented with constitutional symptoms and progressive ab",
-      "tag": "analysis"
-    },
-    {
       "title": "Legionnaires’ disease outbreak in Philadelphia in 1976 was mysterious and deadly – 50 years later, scientists know the cause but outbreaks continue",
       "link": "https://doi.org/10.64628/aai.expgyd3s9",
       "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
@@ -1524,6 +1650,27 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1161/circheartfailure.125.014480",
       "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1161/circheartfailure.125.014480\nAuthors: Yogesh N.V. Reddy, Robert P. Frantz, Alexander C. Egbe, William R. Miranda, Aneesh K. Asokan, Paul M. Hassoun, Anna R. Hemnes, Evelyn Horn, Jane A. Leopold, Franz Rischard, Erika B. Rosenzweig, Nicholas S. Hill, Serpil C. Erzurum, J. Emanuel Finet, Monica Mukherjee, W.H. Wilson Tang, K. Sreekumaran",
+      "tag": "analysis"
+    },
+    {
+      "title": "Multisensory integration of a host metabolite coordinates bacterial predation of macrophages",
+      "link": "https://doi.org/10.64898/2026.06.19.733280",
+      "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.19.733280\nAuthors: Qinmeng Liu, Shuyu Li, Yufei Zhao, Sidi Chen, Heyan Shen, Yayong Yang, Tao Huang, Zhiyan Wei, Zhuo Wang, Lingfang Zhu, Yao Wang, Xihui Shen\n Chemical communication across kingdoms underpins infection, yet how pathogens actively decode host signals to launch coordinated attacks remains a fundamental my",
+      "tag": "analysis"
+    },
+    {
+      "title": "Unmet needs in the care of patients with neuromyelitis optica spectrum disorder and myelin oligodendrocyte glycoprotein antibody associated disease: insights from Germany",
+      "link": "https://doi.org/10.1186/s42466-026-00503-6",
+      "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s42466-026-00503-6\n Abstract \n                   \n                     Background \n                     Neuromyelitis optica spectrum disorder (NMOSD) and myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) are rare autoimmune disorders. Their true preval",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ascites Decompensation in a Patient without Liver Disease: A Case Report",
+      "link": "https://doi.org/10.1159/000552879",
+      "pubDate": "Fri, 19 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1159/000552879\nAuthors: Alejandra Maria Peñuela-Romero, Peter Studer, Carolin Wagener, Felix Stickel\n Ascites in the absence of liver disease poses a diagnostic challenge that requires thorough evaluation. We here report a case of a previously healthy 50-year-old Swiss man who presented with constitutional symptoms and progressive ab",
       "tag": "analysis"
     },
     {
@@ -1728,153 +1875,6 @@ window.FEED_DATA = {
       "pubDate": "Thu, 18 Jun 2026 09:47:00 Z",
       "desc": "Brazzaville When an outbreak of Ebola was declared in the Democratic Republic of the Congo's Kasai Province on 4 September 2025, health authorities faced more than the virus itself. Fear, uncertainty and mistrust threatened to undermine outbreak control efforts in communities experiencing their first Ebola outbreak since 2007.",
       "tag": "response"
-    },
-    {
-      "title": "16 June 2026 Departmental update At the frontline of trust: a day with Julienne Anoko WHO's Ebola Community Engagement Officer in DRC",
-      "link": "https://www.who.int/news/item/16-06-2026-at-the-frontline-of-trust-a-day-with-julienne-anoko-who-s-ebola-community-engagement-officer-in-dr",
-      "pubDate": "Thu, 18 Jun 2026 09:47:00 Z",
-      "desc": "Before the first field teams leave for affected communities in the Democratic Republic of the Congo, Julienne Anoko a WHO risk communication and community engagement officer is awake, reading overnight updates: new alerts, suspected cases, community rumours, security concerns and signs of resistance.",
-      "tag": "cases"
-    },
-    {
-      "title": "R. Romar",
-      "link": "https://www.lavozdeasturias.es/firmas/raul-romar-garcia",
-      "pubDate": "Thu, 18 Jun 2026 06:42:00 Z",
-      "desc": "Un proyecto europeo en el que participa el CICA ofrecerá una tecnología combinada en el que a partir del análisis del flujo menstrual podría detectarse en minutos el riesgo de sufrir la enfermedad.\n\nEl estudio del CICA ha demostrado en un modelo preclínico que la combinación de un antibiótico ya....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Mosquito-borne viruses in São Paulo, Brazil: Diversity, Distribution, and Public Health Challenges",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0001706X26002238",
-      "pubDate": "Thu, 18 Jun 2026 03:03:00 Z",
-      "desc": "The inclusion criteria were: articles written in Portuguese, English, or Spanish; full-text availability on open-access platforms; reports of autochthonous cases or confirmed detection in any SSP municipality; and mosquito-borne arbovirus status. To define mosquito-borne arboviruses for inclusion,....",
-      "tag": "cases"
-    },
-    {
-      "title": "Viral Reservoir Dynamics in Bats and Interactions with Vectors: Global and Türkiye Perspectives",
-      "link": "https://www.sciencedirect.com/science/article/abs/pii/S0001706X26002226",
-      "pubDate": "Thu, 18 Jun 2026 03:03:00 Z",
-      "desc": "Bats (Chiroptera) constitute the second most diverse mammalian order after rodents, representing approximately 22% of all mammalian species with over 1400 described species. They can survive on all continents except Antarctica (Letko et al., 2020; Van Brussel and Holmes, 2022).",
-      "tag": "analysis"
-    },
-    {
-      "title": "Africa CDC Warns Congo Ebola Outbreak Could Be Worst in History - breitbart.com",
-      "link": "https://www.breitbart.com/africa/2026/06/17/africa-cdc-warns-congo-ebola-outbreak-could-be-worst-in-history/amp/",
-      "pubDate": "Thu, 18 Jun 2026 01:26:00 Z",
-      "desc": "Ebola -- United States. Significance Rating: 4 Africa CDC Warns Congo Ebola Outbreak Could Be Worst in History&nbsp;&nbsp;breitbart.com",
-      "tag": "analysis"
-    },
-    {
-      "title": "Machine learning-driven identification of virulence determinants in Borrelia burgdorferi associated with human dissemination",
-      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014407",
-      "pubDate": "Thu, 18 Jun 2026 01:05:00 Z",
-      "desc": "Lyme disease, the most common tick-borne infectious disease in the United States, presents with highly variable clinical outcomes, ranging from localized erythema migrans to severe disseminated complications affecting the heart, joints, and nervous system.",
-      "tag": "analysis"
-    },
-    {
-      "title": "邦迪布戈埃博拉在刚果蔓延，医疗系统陷入严重短缺| 乌克兰新闻 - mezha.net",
-      "link": "https://mezha.net/ch/bukvy/bb15365f_health_workers_warn/",
-      "pubDate": "Thu, 18 Jun 2026 00:26:00 Z",
-      "desc": "Ebola -- DR Congo. Significance Rating: 1 邦迪布戈埃博拉在刚果蔓延，医疗系统陷入严重短缺| 乌克兰新闻&nbsp;&nbsp;mezha.net",
-      "tag": "analysis"
-    },
-    {
-      "title": "Big Ebola outbreak puts research spotlight on little-known virus",
-      "link": "https://doi.org/10.1126/science.aej7944",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1126/science.aej7944\nAuthors: Kai Kupferschmidt\n The Bundibugyo virus only emerged twice before. Now, scientists see a chance to get to know it better",
-      "tag": "analysis"
-    },
-    {
-      "title": "Computational Identification and Density Functional Theory Insights into a Seaweed-Derived Metabolite of the Crimean–Congo hemorrhagic fever Virus Nucleoprotein",
-      "link": "https://openalex.org/W7165010454",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20731419\nAuthors: Abhithaj Jayanandan",
-      "tag": "analysis"
-    },
-    {
-      "title": "Development and Analytical Validation of a Novel Real-Time RT-PCR Assay for the Detection of Human Enteroviruses",
-      "link": "https://doi.org/10.21203/rs.3.rs-10063818/v1",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10063818/v1\nAuthors: Aigul Abdirassilova, Zauresh Zhumadilova, Altyn Rysbekova, Altynai Kassenova, Beck Abdeliyev, Ziyat Abdel, Ayaulym Maksatova, Sanzhar Agzam, Ainur Nurpeisova, Raikhan Nissanova, Anna Shin, Nazym Saduakassova, Duman Yessimseit\n Abstract \n                 \n                  Background\n Human e",
-      "tag": "analysis"
-    },
-    {
-      "title": "Les leaders communautaires s’engagent aux côtés de la coordination stratégique multisectorielle",
-      "link": "https://insp.cd/les-eaders-communautaires-sengagent-aux-cotes-de-la-coordination-strategique-multisectorielle/",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "juin 18, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nLe Directeur général de l’Institut national de Santé publique (INSP), accompagné du Coordonnateur du Centre des Opérations d’Urgence de Santé Publique (COUSP), a échangé, hier, à l’Hôtel",
-      "tag": "pheic"
-    },
-    {
-      "title": "Harnessing next-generation microbial diagnostics to optimize infection management in immunocompromised hosts",
-      "link": "https://doi.org/10.1097/qco.0000000000001208",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/qco.0000000000001208\nAuthors: Danielle Lee, Nicholas J. Norton, Adam P. Dale\n \n                     Purpose of review \n                     Conventional microbiological tests have limitations in the microbial diagnosis of immunocompromised patients. Next-generation sequencing (NGS) technologies ha",
-      "tag": "analysis"
-    },
-    {
-      "title": "EBOLA FAQs MAY 2026 – Revised",
-      "link": "https://health.go.ug/download/ebola-faqs-may-2026-revised/",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "Download\n                225\n            \n            \n                File Size\n                2.79 MB\n            \n            \n                File Count\n                1\n            \n            \n                Create Date\n                June 18, 2026",
-      "tag": "analysis"
-    },
-    {
-      "title": "Chemical Characterization of an Emerging Designer Steroid, 6‐Bromo‐androst‐4‐en‐3,17‐dione, via NMR and LC‐HRMS and GC‐HRMS",
-      "link": "https://doi.org/10.1002/dta.70105",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/dta.70105\nAuthors: Genye He, Sisi Zhu, Xin Liu, Zhanliang Wang, Lisi Zhang, Jianghai Lu, Jing Li\n ABSTRACT \n                   A package of raw material, deliberately mislabelled as a muscle‐building supplement, was obtained online to contain an unknown steroid. In order to accurately identify the composit",
-      "tag": "analysis"
-    },
-    {
-      "title": "Isolated Tricuspid Valve Dysplasia in a Patient with Behçet's Disease: An Unusual Mimic of Carcinoid Heart Disease and Arrhythmogenic Right Ventricular Cardiomyopathy",
-      "link": "https://doi.org/10.9734/ajarr/2026/v20i61396",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.9734/ajarr/2026/v20i61396\nAuthors: Chawki Khawla, Aboulmajd Saad, Baba Mohamed Amine, Rochd El Mehdi, Bouziane Maha, Haboub Meryem, Arous Salim, Drighil Abdenasser\n Isolated tricuspid valve dysplasia (ITVD) is a rare congenital abnormality of the tricuspid valve that may remain clinically silent until adulthood and can resemble acqui",
-      "tag": "analysis"
-    },
-    {
-      "title": "Nintedanib in Post-COVID Interstitial Lung Disease: a double-blind, randomized, placebo-controlled Clinical Trial",
-      "link": "https://doi.org/10.1093/annalsats/aaoag159",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/annalsats/aaoag159\nAuthors: Susan K Mathai, Sean J Callahan, Helena Chang, Avanthika Wynn, Ivan O Rosas, Stacey-Ann Brown, Karthik Suresh, Mary Marks, Emilia Bagiella, Najla Abdurrahman, Aditi Mathur, Jigna Zatakia, Ellen Moquete, Michele Cohen, Nicole Ng, Amy L Olson, Peidi Li, Anna Czinn, Ani Cotarlan, Emmanuel Valenza, Valeria Santi",
-      "tag": "analysis"
-    },
-    {
-      "title": "Environmental and occupational exposures for chronic kidney disease of unknown aetiology (CKDu): field investigations in rural Sri Lanka",
-      "link": "https://doi.org/10.1186/s12889-026-28172-9",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s12889-026-28172-9\nAuthors: Jennifer Pett, Mohammed Fahim, Richard Taylor, Nicholas J. Osborne, Stephen Morrell, Sally Nathan, Nishantha Nanayakkara, Christine Linhart",
-      "tag": "analysis"
-    },
-    {
-      "title": "Primary hydatid cyst of the abdominal wall: a case report and review of the literature",
-      "link": "https://doi.org/10.1097/rc9.0000000000000603",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/rc9.0000000000000603\nAuthors: Soukayna Bourabaa, Yahia Zain-Al-Abidine Khedid\n \n                     Introduction: \n                     \n                      Hydatid disease is a parasitic infection caused by\n                       Echinococcus",
-      "tag": "analysis"
-    },
-    {
-      "title": "Review on India’s Pharmaceutical Resilience: Innovations and Challenges in Global Health and the COVID-19 Era",
-      "link": "https://doi.org/10.2174/0126667975434999260616200351",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.2174/0126667975434999260616200351\nAuthors: V. Sakthivel, Nitish Kumar, Vipul Kumar, Achal Anand, Satendra Kumar, Sonakshi Antal, Sweety Sani\n \n                     Introduction: \n                     The global healthcare system is highly dependent on the pharmaceutical\nindustry for uninterrupted acces",
-      "tag": "analysis"
-    },
-    {
-      "title": "N-K Sciences International Publication: Complete Deterministic Molecular Structure — From Hemoglobin to Viruses, Bacteria, Toxins, and Enzymes",
-      "link": "https://openalex.org/W7165034465",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.20726111\nAuthors: Muhammad Usman Malik\nZenodo Description for DOI: 10.5281/zenodo.20726111 Title: N-K Sciences International Publication: Complete Deterministic Molecular Structure — From Hemoglobin to Viruses, Bacteria, Toxins, and Enzymes Creators: · Usman, Malik Muhammad (ORCID: 0009-0004-3269-2918), Affiliation: N-K Universa",
-      "tag": "analysis"
-    },
-    {
-      "title": "Kyasanur Forest Disease: Advances in Experimental Animal Models, Immune Assays, and Challenges in Vaccine Development",
-      "link": "https://doi.org/10.1002/rmv.70177",
-      "pubDate": "Thu, 18 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/rmv.70177\nAuthors: Sahina Sidhik, Zaigham Abbas Rizvi, Amit Awasthi\n ABSTRACT \n                   Kyasanur Forest Disease (KFD) is a tick‐borne viral haemorrhagic fever endemic to forested regions of South India, with case fatality rates ranging from 3% to 10% and seasonal outbreaks causing recurrent illne",
-      "tag": "analysis"
     }
   ],
   "highWater": {
