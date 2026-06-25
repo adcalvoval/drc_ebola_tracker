@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 25 Jun 2026 20:03:32 Z",
-  "fetchedAt": "2026-06-25T20:03:33Z",
+  "lastBuildDate": "Thu, 25 Jun 2026 22:21:56 Z",
+  "fetchedAt": "2026-06-25T22:21:56Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -127,6 +127,27 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "Hemorrhage May Be 'Infrequent' Feature in Latest Ebola Outbreak",
+      "link": "https://www.medpagetoday.com/infectiousdisease/ebola/121940",
+      "pubDate": "Thu, 25 Jun 2026 21:57:00 Z",
+      "desc": "In a departure from past Ebola outbreaks, roughly 90% of the patients testing positive for Bundibugyo virus disease (BVD) had no hemorrhagic signs or bleeding at presentation, according to a preliminary report. In fact, the bleeding rate among the laboratory confirmed cases in the study was no....",
+      "tag": "cases"
+    },
+    {
+      "title": "Network-based modelling of Bundibugyo Ebola virus disease importation and spread in Uganda using Displacement Tracking Matrix flow data and non-pharmaceutical intervention compliance scenarios",
+      "link": "https://www.medrxiv.org/content/10.64898/2026.06.22.26356210v1?rss=1",
+      "pubDate": "Thu, 25 Jun 2026 21:41:00 Z",
+      "desc": "Abstract. The 2026 Bundibugyo Ebola outbreak in Uganda, linked to the ongoing epidemic in the Democratic Republic of the Congo (DRC), spread through human mobility across borders and within the country. We constructed a data&driven directed weighted mobility network using IOM Displacement Tracking....",
+      "tag": "response"
+    },
+    {
+      "title": "Africa CDC triples amount needed to fight Ebola",
+      "link": "https://www.cidrap.umn.edu/ebola/africa-cdc-triples-amount-needed-fight-ebola",
+      "pubDate": "Thu, 25 Jun 2026 21:06:00 Z",
+      "desc": "Today during a press conference, Africa Centres for Disease Control and Prevention Director-General Jean Kaseya, MD, MPH, said the Ebola outbreak in the Democratic Republic of the Congo (DRC) would require $1.4 billion in funding to contain, almost triple the $518 million Africa CDC estimated it needed at the beginning of the month.",
+      "tag": "analysis"
+    },
     {
       "title": "Welcome! Everything is fine…except there is still no ACIP quorum: The State of US Vaccine Policy",
       "link": "https://www.cidrap.umn.edu/adult-non-flu-vaccines/welcome-everything-fine-except-there-still-no-acip-quorum-state-us-vaccine",
@@ -506,17 +527,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "US Ebola Quarantine Plan in Kenya Hits Legal Wall - t.co",
-      "link": "https://t.co/5wlYGS2kEW",
-      "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
-      "desc": "-- United States. Significance Rating: 1 US Ebola Quarantine Plan in Kenya Hits Legal Wall&nbsp;&nbsp;t.co",
-      "tag": "analysis"
-    },
-    {
       "title": "Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway - Jamaica Observer",
       "link": "https://www.jamaicaobserver.com/2026/06/24/doctor-returning-dr-congo-tests-positive-ebola-france-contact-tracing-underway/",
       "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
       "desc": "-- DR Congo. Significance Rating: 1 Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway&nbsp;&nbsp;Jamaica Observer",
+      "tag": "analysis"
+    },
+    {
+      "title": "US Ebola Quarantine Plan in Kenya Hits Legal Wall - t.co",
+      "link": "https://t.co/5wlYGS2kEW",
+      "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
+      "desc": "-- United States. Significance Rating: 1 US Ebola Quarantine Plan in Kenya Hits Legal Wall&nbsp;&nbsp;t.co",
       "tag": "analysis"
     },
     {
@@ -590,10 +611,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "France confirms first Ebola case, found in doctor who flew back from Congo | World News - Hindustan Times",
-      "link": "https://www.hindustantimes.com/world-news/france-confirms-first-ebola-case-found-in-doctor-who-flew-back-from-congo-101782301890929.html",
+      "title": "France confirms first Ebola case after doctor returning from DRC tests positive - The National",
+      "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case, found in doctor who flew back from Congo | World News&nbsp;&nbsp;Hindustan Times",
+      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
+      "tag": "analysis"
+    },
+    {
+      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
+      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
       "tag": "analysis"
     },
     {
@@ -646,17 +674,10 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "France confirms first Ebola case after doctor returning from DRC tests positive - The National",
-      "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
+      "title": "France confirms first Ebola case, found in doctor who flew back from Congo | World News - Hindustan Times",
+      "link": "https://www.hindustantimes.com/world-news/france-confirms-first-ebola-case-found-in-doctor-who-flew-back-from-congo-101782301890929.html",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
-      "tag": "analysis"
-    },
-    {
-      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
-      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
+      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case, found in doctor who flew back from Congo | World News&nbsp;&nbsp;Hindustan Times",
       "tag": "analysis"
     },
     {
@@ -912,13 +933,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Healthcare-associated transmission and early IPC system vulnerabilities during the 2026 Bundibugyo Ebola outbreak in eastern Democratic Republic of the Congo",
-      "link": "https://doi.org/10.1186/s13756-026-01779-8",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s13756-026-01779-8\nAuthors: Ben Bepouka, Mardoche Kafua",
-      "tag": "analysis"
-    },
-    {
       "title": "Remote Patient Monitoring",
       "link": "https://doi.org/10.1039/9781837677771-00254",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
@@ -947,10 +961,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Peningkatan Pengetahuan DBD pada Anggota PKK melalui Edukasi dan Demonstrasi Lapangan",
-      "link": "https://doi.org/10.62951/svargapena.v3i2.218",
+      "title": "Healthcare-associated transmission and early IPC system vulnerabilities during the 2026 Bundibugyo Ebola outbreak in eastern Democratic Republic of the Congo",
+      "link": "https://doi.org/10.1186/s13756-026-01779-8",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.62951/svargapena.v3i2.218\n Dengue Hemorrhagic Fever (DHF) remains a serious public health problem in Indonesia. Active community participation is crucial in efforts to reduce the incidence of DHF. This community service program aims to improve health literacy related to DHF among PKK members in Bandarjo Village, Semarang Regency. The",
+      "desc": "DOI: 10.1186/s13756-026-01779-8\nAuthors: Ben Bepouka, Mardoche Kafua",
       "tag": "analysis"
     },
     {
@@ -975,18 +989,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Peningkatan Pengetahuan DBD pada Anggota PKK melalui Edukasi dan Demonstrasi Lapangan",
+      "link": "https://doi.org/10.62951/svargapena.v3i2.218",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.62951/svargapena.v3i2.218\n Dengue Hemorrhagic Fever (DHF) remains a serious public health problem in Indonesia. Active community participation is crucial in efforts to reduce the incidence of DHF. This community service program aims to improve health literacy related to DHF among PKK members in Bandarjo Village, Semarang Regency. The",
+      "tag": "analysis"
+    },
+    {
       "title": "Infective endocarditis complicated with multiple cerebral embolism and hemorrhage caused by Streptococcus sinensis: a rare case report and literature review",
       "link": "https://doi.org/10.3389/fmed.2026.1786870",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fmed.2026.1786870\nAuthors: Hong Zheng, Cuilin He, Kai Tang, Xiwen Wang, Longbiao Xie, Wei Li, Jianli Wu, Danjie Zhao\n \n                     Streptococcus sinensis \n                    (\n                     S. sinensis \n                    ) is a rare pathogen causing infective e",
       "tag": "analysis"
-    },
-    {
-      "title": "La RDC et l’Ouganda lancent un plan transfrontalier de 90 jours pour renforcer la réponse à Aru.",
-      "link": "https://insp.cd/la-rdc-et-louganda-lancent-un-plan-transfrontalier-de-90-jours-pour-renforcer-la-reponse-a-aru/",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "juin 24, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nAru, La République Démocratique du Congo et la République de l’Ouganda ont franchi une étape majeure dans la lutte contre la Maladie à Virus Ebola (MVE) avec le lancement officiel d’un Pl",
-      "tag": "response"
     },
     {
       "title": "Case Report: Primary hepatic carcinosarcoma with ectopic β-hCG secretion and a paraneoplastic leukemoid reaction mimicking gynecologic and hematologic disease",
@@ -1010,6 +1024,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Simply following the rules: race and the immunologics of Ebola response in Sierra Leone",
+      "link": "https://doi.org/10.1080/14735784.2025.2540268",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1080/14735784.2025.2540268\nAuthors: Adia Benton",
+      "tag": "response"
+    },
+    {
       "title": "Development of an immunochromatographic lateral flow assay for the rapid detection of all known orthoebolavirus glycoproteins",
       "link": "https://doi.org/10.1038/s44298-026-00209-1",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
@@ -1017,10 +1038,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Simply following the rules: race and the immunologics of Ebola response in Sierra Leone",
-      "link": "https://doi.org/10.1080/14735784.2025.2540268",
+      "title": "La RDC et l’Ouganda lancent un plan transfrontalier de 90 jours pour renforcer la réponse à Aru.",
+      "link": "https://insp.cd/la-rdc-et-louganda-lancent-un-plan-transfrontalier-de-90-jours-pour-renforcer-la-reponse-a-aru/",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1080/14735784.2025.2540268\nAuthors: Adia Benton",
+      "desc": "juin 24, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nAru, La République Démocratique du Congo et la République de l’Ouganda ont franchi une étape majeure dans la lutte contre la Maladie à Virus Ebola (MVE) avec le lancement officiel d’un Pl",
       "tag": "response"
     },
     {
@@ -1122,17 +1143,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Crimean-congo haemorrhagic fever virus in ticks and small ruminants in western Iran: epidemiological insights and genotyping",
-      "link": "https://link.springer.com/article/10.1186/s12879-026-13841-2",
-      "pubDate": "Tue, 23 Jun 2026 07:50:00 Z",
-      "desc": "Background. Crimean–Congo haemorrhagic fever (CCHF) is an emerging zoonotic disease of significant public health concern caused by Crimean–Congo haemorrhagic fever virus (CCHFV), primarily transmitted by tick vectors. Its spread is further compounded by global warming, tick range expansion, and traditional farming practices.",
-      "tag": "analysis"
-    },
-    {
       "title": "Invasive pneumococcal disease with widespread metastatic involvement in a healthy adult: a case report",
       "link": "https://link.springer.com/article/10.1186/s12879-026-13828-z",
       "pubDate": "Tue, 23 Jun 2026 07:50:00 Z",
       "desc": "Background. This was an unusual case of invasive pneumococcal disease in an immunocompetent adult without serious underlying medical conditions. Streptococcus pneumoniae bacteraemia was found with multiple distant sites of infection, including polyarticular septic arthritis, osteomyelitis,....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Crimean-congo haemorrhagic fever virus in ticks and small ruminants in western Iran: epidemiological insights and genotyping",
+      "link": "https://link.springer.com/article/10.1186/s12879-026-13841-2",
+      "pubDate": "Tue, 23 Jun 2026 07:50:00 Z",
+      "desc": "Background. Crimean–Congo haemorrhagic fever (CCHF) is an emerging zoonotic disease of significant public health concern caused by Crimean–Congo haemorrhagic fever virus (CCHFV), primarily transmitted by tick vectors. Its spread is further compounded by global warming, tick range expansion, and traditional farming practices.",
       "tag": "analysis"
     },
     {
@@ -1157,10 +1178,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Validation of diagnostic codes for identifying chlamydial infections from TriNetX electronic health record data in the United States",
-      "link": "https://doi.org/10.1097/olq.0000000000002378",
+      "title": "Epidemiological study of Crimean- Congo haemorrhagic fever in Thi Qar (2023–2024): assessing the role of tick bites, household animals, slaughter and fresh meat exposure in disease transmission",
+      "link": "https://doi.org/10.1007/s13337-026-00968-8",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/olq.0000000000002378\nAuthors: Lin Li, Kexin Zhu, Hosn Nabaa, Konstantin Kozmenko, Valerie Bosch Castells, Delphine Saragoussi, Sandra S. Chaves\n \n                     Background: \n                     The accuracy of diagnostic codes for chlamydial infections in electronic health records (EHR) is",
+      "desc": "DOI: 10.1007/s13337-026-00968-8\nAuthors: Saja Abdalkadhum Hommod, Azhar kareem Razzaq, Ali B. Roomi",
       "tag": "analysis"
     },
     {
@@ -1213,10 +1234,10 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Epidemiological study of Crimean- Congo haemorrhagic fever in Thi Qar (2023–2024): assessing the role of tick bites, household animals, slaughter and fresh meat exposure in disease transmission",
-      "link": "https://doi.org/10.1007/s13337-026-00968-8",
+      "title": "Validation of diagnostic codes for identifying chlamydial infections from TriNetX electronic health record data in the United States",
+      "link": "https://doi.org/10.1097/olq.0000000000002378",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1007/s13337-026-00968-8\nAuthors: Saja Abdalkadhum Hommod, Azhar kareem Razzaq, Ali B. Roomi",
+      "desc": "DOI: 10.1097/olq.0000000000002378\nAuthors: Lin Li, Kexin Zhu, Hosn Nabaa, Konstantin Kozmenko, Valerie Bosch Castells, Delphine Saragoussi, Sandra S. Chaves\n \n                     Background: \n                     The accuracy of diagnostic codes for chlamydial infections in electronic health records (EHR) is",
       "tag": "analysis"
     },
     {
@@ -1241,13 +1262,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "TickMapKB: A FAIR Spatial Knowledgebase of Tick Species and Associated Pathogens in India",
-      "link": "https://doi.org/10.64898/2026.06.22.733803",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.22.733803\nAuthors: Shreyes Rajan Madgaonkar, Shrish Vashishth, Elango Ayyanar, Srikanth Srirama, Areejit Samal\n Ticks transmit pathogens across wildlife, domestic animals, and humans, and are therefore considered important vectors under the One Health framework. In India, the burden of tick-borne diseases, such as Kyasa",
-      "tag": "analysis"
-    },
-    {
       "title": "Spreading α-synuclein rewires organelle communication and impairs neuron-astrocyte mitochondrial quality control",
       "link": "https://doi.org/10.64898/2026.06.19.733342",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
@@ -1259,6 +1273,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.3390/ijms27135661",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/ijms27135661\nAuthors: Sezer Akgöl, Fatih Kocabaş\n Crimean–Congo hemorrhagic fever virus (CCHFV) remains a major public health threat due to its high mortality rates and the absence of approved antiviral therapies. The viral ovarian tumor (OTU) protease is a critical virulence factor that suppresses host innate immunity through i",
+      "tag": "analysis"
+    },
+    {
+      "title": "TickMapKB: A FAIR Spatial Knowledgebase of Tick Species and Associated Pathogens in India",
+      "link": "https://doi.org/10.64898/2026.06.22.733803",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.22.733803\nAuthors: Shreyes Rajan Madgaonkar, Shrish Vashishth, Elango Ayyanar, Srikanth Srirama, Areejit Samal\n Ticks transmit pathogens across wildlife, domestic animals, and humans, and are therefore considered important vectors under the One Health framework. In India, the burden of tick-borne diseases, such as Kyasa",
       "tag": "analysis"
     },
     {
@@ -1465,6 +1486,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Idiopathic pulmonary fibrosis as a cause of severe respiratory failure in gerontological practice",
+      "link": "https://doi.org/10.18093/0869-0189-2026-36-3-506-512",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.18093/0869-0189-2026-36-3-506-512\nAuthors: E. V. Reznik, L. Kh. Alieva, M. D. Iarovoi, A. S. Popova, Yu. A. Vasiliev\n Idiopathic pulmonary fibrosis (IPF) is a chronic progressive interstitial lung disease of unknown etiology, most commonly occurring in the elderly. The main factors leading to the development of IPF are environmental",
+      "tag": "analysis"
+    },
+    {
       "title": "Inhibitors of the Machupo Virus L Endonuclease for Bolivian Hemorrhagic Fever Treatments",
       "link": "https://doi.org/10.3390/microorganisms14061377",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
@@ -1486,13 +1514,6 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Idiopathic pulmonary fibrosis as a cause of severe respiratory failure in gerontological practice",
-      "link": "https://doi.org/10.18093/0869-0189-2026-36-3-506-512",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.18093/0869-0189-2026-36-3-506-512\nAuthors: E. V. Reznik, L. Kh. Alieva, M. D. Iarovoi, A. S. Popova, Yu. A. Vasiliev\n Idiopathic pulmonary fibrosis (IPF) is a chronic progressive interstitial lung disease of unknown etiology, most commonly occurring in the elderly. The main factors leading to the development of IPF are environmental",
-      "tag": "analysis"
-    },
-    {
       "title": "A Pediatric Series of Sudden Death and Congenital Coronary Artery Anomalies",
       "link": "https://doi.org/10.1097/paf.0000000000001157",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
@@ -1507,24 +1528,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Rapid gender analysis: what we know so far about the Bundibugyo Ebola outbreak in the Democratic Republic of Congo and Uganda",
-      "link": "https://doi.org/10.59350/7nhg3-m5h81",
+      "title": "TRP120-dependent activation of noncanonical Wnt/NFAT signaling drives monocyte chemokine production in <i>Ehrlichia chaffeensis</i> infection",
+      "link": "https://doi.org/10.1128/msphere.00081-26",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.59350/7nhg3-m5h81\nAuthors: Reda Sadki\n In the Democratic Republic of the Congo and Uganda, more than half of the people who are getting sick with Ebola are women and girls. This has happened in past Ebola outbreaks too. This Rapid Gender Analysis (RGA) reviews what the evidence shows, and what it does not yet show, about gender in th",
-      "tag": "analysis"
-    },
-    {
-      "title": "Epidemiological situation of natural focal infections in different landscape-ecological zones of the Volgograd region",
-      "link": "https://doi.org/10.21886/2219-8075-2026-17-2-120-130",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21886/2219-8075-2026-17-2-120-130\nAuthors: V. P. Smelyanskiy, K. V. Zhukov, S. A. Kargashin, A. K. Mendygalieva, M. N. Taratutina, Yu. D. Gerasimova, E. R. Posokhova, E. I. Romasova\n The article analyzes the incidence of natural focal infections (NFI) in the Volgograd region (VR) for the period from 2015 to 2024, taking into account",
-      "tag": "analysis"
-    },
-    {
-      "title": "Correction to: Genetic testing in a national cohort of adults with chronic kidney disease of unknown origin",
-      "link": "https://doi.org/10.1093/ndt/gfag127",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/ndt/gfag127",
+      "desc": "DOI: 10.1128/msphere.00081-26\nAuthors: Regina N. Solomon, Duc-Cuong Bui, Ayana P. Pai, Jere W. McBride\n ABSTRACT \n                   \n                     \n                     \n                       Ehrlichia chaffeensis \n                      is an obligatel",
       "tag": "analysis"
     },
     {
@@ -1549,10 +1556,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "COVID-19 AND MALE INFERTILITY: PATHOPHYSIOLOGICAL MECHANISMS AND CLINICAL OUTCOMES",
-      "link": "https://doi.org/10.36107/2782-1714_2026-6-2-96-101",
+      "title": "Correction to: Genetic testing in a national cohort of adults with chronic kidney disease of unknown origin",
+      "link": "https://doi.org/10.1093/ndt/gfag127",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.36107/2782-1714_2026-6-2-96-101\nAuthors: Galina Myandina, Sergey Kurevlev, Ekaterina Tarasenko, Andrey Kuchuk\n Background. The pandemic of coronavirus disease COVID-19 caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been a major obstacle for the performing of current medical activities throughout the wo",
+      "desc": "DOI: 10.1093/ndt/gfag127",
+      "tag": "analysis"
+    },
+    {
+      "title": "Simulasi Numerik Pengendalian Endemik Demam Berdarah Dengue di Kabupaten Minahasa menggunakan Pendekatan Model SIR-A",
+      "link": "https://doi.org/10.29303/griya.v6i2.1201",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.29303/griya.v6i2.1201\nAuthors: Christari Lois Palit, Virginia Sarah Kaparang, Samuel Jason Bisuan, Suci Cahnia Laode, Gerald Sunantepar Pakala, Harly Marsel Karamoy\n Dengue Hemorrhagic Fever (DHF) persists as a critical threat to public health sectors within tropical ecosystems, including Indonesia. This study evaluates the epidemiol",
       "tag": "analysis"
     },
     {
@@ -1563,17 +1577,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "TRP120-dependent activation of noncanonical Wnt/NFAT signaling drives monocyte chemokine production in <i>Ehrlichia chaffeensis</i> infection",
-      "link": "https://doi.org/10.1128/msphere.00081-26",
+      "title": "Rapid gender analysis: what we know so far about the Bundibugyo Ebola outbreak in the Democratic Republic of Congo and Uganda",
+      "link": "https://doi.org/10.59350/7nhg3-m5h81",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/msphere.00081-26\nAuthors: Regina N. Solomon, Duc-Cuong Bui, Ayana P. Pai, Jere W. McBride\n ABSTRACT \n                   \n                     \n                     \n                       Ehrlichia chaffeensis \n                      is an obligatel",
+      "desc": "DOI: 10.59350/7nhg3-m5h81\nAuthors: Reda Sadki\n In the Democratic Republic of the Congo and Uganda, more than half of the people who are getting sick with Ebola are women and girls. This has happened in past Ebola outbreaks too. This Rapid Gender Analysis (RGA) reviews what the evidence shows, and what it does not yet show, about gender in th",
       "tag": "analysis"
     },
     {
-      "title": "Simulasi Numerik Pengendalian Endemik Demam Berdarah Dengue di Kabupaten Minahasa menggunakan Pendekatan Model SIR-A",
-      "link": "https://doi.org/10.29303/griya.v6i2.1201",
+      "title": "COVID-19 AND MALE INFERTILITY: PATHOPHYSIOLOGICAL MECHANISMS AND CLINICAL OUTCOMES",
+      "link": "https://doi.org/10.36107/2782-1714_2026-6-2-96-101",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.29303/griya.v6i2.1201\nAuthors: Christari Lois Palit, Virginia Sarah Kaparang, Samuel Jason Bisuan, Suci Cahnia Laode, Gerald Sunantepar Pakala, Harly Marsel Karamoy\n Dengue Hemorrhagic Fever (DHF) persists as a critical threat to public health sectors within tropical ecosystems, including Indonesia. This study evaluates the epidemiol",
+      "desc": "DOI: 10.36107/2782-1714_2026-6-2-96-101\nAuthors: Galina Myandina, Sergey Kurevlev, Ekaterina Tarasenko, Andrey Kuchuk\n Background. The pandemic of coronavirus disease COVID-19 caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been a major obstacle for the performing of current medical activities throughout the wo",
+      "tag": "analysis"
+    },
+    {
+      "title": "Epidemiological situation of natural focal infections in different landscape-ecological zones of the Volgograd region",
+      "link": "https://doi.org/10.21886/2219-8075-2026-17-2-120-130",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.21886/2219-8075-2026-17-2-120-130\nAuthors: V. P. Smelyanskiy, K. V. Zhukov, S. A. Kargashin, A. K. Mendygalieva, M. N. Taratutina, Yu. D. Gerasimova, E. R. Posokhova, E. I. Romasova\n The article analyzes the incidence of natural focal infections (NFI) in the Volgograd region (VR) for the period from 2015 to 2024, taking into account",
       "tag": "analysis"
     },
     {
@@ -1855,27 +1876,6 @@ window.FEED_DATA = {
       "pubDate": "Fri, 19 Jun 2026 15:39:00 Z",
       "desc": "Overview. This guidance provides recommendations for the allocation, disbursement, use, and reporting of domestic and external resources during disease outbreaks. Issued in the context of the 2026 Bundibugyo virus disease (BVD) outbreak, it outlines key actions for countries in both response and....",
       "tag": "response"
-    },
-    {
-      "title": "Ebola Outbreaks Complicated by Victims Who Prefer Traditional Healers Over Hospitals",
-      "link": "https://www.medpagetoday.com/infectiousdisease/ebola/121816",
-      "pubDate": "Fri, 19 Jun 2026 15:11:00 Z",
-      "desc": "Whenever Ebola comes, some of the afflicted choose the road to the nearest hospital. Others take the path to the shrine of a traditional healer, often with devastating consequences. Many view the onset of hemorrhagic fever as a spiritual affliction and seek out herbs and prayers instead of going to the hospital.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Crise Ebola : Pékin déploie",
-      "link": "https://echosante.info/crise-ebola-pekin-deploie-un-plan-durgence-massif-en-afrique/",
-      "pubDate": "Fri, 19 Jun 2026 14:55:00 Z",
-      "desc": "Alors que le continent africain fait de nouveau face à la menace du virus Ebola, le gouvernement chinois accélère son offensive humanitaire. Entre envoi d’experts, soutien logistique et appui institutionnel, Pékin réaffirme son rôle de partenaire stratégique sanitaire de premier plan.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola aux portes du Cameroun",
-      "link": "https://echosante.info/ebola-aux-portes-du-cameroun-quand-la-sante-des-hommes-des-animaux-et-des-forets-ne-fait-quun/",
-      "pubDate": "Fri, 19 Jun 2026 13:53:00 Z",
-      "desc": "À Mbankomo, experts humains et vétérinaires unissent leurs savoirs pour cartographier le risque viral avant qu’il ne franchisse les frontières. Organisé par le Programme Zoonoses, Plateforme Une Seule Santé, cet atelier d’évaluation conjointe et de cartographie des risques de la Maladie à Virus....",
-      "tag": "analysis"
     }
   ],
   "highWater": {
