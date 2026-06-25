@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 25 Jun 2026 14:36:57 Z",
-  "fetchedAt": "2026-06-25T14:36:58Z",
+  "lastBuildDate": "Thu, 25 Jun 2026 17:12:43 Z",
+  "fetchedAt": "2026-06-25T17:12:44Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -129,6 +129,34 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "Washington Post",
+      "link": "https://geneticliteracyproject.org/source/washington-post/",
+      "pubDate": "Thu, 25 Jun 2026 16:56:00 Z",
+      "desc": "Today, chatbots can only legally offer medical guidance with a disclaimer attached: Neither the U.S. Food and Drug Administration, nor ...\n\nAt this year’s American Society of Clinical Oncology (ASCO) meeting in Chicago, more than 40 studies, abstracts, oral presentations and ...",
+      "tag": "analysis"
+    },
+    {
+      "title": "Probarán dos antivirales contra virus de Bundibugyo mientra se aceleran estudios para una vacuna",
+      "link": "https://lawebdelasalud.com/probaran-dos-antivirales-contra-virus-de-bundibugyo-mientra-se-aceleran-estudios-para-una-vacuna/",
+      "pubDate": "Thu, 25 Jun 2026 16:08:00 Z",
+      "desc": "El ensayo será realizado por un consorcio integrado por el Instituto Nacional de Investigación Biomédica de RDC, la organización médica ALIMA, la Universidad de Oxford y la OMS. Noticias ONU. Dos tratamientos antivirales serán probados la próxima semana en pacientes con ébola en la República....",
+      "tag": "analysis"
+    },
+    {
+      "title": "CMV Factsheet",
+      "link": "https://www.hhs.nd.gov/health/diseases-conditions-and-immunization/az-diseases-and-conditions/cmv-factsheet",
+      "pubDate": "Thu, 25 Jun 2026 15:58:00 Z",
+      "desc": "CMV is a virus that is generally harmless to most people but can cause severe disease in certain individuals. Over half of adults have been infected with CMV by age 40, however, most people with CMV infection have no symptoms and are unaware that they have been infected.",
+      "tag": "analysis"
+    },
+    {
+      "title": "WHO Issues Comprehensive Filovirus Clinical Guidelines as Bundibugyo Ebola Outbreak Continues in DRC",
+      "link": "https://globalbiodefense.com/2026/06/25/who-issues-comprehensive-filovirus-clinical-guidelines-as-bundibugyo-ebola-outbreak-continues-in-drc/",
+      "pubDate": "Thu, 25 Jun 2026 15:21:00 Z",
+      "desc": "With an active Ebola outbreak unfolding in the Democratic Republic of the Congo, the World Health Organization has released its most comprehensive clinical management guidelines to date, covering the full spectrum of filovirus disease, including all known Ebola variants and Marburg virus.",
+      "tag": "analysis"
+    },
     {
       "title": "Trump Admin Requests $1.4B For Ebola Quarantine Unit, Health Security Funds, Diplomatic Efforts",
       "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-062526/",
@@ -487,20 +515,6 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "France reports Ebola case in doctor returning from DRC - Business Day",
-      "link": "https://www.businessday.co.za/world/europe/2026-06-24-france-reports-ebola-case-in-doctor-returning-from-drc/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France reports Ebola case in doctor returning from DRC&nbsp;&nbsp;Business Day",
-      "tag": "analysis"
-    },
-    {
-      "title": "France confirms first Ebola case in doctor returning from Congo humanitarian mission - Emirates 24|7",
-      "link": "https://www.emirates247.com/world/france-confirms-first-ebola-case-in-doctor-returning-from-congo-humanitarian-mission/2936",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case in doctor returning from Congo humanitarian mission&nbsp;&nbsp;Emirates 24|7",
-      "tag": "analysis"
-    },
-    {
       "title": "France Reports First Ebola Case Linked to Congo Outbreak - Yahoo",
       "link": "https://www.yahoo.com/news/videos/france-reports-first-ebola-case-123000368.html",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
@@ -522,6 +536,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "France reports Ebola case in doctor returning from DRC - Business Day",
+      "link": "https://www.businessday.co.za/world/europe/2026-06-24-france-reports-ebola-case-in-doctor-returning-from-drc/",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports Ebola case in doctor returning from DRC&nbsp;&nbsp;Business Day",
+      "tag": "analysis"
+    },
+    {
       "title": "France Confirms First Ebola Case Amid DRC Outbreak - The Trumpet Newspaper Nigeria",
       "link": "https://thetrumpet.ng/france-confirms-first-ebola-case-amid-drc-outbreak/",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
@@ -540,6 +561,13 @@ window.FEED_DATA = {
       "link": "https://www.mid-day.com/news/world-news/article/ebola-outbreak-france-confirms-first-ever-case-as-doctor-returns-from-dr-congo-23636657",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "Fever -- France. Significance Rating: 3 France confirms first-ever Ebola case as doctor returns from DR Congo&nbsp;&nbsp;Mid-day",
+      "tag": "analysis"
+    },
+    {
+      "title": "France confirms first Ebola case in doctor returning from Congo humanitarian mission - Emirates 24|7",
+      "link": "https://www.emirates247.com/world/france-confirms-first-ebola-case-in-doctor-returning-from-congo-humanitarian-mission/2936",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case in doctor returning from Congo humanitarian mission&nbsp;&nbsp;Emirates 24|7",
       "tag": "analysis"
     },
     {
@@ -879,20 +907,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Projected epidemiologic and economic impact of the 7-1-7 outbreak response framework in Uganda: a stochastic modelling study of Bundibugyo Ebola virus",
-      "link": "https://doi.org/10.21203/rs.3.rs-10019597/v1",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10019597/v1\nAuthors: Abel W. Walekhwa, Sheetal Prakash Silal, Paul Mbaka, Mudarshiru Bbuye, Lydia Nakiire, Mohammed Lamorde, Benon Kwesiga, Wilber Sabiiti, Brenda Nakazibwe, Joshua Kayiwa, Mary Nantongo, Patrick Albert Ipola, Peter Kungu, Alex R. Ario, Atek Kagirita, Bernard Lubwama, Allan N. Muruta, Charles Olaro, Monica Muse",
-      "tag": "response"
-    },
-    {
-      "title": "Peningkatan Pengetahuan DBD pada Anggota PKK melalui Edukasi dan Demonstrasi Lapangan",
-      "link": "https://doi.org/10.62951/svargapena.v3i2.218",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.62951/svargapena.v3i2.218\n Dengue Hemorrhagic Fever (DHF) remains a serious public health problem in Indonesia. Active community participation is crucial in efforts to reduce the incidence of DHF. This community service program aims to improve health literacy related to DHF among PKK members in Bandarjo Village, Semarang Regency. The",
-      "tag": "analysis"
-    },
-    {
       "title": "Clinical Characteristics of Patients Infected with Bundibugyo Virus, DRC 2026",
       "link": "https://doi.org/10.1056/nejmc2608070",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
@@ -921,10 +935,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Peningkatan Pengetahuan DBD pada Anggota PKK melalui Edukasi dan Demonstrasi Lapangan",
+      "link": "https://doi.org/10.62951/svargapena.v3i2.218",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.62951/svargapena.v3i2.218\n Dengue Hemorrhagic Fever (DHF) remains a serious public health problem in Indonesia. Active community participation is crucial in efforts to reduce the incidence of DHF. This community service program aims to improve health literacy related to DHF among PKK members in Bandarjo Village, Semarang Regency. The",
+      "tag": "analysis"
+    },
+    {
       "title": "Bundibugyo Virus Disease in 2026 — Clinical and Public Health Responses",
       "link": "https://doi.org/10.1056/nejmra2607216",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1056/nejmra2607216\nAuthors: Nancy J. Sullivan",
+      "tag": "response"
+    },
+    {
+      "title": "Projected epidemiologic and economic impact of the 7-1-7 outbreak response framework in Uganda: a stochastic modelling study of Bundibugyo Ebola virus",
+      "link": "https://doi.org/10.21203/rs.3.rs-10019597/v1",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10019597/v1\nAuthors: Abel W. Walekhwa, Sheetal Prakash Silal, Paul Mbaka, Mudarshiru Bbuye, Lydia Nakiire, Mohammed Lamorde, Benon Kwesiga, Wilber Sabiiti, Brenda Nakazibwe, Joshua Kayiwa, Mary Nantongo, Patrick Albert Ipola, Peter Kungu, Alex R. Ario, Atek Kagirita, Bernard Lubwama, Allan N. Muruta, Charles Olaro, Monica Muse",
       "tag": "response"
     },
     {
@@ -1138,18 +1166,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Déclaration d’Africa CDC à l’issue de la Réunion de Haut Niveau sur la Riposte à Ebola en République Démocratique du Congo",
+      "link": "https://africacdc.org/news-item/declaration-dafrica-cdc-a-lissue-de-la-reunion-de-haut-niveau-sur-la-riposte-a-ebola-en-republique-democratique-du-congo/",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "Aujourd’hui, 23 juin 2026, Africa CDC a participé à une réunion de haut niveau tenue en présence de S.E. Évariste Ndayishimiye, Président de la République du Burundi et Président de l’Union africaine, et de S.E. Félix Tshisekedi, Président de la République démocratique du Congo, ainsi que du Premier Ministre de la République démocratique du",
+      "tag": "analysis"
+    },
+    {
       "title": "Crimean-congo haemorrhagic fever virus in ticks and small ruminants in western Iran: epidemiological insights and genotyping",
       "link": "https://doi.org/10.1186/s12879-026-13841-2",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1186/s12879-026-13841-2\nAuthors: Abdoreza Amrollahi, Meysam Moravedji, Saber Esmaeili, Nikwan Khademi Baneh, Tahmine Jalali, Maryam Rahravani, Mahsa Tavakoli, Zahra Hosseini, Mostafa Salehi-Vaziri, Mohammad Hassan Pouriayevali",
       "tag": "analysis"
-    },
-    {
-      "title": "Africa CDC Statement on the High-Level Ebola Response Meeting in the Democratic Republic of Congo",
-      "link": "https://africacdc.org/news-item/africa-cdc-statement-on-the-high-level-ebola-response-meeting-in-the-democratic-republic-of-congo/",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "Today, 23 June 2026, Africa Centers for Disease Control and prevention ( Africa CDC) participated in a high-level meeting convened in the presence of H.E. Évariste Ndayishimiye, President of the Republic of Burundi and Chairperson of the African Union, and H.E. Félix Tshisekedi, President of the Democratic Republic of Congo, alongside the Pr",
-      "tag": "response"
     },
     {
       "title": "Latent cytomegalovirus disrupts innate NK cell responses to P. falciparum and impairs parasite control in first infection in adults",
@@ -1159,11 +1187,11 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Déclaration d’Africa CDC à l’issue de la Réunion de Haut Niveau sur la Riposte à Ebola en République Démocratique du Congo",
-      "link": "https://africacdc.org/news-item/declaration-dafrica-cdc-a-lissue-de-la-reunion-de-haut-niveau-sur-la-riposte-a-ebola-en-republique-democratique-du-congo/",
+      "title": "Africa CDC Statement on the High-Level Ebola Response Meeting in the Democratic Republic of Congo",
+      "link": "https://africacdc.org/news-item/africa-cdc-statement-on-the-high-level-ebola-response-meeting-in-the-democratic-republic-of-congo/",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "Aujourd’hui, 23 juin 2026, Africa CDC a participé à une réunion de haut niveau tenue en présence de S.E. Évariste Ndayishimiye, Président de la République du Burundi et Président de l’Union africaine, et de S.E. Félix Tshisekedi, Président de la République démocratique du Congo, ainsi que du Premier Ministre de la République démocratique du",
-      "tag": "analysis"
+      "desc": "Today, 23 June 2026, Africa Centers for Disease Control and prevention ( Africa CDC) participated in a high-level meeting convened in the presence of H.E. Évariste Ndayishimiye, President of the Republic of Burundi and Chairperson of the African Union, and H.E. Félix Tshisekedi, President of the Democratic Republic of Congo, alongside the Pr",
+      "tag": "response"
     },
     {
       "title": "Epidemiological study of Crimean- Congo haemorrhagic fever in Thi Qar (2023–2024): assessing the role of tick bites, household animals, slaughter and fresh meat exposure in disease transmission",
@@ -1418,13 +1446,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Hantavirus infection in emergency radiology: Imaging manifestations, pathophysiology, and infection control considerations",
-      "link": "https://doi.org/10.1007/s10140-026-02499-7",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1007/s10140-026-02499-7\nAuthors: Platon Braun, Jonathan Lee, Eric D. Cyphers, Ali Gholamrezanezhad\n Abstract \n                   \n                    In April 2026, several cases of severe respiratory illnesses were reported aboard the cruise ship MV\n                     Hondius",
-      "tag": "cases"
-    },
-    {
       "title": "Inhibitors of the Machupo Virus L Endonuclease for Bolivian Hemorrhagic Fever Treatments",
       "link": "https://doi.org/10.3390/microorganisms14061377",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
@@ -1437,6 +1458,13 @@ window.FEED_DATA = {
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1128/iai.00231-26\nAuthors: Luke R. Joyce, Amanda Brady, Sol Kim, Priya M. Christensen, Kelli L. Palmer, Ziqiang Guan, Julie A. Siegnethaler, Kelly S. Doran\n ABSTRACT \n                   \n                     \n                     \n                       Streptococcu",
       "tag": "response"
+    },
+    {
+      "title": "Hantavirus infection in emergency radiology: Imaging manifestations, pathophysiology, and infection control considerations",
+      "link": "https://doi.org/10.1007/s10140-026-02499-7",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1007/s10140-026-02499-7\nAuthors: Platon Braun, Jonathan Lee, Eric D. Cyphers, Ali Gholamrezanezhad\n Abstract \n                   \n                    In April 2026, several cases of severe respiratory illnesses were reported aboard the cruise ship MV\n                     Hondius",
+      "tag": "cases"
     },
     {
       "title": "Idiopathic pulmonary fibrosis as a cause of severe respiratory failure in gerontological practice",
@@ -1558,17 +1586,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Incidence of unplanned gastrostomy tube replacements and associated complications in people with motor neurone disease and other conditions: A retrospective audit of an Australian dietitian‐led clinic",
-      "link": "https://doi.org/10.1002/ncp.70140",
-      "pubDate": "Sun, 21 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/ncp.70140\nAuthors: Emily Farrugia, Shanelle Bailey, Adam I. Semciw, Mani Suleiman, Mark Tacey, Caroline J. Tuck, Liam M. Hannan\n Abstract \n                   \n                     Background \n                     Gastrostomy tube placement is a common intervention for long‐t",
-      "tag": "analysis"
-    },
-    {
       "title": "Data-driven fractional-order modeling and optimal control of Ebola virus dynamics with environmental transmission and memory effects",
       "link": "https://doi.org/10.1140/epjs/s11734-026-02429-1",
       "pubDate": "Sun, 21 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1140/epjs/s11734-026-02429-1\nAuthors: Dipti Dolai, Mst Sebi Khatun, Palakshi Paul, Pritha Das, Dibakar Ghosh, Ranjit Kumar Upadhyay",
+      "tag": "analysis"
+    },
+    {
+      "title": "Incidence of unplanned gastrostomy tube replacements and associated complications in people with motor neurone disease and other conditions: A retrospective audit of an Australian dietitian‐led clinic",
+      "link": "https://doi.org/10.1002/ncp.70140",
+      "pubDate": "Sun, 21 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/ncp.70140\nAuthors: Emily Farrugia, Shanelle Bailey, Adam I. Semciw, Mani Suleiman, Mark Tacey, Caroline J. Tuck, Liam M. Hannan\n Abstract \n                   \n                     Background \n                     Gastrostomy tube placement is a common intervention for long‐t",
       "tag": "analysis"
     },
     {
@@ -1670,13 +1698,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "From Synthetic DNA and RNA-Based Self-Assembling Nanotechnology to Sequalae of COVID-19 Shots",
-      "link": "https://doi.org/10.56098/7mhh1467",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.56098/7mhh1467\nAuthors: Shimon D Yanowitz, Daniel Broudy\n Lipid nanoparticles containing “mRNA” have reportedly been injected into the bodies of as many as 5.2 billion people in the COVID-19 injectables. Forensic study has shown that the general public was deceived  about the chemical composition, the toxicity, and the destructive po",
-      "tag": "analysis"
-    },
-    {
       "title": "The effects of meteorological factors on hemorrhagic fever with renal syndrome in Yichun, China: a major Apodemus-type endemic city",
       "link": "https://doi.org/10.1038/s41598-026-59003-x",
       "pubDate": "Sat, 20 Jun 2026 00:00:00 Z",
@@ -1688,6 +1709,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.36566/ijhsrd/vol8.iss1/378",
       "pubDate": "Sat, 20 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.36566/ijhsrd/vol8.iss1/378\nAuthors: Salsabila Syafni Aulia, Ratno Widoyo, Kamal Kasra\n Background: Trash containers can potentially serve as breeding sites for mosquitoes that transmit dengue hemorrhagic fever. This study aims to examine the relationship between community waste management practices and the incidence of dengue hemorrh",
+      "tag": "analysis"
+    },
+    {
+      "title": "From Synthetic DNA and RNA-Based Self-Assembling Nanotechnology to Sequalae of COVID-19 Shots",
+      "link": "https://doi.org/10.56098/7mhh1467",
+      "pubDate": "Sat, 20 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.56098/7mhh1467\nAuthors: Shimon D Yanowitz, Daniel Broudy\n Lipid nanoparticles containing “mRNA” have reportedly been injected into the bodies of as many as 5.2 billion people in the COVID-19 injectables. Forensic study has shown that the general public was deceived  about the chemical composition, the toxicity, and the destructive po",
       "tag": "analysis"
     },
     {
@@ -1849,34 +1877,6 @@ window.FEED_DATA = {
       "link": "https://finance.sina.com.cn/jjxw/2026-06-19/doc-inicxust1500376.shtml",
       "pubDate": "Fri, 19 Jun 2026 12:26:00 Z",
       "desc": "Ebola -- Beijing, China. Significance Rating: 1 世卫组织官员：埃博拉疫情形势依然严峻&nbsp;&nbsp;Sina finance",
-      "tag": "analysis"
-    },
-    {
-      "title": "WHO mission reviews preparedness and health system needs across five counties in Liberia",
-      "link": "https://www.afro.who.int/countries/liberia/news/who-mission-reviews-preparedness-and-health-system-needs-across-five-counties-liberia",
-      "pubDate": "Fri, 19 Jun 2026 11:38:00 Z",
-      "desc": "Monrovia – As Liberia continues efforts to strengthen preparedness for Bundibugyo virus disease (BVD) and other public health threats, Dr Olushayo Olu, WHO Representative to Liberia, joined a field mission across Nimba, Grand Gedeh, River Gee, Maryland and Grand Kru counties from 8–13 June 2026 to....",
-      "tag": "response"
-    },
-    {
-      "title": "WHO’s Warning: Preparing for Disease X",
-      "link": "https://www.medscape.com/viewarticle/whos-warning-preparing-disease-x-2026a1000krm?src=rss",
-      "pubDate": "Fri, 19 Jun 2026 10:40:00 Z",
-      "desc": "Preparing for the Unknown. In 2018, the World Health Organization (WHO) added a striking element to its list of priority diseases: “ Disease X .” Unlike all other items on that list, Disease X does not refer to a specific pathogen or a known illness. Rather, it is a provisional concept: a deliberate....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola : les pays de la CEMAC renforcent leur bouclier sanitaire face à une menace régionale Une vigilance de tous les instants",
-      "link": "https://www.minsante.cm/site/?q=fr/content/ebola-les-pays-de-la-cemac-renforcent-leur-bouclier-sanitaire-face-%C3%A0-une-menace-r%C3%A9gionale",
-      "pubDate": "Fri, 19 Jun 2026 10:38:00 Z",
-      "desc": "L’Afrique centrale ne veut pas se laisser surprendre. Alors que la résurgence de la Maladie à Virus Ebola (MVE) en République Démocratique du Congo et en Ouganda suscite de vives préoccupations, les Ministres de la Santé des États membres de la Communauté Économique et Monétaire de l’Afrique....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Pour la première fois, un vaccin conçu par IA a été inoculé à des humains et les résultats semblent encourageants",
-      "link": "https://www.science-et-vie.com/corps-et-sante/pour-la-premiere-fois-des-humains-recoivent-un-vaccin-concu-par-ia-capable-de-devancer-les-virus-245352.html",
-      "pubDate": "Fri, 19 Jun 2026 09:06:00 Z",
-      "desc": "Des médecins ont injecté pour la première fois à des humains un vaccin conçu par IA. Cette technologie pourrait protéger des familles entières de virus et leurs futures mutations. Un vaccin conçu par IA franchit son premier test sur des volontaires humains.",
       "tag": "analysis"
     }
   ],
