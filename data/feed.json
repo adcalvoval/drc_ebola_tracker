@@ -1,39 +1,38 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 25 Jun 2026 17:12:43 Z",
-  "fetchedAt": "2026-06-25T17:12:44Z",
+  "lastBuildDate": "Thu, 25 Jun 2026 20:03:32 Z",
+  "fetchedAt": "2026-06-25T20:03:33Z",
   "itemCount": 250,
   "stats": {
     "drc": {
-      "deaths": 277,
-      "confirmed": 1094,
-      "recovered": 115,
-      "zonesAffected": 34,
+      "deaths": 291,
+      "confirmed": 1118,
+      "recovered": 122,
+      "zonesAffected": 33,
       "topHealthZones": {
-        "Bunia": 296,
-        "Mongbwalu": 237,
+        "Bunia": 304,
+        "Mongbwalu": 241,
         "Rwampara": 225,
         "Nyankunde": 86,
         "Katwa": 32,
         "Nizi": 30,
-        "Butembo": 28,
-        "Lita": 24,
+        "Butembo": 29,
+        "Lita": 26,
         "Beni": 20,
+        "Mangala": 17,
         "Bambu": 14,
-        "Mangala": 14,
-        "Komanda": 10,
+        "Komanda": 13,
         "Tchomia": 8,
         "Kilo": 7,
         "Aungba": 6,
         "Logo": 5,
+        "Nia-Nia": 5,
         "Damas": 4,
         "Rimba": 3,
         "Aru": 3,
         "Oicha": 3,
         "Kyondo": 3,
-        "Miti-Murhesa": 3,
         "Mambasa": 2,
-        "Nia-Nia": 2,
         "Kalunguta": 2,
         "Musienene": 2,
         "Drodro": 1,
@@ -46,25 +45,25 @@
         "Mabalako": 1
       },
       "contacts": 6367,
-      "suspected": 131,
-      "cfr": 25.3
+      "suspected": 138,
+      "cfr": 26.0
     },
     "drcMeta": {
       "deaths": {
         "tier": 5,
-        "src": "INRB sitrep (2026-06-22)"
+        "src": "INRB sitrep (2026-06-23)"
       },
       "confirmed": {
         "tier": 5,
-        "src": "INRB sitrep (2026-06-22)"
+        "src": "INRB sitrep (2026-06-23)"
       },
       "recovered": {
         "tier": 5,
-        "src": "INRB sitrep (2026-06-22)"
+        "src": "INRB sitrep (2026-06-23)"
       },
       "suspected": {
         "tier": 5,
-        "src": "INRB sitrep (2026-06-22)"
+        "src": "INRB sitrep (2026-06-23)"
       }
     },
     "drcTiers": {
@@ -82,10 +81,10 @@
         "recovered": 88
       },
       "inrb": {
-        "confirmed": 1094,
-        "deaths": 277,
-        "suspected": 131,
-        "recovered": 115
+        "confirmed": 1118,
+        "deaths": 291,
+        "suspected": 138,
+        "recovered": 122
       }
     },
     "provinces": {
@@ -97,14 +96,13 @@
       "northKivu": {
         "zonesAffected": 11,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-06-22)",
-        "confirmed": 94
+        "source": "INRB sitrep (2026-06-23)",
+        "confirmed": 95
       },
       "southKivu": {
         "zonesAffected": 1,
-        "sourceWeight": 5,
-        "source": "INRB sitrep (2026-06-22)",
-        "confirmed": 3
+        "sourceWeight": 4,
+        "source": "2026-DON608 (as of 17 June 2026)"
       }
     },
     "uga": {
@@ -123,12 +121,33 @@
       "fetchedAt": "2026-06-19T13:10:37Z"
     },
     "inrbSitrep": {
-      "asOf": "2026-06-22",
+      "asOf": "2026-06-23",
       "url": "https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/insp_sitrep/processed",
-      "fetchedAt": "2026-06-24T14:35:20.164059+00:00"
+      "fetchedAt": "2026-06-25T20:03:34.198822+00:00"
     }
   },
   "items": [
+    {
+      "title": "Welcome! Everything is fine…except there is still no ACIP quorum: The State of US Vaccine Policy",
+      "link": "https://www.cidrap.umn.edu/adult-non-flu-vaccines/welcome-everything-fine-except-there-still-no-acip-quorum-state-us-vaccine",
+      "pubDate": "Thu, 25 Jun 2026 18:36:00 Z",
+      "desc": "at the University of Minnesota. If you’ve seen The Good Place , you likely remember the stretch of episodes in Season 2 where Michael keeps resetting his fake “Good Place” neighborhood. Over and over and over. Each reset is a fresh attempt to make the same arrangement work.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Africa CDC Says Funding Needs for Ebola Response Three Times Higher At $1.4 Billion",
+      "link": "https://www.medscape.com/s/viewarticle/africa-cdc-says-ebola-response-funding-needs-jump-1-4-2026a1000loa?src=rss",
+      "pubDate": "Thu, 25 Jun 2026 17:54:00 Z",
+      "desc": "DAKAR/JOHANNESBURG, June 25 (Reuters) - Africa's top public health agency said on Thursday that funding needed ⁠to tackle the continent's Ebola outbreak was three times higher than an earlier estimate, and now stands at $1.4 ⁠billion.\n\nAfrica Centres for Disease Control and Prevention....",
+      "tag": "response"
+    },
+    {
+      "title": "24 de junio de 2026 Alocución de apertura del Director General de la OMS en la rueda de prensa del 24 de junio de 2026",
+      "link": "https://www.who.int/es/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---24-june-2026",
+      "pubDate": "Thu, 25 Jun 2026 17:36:00 Z",
+      "desc": "Buenas tardes a quienes estén presentes en la sala, y buenos días, buenas tardes y buenas noches a quienes nos siguen en línea, dondequiera que estén. Empezamos por el brote de ébola en la República Democrática del Congo. Es alentador constatar que desde que se informó por primera vez del brote hace....",
+      "tag": "analysis"
+    },
     {
       "title": "Washington Post",
       "link": "https://geneticliteracyproject.org/source/washington-post/",
@@ -487,17 +506,17 @@
       "tag": "cases"
     },
     {
-      "title": "Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway - Jamaica Observer",
-      "link": "https://www.jamaicaobserver.com/2026/06/24/doctor-returning-dr-congo-tests-positive-ebola-france-contact-tracing-underway/",
-      "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
-      "desc": "-- DR Congo. Significance Rating: 1 Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway&nbsp;&nbsp;Jamaica Observer",
-      "tag": "analysis"
-    },
-    {
       "title": "US Ebola Quarantine Plan in Kenya Hits Legal Wall - t.co",
       "link": "https://t.co/5wlYGS2kEW",
       "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
       "desc": "-- United States. Significance Rating: 1 US Ebola Quarantine Plan in Kenya Hits Legal Wall&nbsp;&nbsp;t.co",
+      "tag": "analysis"
+    },
+    {
+      "title": "Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway - Jamaica Observer",
+      "link": "https://www.jamaicaobserver.com/2026/06/24/doctor-returning-dr-congo-tests-positive-ebola-france-contact-tracing-underway/",
+      "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
+      "desc": "-- DR Congo. Significance Rating: 1 Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway&nbsp;&nbsp;Jamaica Observer",
       "tag": "analysis"
     },
     {
@@ -571,17 +590,10 @@
       "tag": "analysis"
     },
     {
-      "title": "France confirms first Ebola case after doctor returning from DRC tests positive - The National",
-      "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
+      "title": "France confirms first Ebola case, found in doctor who flew back from Congo | World News - Hindustan Times",
+      "link": "https://www.hindustantimes.com/world-news/france-confirms-first-ebola-case-found-in-doctor-who-flew-back-from-congo-101782301890929.html",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
-      "tag": "analysis"
-    },
-    {
-      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
-      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
+      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case, found in doctor who flew back from Congo | World News&nbsp;&nbsp;Hindustan Times",
       "tag": "analysis"
     },
     {
@@ -634,10 +646,17 @@
       "tag": "cases"
     },
     {
-      "title": "France confirms first Ebola case, found in doctor who flew back from Congo | World News - Hindustan Times",
-      "link": "https://www.hindustantimes.com/world-news/france-confirms-first-ebola-case-found-in-doctor-who-flew-back-from-congo-101782301890929.html",
+      "title": "France confirms first Ebola case after doctor returning from DRC tests positive - The National",
+      "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case, found in doctor who flew back from Congo | World News&nbsp;&nbsp;Hindustan Times",
+      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
+      "tag": "analysis"
+    },
+    {
+      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
+      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
       "tag": "analysis"
     },
     {
@@ -907,13 +926,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Clinical Characteristics of Patients Infected with Bundibugyo Virus, DRC 2026",
-      "link": "https://doi.org/10.1056/nejmc2608070",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1056/nejmc2608070\nAuthors: Pierre Akilimali, Dav M. Ebengo, Samuel V. Scarpino, Adrienne Amuri-Aziza, Tony Wawina-Bokalanga, Placide Matondo-Mbundu, Benjamin Kanku, Eddy Kinganda-Lusamaki, Jean-Claude Makangara, Daniel Mukadi-Bamuleka, Amanda Rojek, Moritz U.G. Kraemer, Christian Ngandu, Dieudonné Mwamba, Placide Mbala-Kingebeni",
-      "tag": "analysis"
-    },
-    {
       "title": "Astrocytic VPS35 coordinates iron homeostasis with HIF1α-VEGFa signaling to prevent astrocytic ferroptosis and to promote neocortical angiogenesis",
       "link": "https://doi.org/10.1186/s13578-026-01602-2",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
@@ -956,11 +968,25 @@
       "tag": "response"
     },
     {
+      "title": "Clinical Characteristics of Patients Infected with Bundibugyo Virus, DRC 2026",
+      "link": "https://doi.org/10.1056/nejmc2608070",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1056/nejmc2608070\nAuthors: Pierre Akilimali, Dav M. Ebengo, Samuel V. Scarpino, Adrienne Amuri-Aziza, Tony Wawina-Bokalanga, Placide Matondo-Mbundu, Benjamin Kanku, Eddy Kinganda-Lusamaki, Jean-Claude Makangara, Daniel Mukadi-Bamuleka, Amanda Rojek, Moritz U.G. Kraemer, Christian Ngandu, Dieudonné Mwamba, Placide Mbala-Kingebeni",
+      "tag": "analysis"
+    },
+    {
       "title": "Infective endocarditis complicated with multiple cerebral embolism and hemorrhage caused by Streptococcus sinensis: a rare case report and literature review",
       "link": "https://doi.org/10.3389/fmed.2026.1786870",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fmed.2026.1786870\nAuthors: Hong Zheng, Cuilin He, Kai Tang, Xiwen Wang, Longbiao Xie, Wei Li, Jianli Wu, Danjie Zhao\n \n                     Streptococcus sinensis \n                    (\n                     S. sinensis \n                    ) is a rare pathogen causing infective e",
       "tag": "analysis"
+    },
+    {
+      "title": "La RDC et l’Ouganda lancent un plan transfrontalier de 90 jours pour renforcer la réponse à Aru.",
+      "link": "https://insp.cd/la-rdc-et-louganda-lancent-un-plan-transfrontalier-de-90-jours-pour-renforcer-la-reponse-a-aru/",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "juin 24, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nAru, La République Démocratique du Congo et la République de l’Ouganda ont franchi une étape majeure dans la lutte contre la Maladie à Virus Ebola (MVE) avec le lancement officiel d’un Pl",
+      "tag": "response"
     },
     {
       "title": "Case Report: Primary hepatic carcinosarcoma with ectopic β-hCG secretion and a paraneoplastic leukemoid reaction mimicking gynecologic and hematologic disease",
@@ -984,13 +1010,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Simply following the rules: race and the immunologics of Ebola response in Sierra Leone",
-      "link": "https://doi.org/10.1080/14735784.2025.2540268",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1080/14735784.2025.2540268\nAuthors: Adia Benton",
-      "tag": "response"
-    },
-    {
       "title": "Development of an immunochromatographic lateral flow assay for the rapid detection of all known orthoebolavirus glycoproteins",
       "link": "https://doi.org/10.1038/s44298-026-00209-1",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
@@ -998,10 +1017,10 @@
       "tag": "analysis"
     },
     {
-      "title": "La RDC et l’Ouganda lancent un plan transfrontalier de 90 jours pour renforcer la réponse à Aru.",
-      "link": "https://insp.cd/la-rdc-et-louganda-lancent-un-plan-transfrontalier-de-90-jours-pour-renforcer-la-reponse-a-aru/",
+      "title": "Simply following the rules: race and the immunologics of Ebola response in Sierra Leone",
+      "link": "https://doi.org/10.1080/14735784.2025.2540268",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "juin 24, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nAru, La République Démocratique du Congo et la République de l’Ouganda ont franchi une étape majeure dans la lutte contre la Maladie à Virus Ebola (MVE) avec le lancement officiel d’un Pl",
+      "desc": "DOI: 10.1080/14735784.2025.2540268\nAuthors: Adia Benton",
       "tag": "response"
     },
     {
@@ -1103,17 +1122,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Invasive pneumococcal disease with widespread metastatic involvement in a healthy adult: a case report",
-      "link": "https://link.springer.com/article/10.1186/s12879-026-13828-z",
-      "pubDate": "Tue, 23 Jun 2026 07:50:00 Z",
-      "desc": "Background. This was an unusual case of invasive pneumococcal disease in an immunocompetent adult without serious underlying medical conditions. Streptococcus pneumoniae bacteraemia was found with multiple distant sites of infection, including polyarticular septic arthritis, osteomyelitis,....",
-      "tag": "analysis"
-    },
-    {
       "title": "Crimean-congo haemorrhagic fever virus in ticks and small ruminants in western Iran: epidemiological insights and genotyping",
       "link": "https://link.springer.com/article/10.1186/s12879-026-13841-2",
       "pubDate": "Tue, 23 Jun 2026 07:50:00 Z",
       "desc": "Background. Crimean–Congo haemorrhagic fever (CCHF) is an emerging zoonotic disease of significant public health concern caused by Crimean–Congo haemorrhagic fever virus (CCHFV), primarily transmitted by tick vectors. Its spread is further compounded by global warming, tick range expansion, and traditional farming practices.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Invasive pneumococcal disease with widespread metastatic involvement in a healthy adult: a case report",
+      "link": "https://link.springer.com/article/10.1186/s12879-026-13828-z",
+      "pubDate": "Tue, 23 Jun 2026 07:50:00 Z",
+      "desc": "Background. This was an unusual case of invasive pneumococcal disease in an immunocompetent adult without serious underlying medical conditions. Streptococcus pneumoniae bacteraemia was found with multiple distant sites of infection, including polyarticular septic arthritis, osteomyelitis,....",
       "tag": "analysis"
     },
     {
@@ -1222,6 +1241,13 @@
       "tag": "analysis"
     },
     {
+      "title": "TickMapKB: A FAIR Spatial Knowledgebase of Tick Species and Associated Pathogens in India",
+      "link": "https://doi.org/10.64898/2026.06.22.733803",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.22.733803\nAuthors: Shreyes Rajan Madgaonkar, Shrish Vashishth, Elango Ayyanar, Srikanth Srirama, Areejit Samal\n Ticks transmit pathogens across wildlife, domestic animals, and humans, and are therefore considered important vectors under the One Health framework. In India, the burden of tick-borne diseases, such as Kyasa",
+      "tag": "analysis"
+    },
+    {
       "title": "Spreading α-synuclein rewires organelle communication and impairs neuron-astrocyte mitochondrial quality control",
       "link": "https://doi.org/10.64898/2026.06.19.733342",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
@@ -1233,13 +1259,6 @@
       "link": "https://doi.org/10.3390/ijms27135661",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/ijms27135661\nAuthors: Sezer Akgöl, Fatih Kocabaş\n Crimean–Congo hemorrhagic fever virus (CCHFV) remains a major public health threat due to its high mortality rates and the absence of approved antiviral therapies. The viral ovarian tumor (OTU) protease is a critical virulence factor that suppresses host innate immunity through i",
-      "tag": "analysis"
-    },
-    {
-      "title": "TickMapKB: A FAIR Spatial Knowledgebase of Tick Species and Associated Pathogens in India",
-      "link": "https://doi.org/10.64898/2026.06.22.733803",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.22.733803\nAuthors: Shreyes Rajan Madgaonkar, Shrish Vashishth, Elango Ayyanar, Srikanth Srirama, Areejit Samal\n Ticks transmit pathogens across wildlife, domestic animals, and humans, and are therefore considered important vectors under the One Health framework. In India, the burden of tick-borne diseases, such as Kyasa",
       "tag": "analysis"
     },
     {
@@ -1488,10 +1507,24 @@
       "tag": "analysis"
     },
     {
-      "title": "TRP120-dependent activation of noncanonical Wnt/NFAT signaling drives monocyte chemokine production in <i>Ehrlichia chaffeensis</i> infection",
-      "link": "https://doi.org/10.1128/msphere.00081-26",
+      "title": "Rapid gender analysis: what we know so far about the Bundibugyo Ebola outbreak in the Democratic Republic of Congo and Uganda",
+      "link": "https://doi.org/10.59350/7nhg3-m5h81",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/msphere.00081-26\nAuthors: Regina N. Solomon, Duc-Cuong Bui, Ayana P. Pai, Jere W. McBride\n ABSTRACT \n                   \n                     \n                     \n                       Ehrlichia chaffeensis \n                      is an obligatel",
+      "desc": "DOI: 10.59350/7nhg3-m5h81\nAuthors: Reda Sadki\n In the Democratic Republic of the Congo and Uganda, more than half of the people who are getting sick with Ebola are women and girls. This has happened in past Ebola outbreaks too. This Rapid Gender Analysis (RGA) reviews what the evidence shows, and what it does not yet show, about gender in th",
+      "tag": "analysis"
+    },
+    {
+      "title": "Epidemiological situation of natural focal infections in different landscape-ecological zones of the Volgograd region",
+      "link": "https://doi.org/10.21886/2219-8075-2026-17-2-120-130",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.21886/2219-8075-2026-17-2-120-130\nAuthors: V. P. Smelyanskiy, K. V. Zhukov, S. A. Kargashin, A. K. Mendygalieva, M. N. Taratutina, Yu. D. Gerasimova, E. R. Posokhova, E. I. Romasova\n The article analyzes the incidence of natural focal infections (NFI) in the Volgograd region (VR) for the period from 2015 to 2024, taking into account",
+      "tag": "analysis"
+    },
+    {
+      "title": "Correction to: Genetic testing in a national cohort of adults with chronic kidney disease of unknown origin",
+      "link": "https://doi.org/10.1093/ndt/gfag127",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/ndt/gfag127",
       "tag": "analysis"
     },
     {
@@ -1516,17 +1549,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Correction to: Genetic testing in a national cohort of adults with chronic kidney disease of unknown origin",
-      "link": "https://doi.org/10.1093/ndt/gfag127",
+      "title": "COVID-19 AND MALE INFERTILITY: PATHOPHYSIOLOGICAL MECHANISMS AND CLINICAL OUTCOMES",
+      "link": "https://doi.org/10.36107/2782-1714_2026-6-2-96-101",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/ndt/gfag127",
-      "tag": "analysis"
-    },
-    {
-      "title": "Simulasi Numerik Pengendalian Endemik Demam Berdarah Dengue di Kabupaten Minahasa menggunakan Pendekatan Model SIR-A",
-      "link": "https://doi.org/10.29303/griya.v6i2.1201",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.29303/griya.v6i2.1201\nAuthors: Christari Lois Palit, Virginia Sarah Kaparang, Samuel Jason Bisuan, Suci Cahnia Laode, Gerald Sunantepar Pakala, Harly Marsel Karamoy\n Dengue Hemorrhagic Fever (DHF) persists as a critical threat to public health sectors within tropical ecosystems, including Indonesia. This study evaluates the epidemiol",
+      "desc": "DOI: 10.36107/2782-1714_2026-6-2-96-101\nAuthors: Galina Myandina, Sergey Kurevlev, Ekaterina Tarasenko, Andrey Kuchuk\n Background. The pandemic of coronavirus disease COVID-19 caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been a major obstacle for the performing of current medical activities throughout the wo",
       "tag": "analysis"
     },
     {
@@ -1537,24 +1563,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Rapid gender analysis: what we know so far about the Bundibugyo Ebola outbreak in the Democratic Republic of Congo and Uganda",
-      "link": "https://doi.org/10.59350/7nhg3-m5h81",
+      "title": "TRP120-dependent activation of noncanonical Wnt/NFAT signaling drives monocyte chemokine production in <i>Ehrlichia chaffeensis</i> infection",
+      "link": "https://doi.org/10.1128/msphere.00081-26",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.59350/7nhg3-m5h81\nAuthors: Reda Sadki\n In the Democratic Republic of the Congo and Uganda, more than half of the people who are getting sick with Ebola are women and girls. This has happened in past Ebola outbreaks too. This Rapid Gender Analysis (RGA) reviews what the evidence shows, and what it does not yet show, about gender in th",
+      "desc": "DOI: 10.1128/msphere.00081-26\nAuthors: Regina N. Solomon, Duc-Cuong Bui, Ayana P. Pai, Jere W. McBride\n ABSTRACT \n                   \n                     \n                     \n                       Ehrlichia chaffeensis \n                      is an obligatel",
       "tag": "analysis"
     },
     {
-      "title": "COVID-19 AND MALE INFERTILITY: PATHOPHYSIOLOGICAL MECHANISMS AND CLINICAL OUTCOMES",
-      "link": "https://doi.org/10.36107/2782-1714_2026-6-2-96-101",
+      "title": "Simulasi Numerik Pengendalian Endemik Demam Berdarah Dengue di Kabupaten Minahasa menggunakan Pendekatan Model SIR-A",
+      "link": "https://doi.org/10.29303/griya.v6i2.1201",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.36107/2782-1714_2026-6-2-96-101\nAuthors: Galina Myandina, Sergey Kurevlev, Ekaterina Tarasenko, Andrey Kuchuk\n Background. The pandemic of coronavirus disease COVID-19 caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been a major obstacle for the performing of current medical activities throughout the wo",
-      "tag": "analysis"
-    },
-    {
-      "title": "Epidemiological situation of natural focal infections in different landscape-ecological zones of the Volgograd region",
-      "link": "https://doi.org/10.21886/2219-8075-2026-17-2-120-130",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21886/2219-8075-2026-17-2-120-130\nAuthors: V. P. Smelyanskiy, K. V. Zhukov, S. A. Kargashin, A. K. Mendygalieva, M. N. Taratutina, Yu. D. Gerasimova, E. R. Posokhova, E. I. Romasova\n The article analyzes the incidence of natural focal infections (NFI) in the Volgograd region (VR) for the period from 2015 to 2024, taking into account",
+      "desc": "DOI: 10.29303/griya.v6i2.1201\nAuthors: Christari Lois Palit, Virginia Sarah Kaparang, Samuel Jason Bisuan, Suci Cahnia Laode, Gerald Sunantepar Pakala, Harly Marsel Karamoy\n Dengue Hemorrhagic Fever (DHF) persists as a critical threat to public health sectors within tropical ecosystems, including Indonesia. This study evaluates the epidemiol",
       "tag": "analysis"
     },
     {
@@ -1857,34 +1876,13 @@
       "pubDate": "Fri, 19 Jun 2026 13:53:00 Z",
       "desc": "À Mbankomo, experts humains et vétérinaires unissent leurs savoirs pour cartographier le risque viral avant qu’il ne franchisse les frontières. Organisé par le Programme Zoonoses, Plateforme Une Seule Santé, cet atelier d’évaluation conjointe et de cartographie des risques de la Maladie à Virus....",
       "tag": "analysis"
-    },
-    {
-      "title": "Épidémie d'Ebola 2026 en République Démocratique du Congo et en Ouganda : tout savoir sur Bundibugyo",
-      "link": "https://www.pasteur.fr/fr/journal-recherche/actualites/epidemie-ebola-2026-republique-democratique-du-congo-ouganda-savoir-bundibugyo",
-      "pubDate": "Fri, 19 Jun 2026 13:39:00 Z",
-      "desc": "Une épidémie d’ Ebola frappe actuellement la République démocratique du Congo (RDC) et s’étend désormais à l’Ouganda. En cause : l’espèce Bundibugyo, une espèce peu connue du virus Ebola contre laquelle aucun vaccin ni traitement spécifique n'est aujourd’hui approuvé. La situation inquiète les autorités sanitaires.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda",
-      "link": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON608",
-      "pubDate": "Fri, 19 Jun 2026 13:07:00 Z",
-      "desc": "HomeWorld Health OrganizationHealth TopicsCountriesNewsroomEmergenciesDataAbout WHO\n        \n         \n\n\n\n\n    \n    \n        \n                    Home\n                    Disease Outbreak News\n                    Item\n                    Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda",
-      "tag": "analysis"
-    },
-    {
-      "title": "世卫组织官员：埃博拉疫情形势依然严峻 - Sina finance",
-      "link": "https://finance.sina.com.cn/jjxw/2026-06-19/doc-inicxust1500376.shtml",
-      "pubDate": "Fri, 19 Jun 2026 12:26:00 Z",
-      "desc": "Ebola -- Beijing, China. Significance Rating: 1 世卫组织官员：埃博拉疫情形势依然严峻&nbsp;&nbsp;Sina finance",
-      "tag": "analysis"
     }
   ],
   "highWater": {
     "drc": {
       "deaths": {
-        "value": 277,
-        "asOf": "2026-06-24T14:35:18Z",
+        "value": 291,
+        "asOf": "2026-06-25T20:03:33Z",
         "source": "INRB MVE Sitrep"
       },
       "confirmed_deaths": {
@@ -1898,8 +1896,8 @@
         "source": "WHO / OMS"
       },
       "confirmed": {
-        "value": 1094,
-        "asOf": "2026-06-24T14:35:18Z",
+        "value": 1118,
+        "asOf": "2026-06-25T20:03:33Z",
         "source": "INRB MVE Sitrep"
       },
       "active": {
