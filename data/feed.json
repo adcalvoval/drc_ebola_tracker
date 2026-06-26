@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 26 Jun 2026 17:01:10 Z",
-  "fetchedAt": "2026-06-26T17:01:11Z",
+  "lastBuildDate": "Fri, 26 Jun 2026 19:50:44 Z",
+  "fetchedAt": "2026-06-26T19:50:44Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -128,6 +128,48 @@
     }
   },
   "items": [
+    {
+      "title": "HSS researchers link early-life immunity to adult immune function",
+      "link": "https://www.news-medical.net/news/20260626/HSS-researchers-link-early-life-immunity-to-adult-immune-function.aspx",
+      "pubDate": "Fri, 26 Jun 2026 19:42:00 Z",
+      "desc": "Researchers at Hospital for Special Surgery (HSS) have uncovered a critical link between the immune system in early life and its function in adulthood. The study, published in Science Immunology , identifies a new role for specialized skin immune cells, called Langerhans cells, in shaping the....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda: 6/26/26",
+      "link": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
+      "pubDate": "Fri, 26 Jun 2026 19:02:00 Z",
+      "desc": "Please note: This transcript has not been edited and may contain errors. 00:21:22 Operator. Good afternoon and thank you all for standing by. For the duration of today's call all listeners are in a listen-only mode until the question-and-answer session.",
+      "tag": "analysis"
+    },
+    {
+      "title": "La OPS y África CDC fortalecen capacidades de las Américas para la preparación y respuesta ante el ébola",
+      "link": "https://www.paho.org/es/noticias/26-6-2026-ops-africa-cdc-fortalecen-capacidades-americas-para-preparacion-respuesta-ante",
+      "pubDate": "Fri, 26 Jun 2026 17:33:00 Z",
+      "desc": "Reunión técnica virtual, en colaboración con el Ministerio de Salud de Brasil, promovió el intercambio de lecciones aprendidas y el blindaje epidemiológico preventivo en el continente. Washington D.C., Junio 26, 2026 . Con el propósito de robustecer los sistemas de vigilancia y elevar los niveles de....",
+      "tag": "response"
+    },
+    {
+      "title": "Read the full HTML edition →",
+      "link": "https://www.who.int/publications/journals/weekly-epidemiological-record/WER101-25",
+      "pubDate": "Fri, 26 Jun 2026 17:07:00 Z",
+      "desc": "At the same time, the WER increasingly documented risks extending beyond classical infectious disease outbreaks. Climate-sensitive health threats, including changes in the geographic range of vector-borne diseases, appeared with growing frequency. Articles examining vaccine safety, influenza strain....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Download full edition (PDF)",
+      "link": "https://iris.who.int/server/api/core/bitstreams/c40b36a4-95cc-4861-ad84-7bfae0e1a9cf/content",
+      "pubDate": "Fri, 26 Jun 2026 17:07:00 Z",
+      "desc": "Weekly epidemiological record 100 YEARS OF THE WEEKLY EPIDEMIOLOGICAL RECORD No. 25, 2026, 101, 87 http://www.who.int/wer 26 June 2026 Contents 87. Highlighted Signals and Events 88. Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo and Uganda 90. Hantavirus outbreak linked to cruise ship travel, multiple locations 90.",
+      "tag": "response"
+    },
+    {
+      "title": "26 June 2026 Statement TAG-TP statement on immunomodulators and host-directed therapies for Bundibugyo virus disease",
+      "link": "https://www.who.int/news/item/26-06-2026-tag-tp-statement-on-immunomodulators-and-host-directed-therapies-for-bundibugyo-virus-disease",
+      "pubDate": "Fri, 26 Jun 2026 17:07:00 Z",
+      "desc": "In the context of prioritization of therapeutics to be included in clinical research for Bundibugyo virus disease (BVD) the Technical Advisory Group on Therapeutics Prioritization TAG-TP) has begun examining the landscape of immunomodulatory and host-directed new or repurposed agents.",
+      "tag": "analysis"
+    },
     {
       "title": "France : ce que l’on sait du premier cas d’Ebola détecté en France Patrick GEROME - 26/06/2026 Lire plus➟",
       "link": "https://www.mesvaccins.net/web/news/24220-france-ce-que-l-on-sait-du-premier-cas-d-ebola-detecte-en-france",
@@ -661,27 +703,6 @@
       "tag": "cases"
     },
     {
-      "title": "France Confirms First Ebola Case Amid DRC Outbreak - The Trumpet Newspaper Nigeria",
-      "link": "https://thetrumpet.ng/france-confirms-first-ebola-case-amid-drc-outbreak/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France Confirms First Ebola Case Amid DRC Outbreak&nbsp;&nbsp;The Trumpet Newspaper Nigeria",
-      "tag": "analysis"
-    },
-    {
-      "title": "France Confirms Ebola Case Tied To Congo Outbreak - thedeepdive.ca",
-      "link": "https://thedeepdive.ca/france-ebola-case-congo-outbreak/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France Confirms Ebola Case Tied To Congo Outbreak&nbsp;&nbsp;thedeepdive.ca",
-      "tag": "analysis"
-    },
-    {
-      "title": "France confirms first-ever Ebola case as doctor returns from DR Congo - Mid-day",
-      "link": "https://www.mid-day.com/news/world-news/article/ebola-outbreak-france-confirms-first-ever-case-as-doctor-returns-from-dr-congo-23636657",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "Fever -- France. Significance Rating: 3 France confirms first-ever Ebola case as doctor returns from DR Congo&nbsp;&nbsp;Mid-day",
-      "tag": "analysis"
-    },
-    {
       "title": "France Reports First Ebola Case Linked to Congo Outbreak - Yahoo",
       "link": "https://www.yahoo.com/news/videos/france-reports-first-ebola-case-123000368.html",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
@@ -703,17 +724,38 @@
       "tag": "analysis"
     },
     {
-      "title": "France confirms first Ebola case in doctor returning from Congo humanitarian mission - Emirates 24|7",
-      "link": "https://www.emirates247.com/world/france-confirms-first-ebola-case-in-doctor-returning-from-congo-humanitarian-mission/2936",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case in doctor returning from Congo humanitarian mission&nbsp;&nbsp;Emirates 24|7",
-      "tag": "analysis"
-    },
-    {
       "title": "France reports Ebola case in doctor returning from DRC - Business Day",
       "link": "https://www.businessday.co.za/world/europe/2026-06-24-france-reports-ebola-case-in-doctor-returning-from-drc/",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France reports Ebola case in doctor returning from DRC&nbsp;&nbsp;Business Day",
+      "tag": "analysis"
+    },
+    {
+      "title": "France Confirms First Ebola Case Amid DRC Outbreak - The Trumpet Newspaper Nigeria",
+      "link": "https://thetrumpet.ng/france-confirms-first-ebola-case-amid-drc-outbreak/",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France Confirms First Ebola Case Amid DRC Outbreak&nbsp;&nbsp;The Trumpet Newspaper Nigeria",
+      "tag": "analysis"
+    },
+    {
+      "title": "France Confirms Ebola Case Tied To Congo Outbreak - thedeepdive.ca",
+      "link": "https://thedeepdive.ca/france-ebola-case-congo-outbreak/",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France Confirms Ebola Case Tied To Congo Outbreak&nbsp;&nbsp;thedeepdive.ca",
+      "tag": "analysis"
+    },
+    {
+      "title": "France confirms first-ever Ebola case as doctor returns from DR Congo - Mid-day",
+      "link": "https://www.mid-day.com/news/world-news/article/ebola-outbreak-france-confirms-first-ever-case-as-doctor-returns-from-dr-congo-23636657",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "Fever -- France. Significance Rating: 3 France confirms first-ever Ebola case as doctor returns from DR Congo&nbsp;&nbsp;Mid-day",
+      "tag": "analysis"
+    },
+    {
+      "title": "France confirms first Ebola case in doctor returning from Congo humanitarian mission - Emirates 24|7",
+      "link": "https://www.emirates247.com/world/france-confirms-first-ebola-case-in-doctor-returning-from-congo-humanitarian-mission/2936",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case in doctor returning from Congo humanitarian mission&nbsp;&nbsp;Emirates 24|7",
       "tag": "analysis"
     },
     {
@@ -1039,17 +1081,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Healthcare-associated transmission and early IPC system vulnerabilities during the 2026 Bundibugyo Ebola outbreak in eastern Democratic Republic of the Congo",
-      "link": "https://doi.org/10.1186/s13756-026-01779-8",
+      "title": "Remote Patient Monitoring",
+      "link": "https://doi.org/10.1039/9781837677771-00254",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s13756-026-01779-8\nAuthors: Ben Bepouka, Mardoche Kafua",
+      "desc": "DOI: 10.1039/9781837677771-00254\nAuthors: Merve Asena Özbek, Merve Çalışır, Erdoğan Özgür\n The challenges in treating chronic and infectious viral diseases have driven the search for new methods, with remote patient monitoring (RPM) emerging as a key technological approach. Sensor-integrated RPM enables real-time patient tracking, easing the",
       "tag": "analysis"
     },
     {
-      "title": "Peningkatan Pengetahuan DBD pada Anggota PKK melalui Edukasi dan Demonstrasi Lapangan",
-      "link": "https://doi.org/10.62951/svargapena.v3i2.218",
+      "title": "Astrocytic VPS35 coordinates iron homeostasis with HIF1α-VEGFa signaling to prevent astrocytic ferroptosis and to promote neocortical angiogenesis",
+      "link": "https://doi.org/10.1186/s13578-026-01602-2",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.62951/svargapena.v3i2.218\n Dengue Hemorrhagic Fever (DHF) remains a serious public health problem in Indonesia. Active community participation is crucial in efforts to reduce the incidence of DHF. This community service program aims to improve health literacy related to DHF among PKK members in Bandarjo Village, Semarang Regency. The",
+      "desc": "DOI: 10.1186/s13578-026-01602-2\nAuthors: Anika Wu, Daehoon Lee, Ananya Nadgauda, Emily Arzola, Lei Xiong, Wen-Cheng Xiong\n Abstract \n                   Astrocytes coordinate neuronal activity with vascular development and metabolic homeostasis during postnatal brain maturation, yet the mechanisms enabling astrocytes to",
       "tag": "analysis"
     },
     {
@@ -1067,10 +1109,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Clinical Characteristics of Patients Infected with Bundibugyo Virus, DRC 2026",
-      "link": "https://doi.org/10.1056/nejmc2608070",
+      "title": "Healthcare-associated transmission and early IPC system vulnerabilities during the 2026 Bundibugyo Ebola outbreak in eastern Democratic Republic of the Congo",
+      "link": "https://doi.org/10.1186/s13756-026-01779-8",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1056/nejmc2608070\nAuthors: Pierre Akilimali, Dav M. Ebengo, Samuel V. Scarpino, Adrienne Amuri-Aziza, Tony Wawina-Bokalanga, Placide Matondo-Mbundu, Benjamin Kanku, Eddy Kinganda-Lusamaki, Jean-Claude Makangara, Daniel Mukadi-Bamuleka, Amanda Rojek, Moritz U.G. Kraemer, Christian Ngandu, Dieudonné Mwamba, Placide Mbala-Kingebeni",
+      "desc": "DOI: 10.1186/s13756-026-01779-8\nAuthors: Ben Bepouka, Mardoche Kafua",
       "tag": "analysis"
     },
     {
@@ -1088,17 +1130,17 @@
       "tag": "response"
     },
     {
-      "title": "Astrocytic VPS35 coordinates iron homeostasis with HIF1α-VEGFa signaling to prevent astrocytic ferroptosis and to promote neocortical angiogenesis",
-      "link": "https://doi.org/10.1186/s13578-026-01602-2",
+      "title": "Clinical Characteristics of Patients Infected with Bundibugyo Virus, DRC 2026",
+      "link": "https://doi.org/10.1056/nejmc2608070",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s13578-026-01602-2\nAuthors: Anika Wu, Daehoon Lee, Ananya Nadgauda, Emily Arzola, Lei Xiong, Wen-Cheng Xiong\n Abstract \n                   Astrocytes coordinate neuronal activity with vascular development and metabolic homeostasis during postnatal brain maturation, yet the mechanisms enabling astrocytes to",
+      "desc": "DOI: 10.1056/nejmc2608070\nAuthors: Pierre Akilimali, Dav M. Ebengo, Samuel V. Scarpino, Adrienne Amuri-Aziza, Tony Wawina-Bokalanga, Placide Matondo-Mbundu, Benjamin Kanku, Eddy Kinganda-Lusamaki, Jean-Claude Makangara, Daniel Mukadi-Bamuleka, Amanda Rojek, Moritz U.G. Kraemer, Christian Ngandu, Dieudonné Mwamba, Placide Mbala-Kingebeni",
       "tag": "analysis"
     },
     {
-      "title": "Remote Patient Monitoring",
-      "link": "https://doi.org/10.1039/9781837677771-00254",
+      "title": "Peningkatan Pengetahuan DBD pada Anggota PKK melalui Edukasi dan Demonstrasi Lapangan",
+      "link": "https://doi.org/10.62951/svargapena.v3i2.218",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1039/9781837677771-00254\nAuthors: Merve Asena Özbek, Merve Çalışır, Erdoğan Özgür\n The challenges in treating chronic and infectious viral diseases have driven the search for new methods, with remote patient monitoring (RPM) emerging as a key technological approach. Sensor-integrated RPM enables real-time patient tracking, easing the",
+      "desc": "DOI: 10.62951/svargapena.v3i2.218\n Dengue Hemorrhagic Fever (DHF) remains a serious public health problem in Indonesia. Active community participation is crucial in efforts to reduce the incidence of DHF. This community service program aims to improve health literacy related to DHF among PKK members in Bandarjo Village, Semarang Regency. The",
       "tag": "analysis"
     },
     {
@@ -1284,39 +1326,11 @@
       "tag": "analysis"
     },
     {
-      "title": "Déclaration d’Africa CDC à l’issue de la Réunion de Haut Niveau sur la Riposte à Ebola en République Démocratique du Congo",
-      "link": "https://africacdc.org/news-item/declaration-dafrica-cdc-a-lissue-de-la-reunion-de-haut-niveau-sur-la-riposte-a-ebola-en-republique-democratique-du-congo/",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "Aujourd’hui, 23 juin 2026, Africa CDC a participé à une réunion de haut niveau tenue en présence de S.E. Évariste Ndayishimiye, Président de la République du Burundi et Président de l’Union africaine, et de S.E. Félix Tshisekedi, Président de la République démocratique du Congo, ainsi que du Premier Ministre de la République démocratique du",
-      "tag": "analysis"
-    },
-    {
-      "title": "Africa CDC Statement on the High-Level Ebola Response Meeting in the Democratic Republic of Congo",
-      "link": "https://africacdc.org/news-item/africa-cdc-statement-on-the-high-level-ebola-response-meeting-in-the-democratic-republic-of-congo/",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "Today, 23 June 2026, Africa Centers for Disease Control and prevention ( Africa CDC) participated in a high-level meeting convened in the presence of H.E. Évariste Ndayishimiye, President of the Republic of Burundi and Chairperson of the African Union, and H.E. Félix Tshisekedi, President of the Democratic Republic of Congo, alongside the Pr",
-      "tag": "response"
-    },
-    {
-      "title": "Validation of diagnostic codes for identifying chlamydial infections from TriNetX electronic health record data in the United States",
-      "link": "https://doi.org/10.1097/olq.0000000000002378",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/olq.0000000000002378\nAuthors: Lin Li, Kexin Zhu, Hosn Nabaa, Konstantin Kozmenko, Valerie Bosch Castells, Delphine Saragoussi, Sandra S. Chaves\n \n                     Background: \n                     The accuracy of diagnostic codes for chlamydial infections in electronic health records (EHR) is",
-      "tag": "analysis"
-    },
-    {
       "title": "Epidemiological study of Crimean- Congo haemorrhagic fever in Thi Qar (2023–2024): assessing the role of tick bites, household animals, slaughter and fresh meat exposure in disease transmission",
       "link": "https://doi.org/10.1007/s13337-026-00968-8",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1007/s13337-026-00968-8\nAuthors: Saja Abdalkadhum Hommod, Azhar kareem Razzaq, Ali B. Roomi",
       "tag": "analysis"
-    },
-    {
-      "title": "Latent cytomegalovirus disrupts innate NK cell responses to P. falciparum and impairs parasite control in first infection in adults",
-      "link": "https://doi.org/10.1371/journal.ppat.1014372",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.ppat.1014372\nAuthors: Reena Mukhiya, Jessica R. Loughland, Nick L. Dooley, Zuleima Pava, Damian Oyong, Dean W. Andrew, Julianne Hamelink, Kiana Berry, James S. McCarthy, Bridget E. Barber, J. Alejandro Lopez, Christian R. Engwerda, Michelle J. Boyle\n \n                    NK cells are innate and adaptive responders to mal",
-      "tag": "response"
     },
     {
       "title": "Early-Onset Somatic Delusional Presentation: A Case Report and Two-Decade Comparative Synthesis",
@@ -1337,6 +1351,34 @@
       "link": "https://doi.org/10.21203/rs.3.rs-10045071/v1",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10045071/v1\nAuthors: Louise Madeleine Clara Le Vot, Angéline Denouel, Danielle Seilhean, Elodie Bouaziz-Amar, Isabelle Quadrio, Jean-Philippe Brandel, Stéphane Haïk\n Abstract \n                 \n                   Background \n                  Sporadic Creutzfeldt-Jakob disease (sCJD), the most frequen",
+      "tag": "analysis"
+    },
+    {
+      "title": "Déclaration d’Africa CDC à l’issue de la Réunion de Haut Niveau sur la Riposte à Ebola en République Démocratique du Congo",
+      "link": "https://africacdc.org/news-item/declaration-dafrica-cdc-a-lissue-de-la-reunion-de-haut-niveau-sur-la-riposte-a-ebola-en-republique-democratique-du-congo/",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "Aujourd’hui, 23 juin 2026, Africa CDC a participé à une réunion de haut niveau tenue en présence de S.E. Évariste Ndayishimiye, Président de la République du Burundi et Président de l’Union africaine, et de S.E. Félix Tshisekedi, Président de la République démocratique du Congo, ainsi que du Premier Ministre de la République démocratique du",
+      "tag": "analysis"
+    },
+    {
+      "title": "Latent cytomegalovirus disrupts innate NK cell responses to P. falciparum and impairs parasite control in first infection in adults",
+      "link": "https://doi.org/10.1371/journal.ppat.1014372",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.ppat.1014372\nAuthors: Reena Mukhiya, Jessica R. Loughland, Nick L. Dooley, Zuleima Pava, Damian Oyong, Dean W. Andrew, Julianne Hamelink, Kiana Berry, James S. McCarthy, Bridget E. Barber, J. Alejandro Lopez, Christian R. Engwerda, Michelle J. Boyle\n \n                    NK cells are innate and adaptive responders to mal",
+      "tag": "response"
+    },
+    {
+      "title": "Africa CDC Statement on the High-Level Ebola Response Meeting in the Democratic Republic of Congo",
+      "link": "https://africacdc.org/news-item/africa-cdc-statement-on-the-high-level-ebola-response-meeting-in-the-democratic-republic-of-congo/",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "Today, 23 June 2026, Africa Centers for Disease Control and prevention ( Africa CDC) participated in a high-level meeting convened in the presence of H.E. Évariste Ndayishimiye, President of the Republic of Burundi and Chairperson of the African Union, and H.E. Félix Tshisekedi, President of the Democratic Republic of Congo, alongside the Pr",
+      "tag": "response"
+    },
+    {
+      "title": "Validation of diagnostic codes for identifying chlamydial infections from TriNetX electronic health record data in the United States",
+      "link": "https://doi.org/10.1097/olq.0000000000002378",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1097/olq.0000000000002378\nAuthors: Lin Li, Kexin Zhu, Hosn Nabaa, Konstantin Kozmenko, Valerie Bosch Castells, Delphine Saragoussi, Sandra S. Chaves\n \n                     Background: \n                     The accuracy of diagnostic codes for chlamydial infections in electronic health records (EHR) is",
       "tag": "analysis"
     },
     {
@@ -1501,18 +1543,18 @@
       "tag": "analysis"
     },
     {
-      "title": "El ébola y el hantavirus obligan al sector sanitario a extremar su preparación ante nuevas amenazas globales - consalud.es",
-      "link": "https://www.consalud.es/profesionales/el-ebola-y-el-hantavirus-obligan-al-sector-sanitario-a-extremar-su-preparacion-ante-nuevas-amenazas-globales.html",
-      "pubDate": "Mon, 22 Jun 2026 12:26:00 Z",
-      "desc": "Hantavirus -- Saskatchewan Province, Canada. Significance Rating: 3 El ébola y el hantavirus obligan al sector sanitario a extremar su preparación ante nuevas amenazas globales&nbsp;&nbsp;consalud",
-      "tag": "analysis"
-    },
-    {
       "title": "At least 30 deaths at Congo camp show Ebola could be spreading fast - NTV Kenya",
       "link": "https://ntvkenya.co.ke/news/at-least-30-deaths-at-congo-camp-show-ebola-could-be-spreading-fast/",
       "pubDate": "Mon, 22 Jun 2026 12:26:00 Z",
       "desc": "Fever -- Kenya. Significance Rating: 3 At least 30 deaths at Congo camp show Ebola could be spreading fast&nbsp;&nbsp;NTV Kenya",
       "tag": "cases"
+    },
+    {
+      "title": "El ébola y el hantavirus obligan al sector sanitario a extremar su preparación ante nuevas amenazas globales - consalud.es",
+      "link": "https://www.consalud.es/profesionales/el-ebola-y-el-hantavirus-obligan-al-sector-sanitario-a-extremar-su-preparacion-ante-nuevas-amenazas-globales.html",
+      "pubDate": "Mon, 22 Jun 2026 12:26:00 Z",
+      "desc": "Hantavirus -- Saskatchewan Province, Canada. Significance Rating: 3 El ébola y el hantavirus obligan al sector sanitario a extremar su preparación ante nuevas amenazas globales&nbsp;&nbsp;consalud",
+      "tag": "analysis"
     },
     {
       "title": "埃博拉疫情封锁边境 刚果与卢旺达贸易命脉断裂 数万人生计受创 - aboluowang.com",
@@ -1592,11 +1634,11 @@
       "tag": "analysis"
     },
     {
-      "title": "Group B streptococcal membrane vesicles induce proinflammatory responses in neonatal meninges",
-      "link": "https://doi.org/10.1128/iai.00231-26",
+      "title": "Idiopathic pulmonary fibrosis as a cause of severe respiratory failure in gerontological practice",
+      "link": "https://doi.org/10.18093/0869-0189-2026-36-3-506-512",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/iai.00231-26\nAuthors: Luke R. Joyce, Amanda Brady, Sol Kim, Priya M. Christensen, Kelli L. Palmer, Ziqiang Guan, Julie A. Siegnethaler, Kelly S. Doran\n ABSTRACT \n                   \n                     \n                     \n                       Streptococcu",
-      "tag": "response"
+      "desc": "DOI: 10.18093/0869-0189-2026-36-3-506-512\nAuthors: E. V. Reznik, L. Kh. Alieva, M. D. Iarovoi, A. S. Popova, Yu. A. Vasiliev\n Idiopathic pulmonary fibrosis (IPF) is a chronic progressive interstitial lung disease of unknown etiology, most commonly occurring in the elderly. The main factors leading to the development of IPF are environmental",
+      "tag": "analysis"
     },
     {
       "title": "Inhibitors of the Machupo Virus L Endonuclease for Bolivian Hemorrhagic Fever Treatments",
@@ -1606,18 +1648,18 @@
       "tag": "analysis"
     },
     {
+      "title": "Group B streptococcal membrane vesicles induce proinflammatory responses in neonatal meninges",
+      "link": "https://doi.org/10.1128/iai.00231-26",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1128/iai.00231-26\nAuthors: Luke R. Joyce, Amanda Brady, Sol Kim, Priya M. Christensen, Kelli L. Palmer, Ziqiang Guan, Julie A. Siegnethaler, Kelly S. Doran\n ABSTRACT \n                   \n                     \n                     \n                       Streptococcu",
+      "tag": "response"
+    },
+    {
       "title": "Hantavirus infection in emergency radiology: Imaging manifestations, pathophysiology, and infection control considerations",
       "link": "https://doi.org/10.1007/s10140-026-02499-7",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1007/s10140-026-02499-7\nAuthors: Platon Braun, Jonathan Lee, Eric D. Cyphers, Ali Gholamrezanezhad\n Abstract \n                   \n                    In April 2026, several cases of severe respiratory illnesses were reported aboard the cruise ship MV\n                     Hondius",
       "tag": "cases"
-    },
-    {
-      "title": "Idiopathic pulmonary fibrosis as a cause of severe respiratory failure in gerontological practice",
-      "link": "https://doi.org/10.18093/0869-0189-2026-36-3-506-512",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.18093/0869-0189-2026-36-3-506-512\nAuthors: E. V. Reznik, L. Kh. Alieva, M. D. Iarovoi, A. S. Popova, Yu. A. Vasiliev\n Idiopathic pulmonary fibrosis (IPF) is a chronic progressive interstitial lung disease of unknown etiology, most commonly occurring in the elderly. The main factors leading to the development of IPF are environmental",
-      "tag": "analysis"
     },
     {
       "title": "TRP120-dependent activation of noncanonical Wnt/NFAT signaling drives monocyte chemokine production in <i>Ehrlichia chaffeensis</i> infection",
@@ -1732,17 +1774,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Incidence of unplanned gastrostomy tube replacements and associated complications in people with motor neurone disease and other conditions: A retrospective audit of an Australian dietitian‐led clinic",
-      "link": "https://doi.org/10.1002/ncp.70140",
-      "pubDate": "Sun, 21 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/ncp.70140\nAuthors: Emily Farrugia, Shanelle Bailey, Adam I. Semciw, Mani Suleiman, Mark Tacey, Caroline J. Tuck, Liam M. Hannan\n Abstract \n                   \n                     Background \n                     Gastrostomy tube placement is a common intervention for long‐t",
-      "tag": "analysis"
-    },
-    {
       "title": "Data-driven fractional-order modeling and optimal control of Ebola virus dynamics with environmental transmission and memory effects",
       "link": "https://doi.org/10.1140/epjs/s11734-026-02429-1",
       "pubDate": "Sun, 21 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1140/epjs/s11734-026-02429-1\nAuthors: Dipti Dolai, Mst Sebi Khatun, Palakshi Paul, Pritha Das, Dibakar Ghosh, Ranjit Kumar Upadhyay",
+      "tag": "analysis"
+    },
+    {
+      "title": "Incidence of unplanned gastrostomy tube replacements and associated complications in people with motor neurone disease and other conditions: A retrospective audit of an Australian dietitian‐led clinic",
+      "link": "https://doi.org/10.1002/ncp.70140",
+      "pubDate": "Sun, 21 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/ncp.70140\nAuthors: Emily Farrugia, Shanelle Bailey, Adam I. Semciw, Mani Suleiman, Mark Tacey, Caroline J. Tuck, Liam M. Hannan\n Abstract \n                   \n                     Background \n                     Gastrostomy tube placement is a common intervention for long‐t",
       "tag": "analysis"
     },
     {
@@ -1834,48 +1876,6 @@
       "link": "https://beaconbio.org/en/report/?reportid=0741617c-2d70-4355-8855-d819129fb2e2",
       "pubDate": "Sat, 20 Jun 2026 01:18:00 Z",
       "desc": "Event Title: FIFA World Cup 2026 – Canada, USA, Mexico\nEvent URL: https://beaconbio.org/en/event/?eventid=1ccaf62c-bed9-43bc-8cec-5bb61ae65090\n\nThis is an analysis of infectious and non-infectious health events related to the FWC 2026 sites in Canada, USA, and Mexico since BEACON's last report on 12 June 2026. For a baseline analysis on endemic inf",
-      "tag": "analysis"
-    },
-    {
-      "title": "Review Accepted on 19 Jun 2026 Beyond CCR5 and HLA: Rare Genetic Variants in HIV Acquisition and Disease progression in Genetics of Common and Rare Diseases Marion Amujal John Mukisa Eric Katagirya Samuel Kyobe Thabo Diphoko Savannah Mwesigwa Sebetso Gaseene Gerald Mboowa Daudi Jjingo David P....",
-      "link": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1874407/abstract",
-      "pubDate": "Sat, 20 Jun 2026 00:39:00 Z",
-      "desc": "Abstract. The CCR5 locus and the HLA class I region, first identified through candidate gene studies, remain the most well‑characterized host genetic factors associated with HIV acquisition and disease progression, respectively. To date, genome wide association studies (GWAS) including those with....",
-      "tag": "analysis"
-    },
-    {
-      "title": "The effects of meteorological factors on hemorrhagic fever with renal syndrome in Yichun, China: a major Apodemus-type endemic city",
-      "link": "https://doi.org/10.1038/s41598-026-59003-x",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/s41598-026-59003-x\nAuthors: Shu Yang, Xiaobo Liu, Xin Qi, Hui Li, Guihua Zhuang",
-      "tag": "analysis"
-    },
-    {
-      "title": "THE RELATIONSHIP BETWEEN COMMUNITY BEHAVIOR IN WASTE MANAGEMENT AND THE INCIDENCE OF DENGUE HEMORRHAGIC FEVER IN INDONESIA: A SYSTEMATIC REVIEW",
-      "link": "https://doi.org/10.36566/ijhsrd/vol8.iss1/378",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.36566/ijhsrd/vol8.iss1/378\nAuthors: Salsabila Syafni Aulia, Ratno Widoyo, Kamal Kasra\n Background: Trash containers can potentially serve as breeding sites for mosquitoes that transmit dengue hemorrhagic fever. This study aims to examine the relationship between community waste management practices and the incidence of dengue hemorrh",
-      "tag": "analysis"
-    },
-    {
-      "title": "From Synthetic DNA and RNA-Based Self-Assembling Nanotechnology to Sequalae of COVID-19 Shots",
-      "link": "https://doi.org/10.56098/7mhh1467",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.56098/7mhh1467\nAuthors: Shimon D Yanowitz, Daniel Broudy\n Lipid nanoparticles containing “mRNA” have reportedly been injected into the bodies of as many as 5.2 billion people in the COVID-19 injectables. Forensic study has shown that the general public was deceived  about the chemical composition, the toxicity, and the destructive po",
-      "tag": "analysis"
-    },
-    {
-      "title": "Surgical treatment of a patient with benign prostatic hyperplasia in a severe form of Hageman’s disease",
-      "link": "https://doi.org/10.30629/0023-2149-2026-104-4-312-315",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.30629/0023-2149-2026-104-4-312-315\nAuthors: M. I. Vasilchenko, S. N. Perekhodov, N. A. Karpun, A. B. Fedorov, S. P. Derevyanko, V. V. Kulikov, B. A. Bonetsky\n Hageman’s disease is a rare genetic disorder of the hemostasis system characterized by a congenital deficiency of blood coagulation factor XII. The frequency of the disease in",
-      "tag": "analysis"
-    },
-    {
-      "title": "Missed Primary Hyperparathyroidism Presenting with Severe Multisystem Complications and Persistent Hypercalcemia Following Inadequate Initial Surgery: A Case Report",
-      "link": "https://doi.org/10.18535/jmscr/v14i06.07",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.18535/jmscr/v14i06.07\nAuthors: Maulik Patel, MD (Internal Medicine), DM (Nephrology)\n Primary hyperparathyroidism (PHPT), most commonly caused by parathyroid adenoma, is frequently\ndiagnosed incidentally. Delayed recognition may result in significant renal, skeletal, neuropsychiatric,\nand gastrointestinal complications. We report a y",
       "tag": "analysis"
     }
   ],
