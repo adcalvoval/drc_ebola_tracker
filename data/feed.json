@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 27 Jun 2026 13:46:53 Z",
-  "fetchedAt": "2026-06-27T13:46:53Z",
+  "lastBuildDate": "Sat, 27 Jun 2026 16:06:30 Z",
+  "fetchedAt": "2026-06-27T16:06:30Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -128,6 +128,13 @@
     }
   },
   "items": [
+    {
+      "title": "Uganda Hosts Regional Meeting to Boost Ebola Preparedness Amid Ongoing Outbreak",
+      "link": "https://www.afro.who.int/countries/uganda/news/uganda-hosts-regional-meeting-boost-ebola-preparedness-amid-ongoing-outbreak",
+      "pubDate": "Sat, 27 Jun 2026 14:42:00 Z",
+      "desc": "Kampala, Uganda:— Health leaders from across Africa have convened in Uganda’s capital for a high-level meeting to strengthen regional preparedness and cross-border collaboration in response to the ongoing Bundibugyo Ebola outbreak affecting Uganda and the Democratic Republic of the Congo (DRC).",
+      "tag": "response"
+    },
     {
       "title": "Novel myo-inositol to butyrate fermentation pathway in the prevalent human gut species Dysosmobacter welbionis, a bacterium associated with improved metabolic and liver health",
       "link": "https://helda.helsinki.fi/items/3e1b3ccd-d33e-437d-a1f5-ecbb4134a0cb",
@@ -1869,13 +1876,6 @@
       "link": "https://www.space.com/astronomy/dark-universe/supermassive-black-holes-may-be-surrounded-by-dark-matter-clusters-new-echo-map-technique-suggests",
       "pubDate": "Sat, 20 Jun 2026 14:19:00 Z",
       "desc": "Astronomers have used a technique called echo mapping to detect hints that supermassive black holes, such as the cosmic titan at the heart of the Milky Way, known as Sagittarius A* (Sgr A*), are surrounded by dense clouds and clusters of dark matter. The research could teach us more about this....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Genomics Research to Elucidate the Genetics of Rare Diseases consortium, Undiagnosed Diseases Network",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Genomics+Research+to+Elucidate+the+Genetics+of+Rare+Diseases+consortium%2C+Undiagnosed+Diseases+Network%5BCorporate+Author%5D",
-      "pubDate": "Sat, 20 Jun 2026 10:49:00 Z",
-      "desc": "Mendez R, Arriaga TM, Ma J, Bonner DE, Emami S, Levy RJ, Alsagheir A, Alhaddad B, Bakur K, Ungar RA, Matalon DR, Miller AM, Nguyen J, Smith KS, Scott SA, Liao L, Ng Z, Marwaha S, Ward A; Undiagnosed Diseases Network; Genomics Research to Elucidate the Genetics of Rare Diseases Consortium; Novacic D,....",
       "tag": "analysis"
     }
   ],
