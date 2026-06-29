@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 29 Jun 2026 20:00:36 Z",
-  "fetchedAt": "2026-06-29T20:00:37Z",
+  "lastBuildDate": "Mon, 29 Jun 2026 22:08:54 Z",
+  "fetchedAt": "2026-06-29T22:08:54Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -36,9 +36,7 @@
     },
     "drcTiers": {
       "media": {
-        "deaths": 20,
-        "suspected": 2288,
-        "confirmed": 2134
+        "deaths": 20
       },
       "whoDon": {
         "confirmed": 896,
@@ -91,6 +89,48 @@
     }
   },
   "items": [
+    {
+      "title": "Canine Brucellosis Factsheet",
+      "link": "https://www.hhs.nd.gov/health/diseases-conditions-and-immunization/az-diseases-and-conditions/canine-brucellosis-factsheet",
+      "pubDate": "Mon, 29 Jun 2026 21:59:00 Z",
+      "desc": "Canine brucellosis is an infectious disease caused by Brucella canis (B. canis) bacteria that can infect dogs. It can also infect humans, although the likelihood of this occurring is low. However, those in certain professions are at an increased risk of infection.\n\nAnimal to Person. People who are in close contact with dogs infected with B.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Anthrax Factsheet",
+      "link": "https://www.hhs.nd.gov/health/diseases-conditions-and-immunization/az-diseases-and-conditions/anthrax-factsheet",
+      "pubDate": "Mon, 29 Jun 2026 21:29:00 Z",
+      "desc": "Anthrax is a disease caused by the bacteria Bacillus anthracis. It can infect all warm-blooded animals, including humans. Anthrax can be found naturally in soil and affects domestic and wild animals around the world. Anthrax is rare in the United States, but sporadic outbreaks do occur in wild and domestic grazing animals such as cattle or deer.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Brucellosis Factsheet",
+      "link": "https://www.hhs.nd.gov/health/diseases-conditions-and-immunization/az-diseases-and-conditions/brucellosis-factsheet",
+      "pubDate": "Mon, 29 Jun 2026 21:29:00 Z",
+      "desc": "Brucellosis is a disease caused by a group of bacteria called Brucella. This disease may affect various organs of the body. In general, the risk of becoming infected with brucellosis is rare. However, people in industries with more chances for contact with animals or animal products, such as....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola outbreak spreads to 4th province in DR Congo",
+      "link": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-spreads-4th-province-dr-congo",
+      "pubDate": "Mon, 29 Jun 2026 21:27:00 Z",
+      "desc": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has spread to a fourth province, according to media reports. Sources at DRC’s National Institute of Biomedical Research told Agence France-Press that an Ebola case was detected in Haut-Uele province after a patient traveled there from Ituri province, which is the outbreak’s epicenter.",
+      "tag": "response"
+    },
+    {
+      "title": "29 de junio de 2026 Actualización del Boletín Epidemiológico Nacional de la semana N° 24",
+      "link": "https://www.argentina.gob.ar/noticias/actualizacion-del-boletin-epidemiologico-nacional-de-la-semana-ndeg-24",
+      "pubDate": "Mon, 29 Jun 2026 20:53:00 Z",
+      "desc": "El Boletín Epidemiológico Nacional (BEN) correspondiente a la semana epidemiológica (SE) 24 confirma que los virus respiratorios continúan en aumento en nuestro país y que se mantienen dentro de los niveles esperados para esta época del año. Se mantiene la circulación predominante del virus de....",
+      "tag": "analysis"
+    },
+    {
+      "title": "What's New at CBER 06/29/2026",
+      "link": "https://public.govdelivery.com/accounts/USFDA/subscriber/new",
+      "pubDate": "Mon, 29 Jun 2026 20:35:00 Z",
+      "desc": "What's New Today\nThe following links have been updated recently:\nPosted: 06/29/2026\nImportant Information for Blood Establishments Regarding Ebola Disease and Blood Donation\nRecommendations for Assessment of Blood Donor Eligibility, Donor Deferral and Blood Product Management in Response to Ebola Virus; Guidance for Industry\nCellular, Tissue, and G",
+      "tag": "response"
+    },
     {
       "title": "GPHIN Early Warning Notification: Suspected case of Marburg virus disease in Uganda",
       "link": "http://www.phac-aspc.gc.ca/gphin/",
@@ -575,17 +615,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Understanding machupo virus: A neglected arenavirus with global health importance",
-      "link": "https://doi.org/10.5501/wjv.v15.i2.119515",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5501/wjv.v15.i2.119515\nAuthors: Praveen Kumar Uppala, Sita Kumari Karanam, Naga Vishnu Kandra, Sandhya Edhi\n Machupo virus (MACV), classified within the Mammarenavirus genus of the Arenaviridae family, serves as the causative agent of Bolivian hemorrhagic fever (BHF), a life-threatening zoonosis primarily confined to rural regions of",
-      "tag": "analysis"
-    },
-    {
       "title": "Single-cell multiomics of neuron activation reveals context-specific genetics of brain disorders",
       "link": "https://doi.org/10.1126/science.adw3949",
       "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1126/science.adw3949\nAuthors: Lifan Liang, Siwei Zhang, Zicheng Wang, Hanwen Zhang, Chuxuan Li, Christina Thapa, Emily K. Oh, David Sirkin, Xiaotong Sun, Alexandra Barishman, Ada McCarroll, Alexandra C. Duhe, Sheng Qian, Xiaoyuan Zhong, Brendan Jamison, Whitney Wood, Alena Kozlova, Zhiping P. Pang, Alan R. Sanders, Xin He, Jubao Duan\n<jats:",
+      "tag": "analysis"
+    },
+    {
+      "title": "Understanding machupo virus: A neglected arenavirus with global health importance",
+      "link": "https://doi.org/10.5501/wjv.v15.i2.119515",
+      "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5501/wjv.v15.i2.119515\nAuthors: Praveen Kumar Uppala, Sita Kumari Karanam, Naga Vishnu Kandra, Sandhya Edhi\n Machupo virus (MACV), classified within the Mammarenavirus genus of the Arenaviridae family, serves as the causative agent of Bolivian hemorrhagic fever (BHF), a life-threatening zoonosis primarily confined to rural regions of",
       "tag": "analysis"
     },
     {
@@ -799,17 +839,17 @@
       "tag": "cases"
     },
     {
-      "title": "US Ebola Quarantine Plan in Kenya Hits Legal Wall - t.co",
-      "link": "https://t.co/5wlYGS2kEW",
-      "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
-      "desc": "-- United States. Significance Rating: 1 US Ebola Quarantine Plan in Kenya Hits Legal Wall&nbsp;&nbsp;t.co",
-      "tag": "analysis"
-    },
-    {
       "title": "Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway - Jamaica Observer",
       "link": "https://www.jamaicaobserver.com/2026/06/24/doctor-returning-dr-congo-tests-positive-ebola-france-contact-tracing-underway/",
       "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
       "desc": "-- DR Congo. Significance Rating: 1 Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway&nbsp;&nbsp;Jamaica Observer",
+      "tag": "analysis"
+    },
+    {
+      "title": "US Ebola Quarantine Plan in Kenya Hits Legal Wall - t.co",
+      "link": "https://t.co/5wlYGS2kEW",
+      "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
+      "desc": "-- United States. Significance Rating: 1 US Ebola Quarantine Plan in Kenya Hits Legal Wall&nbsp;&nbsp;t.co",
       "tag": "analysis"
     },
     {
@@ -890,6 +930,20 @@
       "tag": "analysis"
     },
     {
+      "title": "France confirms first Ebola case after doctor returning from DRC tests positive - The National",
+      "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
+      "tag": "analysis"
+    },
+    {
+      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
+      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
+      "tag": "analysis"
+    },
+    {
       "title": "Urgent: First Ebola case confirmed in France after doctor returns from DRC -- media-Xinhua - 新华网",
       "link": "http://www.xinhuanet.com/english/20260624/6e2c0b28af854e9296c807b7bf340c39/c.html",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
@@ -937,20 +991,6 @@
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "Ebola -- France. Significance Rating: 4 Rare Ebola strain confirmed in France as doctor diagnosed with potentially deadly virus&nbsp;&nbsp;Kent Live",
       "tag": "cases"
-    },
-    {
-      "title": "France confirms first Ebola case after doctor returning from DRC tests positive - The National",
-      "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
-      "tag": "analysis"
-    },
-    {
-      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
-      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
-      "tag": "analysis"
     },
     {
       "title": "Study Showing Benefits Of Covid Vaccine Published In AMA Journal After CDC Refused To Run It In Theirs",
@@ -1030,13 +1070,6 @@
       "tag": "analysis"
     },
     {
-      "title": "France records its first Ebola case in a doctor returning from the Democratic Republic of Congo - صوت الإمارات",
-      "link": "https://www.voiceofemirates.com/en/health/2026/06/24/france-records-its-first-ebola-case-in-a-doctor-returning-from-the-democratic-republic-of-congo/",
-      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France records its first Ebola case in a doctor returning from the Democratic Republic of Congo&nbsp;&nbsp;صوت الإمارات",
-      "tag": "analysis"
-    },
-    {
       "title": "France reports first Ebola case after doctor returning from DR Congo tests positive - Manx Radio",
       "link": "https://www.manxradio.com/news/world-news/france-reports-first-ebola-case-after-doctor-returning-from-dr-congo-tests-positive/",
       "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
@@ -1097,6 +1130,13 @@
       "link": "https://www.modernghana.com/news/1505109/france-confirms-first-ebola-case-in-doctor-returni.amp",
       "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
       "desc": "-- DR Congo. Significance Rating: 1 France confirms first Ebola case in doctor returning from DR Congo mission&nbsp;&nbsp;Modern Ghana",
+      "tag": "analysis"
+    },
+    {
+      "title": "France records its first Ebola case in a doctor returning from the Democratic Republic of Congo - صوت الإمارات",
+      "link": "https://www.voiceofemirates.com/en/health/2026/06/24/france-records-its-first-ebola-case-in-a-doctor-returning-from-the-democratic-republic-of-congo/",
+      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France records its first Ebola case in a doctor returning from the Democratic Republic of Congo&nbsp;&nbsp;صوت الإمارات",
       "tag": "analysis"
     },
     {
@@ -1268,10 +1308,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Infective endocarditis complicated with multiple cerebral embolism and hemorrhage caused by Streptococcus sinensis: a rare case report and literature review",
-      "link": "https://doi.org/10.3389/fmed.2026.1786870",
+      "title": "Africa CDC appelle à la solidarité et au renforcement de la collaboration suite au cas importé de maladie à virus Ebola en France et renforce la surveillance transfrontalière",
+      "link": "https://africacdc.org/news-item/africa-cdc-appelle-a-la-solidarite-et-au-renforcement-de-la-collaboration-suite-au-cas-importe-de-maladie-a-virus-ebola-en-france-et-renforce-la-surveillance-transfrontaliere/",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fmed.2026.1786870\nAuthors: Hong Zheng, Cuilin He, Kai Tang, Xiwen Wang, Longbiao Xie, Wei Li, Jianli Wu, Danjie Zhao\n \n                     Streptococcus sinensis \n                    (\n                     S. sinensis \n                    ) is a rare pathogen causing infective e",
+      "desc": "Un professionnel de santé ayant appuyé la riposte Ebola en Ituri a développé des symptômes après son arrivée en France et a été rapidement diagnostiqué. Africa CDC appelle à maintenir la vigilance, la solidarité et un soutien accru aux équipes de première ligne engagées pour mettre fin à l’épidémie.\n\n\n\nADDIS-ABEBA, 24 juin 2026 – Un professi",
       "tag": "analysis"
     },
     {
@@ -1282,17 +1322,17 @@
       "tag": "response"
     },
     {
+      "title": "Infective endocarditis complicated with multiple cerebral embolism and hemorrhage caused by Streptococcus sinensis: a rare case report and literature review",
+      "link": "https://doi.org/10.3389/fmed.2026.1786870",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fmed.2026.1786870\nAuthors: Hong Zheng, Cuilin He, Kai Tang, Xiwen Wang, Longbiao Xie, Wei Li, Jianli Wu, Danjie Zhao\n \n                     Streptococcus sinensis \n                    (\n                     S. sinensis \n                    ) is a rare pathogen causing infective e",
+      "tag": "analysis"
+    },
+    {
       "title": "Case Report: Primary hepatic carcinosarcoma with ectopic β-hCG secretion and a paraneoplastic leukemoid reaction mimicking gynecologic and hematologic disease",
       "link": "https://doi.org/10.3389/fonc.2026.1864613",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fonc.2026.1864613\nAuthors: Pin Wang, Xin Xu, Lan Zhang\n Primary hepatic carcinosarcoma is an exceptionally rare and highly aggressive malignancy, and ectopic β-hCG production and paraneoplastic leukemoid reaction are both uncommon findings in solid tumors. We report the case of a 47-year-old woman who initially presented with ab",
-      "tag": "analysis"
-    },
-    {
-      "title": "Development of an immunochromatographic lateral flow assay for the rapid detection of all known orthoebolavirus glycoproteins",
-      "link": "https://doi.org/10.1038/s44298-026-00209-1",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/s44298-026-00209-1\nAuthors: Helene Schulz, Guodong Liu, Jordan Wight, Karla Emeterio, Wenguang Cao, Mable Chan, Ming Yang, Logan Banadyga\n Abstract \n                   Orthoebolaviruses, like Ebola, Sudan, and Bundibugyo viruses, are responsible for causing sporadic and unpredictable outbreaks of severe di",
       "tag": "analysis"
     },
     {
@@ -1303,10 +1343,10 @@
       "tag": "response"
     },
     {
-      "title": "Africa CDC appelle à la solidarité et au renforcement de la collaboration suite au cas importé de maladie à virus Ebola en France et renforce la surveillance transfrontalière",
-      "link": "https://africacdc.org/news-item/africa-cdc-appelle-a-la-solidarite-et-au-renforcement-de-la-collaboration-suite-au-cas-importe-de-maladie-a-virus-ebola-en-france-et-renforce-la-surveillance-transfrontaliere/",
+      "title": "Development of an immunochromatographic lateral flow assay for the rapid detection of all known orthoebolavirus glycoproteins",
+      "link": "https://doi.org/10.1038/s44298-026-00209-1",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "Un professionnel de santé ayant appuyé la riposte Ebola en Ituri a développé des symptômes après son arrivée en France et a été rapidement diagnostiqué. Africa CDC appelle à maintenir la vigilance, la solidarité et un soutien accru aux équipes de première ligne engagées pour mettre fin à l’épidémie.\n\n\n\nADDIS-ABEBA, 24 juin 2026 – Un professi",
+      "desc": "DOI: 10.1038/s44298-026-00209-1\nAuthors: Helene Schulz, Guodong Liu, Jordan Wight, Karla Emeterio, Wenguang Cao, Mable Chan, Ming Yang, Logan Banadyga\n Abstract \n                   Orthoebolaviruses, like Ebola, Sudan, and Bundibugyo viruses, are responsible for causing sporadic and unpredictable outbreaks of severe di",
       "tag": "analysis"
     },
     {
@@ -1513,6 +1553,13 @@
       "tag": "response"
     },
     {
+      "title": "TickMapKB: A FAIR Spatial Knowledgebase of Tick Species and Associated Pathogens in India",
+      "link": "https://doi.org/10.64898/2026.06.22.733803",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.22.733803\nAuthors: Shreyes Rajan Madgaonkar, Shrish Vashishth, Elango Ayyanar, Srikanth Srirama, Areejit Samal\n Ticks transmit pathogens across wildlife, domestic animals, and humans, and are therefore considered important vectors under the One Health framework. In India, the burden of tick-borne diseases, such as Kyasa",
+      "tag": "analysis"
+    },
+    {
       "title": "When it could have been prevented: A maternal death from postpartum hemorrhage due to genital tract lesions complicated by urinary fistula in an Ebola treatment unit in DR Congo",
       "link": "https://doi.org/10.1186/s12884-026-09271-2",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
@@ -1545,13 +1592,6 @@
       "link": "https://doi.org/10.3390/ijms27135661",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/ijms27135661\nAuthors: Sezer Akgöl, Fatih Kocabaş\n Crimean–Congo hemorrhagic fever virus (CCHFV) remains a major public health threat due to its high mortality rates and the absence of approved antiviral therapies. The viral ovarian tumor (OTU) protease is a critical virulence factor that suppresses host innate immunity through i",
-      "tag": "analysis"
-    },
-    {
-      "title": "TickMapKB: A FAIR Spatial Knowledgebase of Tick Species and Associated Pathogens in India",
-      "link": "https://doi.org/10.64898/2026.06.22.733803",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.22.733803\nAuthors: Shreyes Rajan Madgaonkar, Shrish Vashishth, Elango Ayyanar, Srikanth Srirama, Areejit Samal\n Ticks transmit pathogens across wildlife, domestic animals, and humans, and are therefore considered important vectors under the One Health framework. In India, the burden of tick-borne diseases, such as Kyasa",
       "tag": "analysis"
     },
     {
@@ -1786,27 +1826,6 @@
       "tag": "analysis"
     },
     {
-      "title": "A Pediatric Series of Sudden Death and Congenital Coronary Artery Anomalies",
-      "link": "https://doi.org/10.1097/paf.0000000000001157",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/paf.0000000000001157\nAuthors: Jessicia Schmitt, Lily Marsden, Ben Murie, Phillip Bennett\n Coronary artery anomalies (CAAs) are rare but critical contributors to sudden cardiac death (SCD) in young individuals. This study reviews 12 cases from the statewide Utah medical examiner system over 33 years, including 4 infants, 2 childr",
-      "tag": "cases"
-    },
-    {
-      "title": "Severe hypereosinophilia secondary to intestinal whipworm infection with negative stool tests: a case report",
-      "link": "https://doi.org/10.3389/fmed.2026.1872657",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fmed.2026.1872657\nAuthors: Jia Chen, Yueying Chen, Fu Su\n \n                     Background \n                     Severe hypereosinophilia is commonly associated with hematologic disorders, whereas parasitic infections are often underrecognized, particularly in non-endemic settings. The diagnosis c",
-      "tag": "analysis"
-    },
-    {
-      "title": "Rapid gender analysis: what we know so far about the Bundibugyo Ebola outbreak in the Democratic Republic of Congo and Uganda",
-      "link": "https://doi.org/10.59350/7nhg3-m5h81",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.59350/7nhg3-m5h81\nAuthors: Reda Sadki\n In the Democratic Republic of the Congo and Uganda, more than half of the people who are getting sick with Ebola are women and girls. This has happened in past Ebola outbreaks too. This Rapid Gender Analysis (RGA) reviews what the evidence shows, and what it does not yet show, about gender in th",
-      "tag": "analysis"
-    },
-    {
       "title": "Epidemiological situation of natural focal infections in different landscape-ecological zones of the Volgograd region",
       "link": "https://doi.org/10.21886/2219-8075-2026-17-2-120-130",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
@@ -1814,31 +1833,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Correction to: Genetic testing in a national cohort of adults with chronic kidney disease of unknown origin",
-      "link": "https://doi.org/10.1093/ndt/gfag127",
+      "title": "Rapid gender analysis: what we know so far about the Bundibugyo Ebola outbreak in the Democratic Republic of Congo and Uganda",
+      "link": "https://doi.org/10.59350/7nhg3-m5h81",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/ndt/gfag127",
-      "tag": "analysis"
-    },
-    {
-      "title": "Introduction and sustained-transmission risk across DRC health zones during the Bundibugyo virus disease outbreak",
-      "link": "https://doi.org/10.64898/2026.06.11.26355237",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.11.26355237\nAuthors: Luvande Okingo, R.; Iroungou, B. A.; Valdano, E.\nDuring the ongoing Bundibugyo ebolavirus disease outbreak in the Democratic Republic of the Congo, we quantify introduction risk and sustained-transmission potential across the country. This identifies priority zones far from currently affected areas, where",
-      "tag": "analysis"
-    },
-    {
-      "title": "EpidBot: A Natural Language Platform for Generalized Epidemic Intelligence",
-      "link": "https://doi.org/10.64898/2026.06.18.26355985",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.18.26355985\nAuthors: Joyce Santos Braga, Flavio Codeco Coelho, Beatriz Laiate\n Public health professionals have access to more data than ever before. Yet answering a relatively simple epidemiological question often requires navigating multiple databases, formats, software tools, and reporting systems. As a result, valua",
-      "tag": "analysis"
-    },
-    {
-      "title": "Estimating the introduction risk and sustained transmission of the Ebola Bundibugyo outbreak 2026 in the Democratic Republic of Congo",
-      "link": "https://www.semanticscholar.org/paper/352e4ed32159e056783fb7f9e08a1e0c10c2ed81",
-      "pubDate": "Mon, 22 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/jtm/taag057\nAuthors: Reagan Luvande Okingo, Berthe Amélie Iroungou, Eugenio Valdano",
+      "desc": "DOI: 10.59350/7nhg3-m5h81\nAuthors: Reda Sadki\n In the Democratic Republic of the Congo and Uganda, more than half of the people who are getting sick with Ebola are women and girls. This has happened in past Ebola outbreaks too. This Rapid Gender Analysis (RGA) reviews what the evidence shows, and what it does not yet show, about gender in th",
       "tag": "analysis"
     }
   ],
