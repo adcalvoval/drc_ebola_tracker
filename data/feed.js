@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 28 Jun 2026 22:03:20 Z",
-  "fetchedAt": "2026-06-28T22:03:20Z",
+  "lastBuildDate": "Mon, 29 Jun 2026 04:08:32 Z",
+  "fetchedAt": "2026-06-29T04:08:33Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -90,6 +90,13 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "Scientists discover 70 existing drugs that block deadly hantavirus infections",
+      "link": "https://www.news-medical.net/news/20260628/Scientists-discover-70-existing-drugs-that-block-deadly-hantavirus-infections.aspx",
+      "pubDate": "Mon, 29 Jun 2026 01:16:00 Z",
+      "desc": "Study: A drug repurposing screen identifies antiviral compounds against Puumala Orthohantavirus . Image Credit: Kateryna Kon / Shutterstock. In a recent study published in the journal Scientific Reports , researchers conducted a high-throughput phenotypic drug screening using live Puumala virus....",
+      "tag": "analysis"
+    },
     {
       "title": "WHO endorses appointment of Ebola coordinator in DRC as it battles outbreak",
       "link": "https://health.economictimes.indiatimes.com/news/industry/who-endorses-appointment-of-ebola-coordinator-in-drc-as-it-battles-outbreak/132055244",
@@ -1832,13 +1839,6 @@ window.FEED_DATA = {
       "pubDate": "Sat, 20 Jun 2026 22:32:00 Z",
       "desc": "Prensa MinSalud-. Este sábado se llevó a cabo una jornada nacional de las Asambleas Comunitarias de Salud en las 593 Áreas de Salud Integral Comunitaria (ASIC) desplegadas en todo el país. Dicha actividad forma parte de una iniciativa impulsada por el Ministerio del Poder Popular para la Salud....",
       "tag": "analysis"
-    },
-    {
-      "title": "20 June 2026 - Bundibugyo virus disease outbreak reached more than 875 cases and 202 deaths across 31 health zones, no approved countermeasures, displacement camps at risk in DRC",
-      "link": "https://beaconbio.org/en/report/?reportid=2b80ed7e-498f-40bb-a921-3d8935db86aa",
-      "pubDate": "Sat, 20 Jun 2026 22:15:00 Z",
-      "desc": "Event Title: 20 June 2026 - Bundibugyo virus disease outbreak update - more than 875 cases and 202 deaths across 31 health zones, no approved countermeasures, displacement camps at risk in DRC \nEvent URL: https://beaconbio.org/en/event/?eventid=1a9a0ef4-262f-45a1-9018-aa8f99d93a7c\n\nSources Mourners bury 6-month-old Ebola victim, marking third orpha",
-      "tag": "cases"
     }
   ],
   "highWater": {
