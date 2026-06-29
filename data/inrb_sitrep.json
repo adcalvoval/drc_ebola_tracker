@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-06-27T22:04:38.275663+00:00",
-  "asOf": "2026-06-25",
+  "fetchedAt": "2026-06-29T20:00:38.058747+00:00",
+  "asOf": "2026-06-27",
   "url": "https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/insp_sitrep/processed",
   "drc": {
-    "confirmed": 1203,
-    "deaths": 321,
-    "recovered": 148,
-    "suspected": 265,
+    "confirmed": 1274,
+    "deaths": 360,
+    "recovered": 178,
+    "suspected": 239,
     "topHealthZones": {
       "Nyankunde": 93
     },
