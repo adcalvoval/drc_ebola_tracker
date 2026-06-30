@@ -71,37 +71,28 @@ def _latest_value(csv_text):
 
 def _zone_snapshot(csv_text):
     """
-    Return {zone_name: count} for the latest date in a zone-level 3-column CSV.
-    Skips rows where nom is 'NA', 'ND', or blank.
+    Return {zone_name: count} using the most recent value per zone.
+    Zones are updated at different times in the INRB CSV, so filtering to a
+    single global latest date would drop all zones not updated on that date.
     """
-    reader  = csv.DictReader(io.StringIO(csv_text))
-    rows    = list(reader)
-    if not rows:
-        return {}
-
-    # Find the latest date present in the file
-    dates = set()
-    for row in rows:
-        raw = list(row.values())
-        if len(raw) > 1:
-            dates.add(raw[1].strip())
-    if not dates:
-        return {}
-    latest = max(dates)
-
-    result = {}
-    for row in rows:
+    reader = csv.DictReader(io.StringIO(csv_text))
+    # {zone: (date_str, int_value)}
+    best = {}
+    for row in reader:
         raw = list(row.values())
         if len(raw) < 3:
             continue
         nom, date, val = raw[0].strip(), raw[1].strip(), raw[2].strip()
-        if date != latest or nom in ('NA', 'ND', '') or not nom:
+        if not nom or nom in ('NA', 'ND') or not date:
             continue
         try:
-            result[nom] = int(val)
+            v = int(val)
         except ValueError:
-            pass
-    return result
+            continue
+        prev_date, _ = best.get(nom, ('', 0))
+        if date >= prev_date:
+            best[nom] = (date, v)
+    return {nom: v for nom, (_, v) in best.items()}
 
 
 # Persistence
