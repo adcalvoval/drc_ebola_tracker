@@ -1,12 +1,13 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 30 Jun 2026 17:07:12 Z",
-  "fetchedAt": "2026-06-30T17:07:13Z",
+  "lastBuildDate": "Tue, 30 Jun 2026 19:31:48 Z",
+  "fetchedAt": "2026-06-30T19:31:47Z",
   "itemCount": 250,
   "stats": {
     "drc": {
-      "confirmed": 1274,
       "deaths": 360,
+      "suspected": 239,
+      "confirmed": 1274,
       "recovered": 178,
       "zonesAffected": 39,
       "topHealthZones": {
@@ -51,28 +52,32 @@
         "Manguredjipa": 0
       },
       "contacts": 6367,
-      "suspected": 239,
       "cfr": 28.3
     },
     "drcMeta": {
-      "confirmed": {
-        "tier": 5,
-        "src": "INRB sitrep (2026-06-27)"
-      },
       "deaths": {
-        "tier": 5,
-        "src": "INRB sitrep (2026-06-27)"
-      },
-      "recovered": {
         "tier": 5,
         "src": "INRB sitrep (2026-06-27)"
       },
       "suspected": {
         "tier": 5,
         "src": "INRB sitrep (2026-06-27)"
+      },
+      "confirmed": {
+        "tier": 5,
+        "src": "INRB sitrep (2026-06-27)"
+      },
+      "recovered": {
+        "tier": 5,
+        "src": "INRB sitrep (2026-06-27)"
       }
     },
     "drcTiers": {
+      "moh": {
+        "deaths": 360,
+        "suspected": 1165,
+        "confirmed": 1274
+      },
       "media": {
         "deaths": 20
       },
@@ -129,6 +134,27 @@
     }
   },
   "items": [
+    {
+      "title": "Après des années sans réponse, les médecins de cet hôpital diagnostiquent 18 cas de maladies rares épaulés par les équipes de Harvard et d'OpenAI",
+      "link": "https://www.science-et-vie.com/technos-et-futur/apres-des-annees-sans-reponse-les-medecins-de-cet-hopital-diagnostiquent-18-cas-de-maladies-rares-epaules-par-les-equipes-de-harvard-et-dopenai-246443.html",
+      "pubDate": "Tue, 30 Jun 2026 19:29:00 Z",
+      "desc": "Des équipes de l'hôpital pour enfants de Boston, de Harvard et d'OpenAI ont réanalysé 376 dossiers pédiatriques non résolus et fait émerger 18 nouvelles réponses, d'après une étude parue le 18 juin 2026 dans NEJM AI. La moitié de ces malades n'obtiennent jamais d'explication claire, tant les....",
+      "tag": "response"
+    },
+    {
+      "title": "Epidémie d'Ebola : plus de 1165 cas en RDC où des cas ont été signalés dans quatre provinces Patrick GEROME - 30/06/2026 Lire plus➟",
+      "link": "https://www.mesvaccins.net/web/news/24233-epidemie-d-ebola-plus-de-1165-cas-en-rdc-ou-des-cas-ont-ete-signales-dans-quatre-provinces",
+      "pubDate": "Tue, 30 Jun 2026 18:59:00 Z",
+      "desc": "République démocratique du Congo. Le 28 juin, le ministère de la Santé de la République démocratique du Congo a fait état de 1 274 cas confirmés de maladie d'Ebola à virus Bundibugyo , dont 360 décès liés à la maladie, et de 502 personnes hospitalisées en isolement (au 27 juin).",
+      "tag": "cases"
+    },
+    {
+      "title": "Ouganda : très probable épidémie de maladie à virus Marburg Patrick GEROME - 30/06/2026 Lire plus➟",
+      "link": "https://www.mesvaccins.net/web/news/24232-ouganda-tres-probable-epidemie-de-maladie-a-virus-marburg",
+      "pubDate": "Tue, 30 Jun 2026 18:30:00 Z",
+      "desc": "Une épidémie de la maladie causée par le virus Marburg a été signalée dans l'ouest de l' Le gouvernement ougandais n'a pas encore communiqué publiquement sur l'épidémie. Cependant, l'ambassade des États-Unis à Kampala a émis une alerte sanitaire lundi, indiquant avoir été informée d'un cas possible de Marburg dans le pays.",
+      "tag": "response"
+    },
     {
       "title": "Bundibugyo Outbreak Typically Presents with GI Symptoms, Not Hemorrhage, NEJM Study Finds",
       "link": "https://globalbiodefense.com/2026/06/24/bundibugyo-virus-outbreak-in-drc-presents-with-gi-symptoms-not-hemorrhage-nejm-study-finds/",
@@ -347,6 +373,20 @@
       "tag": "analysis"
     },
     {
+      "title": "Aromatic basil (Ocimum x africanum Lour.) tea as a biolarvacide in dengue haemorrhagic fever",
+      "link": "https://doi.org/10.34011/jmp2k.v36i2.4533",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.34011/jmp2k.v36i2.4533\nAuthors: Citra Amaniah Anhar, Dewi Inderiati, Diah Lestari, Gina Argiyanti\n Background: Dengue Haemorrhagic Fever is a health problem transmitted by the Aedes aegypti mosquito. Dengue fever control currently still uses chemical larvicides (ABATE) that can pose health and environmental risks, thus requiring natu",
+      "tag": "analysis"
+    },
+    {
+      "title": "Optimizing diagnostic cascades: evaluating the sensitivity of NS1 antigen versus antibody serology in a rapidly evolving dengue outbreak",
+      "link": "https://doi.org/10.18203/2320-6012.ijrms20262158",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.18203/2320-6012.ijrms20262158\nAuthors: M. Ashraf Uddin Ahmed, Farzana Yasmin, Mahmood Parvez, Tasnim Mahmud\n Background: Dengue fever, caused by DENV-1-4 serotypes, remains a major public health challenge with clinical manifestations ranging from mild febrile illness to severe complications such as Dengue Hemorrhagic Fever (DHF) and",
+      "tag": "analysis"
+    },
+    {
       "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
       "link": "https://doi.org/10.1093/qjmed/hcag167",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -358,13 +398,6 @@
       "link": "https://doi.org/10.3126/mjen.v5i01.96385",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3126/mjen.v5i01.96385\nAuthors: Abhishek Karmacharya, Subrata Pokhrel, Damodar Sharma, Chetan Khadka, Nickey Pradhan, Navindra Phuyal\n Background \nWith a high mortality rate, bloodstream infections (BSI) are a serious worldwide public health burden. Delay in therapy has a significant impact on Patient’s outcomes, and rapid and precis",
-      "tag": "analysis"
-    },
-    {
-      "title": "Aromatic basil (Ocimum x africanum Lour.) tea as a biolarvacide in dengue haemorrhagic fever",
-      "link": "https://doi.org/10.34011/jmp2k.v36i2.4533",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.34011/jmp2k.v36i2.4533\nAuthors: Citra Amaniah Anhar, Dewi Inderiati, Diah Lestari, Gina Argiyanti\n Background: Dengue Haemorrhagic Fever is a health problem transmitted by the Aedes aegypti mosquito. Dengue fever control currently still uses chemical larvicides (ABATE) that can pose health and environmental risks, thus requiring natu",
       "tag": "analysis"
     },
     {
@@ -386,6 +419,13 @@
       "link": "https://doi.org/10.64898/2026.06.27.734966",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.06.27.734966\nAuthors: Eva Iniguez, Patrick Huffcutt, Tiago Donatelli Serafim, Pedro Cecilio, Serena Doh, Aaron Pugh, Johannes Doehl, Claudio Meneses, Ben Lambert, Jesus G. Valenzuela, Shaden Kamhawi\n In many leishmaniasis foci, reservoirs that maintain infection remain unknown. Here, we developed a field-applicable toolkit",
+      "tag": "analysis"
+    },
+    {
+      "title": "Arming Inactivated Enveloped Virus Vaccines with the GGTA1 Gene: A Potent Method for Amplification of Viral Vaccines Effectiveness and Protection Against Variants",
+      "link": "https://doi.org/10.3390/vaccines14070571",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/vaccines14070571\nAuthors: Uri Galili\n This review describes a novel method for increasing the effectiveness of inactivated enveloped whole-virus vaccines by targeting them for extensive uptake by antigen-presenting cells (APCs). Several inactivated whole-virus vaccines with dense glycan shields display suboptimal effectiveness b",
       "tag": "analysis"
     },
     {
@@ -1842,41 +1882,6 @@
       "link": "https://www.medrxiv.org/content/10.64898/2026.06.11.26355237v1?rss=1",
       "pubDate": "Mon, 22 Jun 2026 14:23:00 Z",
       "desc": "Abstract. During the ongoing Bundibugyo ebolavirus disease outbreak in the Democratic Republic of the Congo, we quantify introduction risk and sustained-transmission potential across the country. This identifies priority zones far from currently affected areas, where rapid amplification could follow....",
-      "tag": "analysis"
-    },
-    {
-      "title": "How clinicians can identify and manage Ebola, hantavirus",
-      "link": "https://www.news-medical.net/news/20260622/How-clinicians-can-identify-and-manage-Ebola-hantavirus.aspx",
-      "pubDate": "Mon, 22 Jun 2026 13:43:00 Z",
-      "desc": ", have made headlines in recent weeks as they pose serious threats to public health. They both require rigorous infection and prevention control (IPAC) practices and often present with similar early symptoms. Two succinct articles in CMAJ Canadian Medical Association Journal ) provide information about each disease for clinicians.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Mangione Drops Plan To Seek Psychiatric Defense In UnitedHealthcare CEO Slaying Case",
-      "link": "https://kffhealthnews.org/morning-breakout/health-industry-062226/",
-      "pubDate": "Mon, 22 Jun 2026 13:32:00 Z",
-      "desc": "In a stunning reversal, Luigi Mangione ‘s lawyers told a judge Thursday that he will no longer be asserting a psychiatric defense at his state murder trial in the killing of UnitedHealthcare CEO Brian Thompson. The retraction came just a day after Mangione’s lawyers told Judge Gregory Carro that....",
-      "tag": "analysis"
-    },
-    {
-      "title": "With Hantavirus Threat Behind Them, US Passengers Return To Daily Life",
-      "link": "https://kffhealthnews.org/morning-breakout/hantavirus-and-ebola-062226/",
-      "pubDate": "Mon, 22 Jun 2026 13:32:00 Z",
-      "desc": "All 18 American passengers who were aboard the MV Hondius were released from quarantine Sunday. Meanwhile in Congo, frontline healthcare workers are falling prey to Ebola as the virus surges. At least 18 doctors and other healthcare workers have died during the epidemic, according to Congo’s National Public Health Institute.",
-      "tag": "analysis"
-    },
-    {
-      "title": "At least 30 deaths at Congo camp show Ebola could be spreading fast - NTV Kenya",
-      "link": "https://ntvkenya.co.ke/news/at-least-30-deaths-at-congo-camp-show-ebola-could-be-spreading-fast/",
-      "pubDate": "Mon, 22 Jun 2026 12:26:00 Z",
-      "desc": "Fever -- Kenya. Significance Rating: 3 At least 30 deaths at Congo camp show Ebola could be spreading fast&nbsp;&nbsp;NTV Kenya",
-      "tag": "cases"
-    },
-    {
-      "title": "El ébola y el hantavirus obligan al sector sanitario a extremar su preparación ante nuevas amenazas globales - consalud.es",
-      "link": "https://www.consalud.es/profesionales/el-ebola-y-el-hantavirus-obligan-al-sector-sanitario-a-extremar-su-preparacion-ante-nuevas-amenazas-globales.html",
-      "pubDate": "Mon, 22 Jun 2026 12:26:00 Z",
-      "desc": "Hantavirus -- Saskatchewan Province, Canada. Significance Rating: 3 El ébola y el hantavirus obligan al sector sanitario a extremar su preparación ante nuevas amenazas globales&nbsp;&nbsp;consalud",
       "tag": "analysis"
     }
   ],
