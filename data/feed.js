@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 30 Jun 2026 08:33:10 Z",
-  "fetchedAt": "2026-06-30T08:33:10Z",
+  "lastBuildDate": "Tue, 30 Jun 2026 09:40:20 Z",
+  "fetchedAt": "2026-06-30T09:40:20Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -89,6 +89,20 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "Congo bans gatherings in Kinshasa and three provinces over Ebola outbreak",
+      "link": "https://health.economictimes.indiatimes.com/news/industry/congo-bans-gatherings-in-kinshasa-and-three-provinces-over-ebola-outbreak/132085162",
+      "pubDate": "Tue, 30 Jun 2026 06:02:00 Z",
+      "desc": "Dakar: The Democratic Republic of Congo has banned public ​gatherings in four provinces, including ​the capital, Kinshasa, as the country battles a ​deadly Ebola outbreak. The ban comes ahead of a planned protest in Kinshasa on July 8 against constitutional reform, with opposition figures calling it \"politically motivated.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Genetic research links KDF1 mutation to impaired dental epithelial organization",
+      "link": "https://www.news-medical.net/news/20260630/Genetic-research-links-KDF1-mutation-to-impaired-dental-epithelial-organization.aspx",
+      "pubDate": "Tue, 30 Jun 2026 06:00:00 Z",
+      "desc": "Dental enamel is the hardest substance in the human body, protecting teeth from wear, temperature changes, and decay. However, enamel cannot regenerate once damaged. Inherited disorders, such as amelogenesis imperfecta, disrupt enamel formation during development, leaving affected individuals with fragile, discolored, and decay-prone teeth.",
+      "tag": "analysis"
+    },
     {
       "title": "Systematic Review Accepted on 29 Jun 2026 Authorising the Outbreak Workforce: From Informal Task Shifting to Governed Epidemic Task Sharing in Low-Resource Settings in Public Health Policy Eric Nzirakaindi Ikoona Lucy Namulemo Ronald Kaluya Rebecca Ikoona Foday Sahr Frontiers in Public Health",
       "link": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1870466/abstract",
@@ -265,17 +279,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "The PEARL toolkit: Using sand flies to identify leishmaniasis animal reservoirs",
-      "link": "https://doi.org/10.64898/2026.06.27.734966",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.27.734966\nAuthors: Eva Iniguez, Patrick Huffcutt, Tiago Donatelli Serafim, Pedro Cecilio, Serena Doh, Aaron Pugh, Johannes Doehl, Claudio Meneses, Ben Lambert, Jesus G. Valenzuela, Shaden Kamhawi\n In many leishmaniasis foci, reservoirs that maintain infection remain unknown. Here, we developed a field-applicable toolkit",
-      "tag": "analysis"
-    },
-    {
       "title": "LATE DIAGNOSIS OF CHRONIC KIDNEY DISEASE IN A CHILD WITH A HYPOREFLEXIVE BLADDER: A CASE REPORT AND LITERATURE REVIEW",
       "link": "https://doi.org/10.24061/2413-4260.xvi.2.60.2026.42",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.24061/2413-4260.xvi.2.60.2026.42\nAuthors: L. Vakulenko, O. Babak, D. Ochigava, A. Riznyk, V. Postovoi, A. Obertynskyi\n Chronic kidney disease (CKD) represents a major global health problem because of its high prevalence, significant mortality, and the substantial economic burden associated with renal replacement therapy. Most pediatr",
+      "tag": "analysis"
+    },
+    {
+      "title": "The PEARL toolkit: Using sand flies to identify leishmaniasis animal reservoirs",
+      "link": "https://doi.org/10.64898/2026.06.27.734966",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.27.734966\nAuthors: Eva Iniguez, Patrick Huffcutt, Tiago Donatelli Serafim, Pedro Cecilio, Serena Doh, Aaron Pugh, Johannes Doehl, Claudio Meneses, Ben Lambert, Jesus G. Valenzuela, Shaden Kamhawi\n In many leishmaniasis foci, reservoirs that maintain infection remain unknown. Here, we developed a field-applicable toolkit",
       "tag": "analysis"
     },
     {
@@ -664,17 +678,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Single-cell multiomics of neuron activation reveals context-specific genetics of brain disorders",
-      "link": "https://doi.org/10.1126/science.adw3949",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1126/science.adw3949\nAuthors: Lifan Liang, Siwei Zhang, Zicheng Wang, Hanwen Zhang, Chuxuan Li, Christina Thapa, Emily K. Oh, David Sirkin, Xiaotong Sun, Alexandra Barishman, Ada McCarroll, Alexandra C. Duhe, Sheng Qian, Xiaoyuan Zhong, Brendan Jamison, Whitney Wood, Alena Kozlova, Zhiping P. Pang, Alan R. Sanders, Xin He, Jubao Duan\n<jats:",
-      "tag": "analysis"
-    },
-    {
       "title": "Understanding machupo virus: A neglected arenavirus with global health importance",
       "link": "https://doi.org/10.5501/wjv.v15.i2.119515",
       "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.5501/wjv.v15.i2.119515\nAuthors: Praveen Kumar Uppala, Sita Kumari Karanam, Naga Vishnu Kandra, Sandhya Edhi\n Machupo virus (MACV), classified within the Mammarenavirus genus of the Arenaviridae family, serves as the causative agent of Bolivian hemorrhagic fever (BHF), a life-threatening zoonosis primarily confined to rural regions of",
+      "tag": "analysis"
+    },
+    {
+      "title": "Single-cell multiomics of neuron activation reveals context-specific genetics of brain disorders",
+      "link": "https://doi.org/10.1126/science.adw3949",
+      "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1126/science.adw3949\nAuthors: Lifan Liang, Siwei Zhang, Zicheng Wang, Hanwen Zhang, Chuxuan Li, Christina Thapa, Emily K. Oh, David Sirkin, Xiaotong Sun, Alexandra Barishman, Ada McCarroll, Alexandra C. Duhe, Sheng Qian, Xiaoyuan Zhong, Brendan Jamison, Whitney Wood, Alena Kozlova, Zhiping P. Pang, Alan R. Sanders, Xin He, Jubao Duan\n<jats:",
       "tag": "analysis"
     },
     {
@@ -790,6 +804,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction - foreignpolicyjournal.com",
+      "link": "https://www.foreignpolicyjournal.com/2026/06/24/congo-ebola-outbreak-sets-record-first-month-case-count-as-kenya-halts-us-quarantine-facility-construction/",
+      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
+      "desc": "-- Kenya. Significance Rating: 1 Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction&nbsp;&nbsp;foreignpolicyjournal.com",
+      "tag": "analysis"
+    },
+    {
       "title": "France confirms first Ebola case linked to DR Congo outbreak - Eye Radio",
       "link": "https://www.eyeradio.org/france-confirms-first-ebola-case-linked-to-dr-congo-outbreak/",
       "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
@@ -815,13 +836,6 @@ window.FEED_DATA = {
       "link": "https://www.abc.net.au/news/2026-06-24/france-detects-first-ebola-case-outside-africa-in-current-outbre/106838794",
       "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DRC&nbsp;&nbsp;Australian Broadcasting Corporation",
-      "tag": "analysis"
-    },
-    {
-      "title": "Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction - foreignpolicyjournal.com",
-      "link": "https://www.foreignpolicyjournal.com/2026/06/24/congo-ebola-outbreak-sets-record-first-month-case-count-as-kenya-halts-us-quarantine-facility-construction/",
-      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
-      "desc": "-- Kenya. Significance Rating: 1 Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction&nbsp;&nbsp;foreignpolicyjournal.com",
       "tag": "analysis"
     },
     {
@@ -888,17 +902,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway - Jamaica Observer",
-      "link": "https://www.jamaicaobserver.com/2026/06/24/doctor-returning-dr-congo-tests-positive-ebola-france-contact-tracing-underway/",
-      "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
-      "desc": "-- DR Congo. Significance Rating: 1 Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway&nbsp;&nbsp;Jamaica Observer",
-      "tag": "analysis"
-    },
-    {
       "title": "US Ebola Quarantine Plan in Kenya Hits Legal Wall - t.co",
       "link": "https://t.co/5wlYGS2kEW",
       "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
       "desc": "-- United States. Significance Rating: 1 US Ebola Quarantine Plan in Kenya Hits Legal Wall&nbsp;&nbsp;t.co",
+      "tag": "analysis"
+    },
+    {
+      "title": "Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway - Jamaica Observer",
+      "link": "https://www.jamaicaobserver.com/2026/06/24/doctor-returning-dr-congo-tests-positive-ebola-france-contact-tracing-underway/",
+      "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
+      "desc": "-- DR Congo. Significance Rating: 1 Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway&nbsp;&nbsp;Jamaica Observer",
       "tag": "analysis"
     },
     {
@@ -972,24 +986,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
-      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
-      "tag": "analysis"
-    },
-    {
       "title": "France confirms first Ebola case, found in doctor who flew back from Congo | World News - Hindustan Times",
       "link": "https://www.hindustantimes.com/world-news/france-confirms-first-ebola-case-found-in-doctor-who-flew-back-from-congo-101782301890929.html",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France confirms first Ebola case, found in doctor who flew back from Congo | World News&nbsp;&nbsp;Hindustan Times",
-      "tag": "analysis"
-    },
-    {
-      "title": "France confirms first Ebola case after doctor returning from DRC tests positive - The National",
-      "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
       "tag": "analysis"
     },
     {
@@ -1042,10 +1042,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Today, June 24",
-      "link": "https://kffhealthnews.org/morning-briefing/wednesday-june-24-2026/",
-      "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
-      "desc": "Tears glazed Daniel Cressy’s face as he became the first patient in the Gulf South to be functionally cured of sickle cell disease through gene editing on Monday. He said it felt like being reborn. “ God has given me another life, a new chapter. I was able to experience a second birthday, something....",
+      "title": "France confirms first Ebola case after doctor returning from DRC tests positive - The National",
+      "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
+      "tag": "analysis"
+    },
+    {
+      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
+      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
       "tag": "analysis"
     },
     {
@@ -1053,6 +1060,13 @@ window.FEED_DATA = {
       "link": "https://kffhealthnews.org/morning-breakout/vaccines-062426/",
       "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
       "desc": "A study on Covid vaccines that the Centers for Disease Control and Prevention’s acting director blocked from publication came out Tuesday in a different journal. The findings show that Covid vaccines reduced the likelihood of severe illness by about half among adults last fall and winter.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Today, June 24",
+      "link": "https://kffhealthnews.org/morning-briefing/wednesday-june-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
+      "desc": "Tears glazed Daniel Cressy’s face as he became the first patient in the Gulf South to be functionally cured of sickle cell disease through gene editing on Monday. He said it felt like being reborn. “ God has given me another life, a new chapter. I was able to experience a second birthday, something....",
       "tag": "analysis"
     },
     {
@@ -1119,6 +1133,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "France records its first Ebola case in a doctor returning from the Democratic Republic of Congo - صوت الإمارات",
+      "link": "https://www.voiceofemirates.com/en/health/2026/06/24/france-records-its-first-ebola-case-in-a-doctor-returning-from-the-democratic-republic-of-congo/",
+      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France records its first Ebola case in a doctor returning from the Democratic Republic of Congo&nbsp;&nbsp;صوت الإمارات",
+      "tag": "analysis"
+    },
+    {
       "title": "France reports first Ebola case after doctor returning from DR Congo tests positive - Manx Radio",
       "link": "https://www.manxradio.com/news/world-news/france-reports-first-ebola-case-after-doctor-returning-from-dr-congo-tests-positive/",
       "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
@@ -1179,13 +1200,6 @@ window.FEED_DATA = {
       "link": "https://www.modernghana.com/news/1505109/france-confirms-first-ebola-case-in-doctor-returni.amp",
       "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
       "desc": "-- DR Congo. Significance Rating: 1 France confirms first Ebola case in doctor returning from DR Congo mission&nbsp;&nbsp;Modern Ghana",
-      "tag": "analysis"
-    },
-    {
-      "title": "France records its first Ebola case in a doctor returning from the Democratic Republic of Congo - صوت الإمارات",
-      "link": "https://www.voiceofemirates.com/en/health/2026/06/24/france-records-its-first-ebola-case-in-a-doctor-returning-from-the-democratic-republic-of-congo/",
-      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France records its first Ebola case in a doctor returning from the Democratic Republic of Congo&nbsp;&nbsp;صوت الإمارات",
       "tag": "analysis"
     },
     {
@@ -1357,31 +1371,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Africa CDC appelle à la solidarité et au renforcement de la collaboration suite au cas importé de maladie à virus Ebola en France et renforce la surveillance transfrontalière",
-      "link": "https://africacdc.org/news-item/africa-cdc-appelle-a-la-solidarite-et-au-renforcement-de-la-collaboration-suite-au-cas-importe-de-maladie-a-virus-ebola-en-france-et-renforce-la-surveillance-transfrontaliere/",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "Un professionnel de santé ayant appuyé la riposte Ebola en Ituri a développé des symptômes après son arrivée en France et a été rapidement diagnostiqué. Africa CDC appelle à maintenir la vigilance, la solidarité et un soutien accru aux équipes de première ligne engagées pour mettre fin à l’épidémie.\n\n\n\nADDIS-ABEBA, 24 juin 2026 – Un professi",
-      "tag": "analysis"
-    },
-    {
-      "title": "Simply following the rules: race and the immunologics of Ebola response in Sierra Leone",
-      "link": "https://doi.org/10.1080/14735784.2025.2540268",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1080/14735784.2025.2540268\nAuthors: Adia Benton",
-      "tag": "response"
-    },
-    {
       "title": "Infective endocarditis complicated with multiple cerebral embolism and hemorrhage caused by Streptococcus sinensis: a rare case report and literature review",
       "link": "https://doi.org/10.3389/fmed.2026.1786870",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fmed.2026.1786870\nAuthors: Hong Zheng, Cuilin He, Kai Tang, Xiwen Wang, Longbiao Xie, Wei Li, Jianli Wu, Danjie Zhao\n \n                     Streptococcus sinensis \n                    (\n                     S. sinensis \n                    ) is a rare pathogen causing infective e",
-      "tag": "analysis"
-    },
-    {
-      "title": "Case Report: Primary hepatic carcinosarcoma with ectopic β-hCG secretion and a paraneoplastic leukemoid reaction mimicking gynecologic and hematologic disease",
-      "link": "https://doi.org/10.3389/fonc.2026.1864613",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fonc.2026.1864613\nAuthors: Pin Wang, Xin Xu, Lan Zhang\n Primary hepatic carcinosarcoma is an exceptionally rare and highly aggressive malignancy, and ectopic β-hCG production and paraneoplastic leukemoid reaction are both uncommon findings in solid tumors. We report the case of a 47-year-old woman who initially presented with ab",
       "tag": "analysis"
     },
     {
@@ -1392,10 +1385,31 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
+      "title": "Case Report: Primary hepatic carcinosarcoma with ectopic β-hCG secretion and a paraneoplastic leukemoid reaction mimicking gynecologic and hematologic disease",
+      "link": "https://doi.org/10.3389/fonc.2026.1864613",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fonc.2026.1864613\nAuthors: Pin Wang, Xin Xu, Lan Zhang\n Primary hepatic carcinosarcoma is an exceptionally rare and highly aggressive malignancy, and ectopic β-hCG production and paraneoplastic leukemoid reaction are both uncommon findings in solid tumors. We report the case of a 47-year-old woman who initially presented with ab",
+      "tag": "analysis"
+    },
+    {
       "title": "Development of an immunochromatographic lateral flow assay for the rapid detection of all known orthoebolavirus glycoproteins",
       "link": "https://doi.org/10.1038/s44298-026-00209-1",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1038/s44298-026-00209-1\nAuthors: Helene Schulz, Guodong Liu, Jordan Wight, Karla Emeterio, Wenguang Cao, Mable Chan, Ming Yang, Logan Banadyga\n Abstract \n                   Orthoebolaviruses, like Ebola, Sudan, and Bundibugyo viruses, are responsible for causing sporadic and unpredictable outbreaks of severe di",
+      "tag": "analysis"
+    },
+    {
+      "title": "Simply following the rules: race and the immunologics of Ebola response in Sierra Leone",
+      "link": "https://doi.org/10.1080/14735784.2025.2540268",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1080/14735784.2025.2540268\nAuthors: Adia Benton",
+      "tag": "response"
+    },
+    {
+      "title": "Africa CDC appelle à la solidarité et au renforcement de la collaboration suite au cas importé de maladie à virus Ebola en France et renforce la surveillance transfrontalière",
+      "link": "https://africacdc.org/news-item/africa-cdc-appelle-a-la-solidarite-et-au-renforcement-de-la-collaboration-suite-au-cas-importe-de-maladie-a-virus-ebola-en-france-et-renforce-la-surveillance-transfrontaliere/",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "Un professionnel de santé ayant appuyé la riposte Ebola en Ituri a développé des symptômes après son arrivée en France et a été rapidement diagnostiqué. Africa CDC appelle à maintenir la vigilance, la solidarité et un soutien accru aux équipes de première ligne engagées pour mettre fin à l’épidémie.\n\n\n\nADDIS-ABEBA, 24 juin 2026 – Un professi",
       "tag": "analysis"
     },
     {
@@ -1588,13 +1602,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Validation of diagnostic codes for identifying chlamydial infections from TriNetX electronic health record data in the United States",
-      "link": "https://doi.org/10.1097/olq.0000000000002378",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/olq.0000000000002378\nAuthors: Lin Li, Kexin Zhu, Hosn Nabaa, Konstantin Kozmenko, Valerie Bosch Castells, Delphine Saragoussi, Sandra S. Chaves\n \n                     Background: \n                     The accuracy of diagnostic codes for chlamydial infections in electronic health records (EHR) is",
-      "tag": "analysis"
-    },
-    {
       "title": "Africa CDC Statement on the High-Level Ebola Response Meeting in the Democratic Republic of Congo",
       "link": "https://africacdc.org/news-item/africa-cdc-statement-on-the-high-level-ebola-response-meeting-in-the-democratic-republic-of-congo/",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
@@ -1602,24 +1609,17 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "TickMapKB: A FAIR Spatial Knowledgebase of Tick Species and Associated Pathogens in India",
-      "link": "https://doi.org/10.64898/2026.06.22.733803",
+      "title": "Validation of diagnostic codes for identifying chlamydial infections from TriNetX electronic health record data in the United States",
+      "link": "https://doi.org/10.1097/olq.0000000000002378",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.22.733803\nAuthors: Shreyes Rajan Madgaonkar, Shrish Vashishth, Elango Ayyanar, Srikanth Srirama, Areejit Samal\n Ticks transmit pathogens across wildlife, domestic animals, and humans, and are therefore considered important vectors under the One Health framework. In India, the burden of tick-borne diseases, such as Kyasa",
+      "desc": "DOI: 10.1097/olq.0000000000002378\nAuthors: Lin Li, Kexin Zhu, Hosn Nabaa, Konstantin Kozmenko, Valerie Bosch Castells, Delphine Saragoussi, Sandra S. Chaves\n \n                     Background: \n                     The accuracy of diagnostic codes for chlamydial infections in electronic health records (EHR) is",
       "tag": "analysis"
     },
     {
-      "title": "Spreading α-synuclein rewires organelle communication and impairs neuron-astrocyte mitochondrial quality control",
-      "link": "https://doi.org/10.64898/2026.06.19.733342",
+      "title": "When it could have been prevented: A maternal death from postpartum hemorrhage due to genital tract lesions complicated by urinary fistula in an Ebola treatment unit in DR Congo",
+      "link": "https://doi.org/10.1186/s12884-026-09271-2",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.19.733342\nAuthors: Elisabeth Fritsch, Kamelija Horvatovic, Paula Santos Otte, Tomas Koudelka, Jana Rossius, Caroline Braeuning, Laura Breimann, Ilaria Piazza, Melissa Birol\n Progressive intercellular spreading of α-synuclein (αS) is implicated in pathology initiation and propagation of synucleinopathies. However, how re",
-      "tag": "analysis"
-    },
-    {
-      "title": "Structure-Guided Discovery and Biochemical Validation of Novel Small-Molecule Inhibitors Predicted to Target the CCHFV OTU Protease Y89-W99 Pocket",
-      "link": "https://doi.org/10.3390/ijms27135661",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/ijms27135661\nAuthors: Sezer Akgöl, Fatih Kocabaş\n Crimean–Congo hemorrhagic fever virus (CCHFV) remains a major public health threat due to its high mortality rates and the absence of approved antiviral therapies. The viral ovarian tumor (OTU) protease is a critical virulence factor that suppresses host innate immunity through i",
+      "desc": "DOI: 10.1186/s12884-026-09271-2\nAuthors: Prince Imani-Musimwa, Emilie Grant, Daniel Mukadi-Bamuleka, Zacharie Tsongo-Kibendelwa, Rigo Fraterne-Muhayangabo, Placide Mbala-Kingebeni, Richard Kitenge-Omasumbu, Théophile Barhwamire-Kabesha, Olivier Nyakio-Ngeleza, Juakali Sihali-Kyolov, Micheline Feza-Malira, Baudouin Manwa-Budwaga, Desiré Alumeti-Muny",
       "tag": "analysis"
     },
     {
@@ -1637,10 +1637,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "When it could have been prevented: A maternal death from postpartum hemorrhage due to genital tract lesions complicated by urinary fistula in an Ebola treatment unit in DR Congo",
-      "link": "https://doi.org/10.1186/s12884-026-09271-2",
+      "title": "Spreading α-synuclein rewires organelle communication and impairs neuron-astrocyte mitochondrial quality control",
+      "link": "https://doi.org/10.64898/2026.06.19.733342",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s12884-026-09271-2\nAuthors: Prince Imani-Musimwa, Emilie Grant, Daniel Mukadi-Bamuleka, Zacharie Tsongo-Kibendelwa, Rigo Fraterne-Muhayangabo, Placide Mbala-Kingebeni, Richard Kitenge-Omasumbu, Théophile Barhwamire-Kabesha, Olivier Nyakio-Ngeleza, Juakali Sihali-Kyolov, Micheline Feza-Malira, Baudouin Manwa-Budwaga, Desiré Alumeti-Muny",
+      "desc": "DOI: 10.64898/2026.06.19.733342\nAuthors: Elisabeth Fritsch, Kamelija Horvatovic, Paula Santos Otte, Tomas Koudelka, Jana Rossius, Caroline Braeuning, Laura Breimann, Ilaria Piazza, Melissa Birol\n Progressive intercellular spreading of α-synuclein (αS) is implicated in pathology initiation and propagation of synucleinopathies. However, how re",
+      "tag": "analysis"
+    },
+    {
+      "title": "Structure-Guided Discovery and Biochemical Validation of Novel Small-Molecule Inhibitors Predicted to Target the CCHFV OTU Protease Y89-W99 Pocket",
+      "link": "https://doi.org/10.3390/ijms27135661",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/ijms27135661\nAuthors: Sezer Akgöl, Fatih Kocabaş\n Crimean–Congo hemorrhagic fever virus (CCHFV) remains a major public health threat due to its high mortality rates and the absence of approved antiviral therapies. The viral ovarian tumor (OTU) protease is a critical virulence factor that suppresses host innate immunity through i",
+      "tag": "analysis"
+    },
+    {
+      "title": "TickMapKB: A FAIR Spatial Knowledgebase of Tick Species and Associated Pathogens in India",
+      "link": "https://doi.org/10.64898/2026.06.22.733803",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.22.733803\nAuthors: Shreyes Rajan Madgaonkar, Shrish Vashishth, Elango Ayyanar, Srikanth Srirama, Areejit Samal\n Ticks transmit pathogens across wildlife, domestic animals, and humans, and are therefore considered important vectors under the One Health framework. In India, the burden of tick-borne diseases, such as Kyasa",
       "tag": "analysis"
     },
     {
@@ -1824,20 +1838,6 @@ window.FEED_DATA = {
       "pubDate": "Mon, 22 Jun 2026 08:26:00 Z",
       "desc": "Docteure en maladies infectieuses, fondatrice de startup, ancienne consultante de l’OMS et de la Commission Européenne, Forbes Afrique l’a baptisée « la Sciencepreneuse ». À 30 ans, la Camerounaise Elsa Zekeng s’est imposée au carrefour de la science, de l’entrepreneuriat et du plaidoyer pour l’équité en santé.",
       "tag": "analysis"
-    },
-    {
-      "title": "Ebola virus disease [Practice]",
-      "link": "https://www.cmaj.ca/content/198/24/E942",
-      "pubDate": "Mon, 22 Jun 2026 04:33:00 Z",
-      "desc": "Since the discovery of Ebola virus disease (EVD) in 1976, outbreaks have occurred sporadically in Central and West Africa. The 3 main ebolaviruses associated with human disease are Zaire ebolavirus Sudan ebolavirus , and Bundibugyo ebolavirus 1 Evidence suggests fruit bats are the reservoir species,....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Hantavirus [Practice]",
-      "link": "https://www.cmaj.ca/content/198/24/E943",
-      "pubDate": "Mon, 22 Jun 2026 04:33:00 Z",
-      "desc": "Hantavirus is a nationally notifiable disease in Canada. On average, 4 to 5 cases of hantavirus are confirmed annually in Canada. Almost all cases are acquired in agricultural settings in Manitoba, Saskatchewan, Alberta, and British Columbia. 1 Transmission usually occurs via contact with infected....",
-      "tag": "cases"
     }
   ],
   "highWater": {
