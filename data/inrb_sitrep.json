@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-29T20:00:38.058747+00:00",
+  "fetchedAt": "2026-06-30T14:36:49.966114+00:00",
   "asOf": "2026-06-27",
   "url": "https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/insp_sitrep/processed",
   "drc": {
@@ -8,8 +8,46 @@
     "recovered": 178,
     "suspected": 239,
     "topHealthZones": {
-      "Nyankunde": 93
+      "Bunia": 323,
+      "Rwampara": 258,
+      "Mongbwalu": 250,
+      "Nyankunde": 93,
+      "Mongbalu": 47,
+      "Katwa": 35,
+      "Butembo": 33,
+      "Nizi": 32,
+      "Lita": 26,
+      "Beni": 22,
+      "Mangala": 17,
+      "Bambu": 14,
+      "Komanda": 13,
+      "Nyakunde": 10,
+      "Tchomia": 10,
+      "Kilo": 9,
+      "Logo": 7,
+      "Aungba": 6,
+      "Nia-Nia": 5,
+      "Damas": 4,
+      "Miti-Murhesa": 3,
+      "Aru": 3,
+      "Oicha": 3,
+      "Kyondo": 3,
+      "Rimba": 3,
+      "Kalunguta": 2,
+      "Mambasa": 2,
+      "Musienene": 2,
+      "Goma": 1,
+      "Fataki": 1,
+      "Gethy": 1,
+      "Gety": 1,
+      "Kambala": 1,
+      "Masereka": 1,
+      "Vuhovi": 1,
+      "Mabalako": 1,
+      "Drodro": 1,
+      "Karisimbi": 0,
+      "Manguredjipa": 0
     },
-    "zonesAffected": 1
+    "zonesAffected": 39
   }
 }
