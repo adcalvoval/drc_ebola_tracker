@@ -906,8 +906,11 @@ function applyHzData(geojsonLayer) {
   Object.entries(hz).forEach(([key, count]) => { byNom[hzNom(key)] = count; });
 
   const max = Object.values(byNom).reduce((a, b) => Math.max(a, b), 1);
+  const mid = Math.round(max * 0.25); // sqrt midpoint (t=0.5) → 0.25×max
   const maxEl = document.getElementById('hz-legend-max');
+  const midEl = document.getElementById('hz-legend-mid');
   if (maxEl) maxEl.textContent = max.toLocaleString();
+  if (midEl) midEl.textContent = mid.toLocaleString();
 
   geojsonLayer.eachLayer(layer => {
     const nom       = layer.feature.properties.nom      || '';
@@ -1082,12 +1085,11 @@ legend.onAdd = () => {
     </div>
     <div class="l-div"></div>
     <div style="font-size:0.63rem;color:#6b7a96;text-transform:uppercase;letter-spacing:0.8px;margin-bottom:6px;">Health Zones — Confirmed cases</div>
-    <div style="display:flex;align-items:center;gap:6px;margin-bottom:3px;">
-      <div style="width:90px;height:10px;border-radius:2px;background:linear-gradient(to right,#fff5f5,#fca5a5,#ef4444,#b91c1c,#7f1d1d);border:1px solid #4a3a3a;flex-shrink:0;"></div>
-      <span style="font-size:0.6rem;color:#6b7a96;">Few → Many</span>
+    <div style="margin-bottom:3px;">
+      <div style="width:110px;height:10px;border-radius:2px;background:linear-gradient(to right,#fff5f5,#fca5a5,#ef4444,#b91c1c,#7f1d1d);border:1px solid #4a3a3a;"></div>
     </div>
-    <div style="font-size:0.58rem;color:#4a5a76;display:flex;justify-content:space-between;width:90px;">
-      <span>1</span><span id="hz-legend-max" style="margin-left:auto;">—</span>
+    <div style="font-size:0.58rem;color:#4a5a76;display:flex;justify-content:space-between;width:110px;">
+      <span>1</span><span id="hz-legend-mid">—</span><span id="hz-legend-max">—</span>
     </div>
     <div class="l-note">Toggle layers via panel (top-left)</div>
   `;
