@@ -957,7 +957,7 @@ function initHealthZoneLayer() {
     .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(data => {
       hzGeoJSON = data;
-      hzLayer = L.geoJSON(data, { style: HZ_STYLES.none, pane: 'hzPane' });
+      hzLayer = L.geoJSON(data, { style: HZ_NONE_STYLE, pane: 'hzPane' });
       applyHzData(hzLayer);
       if (hzVisible) {
         hzLayer.addTo(map);
