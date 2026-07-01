@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 30 Jun 2026 22:15:59 Z",
-  "fetchedAt": "2026-06-30T22:15:59Z",
+  "lastBuildDate": "Wed, 01 Jul 2026 04:05:30 Z",
+  "fetchedAt": "2026-07-01T04:05:30Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -135,6 +135,48 @@ window.FEED_DATA = {
   },
   "items": [
     {
+      "title": "Congo traces possible Ebola spread to two new provinces, sources say",
+      "link": "https://health.economictimes.indiatimes.com/news/industry/congo-traces-possible-ebola-spread-to-two-new-provinces-sources-say/132103846",
+      "pubDate": "Wed, 01 Jul 2026 02:01:00 Z",
+      "desc": "Dakar: Congolese health authorities are tracing people potentially exposed to ​Ebola in two provinces ​not previously affected by the latest outbreak, amid fears ​the virus could spread further, a health ministry report and a senior health official said.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
+      "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
+      "tag": "analysis"
+    },
+    {
+      "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
+      "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "Highlights•A BiLSTM-based model enables early interpretation of RT-qPCR amplification curves.•Fluorescence values are accurately predicted using early-cycle qPCR data.•Reliable qualitative classification is achieved using only 27 amplification cycles.•The method reduces required qPCR cycles by approximately 40%.•The approach can be integrated into",
+      "tag": "analysis"
+    },
+    {
+      "title": "Beneficial Role of Vitamin D Supplementation and Clinical Outcomes in Patients with Dengue Fever: A Randomised Controlled Trial",
+      "link": "https://doi.org/10.7860/jcdr/2026/84141.23889",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.7860/jcdr/2026/84141.23889\nAuthors: Subramanian Mariselvan, Siva Ranganathan Green, Shayilendranath Venkatesan, Vignessh Raveekumaran\n Introduction: Dengue Fever (DF) continues to be a major public health burden in tropical and subtropical countries. Severe forms such as Dengue Haemorrhagic Fever (DHF) and Dengue Shock Syndrome (DSS)",
+      "tag": "analysis"
+    },
+    {
+      "title": "Prognostic Value of PCR Cycle Threshold Value in Crimean-Congo Hemorrhagic Fever, Iraq, 2022–2023",
+      "link": "https://doi.org/10.3201/eid3207.251284",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3201/eid3207.251284\nAuthors: Raghad I. Khaleel, Ihab R. Aakef, Riyadh A. Al-hilfi, Hussein A. Hasan, Iman M. Aufi, Hawraa A. Shakir, Ahmed A. Hussein, Noora A. Abdulhadi, Zainb A. Mohsin, Amal A. Raheem, Sarah W. Ahmed, Ghazwan A. Baghdadi, Chiori Kodama, Antoine Chaillon, Anaïs Legand, Pierre Formenty, Sinan G. Mahdi, Adnan Khamasi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Individual in Scotland tests negative for Ebola",
+      "link": "https://publichealthscotland.scot/news/2026/june/individual-in-scotland-tests-negative-for-ebola/",
+      "pubDate": "Tue, 30 Jun 2026 23:12:00 Z",
+      "desc": "Public Health Scotland (PHS) is aware that an individual in Scotland was tested for Ebola as a precautionary measure. The test result has now been received and is negative. PHS and NHS boards across Scotland have well established protocols for assessing and testing travellers arriving in the UK from areas affected by Ebola where necessary.",
+      "tag": "response"
+    },
+    {
       "title": "Tucumán consolida su respuesta sanitaria con vigilancia epidemiológica y nuevos servicios pediátricos",
       "link": "https://msptucuman.gov.ar/tucuman-consolida-su-respuesta-sanitaria-con-vigilancia-epidemiologica-y-nuevos-servicios-pediatricos/",
       "pubDate": "Tue, 30 Jun 2026 20:29:00 Z",
@@ -168,6 +210,13 @@ window.FEED_DATA = {
       "pubDate": "Tue, 30 Jun 2026 14:11:00 Z",
       "desc": "When clinicians and public health practitioners think of viral hemorrhagic fever outbreaks in the Democratic Republic of Congo, Ebola virus disease is the usual reference point. But a less commonly encountered strain within the same filovirus family, Bundibugyo virus, is now driving a significant....",
       "tag": "analysis"
+    },
+    {
+      "title": "Request for Information (RFI): According to US Embassy issues alert about possible cases of Marburg virus disease is Western Uganda",
+      "link": "https://beaconbio.org/en/report/?reportid=85f3a062-dc78-4a12-b498-73ad46db925a",
+      "pubDate": "Tue, 30 Jun 2026 11:23:00 Z",
+      "desc": "Sources Health Alert: U.S. Embassy Kampala, June 29, 2026, U.S. Embassy Uganda, 30 Jun 2026 U.S. Embassy issues Marburg alert amid reports of possible case in Uganda. The Cooperator. 30 June 2026. Key findings As of 29 Jun 2026, the U.S. Embassy in Kampala issued a health alert regarding a potential case of Marburg Virus Disease (MVD) in the Wester",
+      "tag": "cases"
     },
     {
       "title": "Ebola outbreak could cost Africa up to $3.6 billion, UN says",
@@ -212,13 +261,6 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Africa CDC calls for urgent US$18 million to close the funding gap on critical research ready to commence",
-      "link": "https://africacdc.org/news-item/africa-cdc-calls-for-urgent-us22-million-to-close-funding-gap-and-stop-bundibugyo-ebola-outbreak/",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "Clinical trials for Ebola therapeutics must begin this week. No licensed vaccine or treatment exists for the Bundibugyo strain, and without immediate financing the response is at risk of collapse.\n\n\n\nADDIS ABABA, 30 June 2026. Africa CDC commends the Government of the Democratic Republic of the Congo, clinical investigators, and development",
-      "tag": "response"
-    },
-    {
       "title": "Аралас оқыту жағдайында химия пәні мұғалімінің көптілділік құзіреттілігін қалыптастыру жолдары",
       "link": "https://doi.org/10.47344/w4bp2y46",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -226,10 +268,31 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Africa CDC calls for urgent US$18 million to close the funding gap on critical research ready to commence",
+      "link": "https://africacdc.org/news-item/africa-cdc-calls-for-urgent-us22-million-to-close-funding-gap-and-stop-bundibugyo-ebola-outbreak/",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "Clinical trials for Ebola therapeutics must begin this week. No licensed vaccine or treatment exists for the Bundibugyo strain, and without immediate financing the response is at risk of collapse.\n\n\n\nADDIS ABABA, 30 June 2026. Africa CDC commends the Government of the Democratic Republic of the Congo, clinical investigators, and development",
+      "tag": "response"
+    },
+    {
+      "title": "Evaluation of clinical, laboratory, and epidemiological features of children with Kawasaki disease",
+      "link": "https://doi.org/10.1017/s1047951126113717",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1017/s1047951126113717\nAuthors: Zelal Aydin, Alper Akın, Mehmet Ture, Ilyas Yolbaş\n Abstract \n                   \n                     Objectives: \n                     Kawasaki disease is a systemic vasculitis of unknown aetiology that is usually seen",
+      "tag": "analysis"
+    },
+    {
       "title": "Admission complete blood count-derived inflammatory indices for risk stratification in hemorrhagic fever with renal syndrome: comparative performance of NLR, PLR, SII, LMR, and the neutrophil-to-red blood cell ratio",
       "link": "https://doi.org/10.3389/fimmu.2026.1863714",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fimmu.2026.1863714\nAuthors: Zhuoran Xiao, Xingchi Chen, Min Wei, Shasha Wu, Shuxiang Zhao, Dandan Suo, Shangying Zhao, Meng Li, Xiaofei Yang, Chao Fan, Jianqi Lian, Chuantao Ye, Jing Zhang\n \n                     Background \n                     Hemorrhagic fever with renal syndrome (HFRS) requires",
+      "tag": "analysis"
+    },
+    {
+      "title": "The Emerging Adult Congenital Heart Disease Crisis in Pakistan: From Surgical Triumph to Systems Failure",
+      "link": "https://doi.org/10.47144/phj.v59i3.3761",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.47144/phj.v59i3.3761\nAuthors: Aliya Kemal Ahsan, Makhdoom Bilawal, Syed Waseem Jamalvi, Abdul Sattar Shaikh\n Rheumatic heart disease (RHD) remains one of the leading causes of acquired heart disease among children and adolescents in low- and middle-income countries despite being largely preventable. Although remarkable advances have",
       "tag": "analysis"
     },
     {
@@ -380,10 +443,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Public health considerations for preventing crimean-congo haemorrhagic fever in Islamic Republic of Iran",
-      "link": "https://doi.org/10.26719/2026.32.6.399",
+      "title": "Spectrum of Bloodstream Pathogens and Their Antimicrobial Susceptibility Patterns in a Tertiary Care Setting: A Retrospective Observational Study",
+      "link": "https://doi.org/10.3126/mjen.v5i01.96385",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.26719/2026.32.6.399\nAuthors: Jalil Nejati",
+      "desc": "DOI: 10.3126/mjen.v5i01.96385\nAuthors: Abhishek Karmacharya, Subrata Pokhrel, Damodar Sharma, Chetan Khadka, Nickey Pradhan, Navindra Phuyal\n Background \nWith a high mortality rate, bloodstream infections (BSI) are a serious worldwide public health burden. Delay in therapy has a significant impact on Patient’s outcomes, and rapid and precis",
       "tag": "analysis"
     },
     {
@@ -401,17 +464,17 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Spectrum of Bloodstream Pathogens and Their Antimicrobial Susceptibility Patterns in a Tertiary Care Setting: A Retrospective Observational Study",
-      "link": "https://doi.org/10.3126/mjen.v5i01.96385",
+      "title": "Public health considerations for preventing crimean-congo haemorrhagic fever in Islamic Republic of Iran",
+      "link": "https://doi.org/10.26719/2026.32.6.399",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3126/mjen.v5i01.96385\nAuthors: Abhishek Karmacharya, Subrata Pokhrel, Damodar Sharma, Chetan Khadka, Nickey Pradhan, Navindra Phuyal\n Background \nWith a high mortality rate, bloodstream infections (BSI) are a serious worldwide public health burden. Delay in therapy has a significant impact on Patient’s outcomes, and rapid and precis",
+      "desc": "DOI: 10.26719/2026.32.6.399\nAuthors: Jalil Nejati",
       "tag": "analysis"
     },
     {
-      "title": "Aromatic basil (Ocimum x africanum Lour.) tea as a biolarvacide in dengue haemorrhagic fever",
-      "link": "https://doi.org/10.34011/jmp2k.v36i2.4533",
+      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
+      "link": "https://doi.org/10.33897/fumj.v8i1.251",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.34011/jmp2k.v36i2.4533\nAuthors: Citra Amaniah Anhar, Dewi Inderiati, Diah Lestari, Gina Argiyanti\n Background: Dengue Haemorrhagic Fever is a health problem transmitted by the Aedes aegypti mosquito. Dengue fever control currently still uses chemical larvicides (ABATE) that can pose health and environmental risks, thus requiring natu",
+      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
       "tag": "analysis"
     },
     {
@@ -422,10 +485,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
-      "link": "https://doi.org/10.33897/fumj.v8i1.251",
+      "title": "Aromatic basil (Ocimum x africanum Lour.) tea as a biolarvacide in dengue haemorrhagic fever",
+      "link": "https://doi.org/10.34011/jmp2k.v36i2.4533",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
+      "desc": "DOI: 10.34011/jmp2k.v36i2.4533\nAuthors: Citra Amaniah Anhar, Dewi Inderiati, Diah Lestari, Gina Argiyanti\n Background: Dengue Haemorrhagic Fever is a health problem transmitted by the Aedes aegypti mosquito. Dengue fever control currently still uses chemical larvicides (ABATE) that can pose health and environmental risks, thus requiring natu",
+      "tag": "analysis"
+    },
+    {
+      "title": "The PEARL toolkit: Using sand flies to identify leishmaniasis animal reservoirs",
+      "link": "https://doi.org/10.64898/2026.06.27.734966",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.27.734966\nAuthors: Eva Iniguez, Patrick Huffcutt, Tiago Donatelli Serafim, Pedro Cecilio, Serena Doh, Aaron Pugh, Johannes Doehl, Claudio Meneses, Ben Lambert, Jesus G. Valenzuela, Shaden Kamhawi\n In many leishmaniasis foci, reservoirs that maintain infection remain unknown. Here, we developed a field-applicable toolkit",
       "tag": "analysis"
     },
     {
@@ -440,13 +510,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1136/sextrans-2025-056863",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1136/sextrans-2025-056863\nAuthors: Caroline G Watts, Louise M Causer, Susan J Matthews, Kirsty Smith, Kelly Andrewartha, Annie Tangey, Ben B Hui, Rae-Lin Huang, David Anderson, Steven G Badman, Basil Donovan, Christopher K Fairley, Manoji Gunathilake, Belinda Hengel, John Kaldor, Lisa Maher, Donna B Mak, David Persing, David G Regan, Mark D",
-      "tag": "analysis"
-    },
-    {
-      "title": "The PEARL toolkit: Using sand flies to identify leishmaniasis animal reservoirs",
-      "link": "https://doi.org/10.64898/2026.06.27.734966",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.27.734966\nAuthors: Eva Iniguez, Patrick Huffcutt, Tiago Donatelli Serafim, Pedro Cecilio, Serena Doh, Aaron Pugh, Johannes Doehl, Claudio Meneses, Ben Lambert, Jesus G. Valenzuela, Shaden Kamhawi\n In many leishmaniasis foci, reservoirs that maintain infection remain unknown. Here, we developed a field-applicable toolkit",
       "tag": "analysis"
     },
     {
@@ -469,6 +532,13 @@ window.FEED_DATA = {
       "pubDate": "Sun, 28 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.52774/jkfn.v9i1.510\nAuthors: Ferry Diana Karmilasari, Neni Oktavia, Ulva Hari Andini, Ratih Eka Fitrianingrum\n Dengue Hemorrhagic Fever (DHF) remains a public health problem that requires active community involvement in prevention and emergency preparedness efforts. The disease is caused by the dengue virus, transmitted by Aedes aegy",
       "tag": "response"
+    },
+    {
+      "title": "Vacunas frente al ébola",
+      "link": "https://doi.org/10.63105/50.494.9",
+      "pubDate": "Sun, 28 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.63105/50.494.9\nAuthors: Rosario Cáceres Fernández-Bolaños\n La enfermedad por el virus del ébola (EVE) constituye una de las infecciones virales más letales conocidas y representa una amenaza persistente para la salud pública mundial. Aunque los brotes se han concentrado históricamente en África subsahariana, la elevada mortalidad de",
+      "tag": "analysis"
     },
     {
       "title": "Lessons in the Wake of a Lassa fever case in the Midwest U.S: epidemiology, management and preparedness gaps",
@@ -849,6 +919,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Analisis Implementasi Clinical pathway terhadap Length of Stay (LOS) dan Biaya Perawatan Pasien Anak dengan Demam Berdarah Dengue (DBD) di RSI NU Demak Authors",
+      "link": "https://doi.org/10.7454/eki.v11i1.1181",
+      "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.7454/eki.v11i1.1181\n Clinical pathway (CP) is a quality and cost control instrument in hospitals designed to ensure service standardization, efficiency of Length of Stay (LOS), and control of healthcare costs. Dengue Haemorrhagic Fever (DHF) in children is an infectious disease that often requires hospitalization, with considerable v",
+      "tag": "analysis"
+    },
+    {
       "title": "Single-cell multiomics of neuron activation reveals context-specific genetics of brain disorders",
       "link": "https://doi.org/10.1126/science.adw3949",
       "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
@@ -975,13 +1052,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction - foreignpolicyjournal.com",
-      "link": "https://www.foreignpolicyjournal.com/2026/06/24/congo-ebola-outbreak-sets-record-first-month-case-count-as-kenya-halts-us-quarantine-facility-construction/",
-      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
-      "desc": "-- Kenya. Significance Rating: 1 Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction&nbsp;&nbsp;foreignpolicyjournal.com",
-      "tag": "analysis"
-    },
-    {
       "title": "France confirms first Ebola case linked to DR Congo outbreak - Eye Radio",
       "link": "https://www.eyeradio.org/france-confirms-first-ebola-case-linked-to-dr-congo-outbreak/",
       "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
@@ -1007,6 +1077,13 @@ window.FEED_DATA = {
       "link": "https://www.abc.net.au/news/2026-06-24/france-detects-first-ebola-case-outside-africa-in-current-outbre/106838794",
       "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DRC&nbsp;&nbsp;Australian Broadcasting Corporation",
+      "tag": "analysis"
+    },
+    {
+      "title": "Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction - foreignpolicyjournal.com",
+      "link": "https://www.foreignpolicyjournal.com/2026/06/24/congo-ebola-outbreak-sets-record-first-month-case-count-as-kenya-halts-us-quarantine-facility-construction/",
+      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
+      "desc": "-- Kenya. Significance Rating: 1 Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction&nbsp;&nbsp;foreignpolicyjournal.com",
       "tag": "analysis"
     },
     {
@@ -1101,6 +1178,20 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
+      "title": "France reports Ebola case in doctor returning from DRC - Business Day",
+      "link": "https://www.businessday.co.za/world/europe/2026-06-24-france-reports-ebola-case-in-doctor-returning-from-drc/",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports Ebola case in doctor returning from DRC&nbsp;&nbsp;Business Day",
+      "tag": "analysis"
+    },
+    {
+      "title": "France confirms first Ebola case in doctor returning from Congo humanitarian mission - Emirates 24|7",
+      "link": "https://www.emirates247.com/world/france-confirms-first-ebola-case-in-doctor-returning-from-congo-humanitarian-mission/2936",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case in doctor returning from Congo humanitarian mission&nbsp;&nbsp;Emirates 24|7",
+      "tag": "analysis"
+    },
+    {
       "title": "France Reports First Ebola Case Linked to Congo Outbreak - Yahoo",
       "link": "https://www.yahoo.com/news/videos/france-reports-first-ebola-case-123000368.html",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
@@ -1119,13 +1210,6 @@ window.FEED_DATA = {
       "link": "https://www.forbes.com/sites/maryroeloffs/2026/06/24/frances-first-ever-ebola-case-diagnosed-in-doctor-returning-from-congo-live-updates/",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "-- France. Significance Rating: 1 Ebola Outbreak Spreads Outside Africa As France Diagnoses First Case&nbsp;&nbsp;Forbes",
-      "tag": "analysis"
-    },
-    {
-      "title": "France reports Ebola case in doctor returning from DRC - Business Day",
-      "link": "https://www.businessday.co.za/world/europe/2026-06-24-france-reports-ebola-case-in-doctor-returning-from-drc/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France reports Ebola case in doctor returning from DRC&nbsp;&nbsp;Business Day",
       "tag": "analysis"
     },
     {
@@ -1150,10 +1234,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "France confirms first Ebola case in doctor returning from Congo humanitarian mission - Emirates 24|7",
-      "link": "https://www.emirates247.com/world/france-confirms-first-ebola-case-in-doctor-returning-from-congo-humanitarian-mission/2936",
+      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
+      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case in doctor returning from Congo humanitarian mission&nbsp;&nbsp;Emirates 24|7",
+      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
       "tag": "analysis"
     },
     {
@@ -1168,13 +1252,6 @@ window.FEED_DATA = {
       "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
-      "tag": "analysis"
-    },
-    {
-      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
-      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
       "tag": "analysis"
     },
     {
@@ -1227,17 +1304,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Study Showing Benefits Of Covid Vaccine Published In AMA Journal After CDC Refused To Run It In Theirs",
-      "link": "https://kffhealthnews.org/morning-breakout/vaccines-062426/",
-      "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
-      "desc": "A study on Covid vaccines that the Centers for Disease Control and Prevention’s acting director blocked from publication came out Tuesday in a different journal. The findings show that Covid vaccines reduced the likelihood of severe illness by about half among adults last fall and winter.",
-      "tag": "analysis"
-    },
-    {
       "title": "Today, June 24",
       "link": "https://kffhealthnews.org/morning-briefing/wednesday-june-24-2026/",
       "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
       "desc": "Tears glazed Daniel Cressy’s face as he became the first patient in the Gulf South to be functionally cured of sickle cell disease through gene editing on Monday. He said it felt like being reborn. “ God has given me another life, a new chapter. I was able to experience a second birthday, something....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Study Showing Benefits Of Covid Vaccine Published In AMA Journal After CDC Refused To Run It In Theirs",
+      "link": "https://kffhealthnews.org/morning-breakout/vaccines-062426/",
+      "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
+      "desc": "A study on Covid vaccines that the Centers for Disease Control and Prevention’s acting director blocked from publication came out Tuesday in a different journal. The findings show that Covid vaccines reduced the likelihood of severe illness by about half among adults last fall and winter.",
       "tag": "analysis"
     },
     {
@@ -1479,11 +1556,25 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Remote Patient Monitoring",
-      "link": "https://doi.org/10.1039/9781837677771-00254",
+      "title": "Healthcare-associated transmission and early IPC system vulnerabilities during the 2026 Bundibugyo Ebola outbreak in eastern Democratic Republic of the Congo",
+      "link": "https://doi.org/10.1186/s13756-026-01779-8",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1039/9781837677771-00254\nAuthors: Merve Asena Özbek, Merve Çalışır, Erdoğan Özgür\n The challenges in treating chronic and infectious viral diseases have driven the search for new methods, with remote patient monitoring (RPM) emerging as a key technological approach. Sensor-integrated RPM enables real-time patient tracking, easing the",
+      "desc": "DOI: 10.1186/s13756-026-01779-8\nAuthors: Ben Bepouka, Mardoche Kafua",
       "tag": "analysis"
+    },
+    {
+      "title": "Projected epidemiologic and economic impact of the 7-1-7 outbreak response framework in Uganda: a stochastic modelling study of Bundibugyo Ebola virus",
+      "link": "https://doi.org/10.21203/rs.3.rs-10019597/v1",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10019597/v1\nAuthors: Abel W. Walekhwa, Sheetal Prakash Silal, Paul Mbaka, Mudarshiru Bbuye, Lydia Nakiire, Mohammed Lamorde, Benon Kwesiga, Wilber Sabiiti, Brenda Nakazibwe, Joshua Kayiwa, Mary Nantongo, Patrick Albert Ipola, Peter Kungu, Alex R. Ario, Atek Kagirita, Bernard Lubwama, Allan N. Muruta, Charles Olaro, Monica Muse",
+      "tag": "response"
+    },
+    {
+      "title": "Bundibugyo Virus Disease in 2026 — Clinical and Public Health Responses",
+      "link": "https://doi.org/10.1056/nejmra2607216",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1056/nejmra2607216\nAuthors: Nancy J. Sullivan",
+      "tag": "response"
     },
     {
       "title": "Astrocytic VPS35 coordinates iron homeostasis with HIF1α-VEGFa signaling to prevent astrocytic ferroptosis and to promote neocortical angiogenesis",
@@ -1507,31 +1598,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Healthcare-associated transmission and early IPC system vulnerabilities during the 2026 Bundibugyo Ebola outbreak in eastern Democratic Republic of the Congo",
-      "link": "https://doi.org/10.1186/s13756-026-01779-8",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s13756-026-01779-8\nAuthors: Ben Bepouka, Mardoche Kafua",
-      "tag": "analysis"
-    },
-    {
-      "title": "Bundibugyo Virus Disease in 2026 — Clinical and Public Health Responses",
-      "link": "https://doi.org/10.1056/nejmra2607216",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1056/nejmra2607216\nAuthors: Nancy J. Sullivan",
-      "tag": "response"
-    },
-    {
-      "title": "Projected epidemiologic and economic impact of the 7-1-7 outbreak response framework in Uganda: a stochastic modelling study of Bundibugyo Ebola virus",
-      "link": "https://doi.org/10.21203/rs.3.rs-10019597/v1",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10019597/v1\nAuthors: Abel W. Walekhwa, Sheetal Prakash Silal, Paul Mbaka, Mudarshiru Bbuye, Lydia Nakiire, Mohammed Lamorde, Benon Kwesiga, Wilber Sabiiti, Brenda Nakazibwe, Joshua Kayiwa, Mary Nantongo, Patrick Albert Ipola, Peter Kungu, Alex R. Ario, Atek Kagirita, Bernard Lubwama, Allan N. Muruta, Charles Olaro, Monica Muse",
-      "tag": "response"
-    },
-    {
       "title": "Clinical Characteristics of Patients Infected with Bundibugyo Virus, DRC 2026",
       "link": "https://doi.org/10.1056/nejmc2608070",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1056/nejmc2608070\nAuthors: Pierre Akilimali, Dav M. Ebengo, Samuel V. Scarpino, Adrienne Amuri-Aziza, Tony Wawina-Bokalanga, Placide Matondo-Mbundu, Benjamin Kanku, Eddy Kinganda-Lusamaki, Jean-Claude Makangara, Daniel Mukadi-Bamuleka, Amanda Rojek, Moritz U.G. Kraemer, Christian Ngandu, Dieudonné Mwamba, Placide Mbala-Kingebeni",
+      "tag": "analysis"
+    },
+    {
+      "title": "Remote Patient Monitoring",
+      "link": "https://doi.org/10.1039/9781837677771-00254",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1039/9781837677771-00254\nAuthors: Merve Asena Özbek, Merve Çalışır, Erdoğan Özgür\n The challenges in treating chronic and infectious viral diseases have driven the search for new methods, with remote patient monitoring (RPM) emerging as a key technological approach. Sensor-integrated RPM enables real-time patient tracking, easing the",
       "tag": "analysis"
     },
     {
@@ -1549,10 +1626,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "La RDC et l’Ouganda lancent un plan transfrontalier de 90 jours pour renforcer la réponse à Aru.",
-      "link": "https://insp.cd/la-rdc-et-louganda-lancent-un-plan-transfrontalier-de-90-jours-pour-renforcer-la-reponse-a-aru/",
+      "title": "Simply following the rules: race and the immunologics of Ebola response in Sierra Leone",
+      "link": "https://doi.org/10.1080/14735784.2025.2540268",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "juin 24, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nAru, La République Démocratique du Congo et la République de l’Ouganda ont franchi une étape majeure dans la lutte contre la Maladie à Virus Ebola (MVE) avec le lancement officiel d’un Pl",
+      "desc": "DOI: 10.1080/14735784.2025.2540268\nAuthors: Adia Benton",
       "tag": "response"
     },
     {
@@ -1570,10 +1647,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Simply following the rules: race and the immunologics of Ebola response in Sierra Leone",
-      "link": "https://doi.org/10.1080/14735784.2025.2540268",
+      "title": "La RDC et l’Ouganda lancent un plan transfrontalier de 90 jours pour renforcer la réponse à Aru.",
+      "link": "https://insp.cd/la-rdc-et-louganda-lancent-un-plan-transfrontalier-de-90-jours-pour-renforcer-la-reponse-a-aru/",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1080/14735784.2025.2540268\nAuthors: Adia Benton",
+      "desc": "juin 24, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nAru, La République Démocratique du Congo et la République de l’Ouganda ont franchi une étape majeure dans la lutte contre la Maladie à Virus Ebola (MVE) avec le lancement officiel d’un Pl",
       "tag": "response"
     },
     {
@@ -1724,13 +1801,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Epidemiological study of Crimean- Congo haemorrhagic fever in Thi Qar (2023–2024): assessing the role of tick bites, household animals, slaughter and fresh meat exposure in disease transmission",
-      "link": "https://doi.org/10.1007/s13337-026-00968-8",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1007/s13337-026-00968-8\nAuthors: Saja Abdalkadhum Hommod, Azhar kareem Razzaq, Ali B. Roomi",
-      "tag": "analysis"
-    },
-    {
       "title": "Early-Onset Somatic Delusional Presentation: A Case Report and Two-Decade Comparative Synthesis",
       "link": "https://doi.org/10.18502/ijps.v21i3.21870",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
@@ -1752,18 +1822,25 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Déclaration d’Africa CDC à l’issue de la Réunion de Haut Niveau sur la Riposte à Ebola en République Démocratique du Congo",
-      "link": "https://africacdc.org/news-item/declaration-dafrica-cdc-a-lissue-de-la-reunion-de-haut-niveau-sur-la-riposte-a-ebola-en-republique-democratique-du-congo/",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "Aujourd’hui, 23 juin 2026, Africa CDC a participé à une réunion de haut niveau tenue en présence de S.E. Évariste Ndayishimiye, Président de la République du Burundi et Président de l’Union africaine, et de S.E. Félix Tshisekedi, Président de la République démocratique du Congo, ainsi que du Premier Ministre de la République démocratique du",
-      "tag": "analysis"
-    },
-    {
       "title": "Latent cytomegalovirus disrupts innate NK cell responses to P. falciparum and impairs parasite control in first infection in adults",
       "link": "https://doi.org/10.1371/journal.ppat.1014372",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1371/journal.ppat.1014372\nAuthors: Reena Mukhiya, Jessica R. Loughland, Nick L. Dooley, Zuleima Pava, Damian Oyong, Dean W. Andrew, Julianne Hamelink, Kiana Berry, James S. McCarthy, Bridget E. Barber, J. Alejandro Lopez, Christian R. Engwerda, Michelle J. Boyle\n \n                    NK cells are innate and adaptive responders to mal",
       "tag": "response"
+    },
+    {
+      "title": "Epidemiological study of Crimean- Congo haemorrhagic fever in Thi Qar (2023–2024): assessing the role of tick bites, household animals, slaughter and fresh meat exposure in disease transmission",
+      "link": "https://doi.org/10.1007/s13337-026-00968-8",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1007/s13337-026-00968-8\nAuthors: Saja Abdalkadhum Hommod, Azhar kareem Razzaq, Ali B. Roomi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Déclaration d’Africa CDC à l’issue de la Réunion de Haut Niveau sur la Riposte à Ebola en République Démocratique du Congo",
+      "link": "https://africacdc.org/news-item/declaration-dafrica-cdc-a-lissue-de-la-reunion-de-haut-niveau-sur-la-riposte-a-ebola-en-republique-democratique-du-congo/",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
+      "desc": "Aujourd’hui, 23 juin 2026, Africa CDC a participé à une réunion de haut niveau tenue en présence de S.E. Évariste Ndayishimiye, Président de la République du Burundi et Président de l’Union africaine, et de S.E. Félix Tshisekedi, Président de la République démocratique du Congo, ainsi que du Premier Ministre de la République démocratique du",
+      "tag": "analysis"
     },
     {
       "title": "Crimean-congo haemorrhagic fever virus in ticks and small ruminants in western Iran: epidemiological insights and genotyping",
@@ -1794,27 +1871,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "When it could have been prevented: A maternal death from postpartum hemorrhage due to genital tract lesions complicated by urinary fistula in an Ebola treatment unit in DR Congo",
-      "link": "https://doi.org/10.1186/s12884-026-09271-2",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s12884-026-09271-2\nAuthors: Prince Imani-Musimwa, Emilie Grant, Daniel Mukadi-Bamuleka, Zacharie Tsongo-Kibendelwa, Rigo Fraterne-Muhayangabo, Placide Mbala-Kingebeni, Richard Kitenge-Omasumbu, Théophile Barhwamire-Kabesha, Olivier Nyakio-Ngeleza, Juakali Sihali-Kyolov, Micheline Feza-Malira, Baudouin Manwa-Budwaga, Desiré Alumeti-Muny",
-      "tag": "analysis"
-    },
-    {
-      "title": "Fluoxetine disrupts cholesterol metabolism in endothelial cells via SREBP2 activation",
-      "link": "https://doi.org/10.1038/s41398-026-04197-x",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/s41398-026-04197-x\nAuthors: Fabiana Oliveira, Christina Papa, Tobias Hagemann, Ruby Schipper, Florian Geier, Tino Röxe, Faiqa Zulfqar, Christoph Prönnecke, Lisa Schmidt, Hryhoriy Stryhanyuk, Anne Hoffmann, Anastasia Kyselova, Christina Karantanou, Yuli Buckley, Muhammad Asad Farhan, Jesús Rafael Rodríguez-Aguilera, Saira Ambreen, He Ya",
-      "tag": "analysis"
-    },
-    {
-      "title": "Recurrent and unusual infections unmasking a rare inborn error of immunity: a case report RAS-associated Autoimmune Lymphoproliferative Disease (RALD)",
-      "link": "https://doi.org/10.1186/s12887-026-07194-7",
-      "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s12887-026-07194-7\nAuthors: Mohamad Qazreen Ahmad Shawaludin, Mohd Anas Che Nik, Zarina Thasneem Zainudeen, Fahisham Taib, Intan Juliana Abd Hamid",
-      "tag": "analysis"
-    },
-    {
       "title": "Spreading α-synuclein rewires organelle communication and impairs neuron-astrocyte mitochondrial quality control",
       "link": "https://doi.org/10.64898/2026.06.19.733342",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
@@ -1827,62 +1883,6 @@ window.FEED_DATA = {
       "pubDate": "Tue, 23 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/ijms27135661\nAuthors: Sezer Akgöl, Fatih Kocabaş\n Crimean–Congo hemorrhagic fever virus (CCHFV) remains a major public health threat due to its high mortality rates and the absence of approved antiviral therapies. The viral ovarian tumor (OTU) protease is a critical virulence factor that suppresses host innate immunity through i",
       "tag": "analysis"
-    },
-    {
-      "title": "Congo Ebola Crisis Escalates With Over 1,000 Cases And 254 Deaths - RTTNews",
-      "link": "https://www.rttnews.com/amp/3661769/congo-ebola-crisis-escalates-with-over-1000-cases-and-254-deaths.aspx",
-      "pubDate": "Mon, 22 Jun 2026 23:26:00 Z",
-      "desc": "COVID-19 -- United States. Significance Rating: 1 Congo Ebola Crisis Escalates With Over 1,000 Cases And 254 Deaths&nbsp;&nbsp;RTTNews",
-      "tag": "cases"
-    },
-    {
-      "title": "Elana Rosenthal",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Rosenthal+E&cauthor_id=42330593",
-      "pubDate": "Mon, 22 Jun 2026 23:02:00 Z",
-      "desc": "McGonigle K, Catalanotti JS, Kattakuzhy S, Rosenthal E , Traver EC, Brokus C, Carpenter J, Steck A, Eaton E, Reece R, Mai W, Notis M, Akselrod H, Kuo I. McGonigle K, et al. Among authors: rosenthal e Drug Alcohol Depend. 2026 Jun 17;285:113237. doi: 10.1016/j.drugalcdep.2026.113237. Online ahead of print.",
-      "tag": "analysis"
-    },
-    {
-      "title": "22 Jun 2026 - Bundibugyo virus disease outbreak in DRC and Uganda: More than 1000 cases and 254 deaths reported in DRC; one new case reported in Uganda",
-      "link": "https://beaconbio.org/en/report/?reportid=ad2f2be5-32c5-4d28-a32b-860a1fdef1cd",
-      "pubDate": "Mon, 22 Jun 2026 22:22:00 Z",
-      "desc": "Sources Ebola cases surpass 1,000 in DR Congo amid violence and displacement, Al Jazeera, 22 Jun 2026 Ebola Situation Update – June 20, 2026, Manual submission, 22 Jun 2026 Ebola infects more than 1,000 in Congo, spreads to kill toddler in new camp, Reuters, 22 Jun 2026 Global Ebola cases top 1,000 as UN races to reach DR Congo’s most vulnerable, U",
-      "tag": "cases"
-    },
-    {
-      "title": "Podcast ID Advocacy in Action: Shaping Policy Ahead of the Midterms June 20, 2026",
-      "link": "https://www.idsociety.org/multimedia/podcasts/id-advocacy-in-action-shaping-policy-ahead-of-the-midterms/",
-      "pubDate": "Mon, 22 Jun 2026 21:42:00 Z",
-      "desc": "Mati Hlatshwayo Davis: [00:00:14] Hello and welcome to Let's Talk ID. My name is Mati Hlatshwayo Davis. I'm the executive vice president and chief strategy officer at Missouri Foundation for Health. And I'm also on the board of directors for IDSA. I am thrilled to have Amanda Jezek with me today.",
-      "tag": "analysis"
-    },
-    {
-      "title": "EpidBot: A Natural Language Platform for Generalized Epidemic Intelligence",
-      "link": "https://www.medrxiv.org/content/10.64898/2026.06.18.26355985v1?rss=1",
-      "pubDate": "Mon, 22 Jun 2026 21:27:00 Z",
-      "desc": "Abstract. Public health professionals have access to more data than ever before. Yet answering a relatively simple epidemiological question often requires navigating multiple databases, formats, software tools, and reporting systems. As a result, valuable data often remain locked behind technical....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Desinformación, el verdadero reto en el brote de ébola - peninsula360press.com",
-      "link": "https://peninsula360press.com/es_mx/brote-de-ebola/",
-      "pubDate": "Mon, 22 Jun 2026 21:26:00 Z",
-      "desc": "Fever -- Uganda. Significance Rating: 3 Desinformación, el verdadero reto en el brote de ébola&nbsp;&nbsp;peninsula360press.com",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola outbreak in DR Congo tops 1,000 cases, at least 254 dead",
-      "link": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-tops-1000-cases-least-254-dead",
-      "pubDate": "Mon, 22 Jun 2026 20:22:00 Z",
-      "desc": "in the Democratic Republic of the Congo (DRC) confirmed there were now 1,003 cumulative confirmed cases and 254 cumulative deaths in a growing Ebola outbreak in North and South Kivu and Ituri provinces. Neighboring Uganda has 19 cases of the virus, all with links to the DRC, and has not reported any new cases since June 5.",
-      "tag": "cases"
-    },
-    {
-      "title": "RFI: 14 deaths in two weeks reported in Bulungu territory, Kwilu province, DRC; etiology unidentified. RFI on diagnostic testing results, patient demographics, confirmation of case numbers and exposure history",
-      "link": "https://beaconbio.org/en/report/?reportid=8c88a7da-b865-4763-9c9f-2c46d46d3212",
-      "pubDate": "Mon, 22 Jun 2026 19:48:00 Z",
-      "desc": "Event Title: Undiagnosed event, Democratic Republic of the Congo\nEvent URL: https://beaconbio.org/en/event/?eventid=af81c25b-083f-44cd-9507-e03dbec46587\n\nSources RDC: 14 décès enregistrés au Kwilu de suite d'une maladie inédite (Député national), Manual submission, 22 Jun 2026 Une maladie inconnue fait 14 morts en 2 semaines dans le territoire de B",
-      "tag": "cases"
     }
   ],
   "highWater": {
