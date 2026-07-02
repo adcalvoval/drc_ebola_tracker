@@ -4,3 +4,5 @@ __pycache__/
 .env
 fetch_feed.log
 .claude/
+
+.vercel
