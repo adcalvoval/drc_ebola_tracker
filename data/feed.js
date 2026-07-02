@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 02 Jul 2026 14:05:45 Z",
-  "fetchedAt": "2026-07-02T14:05:45Z",
+  "lastBuildDate": "Thu, 02 Jul 2026 16:51:07 Z",
+  "fetchedAt": "2026-07-02T16:51:08Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -139,10 +139,52 @@ window.FEED_DATA = {
   },
   "items": [
     {
+      "title": "A small clinic becomes the frontline: how Sota is learning to fight Ebola while still treating everyday illness",
+      "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/small-clinic-becomes-frontline-how-sota-learning-fight-ebola-while-still-treating-everyday-illness",
+      "pubDate": "Thu, 02 Jul 2026 16:33:00 Z",
+      "desc": "Sota, Democratic Republic of the Congo — Behind a small wooden window in a newly-erected isolation room, a suspected Ebola patient kept looking out, hoping to see a family member. Outside, orange mesh tape marked the boundary between safety and risk. A few metres away, patients had gathered for routine care at the Sota health facility.",
+      "tag": "cases"
+    },
+    {
+      "title": "James Webb telescope may have discovered a mysterious, never-before-seen substance on Pluto and Titan",
+      "link": "https://www.livescience.com/space/astronomy/james-webb-telescope-may-have-discovered-a-mysterious-never-before-seen-substance-on-pluto-and-titan",
+      "pubDate": "Thu, 02 Jul 2026 15:33:00 Z",
+      "desc": "A new study has identified a very specific wavelength of light missing from both Pluto and Saturn's largest moon, Titan. The surprising signal suggests that these worlds harbor an unknown molecule that has not yet been seen anywhere in the solar system or beyond.",
+      "tag": "analysis"
+    },
+    {
+      "title": "PrEP-associated screening reduces N. gonorrhoeae transmission but increases case notifications among MSM: a modeling study",
+      "link": "https://www.medrxiv.org/content/10.64898/2026.06.30.26356925v1?rss=1",
+      "pubDate": "Thu, 02 Jul 2026 15:04:00 Z",
+      "desc": "Abstract. The rapid scale-up of HIV pre-exposure prophylaxis (PrEP) among men who have sex with men has coincided with rising rates of bacterial sexually transmitted infections (STIs), particularly Neisseria gonorrhoeae. This temporal association has raised concerns that PrEP may be driving a new STI epidemic.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Europe’s First Imported Ebola Case Triggers New Travel Controls and Continent-Wide Preparedness Push",
+      "link": "https://globalbiodefense.com/2026/06/25/europes-first-imported-ebola-case-triggers-new-travel-controls-and-continent-wide-preparedness-push/",
+      "pubDate": "Thu, 02 Jul 2026 13:55:00 Z",
+      "desc": "A humanitarian physician working on the front lines of one of central Africa’s most challenging Ebola outbreaks has become the first confirmed case of the disease on French soil, triggering an urgent contact tracing operation, sweeping new travel restrictions in the Democratic Republic of Congo ,....",
+      "tag": "cases"
+    },
+    {
+      "title": "Uganda Hosts Regional Meeting to Boost Ebola Preparedness Amid Ongoing Outbreak",
+      "link": "https://www.afro.who.int/countries/uganda/news/uganda-hosts-regional-meeting-boost-ebola-preparedness-amid-ongoing-0",
+      "pubDate": "Thu, 02 Jul 2026 13:35:00 Z",
+      "desc": "Kampala, Uganda:— Health leaders from across Africa have convened in Uganda’s capital for a high-level meeting to strengthen regional preparedness and cross-border collaboration in response to the ongoing Bundibugyo Ebola outbreak affecting Uganda and the Democratic Republic of the Congo (DRC).",
+      "tag": "response"
+    },
+    {
       "title": "2 July 2026 News release Patient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease",
       "link": "https://www.who.int/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease",
       "pubDate": "Thu, 02 Jul 2026 12:31:00 Z",
       "desc": "In a major international effort to evaluate potential treatments for Ebola disease due to Bundibugyo virus (BVD), the PARTNERS clinical trial has opened enrolment today for patients in the Democratic Republic of the Congo. The PARTNERS (Platform Adaptive Randomised Trial for New and Repurposed....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola outbreak threatens to push 985,000 into poverty in DRC",
+      "link": "https://www.downtoearth.org.in/africa/ebola-outbreak-threatens-to-push-985000-into-poverty-in-drc",
+      "pubDate": "Thu, 02 Jul 2026 12:17:00 Z",
+      "desc": "UNDP warns DRC’s 17th Ebola outbreak could push 985,000 more people into poverty. It is projected to erase over $1 billion in GDP and 55,000 jobs. Africa-wide, losses may reach $3.6 billion and 328,000 jobs. Women, poor households, health services and education systems will bear the brunt.",
       "tag": "analysis"
     },
     {
@@ -157,6 +199,13 @@ window.FEED_DATA = {
       "link": "https://www.afro.who.int/countries/congo/news/republic-congo-strengthens-ebola-preparedness-points-entry",
       "pubDate": "Thu, 02 Jul 2026 10:34:00 Z",
       "desc": "Brazzaville—Dorothée Bendza, a health control officer, has been deployed at Brazzaville Beach since the declaration of the Ebola disease outbreak in the Democratic Republic of the Congo (DRC). From 8:00 to 16:00, she and her colleague screen passengers. Both are equipped with an infrared thermometer and hand sanitizer.",
+      "tag": "response"
+    },
+    {
+      "title": "Lessons learned from 2022-2025 outbreaks with cross border spread potential",
+      "link": "https://africacdc.org/news-item/lessons-learned-from-2022-2025-outbreaks-with-cross-border-spread-potential/",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
+      "desc": "Evidence from recent African outbreaks of mpox, cholera, Ebola virus disease, and Marburg virus disease shows that successful outbreak responses rely on continuous investments in preparedness rather than reactive measures.\n\n\n\nA narrative synthesis of scientific articles and reports from 2022-2025 on outbreaks by Africa Centres for Disease Co",
       "tag": "response"
     },
     {
@@ -279,17 +328,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
-      "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "Highlights•A BiLSTM-based model enables early interpretation of RT-qPCR amplification curves.•Fluorescence values are accurately predicted using early-cycle qPCR data.•Reliable qualitative classification is achieved using only 27 amplification cycles.•The method reduces required qPCR cycles by approximately 40%.•The approach can be integrated into",
-      "tag": "analysis"
-    },
-    {
       "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
       "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
+      "tag": "analysis"
+    },
+    {
+      "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
+      "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "Highlights•A BiLSTM-based model enables early interpretation of RT-qPCR amplification curves.•Fluorescence values are accurately predicted using early-cycle qPCR data.•Reliable qualitative classification is achieved using only 27 amplification cycles.•The method reduces required qPCR cycles by approximately 40%.•The approach can be integrated into",
       "tag": "analysis"
     },
     {
@@ -298,13 +347,6 @@ window.FEED_DATA = {
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10090145/v1\nAuthors: Tambe Elvis Akem, Eta Calvin Oben\n Abstract \n                 Background\n The 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo (DRC), with cross-border cases in Uganda, evolved amid mobility, insecurity, delayed detection, laboratory constraints, and pressure on",
       "tag": "cases"
-    },
-    {
-      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
-      "link": "https://www.preprints.org/manuscript/202607.0058",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivore, and chiropteran reservoirs, with humans infected mainly through inhalation of aerosolized excreta. They cause two major syndromes: hemorrhagic fever with renal syndrome (HFRS), endemic in Europe and Asia, and ha",
-      "tag": "analysis"
     },
     {
       "title": "Janibacter melonis Bone Marrow Infection in an Immunocompetent Child With Prolonged Fever of Unknown Origin: A case report",
@@ -318,6 +360,20 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1038/s41467-026-74987-w",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1038/s41467-026-74987-w\nAuthors: Aleš Hnízda, Beatriz Martinez-Delgado, Diana Sanchez-Ponce, Javier Alonso, Jeanne Amiel, Tania Attie-Bitach, Ariadna Bada-Navarro, Beatriz Baladron, Eva Bermejo-Sanchez, Vítězslav Brinsa, Ivana Buková, Rosario Cazorla-Calleja, Sylvie Červenková, Shanshan Chow, Petr Dušek, Olha Fedosieieva, Marta Fernandez-Pr",
+      "tag": "analysis"
+    },
+    {
+      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
+      "link": "https://www.preprints.org/manuscript/202607.0058",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivore, and chiropteran reservoirs, with humans infected mainly through inhalation of aerosolized excreta. They cause two major syndromes: hemorrhagic fever with renal syndrome (HFRS), endemic in Europe and Asia, and ha",
+      "tag": "analysis"
+    },
+    {
+      "title": "Elimination of gambiense human African trypanosomiasis as a public health problem in Republic of Guinea: Paving the way for zero transmission",
+      "link": "https://doi.org/10.1371/journal.pntd.0014469",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.pntd.0014469\nAuthors: Moïse Kagbadouno, Oumou Camara, Bailo Mamadou Diallo, Abdoulaye Dansy Camara, Aissata Soumah, Mamadou Leno, Favié Béavogui, Mohamed Diaby Gassama, Issiaga Camara, Bamoro Coulibaly, Dramane Kaba, Aïssata Camara, Salimatou Boiro, Hamidou Ilboudo, Jean-Baptiste Rayaisse, Annette MacLeod, Joseph Ndungu, Sylvai",
       "tag": "analysis"
     },
     {
@@ -335,17 +391,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Brote de hantavirus Andes vinculado a un crucero transatlántico: Evaluación del riesgo para España",
-      "link": "https://doi.org/10.4321/s2173-92772026000200002",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4321/s2173-92772026000200002\nAuthors: María Cruz Calvo-Reyes, Sara Montenegro-Jaramillo, Laura Santos-Larrégola, Pedro Valdivia-Prieto, Lucía García-San Miguel, María José Sierra-Moros\n The Andes hantavirus (ANDV) outbreak linked to a transatlantic cruise ship in May 2026 represented an unusual public health event. A total of 13 case",
-      "tag": "analysis"
-    },
-    {
       "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
       "link": "https://doi.org/10.1161/circgen.125.005653",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1161/circgen.125.005653\nAuthors: Jonas Reckmann, Hendrik Milting, Sabrina Voß, Marco T. Radukic, Franziska Klag, Franziska Flottmann, Alexander Lütkemeyer, Joline Groß, Anna Gärtner, Sandra Landwehr, Dario Anselmetti, Annika Hoyer, Kristian M. Müller, Jan Gummert, Volker Walhorn, Andreas Brodehl\n \n                     BA",
+      "tag": "analysis"
+    },
+    {
+      "title": "Brote de hantavirus Andes vinculado a un crucero transatlántico: Evaluación del riesgo para España",
+      "link": "https://doi.org/10.4321/s2173-92772026000200002",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.4321/s2173-92772026000200002\nAuthors: María Cruz Calvo-Reyes, Sara Montenegro-Jaramillo, Laura Santos-Larrégola, Pedro Valdivia-Prieto, Lucía García-San Miguel, María José Sierra-Moros\n The Andes hantavirus (ANDV) outbreak linked to a transatlantic cruise ship in May 2026 represented an unusual public health event. A total of 13 case",
       "tag": "analysis"
     },
     {
@@ -454,6 +510,13 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
+      "title": "Аралас оқыту жағдайында химия пәні мұғалімінің көптілділік құзіреттілігін қалыптастыру жолдары",
+      "link": "https://doi.org/10.47344/w4bp2y46",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.47344/w4bp2y46\nAuthors: Алия Битемирова, Гулимжан Туймебаева, Бибигуль Шаграева, Гулнар Қылышбаева\n The article discusses effective ways to form multilingual competence of a chemistry teacher in conditions of mixed learning. The emphasis is on the search and justification of methodological approaches that contribute to the assimilati",
+      "tag": "analysis"
+    },
+    {
       "title": "Africa CDC calls for urgent US$18 million to close the funding gap on critical research ready to commence",
       "link": "https://africacdc.org/news-item/africa-cdc-calls-for-urgent-us22-million-to-close-funding-gap-and-stop-bundibugyo-ebola-outbreak/",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -461,11 +524,11 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Аралас оқыту жағдайында химия пәні мұғалімінің көптілділік құзіреттілігін қалыптастыру жолдары",
-      "link": "https://doi.org/10.47344/w4bp2y46",
+      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
+      "link": "https://openalex.org/W7166530626",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.47344/w4bp2y46\nAuthors: Алия Битемирова, Гулимжан Туймебаева, Бибигуль Шаграева, Гулнар Қылышбаева\n The article discusses effective ways to form multilingual competence of a chemistry teacher in conditions of mixed learning. The emphasis is on the search and justification of methodological approaches that contribute to the assimilati",
-      "tag": "analysis"
+      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
+      "tag": "response"
     },
     {
       "title": "Rippling muscle disease due to a &lt;i&gt;CAV3&lt;/i&gt; mutation with myocarditis-like presentation in an adolescent",
@@ -480,13 +543,6 @@ window.FEED_DATA = {
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "Authors: Л. Вакуленко, О. Бабак, Д. Очігава, А. Різник, В. Постовой, А. Обертинський\nChronic kidney disease (CKD) represents a major global health problem because of its high prevalence, significant mortality, and the substantial economic burden associated with renal replacement therapy. Most pediatric cases of CKD are diagnosed at advanced stages,",
       "tag": "cases"
-    },
-    {
-      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
-      "link": "https://openalex.org/W7166530626",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
-      "tag": "response"
     },
     {
       "title": "PTPN13 Contributes to Ebola Virus-Induced Immune Dysregulation via Dephosphorylation of IRF3 and PI3K-p85",
@@ -524,6 +580,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
+      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
+      "tag": "analysis"
+    },
+    {
       "title": "Vancomycin Protects Against Lung Injury and Promotes Butyrate Metabolism",
       "link": "https://openalex.org/W7166546423",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -552,10 +615,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
-      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
+      "title": "Transtheoretical components of evidence-based psychological interventions for stimulant use disorders: a systematically developed taxonomy",
+      "link": "https://doi.org/10.31234/osf.io/bd2yk_v2",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
+      "desc": "DOI: 10.31234/osf.io/bd2yk_v2\nAuthors: Chrysanthi Blithikioti, Camilla Cadorin, Marcella Lucente, Lorena Pizzocri, Giuliano Tomei, Matt Field, Patricia Logullo, Wolfgang Lutz, Toshi A. Furukawa, Ioana Cristea\n Importance: Psychological interventions are a mainstay of treatment for substance use disorders (SUDs), but their ingredients remain unkno",
       "tag": "analysis"
     },
     {
@@ -713,18 +776,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
-      "link": "https://doi.org/10.1093/qjmed/hcag167",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/qjmed/hcag167\nAuthors: Claude Mambo Muvunyi, Emmanuel Edwar Siddig",
-      "tag": "response"
-    },
-    {
       "title": "Public health considerations for preventing crimean-congo haemorrhagic fever in Islamic Republic of Iran",
       "link": "https://doi.org/10.26719/2026.32.6.399",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.26719/2026.32.6.399\nAuthors: Jalil Nejati",
       "tag": "analysis"
+    },
+    {
+      "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
+      "link": "https://doi.org/10.1093/qjmed/hcag167",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/qjmed/hcag167\nAuthors: Claude Mambo Muvunyi, Emmanuel Edwar Siddig",
+      "tag": "response"
     },
     {
       "title": "Aromatic basil (Ocimum x africanum Lour.) tea as a biolarvacide in dengue haemorrhagic fever",
@@ -738,13 +801,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.18203/2320-6012.ijrms20262158",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.18203/2320-6012.ijrms20262158\nAuthors: M. Ashraf Uddin Ahmed, Farzana Yasmin, Mahmood Parvez, Tasnim Mahmud\n Background: Dengue fever, caused by DENV-1-4 serotypes, remains a major public health challenge with clinical manifestations ranging from mild febrile illness to severe complications such as Dengue Hemorrhagic Fever (DHF) and",
-      "tag": "analysis"
-    },
-    {
-      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
-      "link": "https://doi.org/10.33897/fumj.v8i1.251",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
       "tag": "analysis"
     },
     {
@@ -762,10 +818,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "LATE DIAGNOSIS OF CHRONIC KIDNEY DISEASE IN A CHILD WITH A HYPOREFLEXIVE BLADDER: A CASE REPORT AND LITERATURE REVIEW",
-      "link": "https://doi.org/10.24061/2413-4260.xvi.2.60.2026.42",
+      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
+      "link": "https://doi.org/10.33897/fumj.v8i1.251",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.24061/2413-4260.xvi.2.60.2026.42\nAuthors: L. Vakulenko, O. Babak, D. Ochigava, A. Riznyk, V. Postovoi, A. Obertynskyi\n Chronic kidney disease (CKD) represents a major global health problem because of its high prevalence, significant mortality, and the substantial economic burden associated with renal replacement therapy. Most pediatr",
+      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
       "tag": "analysis"
     },
     {
@@ -773,6 +829,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.64898/2026.06.27.734966",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.06.27.734966\nAuthors: Eva Iniguez, Patrick Huffcutt, Tiago Donatelli Serafim, Pedro Cecilio, Serena Doh, Aaron Pugh, Johannes Doehl, Claudio Meneses, Ben Lambert, Jesus G. Valenzuela, Shaden Kamhawi\n In many leishmaniasis foci, reservoirs that maintain infection remain unknown. Here, we developed a field-applicable toolkit",
+      "tag": "analysis"
+    },
+    {
+      "title": "LATE DIAGNOSIS OF CHRONIC KIDNEY DISEASE IN A CHILD WITH A HYPOREFLEXIVE BLADDER: A CASE REPORT AND LITERATURE REVIEW",
+      "link": "https://doi.org/10.24061/2413-4260.xvi.2.60.2026.42",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.24061/2413-4260.xvi.2.60.2026.42\nAuthors: L. Vakulenko, O. Babak, D. Ochigava, A. Riznyk, V. Postovoi, A. Obertynskyi\n Chronic kidney disease (CKD) represents a major global health problem because of its high prevalence, significant mortality, and the substantial economic burden associated with renal replacement therapy. Most pediatr",
       "tag": "analysis"
     },
     {
@@ -1322,13 +1385,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction - foreignpolicyjournal.com",
-      "link": "https://www.foreignpolicyjournal.com/2026/06/24/congo-ebola-outbreak-sets-record-first-month-case-count-as-kenya-halts-us-quarantine-facility-construction/",
-      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
-      "desc": "-- Kenya. Significance Rating: 1 Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction&nbsp;&nbsp;foreignpolicyjournal.com",
-      "tag": "analysis"
-    },
-    {
       "title": "France confirms first Ebola case linked to DR Congo outbreak - Eye Radio",
       "link": "https://www.eyeradio.org/france-confirms-first-ebola-case-linked-to-dr-congo-outbreak/",
       "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
@@ -1354,6 +1410,13 @@ window.FEED_DATA = {
       "link": "https://www.abc.net.au/news/2026-06-24/france-detects-first-ebola-case-outside-africa-in-current-outbre/106838794",
       "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DRC&nbsp;&nbsp;Australian Broadcasting Corporation",
+      "tag": "analysis"
+    },
+    {
+      "title": "Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction - foreignpolicyjournal.com",
+      "link": "https://www.foreignpolicyjournal.com/2026/06/24/congo-ebola-outbreak-sets-record-first-month-case-count-as-kenya-halts-us-quarantine-facility-construction/",
+      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
+      "desc": "-- Kenya. Significance Rating: 1 Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction&nbsp;&nbsp;foreignpolicyjournal.com",
       "tag": "analysis"
     },
     {
@@ -1448,20 +1511,6 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "France reports Ebola case in doctor returning from DRC - Business Day",
-      "link": "https://www.businessday.co.za/world/europe/2026-06-24-france-reports-ebola-case-in-doctor-returning-from-drc/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France reports Ebola case in doctor returning from DRC&nbsp;&nbsp;Business Day",
-      "tag": "analysis"
-    },
-    {
-      "title": "France confirms first Ebola case in doctor returning from Congo humanitarian mission - Emirates 24|7",
-      "link": "https://www.emirates247.com/world/france-confirms-first-ebola-case-in-doctor-returning-from-congo-humanitarian-mission/2936",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case in doctor returning from Congo humanitarian mission&nbsp;&nbsp;Emirates 24|7",
-      "tag": "analysis"
-    },
-    {
       "title": "France Reports First Ebola Case Linked to Congo Outbreak - Yahoo",
       "link": "https://www.yahoo.com/news/videos/france-reports-first-ebola-case-123000368.html",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
@@ -1480,6 +1529,13 @@ window.FEED_DATA = {
       "link": "https://www.forbes.com/sites/maryroeloffs/2026/06/24/frances-first-ever-ebola-case-diagnosed-in-doctor-returning-from-congo-live-updates/",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "-- France. Significance Rating: 1 Ebola Outbreak Spreads Outside Africa As France Diagnoses First Case&nbsp;&nbsp;Forbes",
+      "tag": "analysis"
+    },
+    {
+      "title": "France reports Ebola case in doctor returning from DRC - Business Day",
+      "link": "https://www.businessday.co.za/world/europe/2026-06-24-france-reports-ebola-case-in-doctor-returning-from-drc/",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports Ebola case in doctor returning from DRC&nbsp;&nbsp;Business Day",
       "tag": "analysis"
     },
     {
@@ -1504,6 +1560,20 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "France confirms first Ebola case in doctor returning from Congo humanitarian mission - Emirates 24|7",
+      "link": "https://www.emirates247.com/world/france-confirms-first-ebola-case-in-doctor-returning-from-congo-humanitarian-mission/2936",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case in doctor returning from Congo humanitarian mission&nbsp;&nbsp;Emirates 24|7",
+      "tag": "analysis"
+    },
+    {
+      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
+      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
+      "tag": "analysis"
+    },
+    {
       "title": "France confirms first Ebola case, found in doctor who flew back from Congo | World News - Hindustan Times",
       "link": "https://www.hindustantimes.com/world-news/france-confirms-first-ebola-case-found-in-doctor-who-flew-back-from-congo-101782301890929.html",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
@@ -1515,13 +1585,6 @@ window.FEED_DATA = {
       "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
-      "tag": "analysis"
-    },
-    {
-      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
-      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
       "tag": "analysis"
     },
     {
@@ -1574,17 +1637,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Study Showing Benefits Of Covid Vaccine Published In AMA Journal After CDC Refused To Run It In Theirs",
-      "link": "https://kffhealthnews.org/morning-breakout/vaccines-062426/",
-      "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
-      "desc": "A study on Covid vaccines that the Centers for Disease Control and Prevention’s acting director blocked from publication came out Tuesday in a different journal. The findings show that Covid vaccines reduced the likelihood of severe illness by about half among adults last fall and winter.",
-      "tag": "analysis"
-    },
-    {
       "title": "Today, June 24",
       "link": "https://kffhealthnews.org/morning-briefing/wednesday-june-24-2026/",
       "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
       "desc": "Tears glazed Daniel Cressy’s face as he became the first patient in the Gulf South to be functionally cured of sickle cell disease through gene editing on Monday. He said it felt like being reborn. “ God has given me another life, a new chapter. I was able to experience a second birthday, something....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Study Showing Benefits Of Covid Vaccine Published In AMA Journal After CDC Refused To Run It In Theirs",
+      "link": "https://kffhealthnews.org/morning-breakout/vaccines-062426/",
+      "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
+      "desc": "A study on Covid vaccines that the Centers for Disease Control and Prevention’s acting director blocked from publication came out Tuesday in a different journal. The findings show that Covid vaccines reduced the likelihood of severe illness by about half among adults last fall and winter.",
       "tag": "analysis"
     },
     {
@@ -1823,69 +1886,6 @@ window.FEED_DATA = {
       "link": "https://www.orbitindonesia.com/detail/wn8jdtZE9x/kematian-misterius-di-kamp-kigonze-wabah-ebola-kongo-mengintai",
       "pubDate": "Wed, 24 Jun 2026 03:26:00 Z",
       "desc": "Ebola -- Indonesia. Significance Rating: 1 Kematian Misterius di Kamp Kigonze, Wabah Ebola Kongo Mengintai&nbsp;&nbsp;Orbitindonesia.com",
-      "tag": "analysis"
-    },
-    {
-      "title": "Healthcare-associated transmission and early IPC system vulnerabilities during the 2026 Bundibugyo Ebola outbreak in eastern Democratic Republic of the Congo",
-      "link": "https://doi.org/10.1186/s13756-026-01779-8",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s13756-026-01779-8\nAuthors: Ben Bepouka, Mardoche Kafua",
-      "tag": "analysis"
-    },
-    {
-      "title": "Projected epidemiologic and economic impact of the 7-1-7 outbreak response framework in Uganda: a stochastic modelling study of Bundibugyo Ebola virus",
-      "link": "https://doi.org/10.21203/rs.3.rs-10019597/v1",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10019597/v1\nAuthors: Abel W. Walekhwa, Sheetal Prakash Silal, Paul Mbaka, Mudarshiru Bbuye, Lydia Nakiire, Mohammed Lamorde, Benon Kwesiga, Wilber Sabiiti, Brenda Nakazibwe, Joshua Kayiwa, Mary Nantongo, Patrick Albert Ipola, Peter Kungu, Alex R. Ario, Atek Kagirita, Bernard Lubwama, Allan N. Muruta, Charles Olaro, Monica Muse",
-      "tag": "response"
-    },
-    {
-      "title": "Bundibugyo Virus Disease in 2026 — Clinical and Public Health Responses",
-      "link": "https://doi.org/10.1056/nejmra2607216",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1056/nejmra2607216\nAuthors: Nancy J. Sullivan",
-      "tag": "response"
-    },
-    {
-      "title": "Astrocytic VPS35 coordinates iron homeostasis with HIF1α-VEGFa signaling to prevent astrocytic ferroptosis and to promote neocortical angiogenesis",
-      "link": "https://doi.org/10.1186/s13578-026-01602-2",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s13578-026-01602-2\nAuthors: Anika Wu, Daehoon Lee, Ananya Nadgauda, Emily Arzola, Lei Xiong, Wen-Cheng Xiong\n Abstract \n                   Astrocytes coordinate neuronal activity with vascular development and metabolic homeostasis during postnatal brain maturation, yet the mechanisms enabling astrocytes to",
-      "tag": "analysis"
-    },
-    {
-      "title": "Phenotypic variant of diffuse uterine leiomyomatosis presenting as cellular leiomyoma with retroperitoneal extension: A case report",
-      "link": "https://doi.org/10.5348/100232z08ah2026cr",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5348/100232z08ah2026cr\nAuthors: Akkamahadevi C Hiremath, Brunda Muniswamy, Vivek Tubagere Gururaj\n Introduction: Diffuse uterine leiomyomatosis (DUL) is a rare benign smooth-muscle disorder characterized by diffuse myometrial involvement and uterine enlargement. Its radiologic appearance may mimic malignant or extra-uterine disease,",
-      "tag": "analysis"
-    },
-    {
-      "title": "Recurrent respiratory infections in childhood: Warning signs for primary immunodeficiency",
-      "link": "https://doi.org/10.70164/ihsr.v2i3.196",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.70164/ihsr.v2i3.196\nAuthors: Guilherme Augusto Melo de Oliveira, Júlia da Silveira Malacco, Vitório Brizola Bozetti, Katiele Noronha Casarin, Geórgia Urnau Cerutti\n Recurrent respiratory infections are among the most frequent reasons for pediatric consultation and are usually explained by age, viral exposure, day-care attendance, ato",
-      "tag": "analysis"
-    },
-    {
-      "title": "Clinical Characteristics of Patients Infected with Bundibugyo Virus, DRC 2026",
-      "link": "https://doi.org/10.1056/nejmc2608070",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1056/nejmc2608070\nAuthors: Pierre Akilimali, Dav M. Ebengo, Samuel V. Scarpino, Adrienne Amuri-Aziza, Tony Wawina-Bokalanga, Placide Matondo-Mbundu, Benjamin Kanku, Eddy Kinganda-Lusamaki, Jean-Claude Makangara, Daniel Mukadi-Bamuleka, Amanda Rojek, Moritz U.G. Kraemer, Christian Ngandu, Dieudonné Mwamba, Placide Mbala-Kingebeni",
-      "tag": "analysis"
-    },
-    {
-      "title": "Remote Patient Monitoring",
-      "link": "https://doi.org/10.1039/9781837677771-00254",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1039/9781837677771-00254\nAuthors: Merve Asena Özbek, Merve Çalışır, Erdoğan Özgür\n The challenges in treating chronic and infectious viral diseases have driven the search for new methods, with remote patient monitoring (RPM) emerging as a key technological approach. Sensor-integrated RPM enables real-time patient tracking, easing the",
-      "tag": "analysis"
-    },
-    {
-      "title": "Peningkatan Pengetahuan DBD pada Anggota PKK melalui Edukasi dan Demonstrasi Lapangan",
-      "link": "https://doi.org/10.62951/svargapena.v3i2.218",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.62951/svargapena.v3i2.218\n Dengue Hemorrhagic Fever (DHF) remains a serious public health problem in Indonesia. Active community participation is crucial in efforts to reduce the incidence of DHF. This community service program aims to improve health literacy related to DHF among PKK members in Bandarjo Village, Semarang Regency. The",
       "tag": "analysis"
     }
   ],
