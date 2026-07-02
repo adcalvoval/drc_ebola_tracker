@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 02 Jul 2026 16:51:07 Z",
-  "fetchedAt": "2026-07-02T16:51:08Z",
+  "lastBuildDate": "Thu, 02 Jul 2026 19:26:57 Z",
+  "fetchedAt": "2026-07-02T19:26:58Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -139,6 +139,34 @@ window.FEED_DATA = {
   },
   "items": [
     {
+      "title": "The hantavirus outbreak is over, WHO declares",
+      "link": "https://www.livescience.com/health/viruses-infections-disease/the-hantavirus-outbreak-is-over-who-declares",
+      "pubDate": "Thu, 02 Jul 2026 18:33:00 Z",
+      "desc": "\"WHO will continue working with governments and partners to advance our understanding of this outbreak and of hantavirus more generally,\" Tedros said. \"We are also coordinating a study involving 21 countries to understand how the disease develops, which will support the development of diagnostics, therapeutics and vaccines for future outbreaks.",
+      "tag": "analysis"
+    },
+    {
+      "title": "2 juillet 2026 Communiqué de presse Le recrutement de patients commence dans le cadre d’un essai scientifique visant à identifier les premiers traitements efficaces contre la maladie à virus Bundibugyo",
+      "link": "https://www.who.int/fr/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease",
+      "pubDate": "Thu, 02 Jul 2026 17:54:00 Z",
+      "desc": "Dans le cadre d’une initiative internationale de grande envergure visant à évaluer les traitements potentiels contre la maladie d’Ebola due au virus Bundibugyo (MVB), l’essai clinique PARTNERS a commencé aujourd’hui à recruter des patients et des patientes en République démocratique du Congo.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Hantavirus stability and inactivation",
+      "link": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013781",
+      "pubDate": "Thu, 02 Jul 2026 17:53:00 Z",
+      "desc": "Hantaviruses are zoonotic viruses that can cause highly pathogenic disease, including hantavirus cardiopulmonary syndrome (HCPS) and haemorrhagic fever with renal syndrome (HFRS), in humans with case-fatality rates of up to 50%. However, our understanding of the basic viral life cycle and the....",
+      "tag": "analysis"
+    },
+    {
+      "title": "2 July 2026 News release WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing",
+      "link": "https://www.who.int/news/item/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
+      "pubDate": "Thu, 02 Jul 2026 17:03:00 Z",
+      "desc": "Today, the World Health Organization (WHO) has added the first molecular diagnostic test for Bundibugyo virus (BDBV) to its Emergency Use Listing (EUL) . The test detects the virus by identifying its genetic material in blood samples, helping confirm infection rapidly and accurately.",
+      "tag": "analysis"
+    },
+    {
       "title": "A small clinic becomes the frontline: how Sota is learning to fight Ebola while still treating everyday illness",
       "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/small-clinic-becomes-frontline-how-sota-learning-fight-ebola-while-still-treating-everyday-illness",
       "pubDate": "Thu, 02 Jul 2026 16:33:00 Z",
@@ -207,6 +235,13 @@ window.FEED_DATA = {
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
       "desc": "Evidence from recent African outbreaks of mpox, cholera, Ebola virus disease, and Marburg virus disease shows that successful outbreak responses rely on continuous investments in preparedness rather than reactive measures.\n\n\n\nA narrative synthesis of scientific articles and reports from 2022-2025 on outbreaks by Africa Centres for Disease Co",
       "tag": "response"
+    },
+    {
+      "title": "Inspiring, shaping and sustaining an African research and development agenda",
+      "link": "https://africacdc.org/news-item/inspiring-shaping-and-sustaining-an-african-research-and-development-agenda/",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
+      "desc": "Africa’s repeated exclusion from timely access to vaccines, diagnostics and treatments during major health emergencies—including the COVID-19 pandemic and recent mpox, Marburg virus disease and Ebola outbreaks—has demonstrated the urgent need for the continent to build its own end-to-end research and development (R&D) capacity.\n\n\n\nReliance o",
+      "tag": "analysis"
     },
     {
       "title": "Ebola deaths in Africa top 400 as Uganda reports death of child from Marburg",
@@ -377,6 +412,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Cluster analysis of ME/CFS symptoms in DecodeME reveals two subgroups and a link to onset type",
+      "link": "https://doi.org/10.64898/2026.06.29.26356818",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.29.26356818\nAuthors: Christa St-Jean, Joshua James Dibble, Chris P Ponting, Regina Prigge\n Background: Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a debilitating, often infection-triggered illness with no cure and no effective treatment. Marked symptom heterogeneity hampers diagnosis, disease manageme",
+      "tag": "analysis"
+    },
+    {
       "title": "Beneficial Role of Vitamin D Supplementation and Clinical Outcomes in Patients with Dengue Fever: A Randomised Controlled Trial",
       "link": "https://doi.org/10.7860/jcdr/2026/84141.23889",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -409,6 +451,20 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.71320/bcs.0019",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
+      "tag": "analysis"
+    },
+    {
+      "title": "PIK3CA-Related Overgrowth Syndrome: A Case Report",
+      "link": "https://doi.org/10.5070/rs4.48391",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.5070/rs4.48391\nAuthors: Kathleen M Kilroe, Jamie E Clarke, Maitraya K Patel\n PIK3CA-related overgrowth syndrome (PROS) is characterized by a range of mutations in the phosphoinositide 3-kinase (PI3K) pathway, resulting in diverse and variable imaging findings. Hyperplasia in PROS can affect multiple organ systems and commonly presents wit",
+      "tag": "analysis"
+    },
+    {
+      "title": "An Unusual Etiology of Bayés' Syndrome: Fabry Disease",
+      "link": "https://doi.org/10.1111/anec.70220",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1111/anec.70220\nAuthors: Nicholas E. Kunce, Andre Silva, Mark Haigney, Adam Kisling\n ABSTRACT \n                   We present the case of a 72‐year‐old female with Fabry disease who developed an advanced interatrial conduction block and atrial fibrillation, a condition known as Bayés' syndrome. Fabry disease is",
       "tag": "analysis"
     },
     {
@@ -580,13 +636,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
-      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
-      "tag": "analysis"
-    },
-    {
       "title": "Vancomycin Protects Against Lung Injury and Promotes Butyrate Metabolism",
       "link": "https://openalex.org/W7166546423",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -615,6 +664,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
+      "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10006038/v1\nAuthors: Guolong Qu, Zhenyao Song, Weiming Hou\n Abstract \n                 \n                  Background\n Previous studies have primarily examined associations between the incidence of a single infectious disease and individual meteorological or chemical pollution factors. However, the individual and",
+      "tag": "analysis"
+    },
+    {
       "title": "Transtheoretical components of evidence-based psychological interventions for stimulant use disorders: a systematically developed taxonomy",
       "link": "https://doi.org/10.31234/osf.io/bd2yk_v2",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -622,10 +678,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
-      "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
+      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
+      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10006038/v1\nAuthors: Guolong Qu, Zhenyao Song, Weiming Hou\n Abstract \n                 \n                  Background\n Previous studies have primarily examined associations between the incidence of a single infectious disease and individual meteorological or chemical pollution factors. However, the individual and",
+      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
       "tag": "analysis"
     },
     {
@@ -1831,62 +1887,6 @@ window.FEED_DATA = {
       "pubDate": "Wed, 24 Jun 2026 11:26:00 Z",
       "desc": "Ebola -- France. Significance Rating: 4 Rare Ebola strain confirmed in France as doctor diagnosed with potentially deadly virus&nbsp;&nbsp;Essex Live",
       "tag": "cases"
-    },
-    {
-      "title": "Francia confirma primer caso de ébola",
-      "link": "https://lawebdelasalud.com/francia-confirma-primer-caso-de-ebola/",
-      "pubDate": "Wed, 24 Jun 2026 11:04:00 Z",
-      "desc": "El paciente, un médico que había regresado de una misión humanitaria en una de las zonas donde circula el virus en la República Democrática del Congo (RDC), fue ingresado de inmediato. Con información del SANTE OMS. El Ministerio de Salud, Familias, Autonomía y Personas con Discapacidad de Francia....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola : Un premier cas identifié en France annoncent les autorités sanitaires",
-      "link": "https://www.science-et-vie.com/corps-et-sante/ebola-un-premier-cas-identifie-en-france-annoncent-les-autorites-sanitaires-246776.html",
-      "pubDate": "Wed, 24 Jun 2026 10:59:00 Z",
-      "desc": "Les autorités sanitaires ont annoncé ce mercredi 24 juin un cas d’Ebola en France. Il s’agit d’un médecin de retour de République démocratique du Congo. Depuis l'apparition de ce virus en 1976, c’est la première fois de l’histoire qu’il se retrouve sur le territoire français.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola case detected in France as deadly virus kills 267 and infects 1,000 people in spiralling outbreak - The Sun",
-      "link": "https://www.thesun.co.uk/health/39522716/ebola-france-outbreak-deadly-virus-kills-hundreds/",
-      "pubDate": "Wed, 24 Jun 2026 10:26:00 Z",
-      "desc": "Ebola -- France. Significance Rating: 4 Ebola case detected in France as deadly virus kills 267 and infects 1,000 people in spiralling outbreak&nbsp;&nbsp;The Sun",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola case reported in France following outbreak of rare strain that's killed 267 - Metro.co.uk",
-      "link": "https://metro.co.uk/2026/06/24/france-reports-first-ebola-case-world-health-organisation-declares-emergency-28904557/",
-      "pubDate": "Wed, 24 Jun 2026 10:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 Ebola case reported in France following outbreak of rare strain that's killed 267&nbsp;&nbsp;Metro.co.uk",
-      "tag": "analysis"
-    },
-    {
-      "title": "France reports first Ebola case after doctor returning from DR Congo tests positive - Inbox.lv",
-      "link": "https://news.inbox.lv/150f94y-france-reports-first-ebola-case-after-doctor-returning-from-dr-congo-tests-positive?language=en",
-      "pubDate": "Wed, 24 Jun 2026 10:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France reports first Ebola case after doctor returning from DR Congo tests positive&nbsp;&nbsp;Inbox.lv",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola reaches France as doctor tests positive and outbreak claims hundreds of lives - The Mirror",
-      "link": "https://www.mirror.co.uk/news/world-news/ebola-outbreak-france-congo-europe-37340254",
-      "pubDate": "Wed, 24 Jun 2026 10:26:00 Z",
-      "desc": "Undiagnosed -- France. Significance Rating: 3 Ebola reaches France as doctor tests positive and outbreak claims hundreds of lives&nbsp;&nbsp;The Mirror",
-      "tag": "analysis"
-    },
-    {
-      "title": "Unknown Disease Spreads in Congo: 14 Dead - Zamin.uz",
-      "link": "https://zamin.uz/en/world/208861-unknown-disease-spreads-in-congo-14-dead.html",
-      "pubDate": "Wed, 24 Jun 2026 09:26:00 Z",
-      "desc": "Undiagnosed -- Uzbekistan. Significance Rating: 3 Unknown Disease Spreads in Congo: 14 Dead&nbsp;&nbsp;Zamin.uz",
-      "tag": "analysis"
-    },
-    {
-      "title": "Kematian Misterius di Kamp Kigonze, Wabah Ebola Kongo Mengintai - Orbitindonesia.com",
-      "link": "https://www.orbitindonesia.com/detail/wn8jdtZE9x/kematian-misterius-di-kamp-kigonze-wabah-ebola-kongo-mengintai",
-      "pubDate": "Wed, 24 Jun 2026 03:26:00 Z",
-      "desc": "Ebola -- Indonesia. Significance Rating: 1 Kematian Misterius di Kamp Kigonze, Wabah Ebola Kongo Mengintai&nbsp;&nbsp;Orbitindonesia.com",
-      "tag": "analysis"
     }
   ],
   "highWater": {
