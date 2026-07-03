@@ -28,9 +28,9 @@
   },
   "uga": {
     "cases": {
-      "value": 19,
-      "asOf": "2026-06-15T20:19:16Z",
-      "source": "WHO Disease Outbreak News"
+      "value": 20,
+      "asOf": "2026-07-03T16:26:08Z",
+      "source": "INRB MVE Sitrep"
     },
     "deaths": {
       "value": 2,
