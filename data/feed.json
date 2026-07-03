@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 02 Jul 2026 22:08:37 Z",
-  "fetchedAt": "2026-07-02T22:08:37Z",
+  "lastBuildDate": "Fri, 03 Jul 2026 03:27:51 Z",
+  "fetchedAt": "2026-07-03T03:27:51Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -139,6 +139,20 @@
   },
   "items": [
     {
+      "title": "Researchers launch study on Ebola treatments as Congo outbreak worsens",
+      "link": "https://health.economictimes.indiatimes.com/news/industry/researchers-launch-study-on-ebola-treatments-as-congo-outbreak-worsens/132150517",
+      "pubDate": "Fri, 03 Jul 2026 01:41:00 Z",
+      "desc": "Researchers began a highly anticipated study of two possible Ebola treatments on Thursday in hopes of fighting the still-growing outbreak in eastern Congo , as the World Health Organization announced the enrollment of the first participant. The virus causing this outbreak, called Bundibugyo, is less....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Serological evidence of exposure to filoviruses in bats and humans in Ghana",
+      "link": "https://www.medrxiv.org/content/10.64898/2026.06.30.26356960v1?rss=1",
+      "pubDate": "Thu, 02 Jul 2026 22:18:00 Z",
+      "desc": "Abstract. Filoviruses, including the likely bat-borne Ebola virus (EBOV) and Marburg virus (MARV), cause severe hemorrhagic fevers in humans. The 2013-2016 EBOV outbreak caused >11,000 human fatalities in Guinea, Liberia, and Sierra Leone. Nearby countries, including Ghana, have been under sampled....",
+      "tag": "analysis"
+    },
+    {
       "title": "The hantavirus outbreak is over, WHO declares",
       "link": "https://www.livescience.com/health/viruses-infections-disease/the-hantavirus-outbreak-is-over-who-declares",
       "pubDate": "Thu, 02 Jul 2026 18:33:00 Z",
@@ -230,18 +244,18 @@
       "tag": "response"
     },
     {
-      "title": "Lessons learned from 2022-2025 outbreaks with cross border spread potential",
-      "link": "https://africacdc.org/news-item/lessons-learned-from-2022-2025-outbreaks-with-cross-border-spread-potential/",
-      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
-      "desc": "Evidence from recent African outbreaks of mpox, cholera, Ebola virus disease, and Marburg virus disease shows that successful outbreak responses rely on continuous investments in preparedness rather than reactive measures.\n\n\n\nA narrative synthesis of scientific articles and reports from 2022-2025 on outbreaks by Africa Centres for Disease Co",
-      "tag": "response"
-    },
-    {
       "title": "Inspiring, shaping and sustaining an African research and development agenda",
       "link": "https://africacdc.org/news-item/inspiring-shaping-and-sustaining-an-african-research-and-development-agenda/",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
       "desc": "Africa’s repeated exclusion from timely access to vaccines, diagnostics and treatments during major health emergencies—including the COVID-19 pandemic and recent mpox, Marburg virus disease and Ebola outbreaks—has demonstrated the urgent need for the continent to build its own end-to-end research and development (R&D) capacity.\n\n\n\nReliance o",
       "tag": "analysis"
+    },
+    {
+      "title": "Lessons learned from 2022-2025 outbreaks with cross border spread potential",
+      "link": "https://africacdc.org/news-item/lessons-learned-from-2022-2025-outbreaks-with-cross-border-spread-potential/",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
+      "desc": "Evidence from recent African outbreaks of mpox, cholera, Ebola virus disease, and Marburg virus disease shows that successful outbreak responses rely on continuous investments in preparedness rather than reactive measures.\n\n\n\nA narrative synthesis of scientific articles and reports from 2022-2025 on outbreaks by Africa Centres for Disease Co",
+      "tag": "response"
     },
     {
       "title": "Ebola deaths in Africa top 400 as Uganda reports death of child from Marburg",
@@ -363,13 +377,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
-      "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "Highlights•A BiLSTM-based model enables early interpretation of RT-qPCR amplification curves.•Fluorescence values are accurately predicted using early-cycle qPCR data.•Reliable qualitative classification is achieved using only 27 amplification cycles.•The method reduces required qPCR cycles by approximately 40%.•The approach can be integrated into",
-      "tag": "analysis"
-    },
-    {
       "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
       "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -377,11 +384,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
-      "link": "https://www.preprints.org/manuscript/202607.0058",
+      "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
+      "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivore, and chiropteran reservoirs, with humans infected mainly through inhalation of aerosolized excreta. They cause two major syndromes: hemorrhagic fever with renal syndrome (HFRS), endemic in Europe and Asia, and ha",
+      "desc": "Highlights•A BiLSTM-based model enables early interpretation of RT-qPCR amplification curves.•Fluorescence values are accurately predicted using early-cycle qPCR data.•Reliable qualitative classification is achieved using only 27 amplification cycles.•The method reduces required qPCR cycles by approximately 40%.•The approach can be integrated into",
       "tag": "analysis"
+    },
+    {
+      "title": "Detected case growth and outcome heterogeneity during the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda",
+      "link": "https://doi.org/10.21203/rs.3.rs-10090145/v1",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10090145/v1\nAuthors: Tambe Elvis Akem, Eta Calvin Oben\n Abstract \n                 Background\n The 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo (DRC), with cross-border cases in Uganda, evolved amid mobility, insecurity, delayed detection, laboratory constraints, and pressure on",
+      "tag": "cases"
     },
     {
       "title": "Janibacter melonis Bone Marrow Infection in an Immunocompetent Child With Prolonged Fever of Unknown Origin: A case report",
@@ -398,6 +412,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
+      "link": "https://www.preprints.org/manuscript/202607.0058",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivore, and chiropteran reservoirs, with humans infected mainly through inhalation of aerosolized excreta. They cause two major syndromes: hemorrhagic fever with renal syndrome (HFRS), endemic in Europe and Asia, and ha",
+      "tag": "analysis"
+    },
+    {
       "title": "Elimination of gambiense human African trypanosomiasis as a public health problem in Republic of Guinea: Paving the way for zero transmission",
       "link": "https://doi.org/10.1371/journal.pntd.0014469",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -405,38 +426,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Detected case growth and outcome heterogeneity during the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda",
-      "link": "https://doi.org/10.21203/rs.3.rs-10090145/v1",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10090145/v1\nAuthors: Tambe Elvis Akem, Eta Calvin Oben\n Abstract \n                 Background\n The 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo (DRC), with cross-border cases in Uganda, evolved amid mobility, insecurity, delayed detection, laboratory constraints, and pressure on",
-      "tag": "cases"
-    },
-    {
       "title": "Cluster analysis of ME/CFS symptoms in DecodeME reveals two subgroups and a link to onset type",
       "link": "https://doi.org/10.64898/2026.06.29.26356818",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.06.29.26356818\nAuthors: Christa St-Jean, Joshua James Dibble, Chris P Ponting, Regina Prigge\n Background: Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a debilitating, often infection-triggered illness with no cure and no effective treatment. Marked symptom heterogeneity hampers diagnosis, disease manageme",
-      "tag": "analysis"
-    },
-    {
-      "title": "Beneficial Role of Vitamin D Supplementation and Clinical Outcomes in Patients with Dengue Fever: A Randomised Controlled Trial",
-      "link": "https://doi.org/10.7860/jcdr/2026/84141.23889",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.7860/jcdr/2026/84141.23889\nAuthors: Subramanian Mariselvan, Siva Ranganathan Green, Shayilendranath Venkatesan, Vignessh Raveekumaran\n Introduction: Dengue Fever (DF) continues to be a major public health burden in tropical and subtropical countries. Severe forms such as Dengue Haemorrhagic Fever (DHF) and Dengue Shock Syndrome (DSS)",
-      "tag": "analysis"
-    },
-    {
-      "title": "Prognostic Value of PCR Cycle Threshold Value in Crimean-Congo Hemorrhagic Fever, Iraq, 2022–2023",
-      "link": "https://doi.org/10.3201/eid3207.251284",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3201/eid3207.251284\nAuthors: Raghad I. Khaleel, Ihab R. Aakef, Riyadh A. Al-hilfi, Hussein A. Hasan, Iman M. Aufi, Hawraa A. Shakir, Ahmed A. Hussein, Noora A. Abdulhadi, Zainb A. Mohsin, Amal A. Raheem, Sarah W. Ahmed, Ghazwan A. Baghdadi, Chiori Kodama, Antoine Chaillon, Anaïs Legand, Pierre Formenty, Sinan G. Mahdi, Adnan Khamasi",
-      "tag": "analysis"
-    },
-    {
-      "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
-      "link": "https://doi.org/10.1161/circgen.125.005653",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1161/circgen.125.005653\nAuthors: Jonas Reckmann, Hendrik Milting, Sabrina Voß, Marco T. Radukic, Franziska Klag, Franziska Flottmann, Alexander Lütkemeyer, Joline Groß, Anna Gärtner, Sandra Landwehr, Dario Anselmetti, Annika Hoyer, Kristian M. Müller, Jan Gummert, Volker Walhorn, Andreas Brodehl\n \n                     BA",
       "tag": "analysis"
     },
     {
@@ -451,6 +444,13 @@
       "link": "https://doi.org/10.71320/bcs.0019",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
+      "tag": "analysis"
+    },
+    {
+      "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
+      "link": "https://doi.org/10.1161/circgen.125.005653",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1161/circgen.125.005653\nAuthors: Jonas Reckmann, Hendrik Milting, Sabrina Voß, Marco T. Radukic, Franziska Klag, Franziska Flottmann, Alexander Lütkemeyer, Joline Groß, Anna Gärtner, Sandra Landwehr, Dario Anselmetti, Annika Hoyer, Kristian M. Müller, Jan Gummert, Volker Walhorn, Andreas Brodehl\n \n                     BA",
       "tag": "analysis"
     },
     {
@@ -472,6 +472,20 @@
       "link": "https://doi.org/10.1111/anec.70220",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1111/anec.70220\nAuthors: Nicholas E. Kunce, Andre Silva, Mark Haigney, Adam Kisling\n ABSTRACT \n                   We present the case of a 72‐year‐old female with Fabry disease who developed an advanced interatrial conduction block and atrial fibrillation, a condition known as Bayés' syndrome. Fabry disease is",
+      "tag": "analysis"
+    },
+    {
+      "title": "Beneficial Role of Vitamin D Supplementation and Clinical Outcomes in Patients with Dengue Fever: A Randomised Controlled Trial",
+      "link": "https://doi.org/10.7860/jcdr/2026/84141.23889",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.7860/jcdr/2026/84141.23889\nAuthors: Subramanian Mariselvan, Siva Ranganathan Green, Shayilendranath Venkatesan, Vignessh Raveekumaran\n Introduction: Dengue Fever (DF) continues to be a major public health burden in tropical and subtropical countries. Severe forms such as Dengue Haemorrhagic Fever (DHF) and Dengue Shock Syndrome (DSS)",
+      "tag": "analysis"
+    },
+    {
+      "title": "Prognostic Value of PCR Cycle Threshold Value in Crimean-Congo Hemorrhagic Fever, Iraq, 2022–2023",
+      "link": "https://doi.org/10.3201/eid3207.251284",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3201/eid3207.251284\nAuthors: Raghad I. Khaleel, Ihab R. Aakef, Riyadh A. Al-hilfi, Hussein A. Hasan, Iman M. Aufi, Hawraa A. Shakir, Ahmed A. Hussein, Noora A. Abdulhadi, Zainb A. Mohsin, Amal A. Raheem, Sarah W. Ahmed, Ghazwan A. Baghdadi, Chiori Kodama, Antoine Chaillon, Anaïs Legand, Pierre Formenty, Sinan G. Mahdi, Adnan Khamasi",
       "tag": "analysis"
     },
     {
@@ -1872,20 +1886,6 @@
       "link": "https://nashaniva.com/en/398363",
       "pubDate": "Wed, 24 Jun 2026 11:26:00 Z",
       "desc": "-- France. Significance Rating: 1 First Ebola case recorded in France&nbsp;&nbsp;Наша Ніва",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola case detected in France as deadly virus kills 267 and infects 1,000 people in spiralling outbreak - The Irish Sun",
-      "link": "https://www.thesun.ie/health/17169423/ebola-france-outbreak-deadly-virus-kills-hundreds/",
-      "pubDate": "Wed, 24 Jun 2026 11:26:00 Z",
-      "desc": "Ebola -- France. Significance Rating: 4 Ebola case detected in France as deadly virus kills 267 and infects 1,000 people in spiralling outbreak&nbsp;&nbsp;The Irish Sun",
-      "tag": "analysis"
-    },
-    {
-      "title": "France: Doctor Returning From Congo Tests Positive For Ebola - Voice of Nigeria",
-      "link": "https://von.gov.ng/doctor-returning-from-congo-tests-positive-for-ebola/",
-      "pubDate": "Wed, 24 Jun 2026 11:26:00 Z",
-      "desc": "Ebola -- France. Significance Rating: 4 France: Doctor Returning From Congo Tests Positive For Ebola&nbsp;&nbsp;Voice of Nigeria",
       "tag": "analysis"
     }
   ],
