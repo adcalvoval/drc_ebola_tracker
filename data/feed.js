@@ -1,28 +1,28 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 03 Jul 2026 09:20:59 Z",
-  "fetchedAt": "2026-07-03T09:20:59Z",
+  "lastBuildDate": "Fri, 03 Jul 2026 14:09:44 Z",
+  "fetchedAt": "2026-07-03T14:09:44Z",
   "itemCount": 250,
   "stats": {
     "drc": {
-      "deaths": 438,
-      "suspected": 301,
-      "confirmed": 1406,
-      "recovered": 208,
+      "deaths": 452,
+      "suspected": 150,
+      "confirmed": 1460,
+      "recovered": 213,
       "zonesAffected": 41,
       "topHealthZones": {
-        "Bunia": 387,
-        "Rwampara": 301,
-        "Mongbwalu": 264,
+        "Bunia": 416,
+        "Rwampara": 308,
+        "Mongbwalu": 270,
         "Nyankunde": 95,
-        "Nizi": 61,
+        "Nizi": 65,
+        "Katwa": 49,
         "Mongbalu": 47,
-        "Katwa": 47,
         "Butembo": 34,
-        "Lita": 29,
+        "Lita": 32,
+        "Beni": 26,
         "Mangala": 24,
-        "Beni": 24,
-        "Komanda": 18,
+        "Komanda": 19,
         "Bambu": 16,
         "Tchomia": 14,
         "Nia-Nia": 12,
@@ -54,24 +54,24 @@ window.FEED_DATA = {
         "Manguredjipa": 0
       },
       "contacts": 6367,
-      "cfr": 31.2
+      "cfr": 31.0
     },
     "drcMeta": {
       "deaths": {
         "tier": 5,
-        "src": "INRB sitrep (2026-06-30)"
+        "src": "INRB sitrep (2026-07-01)"
       },
       "suspected": {
         "tier": 5,
-        "src": "INRB sitrep (2026-06-30)"
+        "src": "INRB sitrep (2026-07-01)"
       },
       "confirmed": {
         "tier": 5,
-        "src": "INRB sitrep (2026-06-30)"
+        "src": "INRB sitrep (2026-07-01)"
       },
       "recovered": {
         "tier": 5,
-        "src": "INRB sitrep (2026-06-30)"
+        "src": "INRB sitrep (2026-07-01)"
       }
     },
     "drcTiers": {
@@ -91,10 +91,10 @@ window.FEED_DATA = {
         "recovered": 88
       },
       "inrb": {
-        "confirmed": 1406,
-        "deaths": 438,
-        "suspected": 301,
-        "recovered": 208
+        "confirmed": 1460,
+        "deaths": 452,
+        "suspected": 150,
+        "recovered": 213
       }
     },
     "provinces": {
@@ -106,13 +106,13 @@ window.FEED_DATA = {
       "northKivu": {
         "zonesAffected": 11,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-06-30)",
-        "confirmed": 120
+        "source": "INRB sitrep (2026-07-01)",
+        "confirmed": 124
       },
       "southKivu": {
         "zonesAffected": 1,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-06-30)",
+        "source": "INRB sitrep (2026-07-01)",
         "confirmed": 3
       }
     },
@@ -132,12 +132,26 @@ window.FEED_DATA = {
       "fetchedAt": "2026-06-19T13:10:37Z"
     },
     "inrbSitrep": {
-      "asOf": "2026-06-30",
+      "asOf": "2026-07-01",
       "url": "https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/insp_sitrep/processed",
-      "fetchedAt": "2026-07-02T14:05:46.602941+00:00"
+      "fetchedAt": "2026-07-03T14:09:45.413776+00:00"
     }
   },
   "items": [
+    {
+      "title": "U.S. Replenishes Smallpox and Mpox Vaccine Stockpile in $52.7 Million Contract Award",
+      "link": "https://globalbiodefense.com/2026/06/29/u-s-replenishes-smallpox-and-mpox-vaccine-stockpile-in-52-7-million-contract-award/",
+      "pubDate": "Fri, 03 Jul 2026 13:41:00 Z",
+      "desc": "With smallpox remaining classified as a credible bioterrorism threat and mpox continuing to circulate globally, the United States has moved to shore up its medical countermeasure stockpile. The Administration for Strategic Preparedness and Response (ASPR), housed within the Department of Health and....",
+      "tag": "response"
+    },
+    {
+      "title": "Human - Marburg Virus Disease (MVD) - Uganda (Kyegegwa) - Jun 29, 2026 (Updated positive)",
+      "link": "https://epicore.org/#/events_public/articles/1856",
+      "pubDate": "Fri, 03 Jul 2026 10:27:00 Z",
+      "desc": "On June 29, 2026, the U.S. Embassy in Uganda issued a health alert regarding a “potential case” of Marburg Virus Disease (MVD) being monitored in the western part of the country. While a Level 4 (\"Do Not Travel\") advisory has been issued for U.S. citizens, no official confirmation of this case was available at the time from national authorities.",
+      "tag": "response"
+    },
     {
       "title": "La OMS autoriza el uso de emergencia de la primera prueba de diagnóstico molecular para el ébola Bundibugyo",
       "link": "https://www.consalud.es/pacientes/infecciosas/la-oms-autoriza-el-uso-de-emergencia-de-la-primera-prueba-de-diagnostico-molecular-para-el-ebola-bundibugyo.html",
@@ -270,6 +284,13 @@ window.FEED_DATA = {
       "pubDate": "Thu, 02 Jul 2026 10:34:00 Z",
       "desc": "Brazzaville—Dorothée Bendza, a health control officer, has been deployed at Brazzaville Beach since the declaration of the Ebola disease outbreak in the Democratic Republic of the Congo (DRC). From 8:00 to 16:00, she and her colleague screen passengers. Both are equipped with an infrared thermometer and hand sanitizer.",
       "tag": "response"
+    },
+    {
+      "title": "Africa CDC confirmed Marburg virus disease case in Kyegegwa district, western Uganda",
+      "link": "https://beaconbio.org/en/report/?reportid=82c3d2e0-a715-47e2-89e8-ea98296d23bb",
+      "pubDate": "Thu, 02 Jul 2026 01:20:00 Z",
+      "desc": "Event Title: Marburg virus disease, Uganda\nEvent URL: https://beaconbio.org/en/event/?eventid=65a6cbaf-32e4-4ada-9668-93f9549638e5\n\nSources Uganda reports Marburg outbreak to WHO, bonews, 01 Jul 2026 Uganda finds isolated Marburg virus case, Africa CDC says, Reuters, 01 Jul 2026 Marburg virus death reported in Uganda during devastating Ebola outbre",
+      "tag": "cases"
     },
     {
       "title": "Inspiring, shaping and sustaining an African research and development agenda",
@@ -419,13 +440,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Detected case growth and outcome heterogeneity during the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda",
-      "link": "https://doi.org/10.21203/rs.3.rs-10090145/v1",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10090145/v1\nAuthors: Tambe Elvis Akem, Eta Calvin Oben\n Abstract \n                 Background\n The 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo (DRC), with cross-border cases in Uganda, evolved amid mobility, insecurity, delayed detection, laboratory constraints, and pressure on",
-      "tag": "cases"
-    },
-    {
       "title": "Janibacter melonis Bone Marrow Infection in an Immunocompetent Child With Prolonged Fever of Unknown Origin: A case report",
       "link": "https://doi.org/10.21203/rs.3.rs-9920478/v1",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -447,6 +461,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Detected case growth and outcome heterogeneity during the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda",
+      "link": "https://doi.org/10.21203/rs.3.rs-10090145/v1",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10090145/v1\nAuthors: Tambe Elvis Akem, Eta Calvin Oben\n Abstract \n                 Background\n The 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo (DRC), with cross-border cases in Uganda, evolved amid mobility, insecurity, delayed detection, laboratory constraints, and pressure on",
+      "tag": "cases"
+    },
+    {
       "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
       "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -458,6 +479,27 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1371/journal.pntd.0014469",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1371/journal.pntd.0014469\nAuthors: Moïse Kagbadouno, Oumou Camara, Bailo Mamadou Diallo, Abdoulaye Dansy Camara, Aissata Soumah, Mamadou Leno, Favié Béavogui, Mohamed Diaby Gassama, Issiaga Camara, Bamoro Coulibaly, Dramane Kaba, Aïssata Camara, Salimatou Boiro, Hamidou Ilboudo, Jean-Baptiste Rayaisse, Annette MacLeod, Joseph Ndungu, Sylvai",
+      "tag": "analysis"
+    },
+    {
+      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
+      "link": "https://doi.org/10.7759/cureus.111921",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
+      "tag": "response"
+    },
+    {
+      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
+      "link": "https://doi.org/10.71320/bcs.0019",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
+      "tag": "analysis"
+    },
+    {
+      "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
+      "link": "https://doi.org/10.1161/circgen.125.005653",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1161/circgen.125.005653\nAuthors: Jonas Reckmann, Hendrik Milting, Sabrina Voß, Marco T. Radukic, Franziska Klag, Franziska Flottmann, Alexander Lütkemeyer, Joline Groß, Anna Gärtner, Sandra Landwehr, Dario Anselmetti, Annika Hoyer, Kristian M. Müller, Jan Gummert, Volker Walhorn, Andreas Brodehl\n \n                     BA",
       "tag": "analysis"
     },
     {
@@ -475,34 +517,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Brote de hantavirus Andes vinculado a un crucero transatlántico: Evaluación del riesgo para España",
-      "link": "https://doi.org/10.4321/s2173-92772026000200002",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4321/s2173-92772026000200002\nAuthors: María Cruz Calvo-Reyes, Sara Montenegro-Jaramillo, Laura Santos-Larrégola, Pedro Valdivia-Prieto, Lucía García-San Miguel, María José Sierra-Moros\n The Andes hantavirus (ANDV) outbreak linked to a transatlantic cruise ship in May 2026 represented an unusual public health event. A total of 13 case",
-      "tag": "analysis"
-    },
-    {
-      "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
-      "link": "https://doi.org/10.1161/circgen.125.005653",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1161/circgen.125.005653\nAuthors: Jonas Reckmann, Hendrik Milting, Sabrina Voß, Marco T. Radukic, Franziska Klag, Franziska Flottmann, Alexander Lütkemeyer, Joline Groß, Anna Gärtner, Sandra Landwehr, Dario Anselmetti, Annika Hoyer, Kristian M. Müller, Jan Gummert, Volker Walhorn, Andreas Brodehl\n \n                     BA",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
-      "link": "https://doi.org/10.71320/bcs.0019",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
-      "tag": "analysis"
-    },
-    {
-      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
-      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
-      "tag": "analysis"
-    },
-    {
       "title": "PIK3CA-Related Overgrowth Syndrome: A Case Report",
       "link": "https://doi.org/10.5070/rs4.48391",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -514,6 +528,20 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1111/anec.70220",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1111/anec.70220\nAuthors: Nicholas E. Kunce, Andre Silva, Mark Haigney, Adam Kisling\n ABSTRACT \n                   We present the case of a 72‐year‐old female with Fabry disease who developed an advanced interatrial conduction block and atrial fibrillation, a condition known as Bayés' syndrome. Fabry disease is",
+      "tag": "analysis"
+    },
+    {
+      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
+      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
+      "tag": "analysis"
+    },
+    {
+      "title": "Brote de hantavirus Andes vinculado a un crucero transatlántico: Evaluación del riesgo para España",
+      "link": "https://doi.org/10.4321/s2173-92772026000200002",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.4321/s2173-92772026000200002\nAuthors: María Cruz Calvo-Reyes, Sara Montenegro-Jaramillo, Laura Santos-Larrégola, Pedro Valdivia-Prieto, Lucía García-San Miguel, María José Sierra-Moros\n The Andes hantavirus (ANDV) outbreak linked to a transatlantic cruise ship in May 2026 represented an unusual public health event. A total of 13 case",
       "tag": "analysis"
     },
     {
@@ -622,13 +650,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
-      "link": "https://openalex.org/W7166530626",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
-      "tag": "response"
-    },
-    {
       "title": "Rippling muscle disease due to a &lt;i&gt;CAV3&lt;/i&gt; mutation with myocarditis-like presentation in an adolescent",
       "link": "https://doi.org/10.24953/turkjpediatr.2026.7755",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -657,6 +678,13 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
+      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
+      "link": "https://openalex.org/W7166530626",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
+      "tag": "response"
+    },
+    {
       "title": "Admission complete blood count-derived inflammatory indices for risk stratification in hemorrhagic fever with renal syndrome: comparative performance of NLR, PLR, SII, LMR, and the neutrophil-to-red blood cell ratio",
       "link": "https://doi.org/10.3389/fimmu.2026.1863714",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -664,10 +692,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
-      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
+      "title": "Antiphospholipid antibodies in acute and post-treatment Lyme disease",
+      "link": "https://doi.org/10.1128/iai.00192-26",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
+      "desc": "DOI: 10.1128/iai.00192-26\nAuthors: Muskan Shrestha, Anna F. Hickman, Yuelin Zhong, Audre Zvinys, Suzanne D. Vernon, John B. Miller, Alison W. Rebman, John N. Aucott, Elizabeth J. Horn, Linden T. Hu, Peter J. Gwynne\n ABSTRACT",
+      "tag": "analysis"
+    },
+    {
+      "title": "The Emerging Adult Congenital Heart Disease Crisis in Pakistan: From Surgical Triumph to Systems Failure",
+      "link": "https://doi.org/10.47144/phj.v59i3.3761",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.47144/phj.v59i3.3761\nAuthors: Aliya Kemal Ahsan, Makhdoom Bilawal, Syed Waseem Jamalvi, Abdul Sattar Shaikh\n Rheumatic heart disease (RHD) remains one of the leading causes of acquired heart disease among children and adolescents in low- and middle-income countries despite being largely preventable. Although remarkable advances have",
+      "tag": "analysis"
+    },
+    {
+      "title": "Evaluation of clinical, laboratory, and epidemiological features of children with Kawasaki disease",
+      "link": "https://doi.org/10.1017/s1047951126113717",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1017/s1047951126113717\nAuthors: Zelal Aydin, Alper Akın, Mehmet Ture, Ilyas Yolbaş\n Abstract \n                   \n                     Objectives: \n                     Kawasaki disease is a systemic vasculitis of unknown aetiology that is usually seen",
       "tag": "analysis"
     },
     {
@@ -699,24 +741,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Antiphospholipid antibodies in acute and post-treatment Lyme disease",
-      "link": "https://doi.org/10.1128/iai.00192-26",
+      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
+      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/iai.00192-26\nAuthors: Muskan Shrestha, Anna F. Hickman, Yuelin Zhong, Audre Zvinys, Suzanne D. Vernon, John B. Miller, Alison W. Rebman, John N. Aucott, Elizabeth J. Horn, Linden T. Hu, Peter J. Gwynne\n ABSTRACT",
-      "tag": "analysis"
-    },
-    {
-      "title": "The Emerging Adult Congenital Heart Disease Crisis in Pakistan: From Surgical Triumph to Systems Failure",
-      "link": "https://doi.org/10.47144/phj.v59i3.3761",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.47144/phj.v59i3.3761\nAuthors: Aliya Kemal Ahsan, Makhdoom Bilawal, Syed Waseem Jamalvi, Abdul Sattar Shaikh\n Rheumatic heart disease (RHD) remains one of the leading causes of acquired heart disease among children and adolescents in low- and middle-income countries despite being largely preventable. Although remarkable advances have",
-      "tag": "analysis"
-    },
-    {
-      "title": "Evaluation of clinical, laboratory, and epidemiological features of children with Kawasaki disease",
-      "link": "https://doi.org/10.1017/s1047951126113717",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1017/s1047951126113717\nAuthors: Zelal Aydin, Alper Akın, Mehmet Ture, Ilyas Yolbaş\n Abstract \n                   \n                     Objectives: \n                     Kawasaki disease is a systemic vasculitis of unknown aetiology that is usually seen",
+      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
       "tag": "analysis"
     },
     {
@@ -895,13 +923,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Aromatic basil (Ocimum x africanum Lour.) tea as a biolarvacide in dengue haemorrhagic fever",
-      "link": "https://doi.org/10.34011/jmp2k.v36i2.4533",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.34011/jmp2k.v36i2.4533\nAuthors: Citra Amaniah Anhar, Dewi Inderiati, Diah Lestari, Gina Argiyanti\n Background: Dengue Haemorrhagic Fever is a health problem transmitted by the Aedes aegypti mosquito. Dengue fever control currently still uses chemical larvicides (ABATE) that can pose health and environmental risks, thus requiring natu",
-      "tag": "analysis"
-    },
-    {
       "title": "Optimizing diagnostic cascades: evaluating the sensitivity of NS1 antigen versus antibody serology in a rapidly evolving dengue outbreak",
       "link": "https://doi.org/10.18203/2320-6012.ijrms20262158",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -927,6 +948,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.3126/mjen.v5i01.96385",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3126/mjen.v5i01.96385\nAuthors: Abhishek Karmacharya, Subrata Pokhrel, Damodar Sharma, Chetan Khadka, Nickey Pradhan, Navindra Phuyal\n Background \nWith a high mortality rate, bloodstream infections (BSI) are a serious worldwide public health burden. Delay in therapy has a significant impact on Patient’s outcomes, and rapid and precis",
+      "tag": "analysis"
+    },
+    {
+      "title": "Aromatic basil (Ocimum x africanum Lour.) tea as a biolarvacide in dengue haemorrhagic fever",
+      "link": "https://doi.org/10.34011/jmp2k.v36i2.4533",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.34011/jmp2k.v36i2.4533\nAuthors: Citra Amaniah Anhar, Dewi Inderiati, Diah Lestari, Gina Argiyanti\n Background: Dengue Haemorrhagic Fever is a health problem transmitted by the Aedes aegypti mosquito. Dengue fever control currently still uses chemical larvicides (ABATE) that can pose health and environmental risks, thus requiring natu",
       "tag": "analysis"
     },
     {
@@ -1364,17 +1392,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Understanding machupo virus: A neglected arenavirus with global health importance",
-      "link": "https://doi.org/10.5501/wjv.v15.i2.119515",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5501/wjv.v15.i2.119515\nAuthors: Praveen Kumar Uppala, Sita Kumari Karanam, Naga Vishnu Kandra, Sandhya Edhi\n Machupo virus (MACV), classified within the Mammarenavirus genus of the Arenaviridae family, serves as the causative agent of Bolivian hemorrhagic fever (BHF), a life-threatening zoonosis primarily confined to rural regions of",
-      "tag": "analysis"
-    },
-    {
       "title": "Single-cell multiomics of neuron activation reveals context-specific genetics of brain disorders",
       "link": "https://doi.org/10.1126/science.adw3949",
       "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1126/science.adw3949\nAuthors: Lifan Liang, Siwei Zhang, Zicheng Wang, Hanwen Zhang, Chuxuan Li, Christina Thapa, Emily K. Oh, David Sirkin, Xiaotong Sun, Alexandra Barishman, Ada McCarroll, Alexandra C. Duhe, Sheng Qian, Xiaoyuan Zhong, Brendan Jamison, Whitney Wood, Alena Kozlova, Zhiping P. Pang, Alan R. Sanders, Xin He, Jubao Duan\n<jats:",
+      "tag": "analysis"
+    },
+    {
+      "title": "Understanding machupo virus: A neglected arenavirus with global health importance",
+      "link": "https://doi.org/10.5501/wjv.v15.i2.119515",
+      "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5501/wjv.v15.i2.119515\nAuthors: Praveen Kumar Uppala, Sita Kumari Karanam, Naga Vishnu Kandra, Sandhya Edhi\n Machupo virus (MACV), classified within the Mammarenavirus genus of the Arenaviridae family, serves as the causative agent of Bolivian hemorrhagic fever (BHF), a life-threatening zoonosis primarily confined to rural regions of",
       "tag": "analysis"
     },
     {
@@ -1588,17 +1616,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "US Ebola Quarantine Plan in Kenya Hits Legal Wall - t.co",
-      "link": "https://t.co/5wlYGS2kEW",
-      "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
-      "desc": "-- United States. Significance Rating: 1 US Ebola Quarantine Plan in Kenya Hits Legal Wall&nbsp;&nbsp;t.co",
-      "tag": "analysis"
-    },
-    {
       "title": "Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway - Jamaica Observer",
       "link": "https://www.jamaicaobserver.com/2026/06/24/doctor-returning-dr-congo-tests-positive-ebola-france-contact-tracing-underway/",
       "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
       "desc": "-- DR Congo. Significance Rating: 1 Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway&nbsp;&nbsp;Jamaica Observer",
+      "tag": "analysis"
+    },
+    {
+      "title": "US Ebola Quarantine Plan in Kenya Hits Legal Wall - t.co",
+      "link": "https://t.co/5wlYGS2kEW",
+      "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
+      "desc": "-- United States. Significance Rating: 1 US Ebola Quarantine Plan in Kenya Hits Legal Wall&nbsp;&nbsp;t.co",
       "tag": "analysis"
     },
     {
@@ -1679,6 +1707,20 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "France confirms first Ebola case after doctor returning from DRC tests positive - The National",
+      "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
+      "tag": "analysis"
+    },
+    {
+      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
+      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
+      "tag": "analysis"
+    },
+    {
       "title": "Urgent: First Ebola case confirmed in France after doctor returns from DRC -- media-Xinhua - 新华网",
       "link": "http://www.xinhuanet.com/english/20260624/6e2c0b28af854e9296c807b7bf340c39/c.html",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
@@ -1726,20 +1768,6 @@ window.FEED_DATA = {
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "Ebola -- France. Significance Rating: 4 Rare Ebola strain confirmed in France as doctor diagnosed with potentially deadly virus&nbsp;&nbsp;Kent Live",
       "tag": "cases"
-    },
-    {
-      "title": "France confirms first Ebola case after doctor returning from DRC tests positive - The National",
-      "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
-      "tag": "analysis"
-    },
-    {
-      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
-      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
-      "tag": "analysis"
     },
     {
       "title": "Study Showing Benefits Of Covid Vaccine Published In AMA Journal After CDC Refused To Run It In Theirs",
@@ -1819,13 +1847,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "France records its first Ebola case in a doctor returning from the Democratic Republic of Congo - صوت الإمارات",
-      "link": "https://www.voiceofemirates.com/en/health/2026/06/24/france-records-its-first-ebola-case-in-a-doctor-returning-from-the-democratic-republic-of-congo/",
-      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France records its first Ebola case in a doctor returning from the Democratic Republic of Congo&nbsp;&nbsp;صوت الإمارات",
-      "tag": "analysis"
-    },
-    {
       "title": "France reports first Ebola case after doctor returning from DR Congo tests positive - Manx Radio",
       "link": "https://www.manxradio.com/news/world-news/france-reports-first-ebola-case-after-doctor-returning-from-dr-congo-tests-positive/",
       "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
@@ -1866,34 +1887,13 @@ window.FEED_DATA = {
       "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France Confirms First Ebola Case as Doctor Returning from DR Congo Tests Positive&nbsp;&nbsp;streamlinefeed.co.ke",
       "tag": "analysis"
-    },
-    {
-      "title": "Ebola: France reports first case in doctor returning from Congo - PM News Nigeria",
-      "link": "https://pmnewsnigeria.com/2026/06/24/ebola-france-reports-first-case-in-doctor-returning-from-congo/",
-      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
-      "desc": "Ebola -- France. Significance Rating: 4 Ebola: France reports first case in doctor returning from Congo&nbsp;&nbsp;PM News Nigeria",
-      "tag": "analysis"
-    },
-    {
-      "title": "France Confirms First Ebola Case As Doctor Returns From Congo - Live India",
-      "link": "https://liveindia.tv/world/france-confirms-first-ebola-case-as-doctor-returns-from-congo/",
-      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France Confirms First Ebola Case As Doctor Returns From Congo&nbsp;&nbsp;Live India",
-      "tag": "analysis"
-    },
-    {
-      "title": "France confirms first Ebola case in doctor returning from DR Congo mission - Modern Ghana",
-      "link": "https://www.modernghana.com/news/1505109/france-confirms-first-ebola-case-in-doctor-returni.amp",
-      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
-      "desc": "-- DR Congo. Significance Rating: 1 France confirms first Ebola case in doctor returning from DR Congo mission&nbsp;&nbsp;Modern Ghana",
-      "tag": "analysis"
     }
   ],
   "highWater": {
     "drc": {
       "deaths": {
-        "value": 438,
-        "asOf": "2026-07-02T14:05:45Z",
+        "value": 452,
+        "asOf": "2026-07-03T14:09:44Z",
         "source": "INRB MVE Sitrep"
       },
       "confirmed_deaths": {
@@ -1907,8 +1907,8 @@ window.FEED_DATA = {
         "source": "WHO / OMS"
       },
       "confirmed": {
-        "value": 1406,
-        "asOf": "2026-07-02T14:05:45Z",
+        "value": 1460,
+        "asOf": "2026-07-03T14:09:44Z",
         "source": "INRB MVE Sitrep"
       },
       "active": {
