@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 04 Jul 2026 16:04:06 Z",
-  "fetchedAt": "2026-07-04T16:04:06Z",
+  "lastBuildDate": "Sat, 04 Jul 2026 19:16:35 Z",
+  "fetchedAt": "2026-07-04T19:16:35Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -358,17 +358,17 @@
       "tag": "cases"
     },
     {
-      "title": "À Kinshasa, le Président Tshisekedi donne une impulsion à la riposte contre Ebola avec l’appui solidaire du Président Ramaphosa",
-      "link": "https://africacdc.org/news-item/a-kinshasa-le-president-tshisekedi-donne-une-impulsion-a-la-riposte-contre-ebola-avec-lappui-solidaire-du-president-ramaphosa/",
-      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
-      "desc": "Une rencontre convoquée par Africa CDC à l’INRB pour accélérer la coordination, la mobilisation des ressources et l’appui aux zones affectées\n\n\n\nKINSHASA, République démocratique du Congo, 2 juillet 2026 – Le Président de la République démocratique du Congo, S.E. M. Félix Antoine Tshisekedi Tshilombo, a accueilli ce jour le Président de la R",
-      "tag": "analysis"
-    },
-    {
       "title": "Inspiring, shaping and sustaining an African research and development agenda",
       "link": "https://africacdc.org/news-item/inspiring-shaping-and-sustaining-an-african-research-and-development-agenda/",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
       "desc": "Africa’s repeated exclusion from timely access to vaccines, diagnostics and treatments during major health emergencies—including the COVID-19 pandemic and recent mpox, Marburg virus disease and Ebola outbreaks—has demonstrated the urgent need for the continent to build its own end-to-end research and development (R&D) capacity.\n\n\n\nReliance o",
+      "tag": "analysis"
+    },
+    {
+      "title": "À Kinshasa, le Président Tshisekedi donne une impulsion à la riposte contre Ebola avec l’appui solidaire du Président Ramaphosa",
+      "link": "https://africacdc.org/news-item/a-kinshasa-le-president-tshisekedi-donne-une-impulsion-a-la-riposte-contre-ebola-avec-lappui-solidaire-du-president-ramaphosa/",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
+      "desc": "Une rencontre convoquée par Africa CDC à l’INRB pour accélérer la coordination, la mobilisation des ressources et l’appui aux zones affectées\n\n\n\nKINSHASA, République démocratique du Congo, 2 juillet 2026 – Le Président de la République démocratique du Congo, S.E. M. Félix Antoine Tshisekedi Tshilombo, a accueilli ce jour le Président de la R",
       "tag": "analysis"
     },
     {
@@ -498,6 +498,20 @@
       "tag": "analysis"
     },
     {
+      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
+      "link": "https://www.preprints.org/manuscript/202607.0058",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivore, and chiropteran reservoirs, with humans infected mainly through inhalation of aerosolized excreta. They cause two major syndromes: hemorrhagic fever with renal syndrome (HFRS), endemic in Europe and Asia, and ha",
+      "tag": "analysis"
+    },
+    {
+      "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
+      "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
+      "tag": "analysis"
+    },
+    {
       "title": "Janibacter melonis Bone Marrow Infection in an Immunocompetent Child With Prolonged Fever of Unknown Origin: A case report",
       "link": "https://doi.org/10.21203/rs.3.rs-9920478/v1",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -519,25 +533,11 @@
       "tag": "analysis"
     },
     {
-      "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
-      "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "Highlights•A BiLSTM-based model enables early interpretation of RT-qPCR amplification curves.•Fluorescence values are accurately predicted using early-cycle qPCR data.•Reliable qualitative classification is achieved using only 27 amplification cycles.•The method reduces required qPCR cycles by approximately 40%.•The approach can be integrated into",
-      "tag": "analysis"
-    },
-    {
       "title": "Elimination of gambiense human African trypanosomiasis as a public health problem in Republic of Guinea: Paving the way for zero transmission",
       "link": "https://doi.org/10.1371/journal.pntd.0014469",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1371/journal.pntd.0014469\nAuthors: Moïse Kagbadouno, Oumou Camara, Bailo Mamadou Diallo, Abdoulaye Dansy Camara, Aissata Soumah, Mamadou Leno, Favié Béavogui, Mohamed Diaby Gassama, Issiaga Camara, Bamoro Coulibaly, Dramane Kaba, Aïssata Camara, Salimatou Boiro, Hamidou Ilboudo, Jean-Baptiste Rayaisse, Annette MacLeod, Joseph Ndungu, Sylvai",
       "tag": "analysis"
-    },
-    {
-      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
-      "link": "https://doi.org/10.7759/cureus.111921",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
-      "tag": "response"
     },
     {
       "title": "Detected case growth and outcome heterogeneity during the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda",
@@ -547,17 +547,31 @@
       "tag": "cases"
     },
     {
-      "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
-      "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
+      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
+      "link": "https://doi.org/10.7759/cureus.111921",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
+      "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
+      "tag": "response"
+    },
+    {
+      "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
+      "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "Highlights•A BiLSTM-based model enables early interpretation of RT-qPCR amplification curves.•Fluorescence values are accurately predicted using early-cycle qPCR data.•Reliable qualitative classification is achieved using only 27 amplification cycles.•The method reduces required qPCR cycles by approximately 40%.•The approach can be integrated into",
       "tag": "analysis"
     },
     {
-      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
-      "link": "https://www.preprints.org/manuscript/202607.0058",
+      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
+      "link": "https://doi.org/10.71320/bcs.0019",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivore, and chiropteran reservoirs, with humans infected mainly through inhalation of aerosolized excreta. They cause two major syndromes: hemorrhagic fever with renal syndrome (HFRS), endemic in Europe and Asia, and ha",
+      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
+      "tag": "analysis"
+    },
+    {
+      "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
+      "link": "https://doi.org/10.1161/circgen.125.005653",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1161/circgen.125.005653\nAuthors: Jonas Reckmann, Hendrik Milting, Sabrina Voß, Marco T. Radukic, Franziska Klag, Franziska Flottmann, Alexander Lütkemeyer, Joline Groß, Anna Gärtner, Sandra Landwehr, Dario Anselmetti, Annika Hoyer, Kristian M. Müller, Jan Gummert, Volker Walhorn, Andreas Brodehl\n \n                     BA",
       "tag": "analysis"
     },
     {
@@ -572,20 +586,6 @@
       "link": "https://doi.org/10.3201/eid3207.251284",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3201/eid3207.251284\nAuthors: Raghad I. Khaleel, Ihab R. Aakef, Riyadh A. Al-hilfi, Hussein A. Hasan, Iman M. Aufi, Hawraa A. Shakir, Ahmed A. Hussein, Noora A. Abdulhadi, Zainb A. Mohsin, Amal A. Raheem, Sarah W. Ahmed, Ghazwan A. Baghdadi, Chiori Kodama, Antoine Chaillon, Anaïs Legand, Pierre Formenty, Sinan G. Mahdi, Adnan Khamasi",
-      "tag": "analysis"
-    },
-    {
-      "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
-      "link": "https://doi.org/10.1161/circgen.125.005653",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1161/circgen.125.005653\nAuthors: Jonas Reckmann, Hendrik Milting, Sabrina Voß, Marco T. Radukic, Franziska Klag, Franziska Flottmann, Alexander Lütkemeyer, Joline Groß, Anna Gärtner, Sandra Landwehr, Dario Anselmetti, Annika Hoyer, Kristian M. Müller, Jan Gummert, Volker Walhorn, Andreas Brodehl\n \n                     BA",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
-      "link": "https://doi.org/10.71320/bcs.0019",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
       "tag": "analysis"
     },
     {
