@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 03 Jul 2026 22:06:16 Z",
-  "fetchedAt": "2026-07-03T22:06:16Z",
+  "lastBuildDate": "Sat, 04 Jul 2026 03:20:34 Z",
+  "fetchedAt": "2026-07-04T03:20:34Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -78,8 +78,7 @@
     "drcTiers": {
       "media": {
         "deaths": 452,
-        "confirmed": 1460,
-        "suspected": 13
+        "confirmed": 1460
       },
       "whoDon": {
         "confirmed": 1460,
@@ -134,6 +133,20 @@
     }
   },
   "items": [
+    {
+      "title": "Race for rapid Ebola test narrows to five potential manufacturers",
+      "link": "https://health.economictimes.indiatimes.com/news/diagnostics/race-for-rapid-ebola-test-narrows-to-five-potential-manufacturers/132173228",
+      "pubDate": "Sat, 04 Jul 2026 02:55:00 Z",
+      "desc": "Bilbao: The race to produce a rapid antigen test to diagnose the rare Bundibugyo Ebola virus has closed in on five possible manufacturers that could begin field trials in eastern Congo within weeks, a global alliance for diagnostics leading the ‌effort told Reuters.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Malaria fears grow in Congo's Ebola outbreak hotspots",
+      "link": "https://health.economictimes.indiatimes.com/news/industry/malaria-fears-grow-in-congos-ebola-outbreak-hotspots/132173230",
+      "pubDate": "Sat, 04 Jul 2026 02:26:00 Z",
+      "desc": "London: Malaria and other diseases may be as deadly as the Ebola outbreak ​in the Democratic Republic of Congo, health officials have warned, as the outbreak strains the healthcare system and spooks patients into staying away from clinics. Half-a-dozen medics and local and international health....",
+      "tag": "analysis"
+    },
     {
       "title": "2 de julio de 2026 Alocución de apertura del Director General de la OMS en la rueda de prensa del 2 de julio de 2026",
       "link": "https://www.who.int/es/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---2-july-2026",
@@ -541,20 +554,6 @@
       "tag": "response"
     },
     {
-      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
-      "link": "https://doi.org/10.71320/bcs.0019",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
-      "tag": "analysis"
-    },
-    {
-      "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
-      "link": "https://doi.org/10.1161/circgen.125.005653",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1161/circgen.125.005653\nAuthors: Jonas Reckmann, Hendrik Milting, Sabrina Voß, Marco T. Radukic, Franziska Klag, Franziska Flottmann, Alexander Lütkemeyer, Joline Groß, Anna Gärtner, Sandra Landwehr, Dario Anselmetti, Annika Hoyer, Kristian M. Müller, Jan Gummert, Volker Walhorn, Andreas Brodehl\n \n                     BA",
-      "tag": "analysis"
-    },
-    {
       "title": "Beneficial Role of Vitamin D Supplementation and Clinical Outcomes in Patients with Dengue Fever: A Randomised Controlled Trial",
       "link": "https://doi.org/10.7860/jcdr/2026/84141.23889",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -566,6 +565,20 @@
       "link": "https://doi.org/10.3201/eid3207.251284",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3201/eid3207.251284\nAuthors: Raghad I. Khaleel, Ihab R. Aakef, Riyadh A. Al-hilfi, Hussein A. Hasan, Iman M. Aufi, Hawraa A. Shakir, Ahmed A. Hussein, Noora A. Abdulhadi, Zainb A. Mohsin, Amal A. Raheem, Sarah W. Ahmed, Ghazwan A. Baghdadi, Chiori Kodama, Antoine Chaillon, Anaïs Legand, Pierre Formenty, Sinan G. Mahdi, Adnan Khamasi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
+      "link": "https://doi.org/10.1161/circgen.125.005653",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1161/circgen.125.005653\nAuthors: Jonas Reckmann, Hendrik Milting, Sabrina Voß, Marco T. Radukic, Franziska Klag, Franziska Flottmann, Alexander Lütkemeyer, Joline Groß, Anna Gärtner, Sandra Landwehr, Dario Anselmetti, Annika Hoyer, Kristian M. Müller, Jan Gummert, Volker Walhorn, Andreas Brodehl\n \n                     BA",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
+      "link": "https://doi.org/10.71320/bcs.0019",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
       "tag": "analysis"
     },
     {
@@ -1868,20 +1881,6 @@
       "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-ebola-case-doctor-returning-humanitarian-mission-congo-2026-06-24/",
       "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France reports Ebola case in doctor returning from Congo&nbsp;&nbsp;Reuters",
-      "tag": "analysis"
-    },
-    {
-      "title": "France detects first Ebola case in returnee from DR Congo - İlke Haber Ajansı",
-      "link": "https://ilkha.com/english/world/france-detects-first-ebola-case-in-returnee-from-dr-congo-542357",
-      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France detects first Ebola case in returnee from DR Congo&nbsp;&nbsp;İlke Haber Ajansı",
-      "tag": "analysis"
-    },
-    {
-      "title": "France Confirms First Ebola Case Linked to DR Congo Outbreak - streamlinefeed.co.ke",
-      "link": "https://streamlinefeed.co.ke/news/france-confirms-first-ebola-case-linked-to-dr-congo-outbreak",
-      "pubDate": "Wed, 24 Jun 2026 12:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France Confirms First Ebola Case Linked to DR Congo Outbreak&nbsp;&nbsp;streamlinefeed.co.ke",
       "tag": "analysis"
     }
   ],
