@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 04 Jul 2026 08:39:48 Z",
-  "fetchedAt": "2026-07-04T08:39:49Z",
+  "lastBuildDate": "Sat, 04 Jul 2026 10:55:12 Z",
+  "fetchedAt": "2026-07-04T10:55:12Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -554,20 +554,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
-      "link": "https://doi.org/10.71320/bcs.0019",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
-      "tag": "analysis"
-    },
-    {
-      "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
-      "link": "https://doi.org/10.1161/circgen.125.005653",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1161/circgen.125.005653\nAuthors: Jonas Reckmann, Hendrik Milting, Sabrina Voß, Marco T. Radukic, Franziska Klag, Franziska Flottmann, Alexander Lütkemeyer, Joline Groß, Anna Gärtner, Sandra Landwehr, Dario Anselmetti, Annika Hoyer, Kristian M. Müller, Jan Gummert, Volker Walhorn, Andreas Brodehl\n \n                     BA",
-      "tag": "analysis"
-    },
-    {
       "title": "Beneficial Role of Vitamin D Supplementation and Clinical Outcomes in Patients with Dengue Fever: A Randomised Controlled Trial",
       "link": "https://doi.org/10.7860/jcdr/2026/84141.23889",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -579,6 +565,20 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.3201/eid3207.251284",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3201/eid3207.251284\nAuthors: Raghad I. Khaleel, Ihab R. Aakef, Riyadh A. Al-hilfi, Hussein A. Hasan, Iman M. Aufi, Hawraa A. Shakir, Ahmed A. Hussein, Noora A. Abdulhadi, Zainb A. Mohsin, Amal A. Raheem, Sarah W. Ahmed, Ghazwan A. Baghdadi, Chiori Kodama, Antoine Chaillon, Anaïs Legand, Pierre Formenty, Sinan G. Mahdi, Adnan Khamasi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
+      "link": "https://doi.org/10.1161/circgen.125.005653",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1161/circgen.125.005653\nAuthors: Jonas Reckmann, Hendrik Milting, Sabrina Voß, Marco T. Radukic, Franziska Klag, Franziska Flottmann, Alexander Lütkemeyer, Joline Groß, Anna Gärtner, Sandra Landwehr, Dario Anselmetti, Annika Hoyer, Kristian M. Müller, Jan Gummert, Volker Walhorn, Andreas Brodehl\n \n                     BA",
+      "tag": "analysis"
+    },
+    {
+      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
+      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
       "tag": "analysis"
     },
     {
@@ -596,10 +596,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
-      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
+      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
+      "link": "https://doi.org/10.71320/bcs.0019",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
+      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
       "tag": "analysis"
     },
     {
@@ -757,10 +757,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
-      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
+      "title": "Antiphospholipid antibodies in acute and post-treatment Lyme disease",
+      "link": "https://doi.org/10.1128/iai.00192-26",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
+      "desc": "DOI: 10.1128/iai.00192-26\nAuthors: Muskan Shrestha, Anna F. Hickman, Yuelin Zhong, Audre Zvinys, Suzanne D. Vernon, John B. Miller, Alison W. Rebman, John N. Aucott, Elizabeth J. Horn, Linden T. Hu, Peter J. Gwynne\n ABSTRACT",
+      "tag": "analysis"
+    },
+    {
+      "title": "The Emerging Adult Congenital Heart Disease Crisis in Pakistan: From Surgical Triumph to Systems Failure",
+      "link": "https://doi.org/10.47144/phj.v59i3.3761",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.47144/phj.v59i3.3761\nAuthors: Aliya Kemal Ahsan, Makhdoom Bilawal, Syed Waseem Jamalvi, Abdul Sattar Shaikh\n Rheumatic heart disease (RHD) remains one of the leading causes of acquired heart disease among children and adolescents in low- and middle-income countries despite being largely preventable. Although remarkable advances have",
+      "tag": "analysis"
+    },
+    {
+      "title": "Evaluation of clinical, laboratory, and epidemiological features of children with Kawasaki disease",
+      "link": "https://doi.org/10.1017/s1047951126113717",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1017/s1047951126113717\nAuthors: Zelal Aydin, Alper Akın, Mehmet Ture, Ilyas Yolbaş\n Abstract \n                   \n                     Objectives: \n                     Kawasaki disease is a systemic vasculitis of unknown aetiology that is usually seen",
       "tag": "analysis"
     },
     {
@@ -792,24 +806,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Antiphospholipid antibodies in acute and post-treatment Lyme disease",
-      "link": "https://doi.org/10.1128/iai.00192-26",
+      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
+      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/iai.00192-26\nAuthors: Muskan Shrestha, Anna F. Hickman, Yuelin Zhong, Audre Zvinys, Suzanne D. Vernon, John B. Miller, Alison W. Rebman, John N. Aucott, Elizabeth J. Horn, Linden T. Hu, Peter J. Gwynne\n ABSTRACT",
-      "tag": "analysis"
-    },
-    {
-      "title": "The Emerging Adult Congenital Heart Disease Crisis in Pakistan: From Surgical Triumph to Systems Failure",
-      "link": "https://doi.org/10.47144/phj.v59i3.3761",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.47144/phj.v59i3.3761\nAuthors: Aliya Kemal Ahsan, Makhdoom Bilawal, Syed Waseem Jamalvi, Abdul Sattar Shaikh\n Rheumatic heart disease (RHD) remains one of the leading causes of acquired heart disease among children and adolescents in low- and middle-income countries despite being largely preventable. Although remarkable advances have",
-      "tag": "analysis"
-    },
-    {
-      "title": "Evaluation of clinical, laboratory, and epidemiological features of children with Kawasaki disease",
-      "link": "https://doi.org/10.1017/s1047951126113717",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1017/s1047951126113717\nAuthors: Zelal Aydin, Alper Akın, Mehmet Ture, Ilyas Yolbaş\n Abstract \n                   \n                     Objectives: \n                     Kawasaki disease is a systemic vasculitis of unknown aetiology that is usually seen",
+      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
       "tag": "analysis"
     },
     {
@@ -974,13 +974,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
-      "link": "https://doi.org/10.1093/qjmed/hcag167",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/qjmed/hcag167\nAuthors: Claude Mambo Muvunyi, Emmanuel Edwar Siddig",
-      "tag": "response"
-    },
-    {
       "title": "Public health considerations for preventing crimean-congo haemorrhagic fever in Islamic Republic of Iran",
       "link": "https://doi.org/10.26719/2026.32.6.399",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -988,17 +981,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
+      "link": "https://doi.org/10.1093/qjmed/hcag167",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/qjmed/hcag167\nAuthors: Claude Mambo Muvunyi, Emmanuel Edwar Siddig",
+      "tag": "response"
+    },
+    {
       "title": "Optimizing diagnostic cascades: evaluating the sensitivity of NS1 antigen versus antibody serology in a rapidly evolving dengue outbreak",
       "link": "https://doi.org/10.18203/2320-6012.ijrms20262158",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.18203/2320-6012.ijrms20262158\nAuthors: M. Ashraf Uddin Ahmed, Farzana Yasmin, Mahmood Parvez, Tasnim Mahmud\n Background: Dengue fever, caused by DENV-1-4 serotypes, remains a major public health challenge with clinical manifestations ranging from mild febrile illness to severe complications such as Dengue Hemorrhagic Fever (DHF) and",
-      "tag": "analysis"
-    },
-    {
-      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
-      "link": "https://doi.org/10.33897/fumj.v8i1.251",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
       "tag": "analysis"
     },
     {
@@ -1013,6 +1006,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.3126/mjen.v5i01.96385",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3126/mjen.v5i01.96385\nAuthors: Abhishek Karmacharya, Subrata Pokhrel, Damodar Sharma, Chetan Khadka, Nickey Pradhan, Navindra Phuyal\n Background \nWith a high mortality rate, bloodstream infections (BSI) are a serious worldwide public health burden. Delay in therapy has a significant impact on Patient’s outcomes, and rapid and precis",
+      "tag": "analysis"
+    },
+    {
+      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
+      "link": "https://doi.org/10.33897/fumj.v8i1.251",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
       "tag": "analysis"
     },
     {
@@ -1457,17 +1457,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Understanding machupo virus: A neglected arenavirus with global health importance",
-      "link": "https://doi.org/10.5501/wjv.v15.i2.119515",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5501/wjv.v15.i2.119515\nAuthors: Praveen Kumar Uppala, Sita Kumari Karanam, Naga Vishnu Kandra, Sandhya Edhi\n Machupo virus (MACV), classified within the Mammarenavirus genus of the Arenaviridae family, serves as the causative agent of Bolivian hemorrhagic fever (BHF), a life-threatening zoonosis primarily confined to rural regions of",
-      "tag": "analysis"
-    },
-    {
       "title": "Single-cell multiomics of neuron activation reveals context-specific genetics of brain disorders",
       "link": "https://doi.org/10.1126/science.adw3949",
       "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1126/science.adw3949\nAuthors: Lifan Liang, Siwei Zhang, Zicheng Wang, Hanwen Zhang, Chuxuan Li, Christina Thapa, Emily K. Oh, David Sirkin, Xiaotong Sun, Alexandra Barishman, Ada McCarroll, Alexandra C. Duhe, Sheng Qian, Xiaoyuan Zhong, Brendan Jamison, Whitney Wood, Alena Kozlova, Zhiping P. Pang, Alan R. Sanders, Xin He, Jubao Duan\n<jats:",
+      "tag": "analysis"
+    },
+    {
+      "title": "Understanding machupo virus: A neglected arenavirus with global health importance",
+      "link": "https://doi.org/10.5501/wjv.v15.i2.119515",
+      "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5501/wjv.v15.i2.119515\nAuthors: Praveen Kumar Uppala, Sita Kumari Karanam, Naga Vishnu Kandra, Sandhya Edhi\n Machupo virus (MACV), classified within the Mammarenavirus genus of the Arenaviridae family, serves as the causative agent of Bolivian hemorrhagic fever (BHF), a life-threatening zoonosis primarily confined to rural regions of",
       "tag": "analysis"
     },
     {
@@ -1681,17 +1681,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "US Ebola Quarantine Plan in Kenya Hits Legal Wall - t.co",
-      "link": "https://t.co/5wlYGS2kEW",
-      "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
-      "desc": "-- United States. Significance Rating: 1 US Ebola Quarantine Plan in Kenya Hits Legal Wall&nbsp;&nbsp;t.co",
-      "tag": "analysis"
-    },
-    {
       "title": "Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway - Jamaica Observer",
       "link": "https://www.jamaicaobserver.com/2026/06/24/doctor-returning-dr-congo-tests-positive-ebola-france-contact-tracing-underway/",
       "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
       "desc": "-- DR Congo. Significance Rating: 1 Doctor returning from DR Congo tests positive for Ebola in France; contact tracing underway&nbsp;&nbsp;Jamaica Observer",
+      "tag": "analysis"
+    },
+    {
+      "title": "US Ebola Quarantine Plan in Kenya Hits Legal Wall - t.co",
+      "link": "https://t.co/5wlYGS2kEW",
+      "pubDate": "Wed, 24 Jun 2026 14:26:00 Z",
+      "desc": "-- United States. Significance Rating: 1 US Ebola Quarantine Plan in Kenya Hits Legal Wall&nbsp;&nbsp;t.co",
       "tag": "analysis"
     },
     {
@@ -1730,13 +1730,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "France confirms first Ebola case in doctor returning from Congo humanitarian mission - Emirates 24|7",
-      "link": "https://www.emirates247.com/world/france-confirms-first-ebola-case-in-doctor-returning-from-congo-humanitarian-mission/2936",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case in doctor returning from Congo humanitarian mission&nbsp;&nbsp;Emirates 24|7",
-      "tag": "analysis"
-    },
-    {
       "title": "France reports Ebola case in doctor returning from DRC - Business Day",
       "link": "https://www.businessday.co.za/world/europe/2026-06-24-france-reports-ebola-case-in-doctor-returning-from-drc/",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
@@ -1765,10 +1758,31 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "France confirms first Ebola case in doctor returning from Congo humanitarian mission - Emirates 24|7",
+      "link": "https://www.emirates247.com/world/france-confirms-first-ebola-case-in-doctor-returning-from-congo-humanitarian-mission/2936",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case in doctor returning from Congo humanitarian mission&nbsp;&nbsp;Emirates 24|7",
+      "tag": "analysis"
+    },
+    {
       "title": "France confirms first Ebola case, found in doctor who flew back from Congo | World News - Hindustan Times",
       "link": "https://www.hindustantimes.com/world-news/france-confirms-first-ebola-case-found-in-doctor-who-flew-back-from-congo-101782301890929.html",
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France confirms first Ebola case, found in doctor who flew back from Congo | World News&nbsp;&nbsp;Hindustan Times",
+      "tag": "analysis"
+    },
+    {
+      "title": "France confirms first Ebola case after doctor returning from DRC tests positive - The National",
+      "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
+      "tag": "analysis"
+    },
+    {
+      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
+      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
+      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
+      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
       "tag": "analysis"
     },
     {
@@ -1819,20 +1833,6 @@ window.FEED_DATA = {
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "Ebola -- France. Significance Rating: 4 Rare Ebola strain confirmed in France as doctor diagnosed with potentially deadly virus&nbsp;&nbsp;Kent Live",
       "tag": "cases"
-    },
-    {
-      "title": "France confirms first Ebola case after doctor returning from DRC tests positive - The National",
-      "link": "https://www.thenationalnews.com/news/europe/2026/06/24/france-confirms-first-ebola-case-after-doctor-returning-from-drc-tests-positive/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France confirms first Ebola case after doctor returning from DRC tests positive&nbsp;&nbsp;The National",
-      "tag": "analysis"
-    },
-    {
-      "title": "France reports first Ebola case in doctor returning from DR Congo - The Eastleigh Voice",
-      "link": "https://eastleighvoice.co.ke/health/371767/france-reports-first-ebola-case-in-doctor-returning-from-dr-congo",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France reports first Ebola case in doctor returning from DR Congo&nbsp;&nbsp;The Eastleigh Voice",
-      "tag": "analysis"
     },
     {
       "title": "Study Showing Benefits Of Covid Vaccine Published In AMA Journal After CDC Refused To Run It In Theirs",
