@@ -1,26 +1,26 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 05 Jul 2026 19:20:28 Z",
-  "fetchedAt": "2026-07-05T19:20:29Z",
+  "lastBuildDate": "Sun, 05 Jul 2026 22:03:20 Z",
+  "fetchedAt": "2026-07-05T22:03:20Z",
   "itemCount": 250,
   "stats": {
     "drc": {
-      "confirmed": 1502,
-      "deaths": 473,
-      "recovered": 229,
+      "confirmed": 1528,
+      "deaths": 492,
+      "recovered": 239,
       "zonesAffected": 41,
       "topHealthZones": {
-        "Bunia": 426,
-        "Rwampara": 322,
-        "Mongbwalu": 273,
+        "Bunia": 431,
+        "Rwampara": 333,
+        "Mongbwalu": 276,
         "Nyankunde": 95,
         "Nizi": 65,
         "Katwa": 51,
         "Mongbalu": 47,
-        "Butembo": 38,
+        "Butembo": 40,
         "Lita": 33,
-        "Beni": 28,
-        "Mangala": 24,
+        "Beni": 29,
+        "Mangala": 26,
         "Komanda": 19,
         "Bambu": 18,
         "Tchomia": 15,
@@ -30,22 +30,22 @@ window.FEED_DATA = {
         "Logo": 7,
         "Aungba": 6,
         "Damas": 5,
+        "Kyondo": 4,
+        "Musienene": 4,
         "Mandima": 4,
         "Miti-Murhesa": 3,
         "Aru": 3,
         "Oicha": 3,
-        "Kyondo": 3,
         "Rimba": 3,
-        "Musienene": 3,
         "Drodro": 3,
-        "Goma": 2,
         "Kalunguta": 2,
         "Mambasa": 2,
         "Kambala": 2,
+        "Masereka": 2,
+        "Goma": 1,
         "Fataki": 1,
         "Gethy": 1,
         "Gety": 1,
-        "Masereka": 1,
         "Vuhovi": 1,
         "Mabalako": 1,
         "Lolwa": 1,
@@ -54,25 +54,25 @@ window.FEED_DATA = {
       },
       "healthcareWorkers": 102,
       "contacts": 10821,
-      "suspected": 213,
-      "cfr": 31.5
+      "suspected": 185,
+      "cfr": 32.2
     },
     "drcMeta": {
       "confirmed": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-02)"
+        "src": "INRB sitrep (2026-07-03)"
       },
       "deaths": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-02)"
+        "src": "INRB sitrep (2026-07-03)"
       },
       "recovered": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-02)"
+        "src": "INRB sitrep (2026-07-03)"
       },
       "suspected": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-02)"
+        "src": "INRB sitrep (2026-07-03)"
       }
     },
     "drcTiers": {
@@ -86,10 +86,10 @@ window.FEED_DATA = {
         "recovered": 229
       },
       "inrb": {
-        "confirmed": 1502,
-        "deaths": 473,
-        "suspected": 213,
-        "recovered": 229
+        "confirmed": 1528,
+        "deaths": 492,
+        "suspected": 185,
+        "recovered": 239
       }
     },
     "provinces": {
@@ -101,13 +101,13 @@ window.FEED_DATA = {
       "northKivu": {
         "zonesAffected": 11,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-02)",
-        "confirmed": 133
+        "source": "INRB sitrep (2026-07-03)",
+        "confirmed": 138
       },
       "southKivu": {
         "zonesAffected": 1,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-02)",
+        "source": "INRB sitrep (2026-07-03)",
         "confirmed": 3
       }
     },
@@ -127,9 +127,9 @@ window.FEED_DATA = {
       "fetchedAt": "2026-07-03T16:26:09Z"
     },
     "inrbSitrep": {
-      "asOf": "2026-07-02",
+      "asOf": "2026-07-03",
       "url": "https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/insp_sitrep/processed",
-      "fetchedAt": "2026-07-04T13:37:10.861095+00:00"
+      "fetchedAt": "2026-07-05T22:03:21.333117+00:00"
     }
   },
   "items": [
@@ -195,6 +195,13 @@ window.FEED_DATA = {
       "pubDate": "Fri, 03 Jul 2026 15:58:00 Z",
       "desc": "The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to evolve rapidly, with sustained transmission and increasing numbers of reported cases. As of 1 July, a cumulative of 1460 confirmed cases, including 452 deaths, have been reported from the Democratic Republic of the Congo. As of 2 July, Ugan",
       "tag": "cases"
+    },
+    {
+      "title": "The strange case of Dr. Competition and Mr. Climate : assessing the compatibility of EU industrial decarbonization and competitiveness",
+      "link": "https://doi.org/10.70675/ac8952c2za0a3z44cczb0b7z6808fc721354",
+      "pubDate": "Fri, 03 Jul 2026 15:20:00 Z",
+      "desc": "DOI: 10.70675/ac8952c2za0a3z44cczb0b7z6808fc721354\nAuthors: Aliénor Cameron\n L’Étrange Cas du Dr. Compétitivité et de M. Climat : une évaluation de la compatibilité entre décarbonation et compétitivité industrielles au sein de l'Union Européenne \n                 L'Union européenne (UE) doit rapidement dé",
+      "tag": "analysis"
     },
     {
       "title": "Ebola Outbreak",
@@ -372,6 +379,13 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
+      "title": "Hantavirus stability and inactivation",
+      "link": "https://doi.org/10.1371/journal.pntd.0013781",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.pntd.0013781\nAuthors: Léna Vandenabeele, Abraham Ayanwale, Thomas Pietschmann, Benjamin Erick Nilsson-Payant\n Hantaviruses are zoonotic viruses that can cause highly pathogenic disease, including hantavirus cardiopulmonary syndrome (HCPS) and haemorrhagic fever with renal syndrome (HFRS), in humans with case-fatality rat",
+      "tag": "analysis"
+    },
+    {
       "title": "À Kinshasa, le Président Tshisekedi donne une impulsion à la riposte contre Ebola avec l’appui solidaire du Président Ramaphosa",
       "link": "https://africacdc.org/news-item/a-kinshasa-le-president-tshisekedi-donne-une-impulsion-a-la-riposte-contre-ebola-avec-lappui-solidaire-du-president-ramaphosa/",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
@@ -526,20 +540,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
-      "link": "https://www.preprints.org/manuscript/202607.0058",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivore, and chiropteran reservoirs, with humans infected mainly through inhalation of aerosolized excreta. They cause two major syndromes: hemorrhagic fever with renal syndrome (HFRS), endemic in Europe and Asia, and ha",
-      "tag": "analysis"
-    },
-    {
-      "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
-      "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
-      "tag": "analysis"
-    },
-    {
       "title": "Janibacter melonis Bone Marrow Infection in an Immunocompetent Child With Prolonged Fever of Unknown Origin: A case report",
       "link": "https://doi.org/10.21203/rs.3.rs-9920478/v1",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -561,18 +561,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
+      "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "Highlights•A BiLSTM-based model enables early interpretation of RT-qPCR amplification curves.•Fluorescence values are accurately predicted using early-cycle qPCR data.•Reliable qualitative classification is achieved using only 27 amplification cycles.•The method reduces required qPCR cycles by approximately 40%.•The approach can be integrated into",
+      "tag": "analysis"
+    },
+    {
       "title": "Elimination of gambiense human African trypanosomiasis as a public health problem in Republic of Guinea: Paving the way for zero transmission",
       "link": "https://doi.org/10.1371/journal.pntd.0014469",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1371/journal.pntd.0014469\nAuthors: Moïse Kagbadouno, Oumou Camara, Bailo Mamadou Diallo, Abdoulaye Dansy Camara, Aissata Soumah, Mamadou Leno, Favié Béavogui, Mohamed Diaby Gassama, Issiaga Camara, Bamoro Coulibaly, Dramane Kaba, Aïssata Camara, Salimatou Boiro, Hamidou Ilboudo, Jean-Baptiste Rayaisse, Annette MacLeod, Joseph Ndungu, Sylvai",
       "tag": "analysis"
-    },
-    {
-      "title": "Detected case growth and outcome heterogeneity during the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda",
-      "link": "https://doi.org/10.21203/rs.3.rs-10090145/v1",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10090145/v1\nAuthors: Tambe Elvis Akem, Eta Calvin Oben\n Abstract \n                 Background\n The 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo (DRC), with cross-border cases in Uganda, evolved amid mobility, insecurity, delayed detection, laboratory constraints, and pressure on",
-      "tag": "cases"
     },
     {
       "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
@@ -582,10 +582,24 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
-      "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
+      "title": "Detected case growth and outcome heterogeneity during the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda",
+      "link": "https://doi.org/10.21203/rs.3.rs-10090145/v1",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "Highlights•A BiLSTM-based model enables early interpretation of RT-qPCR amplification curves.•Fluorescence values are accurately predicted using early-cycle qPCR data.•Reliable qualitative classification is achieved using only 27 amplification cycles.•The method reduces required qPCR cycles by approximately 40%.•The approach can be integrated into",
+      "desc": "DOI: 10.21203/rs.3.rs-10090145/v1\nAuthors: Tambe Elvis Akem, Eta Calvin Oben\n Abstract \n                 Background\n The 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo (DRC), with cross-border cases in Uganda, evolved amid mobility, insecurity, delayed detection, laboratory constraints, and pressure on",
+      "tag": "cases"
+    },
+    {
+      "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
+      "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
+      "tag": "analysis"
+    },
+    {
+      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
+      "link": "https://www.preprints.org/manuscript/202607.0058",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivore, and chiropteran reservoirs, with humans infected mainly through inhalation of aerosolized excreta. They cause two major syndromes: hemorrhagic fever with renal syndrome (HFRS), endemic in Europe and Asia, and ha",
       "tag": "analysis"
     },
     {
@@ -1868,27 +1882,13 @@ window.FEED_DATA = {
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "Ebola -- France. Significance Rating: 4 First Ebola case confirmed in France, health ministry says&nbsp;&nbsp;Euronews.com",
       "tag": "cases"
-    },
-    {
-      "title": "Rare Ebola strain confirmed in France as doctor diagnosed with potentially deadly virus - Kent Live",
-      "link": "https://www.kentlive.news/news/health/rare-ebola-strain-confirmed-france-11028220",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "Ebola -- France. Significance Rating: 4 Rare Ebola strain confirmed in France as doctor diagnosed with potentially deadly virus&nbsp;&nbsp;Kent Live",
-      "tag": "cases"
-    },
-    {
-      "title": "Study Showing Benefits Of Covid Vaccine Published In AMA Journal After CDC Refused To Run It In Theirs",
-      "link": "https://kffhealthnews.org/morning-breakout/vaccines-062426/",
-      "pubDate": "Wed, 24 Jun 2026 13:08:00 Z",
-      "desc": "A study on Covid vaccines that the Centers for Disease Control and Prevention’s acting director blocked from publication came out Tuesday in a different journal. The findings show that Covid vaccines reduced the likelihood of severe illness by about half among adults last fall and winter.",
-      "tag": "analysis"
     }
   ],
   "highWater": {
     "drc": {
       "deaths": {
-        "value": 473,
-        "asOf": "2026-07-04T13:37:09Z",
+        "value": 492,
+        "asOf": "2026-07-05T22:03:20Z",
         "source": "INRB MVE Sitrep"
       },
       "confirmed_deaths": {
@@ -1902,8 +1902,8 @@ window.FEED_DATA = {
         "source": "WHO / OMS"
       },
       "confirmed": {
-        "value": 1502,
-        "asOf": "2026-07-04T13:37:09Z",
+        "value": 1528,
+        "asOf": "2026-07-05T22:03:20Z",
         "source": "INRB MVE Sitrep"
       },
       "active": {
