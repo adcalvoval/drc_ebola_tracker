@@ -1,27 +1,27 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 06 Jul 2026 10:26:51 Z",
-  "fetchedAt": "2026-07-06T10:26:51Z",
+  "lastBuildDate": "Mon, 06 Jul 2026 15:37:12 Z",
+  "fetchedAt": "2026-07-06T15:37:12Z",
   "itemCount": 250,
   "stats": {
     "drc": {
-      "confirmed": 1528,
-      "deaths": 492,
-      "recovered": 239,
+      "confirmed": 1561,
+      "deaths": 506,
+      "recovered": 254,
       "zonesAffected": 41,
       "topHealthZones": {
-        "Bunia": 431,
-        "Rwampara": 333,
-        "Mongbwalu": 276,
+        "Bunia": 438,
+        "Rwampara": 344,
+        "Mongbwalu": 278,
         "Nyankunde": 95,
-        "Nizi": 65,
-        "Katwa": 51,
+        "Nizi": 72,
+        "Katwa": 52,
         "Mongbalu": 47,
         "Butembo": 40,
         "Lita": 33,
         "Beni": 29,
         "Mangala": 26,
-        "Komanda": 19,
+        "Komanda": 22,
         "Bambu": 18,
         "Tchomia": 15,
         "Nia-Nia": 12,
@@ -29,9 +29,9 @@
         "Kilo": 9,
         "Logo": 7,
         "Aungba": 6,
+        "Musienene": 6,
         "Damas": 5,
         "Kyondo": 4,
-        "Musienene": 4,
         "Mandima": 4,
         "Miti-Murhesa": 3,
         "Aru": 3,
@@ -54,31 +54,31 @@
       },
       "healthcareWorkers": 102,
       "contacts": 10821,
-      "suspected": 185,
-      "cfr": 32.2
+      "suspected": 354,
+      "cfr": 32.4
     },
     "drcMeta": {
       "confirmed": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-03)"
+        "src": "INRB sitrep (2026-07-04)"
       },
       "deaths": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-03)"
+        "src": "INRB sitrep (2026-07-04)"
       },
       "recovered": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-03)"
+        "src": "INRB sitrep (2026-07-04)"
       },
       "suspected": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-03)"
+        "src": "INRB sitrep (2026-07-04)"
       }
     },
     "drcTiers": {
       "media": {
-        "deaths": 452,
-        "confirmed": 1460
+        "deaths": 473,
+        "confirmed": 1502
       },
       "whoDon": {
         "confirmed": 1460,
@@ -86,10 +86,10 @@
         "recovered": 229
       },
       "inrb": {
-        "confirmed": 1528,
-        "deaths": 492,
-        "suspected": 185,
-        "recovered": 239
+        "confirmed": 1561,
+        "deaths": 506,
+        "suspected": 354,
+        "recovered": 254
       }
     },
     "provinces": {
@@ -101,13 +101,13 @@
       "northKivu": {
         "zonesAffected": 11,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-03)",
-        "confirmed": 138
+        "source": "INRB sitrep (2026-07-04)",
+        "confirmed": 141
       },
       "southKivu": {
         "zonesAffected": 1,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-03)",
+        "source": "INRB sitrep (2026-07-04)",
         "confirmed": 3
       }
     },
@@ -127,9 +127,9 @@
       "fetchedAt": "2026-07-03T16:26:09Z"
     },
     "inrbSitrep": {
-      "asOf": "2026-07-03",
+      "asOf": "2026-07-04",
       "url": "https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/insp_sitrep/processed",
-      "fetchedAt": "2026-07-05T22:03:21.333117+00:00"
+      "fetchedAt": "2026-07-06T15:37:14.916537+00:00"
     }
   },
   "items": [
@@ -155,11 +155,25 @@
       "tag": "analysis"
     },
     {
+      "title": "04 July 2026 - Bundibugyo virus disease outbreak: 1502 confirmed cases and 473 deaths reported in DRC; PARTNERS clinical trial opens enrolment",
+      "link": "https://beaconbio.org/en/report/?reportid=e91543c0-6f75-42e2-85a2-b12b539d3660",
+      "pubDate": "Sat, 04 Jul 2026 21:08:00 Z",
+      "desc": "Event Title: Bundibugyo virus disease, Democratic Republic of the Congo, Uganda, France\nEvent URL: https://beaconbio.org/en/event/?eventid=1a9a0ef4-262f-45a1-9018-aa8f99d93a7c\n\nSources Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda – Disease Outbreak News, WHO Disease Outbreak News, 02 Jul 2026 Ebola Situation U",
+      "tag": "cases"
+    },
+    {
       "title": "DRC Mandates 21-Day Monitoring for Travelers From Ebola-Affected Zones After French Doctor Tests Positive Abroad",
       "link": "https://globalbiodefense.com/2026/06/26/drc-mandates-21-day-monitoring-for-travelers-from-ebola-affected-zones-after-french-doctor-tests-positive-abroad/",
       "pubDate": "Sat, 04 Jul 2026 14:57:00 Z",
       "desc": "The Democratic Republic of Congo has imposed a mandatory 21-day monitoring period for anyone traveling from areas affected by the ongoing Ebola outbreak in Ituri province, the country’s health minister announced Wednesday — a move that comes as a French physician who worked at an Ebola treatment....",
       "tag": "response"
+    },
+    {
+      "title": "Cases in the norovirus outbreak in David, Chiriquí, Panama have reached 2576 and are now declining; source remains under investigation",
+      "link": "https://beaconbio.org/en/report/?reportid=2dda099a-bbcb-46fd-a9e3-92c28a7a944e",
+      "pubDate": "Sat, 04 Jul 2026 12:40:00 Z",
+      "desc": "Event Title: Norovirus, Panama\nEvent URL: https://beaconbio.org/en/event/?eventid=c67d3eda-3f1d-4866-b364-dc57b7afea78\n\nSources Ministerio de Salud e Panama (MINSA) - X official page. MINSA statement on gastroenteritis cases in David. 03 Jul 2026 (in Spanish) Ministerio de Salud de Panama (MINSA). Epidemiological surveillance by the Ministry of Hea",
+      "tag": "cases"
     },
     {
       "title": "Race for rapid Ebola test narrows to five potential manufacturers",
@@ -274,6 +288,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Fine particulate matter exposure and long-term lung-function trajectory in adults with cystic fibrosis",
+      "link": "https://doi.org/10.1093/annalsats/aaoag188",
+      "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/annalsats/aaoag188\nAuthors: Bob Z Sun, Jonathan D Cogen, Marshall Brown, Anna V Faino, Karen Hinckley Stukovsky, Adam A Szpiro, Lianne Sheppard, Christopher H Goss, Joel Kaufman, Margaret Rosenfeld\n Abstract \n                   \n                     Rationale \n                    <",
+      "tag": "analysis"
+    },
+    {
       "title": "L’INSP intensifie les interventions dans la Zone de Santé de Nizi pour renforcer la réponse opérationnelle.",
       "link": "https://insp.cd/linsp-intensifie-les-interventions-dans-la-zone-de-sante-de-nizi-pour-renforcer-la-reponse-operationnelle/",
       "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
@@ -286,13 +307,6 @@
       "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
       "desc": "One month after the declaration of the 2026 Bundibugyo Ebola outbreak as both a global and continental public health emergency, transmission continues to expand in eastern Democratic Republic of Congo (DRC) and Uganda despite substantial response efforts. As of 14 June 2026, there were 827 confirmed cases and 194 deaths, with Ituri Province",
       "tag": "pheic"
-    },
-    {
-      "title": "Fine particulate matter exposure and long-term lung-function trajectory in adults with cystic fibrosis",
-      "link": "https://doi.org/10.1093/annalsats/aaoag188",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/annalsats/aaoag188\nAuthors: Bob Z Sun, Jonathan D Cogen, Marshall Brown, Anna V Faino, Karen Hinckley Stukovsky, Adam A Szpiro, Lianne Sheppard, Christopher H Goss, Joel Kaufman, Margaret Rosenfeld\n Abstract \n                   \n                     Rationale \n                    <",
-      "tag": "analysis"
     },
     {
       "title": "Mammarenavirus-Induced Remodeling of the Cellular Lipid Landscape Reveals Sphingolipid Metabolism as a Novel Target for Antiviral Intervention",
@@ -407,13 +421,6 @@
       "tag": "cases"
     },
     {
-      "title": "Historical Context of the Pandemic",
-      "link": "https://openalex.org/W7166817160",
-      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4324/9781003459125-2\nAuthors: Muhammad Asadullah, Alana Abramson\nThis chapter situates the COVID-19 pandemic within a longer historical and conceptual trajectory, arguing that pandemics are not merely biological events, but deeply social, political, ethical, and cultural phenomena. Drawing on epidemiological, philosophical, and historical l",
-      "tag": "analysis"
-    },
-    {
       "title": "Hantavirus stability and inactivation",
       "link": "https://doi.org/10.1371/journal.pntd.0013781",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
@@ -421,10 +428,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Inspiring, shaping and sustaining an African research and development agenda",
-      "link": "https://africacdc.org/news-item/inspiring-shaping-and-sustaining-an-african-research-and-development-agenda/",
+      "title": "Historical Context of the Pandemic",
+      "link": "https://openalex.org/W7166817160",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
-      "desc": "Africa’s repeated exclusion from timely access to vaccines, diagnostics and treatments during major health emergencies—including the COVID-19 pandemic and recent mpox, Marburg virus disease and Ebola outbreaks—has demonstrated the urgent need for the continent to build its own end-to-end research and development (R&D) capacity.\n\n\n\nReliance o",
+      "desc": "DOI: 10.4324/9781003459125-2\nAuthors: Muhammad Asadullah, Alana Abramson\nThis chapter situates the COVID-19 pandemic within a longer historical and conceptual trajectory, arguing that pandemics are not merely biological events, but deeply social, political, ethical, and cultural phenomena. Drawing on epidemiological, philosophical, and historical l",
       "tag": "analysis"
     },
     {
@@ -442,17 +449,24 @@
       "tag": "analysis"
     },
     {
-      "title": "Mucin-induced metabolic reprogramming in <i>Pseudomonas aeruginosa</i> clinical isolates",
-      "link": "https://doi.org/10.1128/msystems.00580-26",
-      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/msystems.00580-26\nAuthors: Mohammad Mazharul Islam, Glynis L. Kolling, Joanna B. Goldberg, Katharina Ribbeck, Jason A. Papin\n ABSTRACT \n                   \n                     \n                     \n                      Mucins modulate microbial metabolism, which is crucial in many h",
-      "tag": "analysis"
-    },
-    {
       "title": "Exploratory Claims‐Based Assessment of Diagnosed and Potentially Undiagnosed von Willebrand Disease in Japan",
       "link": "https://doi.org/10.1111/hae.70352",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1111/hae.70352\nAuthors: Azusa Nagao, Fumikazu Shimamura, Kosuke Iwasaki",
+      "tag": "analysis"
+    },
+    {
+      "title": "Inspiring, shaping and sustaining an African research and development agenda",
+      "link": "https://africacdc.org/news-item/inspiring-shaping-and-sustaining-an-african-research-and-development-agenda/",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
+      "desc": "Africa’s repeated exclusion from timely access to vaccines, diagnostics and treatments during major health emergencies—including the COVID-19 pandemic and recent mpox, Marburg virus disease and Ebola outbreaks—has demonstrated the urgent need for the continent to build its own end-to-end research and development (R&D) capacity.\n\n\n\nReliance o",
+      "tag": "analysis"
+    },
+    {
+      "title": "Mucin-induced metabolic reprogramming in <i>Pseudomonas aeruginosa</i> clinical isolates",
+      "link": "https://doi.org/10.1128/msystems.00580-26",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1128/msystems.00580-26\nAuthors: Mohammad Mazharul Islam, Glynis L. Kolling, Joanna B. Goldberg, Katharina Ribbeck, Jason A. Papin\n ABSTRACT \n                   \n                     \n                     \n                      Mucins modulate microbial metabolism, which is crucial in many h",
       "tag": "analysis"
     },
     {
@@ -631,6 +645,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
+      "link": "https://doi.org/10.7759/cureus.111921",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
+      "tag": "response"
+    },
+    {
       "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo &amp; Uganda",
       "link": "https://doi.org/10.1016/j.ajt.2026.07.001",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -638,11 +659,25 @@
       "tag": "analysis"
     },
     {
-      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
-      "link": "https://doi.org/10.7759/cureus.111921",
+      "title": "An unusual gastric mass in a patient with human immunodeficiency virus infection",
+      "link": "https://doi.org/10.1016/j.dld.2026.06.011",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
-      "tag": "response"
+      "desc": "DOI: 10.1016/j.dld.2026.06.011\nAuthors: Aiji Hattori, Yasuhiko Hamada, Hayato Nakagawa",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
+      "link": "https://doi.org/10.71320/bcs.0019",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
+      "tag": "analysis"
+    },
+    {
+      "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
+      "link": "https://doi.org/10.1161/circgen.125.005653",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1161/circgen.125.005653\nAuthors: Jonas Reckmann, Hendrik Milting, Sabrina Voß, Marco T. Radukic, Franziska Klag, Franziska Flottmann, Alexander Lütkemeyer, Joline Groß, Anna Gärtner, Sandra Landwehr, Dario Anselmetti, Annika Hoyer, Kristian M. Müller, Jan Gummert, Volker Walhorn, Andreas Brodehl\n \n                     BA",
+      "tag": "analysis"
     },
     {
       "title": "Beneficial Role of Vitamin D Supplementation and Clinical Outcomes in Patients with Dengue Fever: A Randomised Controlled Trial",
@@ -656,20 +691,6 @@
       "link": "https://doi.org/10.3201/eid3207.251284",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3201/eid3207.251284\nAuthors: Raghad I. Khaleel, Ihab R. Aakef, Riyadh A. Al-hilfi, Hussein A. Hasan, Iman M. Aufi, Hawraa A. Shakir, Ahmed A. Hussein, Noora A. Abdulhadi, Zainb A. Mohsin, Amal A. Raheem, Sarah W. Ahmed, Ghazwan A. Baghdadi, Chiori Kodama, Antoine Chaillon, Anaïs Legand, Pierre Formenty, Sinan G. Mahdi, Adnan Khamasi",
-      "tag": "analysis"
-    },
-    {
-      "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
-      "link": "https://doi.org/10.1161/circgen.125.005653",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1161/circgen.125.005653\nAuthors: Jonas Reckmann, Hendrik Milting, Sabrina Voß, Marco T. Radukic, Franziska Klag, Franziska Flottmann, Alexander Lütkemeyer, Joline Groß, Anna Gärtner, Sandra Landwehr, Dario Anselmetti, Annika Hoyer, Kristian M. Müller, Jan Gummert, Volker Walhorn, Andreas Brodehl\n \n                     BA",
-      "tag": "analysis"
-    },
-    {
-      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
-      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
       "tag": "analysis"
     },
     {
@@ -687,10 +708,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
-      "link": "https://doi.org/10.71320/bcs.0019",
+      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
+      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
+      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
       "tag": "analysis"
     },
     {
@@ -701,17 +722,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
-      "link": "https://doi.org/10.20944/preprints202607.0058.v1",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.20944/preprints202607.0058.v1\nAuthors: Suganya P., Shreya Kishore, Harikaran Jeyakkodi, Vinod G., K. G. Sruthi, Pavani Duppada, Shibin Dani P., V. Priya, Savitha Lakshmi raghavan, Rajkumar Manoharan\n Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivo",
-      "tag": "analysis"
-    },
-    {
       "title": "Rare variants in genes related to inborn errors of immunity in patients with rheumatoid arthritis and secondary immunodeficiency",
       "link": "https://doi.org/10.1136/rmdopen-2026-007046",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1136/rmdopen-2026-007046\nAuthors: Faranaz Atschekzei, Natalia Dubrowinskaja, Manfred Anim, Doris Steinemann, Sandra von Hardenberg, Winfried Hofmann, Robert Geffers, Torsten Witte, Georgios Sogkas\n \n                     Objectives \n                     Treatment of rheumatoid arthritis (RA) relies on i",
+      "tag": "analysis"
+    },
+    {
+      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
+      "link": "https://doi.org/10.20944/preprints202607.0058.v1",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.20944/preprints202607.0058.v1\nAuthors: Suganya P., Shreya Kishore, Harikaran Jeyakkodi, Vinod G., K. G. Sruthi, Pavani Duppada, Shibin Dani P., V. Priya, Savitha Lakshmi raghavan, Rajkumar Manoharan\n Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivo",
       "tag": "analysis"
     },
     {
@@ -1861,34 +1882,13 @@
       "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France confirms first Ebola case in doctor returning from Congo humanitarian mission&nbsp;&nbsp;Emirates 24|7",
       "tag": "analysis"
-    },
-    {
-      "title": "France reports Ebola case in doctor returning from DRC - Business Day",
-      "link": "https://www.businessday.co.za/world/europe/2026-06-24-france-reports-ebola-case-in-doctor-returning-from-drc/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France reports Ebola case in doctor returning from DRC&nbsp;&nbsp;Business Day",
-      "tag": "analysis"
-    },
-    {
-      "title": "France Confirms First Ebola Case Amid DRC Outbreak - The Trumpet Newspaper Nigeria",
-      "link": "https://thetrumpet.ng/france-confirms-first-ebola-case-amid-drc-outbreak/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France Confirms First Ebola Case Amid DRC Outbreak&nbsp;&nbsp;The Trumpet Newspaper Nigeria",
-      "tag": "analysis"
-    },
-    {
-      "title": "France Confirms Ebola Case Tied To Congo Outbreak - thedeepdive.ca",
-      "link": "https://thedeepdive.ca/france-ebola-case-congo-outbreak/",
-      "pubDate": "Wed, 24 Jun 2026 13:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France Confirms Ebola Case Tied To Congo Outbreak&nbsp;&nbsp;thedeepdive.ca",
-      "tag": "analysis"
     }
   ],
   "highWater": {
     "drc": {
       "deaths": {
-        "value": 492,
-        "asOf": "2026-07-05T22:03:20Z",
+        "value": 506,
+        "asOf": "2026-07-06T15:37:12Z",
         "source": "INRB MVE Sitrep"
       },
       "confirmed_deaths": {
@@ -1902,8 +1902,8 @@
         "source": "WHO / OMS"
       },
       "confirmed": {
-        "value": 1528,
-        "asOf": "2026-07-05T22:03:20Z",
+        "value": 1561,
+        "asOf": "2026-07-06T15:37:12Z",
         "source": "INRB MVE Sitrep"
       },
       "active": {
