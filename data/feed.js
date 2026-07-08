@@ -1,50 +1,50 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 08 Jul 2026 05:54:04 Z",
-  "fetchedAt": "2026-07-08T05:54:04Z",
+  "lastBuildDate": "Wed, 08 Jul 2026 08:31:54 Z",
+  "fetchedAt": "2026-07-08T08:31:55Z",
   "itemCount": 250,
   "stats": {
     "drc": {
-      "suspected": 354,
-      "deaths": 506,
-      "confirmed": 1561,
-      "recovered": 254,
+      "suspected": 135,
+      "deaths": 521,
+      "confirmed": 1624,
+      "recovered": 273,
       "zonesAffected": 41,
       "topHealthZones": {
-        "Bunia": 438,
-        "Rwampara": 344,
-        "Mongbwalu": 278,
-        "Nyankunde": 95,
-        "Nizi": 72,
+        "Bunia": 452,
+        "Rwampara": 349,
+        "Mongbwalu": 288,
+        "Nyankunde": 96,
+        "Nizi": 78,
         "Katwa": 52,
         "Mongbalu": 47,
         "Butembo": 40,
+        "Mangala": 33,
         "Lita": 33,
         "Beni": 29,
-        "Mangala": 26,
+        "Bambu": 25,
         "Komanda": 22,
-        "Bambu": 18,
+        "Nia-Nia": 20,
         "Tchomia": 15,
-        "Nia-Nia": 12,
         "Nyakunde": 10,
         "Kilo": 9,
+        "Musienene": 8,
         "Logo": 7,
         "Aungba": 6,
-        "Musienene": 6,
         "Damas": 5,
         "Kyondo": 4,
+        "Rimba": 4,
         "Mandima": 4,
         "Miti-Murhesa": 3,
         "Aru": 3,
         "Oicha": 3,
-        "Rimba": 3,
+        "Masereka": 3,
         "Drodro": 3,
         "Kalunguta": 2,
+        "Fataki": 2,
         "Mambasa": 2,
         "Kambala": 2,
-        "Masereka": 2,
         "Goma": 1,
-        "Fataki": 1,
         "Gethy": 1,
         "Gety": 1,
         "Vuhovi": 1,
@@ -55,24 +55,24 @@ window.FEED_DATA = {
       },
       "healthcareWorkers": 102,
       "contacts": 10821,
-      "cfr": 32.4
+      "cfr": 32.1
     },
     "drcMeta": {
       "suspected": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-04)"
+        "src": "INRB sitrep (2026-07-05)"
       },
       "deaths": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-04)"
+        "src": "INRB sitrep (2026-07-05)"
       },
       "confirmed": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-04)"
+        "src": "INRB sitrep (2026-07-05)"
       },
       "recovered": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-04)"
+        "src": "INRB sitrep (2026-07-05)"
       }
     },
     "drcTiers": {
@@ -95,10 +95,10 @@ window.FEED_DATA = {
         "recovered": 229
       },
       "inrb": {
-        "confirmed": 1561,
-        "deaths": 506,
-        "suspected": 354,
-        "recovered": 254
+        "confirmed": 1624,
+        "deaths": 521,
+        "suspected": 135,
+        "recovered": 273
       }
     },
     "provinces": {
@@ -110,13 +110,13 @@ window.FEED_DATA = {
       "northKivu": {
         "zonesAffected": 11,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-04)",
-        "confirmed": 141
+        "source": "INRB sitrep (2026-07-05)",
+        "confirmed": 144
       },
       "southKivu": {
         "zonesAffected": 1,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-04)",
+        "source": "INRB sitrep (2026-07-05)",
         "confirmed": 3
       }
     },
@@ -136,9 +136,9 @@ window.FEED_DATA = {
       "fetchedAt": "2026-07-03T16:26:09Z"
     },
     "inrbSitrep": {
-      "asOf": "2026-07-04",
+      "asOf": "2026-07-05",
       "url": "https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/insp_sitrep/processed",
-      "fetchedAt": "2026-07-06T15:37:14.916537+00:00"
+      "fetchedAt": "2026-07-08T08:31:56.380417+00:00"
     }
   },
   "items": [
@@ -157,18 +157,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "G protein-coupled receptor SmGPCR9 interacts with neuropeptides and controls spermatogenesis in Schistosoma mansoni",
-      "link": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014096",
-      "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
-      "desc": "Schistosomiasis is a neglected tropical disease caused by parasitic flatworms of the genus Schistosoma , impacting hundreds of millions of people and animals globally. Disease pathology primarily originates from host immune responses to parasite eggs, which are produced only when female schistosomes are continuously paired with males.",
-      "tag": "response"
-    },
-    {
       "title": "2 juillet 2026 Allocution liminaire du Directeur général de l’OMS lors du point de presse du 2 juillet 2026",
       "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---2-july-2026",
       "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
       "desc": "Bonjour à toutes les personnes présentes aujourd’hui, et bonjour ou bonsoir à toutes celles qui nous rejoignent en ligne. Aujourd’hui, la dernière personne ayant été en contact avec une personne exposée au hantavirus à bord du navire de croisière MV Hondius a terminé sa période de quarantaine, a été testée négative et est rentrée chez elle.",
       "tag": "analysis"
+    },
+    {
+      "title": "G protein-coupled receptor SmGPCR9 interacts with neuropeptides and controls spermatogenesis in Schistosoma mansoni",
+      "link": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014096",
+      "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
+      "desc": "Schistosomiasis is a neglected tropical disease caused by parasitic flatworms of the genus Schistosoma , impacting hundreds of millions of people and animals globally. Disease pathology primarily originates from host immune responses to parasite eggs, which are produced only when female schistosomes are continuously paired with males.",
+      "tag": "response"
     },
     {
       "title": "El Ministerio de Salud refuerza la vigilancia epidemiológica y llama a completar los esquemas de vacunación",
@@ -563,17 +563,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Hantavirus stability and inactivation",
-      "link": "https://doi.org/10.1371/journal.pntd.0013781",
-      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.pntd.0013781\nAuthors: Léna Vandenabeele, Abraham Ayanwale, Thomas Pietschmann, Benjamin Erick Nilsson-Payant\n Hantaviruses are zoonotic viruses that can cause highly pathogenic disease, including hantavirus cardiopulmonary syndrome (HCPS) and haemorrhagic fever with renal syndrome (HFRS), in humans with case-fatality rat",
-      "tag": "analysis"
-    },
-    {
       "title": "Historical Context of the Pandemic",
       "link": "https://openalex.org/W7166817160",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.4324/9781003459125-2\nAuthors: Muhammad Asadullah, Alana Abramson\nThis chapter situates the COVID-19 pandemic within a longer historical and conceptual trajectory, arguing that pandemics are not merely biological events, but deeply social, political, ethical, and cultural phenomena. Drawing on epidemiological, philosophical, and historical l",
+      "tag": "analysis"
+    },
+    {
+      "title": "Hantavirus stability and inactivation",
+      "link": "https://doi.org/10.1371/journal.pntd.0013781",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.pntd.0013781\nAuthors: Léna Vandenabeele, Abraham Ayanwale, Thomas Pietschmann, Benjamin Erick Nilsson-Payant\n Hantaviruses are zoonotic viruses that can cause highly pathogenic disease, including hantavirus cardiopulmonary syndrome (HCPS) and haemorrhagic fever with renal syndrome (HFRS), in humans with case-fatality rat",
       "tag": "analysis"
     },
     {
@@ -752,6 +752,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
+      "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "Highlights•A BiLSTM-based model enables early interpretation of RT-qPCR amplification curves.•Fluorescence values are accurately predicted using early-cycle qPCR data.•Reliable qualitative classification is achieved using only 27 amplification cycles.•The method reduces required qPCR cycles by approximately 40%.•The approach can be integrated into",
+      "tag": "analysis"
+    },
+    {
       "title": "Elimination of gambiense human African trypanosomiasis as a public health problem in Republic of Guinea: Paving the way for zero transmission",
       "link": "https://doi.org/10.1371/journal.pntd.0014469",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -766,24 +773,10 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
-      "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
+      "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
+      "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "Highlights•A BiLSTM-based model enables early interpretation of RT-qPCR amplification curves.•Fluorescence values are accurately predicted using early-cycle qPCR data.•Reliable qualitative classification is achieved using only 27 amplification cycles.•The method reduces required qPCR cycles by approximately 40%.•The approach can be integrated into",
-      "tag": "analysis"
-    },
-    {
-      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
-      "link": "https://doi.org/10.7759/cureus.111921",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo &amp; Uganda",
-      "link": "https://doi.org/10.1016/j.ajt.2026.07.001",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.ajt.2026.07.001\nAuthors: Marcus R. Pereira",
+      "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
       "tag": "analysis"
     },
     {
@@ -794,11 +787,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
-      "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
+      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo &amp; Uganda",
+      "link": "https://doi.org/10.1016/j.ajt.2026.07.001",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
+      "desc": "DOI: 10.1016/j.ajt.2026.07.001\nAuthors: Marcus R. Pereira",
       "tag": "analysis"
+    },
+    {
+      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
+      "link": "https://doi.org/10.7759/cureus.111921",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
+      "tag": "response"
     },
     {
       "title": "An unusual gastric mass in a patient with human immunodeficiency virus infection",
@@ -983,11 +983,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
-      "link": "https://openalex.org/W7166530626",
+      "title": "PTPN13 Contributes to Ebola Virus-Induced Immune Dysregulation via Dephosphorylation of IRF3 and PI3K-p85",
+      "link": "https://doi.org/10.3390/v18070729",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
-      "tag": "response"
+      "desc": "DOI: 10.3390/v18070729\nAuthors: Abbey N. Warren, Maria Gonzalez-Orozco, Ivan Kuzmin, Sreeja Parameswaran, Ruben Soto Acosta, Birte Kalveram, Sarah van Tol, Adam Hage, Padmanava Behera, Yoatzin Peñaflor-Tellez, Maria I. Giraldo, William Russell, Matthew T. Weirauch, Alexander Freiberg, Alexander Bukreyev, Ricardo Rajsbaum\n Ebola virus disease",
+      "tag": "analysis"
     },
     {
       "title": "Africa CDC calls for urgent US$18 million to close the funding gap on critical research ready to commence",
@@ -1011,11 +1011,11 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "PTPN13 Contributes to Ebola Virus-Induced Immune Dysregulation via Dephosphorylation of IRF3 and PI3K-p85",
-      "link": "https://doi.org/10.3390/v18070729",
+      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
+      "link": "https://openalex.org/W7166530626",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/v18070729\nAuthors: Abbey N. Warren, Maria Gonzalez-Orozco, Ivan Kuzmin, Sreeja Parameswaran, Ruben Soto Acosta, Birte Kalveram, Sarah van Tol, Adam Hage, Padmanava Behera, Yoatzin Peñaflor-Tellez, Maria I. Giraldo, William Russell, Matthew T. Weirauch, Alexander Freiberg, Alexander Bukreyev, Ricardo Rajsbaum\n Ebola virus disease",
-      "tag": "analysis"
+      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
+      "tag": "response"
     },
     {
       "title": "Strengthening Risk Communication and Community Engagement in Public Health Emergencies: A Public Health Framework with Biological Science Insights for Trust, Misinformation Management, and Community Resilience",
@@ -1032,31 +1032,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Evaluation of clinical, laboratory, and epidemiological features of children with Kawasaki disease",
-      "link": "https://doi.org/10.1017/s1047951126113717",
+      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
+      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1017/s1047951126113717\nAuthors: Zelal Aydin, Alper Akın, Mehmet Ture, Ilyas Yolbaş\n Abstract \n                   \n                     Objectives: \n                     Kawasaki disease is a systemic vasculitis of unknown aetiology that is usually seen",
-      "tag": "analysis"
-    },
-    {
-      "title": "Transtheoretical components of evidence-based psychological interventions for stimulant use disorders: a systematically developed taxonomy",
-      "link": "https://doi.org/10.31234/osf.io/bd2yk_v2",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.31234/osf.io/bd2yk_v2\nAuthors: Chrysanthi Blithikioti, Camilla Cadorin, Marcella Lucente, Lorena Pizzocri, Giuliano Tomei, Matt Field, Patricia Logullo, Wolfgang Lutz, Toshi A. Furukawa, Ioana Cristea\n Importance: Psychological interventions are a mainstay of treatment for substance use disorders (SUDs), but their ingredients remain unkno",
-      "tag": "analysis"
-    },
-    {
-      "title": "Antiphospholipid antibodies in acute and post-treatment Lyme disease",
-      "link": "https://doi.org/10.1128/iai.00192-26",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/iai.00192-26\nAuthors: Muskan Shrestha, Anna F. Hickman, Yuelin Zhong, Audre Zvinys, Suzanne D. Vernon, John B. Miller, Alison W. Rebman, John N. Aucott, Elizabeth J. Horn, Linden T. Hu, Peter J. Gwynne\n ABSTRACT",
-      "tag": "analysis"
-    },
-    {
-      "title": "The Emerging Adult Congenital Heart Disease Crisis in Pakistan: From Surgical Triumph to Systems Failure",
-      "link": "https://doi.org/10.47144/phj.v59i3.3761",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.47144/phj.v59i3.3761\nAuthors: Aliya Kemal Ahsan, Makhdoom Bilawal, Syed Waseem Jamalvi, Abdul Sattar Shaikh\n Rheumatic heart disease (RHD) remains one of the leading causes of acquired heart disease among children and adolescents in low- and middle-income countries despite being largely preventable. Although remarkable advances have",
+      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
       "tag": "analysis"
     },
     {
@@ -1088,6 +1067,27 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Antiphospholipid antibodies in acute and post-treatment Lyme disease",
+      "link": "https://doi.org/10.1128/iai.00192-26",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1128/iai.00192-26\nAuthors: Muskan Shrestha, Anna F. Hickman, Yuelin Zhong, Audre Zvinys, Suzanne D. Vernon, John B. Miller, Alison W. Rebman, John N. Aucott, Elizabeth J. Horn, Linden T. Hu, Peter J. Gwynne\n ABSTRACT",
+      "tag": "analysis"
+    },
+    {
+      "title": "The Emerging Adult Congenital Heart Disease Crisis in Pakistan: From Surgical Triumph to Systems Failure",
+      "link": "https://doi.org/10.47144/phj.v59i3.3761",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.47144/phj.v59i3.3761\nAuthors: Aliya Kemal Ahsan, Makhdoom Bilawal, Syed Waseem Jamalvi, Abdul Sattar Shaikh\n Rheumatic heart disease (RHD) remains one of the leading causes of acquired heart disease among children and adolescents in low- and middle-income countries despite being largely preventable. Although remarkable advances have",
+      "tag": "analysis"
+    },
+    {
+      "title": "Evaluation of clinical, laboratory, and epidemiological features of children with Kawasaki disease",
+      "link": "https://doi.org/10.1017/s1047951126113717",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1017/s1047951126113717\nAuthors: Zelal Aydin, Alper Akın, Mehmet Ture, Ilyas Yolbaş\n Abstract \n                   \n                     Objectives: \n                     Kawasaki disease is a systemic vasculitis of unknown aetiology that is usually seen",
+      "tag": "analysis"
+    },
+    {
       "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
       "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -1095,10 +1095,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
-      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
+      "title": "Transtheoretical components of evidence-based psychological interventions for stimulant use disorders: a systematically developed taxonomy",
+      "link": "https://doi.org/10.31234/osf.io/bd2yk_v2",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
+      "desc": "DOI: 10.31234/osf.io/bd2yk_v2\nAuthors: Chrysanthi Blithikioti, Camilla Cadorin, Marcella Lucente, Lorena Pizzocri, Giuliano Tomei, Matt Field, Patricia Logullo, Wolfgang Lutz, Toshi A. Furukawa, Ioana Cristea\n Importance: Psychological interventions are a mainstay of treatment for substance use disorders (SUDs), but their ingredients remain unkno",
       "tag": "analysis"
     },
     {
@@ -1256,13 +1256,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Public health considerations for preventing crimean-congo haemorrhagic fever in Islamic Republic of Iran",
-      "link": "https://doi.org/10.26719/2026.32.6.399",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.26719/2026.32.6.399\nAuthors: Jalil Nejati",
-      "tag": "analysis"
-    },
-    {
       "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
       "link": "https://doi.org/10.1093/qjmed/hcag167",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -1270,10 +1263,24 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
+      "title": "Public health considerations for preventing crimean-congo haemorrhagic fever in Islamic Republic of Iran",
+      "link": "https://doi.org/10.26719/2026.32.6.399",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.26719/2026.32.6.399\nAuthors: Jalil Nejati",
+      "tag": "analysis"
+    },
+    {
       "title": "Optimizing diagnostic cascades: evaluating the sensitivity of NS1 antigen versus antibody serology in a rapidly evolving dengue outbreak",
       "link": "https://doi.org/10.18203/2320-6012.ijrms20262158",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.18203/2320-6012.ijrms20262158\nAuthors: M. Ashraf Uddin Ahmed, Farzana Yasmin, Mahmood Parvez, Tasnim Mahmud\n Background: Dengue fever, caused by DENV-1-4 serotypes, remains a major public health challenge with clinical manifestations ranging from mild febrile illness to severe complications such as Dengue Hemorrhagic Fever (DHF) and",
+      "tag": "analysis"
+    },
+    {
+      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
+      "link": "https://doi.org/10.33897/fumj.v8i1.251",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
       "tag": "analysis"
     },
     {
@@ -1291,13 +1298,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
-      "link": "https://doi.org/10.33897/fumj.v8i1.251",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
-      "tag": "analysis"
-    },
-    {
       "title": "Aromatic basil (Ocimum x africanum Lour.) tea as a biolarvacide in dengue haemorrhagic fever",
       "link": "https://doi.org/10.34011/jmp2k.v36i2.4533",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -1312,17 +1312,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "The PEARL toolkit: Using sand flies to identify leishmaniasis animal reservoirs",
-      "link": "https://doi.org/10.64898/2026.06.27.734966",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.27.734966\nAuthors: Eva Iniguez, Patrick Huffcutt, Tiago Donatelli Serafim, Pedro Cecilio, Serena Doh, Aaron Pugh, Johannes Doehl, Claudio Meneses, Ben Lambert, Jesus G. Valenzuela, Shaden Kamhawi\n In many leishmaniasis foci, reservoirs that maintain infection remain unknown. Here, we developed a field-applicable toolkit",
-      "tag": "analysis"
-    },
-    {
       "title": "LATE DIAGNOSIS OF CHRONIC KIDNEY DISEASE IN A CHILD WITH A HYPOREFLEXIVE BLADDER: A CASE REPORT AND LITERATURE REVIEW",
       "link": "https://doi.org/10.24061/2413-4260.xvi.2.60.2026.42",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.24061/2413-4260.xvi.2.60.2026.42\nAuthors: L. Vakulenko, O. Babak, D. Ochigava, A. Riznyk, V. Postovoi, A. Obertynskyi\n Chronic kidney disease (CKD) represents a major global health problem because of its high prevalence, significant mortality, and the substantial economic burden associated with renal replacement therapy. Most pediatr",
+      "tag": "analysis"
+    },
+    {
+      "title": "The PEARL toolkit: Using sand flies to identify leishmaniasis animal reservoirs",
+      "link": "https://doi.org/10.64898/2026.06.27.734966",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.06.27.734966\nAuthors: Eva Iniguez, Patrick Huffcutt, Tiago Donatelli Serafim, Pedro Cecilio, Serena Doh, Aaron Pugh, Johannes Doehl, Claudio Meneses, Ben Lambert, Jesus G. Valenzuela, Shaden Kamhawi\n In many leishmaniasis foci, reservoirs that maintain infection remain unknown. Here, we developed a field-applicable toolkit",
       "tag": "analysis"
     },
     {
@@ -1753,17 +1753,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Single-cell multiomics of neuron activation reveals context-specific genetics of brain disorders",
-      "link": "https://doi.org/10.1126/science.adw3949",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1126/science.adw3949\nAuthors: Lifan Liang, Siwei Zhang, Zicheng Wang, Hanwen Zhang, Chuxuan Li, Christina Thapa, Emily K. Oh, David Sirkin, Xiaotong Sun, Alexandra Barishman, Ada McCarroll, Alexandra C. Duhe, Sheng Qian, Xiaoyuan Zhong, Brendan Jamison, Whitney Wood, Alena Kozlova, Zhiping P. Pang, Alan R. Sanders, Xin He, Jubao Duan\n<jats:",
-      "tag": "analysis"
-    },
-    {
       "title": "Understanding machupo virus: A neglected arenavirus with global health importance",
       "link": "https://doi.org/10.5501/wjv.v15.i2.119515",
       "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.5501/wjv.v15.i2.119515\nAuthors: Praveen Kumar Uppala, Sita Kumari Karanam, Naga Vishnu Kandra, Sandhya Edhi\n Machupo virus (MACV), classified within the Mammarenavirus genus of the Arenaviridae family, serves as the causative agent of Bolivian hemorrhagic fever (BHF), a life-threatening zoonosis primarily confined to rural regions of",
+      "tag": "analysis"
+    },
+    {
+      "title": "Single-cell multiomics of neuron activation reveals context-specific genetics of brain disorders",
+      "link": "https://doi.org/10.1126/science.adw3949",
+      "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1126/science.adw3949\nAuthors: Lifan Liang, Siwei Zhang, Zicheng Wang, Hanwen Zhang, Chuxuan Li, Christina Thapa, Emily K. Oh, David Sirkin, Xiaotong Sun, Alexandra Barishman, Ada McCarroll, Alexandra C. Duhe, Sheng Qian, Xiaoyuan Zhong, Brendan Jamison, Whitney Wood, Alena Kozlova, Zhiping P. Pang, Alan R. Sanders, Xin He, Jubao Duan\n<jats:",
       "tag": "analysis"
     },
     {
@@ -1879,25 +1879,25 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction - foreignpolicyjournal.com",
+      "link": "https://www.foreignpolicyjournal.com/2026/06/24/congo-ebola-outbreak-sets-record-first-month-case-count-as-kenya-halts-us-quarantine-facility-construction/",
+      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
+      "desc": "-- Kenya. Significance Rating: 1 Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction&nbsp;&nbsp;foreignpolicyjournal.com",
+      "tag": "analysis"
+    },
+    {
       "title": "France confirms first Ebola case linked to DR Congo outbreak - Eye Radio",
       "link": "https://www.eyeradio.org/france-confirms-first-ebola-case-linked-to-dr-congo-outbreak/",
       "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France confirms first Ebola case linked to DR Congo outbreak&nbsp;&nbsp;Eye Radio",
-      "tag": "analysis"
-    },
-    {
-      "title": "France Reports First Ebola Case After Doctor Returns from Congo - Global Banking & Finance Review",
-      "link": "https://www.globalbankingandfinance.com/france-reports-ebola-case-doctor-returning-humanitarian/",
-      "pubDate": "Wed, 24 Jun 2026 16:26:00 Z",
-      "desc": "-- France. Significance Rating: 1 France Reports First Ebola Case After Doctor Returns from Congo&nbsp;&nbsp;Global Banking & Finance Review",
       "tag": "analysis"
     }
   ],
   "highWater": {
     "drc": {
       "deaths": {
-        "value": 506,
-        "asOf": "2026-07-06T15:37:12Z",
+        "value": 521,
+        "asOf": "2026-07-08T08:31:55Z",
         "source": "INRB MVE Sitrep"
       },
       "confirmed_deaths": {
@@ -1911,8 +1911,8 @@ window.FEED_DATA = {
         "source": "WHO / OMS"
       },
       "confirmed": {
-        "value": 1561,
-        "asOf": "2026-07-06T15:37:12Z",
+        "value": 1624,
+        "asOf": "2026-07-08T08:31:55Z",
         "source": "INRB MVE Sitrep"
       },
       "active": {
