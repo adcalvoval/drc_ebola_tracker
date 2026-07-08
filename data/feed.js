@@ -1,30 +1,30 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 08 Jul 2026 14:14:37 Z",
-  "fetchedAt": "2026-07-08T14:14:37Z",
+  "lastBuildDate": "Wed, 08 Jul 2026 16:40:46 Z",
+  "fetchedAt": "2026-07-08T16:40:46Z",
   "itemCount": 250,
   "stats": {
     "drc": {
-      "suspected": 135,
-      "deaths": 521,
-      "confirmed": 1624,
-      "recovered": 273,
-      "zonesAffected": 41,
+      "suspected": 237,
+      "confirmed": 1708,
+      "deaths": 580,
+      "recovered": 280,
+      "zonesAffected": 42,
       "topHealthZones": {
-        "Bunia": 452,
-        "Rwampara": 349,
-        "Mongbwalu": 288,
+        "Bunia": 472,
+        "Rwampara": 357,
+        "Mongbwalu": 298,
         "Nyankunde": 96,
-        "Nizi": 78,
-        "Katwa": 52,
+        "Nizi": 84,
+        "Katwa": 56,
         "Mongbalu": 47,
-        "Butembo": 40,
-        "Mangala": 33,
-        "Lita": 33,
+        "Butembo": 41,
+        "Lita": 40,
+        "Mangala": 39,
+        "Nia-Nia": 33,
         "Beni": 29,
-        "Bambu": 25,
-        "Komanda": 22,
-        "Nia-Nia": 20,
+        "Bambu": 28,
+        "Komanda": 23,
         "Tchomia": 15,
         "Nyakunde": 10,
         "Kilo": 9,
@@ -32,17 +32,17 @@ window.FEED_DATA = {
         "Logo": 7,
         "Aungba": 6,
         "Damas": 5,
+        "Mandima": 5,
         "Kyondo": 4,
+        "Mambasa": 4,
         "Rimba": 4,
-        "Mandima": 4,
         "Miti-Murhesa": 3,
         "Aru": 3,
         "Oicha": 3,
+        "Fataki": 3,
         "Masereka": 3,
         "Drodro": 3,
         "Kalunguta": 2,
-        "Fataki": 2,
-        "Mambasa": 2,
         "Kambala": 2,
         "Goma": 1,
         "Gethy": 1,
@@ -50,36 +50,35 @@ window.FEED_DATA = {
         "Vuhovi": 1,
         "Mabalako": 1,
         "Lolwa": 1,
+        "Boga": 1,
         "Karisimbi": 0,
         "Manguredjipa": 0
       },
       "healthcareWorkers": 102,
       "contacts": 10821,
-      "cfr": 32.1
+      "cfr": 34.0
     },
     "drcMeta": {
       "suspected": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-05)"
-      },
-      "deaths": {
-        "tier": 5,
-        "src": "INRB sitrep (2026-07-05)"
+        "src": "INRB sitrep (2026-07-06)"
       },
       "confirmed": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-05)"
+        "src": "INRB sitrep (2026-07-06)"
+      },
+      "deaths": {
+        "tier": 5,
+        "src": "INRB sitrep (2026-07-06)"
       },
       "recovered": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-05)"
+        "src": "INRB sitrep (2026-07-06)"
       }
     },
     "drcTiers": {
       "moh": {
-        "suspected": 1561,
-        "deaths": 4,
-        "confirmed": 119
+        "suspected": 1561
       },
       "cdc": {
         "confirmed": 6
@@ -95,10 +94,10 @@ window.FEED_DATA = {
         "recovered": 229
       },
       "inrb": {
-        "confirmed": 1624,
-        "deaths": 521,
-        "suspected": 135,
-        "recovered": 273
+        "confirmed": 1708,
+        "deaths": 580,
+        "suspected": 237,
+        "recovered": 280
       }
     },
     "provinces": {
@@ -110,13 +109,13 @@ window.FEED_DATA = {
       "northKivu": {
         "zonesAffected": 11,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-05)",
-        "confirmed": 144
+        "source": "INRB sitrep (2026-07-06)",
+        "confirmed": 149
       },
       "southKivu": {
         "zonesAffected": 1,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-05)",
+        "source": "INRB sitrep (2026-07-06)",
         "confirmed": 3
       }
     },
@@ -136,9 +135,9 @@ window.FEED_DATA = {
       "fetchedAt": "2026-07-03T16:26:09Z"
     },
     "inrbSitrep": {
-      "asOf": "2026-07-05",
+      "asOf": "2026-07-06",
       "url": "https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/insp_sitrep/processed",
-      "fetchedAt": "2026-07-08T08:31:56.380417+00:00"
+      "fetchedAt": "2026-07-08T16:40:47.398900+00:00"
     }
   },
   "items": [
@@ -178,18 +177,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "2 juillet 2026 Allocution liminaire du Directeur général de l’OMS lors du point de presse du 2 juillet 2026",
-      "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---2-july-2026",
-      "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
-      "desc": "Bonjour à toutes les personnes présentes aujourd’hui, et bonjour ou bonsoir à toutes celles qui nous rejoignent en ligne. Aujourd’hui, la dernière personne ayant été en contact avec une personne exposée au hantavirus à bord du navire de croisière MV Hondius a terminé sa période de quarantaine, a été testée négative et est rentrée chez elle.",
-      "tag": "analysis"
-    },
-    {
       "title": "G protein-coupled receptor SmGPCR9 interacts with neuropeptides and controls spermatogenesis in Schistosoma mansoni",
       "link": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014096",
       "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
       "desc": "Schistosomiasis is a neglected tropical disease caused by parasitic flatworms of the genus Schistosoma , impacting hundreds of millions of people and animals globally. Disease pathology primarily originates from host immune responses to parasite eggs, which are produced only when female schistosomes are continuously paired with males.",
       "tag": "response"
+    },
+    {
+      "title": "2 juillet 2026 Allocution liminaire du Directeur général de l’OMS lors du point de presse du 2 juillet 2026",
+      "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---2-july-2026",
+      "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
+      "desc": "Bonjour à toutes les personnes présentes aujourd’hui, et bonjour ou bonsoir à toutes celles qui nous rejoignent en ligne. Aujourd’hui, la dernière personne ayant été en contact avec une personne exposée au hantavirus à bord du navire de croisière MV Hondius a terminé sa période de quarantaine, a été testée négative et est rentrée chez elle.",
+      "tag": "analysis"
     },
     {
       "title": "El Ministerio de Salud refuerza la vigilancia epidemiológica y llama a completar los esquemas de vacunación",
@@ -598,13 +597,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Lessons learned from 2022-2025 outbreaks with cross border spread potential",
-      "link": "https://africacdc.org/news-item/lessons-learned-from-2022-2025-outbreaks-with-cross-border-spread-potential/",
-      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
-      "desc": "Evidence from recent African outbreaks of mpox, cholera, Ebola virus disease, and Marburg virus disease shows that successful outbreak responses rely on continuous investments in preparedness rather than reactive measures.\n\n\n\nA narrative synthesis of scientific articles and reports from 2022-2025 on outbreaks by Africa Centres for Disease Co",
-      "tag": "response"
-    },
-    {
       "title": "Mucin-induced metabolic reprogramming in <i>Pseudomonas aeruginosa</i> clinical isolates",
       "link": "https://doi.org/10.1128/msystems.00580-26",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
@@ -617,6 +609,13 @@ window.FEED_DATA = {
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
       "desc": "Africa’s repeated exclusion from timely access to vaccines, diagnostics and treatments during major health emergencies—including the COVID-19 pandemic and recent mpox, Marburg virus disease and Ebola outbreaks—has demonstrated the urgent need for the continent to build its own end-to-end research and development (R&D) capacity.\n\n\n\nReliance o",
       "tag": "analysis"
+    },
+    {
+      "title": "Lessons learned from 2022-2025 outbreaks with cross border spread potential",
+      "link": "https://africacdc.org/news-item/lessons-learned-from-2022-2025-outbreaks-with-cross-border-spread-potential/",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
+      "desc": "Evidence from recent African outbreaks of mpox, cholera, Ebola virus disease, and Marburg virus disease shows that successful outbreak responses rely on continuous investments in preparedness rather than reactive measures.\n\n\n\nA narrative synthesis of scientific articles and reports from 2022-2025 on outbreaks by Africa Centres for Disease Co",
+      "tag": "response"
     },
     {
       "title": "À Kinshasa, le Président Tshisekedi donne une impulsion à la riposte contre Ebola avec l’appui solidaire du Président Ramaphosa",
@@ -829,31 +828,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "PIK3CA-Related Overgrowth Syndrome: A Case Report",
-      "link": "https://doi.org/10.5070/rs4.48391",
+      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
+      "link": "https://doi.org/10.20944/preprints202607.0058.v1",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.5070/rs4.48391\nAuthors: Kathleen M Kilroe, Jamie E Clarke, Maitraya K Patel\n PIK3CA-related overgrowth syndrome (PROS) is characterized by a range of mutations in the phosphoinositide 3-kinase (PI3K) pathway, resulting in diverse and variable imaging findings. Hyperplasia in PROS can affect multiple organ systems and commonly presents wit",
+      "desc": "DOI: 10.20944/preprints202607.0058.v1\nAuthors: Suganya P., Shreya Kishore, Harikaran Jeyakkodi, Vinod G., K. G. Sruthi, Pavani Duppada, Shibin Dani P., V. Priya, Savitha Lakshmi raghavan, Rajkumar Manoharan\n Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivo",
       "tag": "analysis"
     },
     {
-      "title": "An Unusual Etiology of Bayés' Syndrome: Fabry Disease",
-      "link": "https://doi.org/10.1111/anec.70220",
+      "title": "Rare variants in genes related to inborn errors of immunity in patients with rheumatoid arthritis and secondary immunodeficiency",
+      "link": "https://doi.org/10.1136/rmdopen-2026-007046",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/anec.70220\nAuthors: Nicholas E. Kunce, Andre Silva, Mark Haigney, Adam Kisling\n ABSTRACT \n                   We present the case of a 72‐year‐old female with Fabry disease who developed an advanced interatrial conduction block and atrial fibrillation, a condition known as Bayés' syndrome. Fabry disease is",
-      "tag": "analysis"
-    },
-    {
-      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
-      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
-      "tag": "analysis"
-    },
-    {
-      "title": "Brote de hantavirus Andes vinculado a un crucero transatlántico: Evaluación del riesgo para España",
-      "link": "https://doi.org/10.4321/s2173-92772026000200002",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4321/s2173-92772026000200002\nAuthors: María Cruz Calvo-Reyes, Sara Montenegro-Jaramillo, Laura Santos-Larrégola, Pedro Valdivia-Prieto, Lucía García-San Miguel, María José Sierra-Moros\n The Andes hantavirus (ANDV) outbreak linked to a transatlantic cruise ship in May 2026 represented an unusual public health event. A total of 13 case",
+      "desc": "DOI: 10.1136/rmdopen-2026-007046\nAuthors: Faranaz Atschekzei, Natalia Dubrowinskaja, Manfred Anim, Doris Steinemann, Sandra von Hardenberg, Winfried Hofmann, Robert Geffers, Torsten Witte, Georgios Sogkas\n \n                     Objectives \n                     Treatment of rheumatoid arthritis (RA) relies on i",
       "tag": "analysis"
     },
     {
@@ -871,20 +856,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Rare variants in genes related to inborn errors of immunity in patients with rheumatoid arthritis and secondary immunodeficiency",
-      "link": "https://doi.org/10.1136/rmdopen-2026-007046",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/rmdopen-2026-007046\nAuthors: Faranaz Atschekzei, Natalia Dubrowinskaja, Manfred Anim, Doris Steinemann, Sandra von Hardenberg, Winfried Hofmann, Robert Geffers, Torsten Witte, Georgios Sogkas\n \n                     Objectives \n                     Treatment of rheumatoid arthritis (RA) relies on i",
-      "tag": "analysis"
-    },
-    {
-      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
-      "link": "https://doi.org/10.20944/preprints202607.0058.v1",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.20944/preprints202607.0058.v1\nAuthors: Suganya P., Shreya Kishore, Harikaran Jeyakkodi, Vinod G., K. G. Sruthi, Pavani Duppada, Shibin Dani P., V. Priya, Savitha Lakshmi raghavan, Rajkumar Manoharan\n Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivo",
-      "tag": "analysis"
-    },
-    {
       "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
       "link": "https://doi.org/10.1161/circgen.125.005653",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -892,10 +863,38 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
+      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
+      "tag": "analysis"
+    },
+    {
+      "title": "PIK3CA-Related Overgrowth Syndrome: A Case Report",
+      "link": "https://doi.org/10.5070/rs4.48391",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.5070/rs4.48391\nAuthors: Kathleen M Kilroe, Jamie E Clarke, Maitraya K Patel\n PIK3CA-related overgrowth syndrome (PROS) is characterized by a range of mutations in the phosphoinositide 3-kinase (PI3K) pathway, resulting in diverse and variable imaging findings. Hyperplasia in PROS can affect multiple organ systems and commonly presents wit",
+      "tag": "analysis"
+    },
+    {
+      "title": "An Unusual Etiology of Bayés' Syndrome: Fabry Disease",
+      "link": "https://doi.org/10.1111/anec.70220",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1111/anec.70220\nAuthors: Nicholas E. Kunce, Andre Silva, Mark Haigney, Adam Kisling\n ABSTRACT \n                   We present the case of a 72‐year‐old female with Fabry disease who developed an advanced interatrial conduction block and atrial fibrillation, a condition known as Bayés' syndrome. Fabry disease is",
+      "tag": "analysis"
+    },
+    {
       "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
       "link": "https://doi.org/10.71320/bcs.0019",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
+      "tag": "analysis"
+    },
+    {
+      "title": "Brote de hantavirus Andes vinculado a un crucero transatlántico: Evaluación del riesgo para España",
+      "link": "https://doi.org/10.4321/s2173-92772026000200002",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.4321/s2173-92772026000200002\nAuthors: María Cruz Calvo-Reyes, Sara Montenegro-Jaramillo, Laura Santos-Larrégola, Pedro Valdivia-Prieto, Lucía García-San Miguel, María José Sierra-Moros\n The Andes hantavirus (ANDV) outbreak linked to a transatlantic cruise ship in May 2026 represented an unusual public health event. A total of 13 case",
       "tag": "analysis"
     },
     {
@@ -1053,6 +1052,34 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Evaluation of clinical, laboratory, and epidemiological features of children with Kawasaki disease",
+      "link": "https://doi.org/10.1017/s1047951126113717",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1017/s1047951126113717\nAuthors: Zelal Aydin, Alper Akın, Mehmet Ture, Ilyas Yolbaş\n Abstract \n                   \n                     Objectives: \n                     Kawasaki disease is a systemic vasculitis of unknown aetiology that is usually seen",
+      "tag": "analysis"
+    },
+    {
+      "title": "Transtheoretical components of evidence-based psychological interventions for stimulant use disorders: a systematically developed taxonomy",
+      "link": "https://doi.org/10.31234/osf.io/bd2yk_v2",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.31234/osf.io/bd2yk_v2\nAuthors: Chrysanthi Blithikioti, Camilla Cadorin, Marcella Lucente, Lorena Pizzocri, Giuliano Tomei, Matt Field, Patricia Logullo, Wolfgang Lutz, Toshi A. Furukawa, Ioana Cristea\n Importance: Psychological interventions are a mainstay of treatment for substance use disorders (SUDs), but their ingredients remain unkno",
+      "tag": "analysis"
+    },
+    {
+      "title": "Antiphospholipid antibodies in acute and post-treatment Lyme disease",
+      "link": "https://doi.org/10.1128/iai.00192-26",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1128/iai.00192-26\nAuthors: Muskan Shrestha, Anna F. Hickman, Yuelin Zhong, Audre Zvinys, Suzanne D. Vernon, John B. Miller, Alison W. Rebman, John N. Aucott, Elizabeth J. Horn, Linden T. Hu, Peter J. Gwynne\n ABSTRACT",
+      "tag": "analysis"
+    },
+    {
+      "title": "The Emerging Adult Congenital Heart Disease Crisis in Pakistan: From Surgical Triumph to Systems Failure",
+      "link": "https://doi.org/10.47144/phj.v59i3.3761",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.47144/phj.v59i3.3761\nAuthors: Aliya Kemal Ahsan, Makhdoom Bilawal, Syed Waseem Jamalvi, Abdul Sattar Shaikh\n Rheumatic heart disease (RHD) remains one of the leading causes of acquired heart disease among children and adolescents in low- and middle-income countries despite being largely preventable. Although remarkable advances have",
+      "tag": "analysis"
+    },
+    {
       "title": "Vancomycin Protects Against Lung Injury and Promotes Butyrate Metabolism",
       "link": "https://openalex.org/W7166546423",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -1081,13 +1108,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
-      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
-      "tag": "analysis"
-    },
-    {
       "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
       "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -1095,31 +1115,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Antiphospholipid antibodies in acute and post-treatment Lyme disease",
-      "link": "https://doi.org/10.1128/iai.00192-26",
+      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
+      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/iai.00192-26\nAuthors: Muskan Shrestha, Anna F. Hickman, Yuelin Zhong, Audre Zvinys, Suzanne D. Vernon, John B. Miller, Alison W. Rebman, John N. Aucott, Elizabeth J. Horn, Linden T. Hu, Peter J. Gwynne\n ABSTRACT",
-      "tag": "analysis"
-    },
-    {
-      "title": "The Emerging Adult Congenital Heart Disease Crisis in Pakistan: From Surgical Triumph to Systems Failure",
-      "link": "https://doi.org/10.47144/phj.v59i3.3761",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.47144/phj.v59i3.3761\nAuthors: Aliya Kemal Ahsan, Makhdoom Bilawal, Syed Waseem Jamalvi, Abdul Sattar Shaikh\n Rheumatic heart disease (RHD) remains one of the leading causes of acquired heart disease among children and adolescents in low- and middle-income countries despite being largely preventable. Although remarkable advances have",
-      "tag": "analysis"
-    },
-    {
-      "title": "Evaluation of clinical, laboratory, and epidemiological features of children with Kawasaki disease",
-      "link": "https://doi.org/10.1017/s1047951126113717",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1017/s1047951126113717\nAuthors: Zelal Aydin, Alper Akın, Mehmet Ture, Ilyas Yolbaş\n Abstract \n                   \n                     Objectives: \n                     Kawasaki disease is a systemic vasculitis of unknown aetiology that is usually seen",
-      "tag": "analysis"
-    },
-    {
-      "title": "Transtheoretical components of evidence-based psychological interventions for stimulant use disorders: a systematically developed taxonomy",
-      "link": "https://doi.org/10.31234/osf.io/bd2yk_v2",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.31234/osf.io/bd2yk_v2\nAuthors: Chrysanthi Blithikioti, Camilla Cadorin, Marcella Lucente, Lorena Pizzocri, Giuliano Tomei, Matt Field, Patricia Logullo, Wolfgang Lutz, Toshi A. Furukawa, Ioana Cristea\n Importance: Psychological interventions are a mainstay of treatment for substance use disorders (SUDs), but their ingredients remain unkno",
+      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
       "tag": "analysis"
     },
     {
@@ -1333,17 +1332,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "LATE DIAGNOSIS OF CHRONIC KIDNEY DISEASE IN A CHILD WITH A HYPOREFLEXIVE BLADDER: A CASE REPORT AND LITERATURE REVIEW",
-      "link": "https://doi.org/10.24061/2413-4260.xvi.2.60.2026.42",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.24061/2413-4260.xvi.2.60.2026.42\nAuthors: L. Vakulenko, O. Babak, D. Ochigava, A. Riznyk, V. Postovoi, A. Obertynskyi\n Chronic kidney disease (CKD) represents a major global health problem because of its high prevalence, significant mortality, and the substantial economic burden associated with renal replacement therapy. Most pediatr",
-      "tag": "analysis"
-    },
-    {
       "title": "The PEARL toolkit: Using sand flies to identify leishmaniasis animal reservoirs",
       "link": "https://doi.org/10.64898/2026.06.27.734966",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.06.27.734966\nAuthors: Eva Iniguez, Patrick Huffcutt, Tiago Donatelli Serafim, Pedro Cecilio, Serena Doh, Aaron Pugh, Johannes Doehl, Claudio Meneses, Ben Lambert, Jesus G. Valenzuela, Shaden Kamhawi\n In many leishmaniasis foci, reservoirs that maintain infection remain unknown. Here, we developed a field-applicable toolkit",
+      "tag": "analysis"
+    },
+    {
+      "title": "LATE DIAGNOSIS OF CHRONIC KIDNEY DISEASE IN A CHILD WITH A HYPOREFLEXIVE BLADDER: A CASE REPORT AND LITERATURE REVIEW",
+      "link": "https://doi.org/10.24061/2413-4260.xvi.2.60.2026.42",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.24061/2413-4260.xvi.2.60.2026.42\nAuthors: L. Vakulenko, O. Babak, D. Ochigava, A. Riznyk, V. Postovoi, A. Obertynskyi\n Chronic kidney disease (CKD) represents a major global health problem because of its high prevalence, significant mortality, and the substantial economic burden associated with renal replacement therapy. Most pediatr",
       "tag": "analysis"
     },
     {
@@ -1896,8 +1895,8 @@ window.FEED_DATA = {
   "highWater": {
     "drc": {
       "deaths": {
-        "value": 521,
-        "asOf": "2026-07-08T08:31:55Z",
+        "value": 580,
+        "asOf": "2026-07-08T16:40:46Z",
         "source": "INRB MVE Sitrep"
       },
       "confirmed_deaths": {
@@ -1911,8 +1910,8 @@ window.FEED_DATA = {
         "source": "WHO / OMS"
       },
       "confirmed": {
-        "value": 1624,
-        "asOf": "2026-07-08T08:31:55Z",
+        "value": 1708,
+        "asOf": "2026-07-08T16:40:46Z",
         "source": "INRB MVE Sitrep"
       },
       "active": {
