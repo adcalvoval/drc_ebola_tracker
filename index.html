@@ -243,6 +243,28 @@
   </style>
 </head>
 <body>
+<!-- ── Maintenance overlay ───────────────────────────────────────────────────── -->
+<div id="maintenanceOverlay" style="
+  position: fixed; inset: 0; z-index: 9999;
+  backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
+  background: rgba(10, 14, 30, 0.55);
+  display: flex; align-items: center; justify-content: center;
+">
+  <div style="
+    background: #16213e; border: 1px solid #2a3a5a; border-radius: 12px;
+    padding: 40px 48px; max-width: 420px; width: 90%; text-align: center;
+    box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+  ">
+    <div style="font-size: 2rem; margin-bottom: 16px;">🔧</div>
+    <h2 style="font-size: 1.2rem; font-weight: 700; color: #dde1e8; margin-bottom: 12px;">
+      Under Maintenance
+    </h2>
+    <p style="font-size: 0.85rem; color: #6b7a96; line-height: 1.6;">
+      This dashboard is temporarily unavailable while we make improvements.<br>
+      It will be back online shortly.
+    </p>
+  </div>
+</div>
 
 <!-- ── Header ──────────────────────────────────────────────────────────────── -->
 <header>
