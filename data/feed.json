@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 08 Jul 2026 22:08:11 Z",
-  "fetchedAt": "2026-07-08T22:08:12Z",
+  "lastBuildDate": "Thu, 09 Jul 2026 03:29:03 Z",
+  "fetchedAt": "2026-07-09T03:29:04Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -141,6 +141,13 @@
     }
   },
   "items": [
+    {
+      "title": "Menace Ebola : le bouclier",
+      "link": "https://echosante.info/menace-ebola-le-bouclier-sanitaire-renforce-au-cameroun/",
+      "pubDate": "Thu, 09 Jul 2026 02:56:00 Z",
+      "desc": "À l’occasion de la Journée mondiale des zoonoses célébrée le 6 juillet 2026 à Yaoundé, les autorités sanitaires ont fait le point sur le niveau de préparation du Cameroun face à la menace Ebola. Entre surveillance renforcée, coordination multisectorielle et sensibilisation, le pays entend consolider son bouclier sanitaire.",
+      "tag": "analysis"
+    },
     {
       "title": "Are We Missing the Bladder? Reflections on Endometriosis and IC/BPS",
       "link": "https://link.springer.com/article/10.1007/s00192-026-06804-3",
@@ -1080,13 +1087,6 @@
       "tag": "analysis"
     },
     {
-      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
-      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
-      "tag": "analysis"
-    },
-    {
       "title": "Vancomycin Protects Against Lung Injury and Promotes Butyrate Metabolism",
       "link": "https://openalex.org/W7166546423",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -1115,6 +1115,20 @@
       "tag": "analysis"
     },
     {
+      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
+      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
+      "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10006038/v1\nAuthors: Guolong Qu, Zhenyao Song, Weiming Hou\n Abstract \n                 \n                  Background\n Previous studies have primarily examined associations between the incidence of a single infectious disease and individual meteorological or chemical pollution factors. However, the individual and",
+      "tag": "analysis"
+    },
+    {
       "title": "Antiphospholipid antibodies in acute and post-treatment Lyme disease",
       "link": "https://doi.org/10.1128/iai.00192-26",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -1133,13 +1147,6 @@
       "link": "https://doi.org/10.1017/s1047951126113717",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1017/s1047951126113717\nAuthors: Zelal Aydin, Alper Akın, Mehmet Ture, Ilyas Yolbaş\n Abstract \n                   \n                     Objectives: \n                     Kawasaki disease is a systemic vasculitis of unknown aetiology that is usually seen",
-      "tag": "analysis"
-    },
-    {
-      "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
-      "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10006038/v1\nAuthors: Guolong Qu, Zhenyao Song, Weiming Hou\n Abstract \n                 \n                  Background\n Previous studies have primarily examined associations between the incidence of a single infectious disease and individual meteorological or chemical pollution factors. However, the individual and",
       "tag": "analysis"
     },
     {
@@ -1801,17 +1808,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Understanding machupo virus: A neglected arenavirus with global health importance",
-      "link": "https://doi.org/10.5501/wjv.v15.i2.119515",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.5501/wjv.v15.i2.119515\nAuthors: Praveen Kumar Uppala, Sita Kumari Karanam, Naga Vishnu Kandra, Sandhya Edhi\n Machupo virus (MACV), classified within the Mammarenavirus genus of the Arenaviridae family, serves as the causative agent of Bolivian hemorrhagic fever (BHF), a life-threatening zoonosis primarily confined to rural regions of",
-      "tag": "analysis"
-    },
-    {
       "title": "Single-cell multiomics of neuron activation reveals context-specific genetics of brain disorders",
       "link": "https://doi.org/10.1126/science.adw3949",
       "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1126/science.adw3949\nAuthors: Lifan Liang, Siwei Zhang, Zicheng Wang, Hanwen Zhang, Chuxuan Li, Christina Thapa, Emily K. Oh, David Sirkin, Xiaotong Sun, Alexandra Barishman, Ada McCarroll, Alexandra C. Duhe, Sheng Qian, Xiaoyuan Zhong, Brendan Jamison, Whitney Wood, Alena Kozlova, Zhiping P. Pang, Alan R. Sanders, Xin He, Jubao Duan\n<jats:",
+      "tag": "analysis"
+    },
+    {
+      "title": "Understanding machupo virus: A neglected arenavirus with global health importance",
+      "link": "https://doi.org/10.5501/wjv.v15.i2.119515",
+      "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.5501/wjv.v15.i2.119515\nAuthors: Praveen Kumar Uppala, Sita Kumari Karanam, Naga Vishnu Kandra, Sandhya Edhi\n Machupo virus (MACV), classified within the Mammarenavirus genus of the Arenaviridae family, serves as the causative agent of Bolivian hemorrhagic fever (BHF), a life-threatening zoonosis primarily confined to rural regions of",
       "tag": "analysis"
     },
     {
@@ -1883,13 +1890,6 @@
       "pubDate": "Wed, 24 Jun 2026 17:26:00 Z",
       "desc": "-- France. Significance Rating: 1 France reports first Ebola case detected on its soil&nbsp;&nbsp;Winnipeg Sun",
       "tag": "analysis"
-    },
-    {
-      "title": "RD del Congo eleva a 277 los muertos y 1.094 los casos confirmados de ébola",
-      "link": "https://eldiariodeguayana.com.ve/rd-del-congo-eleva-a-277-los-muertos-y-1-094-los-casos-confirmados-de-ebola/",
-      "pubDate": "Wed, 24 Jun 2026 17:19:00 Z",
-      "desc": "Nairobi.- La República Democrática del Congo (RDC) elevó a 277 los muertos y 1.094 los casos confirmados por el brote de ébola declarado en el este del país el pasado 15 de mayo, y alertó de que se mantiene “una transmisión comunitaria continua y creciente”.",
-      "tag": "cases"
     }
   ],
   "highWater": {
