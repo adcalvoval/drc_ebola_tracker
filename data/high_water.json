@@ -1,8 +1,8 @@
 {
   "drc": {
     "deaths": {
-      "value": 580,
-      "asOf": "2026-07-08T16:40:46Z",
+      "value": 600,
+      "asOf": "2026-07-09T15:13:51Z",
       "source": "INRB MVE Sitrep"
     },
     "confirmed_deaths": {
@@ -16,8 +16,8 @@
       "source": "WHO / OMS"
     },
     "confirmed": {
-      "value": 1708,
-      "asOf": "2026-07-08T16:40:46Z",
+      "value": 1759,
+      "asOf": "2026-07-09T15:13:51Z",
       "source": "INRB MVE Sitrep"
     },
     "active": {
