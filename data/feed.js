@@ -1,11 +1,10 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 09 Jul 2026 19:48:54 Z",
-  "fetchedAt": "2026-07-09T19:48:54Z",
+  "lastBuildDate": "Thu, 09 Jul 2026 22:23:29 Z",
+  "fetchedAt": "2026-07-09T22:23:30Z",
   "itemCount": 250,
   "stats": {
     "drc": {
-      "suspected": 304,
       "confirmed": 1759,
       "deaths": 600,
       "recovered": 285,
@@ -56,13 +55,10 @@ window.FEED_DATA = {
       },
       "healthcareWorkers": 102,
       "contacts": 10821,
+      "suspected": 304,
       "cfr": 34.1
     },
     "drcMeta": {
-      "suspected": {
-        "tier": 5,
-        "src": "INRB sitrep (2026-07-07)"
-      },
       "confirmed": {
         "tier": 5,
         "src": "INRB sitrep (2026-07-07)"
@@ -74,18 +70,19 @@ window.FEED_DATA = {
       "recovered": {
         "tier": 5,
         "src": "INRB sitrep (2026-07-07)"
+      },
+      "suspected": {
+        "tier": 5,
+        "src": "INRB sitrep (2026-07-07)"
       }
     },
     "drcTiers": {
-      "moh": {
-        "suspected": 1561
-      },
       "cdc": {
         "confirmed": 6
       },
       "media": {
-        "deaths": 506,
         "suspected": 1561,
+        "deaths": 506,
         "confirmed": 1500
       },
       "whoDon": {
@@ -141,6 +138,20 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "US Cyclospora cases mount as CDC lags on tracking",
+      "link": "https://www.cidrap.umn.edu/cyclospora/us-cyclospora-cases-mount-cdc-lags-tracking",
+      "pubDate": "Thu, 09 Jul 2026 21:24:00 Z",
+      "desc": "In parts of the country, including southeast Michigan and northern Ohio, clinicians are tracking scores of cases of sudden, explosive diarrhea and gastrointestinal illness caused by the parasite Cyclospora cayetanensi. Michigan now has 1,251 cases of cyclosporiasis, according to state officials....",
+      "tag": "cases"
+    },
+    {
+      "title": "Ebola Death Toll In Congo Reaches 600, As New Cases Suspected In Previously Unaffected Province - 710 KURV",
+      "link": "https://www.kurv.com/ebola-death-toll-in-congo-reaches-600-as-new-cases-suspected-in-previously-unaffected-province/",
+      "pubDate": "Thu, 09 Jul 2026 20:25:00 Z",
+      "desc": "Conflict -- DR Congo. Significance Rating: 3 Ebola Death Toll In Congo Reaches 600, As New Cases Suspected In Previously Unaffected Province&nbsp;&nbsp;710 KURV",
+      "tag": "cases"
+    },
     {
       "title": "Suspected Ebola patient placed in Equatorial Guinea hotel with deportees from the US, lawyers say - WKMG",
       "link": "https://www.clickorlando.com/health/2026/07/09/suspected-ebola-patient-placed-in-equatorial-guinea-hotel-with-deportees-from-the-us-lawyers-say/",
@@ -254,17 +265,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Les équipes provinciales restent pleinement mobilisées, les activités se poursuivent normalement.",
-      "link": "https://insp.cd/les-equipes-provinciales-restent-pleinement-mobilisees-les-activites-se-poursuivent-normalement/",
-      "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
-      "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nIturi,le 06 juillet 2026. L’Institut National de Santé Publique (INSP), à travers le Centre des Opérations d’Urgences de Santé Publique (COUSP), informe que les activités de la riposte",
-      "tag": "analysis"
-    },
-    {
       "title": "La RDC et l’Ouganda consolident leur coopération transfrontalière pour renforcer la sécurité sanitaire.",
       "link": "https://insp.cd/la-rdc-et-louganda-consolident-leur-cooperation-transfrontaliere-pour-renforcer-la-securite-sanitaire/",
       "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
       "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, 6 juillet 2026. Dans le cadre du renforcement de la coopération transfrontalière entre la République démocratique du Congo et la République de l’Ouganda, la Coordination stratégi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Les équipes provinciales restent pleinement mobilisées, les activités se poursuivent normalement.",
+      "link": "https://insp.cd/les-equipes-provinciales-restent-pleinement-mobilisees-les-activites-se-poursuivent-normalement/",
+      "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
+      "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nIturi,le 06 juillet 2026. L’Institut National de Santé Publique (INSP), à travers le Centre des Opérations d’Urgences de Santé Publique (COUSP), informe que les activités de la riposte",
       "tag": "analysis"
     },
     {
@@ -555,18 +566,18 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Fine particulate matter exposure and long-term lung-function trajectory in adults with cystic fibrosis",
-      "link": "https://doi.org/10.1093/annalsats/aaoag188",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/annalsats/aaoag188\nAuthors: Bob Z Sun, Jonathan D Cogen, Marshall Brown, Anna V Faino, Karen Hinckley Stukovsky, Adam A Szpiro, Lianne Sheppard, Christopher H Goss, Joel Kaufman, Margaret Rosenfeld\n Abstract \n                   \n                     Rationale \n                    <",
-      "tag": "analysis"
-    },
-    {
       "title": "Community Engagement Should be Prioritised in Bundibugyo Ebola Outbreak Fight",
       "link": "https://africacdc.org/news-item/community-engagement-should-be-prioritised-in-bundibugyo-ebola-outbreak-fight/",
       "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
       "desc": "One month after the declaration of the 2026 Bundibugyo Ebola outbreak as both a global and continental public health emergency, transmission continues to expand in eastern Democratic Republic of Congo (DRC) and Uganda despite substantial response efforts. As of 14 June 2026, there were 827 confirmed cases and 194 deaths, with Ituri Province",
       "tag": "pheic"
+    },
+    {
+      "title": "Fine particulate matter exposure and long-term lung-function trajectory in adults with cystic fibrosis",
+      "link": "https://doi.org/10.1093/annalsats/aaoag188",
+      "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/annalsats/aaoag188\nAuthors: Bob Z Sun, Jonathan D Cogen, Marshall Brown, Anna V Faino, Karen Hinckley Stukovsky, Adam A Szpiro, Lianne Sheppard, Christopher H Goss, Joel Kaufman, Margaret Rosenfeld\n Abstract \n                   \n                     Rationale \n                    <",
+      "tag": "analysis"
     },
     {
       "title": "Mammarenavirus-Induced Remodeling of the Cellular Lipid Landscape Reveals Sphingolipid Metabolism as a Novel Target for Antiviral Intervention",
@@ -849,6 +860,20 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
+      "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
+      "tag": "analysis"
+    },
+    {
+      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
+      "link": "https://www.preprints.org/manuscript/202607.0058",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivore, and chiropteran reservoirs, with humans infected mainly through inhalation of aerosolized excreta. They cause two major syndromes: hemorrhagic fever with renal syndrome (HFRS), endemic in Europe and Asia, and ha",
+      "tag": "analysis"
+    },
+    {
       "title": "Janibacter melonis Bone Marrow Infection in an Immunocompetent Child With Prolonged Fever of Unknown Origin: A case report",
       "link": "https://doi.org/10.21203/rs.3.rs-9920478/v1",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -870,6 +895,20 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo &amp; Uganda",
+      "link": "https://doi.org/10.1016/j.ajt.2026.07.001",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.ajt.2026.07.001\nAuthors: Marcus R. Pereira",
+      "tag": "analysis"
+    },
+    {
+      "title": "Detected case growth and outcome heterogeneity during the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda",
+      "link": "https://doi.org/10.21203/rs.3.rs-10090145/v1",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10090145/v1\nAuthors: Tambe Elvis Akem, Eta Calvin Oben\n Abstract \n                 Background\n The 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo (DRC), with cross-border cases in Uganda, evolved amid mobility, insecurity, delayed detection, laboratory constraints, and pressure on",
+      "tag": "cases"
+    },
+    {
       "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
       "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -884,27 +923,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Detected case growth and outcome heterogeneity during the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda",
-      "link": "https://doi.org/10.21203/rs.3.rs-10090145/v1",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10090145/v1\nAuthors: Tambe Elvis Akem, Eta Calvin Oben\n Abstract \n                 Background\n The 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo (DRC), with cross-border cases in Uganda, evolved amid mobility, insecurity, delayed detection, laboratory constraints, and pressure on",
-      "tag": "cases"
-    },
-    {
-      "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
-      "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
-      "tag": "analysis"
-    },
-    {
-      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
-      "link": "https://www.preprints.org/manuscript/202607.0058",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivore, and chiropteran reservoirs, with humans infected mainly through inhalation of aerosolized excreta. They cause two major syndromes: hemorrhagic fever with renal syndrome (HFRS), endemic in Europe and Asia, and ha",
-      "tag": "analysis"
-    },
-    {
       "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
       "link": "https://doi.org/10.7759/cureus.111921",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -916,13 +934,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1016/j.dld.2026.06.011",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1016/j.dld.2026.06.011\nAuthors: Aiji Hattori, Yasuhiko Hamada, Hayato Nakagawa",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo &amp; Uganda",
-      "link": "https://doi.org/10.1016/j.ajt.2026.07.001",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.ajt.2026.07.001\nAuthors: Marcus R. Pereira",
       "tag": "analysis"
     },
     {
@@ -1122,11 +1133,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "PTPN13 Contributes to Ebola Virus-Induced Immune Dysregulation via Dephosphorylation of IRF3 and PI3K-p85",
-      "link": "https://doi.org/10.3390/v18070729",
+      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
+      "link": "https://openalex.org/W7166530626",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/v18070729\nAuthors: Abbey N. Warren, Maria Gonzalez-Orozco, Ivan Kuzmin, Sreeja Parameswaran, Ruben Soto Acosta, Birte Kalveram, Sarah van Tol, Adam Hage, Padmanava Behera, Yoatzin Peñaflor-Tellez, Maria I. Giraldo, William Russell, Matthew T. Weirauch, Alexander Freiberg, Alexander Bukreyev, Ricardo Rajsbaum\n Ebola virus disease",
-      "tag": "analysis"
+      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
+      "tag": "response"
     },
     {
       "title": "Africa CDC calls for urgent US$18 million to close the funding gap on critical research ready to commence",
@@ -1150,11 +1161,11 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
-      "link": "https://openalex.org/W7166530626",
+      "title": "PTPN13 Contributes to Ebola Virus-Induced Immune Dysregulation via Dephosphorylation of IRF3 and PI3K-p85",
+      "link": "https://doi.org/10.3390/v18070729",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
-      "tag": "response"
+      "desc": "DOI: 10.3390/v18070729\nAuthors: Abbey N. Warren, Maria Gonzalez-Orozco, Ivan Kuzmin, Sreeja Parameswaran, Ruben Soto Acosta, Birte Kalveram, Sarah van Tol, Adam Hage, Padmanava Behera, Yoatzin Peñaflor-Tellez, Maria I. Giraldo, William Russell, Matthew T. Weirauch, Alexander Freiberg, Alexander Bukreyev, Ricardo Rajsbaum\n Ebola virus disease",
+      "tag": "analysis"
     },
     {
       "title": "Strengthening Risk Communication and Community Engagement in Public Health Emergencies: A Public Health Framework with Biological Science Insights for Trust, Misinformation Management, and Community Resilience",
@@ -1395,13 +1406,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
-      "link": "https://doi.org/10.1093/qjmed/hcag167",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/qjmed/hcag167\nAuthors: Claude Mambo Muvunyi, Emmanuel Edwar Siddig",
-      "tag": "response"
-    },
-    {
       "title": "Public health considerations for preventing crimean-congo haemorrhagic fever in Islamic Republic of Iran",
       "link": "https://doi.org/10.26719/2026.32.6.399",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -1409,17 +1413,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
+      "link": "https://doi.org/10.1093/qjmed/hcag167",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/qjmed/hcag167\nAuthors: Claude Mambo Muvunyi, Emmanuel Edwar Siddig",
+      "tag": "response"
+    },
+    {
       "title": "Optimizing diagnostic cascades: evaluating the sensitivity of NS1 antigen versus antibody serology in a rapidly evolving dengue outbreak",
       "link": "https://doi.org/10.18203/2320-6012.ijrms20262158",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.18203/2320-6012.ijrms20262158\nAuthors: M. Ashraf Uddin Ahmed, Farzana Yasmin, Mahmood Parvez, Tasnim Mahmud\n Background: Dengue fever, caused by DENV-1-4 serotypes, remains a major public health challenge with clinical manifestations ranging from mild febrile illness to severe complications such as Dengue Hemorrhagic Fever (DHF) and",
-      "tag": "analysis"
-    },
-    {
-      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
-      "link": "https://doi.org/10.33897/fumj.v8i1.251",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
       "tag": "analysis"
     },
     {
@@ -1434,6 +1438,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.3126/mjen.v5i01.96385",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3126/mjen.v5i01.96385\nAuthors: Abhishek Karmacharya, Subrata Pokhrel, Damodar Sharma, Chetan Khadka, Nickey Pradhan, Navindra Phuyal\n Background \nWith a high mortality rate, bloodstream infections (BSI) are a serious worldwide public health burden. Delay in therapy has a significant impact on Patient’s outcomes, and rapid and precis",
+      "tag": "analysis"
+    },
+    {
+      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
+      "link": "https://doi.org/10.33897/fumj.v8i1.251",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
       "tag": "analysis"
     },
     {
@@ -1876,20 +1887,6 @@ window.FEED_DATA = {
       "pubDate": "Thu, 25 Jun 2026 00:02:00 Z",
       "desc": "DAKAR/JOHANNESBURG, June 24 (Reuters) - The Ebola outbreak in Democratic Republic of Congo is still outpacing response efforts, and frontline health workers there ⁠face very risky conditions, World Health Organization officials said on Wednesday.\n\nThe outbreak of the rare Bundibugyo strain of Ebola....",
       "tag": "response"
-    },
-    {
-      "title": "Chapter 1: Tick-borne human diseases around the globe",
-      "link": "https://doi.org/10.33442/26613980_1-9",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.33442/26613980_1-9\nAuthors: Tatjana Vilibić-Čavlek, Maja Bogdanić, Vladimir Savić, Ljubo Barbić, Vladimir Stevanović, Bernard Kaić\n The number of tick-borne diseases is increasing due to the geographical expansion of their tick vectors, higher frequencies of infected ticks, increased awareness of infection, and improved diagnostics.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Analisis Implementasi Clinical pathway terhadap Length of Stay (LOS) dan Biaya Perawatan Pasien Anak dengan Demam Berdarah Dengue (DBD) di RSI NU Demak Authors",
-      "link": "https://doi.org/10.7454/eki.v11i1.1181",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.7454/eki.v11i1.1181\n Clinical pathway (CP) is a quality and cost control instrument in hospitals designed to ensure service standardization, efficiency of Length of Stay (LOS), and control of healthcare costs. Dengue Haemorrhagic Fever (DHF) in children is an infectious disease that often requires hospitalization, with considerable v",
-      "tag": "analysis"
     }
   ],
   "highWater": {
