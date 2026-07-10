@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 09 Jul 2026 22:23:29 Z",
-  "fetchedAt": "2026-07-09T22:23:30Z",
+  "lastBuildDate": "Fri, 10 Jul 2026 03:31:24 Z",
+  "fetchedAt": "2026-07-10T03:31:24Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -81,9 +81,7 @@ window.FEED_DATA = {
         "confirmed": 6
       },
       "media": {
-        "suspected": 1561,
-        "deaths": 506,
-        "confirmed": 1500
+        "suspected": 1251
       },
       "whoDon": {
         "confirmed": 1460,
@@ -138,6 +136,13 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "Polonia notifica un nuevo foco de peste porcina africana en una explotación porcina de Kuyavia-Pomerania",
+      "link": "https://eurocarne.com/noticias/codigo/71399/kw/Polonia+notifica+un+nuevo+foco+de+peste+porcina+africana+en+una+explotaci%C3%B3n+porcina+de+Kuyavia-Pomerania",
+      "pubDate": "Thu, 09 Jul 2026 22:27:00 Z",
+      "desc": "Polonia ha notificado a la Organización Mundial de Sanidad Animal (Omsa) un nuevo foco de peste porcina africana (PPA) en una explotación de cerdos domésticos situada en Świecie, en la región de Kuyavia-Pomerania. Según la notificación inmediata registrada en el sistema WAHIS, el evento se inició el....",
+      "tag": "analysis"
+    },
     {
       "title": "US Cyclospora cases mount as CDC lags on tracking",
       "link": "https://www.cidrap.umn.edu/cyclospora/us-cyclospora-cases-mount-cdc-lags-tracking",
@@ -384,17 +389,17 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Viral hepatitis detection through emergency hospital departments in a Spanish region with high immigration: implications for elimination strategies",
-      "link": "https://doi.org/10.1186/s40249-026-01472-3",
-      "pubDate": "Mon, 06 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s40249-026-01472-3\nAuthors: Carme López, Maria Àngels Gispert, Emma Picart, Rosa Durández, Dúnia Pérez del Campo, Miguel Torralba-Calero, Francesc Xavier Queralt, Robert Carreras-Torres, Javier Pamplona\n Abstract \n                   \n                     Background",
-      "tag": "analysis"
-    },
-    {
       "title": "Africa CDC annonce une Nouvelle Direction pour la Recherche, les Essais Cliniques et l’Innovation",
       "link": "https://africacdc.org/news-item/africa-cdc-annonce-une-nouvelle-direction-pour-la-recherche-les-essais-cliniques-et-linnovation/",
       "pubDate": "Mon, 06 Jul 2026 00:00:00 Z",
       "desc": "Chers collègues, chers partenaires et chers amis,\n\n\n\nÀ un moment critique pour la riposte à Ebola, alors que le continent doit accélérer le développement de médicaments, de vaccins et d’innovations adaptées aux urgences sanitaires, j’ai le plaisir d’annoncer la nomination du Professeur Placide Mbala Kingebeni, MD, MSc, PhD, au poste de Direc",
+      "tag": "analysis"
+    },
+    {
+      "title": "Viral hepatitis detection through emergency hospital departments in a Spanish region with high immigration: implications for elimination strategies",
+      "link": "https://doi.org/10.1186/s40249-026-01472-3",
+      "pubDate": "Mon, 06 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s40249-026-01472-3\nAuthors: Carme López, Maria Àngels Gispert, Emma Picart, Rosa Durández, Dúnia Pérez del Campo, Miguel Torralba-Calero, Francesc Xavier Queralt, Robert Carreras-Torres, Javier Pamplona\n Abstract \n                   \n                     Background",
       "tag": "analysis"
     },
     {
@@ -566,18 +571,18 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Community Engagement Should be Prioritised in Bundibugyo Ebola Outbreak Fight",
-      "link": "https://africacdc.org/news-item/community-engagement-should-be-prioritised-in-bundibugyo-ebola-outbreak-fight/",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
-      "desc": "One month after the declaration of the 2026 Bundibugyo Ebola outbreak as both a global and continental public health emergency, transmission continues to expand in eastern Democratic Republic of Congo (DRC) and Uganda despite substantial response efforts. As of 14 June 2026, there were 827 confirmed cases and 194 deaths, with Ituri Province",
-      "tag": "pheic"
-    },
-    {
       "title": "Fine particulate matter exposure and long-term lung-function trajectory in adults with cystic fibrosis",
       "link": "https://doi.org/10.1093/annalsats/aaoag188",
       "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1093/annalsats/aaoag188\nAuthors: Bob Z Sun, Jonathan D Cogen, Marshall Brown, Anna V Faino, Karen Hinckley Stukovsky, Adam A Szpiro, Lianne Sheppard, Christopher H Goss, Joel Kaufman, Margaret Rosenfeld\n Abstract \n                   \n                     Rationale \n                    <",
       "tag": "analysis"
+    },
+    {
+      "title": "Community Engagement Should be Prioritised in Bundibugyo Ebola Outbreak Fight",
+      "link": "https://africacdc.org/news-item/community-engagement-should-be-prioritised-in-bundibugyo-ebola-outbreak-fight/",
+      "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
+      "desc": "One month after the declaration of the 2026 Bundibugyo Ebola outbreak as both a global and continental public health emergency, transmission continues to expand in eastern Democratic Republic of Congo (DRC) and Uganda despite substantial response efforts. As of 14 June 2026, there were 827 confirmed cases and 194 deaths, with Ituri Province",
+      "tag": "pheic"
     },
     {
       "title": "Mammarenavirus-Induced Remodeling of the Cellular Lipid Landscape Reveals Sphingolipid Metabolism as a Novel Target for Antiviral Intervention",
@@ -706,13 +711,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Lessons learned from 2022-2025 outbreaks with cross border spread potential",
-      "link": "https://africacdc.org/news-item/lessons-learned-from-2022-2025-outbreaks-with-cross-border-spread-potential/",
-      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
-      "desc": "Evidence from recent African outbreaks of mpox, cholera, Ebola virus disease, and Marburg virus disease shows that successful outbreak responses rely on continuous investments in preparedness rather than reactive measures.\n\n\n\nA narrative synthesis of scientific articles and reports from 2022-2025 on outbreaks by Africa Centres for Disease Co",
-      "tag": "response"
-    },
-    {
       "title": "Mucin-induced metabolic reprogramming in <i>Pseudomonas aeruginosa</i> clinical isolates",
       "link": "https://doi.org/10.1128/msystems.00580-26",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
@@ -727,17 +725,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "À Kinshasa, le Président Tshisekedi donne une impulsion à la riposte contre Ebola avec l’appui solidaire du Président Ramaphosa",
-      "link": "https://africacdc.org/news-item/a-kinshasa-le-president-tshisekedi-donne-une-impulsion-a-la-riposte-contre-ebola-avec-lappui-solidaire-du-president-ramaphosa/",
+      "title": "Lessons learned from 2022-2025 outbreaks with cross border spread potential",
+      "link": "https://africacdc.org/news-item/lessons-learned-from-2022-2025-outbreaks-with-cross-border-spread-potential/",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
-      "desc": "Une rencontre convoquée par Africa CDC à l’INRB pour accélérer la coordination, la mobilisation des ressources et l’appui aux zones affectées\n\n\n\nKINSHASA, République démocratique du Congo, 2 juillet 2026 – Le Président de la République démocratique du Congo, S.E. M. Félix Antoine Tshisekedi Tshilombo, a accueilli ce jour le Président de la R",
-      "tag": "analysis"
+      "desc": "Evidence from recent African outbreaks of mpox, cholera, Ebola virus disease, and Marburg virus disease shows that successful outbreak responses rely on continuous investments in preparedness rather than reactive measures.\n\n\n\nA narrative synthesis of scientific articles and reports from 2022-2025 on outbreaks by Africa Centres for Disease Co",
+      "tag": "response"
     },
     {
       "title": "Exploratory Claims‐Based Assessment of Diagnosed and Potentially Undiagnosed von Willebrand Disease in Japan",
       "link": "https://doi.org/10.1111/hae.70352",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1111/hae.70352\nAuthors: Azusa Nagao, Fumikazu Shimamura, Kosuke Iwasaki",
+      "tag": "analysis"
+    },
+    {
+      "title": "À Kinshasa, le Président Tshisekedi donne une impulsion à la riposte contre Ebola avec l’appui solidaire du Président Ramaphosa",
+      "link": "https://africacdc.org/news-item/a-kinshasa-le-president-tshisekedi-donne-une-impulsion-a-la-riposte-contre-ebola-avec-lappui-solidaire-du-president-ramaphosa/",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
+      "desc": "Une rencontre convoquée par Africa CDC à l’INRB pour accélérer la coordination, la mobilisation des ressources et l’appui aux zones affectées\n\n\n\nKINSHASA, République démocratique du Congo, 2 juillet 2026 – Le Président de la République démocratique du Congo, S.E. M. Félix Antoine Tshisekedi Tshilombo, a accueilli ce jour le Président de la R",
       "tag": "analysis"
     },
     {
@@ -860,20 +865,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
-      "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
-      "tag": "analysis"
-    },
-    {
-      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
-      "link": "https://www.preprints.org/manuscript/202607.0058",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivore, and chiropteran reservoirs, with humans infected mainly through inhalation of aerosolized excreta. They cause two major syndromes: hemorrhagic fever with renal syndrome (HFRS), endemic in Europe and Asia, and ha",
-      "tag": "analysis"
-    },
-    {
       "title": "Janibacter melonis Bone Marrow Infection in an Immunocompetent Child With Prolonged Fever of Unknown Origin: A case report",
       "link": "https://doi.org/10.21203/rs.3.rs-9920478/v1",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -895,10 +886,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo &amp; Uganda",
-      "link": "https://doi.org/10.1016/j.ajt.2026.07.001",
+      "title": "Elimination of gambiense human African trypanosomiasis as a public health problem in Republic of Guinea: Paving the way for zero transmission",
+      "link": "https://doi.org/10.1371/journal.pntd.0014469",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.ajt.2026.07.001\nAuthors: Marcus R. Pereira",
+      "desc": "DOI: 10.1371/journal.pntd.0014469\nAuthors: Moïse Kagbadouno, Oumou Camara, Bailo Mamadou Diallo, Abdoulaye Dansy Camara, Aissata Soumah, Mamadou Leno, Favié Béavogui, Mohamed Diaby Gassama, Issiaga Camara, Bamoro Coulibaly, Dramane Kaba, Aïssata Camara, Salimatou Boiro, Hamidou Ilboudo, Jean-Baptiste Rayaisse, Annette MacLeod, Joseph Ndungu, Sylvai",
       "tag": "analysis"
     },
     {
@@ -916,18 +907,32 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Elimination of gambiense human African trypanosomiasis as a public health problem in Republic of Guinea: Paving the way for zero transmission",
-      "link": "https://doi.org/10.1371/journal.pntd.0014469",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.pntd.0014469\nAuthors: Moïse Kagbadouno, Oumou Camara, Bailo Mamadou Diallo, Abdoulaye Dansy Camara, Aissata Soumah, Mamadou Leno, Favié Béavogui, Mohamed Diaby Gassama, Issiaga Camara, Bamoro Coulibaly, Dramane Kaba, Aïssata Camara, Salimatou Boiro, Hamidou Ilboudo, Jean-Baptiste Rayaisse, Annette MacLeod, Joseph Ndungu, Sylvai",
-      "tag": "analysis"
-    },
-    {
       "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
       "link": "https://doi.org/10.7759/cureus.111921",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
       "tag": "response"
+    },
+    {
+      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo &amp; Uganda",
+      "link": "https://doi.org/10.1016/j.ajt.2026.07.001",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.ajt.2026.07.001\nAuthors: Marcus R. Pereira",
+      "tag": "analysis"
+    },
+    {
+      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
+      "link": "https://www.preprints.org/manuscript/202607.0058",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivore, and chiropteran reservoirs, with humans infected mainly through inhalation of aerosolized excreta. They cause two major syndromes: hemorrhagic fever with renal syndrome (HFRS), endemic in Europe and Asia, and ha",
+      "tag": "analysis"
+    },
+    {
+      "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
+      "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
+      "tag": "analysis"
     },
     {
       "title": "An unusual gastric mass in a patient with human immunodeficiency virus infection",
@@ -958,31 +963,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "PIK3CA-Related Overgrowth Syndrome: A Case Report",
-      "link": "https://doi.org/10.5070/rs4.48391",
+      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
+      "link": "https://doi.org/10.20944/preprints202607.0058.v1",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.5070/rs4.48391\nAuthors: Kathleen M Kilroe, Jamie E Clarke, Maitraya K Patel\n PIK3CA-related overgrowth syndrome (PROS) is characterized by a range of mutations in the phosphoinositide 3-kinase (PI3K) pathway, resulting in diverse and variable imaging findings. Hyperplasia in PROS can affect multiple organ systems and commonly presents wit",
+      "desc": "DOI: 10.20944/preprints202607.0058.v1\nAuthors: Suganya P., Shreya Kishore, Harikaran Jeyakkodi, Vinod G., K. G. Sruthi, Pavani Duppada, Shibin Dani P., V. Priya, Savitha Lakshmi raghavan, Rajkumar Manoharan\n Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivo",
       "tag": "analysis"
     },
     {
-      "title": "An Unusual Etiology of Bayés' Syndrome: Fabry Disease",
-      "link": "https://doi.org/10.1111/anec.70220",
+      "title": "Rare variants in genes related to inborn errors of immunity in patients with rheumatoid arthritis and secondary immunodeficiency",
+      "link": "https://doi.org/10.1136/rmdopen-2026-007046",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/anec.70220\nAuthors: Nicholas E. Kunce, Andre Silva, Mark Haigney, Adam Kisling\n ABSTRACT \n                   We present the case of a 72‐year‐old female with Fabry disease who developed an advanced interatrial conduction block and atrial fibrillation, a condition known as Bayés' syndrome. Fabry disease is",
-      "tag": "analysis"
-    },
-    {
-      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
-      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
-      "tag": "analysis"
-    },
-    {
-      "title": "Brote de hantavirus Andes vinculado a un crucero transatlántico: Evaluación del riesgo para España",
-      "link": "https://doi.org/10.4321/s2173-92772026000200002",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4321/s2173-92772026000200002\nAuthors: María Cruz Calvo-Reyes, Sara Montenegro-Jaramillo, Laura Santos-Larrégola, Pedro Valdivia-Prieto, Lucía García-San Miguel, María José Sierra-Moros\n The Andes hantavirus (ANDV) outbreak linked to a transatlantic cruise ship in May 2026 represented an unusual public health event. A total of 13 case",
+      "desc": "DOI: 10.1136/rmdopen-2026-007046\nAuthors: Faranaz Atschekzei, Natalia Dubrowinskaja, Manfred Anim, Doris Steinemann, Sandra von Hardenberg, Winfried Hofmann, Robert Geffers, Torsten Witte, Georgios Sogkas\n \n                     Objectives \n                     Treatment of rheumatoid arthritis (RA) relies on i",
       "tag": "analysis"
     },
     {
@@ -1000,20 +991,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Rare variants in genes related to inborn errors of immunity in patients with rheumatoid arthritis and secondary immunodeficiency",
-      "link": "https://doi.org/10.1136/rmdopen-2026-007046",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/rmdopen-2026-007046\nAuthors: Faranaz Atschekzei, Natalia Dubrowinskaja, Manfred Anim, Doris Steinemann, Sandra von Hardenberg, Winfried Hofmann, Robert Geffers, Torsten Witte, Georgios Sogkas\n \n                     Objectives \n                     Treatment of rheumatoid arthritis (RA) relies on i",
-      "tag": "analysis"
-    },
-    {
-      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
-      "link": "https://doi.org/10.20944/preprints202607.0058.v1",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.20944/preprints202607.0058.v1\nAuthors: Suganya P., Shreya Kishore, Harikaran Jeyakkodi, Vinod G., K. G. Sruthi, Pavani Duppada, Shibin Dani P., V. Priya, Savitha Lakshmi raghavan, Rajkumar Manoharan\n Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivo",
-      "tag": "analysis"
-    },
-    {
       "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
       "link": "https://doi.org/10.1161/circgen.125.005653",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -1021,10 +998,38 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
+      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
+      "tag": "analysis"
+    },
+    {
+      "title": "PIK3CA-Related Overgrowth Syndrome: A Case Report",
+      "link": "https://doi.org/10.5070/rs4.48391",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.5070/rs4.48391\nAuthors: Kathleen M Kilroe, Jamie E Clarke, Maitraya K Patel\n PIK3CA-related overgrowth syndrome (PROS) is characterized by a range of mutations in the phosphoinositide 3-kinase (PI3K) pathway, resulting in diverse and variable imaging findings. Hyperplasia in PROS can affect multiple organ systems and commonly presents wit",
+      "tag": "analysis"
+    },
+    {
+      "title": "An Unusual Etiology of Bayés' Syndrome: Fabry Disease",
+      "link": "https://doi.org/10.1111/anec.70220",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1111/anec.70220\nAuthors: Nicholas E. Kunce, Andre Silva, Mark Haigney, Adam Kisling\n ABSTRACT \n                   We present the case of a 72‐year‐old female with Fabry disease who developed an advanced interatrial conduction block and atrial fibrillation, a condition known as Bayés' syndrome. Fabry disease is",
+      "tag": "analysis"
+    },
+    {
       "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
       "link": "https://doi.org/10.71320/bcs.0019",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
+      "tag": "analysis"
+    },
+    {
+      "title": "Brote de hantavirus Andes vinculado a un crucero transatlántico: Evaluación del riesgo para España",
+      "link": "https://doi.org/10.4321/s2173-92772026000200002",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.4321/s2173-92772026000200002\nAuthors: María Cruz Calvo-Reyes, Sara Montenegro-Jaramillo, Laura Santos-Larrégola, Pedro Valdivia-Prieto, Lucía García-San Miguel, María José Sierra-Moros\n The Andes hantavirus (ANDV) outbreak linked to a transatlantic cruise ship in May 2026 represented an unusual public health event. A total of 13 case",
       "tag": "analysis"
     },
     {
@@ -1133,11 +1138,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
-      "link": "https://openalex.org/W7166530626",
+      "title": "PTPN13 Contributes to Ebola Virus-Induced Immune Dysregulation via Dephosphorylation of IRF3 and PI3K-p85",
+      "link": "https://doi.org/10.3390/v18070729",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
-      "tag": "response"
+      "desc": "DOI: 10.3390/v18070729\nAuthors: Abbey N. Warren, Maria Gonzalez-Orozco, Ivan Kuzmin, Sreeja Parameswaran, Ruben Soto Acosta, Birte Kalveram, Sarah van Tol, Adam Hage, Padmanava Behera, Yoatzin Peñaflor-Tellez, Maria I. Giraldo, William Russell, Matthew T. Weirauch, Alexander Freiberg, Alexander Bukreyev, Ricardo Rajsbaum\n Ebola virus disease",
+      "tag": "analysis"
     },
     {
       "title": "Africa CDC calls for urgent US$18 million to close the funding gap on critical research ready to commence",
@@ -1161,24 +1166,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "PTPN13 Contributes to Ebola Virus-Induced Immune Dysregulation via Dephosphorylation of IRF3 and PI3K-p85",
-      "link": "https://doi.org/10.3390/v18070729",
+      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
+      "link": "https://openalex.org/W7166530626",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/v18070729\nAuthors: Abbey N. Warren, Maria Gonzalez-Orozco, Ivan Kuzmin, Sreeja Parameswaran, Ruben Soto Acosta, Birte Kalveram, Sarah van Tol, Adam Hage, Padmanava Behera, Yoatzin Peñaflor-Tellez, Maria I. Giraldo, William Russell, Matthew T. Weirauch, Alexander Freiberg, Alexander Bukreyev, Ricardo Rajsbaum\n Ebola virus disease",
-      "tag": "analysis"
+      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
+      "tag": "response"
     },
     {
       "title": "Strengthening Risk Communication and Community Engagement in Public Health Emergencies: A Public Health Framework with Biological Science Insights for Trust, Misinformation Management, and Community Resilience",
       "link": "https://doi.org/10.62497/irabcs.235",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.62497/irabcs.235\nAuthors: Abayizeye Remy Patient, Abdussalam Khattak\n Background: Public health emergencies are biological and social events. Outbreaks and humanitarian health crises are shaped by pathogen transmission, incubation periods, host susceptibility, immune protection, environmental exposure, and health-system capacity, but",
-      "tag": "analysis"
-    },
-    {
-      "title": "Admission complete blood count-derived inflammatory indices for risk stratification in hemorrhagic fever with renal syndrome: comparative performance of NLR, PLR, SII, LMR, and the neutrophil-to-red blood cell ratio",
-      "link": "https://doi.org/10.3389/fimmu.2026.1863714",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fimmu.2026.1863714\nAuthors: Zhuoran Xiao, Xingchi Chen, Min Wei, Shasha Wu, Shuxiang Zhao, Dandan Suo, Shangying Zhao, Meng Li, Xiaofei Yang, Chao Fan, Jianqi Lian, Chuantao Ye, Jing Zhang\n \n                     Background \n                     Hemorrhagic fever with renal syndrome (HFRS) requires",
       "tag": "analysis"
     },
     {
@@ -1210,17 +1208,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
-      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
-      "tag": "analysis"
-    },
-    {
       "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
       "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10006038/v1\nAuthors: Guolong Qu, Zhenyao Song, Weiming Hou\n Abstract \n                 \n                  Background\n Previous studies have primarily examined associations between the incidence of a single infectious disease and individual meteorological or chemical pollution factors. However, the individual and",
+      "tag": "analysis"
+    },
+    {
+      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
+      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
       "tag": "analysis"
     },
     {
@@ -1235,6 +1233,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.47144/phj.v59i3.3761",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.47144/phj.v59i3.3761\nAuthors: Aliya Kemal Ahsan, Makhdoom Bilawal, Syed Waseem Jamalvi, Abdul Sattar Shaikh\n Rheumatic heart disease (RHD) remains one of the leading causes of acquired heart disease among children and adolescents in low- and middle-income countries despite being largely preventable. Although remarkable advances have",
+      "tag": "analysis"
+    },
+    {
+      "title": "Admission complete blood count-derived inflammatory indices for risk stratification in hemorrhagic fever with renal syndrome: comparative performance of NLR, PLR, SII, LMR, and the neutrophil-to-red blood cell ratio",
+      "link": "https://doi.org/10.3389/fimmu.2026.1863714",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fimmu.2026.1863714\nAuthors: Zhuoran Xiao, Xingchi Chen, Min Wei, Shasha Wu, Shuxiang Zhao, Dandan Suo, Shangying Zhao, Meng Li, Xiaofei Yang, Chao Fan, Jianqi Lian, Chuantao Ye, Jing Zhang\n \n                     Background \n                     Hemorrhagic fever with renal syndrome (HFRS) requires",
       "tag": "analysis"
     },
     {
@@ -1406,13 +1411,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Public health considerations for preventing crimean-congo haemorrhagic fever in Islamic Republic of Iran",
-      "link": "https://doi.org/10.26719/2026.32.6.399",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.26719/2026.32.6.399\nAuthors: Jalil Nejati",
-      "tag": "analysis"
-    },
-    {
       "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
       "link": "https://doi.org/10.1093/qjmed/hcag167",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -1420,10 +1418,24 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
+      "title": "Public health considerations for preventing crimean-congo haemorrhagic fever in Islamic Republic of Iran",
+      "link": "https://doi.org/10.26719/2026.32.6.399",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.26719/2026.32.6.399\nAuthors: Jalil Nejati",
+      "tag": "analysis"
+    },
+    {
       "title": "Optimizing diagnostic cascades: evaluating the sensitivity of NS1 antigen versus antibody serology in a rapidly evolving dengue outbreak",
       "link": "https://doi.org/10.18203/2320-6012.ijrms20262158",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.18203/2320-6012.ijrms20262158\nAuthors: M. Ashraf Uddin Ahmed, Farzana Yasmin, Mahmood Parvez, Tasnim Mahmud\n Background: Dengue fever, caused by DENV-1-4 serotypes, remains a major public health challenge with clinical manifestations ranging from mild febrile illness to severe complications such as Dengue Hemorrhagic Fever (DHF) and",
+      "tag": "analysis"
+    },
+    {
+      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
+      "link": "https://doi.org/10.33897/fumj.v8i1.251",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
       "tag": "analysis"
     },
     {
@@ -1441,13 +1453,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
-      "link": "https://doi.org/10.33897/fumj.v8i1.251",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
-      "tag": "analysis"
-    },
-    {
       "title": "Aromatic basil (Ocimum x africanum Lour.) tea as a biolarvacide in dengue haemorrhagic fever",
       "link": "https://doi.org/10.34011/jmp2k.v36i2.4533",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -1462,17 +1467,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "LATE DIAGNOSIS OF CHRONIC KIDNEY DISEASE IN A CHILD WITH A HYPOREFLEXIVE BLADDER: A CASE REPORT AND LITERATURE REVIEW",
-      "link": "https://doi.org/10.24061/2413-4260.xvi.2.60.2026.42",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.24061/2413-4260.xvi.2.60.2026.42\nAuthors: L. Vakulenko, O. Babak, D. Ochigava, A. Riznyk, V. Postovoi, A. Obertynskyi\n Chronic kidney disease (CKD) represents a major global health problem because of its high prevalence, significant mortality, and the substantial economic burden associated with renal replacement therapy. Most pediatr",
-      "tag": "analysis"
-    },
-    {
       "title": "The PEARL toolkit: Using sand flies to identify leishmaniasis animal reservoirs",
       "link": "https://doi.org/10.64898/2026.06.27.734966",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.06.27.734966\nAuthors: Eva Iniguez, Patrick Huffcutt, Tiago Donatelli Serafim, Pedro Cecilio, Serena Doh, Aaron Pugh, Johannes Doehl, Claudio Meneses, Ben Lambert, Jesus G. Valenzuela, Shaden Kamhawi\n In many leishmaniasis foci, reservoirs that maintain infection remain unknown. Here, we developed a field-applicable toolkit",
+      "tag": "analysis"
+    },
+    {
+      "title": "LATE DIAGNOSIS OF CHRONIC KIDNEY DISEASE IN A CHILD WITH A HYPOREFLEXIVE BLADDER: A CASE REPORT AND LITERATURE REVIEW",
+      "link": "https://doi.org/10.24061/2413-4260.xvi.2.60.2026.42",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.24061/2413-4260.xvi.2.60.2026.42\nAuthors: L. Vakulenko, O. Babak, D. Ochigava, A. Riznyk, V. Postovoi, A. Obertynskyi\n Chronic kidney disease (CKD) represents a major global health problem because of its high prevalence, significant mortality, and the substantial economic burden associated with renal replacement therapy. Most pediatr",
       "tag": "analysis"
     },
     {
@@ -1483,17 +1488,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Cost-effectiveness of a decentralised molecular point-of-care testing programme for sexually transmitted infections in remote primary care health services in Australia",
-      "link": "https://doi.org/10.1136/sextrans-2025-056863",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/sextrans-2025-056863\nAuthors: Caroline G Watts, Louise M Causer, Susan J Matthews, Kirsty Smith, Kelly Andrewartha, Annie Tangey, Ben B Hui, Rae-Lin Huang, David Anderson, Steven G Badman, Basil Donovan, Christopher K Fairley, Manoji Gunathilake, Belinda Hengel, John Kaldor, Lisa Maher, Donna B Mak, David Persing, David G Regan, Mark D",
-      "tag": "analysis"
-    },
-    {
       "title": "Correlates of protection against African swine fever virus identified by a systems immunology approach.",
       "link": "https://europepmc.org/article/MED/42372005",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "FullTextUrl: https://doi.org/10.7554/eLife.107579\nJournal Title: eLife\nAuthors: Lotonin K, Brito F, Mehinagic K, García-Nicolás O, Liniger M, Donzé N, Python S, Talker S, Ploegaert T, Ruggli N, Benarafa C, Summerfield A.\nAfrican swine fever virus (ASFV) causes a fatal hemorrhagic disease in domestic pigs and wild boars, which poses severe threats t",
+      "tag": "analysis"
+    },
+    {
+      "title": "Cost-effectiveness of a decentralised molecular point-of-care testing programme for sexually transmitted infections in remote primary care health services in Australia",
+      "link": "https://doi.org/10.1136/sextrans-2025-056863",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/sextrans-2025-056863\nAuthors: Caroline G Watts, Louise M Causer, Susan J Matthews, Kirsty Smith, Kelly Andrewartha, Annie Tangey, Ben B Hui, Rae-Lin Huang, David Anderson, Steven G Badman, Basil Donovan, Christopher K Fairley, Manoji Gunathilake, Belinda Hengel, John Kaldor, Lisa Maher, Donna B Mak, David Persing, David G Regan, Mark D",
       "tag": "analysis"
     },
     {
@@ -1880,13 +1885,6 @@ window.FEED_DATA = {
       "pubDate": "Thu, 25 Jun 2026 00:02:00 Z",
       "desc": "June 24 (Reuters) - UNICEF and global vaccine group Gavi said on Wednesday they are seeking information from developers and manufacturers ⁠on plans for a vaccine against the Bundibugyo strain of Ebola.\n\nThe move follows a commitment of up to $40 million from Gavi ⁠to support faster access, including....",
       "tag": "analysis"
-    },
-    {
-      "title": "WHO Says Congo's Ebola Outbreak Still Fast-moving and Health Workers Under Threat",
-      "link": "https://www.medscape.com/s/viewarticle/who-says-congos-ebola-outbreak-still-fast-moving-and-health-2026a1000lg5?src=rss",
-      "pubDate": "Thu, 25 Jun 2026 00:02:00 Z",
-      "desc": "DAKAR/JOHANNESBURG, June 24 (Reuters) - The Ebola outbreak in Democratic Republic of Congo is still outpacing response efforts, and frontline health workers there ⁠face very risky conditions, World Health Organization officials said on Wednesday.\n\nThe outbreak of the rare Bundibugyo strain of Ebola....",
-      "tag": "response"
     }
   ],
   "highWater": {
