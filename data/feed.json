@@ -1,28 +1,28 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 10 Jul 2026 19:35:34 Z",
-  "fetchedAt": "2026-07-10T19:35:34Z",
+  "lastBuildDate": "Fri, 10 Jul 2026 22:05:13 Z",
+  "fetchedAt": "2026-07-10T22:05:14Z",
   "itemCount": 250,
   "stats": {
     "drc": {
-      "confirmed": 1759,
-      "deaths": 600,
-      "recovered": 285,
+      "confirmed": 1792,
+      "deaths": 625,
+      "recovered": 295,
       "zonesAffected": 42,
       "topHealthZones": {
-        "Bunia": 483,
-        "Rwampara": 364,
-        "Mongbwalu": 310,
+        "Bunia": 487,
+        "Rwampara": 370,
+        "Mongbwalu": 315,
+        "Nizi": 104,
         "Nyankunde": 97,
-        "Nizi": 94,
         "Katwa": 61,
         "Mongbalu": 47,
+        "Mangala": 43,
         "Butembo": 42,
-        "Mangala": 40,
-        "Lita": 40,
+        "Lita": 41,
         "Nia-Nia": 35,
+        "Bambu": 29,
         "Beni": 29,
-        "Bambu": 28,
         "Komanda": 23,
         "Tchomia": 15,
         "Nyakunde": 10,
@@ -55,31 +55,28 @@
       },
       "healthcareWorkers": 102,
       "contacts": 10821,
-      "suspected": 304,
-      "cfr": 34.1
+      "suspected": 227,
+      "cfr": 34.9
     },
     "drcMeta": {
       "confirmed": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-07)"
+        "src": "INRB sitrep (2026-07-08)"
       },
       "deaths": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-07)"
+        "src": "INRB sitrep (2026-07-08)"
       },
       "recovered": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-07)"
+        "src": "INRB sitrep (2026-07-08)"
       },
       "suspected": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-07)"
+        "src": "INRB sitrep (2026-07-08)"
       }
     },
     "drcTiers": {
-      "cdc": {
-        "confirmed": 6
-      },
       "media": {
         "deaths": 600,
         "suspected": 1251
@@ -90,10 +87,10 @@
         "recovered": 229
       },
       "inrb": {
-        "confirmed": 1759,
-        "deaths": 600,
-        "suspected": 304,
-        "recovered": 285
+        "confirmed": 1792,
+        "deaths": 625,
+        "suspected": 227,
+        "recovered": 295
       }
     },
     "provinces": {
@@ -105,13 +102,13 @@
       "northKivu": {
         "zonesAffected": 11,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-07)",
+        "source": "INRB sitrep (2026-07-08)",
         "confirmed": 155
       },
       "southKivu": {
         "zonesAffected": 1,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-07)",
+        "source": "INRB sitrep (2026-07-08)",
         "confirmed": 3
       }
     },
@@ -131,12 +128,40 @@
       "fetchedAt": "2026-07-03T16:26:09Z"
     },
     "inrbSitrep": {
-      "asOf": "2026-07-07",
+      "asOf": "2026-07-08",
       "url": "https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/insp_sitrep/processed",
-      "fetchedAt": "2026-07-09T15:13:53.207888+00:00"
+      "fetchedAt": "2026-07-10T22:05:15.505181+00:00"
     }
   },
   "items": [
+    {
+      "title": "No single biological phenotype exists in polycystic ovary syndrome: evidence from cross-space phenotyping",
+      "link": "https://www.medrxiv.org/content/10.64898/2026.07.09.26357636v1?rss=1",
+      "pubDate": "Fri, 10 Jul 2026 21:56:00 Z",
+      "desc": "Abstract. Context Polyendocrine metabolic ovarian syndrome (PMOS), formerly known as polycystic ovary syndrome (PCOS), is a biologically heterogeneous disorder, yet previous clustering studies have reported inconsistent phenotype structures. Whether these discrepancies reflect methodological....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Canicule : une « catastrophe » pour l'agriculture, qui commence à faire ses comptes",
+      "link": "https://www.web-agri.fr/aleas-climatiques/article/901164/canicule-une-catastrophe-pour-l-agriculture-qui-commence-a-faire-ses-comptes",
+      "pubDate": "Fri, 10 Jul 2026 21:56:00 Z",
+      "desc": "Prairies grillées, céréales à la peine et production laitière en berne : alors que la France est entrée dans un nouvel épisode caniculaire, les syndicats agricoles sonnent l'alarme, redoutant de lourdes pertes de rendements, même si aucun bilan national n'est encore consolidé.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Explosive diarrhea cases increase as mysterious parasitic outbreak spreads across US - thepostmillennial.com",
+      "link": "https://thepostmillennial.com/explosive-diarrhea-cases-increase-as-mysterious-parasitic-outbreak-spreads-across-us",
+      "pubDate": "Fri, 10 Jul 2026 20:25:00 Z",
+      "desc": "Diarrhea -- United States. Significance Rating: 3 Explosive diarrhea cases increase as mysterious parasitic outbreak spreads across US&nbsp;&nbsp;thepostmillennial.com",
+      "tag": "cases"
+    },
+    {
+      "title": "致命疫情疯狂扩散！刚果埃博拉三天暴增百例死亡，多重死局无解 - 网易",
+      "link": "https://www.163.com/dy/article/L1H4M7OJ055616WO.html",
+      "pubDate": "Fri, 10 Jul 2026 20:25:00 Z",
+      "desc": "Ebola -- DR Congo. Significance Rating: 1 致命疫情疯狂扩散！刚果埃博拉三天暴增百例死亡，多重死局无解&nbsp;&nbsp;网易",
+      "tag": "analysis"
+    },
     {
       "title": "TANK potentiates antiviral innate immunity by recruiting deubiquitinase USP46 to activate IKKε",
       "link": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014412",
@@ -1858,41 +1883,13 @@
       "pubDate": "Thu, 25 Jun 2026 11:48:00 Z",
       "desc": "said on Wednesday. A total of 1,048 Ebola cases, including 277 deaths, have been confirmed in DR Congo since the outbreak was declared on May 15, although many experts believe the true toll is significantly higher. This outbreak is down to the rare Bundibugyo species of Ebola virus -- for which there are no approved vaccines or treatments.",
       "tag": "cases"
-    },
-    {
-      "title": "Alerte sanitaire : Ebola s’invite",
-      "link": "https://echosante.info/alerte-sanitaire-ebola-sinvite-en-france-avec-un-premier-cas-identifie/",
-      "pubDate": "Thu, 25 Jun 2026 11:03:00 Z",
-      "desc": "C’est une première historique sur le sol français. Un cas de maladie à virus Ebola a été officiellement diagnostiqué en métropole chez un médecin de retour de République démocratique du Congo (RDC). Le Premier ministre, Sébastien Lecornu, suit la situation « de très près ». L’annonce s’est faite mercredi 24 juin 2026.",
-      "tag": "response"
-    },
-    {
-      "title": "[Mastoiditis Caused by Fusobacterium Necrophorum: an Unusual Pathogen in a Well-Known Disease]",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42345246/",
-      "pubDate": "Thu, 25 Jun 2026 10:36:00 Z",
-      "desc": "Acute mastoiditis is a well-recognized complication of acute otitis media. Despite the absence of a universally accepted standard of care, recent data indicate a global shift toward more conservative management, with escalation to invasive interventions primarily in the presence of complications or failure of initial therapy.",
-      "tag": "analysis"
-    },
-    {
-      "title": "傳染病直擊第22卷第6期 - 2026年第22至第25周 (2026年5月24日至6月20日)",
-      "link": "https://www.chp.gov.hk/files/pdf/cdw_v22_6.pdf",
-      "pubDate": "Thu, 25 Jun 2026 10:28:00 Z",
-      "desc": "COMMUNICABLE DISEASES WATCH 63 VOL 22 ISSUE Nº6 Communicable Diseases Watch Image generated by AI Latest Situation of Global Highlights on infectious diseases and events, week 22 – 25: Ebola Disease Disease • Two local sporadic cases of listeriosis Snapshot • A local sporadic case of Streptococcus....",
-      "tag": "cases"
-    },
-    {
-      "title": "Ebola – 34 jours après: Le",
-      "link": "https://echosante.info/ebola-34-jours-apres-le-cameroun-fait-le-bilan-et-appelle-ses-partenaires/",
-      "pubDate": "Thu, 25 Jun 2026 10:01:00 Z",
-      "desc": "Réunie ce 24 juin 2026 au Centre des Opérations d’Urgence de Santé Publique, l’équipe nationale de coordination a évalué le dispositif de riposte au virus Ebola sous la présidence du Dr Manaouda Malachie. Taux de réalisation : 32 %. Des progrès notables, des lacunes persistantes, et un appel pressant aux partenaires techniques et financiers.",
-      "tag": "pheic"
     }
   ],
   "highWater": {
     "drc": {
       "deaths": {
-        "value": 600,
-        "asOf": "2026-07-09T15:13:51Z",
+        "value": 625,
+        "asOf": "2026-07-10T22:05:14Z",
         "source": "INRB MVE Sitrep"
       },
       "confirmed_deaths": {
@@ -1906,8 +1903,8 @@
         "source": "WHO / OMS"
       },
       "confirmed": {
-        "value": 1759,
-        "asOf": "2026-07-09T15:13:51Z",
+        "value": 1792,
+        "asOf": "2026-07-10T22:05:14Z",
         "source": "INRB MVE Sitrep"
       },
       "active": {
