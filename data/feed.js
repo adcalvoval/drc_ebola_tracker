@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 10 Jul 2026 16:57:23 Z",
-  "fetchedAt": "2026-07-10T16:57:23Z",
+  "lastBuildDate": "Fri, 10 Jul 2026 19:35:34 Z",
+  "fetchedAt": "2026-07-10T19:35:34Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -137,6 +137,13 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "TANK potentiates antiviral innate immunity by recruiting deubiquitinase USP46 to activate IKKε",
+      "link": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014412",
+      "pubDate": "Fri, 10 Jul 2026 18:59:00 Z",
+      "desc": "IKKε plays an important role in interferon (IFN) production, however, its regulation remains poorly understood. In this study, we demonstrate that black carp TANK (bcTANK) interacts with bcIKKε and significantly enhances its activation of bcIRF3 and bcIRF7, leading to the improved antiviral activity against spring viremia of carp virus (SVCV).",
+      "tag": "analysis"
+    },
     {
       "title": "600 Dead in Outbreak; Obamacare Now Trumpcare? Rare Cancer Cluster in Kids",
       "link": "https://www.medpagetoday.com/infectiousdisease/ebola/122136",
@@ -754,13 +761,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Mucin-induced metabolic reprogramming in <i>Pseudomonas aeruginosa</i> clinical isolates",
-      "link": "https://doi.org/10.1128/msystems.00580-26",
-      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/msystems.00580-26\nAuthors: Mohammad Mazharul Islam, Glynis L. Kolling, Joanna B. Goldberg, Katharina Ribbeck, Jason A. Papin\n ABSTRACT \n                   \n                     \n                     \n                      Mucins modulate microbial metabolism, which is crucial in many h",
-      "tag": "analysis"
-    },
-    {
       "title": "Inspiring, shaping and sustaining an African research and development agenda",
       "link": "https://africacdc.org/news-item/inspiring-shaping-and-sustaining-an-african-research-and-development-agenda/",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
@@ -775,17 +775,24 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Exploratory Claims‐Based Assessment of Diagnosed and Potentially Undiagnosed von Willebrand Disease in Japan",
-      "link": "https://doi.org/10.1111/hae.70352",
-      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/hae.70352\nAuthors: Azusa Nagao, Fumikazu Shimamura, Kosuke Iwasaki",
-      "tag": "analysis"
-    },
-    {
       "title": "À Kinshasa, le Président Tshisekedi donne une impulsion à la riposte contre Ebola avec l’appui solidaire du Président Ramaphosa",
       "link": "https://africacdc.org/news-item/a-kinshasa-le-president-tshisekedi-donne-une-impulsion-a-la-riposte-contre-ebola-avec-lappui-solidaire-du-president-ramaphosa/",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
       "desc": "Une rencontre convoquée par Africa CDC à l’INRB pour accélérer la coordination, la mobilisation des ressources et l’appui aux zones affectées\n\n\n\nKINSHASA, République démocratique du Congo, 2 juillet 2026 – Le Président de la République démocratique du Congo, S.E. M. Félix Antoine Tshisekedi Tshilombo, a accueilli ce jour le Président de la R",
+      "tag": "analysis"
+    },
+    {
+      "title": "Mucin-induced metabolic reprogramming in <i>Pseudomonas aeruginosa</i> clinical isolates",
+      "link": "https://doi.org/10.1128/msystems.00580-26",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1128/msystems.00580-26\nAuthors: Mohammad Mazharul Islam, Glynis L. Kolling, Joanna B. Goldberg, Katharina Ribbeck, Jason A. Papin\n ABSTRACT \n                   \n                     \n                     \n                      Mucins modulate microbial metabolism, which is crucial in many h",
+      "tag": "analysis"
+    },
+    {
+      "title": "Exploratory Claims‐Based Assessment of Diagnosed and Potentially Undiagnosed von Willebrand Disease in Japan",
+      "link": "https://doi.org/10.1111/hae.70352",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1111/hae.70352\nAuthors: Azusa Nagao, Fumikazu Shimamura, Kosuke Iwasaki",
       "tag": "analysis"
     },
     {
@@ -1006,24 +1013,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Rare variants in genes related to inborn errors of immunity in patients with rheumatoid arthritis and secondary immunodeficiency",
-      "link": "https://doi.org/10.1136/rmdopen-2026-007046",
+      "title": "Brote de hantavirus Andes vinculado a un crucero transatlántico: Evaluación del riesgo para España",
+      "link": "https://doi.org/10.4321/s2173-92772026000200002",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/rmdopen-2026-007046\nAuthors: Faranaz Atschekzei, Natalia Dubrowinskaja, Manfred Anim, Doris Steinemann, Sandra von Hardenberg, Winfried Hofmann, Robert Geffers, Torsten Witte, Georgios Sogkas\n \n                     Objectives \n                     Treatment of rheumatoid arthritis (RA) relies on i",
+      "desc": "DOI: 10.4321/s2173-92772026000200002\nAuthors: María Cruz Calvo-Reyes, Sara Montenegro-Jaramillo, Laura Santos-Larrégola, Pedro Valdivia-Prieto, Lucía García-San Miguel, María José Sierra-Moros\n The Andes hantavirus (ANDV) outbreak linked to a transatlantic cruise ship in May 2026 represented an unusual public health event. A total of 13 case",
       "tag": "analysis"
     },
     {
-      "title": "Beneficial Role of Vitamin D Supplementation and Clinical Outcomes in Patients with Dengue Fever: A Randomised Controlled Trial",
-      "link": "https://doi.org/10.7860/jcdr/2026/84141.23889",
+      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
+      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.7860/jcdr/2026/84141.23889\nAuthors: Subramanian Mariselvan, Siva Ranganathan Green, Shayilendranath Venkatesan, Vignessh Raveekumaran\n Introduction: Dengue Fever (DF) continues to be a major public health burden in tropical and subtropical countries. Severe forms such as Dengue Haemorrhagic Fever (DHF) and Dengue Shock Syndrome (DSS)",
+      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
       "tag": "analysis"
     },
     {
-      "title": "Prognostic Value of PCR Cycle Threshold Value in Crimean-Congo Hemorrhagic Fever, Iraq, 2022–2023",
-      "link": "https://doi.org/10.3201/eid3207.251284",
+      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
+      "link": "https://doi.org/10.71320/bcs.0019",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3201/eid3207.251284\nAuthors: Raghad I. Khaleel, Ihab R. Aakef, Riyadh A. Al-hilfi, Hussein A. Hasan, Iman M. Aufi, Hawraa A. Shakir, Ahmed A. Hussein, Noora A. Abdulhadi, Zainb A. Mohsin, Amal A. Raheem, Sarah W. Ahmed, Ghazwan A. Baghdadi, Chiori Kodama, Antoine Chaillon, Anaïs Legand, Pierre Formenty, Sinan G. Mahdi, Adnan Khamasi",
+      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
       "tag": "analysis"
     },
     {
@@ -1034,10 +1041,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
-      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
+      "title": "Rare variants in genes related to inborn errors of immunity in patients with rheumatoid arthritis and secondary immunodeficiency",
+      "link": "https://doi.org/10.1136/rmdopen-2026-007046",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
+      "desc": "DOI: 10.1136/rmdopen-2026-007046\nAuthors: Faranaz Atschekzei, Natalia Dubrowinskaja, Manfred Anim, Doris Steinemann, Sandra von Hardenberg, Winfried Hofmann, Robert Geffers, Torsten Witte, Georgios Sogkas\n \n                     Objectives \n                     Treatment of rheumatoid arthritis (RA) relies on i",
+      "tag": "analysis"
+    },
+    {
+      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
+      "link": "https://doi.org/10.20944/preprints202607.0058.v1",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.20944/preprints202607.0058.v1\nAuthors: Suganya P., Shreya Kishore, Harikaran Jeyakkodi, Vinod G., K. G. Sruthi, Pavani Duppada, Shibin Dani P., V. Priya, Savitha Lakshmi raghavan, Rajkumar Manoharan\n Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivo",
       "tag": "analysis"
     },
     {
@@ -1055,24 +1069,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
-      "link": "https://doi.org/10.71320/bcs.0019",
+      "title": "Beneficial Role of Vitamin D Supplementation and Clinical Outcomes in Patients with Dengue Fever: A Randomised Controlled Trial",
+      "link": "https://doi.org/10.7860/jcdr/2026/84141.23889",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
+      "desc": "DOI: 10.7860/jcdr/2026/84141.23889\nAuthors: Subramanian Mariselvan, Siva Ranganathan Green, Shayilendranath Venkatesan, Vignessh Raveekumaran\n Introduction: Dengue Fever (DF) continues to be a major public health burden in tropical and subtropical countries. Severe forms such as Dengue Haemorrhagic Fever (DHF) and Dengue Shock Syndrome (DSS)",
       "tag": "analysis"
     },
     {
-      "title": "Brote de hantavirus Andes vinculado a un crucero transatlántico: Evaluación del riesgo para España",
-      "link": "https://doi.org/10.4321/s2173-92772026000200002",
+      "title": "Prognostic Value of PCR Cycle Threshold Value in Crimean-Congo Hemorrhagic Fever, Iraq, 2022–2023",
+      "link": "https://doi.org/10.3201/eid3207.251284",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4321/s2173-92772026000200002\nAuthors: María Cruz Calvo-Reyes, Sara Montenegro-Jaramillo, Laura Santos-Larrégola, Pedro Valdivia-Prieto, Lucía García-San Miguel, María José Sierra-Moros\n The Andes hantavirus (ANDV) outbreak linked to a transatlantic cruise ship in May 2026 represented an unusual public health event. A total of 13 case",
-      "tag": "analysis"
-    },
-    {
-      "title": "Hantavirus Infection: Current Epidemiology, Emerging Trends, and One Health Perspectives",
-      "link": "https://doi.org/10.20944/preprints202607.0058.v1",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.20944/preprints202607.0058.v1\nAuthors: Suganya P., Shreya Kishore, Harikaran Jeyakkodi, Vinod G., K. G. Sruthi, Pavani Duppada, Shibin Dani P., V. Priya, Savitha Lakshmi raghavan, Rajkumar Manoharan\n Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivo",
+      "desc": "DOI: 10.3201/eid3207.251284\nAuthors: Raghad I. Khaleel, Ihab R. Aakef, Riyadh A. Al-hilfi, Hussein A. Hasan, Iman M. Aufi, Hawraa A. Shakir, Ahmed A. Hussein, Noora A. Abdulhadi, Zainb A. Mohsin, Amal A. Raheem, Sarah W. Ahmed, Ghazwan A. Baghdadi, Chiori Kodama, Antoine Chaillon, Anaïs Legand, Pierre Formenty, Sinan G. Mahdi, Adnan Khamasi",
       "tag": "analysis"
     },
     {
@@ -1223,13 +1230,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Admission complete blood count-derived inflammatory indices for risk stratification in hemorrhagic fever with renal syndrome: comparative performance of NLR, PLR, SII, LMR, and the neutrophil-to-red blood cell ratio",
-      "link": "https://doi.org/10.3389/fimmu.2026.1863714",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fimmu.2026.1863714\nAuthors: Zhuoran Xiao, Xingchi Chen, Min Wei, Shasha Wu, Shuxiang Zhao, Dandan Suo, Shangying Zhao, Meng Li, Xiaofei Yang, Chao Fan, Jianqi Lian, Chuantao Ye, Jing Zhang\n \n                     Background \n                     Hemorrhagic fever with renal syndrome (HFRS) requires",
-      "tag": "analysis"
-    },
-    {
       "title": "Vancomycin Protects Against Lung Injury and Promotes Butyrate Metabolism",
       "link": "https://openalex.org/W7166546423",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -1258,17 +1258,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
-      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
-      "tag": "analysis"
-    },
-    {
       "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
       "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10006038/v1\nAuthors: Guolong Qu, Zhenyao Song, Weiming Hou\n Abstract \n                 \n                  Background\n Previous studies have primarily examined associations between the incidence of a single infectious disease and individual meteorological or chemical pollution factors. However, the individual and",
+      "tag": "analysis"
+    },
+    {
+      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
+      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
       "tag": "analysis"
     },
     {
@@ -1283,6 +1283,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.47144/phj.v59i3.3761",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.47144/phj.v59i3.3761\nAuthors: Aliya Kemal Ahsan, Makhdoom Bilawal, Syed Waseem Jamalvi, Abdul Sattar Shaikh\n Rheumatic heart disease (RHD) remains one of the leading causes of acquired heart disease among children and adolescents in low- and middle-income countries despite being largely preventable. Although remarkable advances have",
+      "tag": "analysis"
+    },
+    {
+      "title": "Admission complete blood count-derived inflammatory indices for risk stratification in hemorrhagic fever with renal syndrome: comparative performance of NLR, PLR, SII, LMR, and the neutrophil-to-red blood cell ratio",
+      "link": "https://doi.org/10.3389/fimmu.2026.1863714",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fimmu.2026.1863714\nAuthors: Zhuoran Xiao, Xingchi Chen, Min Wei, Shasha Wu, Shuxiang Zhao, Dandan Suo, Shangying Zhao, Meng Li, Xiaofei Yang, Chao Fan, Jianqi Lian, Chuantao Ye, Jing Zhang\n \n                     Background \n                     Hemorrhagic fever with renal syndrome (HFRS) requires",
       "tag": "analysis"
     },
     {
@@ -1510,17 +1517,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "LATE DIAGNOSIS OF CHRONIC KIDNEY DISEASE IN A CHILD WITH A HYPOREFLEXIVE BLADDER: A CASE REPORT AND LITERATURE REVIEW",
-      "link": "https://doi.org/10.24061/2413-4260.xvi.2.60.2026.42",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.24061/2413-4260.xvi.2.60.2026.42\nAuthors: L. Vakulenko, O. Babak, D. Ochigava, A. Riznyk, V. Postovoi, A. Obertynskyi\n Chronic kidney disease (CKD) represents a major global health problem because of its high prevalence, significant mortality, and the substantial economic burden associated with renal replacement therapy. Most pediatr",
-      "tag": "analysis"
-    },
-    {
       "title": "The PEARL toolkit: Using sand flies to identify leishmaniasis animal reservoirs",
       "link": "https://doi.org/10.64898/2026.06.27.734966",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.06.27.734966\nAuthors: Eva Iniguez, Patrick Huffcutt, Tiago Donatelli Serafim, Pedro Cecilio, Serena Doh, Aaron Pugh, Johannes Doehl, Claudio Meneses, Ben Lambert, Jesus G. Valenzuela, Shaden Kamhawi\n In many leishmaniasis foci, reservoirs that maintain infection remain unknown. Here, we developed a field-applicable toolkit",
+      "tag": "analysis"
+    },
+    {
+      "title": "LATE DIAGNOSIS OF CHRONIC KIDNEY DISEASE IN A CHILD WITH A HYPOREFLEXIVE BLADDER: A CASE REPORT AND LITERATURE REVIEW",
+      "link": "https://doi.org/10.24061/2413-4260.xvi.2.60.2026.42",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.24061/2413-4260.xvi.2.60.2026.42\nAuthors: L. Vakulenko, O. Babak, D. Ochigava, A. Riznyk, V. Postovoi, A. Obertynskyi\n Chronic kidney disease (CKD) represents a major global health problem because of its high prevalence, significant mortality, and the substantial economic burden associated with renal replacement therapy. Most pediatr",
       "tag": "analysis"
     },
     {
@@ -1531,17 +1538,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Cost-effectiveness of a decentralised molecular point-of-care testing programme for sexually transmitted infections in remote primary care health services in Australia",
-      "link": "https://doi.org/10.1136/sextrans-2025-056863",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/sextrans-2025-056863\nAuthors: Caroline G Watts, Louise M Causer, Susan J Matthews, Kirsty Smith, Kelly Andrewartha, Annie Tangey, Ben B Hui, Rae-Lin Huang, David Anderson, Steven G Badman, Basil Donovan, Christopher K Fairley, Manoji Gunathilake, Belinda Hengel, John Kaldor, Lisa Maher, Donna B Mak, David Persing, David G Regan, Mark D",
-      "tag": "analysis"
-    },
-    {
       "title": "Correlates of protection against African swine fever virus identified by a systems immunology approach.",
       "link": "https://europepmc.org/article/MED/42372005",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "FullTextUrl: https://doi.org/10.7554/eLife.107579\nJournal Title: eLife\nAuthors: Lotonin K, Brito F, Mehinagic K, García-Nicolás O, Liniger M, Donzé N, Python S, Talker S, Ploegaert T, Ruggli N, Benarafa C, Summerfield A.\nAfrican swine fever virus (ASFV) causes a fatal hemorrhagic disease in domestic pigs and wild boars, which poses severe threats t",
+      "tag": "analysis"
+    },
+    {
+      "title": "Cost-effectiveness of a decentralised molecular point-of-care testing programme for sexually transmitted infections in remote primary care health services in Australia",
+      "link": "https://doi.org/10.1136/sextrans-2025-056863",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/sextrans-2025-056863\nAuthors: Caroline G Watts, Louise M Causer, Susan J Matthews, Kirsty Smith, Kelly Andrewartha, Annie Tangey, Ben B Hui, Rae-Lin Huang, David Anderson, Steven G Badman, Basil Donovan, Christopher K Fairley, Manoji Gunathilake, Belinda Hengel, John Kaldor, Lisa Maher, Donna B Mak, David Persing, David G Regan, Mark D",
       "tag": "analysis"
     },
     {
@@ -1879,13 +1886,6 @@ window.FEED_DATA = {
       "pubDate": "Thu, 25 Jun 2026 10:01:00 Z",
       "desc": "Réunie ce 24 juin 2026 au Centre des Opérations d’Urgence de Santé Publique, l’équipe nationale de coordination a évalué le dispositif de riposte au virus Ebola sous la présidence du Dr Manaouda Malachie. Taux de réalisation : 32 %. Des progrès notables, des lacunes persistantes, et un appel pressant aux partenaires techniques et financiers.",
       "tag": "pheic"
-    },
-    {
-      "title": "La estatua viviente del Mundial",
-      "link": "https://www.sportlife.es/noticias/estatua-viviente-mundial_328846_102.html",
-      "pubDate": "Thu, 25 Jun 2026 09:25:00 Z",
-      "desc": "Vivir este Campeonato del Mundo de futbol en directo no está siendo fácil para ningún aficionado. Y más aún, si te ves obligado a viajar desde un país africano. Caros pasajes de avión, entradas a precios astronómicos, problemas con los visados y hasta una crisis sanitaria por ébola que restringe los movimientos desde el corazón de África.",
-      "tag": "analysis"
     }
   ],
   "highWater": {
