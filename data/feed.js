@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 11 Jul 2026 10:16:32 Z",
-  "fetchedAt": "2026-07-11T10:16:32Z",
+  "lastBuildDate": "Sat, 11 Jul 2026 13:22:59 Z",
+  "fetchedAt": "2026-07-11T13:22:59Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -359,17 +359,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "La RDC et l’Ouganda consolident leur coopération transfrontalière pour renforcer la sécurité sanitaire.",
-      "link": "https://insp.cd/la-rdc-et-louganda-consolident-leur-cooperation-transfrontaliere-pour-renforcer-la-securite-sanitaire/",
-      "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
-      "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, 6 juillet 2026. Dans le cadre du renforcement de la coopération transfrontalière entre la République démocratique du Congo et la République de l’Ouganda, la Coordination stratégi",
-      "tag": "analysis"
-    },
-    {
       "title": "Les équipes provinciales restent pleinement mobilisées, les activités se poursuivent normalement.",
       "link": "https://insp.cd/les-equipes-provinciales-restent-pleinement-mobilisees-les-activites-se-poursuivent-normalement/",
       "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
       "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nIturi,le 06 juillet 2026. L’Institut National de Santé Publique (INSP), à travers le Centre des Opérations d’Urgences de Santé Publique (COUSP), informe que les activités de la riposte",
+      "tag": "analysis"
+    },
+    {
+      "title": "La RDC et l’Ouganda consolident leur coopération transfrontalière pour renforcer la sécurité sanitaire.",
+      "link": "https://insp.cd/la-rdc-et-louganda-consolident-leur-cooperation-transfrontaliere-pour-renforcer-la-securite-sanitaire/",
+      "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
+      "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, 6 juillet 2026. Dans le cadre du renforcement de la coopération transfrontalière entre la République démocratique du Congo et la République de l’Ouganda, la Coordination stratégi",
       "tag": "analysis"
     },
     {
@@ -380,18 +380,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "2 juillet 2026 Allocution liminaire du Directeur général de l’OMS lors du point de presse du 2 juillet 2026",
-      "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---2-july-2026",
-      "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
-      "desc": "Bonjour à toutes les personnes présentes aujourd’hui, et bonjour ou bonsoir à toutes celles qui nous rejoignent en ligne. Aujourd’hui, la dernière personne ayant été en contact avec une personne exposée au hantavirus à bord du navire de croisière MV Hondius a terminé sa période de quarantaine, a été testée négative et est rentrée chez elle.",
-      "tag": "analysis"
-    },
-    {
       "title": "G protein-coupled receptor SmGPCR9 interacts with neuropeptides and controls spermatogenesis in Schistosoma mansoni",
       "link": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014096",
       "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
       "desc": "Schistosomiasis is a neglected tropical disease caused by parasitic flatworms of the genus Schistosoma , impacting hundreds of millions of people and animals globally. Disease pathology primarily originates from host immune responses to parasite eggs, which are produced only when female schistosomes are continuously paired with males.",
       "tag": "response"
+    },
+    {
+      "title": "2 juillet 2026 Allocution liminaire du Directeur général de l’OMS lors du point de presse du 2 juillet 2026",
+      "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---2-july-2026",
+      "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
+      "desc": "Bonjour à toutes les personnes présentes aujourd’hui, et bonjour ou bonsoir à toutes celles qui nous rejoignent en ligne. Aujourd’hui, la dernière personne ayant été en contact avec une personne exposée au hantavirus à bord du navire de croisière MV Hondius a terminé sa période de quarantaine, a été testée négative et est rentrée chez elle.",
+      "tag": "analysis"
     },
     {
       "title": "El Ministerio de Salud refuerza la vigilancia epidemiológica y llama a completar los esquemas de vacunación",
@@ -478,17 +478,17 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Africa CDC annonce une Nouvelle Direction pour la Recherche, les Essais Cliniques et l’Innovation",
-      "link": "https://africacdc.org/news-item/africa-cdc-annonce-une-nouvelle-direction-pour-la-recherche-les-essais-cliniques-et-linnovation/",
-      "pubDate": "Mon, 06 Jul 2026 00:00:00 Z",
-      "desc": "Chers collègues, chers partenaires et chers amis,\n\n\n\nÀ un moment critique pour la riposte à Ebola, alors que le continent doit accélérer le développement de médicaments, de vaccins et d’innovations adaptées aux urgences sanitaires, j’ai le plaisir d’annoncer la nomination du Professeur Placide Mbala Kingebeni, MD, MSc, PhD, au poste de Direc",
-      "tag": "analysis"
-    },
-    {
       "title": "Viral hepatitis detection through emergency hospital departments in a Spanish region with high immigration: implications for elimination strategies",
       "link": "https://doi.org/10.1186/s40249-026-01472-3",
       "pubDate": "Mon, 06 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1186/s40249-026-01472-3\nAuthors: Carme López, Maria Àngels Gispert, Emma Picart, Rosa Durández, Dúnia Pérez del Campo, Miguel Torralba-Calero, Francesc Xavier Queralt, Robert Carreras-Torres, Javier Pamplona\n Abstract \n                   \n                     Background",
+      "tag": "analysis"
+    },
+    {
+      "title": "Africa CDC annonce une Nouvelle Direction pour la Recherche, les Essais Cliniques et l’Innovation",
+      "link": "https://africacdc.org/news-item/africa-cdc-annonce-une-nouvelle-direction-pour-la-recherche-les-essais-cliniques-et-linnovation/",
+      "pubDate": "Mon, 06 Jul 2026 00:00:00 Z",
+      "desc": "Chers collègues, chers partenaires et chers amis,\n\n\n\nÀ un moment critique pour la riposte à Ebola, alors que le continent doit accélérer le développement de médicaments, de vaccins et d’innovations adaptées aux urgences sanitaires, j’ai le plaisir d’annoncer la nomination du Professeur Placide Mbala Kingebeni, MD, MSc, PhD, au poste de Direc",
       "tag": "analysis"
     },
     {
@@ -660,18 +660,18 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Community Engagement Should be Prioritised in Bundibugyo Ebola Outbreak Fight",
-      "link": "https://africacdc.org/news-item/community-engagement-should-be-prioritised-in-bundibugyo-ebola-outbreak-fight/",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
-      "desc": "One month after the declaration of the 2026 Bundibugyo Ebola outbreak as both a global and continental public health emergency, transmission continues to expand in eastern Democratic Republic of Congo (DRC) and Uganda despite substantial response efforts. As of 14 June 2026, there were 827 confirmed cases and 194 deaths, with Ituri Province",
-      "tag": "pheic"
-    },
-    {
       "title": "Fine particulate matter exposure and long-term lung-function trajectory in adults with cystic fibrosis",
       "link": "https://doi.org/10.1093/annalsats/aaoag188",
       "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1093/annalsats/aaoag188\nAuthors: Bob Z Sun, Jonathan D Cogen, Marshall Brown, Anna V Faino, Karen Hinckley Stukovsky, Adam A Szpiro, Lianne Sheppard, Christopher H Goss, Joel Kaufman, Margaret Rosenfeld\n Abstract \n                   \n                     Rationale \n                    <",
       "tag": "analysis"
+    },
+    {
+      "title": "Community Engagement Should be Prioritised in Bundibugyo Ebola Outbreak Fight",
+      "link": "https://africacdc.org/news-item/community-engagement-should-be-prioritised-in-bundibugyo-ebola-outbreak-fight/",
+      "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
+      "desc": "One month after the declaration of the 2026 Bundibugyo Ebola outbreak as both a global and continental public health emergency, transmission continues to expand in eastern Democratic Republic of Congo (DRC) and Uganda despite substantial response efforts. As of 14 June 2026, there were 827 confirmed cases and 194 deaths, with Ituri Province",
+      "tag": "pheic"
     },
     {
       "title": "Mammarenavirus-Induced Remodeling of the Cellular Lipid Landscape Reveals Sphingolipid Metabolism as a Novel Target for Antiviral Intervention",
@@ -800,24 +800,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Lessons learned from 2022-2025 outbreaks with cross border spread potential",
-      "link": "https://africacdc.org/news-item/lessons-learned-from-2022-2025-outbreaks-with-cross-border-spread-potential/",
-      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
-      "desc": "Evidence from recent African outbreaks of mpox, cholera, Ebola virus disease, and Marburg virus disease shows that successful outbreak responses rely on continuous investments in preparedness rather than reactive measures.\n\n\n\nA narrative synthesis of scientific articles and reports from 2022-2025 on outbreaks by Africa Centres for Disease Co",
-      "tag": "response"
-    },
-    {
       "title": "Mucin-induced metabolic reprogramming in <i>Pseudomonas aeruginosa</i> clinical isolates",
       "link": "https://doi.org/10.1128/msystems.00580-26",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1128/msystems.00580-26\nAuthors: Mohammad Mazharul Islam, Glynis L. Kolling, Joanna B. Goldberg, Katharina Ribbeck, Jason A. Papin\n ABSTRACT \n                   \n                     \n                     \n                      Mucins modulate microbial metabolism, which is crucial in many h",
-      "tag": "analysis"
-    },
-    {
-      "title": "Inspiring, shaping and sustaining an African research and development agenda",
-      "link": "https://africacdc.org/news-item/inspiring-shaping-and-sustaining-an-african-research-and-development-agenda/",
-      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
-      "desc": "Africa’s repeated exclusion from timely access to vaccines, diagnostics and treatments during major health emergencies—including the COVID-19 pandemic and recent mpox, Marburg virus disease and Ebola outbreaks—has demonstrated the urgent need for the continent to build its own end-to-end research and development (R&D) capacity.\n\n\n\nReliance o",
       "tag": "analysis"
     },
     {
@@ -833,6 +819,20 @@ window.FEED_DATA = {
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
       "desc": "Une rencontre convoquée par Africa CDC à l’INRB pour accélérer la coordination, la mobilisation des ressources et l’appui aux zones affectées\n\n\n\nKINSHASA, République démocratique du Congo, 2 juillet 2026 – Le Président de la République démocratique du Congo, S.E. M. Félix Antoine Tshisekedi Tshilombo, a accueilli ce jour le Président de la R",
       "tag": "analysis"
+    },
+    {
+      "title": "Inspiring, shaping and sustaining an African research and development agenda",
+      "link": "https://africacdc.org/news-item/inspiring-shaping-and-sustaining-an-african-research-and-development-agenda/",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
+      "desc": "Africa’s repeated exclusion from timely access to vaccines, diagnostics and treatments during major health emergencies—including the COVID-19 pandemic and recent mpox, Marburg virus disease and Ebola outbreaks—has demonstrated the urgent need for the continent to build its own end-to-end research and development (R&D) capacity.\n\n\n\nReliance o",
+      "tag": "analysis"
+    },
+    {
+      "title": "Lessons learned from 2022-2025 outbreaks with cross border spread potential",
+      "link": "https://africacdc.org/news-item/lessons-learned-from-2022-2025-outbreaks-with-cross-border-spread-potential/",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
+      "desc": "Evidence from recent African outbreaks of mpox, cholera, Ebola virus disease, and Marburg virus disease shows that successful outbreak responses rely on continuous investments in preparedness rather than reactive measures.\n\n\n\nA narrative synthesis of scientific articles and reports from 2022-2025 on outbreaks by Africa Centres for Disease Co",
+      "tag": "response"
     },
     {
       "title": "Ebola deaths in Africa top 400 as Uganda reports death of child from Marburg",
@@ -954,6 +954,20 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
+      "link": "https://doi.org/10.7759/cureus.111921",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
+      "tag": "response"
+    },
+    {
+      "title": "An unusual gastric mass in a patient with human immunodeficiency virus infection",
+      "link": "https://doi.org/10.1016/j.dld.2026.06.011",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.dld.2026.06.011\nAuthors: Aiji Hattori, Yasuhiko Hamada, Hayato Nakagawa",
+      "tag": "analysis"
+    },
+    {
       "title": "Janibacter melonis Bone Marrow Infection in an Immunocompetent Child With Prolonged Fever of Unknown Origin: A case report",
       "link": "https://doi.org/10.21203/rs.3.rs-9920478/v1",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -975,20 +989,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo &amp; Uganda",
-      "link": "https://doi.org/10.1016/j.ajt.2026.07.001",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.ajt.2026.07.001\nAuthors: Marcus R. Pereira",
-      "tag": "analysis"
-    },
-    {
-      "title": "Detected case growth and outcome heterogeneity during the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda",
-      "link": "https://doi.org/10.21203/rs.3.rs-10090145/v1",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10090145/v1\nAuthors: Tambe Elvis Akem, Eta Calvin Oben\n Abstract \n                 Background\n The 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo (DRC), with cross-border cases in Uganda, evolved amid mobility, insecurity, delayed detection, laboratory constraints, and pressure on",
-      "tag": "cases"
-    },
-    {
       "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
       "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -1003,11 +1003,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
-      "link": "https://doi.org/10.7759/cureus.111921",
+      "title": "Detected case growth and outcome heterogeneity during the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda",
+      "link": "https://doi.org/10.21203/rs.3.rs-10090145/v1",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
-      "tag": "response"
+      "desc": "DOI: 10.21203/rs.3.rs-10090145/v1\nAuthors: Tambe Elvis Akem, Eta Calvin Oben\n Abstract \n                 Background\n The 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo (DRC), with cross-border cases in Uganda, evolved amid mobility, insecurity, delayed detection, laboratory constraints, and pressure on",
+      "tag": "cases"
+    },
+    {
+      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo &amp; Uganda",
+      "link": "https://doi.org/10.1016/j.ajt.2026.07.001",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.ajt.2026.07.001\nAuthors: Marcus R. Pereira",
+      "tag": "analysis"
     },
     {
       "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
@@ -1021,13 +1028,6 @@ window.FEED_DATA = {
       "link": "https://www.preprints.org/manuscript/202607.0058",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivore, and chiropteran reservoirs, with humans infected mainly through inhalation of aerosolized excreta. They cause two major syndromes: hemorrhagic fever with renal syndrome (HFRS), endemic in Europe and Asia, and ha",
-      "tag": "analysis"
-    },
-    {
-      "title": "An unusual gastric mass in a patient with human immunodeficiency virus infection",
-      "link": "https://doi.org/10.1016/j.dld.2026.06.011",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.dld.2026.06.011\nAuthors: Aiji Hattori, Yasuhiko Hamada, Hayato Nakagawa",
       "tag": "analysis"
     },
     {
@@ -1059,6 +1059,20 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
+      "link": "https://doi.org/10.1161/circgen.125.005653",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1161/circgen.125.005653\nAuthors: Jonas Reckmann, Hendrik Milting, Sabrina Voß, Marco T. Radukic, Franziska Klag, Franziska Flottmann, Alexander Lütkemeyer, Joline Groß, Anna Gärtner, Sandra Landwehr, Dario Anselmetti, Annika Hoyer, Kristian M. Müller, Jan Gummert, Volker Walhorn, Andreas Brodehl\n \n                     BA",
+      "tag": "analysis"
+    },
+    {
+      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
+      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
+      "tag": "analysis"
+    },
+    {
       "title": "PIK3CA-Related Overgrowth Syndrome: A Case Report",
       "link": "https://doi.org/10.5070/rs4.48391",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -1073,10 +1087,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
-      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
+      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
+      "link": "https://doi.org/10.71320/bcs.0019",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
+      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
       "tag": "analysis"
     },
     {
@@ -1098,20 +1112,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.3201/eid3207.251284",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3201/eid3207.251284\nAuthors: Raghad I. Khaleel, Ihab R. Aakef, Riyadh A. Al-hilfi, Hussein A. Hasan, Iman M. Aufi, Hawraa A. Shakir, Ahmed A. Hussein, Noora A. Abdulhadi, Zainb A. Mohsin, Amal A. Raheem, Sarah W. Ahmed, Ghazwan A. Baghdadi, Chiori Kodama, Antoine Chaillon, Anaïs Legand, Pierre Formenty, Sinan G. Mahdi, Adnan Khamasi",
-      "tag": "analysis"
-    },
-    {
-      "title": "Cardiomyopathy-Associated Mutations in a Hotspot Region at the C-Terminal Part of Desmin Coil-2 Domain Impair the Intermediate Filament Assembly",
-      "link": "https://doi.org/10.1161/circgen.125.005653",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1161/circgen.125.005653\nAuthors: Jonas Reckmann, Hendrik Milting, Sabrina Voß, Marco T. Radukic, Franziska Klag, Franziska Flottmann, Alexander Lütkemeyer, Joline Groß, Anna Gärtner, Sandra Landwehr, Dario Anselmetti, Annika Hoyer, Kristian M. Müller, Jan Gummert, Volker Walhorn, Andreas Brodehl\n \n                     BA",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
-      "link": "https://doi.org/10.71320/bcs.0019",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
       "tag": "analysis"
     },
     {
@@ -1227,11 +1227,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
-      "link": "https://openalex.org/W7166530626",
+      "title": "PTPN13 Contributes to Ebola Virus-Induced Immune Dysregulation via Dephosphorylation of IRF3 and PI3K-p85",
+      "link": "https://doi.org/10.3390/v18070729",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
-      "tag": "response"
+      "desc": "DOI: 10.3390/v18070729\nAuthors: Abbey N. Warren, Maria Gonzalez-Orozco, Ivan Kuzmin, Sreeja Parameswaran, Ruben Soto Acosta, Birte Kalveram, Sarah van Tol, Adam Hage, Padmanava Behera, Yoatzin Peñaflor-Tellez, Maria I. Giraldo, William Russell, Matthew T. Weirauch, Alexander Freiberg, Alexander Bukreyev, Ricardo Rajsbaum\n Ebola virus disease",
+      "tag": "analysis"
     },
     {
       "title": "Africa CDC calls for urgent US$18 million to close the funding gap on critical research ready to commence",
@@ -1255,11 +1255,11 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "PTPN13 Contributes to Ebola Virus-Induced Immune Dysregulation via Dephosphorylation of IRF3 and PI3K-p85",
-      "link": "https://doi.org/10.3390/v18070729",
+      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
+      "link": "https://openalex.org/W7166530626",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/v18070729\nAuthors: Abbey N. Warren, Maria Gonzalez-Orozco, Ivan Kuzmin, Sreeja Parameswaran, Ruben Soto Acosta, Birte Kalveram, Sarah van Tol, Adam Hage, Padmanava Behera, Yoatzin Peñaflor-Tellez, Maria I. Giraldo, William Russell, Matthew T. Weirauch, Alexander Freiberg, Alexander Bukreyev, Ricardo Rajsbaum\n Ebola virus disease",
-      "tag": "analysis"
+      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
+      "tag": "response"
     },
     {
       "title": "Strengthening Risk Communication and Community Engagement in Public Health Emergencies: A Public Health Framework with Biological Science Insights for Trust, Misinformation Management, and Community Resilience",
@@ -1273,13 +1273,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.3389/fimmu.2026.1863714",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fimmu.2026.1863714\nAuthors: Zhuoran Xiao, Xingchi Chen, Min Wei, Shasha Wu, Shuxiang Zhao, Dandan Suo, Shangying Zhao, Meng Li, Xiaofei Yang, Chao Fan, Jianqi Lian, Chuantao Ye, Jing Zhang\n \n                     Background \n                     Hemorrhagic fever with renal syndrome (HFRS) requires",
-      "tag": "analysis"
-    },
-    {
-      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
-      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
       "tag": "analysis"
     },
     {
@@ -1311,6 +1304,20 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
+      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
+      "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10006038/v1\nAuthors: Guolong Qu, Zhenyao Song, Weiming Hou\n Abstract \n                 \n                  Background\n Previous studies have primarily examined associations between the incidence of a single infectious disease and individual meteorological or chemical pollution factors. However, the individual and",
+      "tag": "analysis"
+    },
+    {
       "title": "Antiphospholipid antibodies in acute and post-treatment Lyme disease",
       "link": "https://doi.org/10.1128/iai.00192-26",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -1329,13 +1336,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1017/s1047951126113717",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1017/s1047951126113717\nAuthors: Zelal Aydin, Alper Akın, Mehmet Ture, Ilyas Yolbaş\n Abstract \n                   \n                     Objectives: \n                     Kawasaki disease is a systemic vasculitis of unknown aetiology that is usually seen",
-      "tag": "analysis"
-    },
-    {
-      "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
-      "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10006038/v1\nAuthors: Guolong Qu, Zhenyao Song, Weiming Hou\n Abstract \n                 \n                  Background\n Previous studies have primarily examined associations between the incidence of a single infectious disease and individual meteorological or chemical pollution factors. However, the individual and",
       "tag": "analysis"
     },
     {
@@ -1500,13 +1500,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Public health considerations for preventing crimean-congo haemorrhagic fever in Islamic Republic of Iran",
-      "link": "https://doi.org/10.26719/2026.32.6.399",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.26719/2026.32.6.399\nAuthors: Jalil Nejati",
-      "tag": "analysis"
-    },
-    {
       "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
       "link": "https://doi.org/10.1093/qjmed/hcag167",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -1514,10 +1507,24 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
+      "title": "Public health considerations for preventing crimean-congo haemorrhagic fever in Islamic Republic of Iran",
+      "link": "https://doi.org/10.26719/2026.32.6.399",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.26719/2026.32.6.399\nAuthors: Jalil Nejati",
+      "tag": "analysis"
+    },
+    {
       "title": "Optimizing diagnostic cascades: evaluating the sensitivity of NS1 antigen versus antibody serology in a rapidly evolving dengue outbreak",
       "link": "https://doi.org/10.18203/2320-6012.ijrms20262158",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.18203/2320-6012.ijrms20262158\nAuthors: M. Ashraf Uddin Ahmed, Farzana Yasmin, Mahmood Parvez, Tasnim Mahmud\n Background: Dengue fever, caused by DENV-1-4 serotypes, remains a major public health challenge with clinical manifestations ranging from mild febrile illness to severe complications such as Dengue Hemorrhagic Fever (DHF) and",
+      "tag": "analysis"
+    },
+    {
+      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
+      "link": "https://doi.org/10.33897/fumj.v8i1.251",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
       "tag": "analysis"
     },
     {
@@ -1532,13 +1539,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.3126/mjen.v5i01.96385",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3126/mjen.v5i01.96385\nAuthors: Abhishek Karmacharya, Subrata Pokhrel, Damodar Sharma, Chetan Khadka, Nickey Pradhan, Navindra Phuyal\n Background \nWith a high mortality rate, bloodstream infections (BSI) are a serious worldwide public health burden. Delay in therapy has a significant impact on Patient’s outcomes, and rapid and precis",
-      "tag": "analysis"
-    },
-    {
-      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
-      "link": "https://doi.org/10.33897/fumj.v8i1.251",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
       "tag": "analysis"
     },
     {
@@ -1577,17 +1577,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Correlates of protection against African swine fever virus identified by a systems immunology approach.",
-      "link": "https://europepmc.org/article/MED/42372005",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "FullTextUrl: https://doi.org/10.7554/eLife.107579\nJournal Title: eLife\nAuthors: Lotonin K, Brito F, Mehinagic K, García-Nicolás O, Liniger M, Donzé N, Python S, Talker S, Ploegaert T, Ruggli N, Benarafa C, Summerfield A.\nAfrican swine fever virus (ASFV) causes a fatal hemorrhagic disease in domestic pigs and wild boars, which poses severe threats t",
-      "tag": "analysis"
-    },
-    {
       "title": "Cost-effectiveness of a decentralised molecular point-of-care testing programme for sexually transmitted infections in remote primary care health services in Australia",
       "link": "https://doi.org/10.1136/sextrans-2025-056863",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1136/sextrans-2025-056863\nAuthors: Caroline G Watts, Louise M Causer, Susan J Matthews, Kirsty Smith, Kelly Andrewartha, Annie Tangey, Ben B Hui, Rae-Lin Huang, David Anderson, Steven G Badman, Basil Donovan, Christopher K Fairley, Manoji Gunathilake, Belinda Hengel, John Kaldor, Lisa Maher, Donna B Mak, David Persing, David G Regan, Mark D",
+      "tag": "analysis"
+    },
+    {
+      "title": "Correlates of protection against African swine fever virus identified by a systems immunology approach.",
+      "link": "https://europepmc.org/article/MED/42372005",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "FullTextUrl: https://doi.org/10.7554/eLife.107579\nJournal Title: eLife\nAuthors: Lotonin K, Brito F, Mehinagic K, García-Nicolás O, Liniger M, Donzé N, Python S, Talker S, Ploegaert T, Ruggli N, Benarafa C, Summerfield A.\nAfrican swine fever virus (ASFV) causes a fatal hemorrhagic disease in domestic pigs and wild boars, which poses severe threats t",
       "tag": "analysis"
     },
     {
