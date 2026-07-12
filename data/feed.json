@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 12 Jul 2026 02:55:30 Z",
-  "fetchedAt": "2026-07-12T02:55:31Z",
+  "lastBuildDate": "Sun, 12 Jul 2026 06:06:24 Z",
+  "fetchedAt": "2026-07-12T06:06:25Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -1273,6 +1273,20 @@
       "tag": "analysis"
     },
     {
+      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
+      "link": "https://openalex.org/W7166530626",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
+      "tag": "response"
+    },
+    {
+      "title": "Africa CDC calls for urgent US$18 million to close the funding gap on critical research ready to commence",
+      "link": "https://africacdc.org/news-item/africa-cdc-calls-for-urgent-us22-million-to-close-funding-gap-and-stop-bundibugyo-ebola-outbreak/",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "Clinical trials for Ebola therapeutics must begin this week. No licensed vaccine or treatment exists for the Bundibugyo strain, and without immediate financing the response is at risk of collapse.\n\n\n\nADDIS ABABA, 30 June 2026. Africa CDC commends the Government of the Democratic Republic of the Congo, clinical investigators, and development",
+      "tag": "response"
+    },
+    {
       "title": "Rippling muscle disease due to a &lt;i&gt;CAV3&lt;/i&gt; mutation with myocarditis-like presentation in an adolescent",
       "link": "https://doi.org/10.24953/turkjpediatr.2026.7755",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -1298,27 +1312,6 @@
       "link": "https://doi.org/10.62497/irabcs.235",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.62497/irabcs.235\nAuthors: Abayizeye Remy Patient, Abdussalam Khattak\n Background: Public health emergencies are biological and social events. Outbreaks and humanitarian health crises are shaped by pathogen transmission, incubation periods, host susceptibility, immune protection, environmental exposure, and health-system capacity, but",
-      "tag": "analysis"
-    },
-    {
-      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
-      "link": "https://openalex.org/W7166530626",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
-      "tag": "response"
-    },
-    {
-      "title": "Africa CDC calls for urgent US$18 million to close the funding gap on critical research ready to commence",
-      "link": "https://africacdc.org/news-item/africa-cdc-calls-for-urgent-us22-million-to-close-funding-gap-and-stop-bundibugyo-ebola-outbreak/",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "Clinical trials for Ebola therapeutics must begin this week. No licensed vaccine or treatment exists for the Bundibugyo strain, and without immediate financing the response is at risk of collapse.\n\n\n\nADDIS ABABA, 30 June 2026. Africa CDC commends the Government of the Democratic Republic of the Congo, clinical investigators, and development",
-      "tag": "response"
-    },
-    {
-      "title": "Admission complete blood count-derived inflammatory indices for risk stratification in hemorrhagic fever with renal syndrome: comparative performance of NLR, PLR, SII, LMR, and the neutrophil-to-red blood cell ratio",
-      "link": "https://doi.org/10.3389/fimmu.2026.1863714",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fimmu.2026.1863714\nAuthors: Zhuoran Xiao, Xingchi Chen, Min Wei, Shasha Wu, Shuxiang Zhao, Dandan Suo, Shangying Zhao, Meng Li, Xiaofei Yang, Chao Fan, Jianqi Lian, Chuantao Ye, Jing Zhang\n \n                     Background \n                     Hemorrhagic fever with renal syndrome (HFRS) requires",
       "tag": "analysis"
     },
     {
@@ -1350,17 +1343,17 @@
       "tag": "analysis"
     },
     {
-      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
-      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
-      "tag": "analysis"
-    },
-    {
       "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
       "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10006038/v1\nAuthors: Guolong Qu, Zhenyao Song, Weiming Hou\n Abstract \n                 \n                  Background\n Previous studies have primarily examined associations between the incidence of a single infectious disease and individual meteorological or chemical pollution factors. However, the individual and",
+      "tag": "analysis"
+    },
+    {
+      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
+      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
       "tag": "analysis"
     },
     {
@@ -1375,6 +1368,13 @@
       "link": "https://doi.org/10.47144/phj.v59i3.3761",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.47144/phj.v59i3.3761\nAuthors: Aliya Kemal Ahsan, Makhdoom Bilawal, Syed Waseem Jamalvi, Abdul Sattar Shaikh\n Rheumatic heart disease (RHD) remains one of the leading causes of acquired heart disease among children and adolescents in low- and middle-income countries despite being largely preventable. Although remarkable advances have",
+      "tag": "analysis"
+    },
+    {
+      "title": "Admission complete blood count-derived inflammatory indices for risk stratification in hemorrhagic fever with renal syndrome: comparative performance of NLR, PLR, SII, LMR, and the neutrophil-to-red blood cell ratio",
+      "link": "https://doi.org/10.3389/fimmu.2026.1863714",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fimmu.2026.1863714\nAuthors: Zhuoran Xiao, Xingchi Chen, Min Wei, Shasha Wu, Shuxiang Zhao, Dandan Suo, Shangying Zhao, Meng Li, Xiaofei Yang, Chao Fan, Jianqi Lian, Chuantao Ye, Jing Zhang\n \n                     Background \n                     Hemorrhagic fever with renal syndrome (HFRS) requires",
       "tag": "analysis"
     },
     {
@@ -1553,13 +1553,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
-      "link": "https://doi.org/10.1093/qjmed/hcag167",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/qjmed/hcag167\nAuthors: Claude Mambo Muvunyi, Emmanuel Edwar Siddig",
-      "tag": "response"
-    },
-    {
       "title": "Public health considerations for preventing crimean-congo haemorrhagic fever in Islamic Republic of Iran",
       "link": "https://doi.org/10.26719/2026.32.6.399",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -1567,17 +1560,17 @@
       "tag": "analysis"
     },
     {
+      "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
+      "link": "https://doi.org/10.1093/qjmed/hcag167",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/qjmed/hcag167\nAuthors: Claude Mambo Muvunyi, Emmanuel Edwar Siddig",
+      "tag": "response"
+    },
+    {
       "title": "Optimizing diagnostic cascades: evaluating the sensitivity of NS1 antigen versus antibody serology in a rapidly evolving dengue outbreak",
       "link": "https://doi.org/10.18203/2320-6012.ijrms20262158",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.18203/2320-6012.ijrms20262158\nAuthors: M. Ashraf Uddin Ahmed, Farzana Yasmin, Mahmood Parvez, Tasnim Mahmud\n Background: Dengue fever, caused by DENV-1-4 serotypes, remains a major public health challenge with clinical manifestations ranging from mild febrile illness to severe complications such as Dengue Hemorrhagic Fever (DHF) and",
-      "tag": "analysis"
-    },
-    {
-      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
-      "link": "https://doi.org/10.33897/fumj.v8i1.251",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
       "tag": "analysis"
     },
     {
@@ -1595,6 +1588,20 @@
       "tag": "analysis"
     },
     {
+      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
+      "link": "https://doi.org/10.33897/fumj.v8i1.251",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
+      "tag": "analysis"
+    },
+    {
+      "title": "Aromatic basil (Ocimum x africanum Lour.) tea as a biolarvacide in dengue haemorrhagic fever",
+      "link": "https://doi.org/10.34011/jmp2k.v36i2.4533",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.34011/jmp2k.v36i2.4533\nAuthors: Citra Amaniah Anhar, Dewi Inderiati, Diah Lestari, Gina Argiyanti\n Background: Dengue Haemorrhagic Fever is a health problem transmitted by the Aedes aegypti mosquito. Dengue fever control currently still uses chemical larvicides (ABATE) that can pose health and environmental risks, thus requiring natu",
+      "tag": "analysis"
+    },
+    {
       "title": "Hubungan Pengetahuan dengan Sikap Mengenai Implementasi Teknologi Wolbachia-Aedes pada Tenaga Kesehatan Kota Cirebon",
       "link": "https://doi.org/10.31004/koloni.v5i2.973",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -1602,10 +1609,10 @@
       "tag": "cases"
     },
     {
-      "title": "Aromatic basil (Ocimum x africanum Lour.) tea as a biolarvacide in dengue haemorrhagic fever",
-      "link": "https://doi.org/10.34011/jmp2k.v36i2.4533",
+      "title": "The PEARL toolkit: Using sand flies to identify leishmaniasis animal reservoirs",
+      "link": "https://doi.org/10.64898/2026.06.27.734966",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.34011/jmp2k.v36i2.4533\nAuthors: Citra Amaniah Anhar, Dewi Inderiati, Diah Lestari, Gina Argiyanti\n Background: Dengue Haemorrhagic Fever is a health problem transmitted by the Aedes aegypti mosquito. Dengue fever control currently still uses chemical larvicides (ABATE) that can pose health and environmental risks, thus requiring natu",
+      "desc": "DOI: 10.64898/2026.06.27.734966\nAuthors: Eva Iniguez, Patrick Huffcutt, Tiago Donatelli Serafim, Pedro Cecilio, Serena Doh, Aaron Pugh, Johannes Doehl, Claudio Meneses, Ben Lambert, Jesus G. Valenzuela, Shaden Kamhawi\n In many leishmaniasis foci, reservoirs that maintain infection remain unknown. Here, we developed a field-applicable toolkit",
       "tag": "analysis"
     },
     {
@@ -1616,13 +1623,6 @@
       "tag": "analysis"
     },
     {
-      "title": "The PEARL toolkit: Using sand flies to identify leishmaniasis animal reservoirs",
-      "link": "https://doi.org/10.64898/2026.06.27.734966",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.27.734966\nAuthors: Eva Iniguez, Patrick Huffcutt, Tiago Donatelli Serafim, Pedro Cecilio, Serena Doh, Aaron Pugh, Johannes Doehl, Claudio Meneses, Ben Lambert, Jesus G. Valenzuela, Shaden Kamhawi\n In many leishmaniasis foci, reservoirs that maintain infection remain unknown. Here, we developed a field-applicable toolkit",
-      "tag": "analysis"
-    },
-    {
       "title": "Arming Inactivated Enveloped Virus Vaccines with the GGTA1 Gene: A Potent Method for Amplification of Viral Vaccines Effectiveness and Protection Against Variants",
       "link": "https://doi.org/10.3390/vaccines14070571",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -1630,17 +1630,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Cost-effectiveness of a decentralised molecular point-of-care testing programme for sexually transmitted infections in remote primary care health services in Australia",
-      "link": "https://doi.org/10.1136/sextrans-2025-056863",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/sextrans-2025-056863\nAuthors: Caroline G Watts, Louise M Causer, Susan J Matthews, Kirsty Smith, Kelly Andrewartha, Annie Tangey, Ben B Hui, Rae-Lin Huang, David Anderson, Steven G Badman, Basil Donovan, Christopher K Fairley, Manoji Gunathilake, Belinda Hengel, John Kaldor, Lisa Maher, Donna B Mak, David Persing, David G Regan, Mark D",
-      "tag": "analysis"
-    },
-    {
       "title": "Correlates of protection against African swine fever virus identified by a systems immunology approach.",
       "link": "https://europepmc.org/article/MED/42372005",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "FullTextUrl: https://doi.org/10.7554/eLife.107579\nJournal Title: eLife\nAuthors: Lotonin K, Brito F, Mehinagic K, García-Nicolás O, Liniger M, Donzé N, Python S, Talker S, Ploegaert T, Ruggli N, Benarafa C, Summerfield A.\nAfrican swine fever virus (ASFV) causes a fatal hemorrhagic disease in domestic pigs and wild boars, which poses severe threats t",
+      "tag": "analysis"
+    },
+    {
+      "title": "Cost-effectiveness of a decentralised molecular point-of-care testing programme for sexually transmitted infections in remote primary care health services in Australia",
+      "link": "https://doi.org/10.1136/sextrans-2025-056863",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/sextrans-2025-056863\nAuthors: Caroline G Watts, Louise M Causer, Susan J Matthews, Kirsty Smith, Kelly Andrewartha, Annie Tangey, Ben B Hui, Rae-Lin Huang, David Anderson, Steven G Badman, Basil Donovan, Christopher K Fairley, Manoji Gunathilake, Belinda Hengel, John Kaldor, Lisa Maher, Donna B Mak, David Persing, David G Regan, Mark D",
       "tag": "analysis"
     },
     {
