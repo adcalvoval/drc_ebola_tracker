@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 14 Jul 2026 05:32:35 Z",
-  "fetchedAt": "2026-07-14T05:32:35Z",
+  "lastBuildDate": "Tue, 14 Jul 2026 08:08:50 Z",
+  "fetchedAt": "2026-07-14T08:08:50Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -140,6 +140,20 @@ window.FEED_DATA = {
   },
   "items": [
     {
+      "title": "Oxford inicia el primer ensayo en humanos de una vacuna para frenar el Ébola de Bundibugyo",
+      "link": "https://www.consalud.es/salud35/internacional/oxford-inicia-el-primer-ensayo-en-humanos-de-una-vacuna-para-frenar-el-ebola-de-bundibugyo.html",
+      "pubDate": "Tue, 14 Jul 2026 08:06:00 Z",
+      "desc": "Arranca el primer ensayo en humanos de una vacuna contra el virus del Ébola de Bundibugyo , puesto en marcha por la Universidad de Oxford . El objetivo es acelerar los esfuerzos para combatir un brote que se está propagando en la República Democrática del Congo y Uganda .",
+      "tag": "analysis"
+    },
+    {
+      "title": "OMS añade la primera prueba molecular de Ébola de Bundibugyo a lista de uso en emergencias - labmedica.es",
+      "link": "https://www.labmedica.es/diagnostico-molecular/articles/294811921/oms-anade-la-primera-prueba-molecular-de-ebola-de-bundibugyo-a-lista-de-uso-en-emergencias.html",
+      "pubDate": "Tue, 14 Jul 2026 07:25:00 Z",
+      "desc": "Chronic/Non-Infectious Disease -- Colombia. Significance Rating: 1 OMS añade la primera prueba molecular de Ébola de Bundibugyo a lista de uso en emergencias&nbsp;&nbsp;labmedica.es",
+      "tag": "analysis"
+    },
+    {
       "title": "Tucumán amplía la vacunación antigripal y sostiene el control epidemiológico",
       "link": "https://msptucuman.gov.ar/tucuman-amplia-la-vacunacion-antigripal-y-sostiene-el-control-epidemiologico/",
       "pubDate": "Mon, 13 Jul 2026 19:53:00 Z",
@@ -154,13 +168,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Samoa américaines",
-      "link": "https://voyage.gc.ca/destinations/samoa-americaines",
-      "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
-      "desc": "Pannes d’électricité et pénuries d’eau. Les pannes d’électricité et les pénuries d’eau surviennent occasionnellement, surtout pendant et après le passage de cyclones. Les autorités locales peuvent limiter la consommation d'électricité et imposer des mesures de rationnement de l’eau.",
-      "tag": "analysis"
-    },
-    {
       "title": "Maladie Ebola en Ouganda",
       "link": "https://voyage.gc.ca/voyager/sante-securite/conseils-sante-voyageurs/550",
       "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
@@ -172,6 +179,13 @@ window.FEED_DATA = {
       "link": "https://voyage.gc.ca/voyager/sante-securite/conseils-sante-voyageurs/549",
       "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
       "desc": "Date de publication originale : 15 mai 2026. Mise à jour : 2 juillet 2026 Destinations touchées République démocratique du Congo (Kinshasa) Points clés La maladie Ebola est causée par un groupe de virus qui se transmettent par contact avec les fluides corporels de personnes ou d'animaux présentant des symptômes de la maladie.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Samoa américaines",
+      "link": "https://voyage.gc.ca/destinations/samoa-americaines",
+      "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
+      "desc": "Pannes d’électricité et pénuries d’eau. Les pannes d’électricité et les pénuries d’eau surviennent occasionnellement, surtout pendant et après le passage de cyclones. Les autorités locales peuvent limiter la consommation d'électricité et imposer des mesures de rationnement de l’eau.",
       "tag": "analysis"
     },
     {
@@ -273,18 +287,18 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Today, July 10",
-      "link": "https://kffhealthnews.org/morning-briefing/friday-july-10-2026/",
-      "pubDate": "Fri, 10 Jul 2026 13:38:00 Z",
-      "desc": "In parts of the country, including southeast Michigan and northern Ohio, clinicians are tracking scores of cases of sudden, explosive diarrhea and gastrointestinal illness caused by the parasite Cyclospora cayetanensi. Michigan now has 1,251 cases of cyclosporiasis, according to state officials....",
-      "tag": "cases"
-    },
-    {
       "title": "$1B Program To Boost Glove Supply Exposes Challenges Of Bringing Manufacturing Back To US",
       "link": "https://kffhealthnews.org/morning-breakout/health-industry-071026/",
       "pubDate": "Fri, 10 Jul 2026 13:38:00 Z",
       "desc": "A nearly $1 billion effort failed to bring medical glove manufacturing back to the US. An FDA study found heavy metals in tampons aren’t a cause for concern. Novo Nordisk wants ingredient discounts for its obesity medicines. Roche beat Amgen and Bristol-Myers in a battle of lung cancer drugs.",
       "tag": "analysis"
+    },
+    {
+      "title": "Today, July 10",
+      "link": "https://kffhealthnews.org/morning-briefing/friday-july-10-2026/",
+      "pubDate": "Fri, 10 Jul 2026 13:38:00 Z",
+      "desc": "In parts of the country, including southeast Michigan and northern Ohio, clinicians are tracking scores of cases of sudden, explosive diarrhea and gastrointestinal illness caused by the parasite Cyclospora cayetanensi. Michigan now has 1,251 cases of cyclosporiasis, according to state officials....",
+      "tag": "cases"
     },
     {
       "title": "Une Américaine de 56 ans pensait souffrir d'une maladie inconnue : en réalité, sa prothèse de hanche empoisonnait son sang au cobalt",
@@ -462,17 +476,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "La RDC et l’Ouganda consolident leur coopération transfrontalière pour renforcer la sécurité sanitaire.",
-      "link": "https://insp.cd/la-rdc-et-louganda-consolident-leur-cooperation-transfrontaliere-pour-renforcer-la-securite-sanitaire/",
-      "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
-      "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, 6 juillet 2026. Dans le cadre du renforcement de la coopération transfrontalière entre la République démocratique du Congo et la République de l’Ouganda, la Coordination stratégi",
-      "tag": "analysis"
-    },
-    {
       "title": "Les équipes provinciales restent pleinement mobilisées, les activités se poursuivent normalement.",
       "link": "https://insp.cd/les-equipes-provinciales-restent-pleinement-mobilisees-les-activites-se-poursuivent-normalement/",
       "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
       "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nIturi,le 06 juillet 2026. L’Institut National de Santé Publique (INSP), à travers le Centre des Opérations d’Urgences de Santé Publique (COUSP), informe que les activités de la riposte",
+      "tag": "analysis"
+    },
+    {
+      "title": "La RDC et l’Ouganda consolident leur coopération transfrontalière pour renforcer la sécurité sanitaire.",
+      "link": "https://insp.cd/la-rdc-et-louganda-consolident-leur-cooperation-transfrontaliere-pour-renforcer-la-securite-sanitaire/",
+      "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
+      "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, 6 juillet 2026. Dans le cadre du renforcement de la coopération transfrontalière entre la République démocratique du Congo et la République de l’Ouganda, la Coordination stratégi",
       "tag": "analysis"
     },
     {
@@ -1057,6 +1071,20 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
+      "link": "https://doi.org/10.7759/cureus.111921",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
+      "tag": "response"
+    },
+    {
+      "title": "An unusual gastric mass in a patient with human immunodeficiency virus infection",
+      "link": "https://doi.org/10.1016/j.dld.2026.06.011",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.dld.2026.06.011\nAuthors: Aiji Hattori, Yasuhiko Hamada, Hayato Nakagawa",
+      "tag": "analysis"
+    },
+    {
       "title": "Janibacter melonis Bone Marrow Infection in an Immunocompetent Child With Prolonged Fever of Unknown Origin: A case report",
       "link": "https://doi.org/10.21203/rs.3.rs-9920478/v1",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -1078,6 +1106,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
+      "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "Highlights•A BiLSTM-based model enables early interpretation of RT-qPCR amplification curves.•Fluorescence values are accurately predicted using early-cycle qPCR data.•Reliable qualitative classification is achieved using only 27 amplification cycles.•The method reduces required qPCR cycles by approximately 40%.•The approach can be integrated into",
+      "tag": "analysis"
+    },
+    {
       "title": "Elimination of gambiense human African trypanosomiasis as a public health problem in Republic of Guinea: Paving the way for zero transmission",
       "link": "https://doi.org/10.1371/journal.pntd.0014469",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -1092,20 +1127,6 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
-      "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "Highlights•A BiLSTM-based model enables early interpretation of RT-qPCR amplification curves.•Fluorescence values are accurately predicted using early-cycle qPCR data.•Reliable qualitative classification is achieved using only 27 amplification cycles.•The method reduces required qPCR cycles by approximately 40%.•The approach can be integrated into",
-      "tag": "analysis"
-    },
-    {
-      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
-      "link": "https://doi.org/10.7759/cureus.111921",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
-      "tag": "response"
-    },
-    {
       "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo &amp; Uganda",
       "link": "https://doi.org/10.1016/j.ajt.2026.07.001",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -1113,10 +1134,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "An unusual gastric mass in a patient with human immunodeficiency virus infection",
-      "link": "https://doi.org/10.1016/j.dld.2026.06.011",
+      "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
+      "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.dld.2026.06.011\nAuthors: Aiji Hattori, Yasuhiko Hamada, Hayato Nakagawa",
+      "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
       "tag": "analysis"
     },
     {
@@ -1127,10 +1148,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
-      "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
+      "title": "Ebola Virus Disease: Epidemiology, Transmission, Diagnosis, Prevention, and Recent Advances-A Comprehensive Review",
+      "link": "https://doi.org/10.33545/26646862.2026.v8.i7a.394",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
+      "desc": "DOI: 10.33545/26646862.2026.v8.i7a.394\nAuthors: Kinshuk ., Dinesh Jindal, Vipin Kumar Singhal, Vishal Garg",
       "tag": "analysis"
     },
     {
@@ -1145,13 +1166,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1016/j.ejim.2026.107058",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1016/j.ejim.2026.107058\nAuthors: Bertrand Mathon",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola Virus Disease: Epidemiology, Transmission, Diagnosis, Prevention, and Recent Advances-A Comprehensive Review",
-      "link": "https://doi.org/10.33545/26646862.2026.v8.i7a.394",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.33545/26646862.2026.v8.i7a.394\nAuthors: Kinshuk ., Dinesh Jindal, Vipin Kumar Singhal, Vishal Garg",
       "tag": "analysis"
     },
     {
@@ -1337,11 +1351,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "PTPN13 Contributes to Ebola Virus-Induced Immune Dysregulation via Dephosphorylation of IRF3 and PI3K-p85",
-      "link": "https://doi.org/10.3390/v18070729",
+      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
+      "link": "https://openalex.org/W7166530626",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/v18070729\nAuthors: Abbey N. Warren, Maria Gonzalez-Orozco, Ivan Kuzmin, Sreeja Parameswaran, Ruben Soto Acosta, Birte Kalveram, Sarah van Tol, Adam Hage, Padmanava Behera, Yoatzin Peñaflor-Tellez, Maria I. Giraldo, William Russell, Matthew T. Weirauch, Alexander Freiberg, Alexander Bukreyev, Ricardo Rajsbaum\n Ebola virus disease",
-      "tag": "analysis"
+      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
+      "tag": "response"
     },
     {
       "title": "Africa CDC calls for urgent US$18 million to close the funding gap on critical research ready to commence",
@@ -1365,11 +1379,11 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
-      "link": "https://openalex.org/W7166530626",
+      "title": "PTPN13 Contributes to Ebola Virus-Induced Immune Dysregulation via Dephosphorylation of IRF3 and PI3K-p85",
+      "link": "https://doi.org/10.3390/v18070729",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
-      "tag": "response"
+      "desc": "DOI: 10.3390/v18070729\nAuthors: Abbey N. Warren, Maria Gonzalez-Orozco, Ivan Kuzmin, Sreeja Parameswaran, Ruben Soto Acosta, Birte Kalveram, Sarah van Tol, Adam Hage, Padmanava Behera, Yoatzin Peñaflor-Tellez, Maria I. Giraldo, William Russell, Matthew T. Weirauch, Alexander Freiberg, Alexander Bukreyev, Ricardo Rajsbaum\n Ebola virus disease",
+      "tag": "analysis"
     },
     {
       "title": "Strengthening Risk Communication and Community Engagement in Public Health Emergencies: A Public Health Framework with Biological Science Insights for Trust, Misinformation Management, and Community Resilience",
@@ -1617,13 +1631,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
-      "link": "https://doi.org/10.1093/qjmed/hcag167",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/qjmed/hcag167\nAuthors: Claude Mambo Muvunyi, Emmanuel Edwar Siddig",
-      "tag": "response"
-    },
-    {
       "title": "Public health considerations for preventing crimean-congo haemorrhagic fever in Islamic Republic of Iran",
       "link": "https://doi.org/10.26719/2026.32.6.399",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -1631,17 +1638,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
+      "link": "https://doi.org/10.1093/qjmed/hcag167",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/qjmed/hcag167\nAuthors: Claude Mambo Muvunyi, Emmanuel Edwar Siddig",
+      "tag": "response"
+    },
+    {
       "title": "Optimizing diagnostic cascades: evaluating the sensitivity of NS1 antigen versus antibody serology in a rapidly evolving dengue outbreak",
       "link": "https://doi.org/10.18203/2320-6012.ijrms20262158",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.18203/2320-6012.ijrms20262158\nAuthors: M. Ashraf Uddin Ahmed, Farzana Yasmin, Mahmood Parvez, Tasnim Mahmud\n Background: Dengue fever, caused by DENV-1-4 serotypes, remains a major public health challenge with clinical manifestations ranging from mild febrile illness to severe complications such as Dengue Hemorrhagic Fever (DHF) and",
-      "tag": "analysis"
-    },
-    {
-      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
-      "link": "https://doi.org/10.33897/fumj.v8i1.251",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
       "tag": "analysis"
     },
     {
@@ -1656,6 +1663,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.3126/mjen.v5i01.96385",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3126/mjen.v5i01.96385\nAuthors: Abhishek Karmacharya, Subrata Pokhrel, Damodar Sharma, Chetan Khadka, Nickey Pradhan, Navindra Phuyal\n Background \nWith a high mortality rate, bloodstream infections (BSI) are a serious worldwide public health burden. Delay in therapy has a significant impact on Patient’s outcomes, and rapid and precis",
+      "tag": "analysis"
+    },
+    {
+      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
+      "link": "https://doi.org/10.33897/fumj.v8i1.251",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
       "tag": "analysis"
     },
     {
@@ -1874,20 +1888,6 @@ window.FEED_DATA = {
       "pubDate": "Fri, 26 Jun 2026 04:28:00 Z",
       "desc": "Overview. Filovirus disease outbreaks pose significant public health threats, and treatment centres have become essential infrastructure for outbreak response. This publication provides technical guidance to design and set up functional, patient-centred and evidence-based Ebola or Marburg treatment....",
       "tag": "response"
-    },
-    {
-      "title": "Africa CDC says funding needs for Ebola response three times higher at $1.4 billion",
-      "link": "https://health.economictimes.indiatimes.com/news/industry/africa-cdc-says-funding-needs-for-ebola-response-three-times-higher-at-1-4-billion/132005596",
-      "pubDate": "Fri, 26 Jun 2026 02:24:00 Z",
-      "desc": "Africa ⁠Centres for ⁠Disease Control and Prevention Director-General Jean Kaseya said the new estimate was ​based on discussions with experts from Congo's government and United Nations agencies.\n\nDakar: Africa's top public health ​agency said on Thursday that funding needed to tackle the continent's....",
-      "tag": "response"
-    },
-    {
-      "title": "24 juin 2026 Allocution liminaire du Directeur général de l’OMS lors du point de presse du 24 juin 2026",
-      "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---24-june-2026",
-      "pubDate": "Fri, 26 Jun 2026 01:52:00 Z",
-      "desc": "Bonjour à toutes les personnes présentes aujourd’hui, et bonjour ou bonsoir à toutes celles qui sont en ligne, où qu’elles se trouvent dans le monde. Je souhaiterais tout d’abord parler de la flambée d’Ebola en République démocratique du Congo. Il est encourageant de constater que, depuis que la....",
-      "tag": "analysis"
     }
   ],
   "highWater": {
