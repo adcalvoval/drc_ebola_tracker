@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 15 Jul 2026 16:23:52 Z",
-  "fetchedAt": "2026-07-15T16:23:52Z",
+  "lastBuildDate": "Wed, 15 Jul 2026 19:14:01 Z",
+  "fetchedAt": "2026-07-15T19:14:02Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -82,6 +82,9 @@ window.FEED_DATA = {
       }
     },
     "drcTiers": {
+      "media": {
+        "suspected": 19
+      },
       "whoDon": {
         "confirmed": 1460,
         "deaths": 452,
@@ -135,6 +138,13 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "Ébola avanza a un ritmo sin precedentes: la alerta de Médicos Sin Fronteras - Venezuela Informa Hoy",
+      "link": "https://venezuelainformahoy.com/ebola-avanza-a-un-ritmo-sin-precedentes-alerta/amp/",
+      "pubDate": "Wed, 15 Jul 2026 16:28:00 Z",
+      "desc": "Malaria -- Venezuela. Significance Rating: 3 Ébola avanza a un ritmo sin precedentes: la alerta de Médicos Sin Fronteras&nbsp;&nbsp;Venezuela Informa Hoy",
+      "tag": "response"
+    },
     {
       "title": "15 de julio de 2025 Cobertura de la inmunización",
       "link": "https://www.who.int/es/news-room/fact-sheets/detail/immunization-coverage",
@@ -234,18 +244,46 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Krysta S Barton",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Barton+KS&cauthor_id=42439107",
-      "pubDate": "Mon, 13 Jul 2026 10:41:00 Z",
-      "desc": "Mintz KT, Altamirano EN, Halley MC, Barton KS , Cho MK, Bernstein JA, Carter JN; Undiagnosed Diseases Network; Tabor HK. Mintz KT, et al. Among authors: barton ks Genet Med. 2026 Jul 13:102663. doi: 10.1016/j.gim.2026.102663. Online ahead of print. Genet Med. 2026. PMID: 42439107.",
+      "title": "The COVID-19 pandemic and global environmental change: Emerging research needs",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160412020322273",
+      "pubDate": "Mon, 13 Jul 2026 14:45:00 Z",
+      "desc": "The outbreak of COVID-19 raised numerous questions on the interactions between the occurrence of new infections, the environment, climate and health. The European Union requested the H2020 HERA project which aims at setting priorities in research on environment, climate and health, to identify relevant research needs regarding Covid-19.",
       "tag": "analysis"
     },
     {
-      "title": "Mildred K Cho",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Cho+MK&cauthor_id=42439107",
-      "pubDate": "Mon, 13 Jul 2026 10:41:00 Z",
-      "desc": "Mintz KT, Altamirano EN, Halley MC, Barton KS, Cho MK , Bernstein JA, Carter JN; Undiagnosed Diseases Network; Tabor HK. Mintz KT, et al. Among authors: cho mk Genet Med. 2026 Jul 13:102663. doi: 10.1016/j.gim.2026.102663. Online ahead of print. Genet Med. 2026. PMID: 42439107.\n\nCho MK , Lee Y, Kim KD, Choi MH, Park SQ, Lee SH, Nam HS, Lee YJ.",
+      "title": "U.S. Citizen Tests Positive for Ebola in Congo",
+      "link": "https://www.medpagetoday.com/infectiousdisease/ebola/122159",
+      "pubDate": "Mon, 13 Jul 2026 14:02:00 Z",
+      "desc": "A U.S. citizen working for a humanitarian organization in Congo has tested positive for the Ebola virus, the CDC said on Friday, as the Central African country struggles to contain the swelling outbreak. The CDC said it was working with the person's employer, U.S.",
       "tag": "analysis"
+    },
+    {
+      "title": "Oxford Starts Human Trial of Ebola Vaccine",
+      "link": "https://www.medscape.com/s/viewarticle/oxford-starts-human-trial-ebola-vaccine-2026a1000nln?src=rss",
+      "pubDate": "Mon, 13 Jul 2026 13:41:00 Z",
+      "desc": "The University of Oxford will test a new vaccine against deadly Ebola, which has been spreading through the Democratic Republic of the Congo.\n\nScientists at the university have rapidly developed a jab against the Bundibugyo type of Ebola and will now assess its safety and immune response in 50 healthy adults in the UK aged 18 to 55.",
+      "tag": "response"
+    },
+    {
+      "title": "US Aid Worker Contracts Ebola Amid Ongoing Outbreak In Congo",
+      "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-071326/",
+      "pubDate": "Mon, 13 Jul 2026 13:10:00 Z",
+      "desc": "An American working for an evangelical aid group has tested positive for Ebola in the Democratic Republic of Congo, where aid groups are struggling to contain a surging outbreak that has already killed over 600 people. The U.S. Centers for Disease Control and Prevention said on Friday the aid worker....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Second US Citizen Tests Positive for Ebola in Congo - NCHStats",
+      "link": "https://nchstats.com/second-us-citizen-tests-positive-for-ebola-in-congo/",
+      "pubDate": "Mon, 13 Jul 2026 12:25:00 Z",
+      "desc": "-- United States. Significance Rating: 1 Second US Citizen Tests Positive for Ebola in Congo&nbsp;&nbsp;NCHStats",
+      "tag": "analysis"
+    },
+    {
+      "title": "Covid-19 cases in Andhra Pradesh not a sign of resurgence: Doctors",
+      "link": "https://health.economictimes.indiatimes.com/news/industry/covid-19-cases-in-andhra-pradesh-not-a-sign-of-resurgence-doctors/132364538",
+      "pubDate": "Mon, 13 Jul 2026 11:19:00 Z",
+      "desc": "virus and 8 active cases. While the recent sporadic cases have sparked concern, doctors say this isn’t strange but something we should expect especially as immunity wanes and the virus mutates. Dr Nidhin Mohan, Senior Consultant, Internal Medicine, Narayana Health City, Bengaluru told ETHealthworld,....",
+      "tag": "cases"
     },
     {
       "title": "Jennefer N Carter",
@@ -260,6 +298,27 @@ window.FEED_DATA = {
       "pubDate": "Mon, 13 Jul 2026 10:41:00 Z",
       "desc": "Purpose: In recent years, researchers have brought attention to the underrepresentation of people with disabilities in biomedical research, including genomics research. However, little is known about how disability-related experiences influence participation in rare disease research.",
       "tag": "analysis"
+    },
+    {
+      "title": "Krysta S Barton",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Barton+KS&cauthor_id=42439107",
+      "pubDate": "Mon, 13 Jul 2026 10:41:00 Z",
+      "desc": "Mintz KT, Altamirano EN, Halley MC, Barton KS , Cho MK, Bernstein JA, Carter JN; Undiagnosed Diseases Network; Tabor HK. Mintz KT, et al. Among authors: barton ks Genet Med. 2026 Jul 13:102663. doi: 10.1016/j.gim.2026.102663. Online ahead of print. Genet Med. 2026. PMID: 42439107.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Mildred K Cho",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Cho+MK&cauthor_id=42439107",
+      "pubDate": "Mon, 13 Jul 2026 10:41:00 Z",
+      "desc": "Mintz KT, Altamirano EN, Halley MC, Barton KS, Cho MK , Bernstein JA, Carter JN; Undiagnosed Diseases Network; Tabor HK. Mintz KT, et al. Among authors: cho mk Genet Med. 2026 Jul 13:102663. doi: 10.1016/j.gim.2026.102663. Online ahead of print. Genet Med. 2026. PMID: 42439107.\n\nCho MK , Lee Y, Kim KD, Choi MH, Park SQ, Lee SH, Nam HS, Lee YJ.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Digital Health for Pandemic Preparedness: A Critical Review of Innovations, Equity Gaps, and Governance in Infectious Disease Surveillance",
+      "link": "https://doi.org/10.5812/iji-169286",
+      "pubDate": "Sun, 12 Jul 2026 23:30:00 Z",
+      "desc": "DOI: 10.5812/iji-169286\nAuthors: Abdolreza Babamahmoodi, Farhang Babamahmoodi, Majid Marjani\n Context: Recent infectious disease emergencies, including SARS-CoV-2, mpox (2022 - 2024), highly pathogenic avian influenza A(H5N1) in US dairy cattle (2024 - 2025), and the Marburg virus in Rwanda (2024), have strained traditional surveillance syst",
+      "tag": "response"
     },
     {
       "title": "GEMCONT:Genetics-based Multimodal Contrastive Learning Enhances Phenotypic embeddings and Boosts Genetic Discovery",
@@ -280,6 +339,13 @@ window.FEED_DATA = {
       "link": "https://www.infobae.com/estados-unidos/2026/07/11/un-trabajador-estadounidense-contrajo-ebola-en-congo-y-ee-uu-refuerza-la-prevencion/",
       "pubDate": "Sun, 12 Jul 2026 03:25:00 Z",
       "desc": "Polio -- Argentina. Significance Rating: 4 Un trabajador estadounidense contrajo ébola en Congo y EE. UU. refuerza la prevención&nbsp;&nbsp;Infobae",
+      "tag": "analysis"
+    },
+    {
+      "title": "Late-Onset Fahr Disease Presenting with Chronic Vertigo, Right-Sided Postural Instability, and Mild Cognitive Impairment: A Case Report",
+      "link": "https://doi.org/10.38035/ijphs.v4i3.2224",
+      "pubDate": "Sun, 12 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.38035/ijphs.v4i3.2224\n Fahr disease, currently recognized within the spectrum of primary familial brain calcification, is a rare neurodegenerative disorder characterized by bilateral intracranial calcifications, most commonly involving the basal ganglia, dentate nuclei, thalamus, internal capsule, and cerebral white matter. It usuall",
       "tag": "analysis"
     },
     {
@@ -1459,6 +1525,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Africa CDC calls for urgent US$18 million to close the funding gap on critical research ready to commence",
+      "link": "https://africacdc.org/news-item/africa-cdc-calls-for-urgent-us22-million-to-close-funding-gap-and-stop-bundibugyo-ebola-outbreak/",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "Clinical trials for Ebola therapeutics must begin this week. No licensed vaccine or treatment exists for the Bundibugyo strain, and without immediate financing the response is at risk of collapse.\n\n\n\nADDIS ABABA, 30 June 2026. Africa CDC commends the Government of the Democratic Republic of the Congo, clinical investigators, and development",
+      "tag": "response"
+    },
+    {
       "title": "Rippling muscle disease due to a &lt;i&gt;CAV3&lt;/i&gt; mutation with myocarditis-like presentation in an adolescent",
       "link": "https://doi.org/10.24953/turkjpediatr.2026.7755",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -1487,39 +1560,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Africa CDC calls for urgent US$18 million to close the funding gap on critical research ready to commence",
-      "link": "https://africacdc.org/news-item/africa-cdc-calls-for-urgent-us22-million-to-close-funding-gap-and-stop-bundibugyo-ebola-outbreak/",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "Clinical trials for Ebola therapeutics must begin this week. No licensed vaccine or treatment exists for the Bundibugyo strain, and without immediate financing the response is at risk of collapse.\n\n\n\nADDIS ABABA, 30 June 2026. Africa CDC commends the Government of the Democratic Republic of the Congo, clinical investigators, and development",
-      "tag": "response"
-    },
-    {
       "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
       "link": "https://openalex.org/W7166530626",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
       "tag": "response"
-    },
-    {
-      "title": "Admission complete blood count-derived inflammatory indices for risk stratification in hemorrhagic fever with renal syndrome: comparative performance of NLR, PLR, SII, LMR, and the neutrophil-to-red blood cell ratio",
-      "link": "https://doi.org/10.3389/fimmu.2026.1863714",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fimmu.2026.1863714\nAuthors: Zhuoran Xiao, Xingchi Chen, Min Wei, Shasha Wu, Shuxiang Zhao, Dandan Suo, Shangying Zhao, Meng Li, Xiaofei Yang, Chao Fan, Jianqi Lian, Chuantao Ye, Jing Zhang\n \n                     Background \n                     Hemorrhagic fever with renal syndrome (HFRS) requires",
-      "tag": "analysis"
-    },
-    {
-      "title": "Endometriosis in the early second quarter of the 21st century: paradigm shift",
-      "link": "https://doi.org/10.47407/kr2026.7.5.00848",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.47407/kr2026.7.5.00848\n Endometriosis remains a mysterious steadily progressing disease for reproductive medicine of the 21st century. About 10% of women (190 million) of childbearing age all over the world suffer from the disorder. Despite high prevalence, endometriosis is still diagnosed late. The time from first symptoms to the di",
-      "tag": "analysis"
-    },
-    {
-      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
-      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
-      "tag": "analysis"
     },
     {
       "title": "Vancomycin Protects Against Lung Injury and Promotes Butyrate Metabolism",
@@ -1550,6 +1595,27 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
+      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
+      "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10006038/v1\nAuthors: Guolong Qu, Zhenyao Song, Weiming Hou\n Abstract \n                 \n                  Background\n Previous studies have primarily examined associations between the incidence of a single infectious disease and individual meteorological or chemical pollution factors. However, the individual and",
+      "tag": "analysis"
+    },
+    {
+      "title": "Admission complete blood count-derived inflammatory indices for risk stratification in hemorrhagic fever with renal syndrome: comparative performance of NLR, PLR, SII, LMR, and the neutrophil-to-red blood cell ratio",
+      "link": "https://doi.org/10.3389/fimmu.2026.1863714",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fimmu.2026.1863714\nAuthors: Zhuoran Xiao, Xingchi Chen, Min Wei, Shasha Wu, Shuxiang Zhao, Dandan Suo, Shangying Zhao, Meng Li, Xiaofei Yang, Chao Fan, Jianqi Lian, Chuantao Ye, Jing Zhang\n \n                     Background \n                     Hemorrhagic fever with renal syndrome (HFRS) requires",
+      "tag": "analysis"
+    },
+    {
       "title": "Antiphospholipid antibodies in acute and post-treatment Lyme disease",
       "link": "https://doi.org/10.1128/iai.00192-26",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -1571,17 +1637,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
-      "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10006038/v1\nAuthors: Guolong Qu, Zhenyao Song, Weiming Hou\n Abstract \n                 \n                  Background\n Previous studies have primarily examined associations between the incidence of a single infectious disease and individual meteorological or chemical pollution factors. However, the individual and",
-      "tag": "analysis"
-    },
-    {
       "title": "Transtheoretical components of evidence-based psychological interventions for stimulant use disorders: a systematically developed taxonomy",
       "link": "https://doi.org/10.31234/osf.io/bd2yk_v2",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.31234/osf.io/bd2yk_v2\nAuthors: Chrysanthi Blithikioti, Camilla Cadorin, Marcella Lucente, Lorena Pizzocri, Giuliano Tomei, Matt Field, Patricia Logullo, Wolfgang Lutz, Toshi A. Furukawa, Ioana Cristea\n Importance: Psychological interventions are a mainstay of treatment for substance use disorders (SUDs), but their ingredients remain unkno",
+      "tag": "analysis"
+    },
+    {
+      "title": "Endometriosis in the early second quarter of the 21st century: paradigm shift",
+      "link": "https://doi.org/10.47407/kr2026.7.5.00848",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.47407/kr2026.7.5.00848\n Endometriosis remains a mysterious steadily progressing disease for reproductive medicine of the 21st century. About 10% of women (190 million) of childbearing age all over the world suffer from the disorder. Despite high prevalence, endometriosis is still diagnosed late. The time from first symptoms to the di",
       "tag": "analysis"
     },
     {
@@ -1739,13 +1805,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
-      "link": "https://doi.org/10.1093/qjmed/hcag167",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/qjmed/hcag167\nAuthors: Claude Mambo Muvunyi, Emmanuel Edwar Siddig",
-      "tag": "response"
-    },
-    {
       "title": "Public health considerations for preventing crimean-congo haemorrhagic fever in Islamic Republic of Iran",
       "link": "https://doi.org/10.26719/2026.32.6.399",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -1753,17 +1812,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
+      "link": "https://doi.org/10.1093/qjmed/hcag167",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/qjmed/hcag167\nAuthors: Claude Mambo Muvunyi, Emmanuel Edwar Siddig",
+      "tag": "response"
+    },
+    {
       "title": "Optimizing diagnostic cascades: evaluating the sensitivity of NS1 antigen versus antibody serology in a rapidly evolving dengue outbreak",
       "link": "https://doi.org/10.18203/2320-6012.ijrms20262158",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.18203/2320-6012.ijrms20262158\nAuthors: M. Ashraf Uddin Ahmed, Farzana Yasmin, Mahmood Parvez, Tasnim Mahmud\n Background: Dengue fever, caused by DENV-1-4 serotypes, remains a major public health challenge with clinical manifestations ranging from mild febrile illness to severe complications such as Dengue Hemorrhagic Fever (DHF) and",
-      "tag": "analysis"
-    },
-    {
-      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
-      "link": "https://doi.org/10.33897/fumj.v8i1.251",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
       "tag": "analysis"
     },
     {
@@ -1781,11 +1840,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Hubungan Pengetahuan dengan Sikap Mengenai Implementasi Teknologi Wolbachia-Aedes pada Tenaga Kesehatan Kota Cirebon",
-      "link": "https://doi.org/10.31004/koloni.v5i2.973",
+      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
+      "link": "https://doi.org/10.33897/fumj.v8i1.251",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.31004/koloni.v5i2.973\nAuthors: Tajudin Tajudin, Muhammad Hussein G, Witri Pratiwi\n Dengue Hemorrhagic Fever remains a public health problem, particularly in endemic areas of Indonesia where cases continue to increase. Wolbachia-Aedes technology is an innovative vector control strategy with the potential to reduce dengue virus transmi",
-      "tag": "cases"
+      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
+      "tag": "analysis"
     },
     {
       "title": "Aromatic basil (Ocimum x africanum Lour.) tea as a biolarvacide in dengue haemorrhagic fever",
@@ -1793,6 +1852,13 @@ window.FEED_DATA = {
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.34011/jmp2k.v36i2.4533\nAuthors: Citra Amaniah Anhar, Dewi Inderiati, Diah Lestari, Gina Argiyanti\n Background: Dengue Haemorrhagic Fever is a health problem transmitted by the Aedes aegypti mosquito. Dengue fever control currently still uses chemical larvicides (ABATE) that can pose health and environmental risks, thus requiring natu",
       "tag": "analysis"
+    },
+    {
+      "title": "Hubungan Pengetahuan dengan Sikap Mengenai Implementasi Teknologi Wolbachia-Aedes pada Tenaga Kesehatan Kota Cirebon",
+      "link": "https://doi.org/10.31004/koloni.v5i2.973",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.31004/koloni.v5i2.973\nAuthors: Tajudin Tajudin, Muhammad Hussein G, Witri Pratiwi\n Dengue Hemorrhagic Fever remains a public health problem, particularly in endemic areas of Indonesia where cases continue to increase. Wolbachia-Aedes technology is an innovative vector control strategy with the potential to reduce dengue virus transmi",
+      "tag": "cases"
     },
     {
       "title": "LATE DIAGNOSIS OF CHRONIC KIDNEY DISEASE IN A CHILD WITH A HYPOREFLEXIVE BLADDER: A CASE REPORT AND LITERATURE REVIEW",
@@ -1809,13 +1875,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Arming Inactivated Enveloped Virus Vaccines with the GGTA1 Gene: A Potent Method for Amplification of Viral Vaccines Effectiveness and Protection Against Variants",
-      "link": "https://doi.org/10.3390/vaccines14070571",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/vaccines14070571\nAuthors: Uri Galili\n This review describes a novel method for increasing the effectiveness of inactivated enveloped whole-virus vaccines by targeting them for extensive uptake by antigen-presenting cells (APCs). Several inactivated whole-virus vaccines with dense glycan shields display suboptimal effectiveness b",
-      "tag": "analysis"
-    },
-    {
       "title": "Correlates of protection against African swine fever virus identified by a systems immunology approach.",
       "link": "https://europepmc.org/article/MED/42372005",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -1828,62 +1887,6 @@ window.FEED_DATA = {
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1136/sextrans-2025-056863\nAuthors: Caroline G Watts, Louise M Causer, Susan J Matthews, Kirsty Smith, Kelly Andrewartha, Annie Tangey, Ben B Hui, Rae-Lin Huang, David Anderson, Steven G Badman, Basil Donovan, Christopher K Fairley, Manoji Gunathilake, Belinda Hengel, John Kaldor, Lisa Maher, Donna B Mak, David Persing, David G Regan, Mark D",
       "tag": "analysis"
-    },
-    {
-      "title": "WHO endorses appointment of Ebola coordinator in DRC as it battles outbreak",
-      "link": "https://health.economictimes.indiatimes.com/news/industry/who-endorses-appointment-of-ebola-coordinator-in-drc-as-it-battles-outbreak/132055244",
-      "pubDate": "Sun, 28 Jun 2026 18:04:00 Z",
-      "desc": "Geneva: Tedros Adhanom Ghebreyesus, Director-General of the World Health Organization, on Saturday signed a joint letter to endorse the appointment of Julien Harneis as a Senior Ebola Coordinator in Kinshasa. WHO took the decision for closer coordination along the UN system after seeing the complexity during the Ebola outbreak.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Vacunas frente al ébola",
-      "link": "https://doi.org/10.63105/50.494.9",
-      "pubDate": "Sun, 28 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.63105/50.494.9\nAuthors: Rosario Cáceres Fernández-Bolaños\n La enfermedad por el virus del ébola (EVE) constituye una de las infecciones virales más letales conocidas y representa una amenaza persistente para la salud pública mundial. Aunque los brotes se han concentrado históricamente en África subsahariana, la elevada mortalidad de",
-      "tag": "analysis"
-    },
-    {
-      "title": "Pengalaman Tim Penggerak Pemberdayaan dan Kesejahteraan Keluarga dalam Pendampingan Kesiapsiagaan Pencegahan Kegawatdaruratan Demam Berdarah Dengue",
-      "link": "https://doi.org/10.52774/jkfn.v9i1.510",
-      "pubDate": "Sun, 28 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.52774/jkfn.v9i1.510\nAuthors: Ferry Diana Karmilasari, Neni Oktavia, Ulva Hari Andini, Ratih Eka Fitrianingrum\n Dengue Hemorrhagic Fever (DHF) remains a public health problem that requires active community involvement in prevention and emergency preparedness efforts. The disease is caused by the dengue virus, transmitted by Aedes aegy",
-      "tag": "response"
-    },
-    {
-      "title": "Lessons in the Wake of a Lassa fever case in the Midwest U.S: epidemiology, management and preparedness gaps",
-      "link": "https://link.springer.com/article/10.1186/s12879-026-13875-6",
-      "pubDate": "Sat, 27 Jun 2026 18:04:00 Z",
-      "desc": "Background. Lassa fever (LF) is a zoonotic viral hemorrhagic disease endemic to West Africa that remains persistently neglected despite substantial morbidity, mortality, and outbreak potential. A fixed burden estimate is not available due to the absence of systematic surveillance across endemic....",
-      "tag": "response"
-    },
-    {
-      "title": "Africa mobilizes USD 910 million for Ebola Bundibugyo response in DRC and Uganda",
-      "link": "http://africasciencenews.org/africa-mobilizes-usd-910-million-for-ebola-bundibugyo-response-in-drc-and-uganda/",
-      "pubDate": "Sat, 27 Jun 2026 17:30:00 Z",
-      "desc": "USD 80 million committed by African Member States as Africa CDC calls for rapid disbursement and urgent support to frontline responders. Bujumbura/Addis Ababa, 19 June 2026 – H.E. Évariste Ndayishimiye, President of the Republic of Burundi and Chairperson of the African Union, convened a High-Level....",
-      "tag": "response"
-    },
-    {
-      "title": "Uganda Hosts Regional Meeting to Boost Ebola Preparedness Amid Ongoing Outbreak",
-      "link": "https://www.afro.who.int/countries/uganda/news/uganda-hosts-regional-meeting-boost-ebola-preparedness-amid-ongoing-outbreak",
-      "pubDate": "Sat, 27 Jun 2026 14:42:00 Z",
-      "desc": "Kampala, Uganda:— Health leaders from across Africa have convened in Uganda’s capital for a high-level meeting to strengthen regional preparedness and cross-border collaboration in response to the ongoing Bundibugyo Ebola outbreak affecting Uganda and the Democratic Republic of the Congo (DRC).",
-      "tag": "response"
-    },
-    {
-      "title": "Novel myo-inositol to butyrate fermentation pathway in the prevalent human gut species Dysosmobacter welbionis, a bacterium associated with improved metabolic and liver health",
-      "link": "https://helda.helsinki.fi/items/3e1b3ccd-d33e-437d-a1f5-ecbb4134a0cb",
-      "pubDate": "Sat, 27 Jun 2026 08:52:00 Z",
-      "desc": "Background Dysosmobacter welbionis is a recently discovered butyrate producer whose presence in stool correlates with improved metabolic health. Whether its abundance is reduced in individuals with metabolic dysfunction-associated steatotic liver disease (MASLD) remains unknown.",
-      "tag": "analysis"
-    },
-    {
-      "title": "DH reminds public to be vigilant about infectious diseases when travelling during summer holidays",
-      "link": "https://www.info.gov.hk/gia/general/202606/27/P2026062600301.htm",
-      "pubDate": "Sat, 27 Jun 2026 03:16:00 Z",
-      "desc": "As the summer holidays are approaching, the Centre for Health Protection (CHP) of the Department of Health (DH) today (June 27) reminded members of the public planning to travel outside Hong Kong to visit the DH's Travel Health Service webpage before departure to learn about the infectious disease....",
-      "tag": "response"
     }
   ],
   "highWater": {
