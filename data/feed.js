@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 15 Jul 2026 08:14:19 Z",
-  "fetchedAt": "2026-07-15T08:14:20Z",
+  "lastBuildDate": "Wed, 15 Jul 2026 10:51:38 Z",
+  "fetchedAt": "2026-07-15T10:51:39Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -136,6 +136,20 @@ window.FEED_DATA = {
   },
   "items": [
     {
+      "title": "15 de julio de 2025 Cobertura de la inmunización",
+      "link": "https://www.who.int/es/news-room/fact-sheets/detail/immunization-coverage",
+      "pubDate": "Wed, 15 Jul 2026 09:43:00 Z",
+      "desc": "Datos y cifras En 2024, 14,3 millones de niños no recibieron ninguna vacuna. La cobertura de la tercera dosis de la vacuna DTP (difteria, tétanos y tos ferina) fue del 85 %. La proporción de niños a los que se administró la primera dosis de la vacuna antisarampionosa en 2024 fue del 84 %, un porcentaje todavía inferior al 86 % de 2019.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Sanidad se compromete a crear la especialidad de Enfermedades Infecciosas “en esta legislatura”",
+      "link": "https://www.consalud.es/profesionales/medicina/sanidad-se-compromete-a-crear-la-especialidad-de-enfermedades-infecciosas-en-esta-legislatura.html",
+      "pubDate": "Wed, 15 Jul 2026 07:20:00 Z",
+      "desc": "Este martes, 14 de julio, concluía el plazo para que el Ministerio de Sanidad resolviese si seguía o no adelante con la creación de la especialidad de . Por ello, una delegación de la Sociedad Española de Enfermedades Infecciosas y Microbiología Clínica ( ) se ha reunido con el secretario de Estado....",
+      "tag": "analysis"
+    },
+    {
       "title": "Des virus vieux de 360 millions ont été découvert dans l'ADN de plantes et certains seraient encore actifs",
       "link": "https://www.science-et-vie.com/science-et-culture/des-virus-vieux-de-360-millions-ont-ete-decouvert-dans-ladn-de-plantes-et-certains-seraient-encore-actifs-249728.html",
       "pubDate": "Wed, 15 Jul 2026 06:49:00 Z",
@@ -231,6 +245,13 @@ window.FEED_DATA = {
       "link": "https://www.infobae.com/estados-unidos/2026/07/11/un-trabajador-estadounidense-contrajo-ebola-en-congo-y-ee-uu-refuerza-la-prevencion/",
       "pubDate": "Sun, 12 Jul 2026 03:25:00 Z",
       "desc": "Polio -- Argentina. Significance Rating: 4 Un trabajador estadounidense contrajo ébola en Congo y EE. UU. refuerza la prevención&nbsp;&nbsp;Infobae",
+      "tag": "analysis"
+    },
+    {
+      "title": "Unusual progression of Rosai–Dorfman disease in a pediatric patient",
+      "link": "https://doi.org/10.1016/j.radcr.2026.06.063",
+      "pubDate": "Sat, 11 Jul 2026 20:26:00 Z",
+      "desc": "DOI: 10.1016/j.radcr.2026.06.063\nAuthors: Shruti Kumari, John Hansen, Ameya P. Nayate",
       "tag": "analysis"
     },
     {
@@ -357,6 +378,20 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.64898/2026.07.09.26357636",
       "pubDate": "Fri, 10 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.09.26357636\nAuthors: Natalia Judyta Piorkowska, Alan Ostromecki, Grzegorz Franik, Anna Bizon\n Context\nPolyendocrine metabolic ovarian syndrome (PMOS), formerly known as polycystic ovary syndrome (PCOS), is a biologically heterogeneous disorder, yet previous clustering studies have reported inconsistent phenotype structu",
+      "tag": "analysis"
+    },
+    {
+      "title": "Global Patent Landscape and Technological Trends in Biosafety Level 3 (BSL-3) Laboratories Technologies",
+      "link": "https://doi.org/10.3390/biotech15030052",
+      "pubDate": "Fri, 10 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/biotech15030052\nAuthors: Milca de J. Silva, Roni D. Vinhas, Helena S. da Hora, Saada L. C. Fernandez, Hayna Malta-Santos, Hugo Saba, Camila D. F. Ribeiro, Marilda de S. Gonçalves, Bruna A. S. Machado\n Biosafety Level 3 (BSL-3) laboratories are essential for handling high-risk pathogens and strengthening global health security. T",
+      "tag": "analysis"
+    },
+    {
+      "title": "AI-Driven Discovery and BSL-4 Validation of Cross-Filovirus Ebola-Marburg Inhibitors and their Synergistic Combinations",
+      "link": "https://doi.org/10.64898/2026.07.09.737586",
+      "pubDate": "Fri, 10 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.09.737586\nAuthors: Holli-Joi Martin, Marcus Tullius Scotti, Sankalp Jain, Laura McMullan, Payel Chatterjee, Cleber Melo-Filho, Maximilian Caza, Alexander Tropsha, Hsiuling Lin, Mike Flint, Emily M. Lee, Michael K Lo, Alexey V. Zakharov, Eugene Muratov\n Filovirus outbreaks caused by Ebola virus (EBOV) and Marburg virus (",
       "tag": "analysis"
     },
     {
@@ -507,6 +542,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "La RDC et l’Ouganda consolident leur coopération transfrontalière pour renforcer la sécurité sanitaire.",
+      "link": "https://insp.cd/la-rdc-et-louganda-consolident-leur-cooperation-transfrontaliere-pour-renforcer-la-securite-sanitaire/",
+      "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
+      "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, 6 juillet 2026. Dans le cadre du renforcement de la coopération transfrontalière entre la République démocratique du Congo et la République de l’Ouganda, la Coordination stratégi",
+      "tag": "analysis"
+    },
+    {
       "title": "Les équipes provinciales restent pleinement mobilisées, les activités se poursuivent normalement.",
       "link": "https://insp.cd/les-equipes-provinciales-restent-pleinement-mobilisees-les-activites-se-poursuivent-normalement/",
       "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
@@ -514,10 +556,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "La RDC et l’Ouganda consolident leur coopération transfrontalière pour renforcer la sécurité sanitaire.",
-      "link": "https://insp.cd/la-rdc-et-louganda-consolident-leur-cooperation-transfrontaliere-pour-renforcer-la-securite-sanitaire/",
+      "title": "Immune dysregulation in the prostates of <scp>C57BL</scp> / <scp>6</scp> <sup> <i>Aire</i> −/− </sup> mice mirrors that seen in human benign prostatic hyperplasia",
+      "link": "https://doi.org/10.1002/path.70093",
       "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
-      "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, 6 juillet 2026. Dans le cadre du renforcement de la coopération transfrontalière entre la République démocratique du Congo et la République de l’Ouganda, la Coordination stratégi",
+      "desc": "DOI: 10.1002/path.70093\nAuthors: Nadia A Lanman, Meaghan M Broman, Harish Kothandaraman, Gregory M Cresswell, Gada D Awdalkreem, Dilinaer Wusiman, Andree K Kolliegbo, Alexander P Glaser, Brian T Helfand, Renee E Vickman, Jiang Yang, Simon W Hayward, Timothy L Ratliff\n Abstract \n                   \n                    B",
       "tag": "analysis"
     },
     {
@@ -808,18 +850,18 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Fine particulate matter exposure and long-term lung-function trajectory in adults with cystic fibrosis",
-      "link": "https://doi.org/10.1093/annalsats/aaoag188",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/annalsats/aaoag188\nAuthors: Bob Z Sun, Jonathan D Cogen, Marshall Brown, Anna V Faino, Karen Hinckley Stukovsky, Adam A Szpiro, Lianne Sheppard, Christopher H Goss, Joel Kaufman, Margaret Rosenfeld\n Abstract \n                   \n                     Rationale \n                    <",
-      "tag": "analysis"
-    },
-    {
       "title": "Community Engagement Should be Prioritised in Bundibugyo Ebola Outbreak Fight",
       "link": "https://africacdc.org/news-item/community-engagement-should-be-prioritised-in-bundibugyo-ebola-outbreak-fight/",
       "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
       "desc": "One month after the declaration of the 2026 Bundibugyo Ebola outbreak as both a global and continental public health emergency, transmission continues to expand in eastern Democratic Republic of Congo (DRC) and Uganda despite substantial response efforts. As of 14 June 2026, there were 827 confirmed cases and 194 deaths, with Ituri Province",
       "tag": "pheic"
+    },
+    {
+      "title": "Fine particulate matter exposure and long-term lung-function trajectory in adults with cystic fibrosis",
+      "link": "https://doi.org/10.1093/annalsats/aaoag188",
+      "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/annalsats/aaoag188\nAuthors: Bob Z Sun, Jonathan D Cogen, Marshall Brown, Anna V Faino, Karen Hinckley Stukovsky, Adam A Szpiro, Lianne Sheppard, Christopher H Goss, Joel Kaufman, Margaret Rosenfeld\n Abstract \n                   \n                     Rationale \n                    <",
+      "tag": "analysis"
     },
     {
       "title": "Mammarenavirus-Induced Remodeling of the Cellular Lipid Landscape Reveals Sphingolipid Metabolism as a Novel Target for Antiviral Intervention",
@@ -1102,20 +1144,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
-      "link": "https://doi.org/10.7759/cureus.111921",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
-      "tag": "response"
-    },
-    {
-      "title": "An unusual gastric mass in a patient with human immunodeficiency virus infection",
-      "link": "https://doi.org/10.1016/j.dld.2026.06.011",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.dld.2026.06.011\nAuthors: Aiji Hattori, Yasuhiko Hamada, Hayato Nakagawa",
-      "tag": "analysis"
-    },
-    {
       "title": "Janibacter melonis Bone Marrow Infection in an Immunocompetent Child With Prolonged Fever of Unknown Origin: A case report",
       "link": "https://doi.org/10.21203/rs.3.rs-9920478/v1",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -1137,6 +1165,20 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo &amp; Uganda",
+      "link": "https://doi.org/10.1016/j.ajt.2026.07.001",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.ajt.2026.07.001\nAuthors: Marcus R. Pereira",
+      "tag": "analysis"
+    },
+    {
+      "title": "Detected case growth and outcome heterogeneity during the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda",
+      "link": "https://doi.org/10.21203/rs.3.rs-10090145/v1",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10090145/v1\nAuthors: Tambe Elvis Akem, Eta Calvin Oben\n Abstract \n                 Background\n The 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo (DRC), with cross-border cases in Uganda, evolved amid mobility, insecurity, delayed detection, laboratory constraints, and pressure on",
+      "tag": "cases"
+    },
+    {
       "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
       "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -1151,18 +1193,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Detected case growth and outcome heterogeneity during the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo and Uganda",
-      "link": "https://doi.org/10.21203/rs.3.rs-10090145/v1",
+      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
+      "link": "https://doi.org/10.7759/cureus.111921",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10090145/v1\nAuthors: Tambe Elvis Akem, Eta Calvin Oben\n Abstract \n                 Background\n The 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo (DRC), with cross-border cases in Uganda, evolved amid mobility, insecurity, delayed detection, laboratory constraints, and pressure on",
-      "tag": "cases"
-    },
-    {
-      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo &amp; Uganda",
-      "link": "https://doi.org/10.1016/j.ajt.2026.07.001",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.ajt.2026.07.001\nAuthors: Marcus R. Pereira",
-      "tag": "analysis"
+      "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
+      "tag": "response"
     },
     {
       "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
@@ -1176,6 +1211,13 @@ window.FEED_DATA = {
       "link": "https://www.preprints.org/manuscript/202607.0058",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "Hantaviruses (family Hantaviridae, genus Orthohantavirus) are globally distributed zoonotic RNA viruses maintained in rodent, insectivore, and chiropteran reservoirs, with humans infected mainly through inhalation of aerosolized excreta. They cause two major syndromes: hemorrhagic fever with renal syndrome (HFRS), endemic in Europe and Asia, and ha",
+      "tag": "analysis"
+    },
+    {
+      "title": "An unusual gastric mass in a patient with human immunodeficiency virus infection",
+      "link": "https://doi.org/10.1016/j.dld.2026.06.011",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.dld.2026.06.011\nAuthors: Aiji Hattori, Yasuhiko Hamada, Hayato Nakagawa",
       "tag": "analysis"
     },
     {
@@ -1382,20 +1424,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "PTPN13 Contributes to Ebola Virus-Induced Immune Dysregulation via Dephosphorylation of IRF3 and PI3K-p85",
-      "link": "https://doi.org/10.3390/v18070729",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/v18070729\nAuthors: Abbey N. Warren, Maria Gonzalez-Orozco, Ivan Kuzmin, Sreeja Parameswaran, Ruben Soto Acosta, Birte Kalveram, Sarah van Tol, Adam Hage, Padmanava Behera, Yoatzin Peñaflor-Tellez, Maria I. Giraldo, William Russell, Matthew T. Weirauch, Alexander Freiberg, Alexander Bukreyev, Ricardo Rajsbaum\n Ebola virus disease",
-      "tag": "analysis"
-    },
-    {
-      "title": "Africa CDC calls for urgent US$18 million to close the funding gap on critical research ready to commence",
-      "link": "https://africacdc.org/news-item/africa-cdc-calls-for-urgent-us22-million-to-close-funding-gap-and-stop-bundibugyo-ebola-outbreak/",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "Clinical trials for Ebola therapeutics must begin this week. No licensed vaccine or treatment exists for the Bundibugyo strain, and without immediate financing the response is at risk of collapse.\n\n\n\nADDIS ABABA, 30 June 2026. Africa CDC commends the Government of the Democratic Republic of the Congo, clinical investigators, and development",
-      "tag": "response"
-    },
-    {
       "title": "Rippling muscle disease due to a &lt;i&gt;CAV3&lt;/i&gt; mutation with myocarditis-like presentation in an adolescent",
       "link": "https://doi.org/10.24953/turkjpediatr.2026.7755",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -1410,11 +1438,11 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
-      "link": "https://openalex.org/W7166530626",
+      "title": "PTPN13 Contributes to Ebola Virus-Induced Immune Dysregulation via Dephosphorylation of IRF3 and PI3K-p85",
+      "link": "https://doi.org/10.3390/v18070729",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
-      "tag": "response"
+      "desc": "DOI: 10.3390/v18070729\nAuthors: Abbey N. Warren, Maria Gonzalez-Orozco, Ivan Kuzmin, Sreeja Parameswaran, Ruben Soto Acosta, Birte Kalveram, Sarah van Tol, Adam Hage, Padmanava Behera, Yoatzin Peñaflor-Tellez, Maria I. Giraldo, William Russell, Matthew T. Weirauch, Alexander Freiberg, Alexander Bukreyev, Ricardo Rajsbaum\n Ebola virus disease",
+      "tag": "analysis"
     },
     {
       "title": "Strengthening Risk Communication and Community Engagement in Public Health Emergencies: A Public Health Framework with Biological Science Insights for Trust, Misinformation Management, and Community Resilience",
@@ -1424,25 +1452,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Admission complete blood count-derived inflammatory indices for risk stratification in hemorrhagic fever with renal syndrome: comparative performance of NLR, PLR, SII, LMR, and the neutrophil-to-red blood cell ratio",
-      "link": "https://doi.org/10.3389/fimmu.2026.1863714",
+      "title": "Climate Change and Autochthonous Vector-Borne Disease Transmission in Europe: Dengue as a Sentinel Signal for Surveillance and Preparedness",
+      "link": "https://openalex.org/W7166530626",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fimmu.2026.1863714\nAuthors: Zhuoran Xiao, Xingchi Chen, Min Wei, Shasha Wu, Shuxiang Zhao, Dandan Suo, Shangying Zhao, Meng Li, Xiaofei Yang, Chao Fan, Jianqi Lian, Chuantao Ye, Jing Zhang\n \n                     Background \n                     Hemorrhagic fever with renal syndrome (HFRS) requires",
-      "tag": "analysis"
+      "desc": "DOI: 10.3390/tropicalmed11070182\nAuthors: Maciej Grzybek, Anna Bogacka\nClimate change is reshaping the epidemiology of vector-borne diseases in Europe by altering the ecological conditions that determine vector survival, seasonal activity and pathogen transmission. Rising temperatures, milder winters, prolonged warm seasons and changing precipitati",
+      "tag": "response"
     },
     {
-      "title": "Endometriosis in the early second quarter of the 21st century: paradigm shift",
-      "link": "https://doi.org/10.47407/kr2026.7.5.00848",
+      "title": "Africa CDC calls for urgent US$18 million to close the funding gap on critical research ready to commence",
+      "link": "https://africacdc.org/news-item/africa-cdc-calls-for-urgent-us22-million-to-close-funding-gap-and-stop-bundibugyo-ebola-outbreak/",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.47407/kr2026.7.5.00848\n Endometriosis remains a mysterious steadily progressing disease for reproductive medicine of the 21st century. About 10% of women (190 million) of childbearing age all over the world suffer from the disorder. Despite high prevalence, endometriosis is still diagnosed late. The time from first symptoms to the di",
-      "tag": "analysis"
-    },
-    {
-      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
-      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
-      "tag": "analysis"
+      "desc": "Clinical trials for Ebola therapeutics must begin this week. No licensed vaccine or treatment exists for the Bundibugyo strain, and without immediate financing the response is at risk of collapse.\n\n\n\nADDIS ABABA, 30 June 2026. Africa CDC commends the Government of the Democratic Republic of the Congo, clinical investigators, and development",
+      "tag": "response"
     },
     {
       "title": "Vancomycin Protects Against Lung Injury and Promotes Butyrate Metabolism",
@@ -1473,6 +1494,27 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
+      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
+      "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10006038/v1\nAuthors: Guolong Qu, Zhenyao Song, Weiming Hou\n Abstract \n                 \n                  Background\n Previous studies have primarily examined associations between the incidence of a single infectious disease and individual meteorological or chemical pollution factors. However, the individual and",
+      "tag": "analysis"
+    },
+    {
+      "title": "Admission complete blood count-derived inflammatory indices for risk stratification in hemorrhagic fever with renal syndrome: comparative performance of NLR, PLR, SII, LMR, and the neutrophil-to-red blood cell ratio",
+      "link": "https://doi.org/10.3389/fimmu.2026.1863714",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fimmu.2026.1863714\nAuthors: Zhuoran Xiao, Xingchi Chen, Min Wei, Shasha Wu, Shuxiang Zhao, Dandan Suo, Shangying Zhao, Meng Li, Xiaofei Yang, Chao Fan, Jianqi Lian, Chuantao Ye, Jing Zhang\n \n                     Background \n                     Hemorrhagic fever with renal syndrome (HFRS) requires",
+      "tag": "analysis"
+    },
+    {
       "title": "Antiphospholipid antibodies in acute and post-treatment Lyme disease",
       "link": "https://doi.org/10.1128/iai.00192-26",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -1494,17 +1536,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
-      "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10006038/v1\nAuthors: Guolong Qu, Zhenyao Song, Weiming Hou\n Abstract \n                 \n                  Background\n Previous studies have primarily examined associations between the incidence of a single infectious disease and individual meteorological or chemical pollution factors. However, the individual and",
-      "tag": "analysis"
-    },
-    {
       "title": "Transtheoretical components of evidence-based psychological interventions for stimulant use disorders: a systematically developed taxonomy",
       "link": "https://doi.org/10.31234/osf.io/bd2yk_v2",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.31234/osf.io/bd2yk_v2\nAuthors: Chrysanthi Blithikioti, Camilla Cadorin, Marcella Lucente, Lorena Pizzocri, Giuliano Tomei, Matt Field, Patricia Logullo, Wolfgang Lutz, Toshi A. Furukawa, Ioana Cristea\n Importance: Psychological interventions are a mainstay of treatment for substance use disorders (SUDs), but their ingredients remain unkno",
+      "tag": "analysis"
+    },
+    {
+      "title": "Endometriosis in the early second quarter of the 21st century: paradigm shift",
+      "link": "https://doi.org/10.47407/kr2026.7.5.00848",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.47407/kr2026.7.5.00848\n Endometriosis remains a mysterious steadily progressing disease for reproductive medicine of the 21st century. About 10% of women (190 million) of childbearing age all over the world suffer from the disorder. Despite high prevalence, endometriosis is still diagnosed late. The time from first symptoms to the di",
       "tag": "analysis"
     },
     {
@@ -1704,18 +1746,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Aromatic basil (Ocimum x africanum Lour.) tea as a biolarvacide in dengue haemorrhagic fever",
-      "link": "https://doi.org/10.34011/jmp2k.v36i2.4533",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.34011/jmp2k.v36i2.4533\nAuthors: Citra Amaniah Anhar, Dewi Inderiati, Diah Lestari, Gina Argiyanti\n Background: Dengue Haemorrhagic Fever is a health problem transmitted by the Aedes aegypti mosquito. Dengue fever control currently still uses chemical larvicides (ABATE) that can pose health and environmental risks, thus requiring natu",
-      "tag": "analysis"
-    },
-    {
       "title": "Hubungan Pengetahuan dengan Sikap Mengenai Implementasi Teknologi Wolbachia-Aedes pada Tenaga Kesehatan Kota Cirebon",
       "link": "https://doi.org/10.31004/koloni.v5i2.973",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.31004/koloni.v5i2.973\nAuthors: Tajudin Tajudin, Muhammad Hussein G, Witri Pratiwi\n Dengue Hemorrhagic Fever remains a public health problem, particularly in endemic areas of Indonesia where cases continue to increase. Wolbachia-Aedes technology is an innovative vector control strategy with the potential to reduce dengue virus transmi",
       "tag": "cases"
+    },
+    {
+      "title": "Aromatic basil (Ocimum x africanum Lour.) tea as a biolarvacide in dengue haemorrhagic fever",
+      "link": "https://doi.org/10.34011/jmp2k.v36i2.4533",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.34011/jmp2k.v36i2.4533\nAuthors: Citra Amaniah Anhar, Dewi Inderiati, Diah Lestari, Gina Argiyanti\n Background: Dengue Haemorrhagic Fever is a health problem transmitted by the Aedes aegypti mosquito. Dengue fever control currently still uses chemical larvicides (ABATE) that can pose health and environmental risks, thus requiring natu",
+      "tag": "analysis"
     },
     {
       "title": "LATE DIAGNOSIS OF CHRONIC KIDNEY DISEASE IN A CHILD WITH A HYPOREFLEXIVE BLADDER: A CASE REPORT AND LITERATURE REVIEW",
@@ -1732,13 +1774,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Arming Inactivated Enveloped Virus Vaccines with the GGTA1 Gene: A Potent Method for Amplification of Viral Vaccines Effectiveness and Protection Against Variants",
-      "link": "https://doi.org/10.3390/vaccines14070571",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/vaccines14070571\nAuthors: Uri Galili\n This review describes a novel method for increasing the effectiveness of inactivated enveloped whole-virus vaccines by targeting them for extensive uptake by antigen-presenting cells (APCs). Several inactivated whole-virus vaccines with dense glycan shields display suboptimal effectiveness b",
-      "tag": "analysis"
-    },
-    {
       "title": "Correlates of protection against African swine fever virus identified by a systems immunology approach.",
       "link": "https://europepmc.org/article/MED/42372005",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
@@ -1750,6 +1785,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1136/sextrans-2025-056863",
       "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.1136/sextrans-2025-056863\nAuthors: Caroline G Watts, Louise M Causer, Susan J Matthews, Kirsty Smith, Kelly Andrewartha, Annie Tangey, Ben B Hui, Rae-Lin Huang, David Anderson, Steven G Badman, Basil Donovan, Christopher K Fairley, Manoji Gunathilake, Belinda Hengel, John Kaldor, Lisa Maher, Donna B Mak, David Persing, David G Regan, Mark D",
+      "tag": "analysis"
+    },
+    {
+      "title": "Arming Inactivated Enveloped Virus Vaccines with the GGTA1 Gene: A Potent Method for Amplification of Viral Vaccines Effectiveness and Protection Against Variants",
+      "link": "https://doi.org/10.3390/vaccines14070571",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/vaccines14070571\nAuthors: Uri Galili\n This review describes a novel method for increasing the effectiveness of inactivated enveloped whole-virus vaccines by targeting them for extensive uptake by antigen-presenting cells (APCs). Several inactivated whole-virus vaccines with dense glycan shields display suboptimal effectiveness b",
       "tag": "analysis"
     },
     {
@@ -1842,48 +1884,6 @@ window.FEED_DATA = {
       "pubDate": "Fri, 26 Jun 2026 19:02:00 Z",
       "desc": "Please note: This transcript has not been edited and may contain errors. 00:21:22 Operator. Good afternoon and thank you all for standing by. For the duration of today's call all listeners are in a listen-only mode until the question-and-answer session.",
       "tag": "analysis"
-    },
-    {
-      "title": "La OPS y África CDC fortalecen capacidades de las Américas para la preparación y respuesta ante el ébola",
-      "link": "https://www.paho.org/es/noticias/26-6-2026-ops-africa-cdc-fortalecen-capacidades-americas-para-preparacion-respuesta-ante",
-      "pubDate": "Fri, 26 Jun 2026 17:33:00 Z",
-      "desc": "Reunión técnica virtual, en colaboración con el Ministerio de Salud de Brasil, promovió el intercambio de lecciones aprendidas y el blindaje epidemiológico preventivo en el continente. Washington D.C., Junio 26, 2026 . Con el propósito de robustecer los sistemas de vigilancia y elevar los niveles de....",
-      "tag": "response"
-    },
-    {
-      "title": "Read the full HTML edition →",
-      "link": "https://www.who.int/publications/journals/weekly-epidemiological-record/WER101-25",
-      "pubDate": "Fri, 26 Jun 2026 17:07:00 Z",
-      "desc": "At the same time, the WER increasingly documented risks extending beyond classical infectious disease outbreaks. Climate-sensitive health threats, including changes in the geographic range of vector-borne diseases, appeared with growing frequency. Articles examining vaccine safety, influenza strain....",
-      "tag": "analysis"
-    },
-    {
-      "title": "26 June 2026 Statement TAG-TP statement on immunomodulators and host-directed therapies for Bundibugyo virus disease",
-      "link": "https://www.who.int/news/item/26-06-2026-tag-tp-statement-on-immunomodulators-and-host-directed-therapies-for-bundibugyo-virus-disease",
-      "pubDate": "Fri, 26 Jun 2026 17:07:00 Z",
-      "desc": "In the context of prioritization of therapeutics to be included in clinical research for Bundibugyo virus disease (BVD) the Technical Advisory Group on Therapeutics Prioritization TAG-TP) has begun examining the landscape of immunomodulatory and host-directed new or repurposed agents.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Download full edition (PDF)",
-      "link": "https://iris.who.int/server/api/core/bitstreams/c40b36a4-95cc-4861-ad84-7bfae0e1a9cf/content",
-      "pubDate": "Fri, 26 Jun 2026 17:07:00 Z",
-      "desc": "Weekly epidemiological record 100 YEARS OF THE WEEKLY EPIDEMIOLOGICAL RECORD No. 25, 2026, 101, 87 http://www.who.int/wer 26 June 2026 Contents 87. Highlighted Signals and Events 88. Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo and Uganda 90. Hantavirus outbreak linked to cruise ship travel, multiple locations 90.",
-      "tag": "response"
-    },
-    {
-      "title": "France : ce que l’on sait du premier cas d’Ebola détecté en France Patrick GEROME - 26/06/2026 Lire plus➟",
-      "link": "https://www.mesvaccins.net/web/news/24220-france-ce-que-l-on-sait-du-premier-cas-d-ebola-detecte-en-france",
-      "pubDate": "Fri, 26 Jun 2026 15:43:00 Z",
-      "desc": "France : ce que l’on sait du premier cas d’Ebola détecté en France.\n\nConcernant le cas importé. Selon le ministère de la Santé, le cas de maladie d'Ebola à virus Bundibugyo importé en France concerne un médecin travaillant pour l'ONG humanitaire Alima .",
-      "tag": "analysis"
-    },
-    {
-      "title": "Milder Symptoms in Ebola Outbreak Make Contact Tracing Even More Difficult",
-      "link": "https://globalbiodefense.com/2026/06/24/milder-symptoms-in-ebola-outbreak-make-contact-tracing-even-more-difficult/",
-      "pubDate": "Fri, 26 Jun 2026 14:51:00 Z",
-      "desc": "Contact tracing has always been one of the most demanding and resource-intensive tools in outbreak response. It requires identifying every person a sick individual has encountered, locating those people, monitoring them for signs of illness, and repeating the process across an entire epidemic curve.",
-      "tag": "response"
     }
   ],
   "highWater": {
