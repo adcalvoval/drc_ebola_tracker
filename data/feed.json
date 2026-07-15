@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 15 Jul 2026 19:14:01 Z",
-  "fetchedAt": "2026-07-15T19:14:02Z",
+  "lastBuildDate": "Wed, 15 Jul 2026 22:02:41 Z",
+  "fetchedAt": "2026-07-15T22:02:41Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -209,6 +209,27 @@
       "tag": "analysis"
     },
     {
+      "title": "Africa CDC calls for more protection for health workers as deadly Ebola outbreak shows no sign of slowing",
+      "link": "https://www.cidrap.umn.edu/ebola/africa-cdc-calls-more-protection-health-workers-deadly-ebola-outbreak-shows-no-sign-slowing",
+      "pubDate": "Mon, 13 Jul 2026 21:02:00 Z",
+      "desc": "The leader of the Africa Centre for Disease Prevention and Control (Africa CDC), is calling for stronger protections for first responders, including more gear and enhanced safety protocols in light of the Ebola outbreak in the Democratic Republic of the Congo (DRC), which is officially entering its....",
+      "tag": "analysis"
+    },
+    {
+      "title": "German Hospital Treats US Ebola Patient Infected in Congo Reuters Health InformationJuly 13, 2026",
+      "link": "https://www.medscape.com/s/viewarticle/german-hospital-treats-us-ebola-patient-infected-congo-2026a1000nlr",
+      "pubDate": "Mon, 13 Jul 2026 20:37:00 Z",
+      "desc": "BERLIN, July 13 (Reuters) - A U.S. citizen infected with the Ebola virus in Democratic Republic of Congo ⁠was admitted to Frankfurt University Hospital early on Monday, officials said.\n\nThe patient arrived at the hospital's special ⁠isolation unit at around 3 a.m.",
+      "tag": "analysis"
+    },
+    {
+      "title": "刚果（金）埃博拉疫情仍未平息，蔓延至另外两省 - 观察者网",
+      "link": "https://www.guancha.cn/internation/2026_07_13_823627.shtml",
+      "pubDate": "Mon, 13 Jul 2026 20:25:00 Z",
+      "desc": "Ebola -- DR Congo. Significance Rating: 1 刚果（金）埃博拉疫情仍未平息，蔓延至另外两省&nbsp;&nbsp;观察者网",
+      "tag": "analysis"
+    },
+    {
       "title": "Tucumán amplía la vacunación antigripal y sostiene el control epidemiológico",
       "link": "https://msptucuman.gov.ar/tucuman-amplia-la-vacunacion-antigripal-y-sostiene-el-control-epidemiologico/",
       "pubDate": "Mon, 13 Jul 2026 19:53:00 Z",
@@ -216,10 +237,66 @@
       "tag": "analysis"
     },
     {
+      "title": "Human Cases of Borrelia miyamotoi Disease, Slovenia, 2025",
+      "link": "https://wwwnc.cdc.gov/eid/article/32/8/26-0326_article",
+      "pubDate": "Mon, 13 Jul 2026 18:24:00 Z",
+      "desc": "The Study. Participants qualified for our study if they met the following criteria: adult patients with acute febrile illness ( 38°C for 2 days), without localizing signs, who remained without diagnosis after standard laboratory testing and were evaluated at the Department of Infectious Diseases,....",
+      "tag": "cases"
+    },
+    {
+      "title": "Detection of Dengue Virus in Aedes aegypti Mosquitoes, Dubai, United Arab Emirates",
+      "link": "https://wwwnc.cdc.gov/eid/article/32/8/26-0324_article",
+      "pubDate": "Mon, 13 Jul 2026 18:24:00 Z",
+      "desc": "Author affiliation: University of Veterinary Medicine Vienna, Vienna, Austria (N. Nowotny); Mohammed Bin Rashid University of Medicine and Health Sciences, Dubai Health, Dubai, United Arab Emirates (N. Nowotny, N. Karuvantevida, N. Nassir, D. Advani, M. Uddin, H. Alsuwaidi, A. Alsheikh-Ali); Dubai Municipality, Dubai (E.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Enhancing Early Warning Outbreak Detection Using Multi Model Stacking Ensemble",
+      "link": "https://www.medrxiv.org/content/10.64898/2026.07.09.26357658v1?rss=1",
+      "pubDate": "Mon, 13 Jul 2026 17:42:00 Z",
+      "desc": "Abstract. Background: Evaluating outbreak detection models is a key component of syndromic surveillance. However, balancing timeliness, predictive performance, and local surveillance constraints remains a major challenge. We developed and assessed whether stacking ensemble approaches, which....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Did His Unusual Dinner Lead to a Tape Worm 50 Years Later?",
+      "link": "https://www.medpagetoday.com/casestudies/infectiousdisease/122165",
+      "pubDate": "Mon, 13 Jul 2026 17:33:00 Z",
+      "desc": "During surgery to repair a hernia in a 71-year-old man's right groin, his doctors discovered something unexpected: a tapeworm. The surgeons fished the 10-inch long worm out carefully and recorded the extraction of this infection rarely seen in the peritoneal cavity. Even outside the body, the live worm could be seen undulating on the table.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ring and community vaccination for Bundibugyo ebolavirus outbreak response: a stochastic network modelling study",
+      "link": "https://www.medrxiv.org/content/10.64898/2026.07.09.26357654v1?rss=1",
+      "pubDate": "Mon, 13 Jul 2026 17:18:00 Z",
+      "desc": "Abstract. Background: Vaccination with rVSV-ZEBOV is highly effective against Zaire ebolavirus, but protection against Bundibugyo ebolavirus (BDBV) is unknown. We used a stochastic network model of the 2026 Democratic Republic of the Congo BDBV outbreak to evaluate the potential impact of a....",
+      "tag": "response"
+    },
+    {
+      "title": "Hepatitis A Outbreak in Skilled Nursing Facility, Los Angeles County, California, USA, 2025",
+      "link": "https://wwwnc.cdc.gov/eid/article/32/8/26-0202_article",
+      "pubDate": "Mon, 13 Jul 2026 16:48:00 Z",
+      "desc": "We identified the first HepA case (case A) in a closed 38-bed unit intended for patients with cognitive or behavioral health needs (unit 1) ( Figure 1 ). After the first case was identified, LAC DPH staff administered the HepA vaccine to all 34 residents without documented immunity in unit 1 ( Figure 2 ).",
+      "tag": "analysis"
+    },
+    {
+      "title": "Weekly Bulletin EW 22, 2026",
+      "link": "https://www.moh.gov.jm/wp-content/uploads/2026/07/Weekly-Bulletin-EW-22-2026.pdf",
+      "pubDate": "Mon, 13 Jul 2026 15:54:00 Z",
+      "desc": "Week ending June 6, 2026 Epidemiological Week 22 WEEKLY EPIDEMIOLOGY BULLETIN NATIONAL SURVEILLANCE UNIT, MINISTRY OF HEALTH & WELLNESS, JAMAICA Weekly Spotlight Air Pollution Air pollution is contamination of the indoor or outdoor environment by any chemical, physical or biological agent that modifies the natural characteristics of the atmosphere.",
+      "tag": "analysis"
+    },
+    {
       "title": "Riposte contre Ebola : L’Ouganda,",
       "link": "https://echosante.info/riposte-contre-ebola-louganda-modele-de-maitrise-face-a-une-rdc-en-proie-a-lurgence/",
       "pubDate": "Mon, 13 Jul 2026 15:27:00 Z",
       "desc": "Alors qu’en Ouganda la menace Ebola vient d’être annoncée sous contrôle par Africa CDC, la République Démocratique du Congo (RDC) peine encore à contenir l’épidémie la plus fulgurante de son histoire. Entre succès logistique et crise humanitaire, le continent africain est à la croisée des chemins.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Weekly Bulletin EW 23, 2026",
+      "link": "https://www.moh.gov.jm/wp-content/uploads/2026/07/Weekly-Bulletin-EW-23-2026.pdf",
+      "pubDate": "Mon, 13 Jul 2026 15:23:00 Z",
+      "desc": "Week ending June 13, 2026 Epidemiological Week 23 WEEKLY EPIDEMIOLOGY BULLETIN NATIONAL SURVEILLANCE UNIT, MINISTRY OF HEALTH & WELLNESS, JAMAICA Weekly Spotlight Mental Health Mental health is a state of mental well-being that enables people to cope with the stresses of life, realize their....",
       "tag": "analysis"
     },
     {
@@ -241,6 +318,41 @@
       "link": "https://voyage.gc.ca/voyager/sante-securite/conseils-sante-voyageurs/550",
       "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
       "desc": "Date de publication originale : 26 mai 2026. Mise à jour : 2 juillet 2026 Destinations touchées Ouganda Points clés La maladie Ebola est causée par un groupe de virus qui se transmettent par contact avec les fluides corporels de personnes ou d'animaux présentant des symptômes de la maladie. Cette maladie est grave et souvent mortelle.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Sierra Leone’s Health Minister Excites Global Community with Progress on Child Survival",
+      "link": "https://mohs.gov.sl/sierra-leones-health-minister-excites-global-community-with-progress-on-child-survival/",
+      "pubDate": "Mon, 13 Jul 2026 15:18:00 Z",
+      "desc": "Minister of Health, Dr. Austin Demby, delivering a powerful keynote statement at the official opening of the just concluded Global Forum on Innovation and Action for Immunisation & Child Survival in Maputo, Mozambique. Sierra Leone’s strides at improving child survival was spotlighted at the just....",
+      "tag": "analysis"
+    },
+    {
+      "title": "In a Defining Moment for Public Health Response in Sierra Leone, Health Minister Declares the Mpox Outbreak Over.",
+      "link": "https://mohs.gov.sl/in-a-defining-moment-for-public-health-response-in-sierra-leone-health-minister-declares-the-mpox-outbreak-over/",
+      "pubDate": "Mon, 13 Jul 2026 15:18:00 Z",
+      "desc": "The Minister of Health, Dr. Austin Demby, officially declares Mpox over in Sierra Leone at City Hall in Freetown. The people of Sierra Leone are smiling once again after achieving another significant milestone in the fight against public health outbreaks of international concern. On Monday 15th December, 2025, the Minister of Health, Dr.",
+      "tag": "response"
+    },
+    {
+      "title": "April 30, 2026",
+      "link": "https://mohs.gov.sl/ecowas-health-ministers-adopt-the-freetown-charter-what-is-it-and-why-does-it-matter/",
+      "pubDate": "Mon, 13 Jul 2026 15:18:00 Z",
+      "desc": "Health Ministers of ECOWAS member states pose for a group photograp after the official opening of the just concluded 27 th Ordinary Session in Freetown. Described as the best health ministers conference since its inception, Sierra Leone proudly achieved a great feat not just in hosting the 27 th....",
+      "tag": "analysis"
+    },
+    {
+      "title": "“The Health Travel Portal Will Strengthen Border Security Amid Ongoing Ebola Outbreak Elsewhere” Dr. Austin Demby",
+      "link": "https://mohs.gov.sl/the-health-travel-portal-will-strengthen-border-security-amid-ongoing-ebola-outbreak-elsewhere-dr-austin-demby/",
+      "pubDate": "Mon, 13 Jul 2026 15:18:00 Z",
+      "desc": "Minister of Health Dr. Austin Demby, central, officially launching the new health travel portal at the Lungi International Airport. The Minister of Health, Dr. Austin Demby, has launched Sierra Leone’s health travel portal at the Lungi International Airport.",
+      "tag": "response"
+    },
+    {
+      "title": "Weekly Bulletin EW 24, 2026",
+      "link": "https://www.moh.gov.jm/wp-content/uploads/2026/07/Weekly-Bulletin-EW-24-2026.pdf",
+      "pubDate": "Mon, 13 Jul 2026 14:53:00 Z",
+      "desc": "Week ending June 20, 2026 Epidemiological Week 24 WEEKLY EPIDEMIOLOGY BULLETIN NATIONAL SURVEILLANCE UNIT, MINISTRY OF HEALTH & WELLNESS, JAMAICA Weekly Spotlight Abuse of Older People (Elder Abuse) The abuse of older people, also known as elder abuse, is an intentional act, or failure to act, by a....",
       "tag": "analysis"
     },
     {
@@ -286,20 +398,6 @@
       "tag": "cases"
     },
     {
-      "title": "Jennefer N Carter",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Carter+JN&cauthor_id=42439107",
-      "pubDate": "Mon, 13 Jul 2026 10:41:00 Z",
-      "desc": "Anderson EN, Drukewitz S, Kour S, Chimata AV, Rajan DS, Schönnagel S, Stals KL, Donnelly D, O'Sullivan S, Mantovani JF, Tan TY, Stark Z, Zacher P, Chatron N, Monin P, Drunat S, Vial Y, Latypova X, Levy J, Verloes A, Carter JN , Bonner DE, Shankar SP, Bernstein JA, Cohen JS, Comi A, Carere DA, Dyer....",
-      "tag": "analysis"
-    },
-    {
-      "title": "\"It didn't feel like anything unusual because we had already been through so much\": Disability-Related Research Experiences of Families with Children Enrolled in the Undiagnosed Diseases Network",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42439107/",
-      "pubDate": "Mon, 13 Jul 2026 10:41:00 Z",
-      "desc": "Purpose: In recent years, researchers have brought attention to the underrepresentation of people with disabilities in biomedical research, including genomics research. However, little is known about how disability-related experiences influence participation in rare disease research.",
-      "tag": "analysis"
-    },
-    {
       "title": "Krysta S Barton",
       "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Barton+KS&cauthor_id=42439107",
       "pubDate": "Mon, 13 Jul 2026 10:41:00 Z",
@@ -311,6 +409,20 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Cho+MK&cauthor_id=42439107",
       "pubDate": "Mon, 13 Jul 2026 10:41:00 Z",
       "desc": "Mintz KT, Altamirano EN, Halley MC, Barton KS, Cho MK , Bernstein JA, Carter JN; Undiagnosed Diseases Network; Tabor HK. Mintz KT, et al. Among authors: cho mk Genet Med. 2026 Jul 13:102663. doi: 10.1016/j.gim.2026.102663. Online ahead of print. Genet Med. 2026. PMID: 42439107.\n\nCho MK , Lee Y, Kim KD, Choi MH, Park SQ, Lee SH, Nam HS, Lee YJ.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Jennefer N Carter",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Carter+JN&cauthor_id=42439107",
+      "pubDate": "Mon, 13 Jul 2026 10:41:00 Z",
+      "desc": "Anderson EN, Drukewitz S, Kour S, Chimata AV, Rajan DS, Schönnagel S, Stals KL, Donnelly D, O'Sullivan S, Mantovani JF, Tan TY, Stark Z, Zacher P, Chatron N, Monin P, Drunat S, Vial Y, Latypova X, Levy J, Verloes A, Carter JN , Bonner DE, Shankar SP, Bernstein JA, Cohen JS, Comi A, Carere DA, Dyer....",
+      "tag": "analysis"
+    },
+    {
+      "title": "\"It didn't feel like anything unusual because we had already been through so much\": Disability-Related Research Experiences of Families with Children Enrolled in the Undiagnosed Diseases Network",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42439107/",
+      "pubDate": "Mon, 13 Jul 2026 10:41:00 Z",
+      "desc": "Purpose: In recent years, researchers have brought attention to the underrepresentation of people with disabilities in biomedical research, including genomics research. However, little is known about how disability-related experiences influence participation in rare disease research.",
       "tag": "analysis"
     },
     {
@@ -440,18 +552,18 @@
       "tag": "cases"
     },
     {
-      "title": "$1B Program To Boost Glove Supply Exposes Challenges Of Bringing Manufacturing Back To US",
-      "link": "https://kffhealthnews.org/morning-breakout/health-industry-071026/",
-      "pubDate": "Fri, 10 Jul 2026 13:38:00 Z",
-      "desc": "A nearly $1 billion effort failed to bring medical glove manufacturing back to the US. An FDA study found heavy metals in tampons aren’t a cause for concern. Novo Nordisk wants ingredient discounts for its obesity medicines. Roche beat Amgen and Bristol-Myers in a battle of lung cancer drugs.",
-      "tag": "analysis"
-    },
-    {
       "title": "Today, July 10",
       "link": "https://kffhealthnews.org/morning-briefing/friday-july-10-2026/",
       "pubDate": "Fri, 10 Jul 2026 13:38:00 Z",
       "desc": "In parts of the country, including southeast Michigan and northern Ohio, clinicians are tracking scores of cases of sudden, explosive diarrhea and gastrointestinal illness caused by the parasite Cyclospora cayetanensi. Michigan now has 1,251 cases of cyclosporiasis, according to state officials....",
       "tag": "cases"
+    },
+    {
+      "title": "$1B Program To Boost Glove Supply Exposes Challenges Of Bringing Manufacturing Back To US",
+      "link": "https://kffhealthnews.org/morning-breakout/health-industry-071026/",
+      "pubDate": "Fri, 10 Jul 2026 13:38:00 Z",
+      "desc": "A nearly $1 billion effort failed to bring medical glove manufacturing back to the US. An FDA study found heavy metals in tampons aren’t a cause for concern. Novo Nordisk wants ingredient discounts for its obesity medicines. Roche beat Amgen and Bristol-Myers in a battle of lung cancer drugs.",
+      "tag": "analysis"
     },
     {
       "title": "Une Américaine de 56 ans pensait souffrir d'une maladie inconnue : en réalité, sa prothèse de hanche empoisonnait son sang au cobalt",
@@ -482,17 +594,17 @@
       "tag": "analysis"
     },
     {
-      "title": "AI-Driven Discovery and BSL-4 Validation of Cross-Filovirus Ebola-Marburg Inhibitors and their Synergistic Combinations",
-      "link": "https://doi.org/10.64898/2026.07.09.737586",
-      "pubDate": "Fri, 10 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.09.737586\nAuthors: Holli-Joi Martin, Marcus Tullius Scotti, Sankalp Jain, Laura McMullan, Payel Chatterjee, Cleber Melo-Filho, Maximilian Caza, Alexander Tropsha, Hsiuling Lin, Mike Flint, Emily M. Lee, Michael K Lo, Alexey V. Zakharov, Eugene Muratov\n Filovirus outbreaks caused by Ebola virus (EBOV) and Marburg virus (",
-      "tag": "analysis"
-    },
-    {
       "title": "Global Patent Landscape and Technological Trends in Biosafety Level 3 (BSL-3) Laboratories Technologies",
       "link": "https://doi.org/10.3390/biotech15030052",
       "pubDate": "Fri, 10 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/biotech15030052\nAuthors: Milca de J. Silva, Roni D. Vinhas, Helena S. da Hora, Saada L. C. Fernandez, Hayna Malta-Santos, Hugo Saba, Camila D. F. Ribeiro, Marilda de S. Gonçalves, Bruna A. S. Machado\n Biosafety Level 3 (BSL-3) laboratories are essential for handling high-risk pathogens and strengthening global health security. T",
+      "tag": "analysis"
+    },
+    {
+      "title": "AI-Driven Discovery and BSL-4 Validation of Cross-Filovirus Ebola-Marburg Inhibitors and their Synergistic Combinations",
+      "link": "https://doi.org/10.64898/2026.07.09.737586",
+      "pubDate": "Fri, 10 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.09.737586\nAuthors: Holli-Joi Martin, Marcus Tullius Scotti, Sankalp Jain, Laura McMullan, Payel Chatterjee, Cleber Melo-Filho, Maximilian Caza, Alexander Tropsha, Hsiuling Lin, Mike Flint, Emily M. Lee, Michael K Lo, Alexey V. Zakharov, Eugene Muratov\n Filovirus outbreaks caused by Ebola virus (EBOV) and Marburg virus (",
       "tag": "analysis"
     },
     {
@@ -643,17 +755,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Les équipes provinciales restent pleinement mobilisées, les activités se poursuivent normalement.",
-      "link": "https://insp.cd/les-equipes-provinciales-restent-pleinement-mobilisees-les-activites-se-poursuivent-normalement/",
-      "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
-      "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nIturi,le 06 juillet 2026. L’Institut National de Santé Publique (INSP), à travers le Centre des Opérations d’Urgences de Santé Publique (COUSP), informe que les activités de la riposte",
-      "tag": "analysis"
-    },
-    {
       "title": "La RDC et l’Ouganda consolident leur coopération transfrontalière pour renforcer la sécurité sanitaire.",
       "link": "https://insp.cd/la-rdc-et-louganda-consolident-leur-cooperation-transfrontaliere-pour-renforcer-la-securite-sanitaire/",
       "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
       "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, 6 juillet 2026. Dans le cadre du renforcement de la coopération transfrontalière entre la République démocratique du Congo et la République de l’Ouganda, la Coordination stratégi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Les équipes provinciales restent pleinement mobilisées, les activités se poursuivent normalement.",
+      "link": "https://insp.cd/les-equipes-provinciales-restent-pleinement-mobilisees-les-activites-se-poursuivent-normalement/",
+      "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
+      "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nIturi,le 06 juillet 2026. L’Institut National de Santé Publique (INSP), à travers le Centre des Opérations d’Urgences de Santé Publique (COUSP), informe que les activités de la riposte",
       "tag": "analysis"
     },
     {
@@ -671,18 +783,18 @@
       "tag": "analysis"
     },
     {
-      "title": "G protein-coupled receptor SmGPCR9 interacts with neuropeptides and controls spermatogenesis in Schistosoma mansoni",
-      "link": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014096",
-      "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
-      "desc": "Schistosomiasis is a neglected tropical disease caused by parasitic flatworms of the genus Schistosoma , impacting hundreds of millions of people and animals globally. Disease pathology primarily originates from host immune responses to parasite eggs, which are produced only when female schistosomes are continuously paired with males.",
-      "tag": "response"
-    },
-    {
       "title": "2 juillet 2026 Allocution liminaire du Directeur général de l’OMS lors du point de presse du 2 juillet 2026",
       "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---2-july-2026",
       "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
       "desc": "Bonjour à toutes les personnes présentes aujourd’hui, et bonjour ou bonsoir à toutes celles qui nous rejoignent en ligne. Aujourd’hui, la dernière personne ayant été en contact avec une personne exposée au hantavirus à bord du navire de croisière MV Hondius a terminé sa période de quarantaine, a été testée négative et est rentrée chez elle.",
       "tag": "analysis"
+    },
+    {
+      "title": "G protein-coupled receptor SmGPCR9 interacts with neuropeptides and controls spermatogenesis in Schistosoma mansoni",
+      "link": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014096",
+      "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
+      "desc": "Schistosomiasis is a neglected tropical disease caused by parasitic flatworms of the genus Schistosoma , impacting hundreds of millions of people and animals globally. Disease pathology primarily originates from host immune responses to parasite eggs, which are produced only when female schistosomes are continuously paired with males.",
+      "tag": "response"
     },
     {
       "title": "El Ministerio de Salud refuerza la vigilancia epidemiológica y llama a completar los esquemas de vacunación",
@@ -1091,6 +1203,13 @@
       "tag": "analysis"
     },
     {
+      "title": "À Kinshasa, le Président Tshisekedi donne une impulsion à la riposte contre Ebola avec l’appui solidaire du Président Ramaphosa",
+      "link": "https://africacdc.org/news-item/a-kinshasa-le-president-tshisekedi-donne-une-impulsion-a-la-riposte-contre-ebola-avec-lappui-solidaire-du-president-ramaphosa/",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
+      "desc": "Une rencontre convoquée par Africa CDC à l’INRB pour accélérer la coordination, la mobilisation des ressources et l’appui aux zones affectées\n\n\n\nKINSHASA, République démocratique du Congo, 2 juillet 2026 – Le Président de la République démocratique du Congo, S.E. M. Félix Antoine Tshisekedi Tshilombo, a accueilli ce jour le Président de la R",
+      "tag": "analysis"
+    },
+    {
       "title": "Mucin-induced metabolic reprogramming in <i>Pseudomonas aeruginosa</i> clinical isolates",
       "link": "https://doi.org/10.1128/msystems.00580-26",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
@@ -1102,13 +1221,6 @@
       "link": "https://doi.org/10.1111/hae.70352",
       "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1111/hae.70352\nAuthors: Azusa Nagao, Fumikazu Shimamura, Kosuke Iwasaki",
-      "tag": "analysis"
-    },
-    {
-      "title": "À Kinshasa, le Président Tshisekedi donne une impulsion à la riposte contre Ebola avec l’appui solidaire du Président Ramaphosa",
-      "link": "https://africacdc.org/news-item/a-kinshasa-le-president-tshisekedi-donne-une-impulsion-a-la-riposte-contre-ebola-avec-lappui-solidaire-du-president-ramaphosa/",
-      "pubDate": "Thu, 02 Jul 2026 00:00:00 Z",
-      "desc": "Une rencontre convoquée par Africa CDC à l’INRB pour accélérer la coordination, la mobilisation des ressources et l’appui aux zones affectées\n\n\n\nKINSHASA, République démocratique du Congo, 2 juillet 2026 – Le Président de la République démocratique du Congo, S.E. M. Félix Antoine Tshisekedi Tshilombo, a accueilli ce jour le Président de la R",
       "tag": "analysis"
     },
     {
@@ -1245,20 +1357,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
-      "link": "https://doi.org/10.7759/cureus.111921",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
-      "tag": "response"
-    },
-    {
-      "title": "An unusual gastric mass in a patient with human immunodeficiency virus infection",
-      "link": "https://doi.org/10.1016/j.dld.2026.06.011",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.dld.2026.06.011\nAuthors: Aiji Hattori, Yasuhiko Hamada, Hayato Nakagawa",
-      "tag": "analysis"
-    },
-    {
       "title": "Janibacter melonis Bone Marrow Infection in an Immunocompetent Child With Prolonged Fever of Unknown Origin: A case report",
       "link": "https://doi.org/10.21203/rs.3.rs-9920478/v1",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -1280,13 +1378,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
-      "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "Highlights•A BiLSTM-based model enables early interpretation of RT-qPCR amplification curves.•Fluorescence values are accurately predicted using early-cycle qPCR data.•Reliable qualitative classification is achieved using only 27 amplification cycles.•The method reduces required qPCR cycles by approximately 40%.•The approach can be integrated into",
-      "tag": "analysis"
-    },
-    {
       "title": "Elimination of gambiense human African trypanosomiasis as a public health problem in Republic of Guinea: Paving the way for zero transmission",
       "link": "https://doi.org/10.1371/journal.pntd.0014469",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -1301,6 +1392,20 @@
       "tag": "cases"
     },
     {
+      "title": "Artificial intelligence-assisted technology to reduce turnaround time for rapid diagnosis of infectious diseases",
+      "link": "https://www.sciencedirect.com/science/article/pii/S016609342600056X?dgcid=rss_sd_all",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "Highlights•A BiLSTM-based model enables early interpretation of RT-qPCR amplification curves.•Fluorescence values are accurately predicted using early-cycle qPCR data.•Reliable qualitative classification is achieved using only 27 amplification cycles.•The method reduces required qPCR cycles by approximately 40%.•The approach can be integrated into",
+      "tag": "analysis"
+    },
+    {
+      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities",
+      "link": "https://doi.org/10.7759/cureus.111921",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.7759/cureus.111921\nAuthors: Prasanta R Mohapatra, Baijayantimala Mishra",
+      "tag": "response"
+    },
+    {
       "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo &amp; Uganda",
       "link": "https://doi.org/10.1016/j.ajt.2026.07.001",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
@@ -1308,10 +1413,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
-      "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
+      "title": "An unusual gastric mass in a patient with human immunodeficiency virus infection",
+      "link": "https://doi.org/10.1016/j.dld.2026.06.011",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
+      "desc": "DOI: 10.1016/j.dld.2026.06.011\nAuthors: Aiji Hattori, Yasuhiko Hamada, Hayato Nakagawa",
       "tag": "analysis"
     },
     {
@@ -1322,10 +1427,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Ebola Virus Disease: Epidemiology, Transmission, Diagnosis, Prevention, and Recent Advances-A Comprehensive Review",
-      "link": "https://doi.org/10.33545/26646862.2026.v8.i7a.394",
+      "title": "Reactivation of Undiagnosed Chagas Disease in a Heart Transplant Recipient",
+      "link": "https://doi.org/10.1016/j.healun.2026.02.1463",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.33545/26646862.2026.v8.i7a.394\nAuthors: Kinshuk ., Dinesh Jindal, Vipin Kumar Singhal, Vishal Garg",
+      "desc": "DOI: 10.1016/j.healun.2026.02.1463\nAuthors: E. Bilgili, D. Rinde-Hoffman, D. Surajbali",
       "tag": "analysis"
     },
     {
@@ -1343,10 +1448,31 @@
       "tag": "analysis"
     },
     {
-      "title": "Rare variants in genes related to inborn errors of immunity in patients with rheumatoid arthritis and secondary immunodeficiency",
-      "link": "https://doi.org/10.1136/rmdopen-2026-007046",
+      "title": "Ebola Virus Disease: Epidemiology, Transmission, Diagnosis, Prevention, and Recent Advances-A Comprehensive Review",
+      "link": "https://doi.org/10.33545/26646862.2026.v8.i7a.394",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/rmdopen-2026-007046\nAuthors: Faranaz Atschekzei, Natalia Dubrowinskaja, Manfred Anim, Doris Steinemann, Sandra von Hardenberg, Winfried Hofmann, Robert Geffers, Torsten Witte, Georgios Sogkas\n \n                     Objectives \n                     Treatment of rheumatoid arthritis (RA) relies on i",
+      "desc": "DOI: 10.33545/26646862.2026.v8.i7a.394\nAuthors: Kinshuk ., Dinesh Jindal, Vipin Kumar Singhal, Vishal Garg",
+      "tag": "analysis"
+    },
+    {
+      "title": "Brote de hantavirus Andes vinculado a un crucero transatlántico: Evaluación del riesgo para España",
+      "link": "https://doi.org/10.4321/s2173-92772026000200002",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.4321/s2173-92772026000200002\nAuthors: María Cruz Calvo-Reyes, Sara Montenegro-Jaramillo, Laura Santos-Larrégola, Pedro Valdivia-Prieto, Lucía García-San Miguel, María José Sierra-Moros\n The Andes hantavirus (ANDV) outbreak linked to a transatlantic cruise ship in May 2026 represented an unusual public health event. A total of 13 case",
+      "tag": "analysis"
+    },
+    {
+      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
+      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
+      "link": "https://doi.org/10.71320/bcs.0019",
+      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
       "tag": "analysis"
     },
     {
@@ -1357,10 +1483,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Past lessons for the 2026 Bundibugyo virus outbreak: filovirus infection prevention in conflict-affected settings",
-      "link": "https://doi.org/10.1016/j.jhin.2026.06.023",
+      "title": "Rare variants in genes related to inborn errors of immunity in patients with rheumatoid arthritis and secondary immunodeficiency",
+      "link": "https://doi.org/10.1136/rmdopen-2026-007046",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.jhin.2026.06.023\nAuthors: Klinger S. Faico-Filho",
+      "desc": "DOI: 10.1136/rmdopen-2026-007046\nAuthors: Faranaz Atschekzei, Natalia Dubrowinskaja, Manfred Anim, Doris Steinemann, Sandra von Hardenberg, Winfried Hofmann, Robert Geffers, Torsten Witte, Georgios Sogkas\n \n                     Objectives \n                     Treatment of rheumatoid arthritis (RA) relies on i",
       "tag": "analysis"
     },
     {
@@ -1375,20 +1501,6 @@
       "link": "https://doi.org/10.1111/anec.70220",
       "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1111/anec.70220\nAuthors: Nicholas E. Kunce, Andre Silva, Mark Haigney, Adam Kisling\n ABSTRACT \n                   We present the case of a 72‐year‐old female with Fabry disease who developed an advanced interatrial conduction block and atrial fibrillation, a condition known as Bayés' syndrome. Fabry disease is",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ethical Challenges and Considerations in One Health Approaches to Emerging Infectious Diseases: A Descriptive Review",
-      "link": "https://doi.org/10.71320/bcs.0019",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.71320/bcs.0019\nAuthors: Shoaib Shafqat, Zahid Shahbaz, Rahmeen Ajaz, Hafiz Shaheer Ahmad\n The One Health framework has emerged as a central paradigm for addressing emerging infectious diseases (EIDs) by recognizing the interconnectedness of human, animal, and environmental health. Despite increasing global adoption, the ethical dimen",
-      "tag": "analysis"
-    },
-    {
-      "title": "Brote de hantavirus Andes vinculado a un crucero transatlántico: Evaluación del riesgo para España",
-      "link": "https://doi.org/10.4321/s2173-92772026000200002",
-      "pubDate": "Wed, 01 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4321/s2173-92772026000200002\nAuthors: María Cruz Calvo-Reyes, Sara Montenegro-Jaramillo, Laura Santos-Larrégola, Pedro Valdivia-Prieto, Lucía García-San Miguel, María José Sierra-Moros\n The Andes hantavirus (ANDV) outbreak linked to a transatlantic cruise ship in May 2026 represented an unusual public health event. A total of 13 case",
       "tag": "analysis"
     },
     {
@@ -1567,6 +1679,27 @@
       "tag": "response"
     },
     {
+      "title": "Admission complete blood count-derived inflammatory indices for risk stratification in hemorrhagic fever with renal syndrome: comparative performance of NLR, PLR, SII, LMR, and the neutrophil-to-red blood cell ratio",
+      "link": "https://doi.org/10.3389/fimmu.2026.1863714",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fimmu.2026.1863714\nAuthors: Zhuoran Xiao, Xingchi Chen, Min Wei, Shasha Wu, Shuxiang Zhao, Dandan Suo, Shangying Zhao, Meng Li, Xiaofei Yang, Chao Fan, Jianqi Lian, Chuantao Ye, Jing Zhang\n \n                     Background \n                     Hemorrhagic fever with renal syndrome (HFRS) requires",
+      "tag": "analysis"
+    },
+    {
+      "title": "Endometriosis in the early second quarter of the 21st century: paradigm shift",
+      "link": "https://doi.org/10.47407/kr2026.7.5.00848",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.47407/kr2026.7.5.00848\n Endometriosis remains a mysterious steadily progressing disease for reproductive medicine of the 21st century. About 10% of women (190 million) of childbearing age all over the world suffer from the disorder. Despite high prevalence, endometriosis is still diagnosed late. The time from first symptoms to the di",
+      "tag": "analysis"
+    },
+    {
+      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
+      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
+      "tag": "analysis"
+    },
+    {
       "title": "Vancomycin Protects Against Lung Injury and Promotes Butyrate Metabolism",
       "link": "https://openalex.org/W7166546423",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -1595,27 +1728,6 @@
       "tag": "analysis"
     },
     {
-      "title": "&lt;b&gt;Mucocutaneous Features in Ebola: Diagnostic Insights and Safety Strategies&lt;/b&gt;",
-      "link": "https://doi.org/10.66344/jpad.v36i2.3454",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.66344/jpad.v36i2.3454\nAuthors: Thamir Kubaisi",
-      "tag": "analysis"
-    },
-    {
-      "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
-      "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10006038/v1\nAuthors: Guolong Qu, Zhenyao Song, Weiming Hou\n Abstract \n                 \n                  Background\n Previous studies have primarily examined associations between the incidence of a single infectious disease and individual meteorological or chemical pollution factors. However, the individual and",
-      "tag": "analysis"
-    },
-    {
-      "title": "Admission complete blood count-derived inflammatory indices for risk stratification in hemorrhagic fever with renal syndrome: comparative performance of NLR, PLR, SII, LMR, and the neutrophil-to-red blood cell ratio",
-      "link": "https://doi.org/10.3389/fimmu.2026.1863714",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fimmu.2026.1863714\nAuthors: Zhuoran Xiao, Xingchi Chen, Min Wei, Shasha Wu, Shuxiang Zhao, Dandan Suo, Shangying Zhao, Meng Li, Xiaofei Yang, Chao Fan, Jianqi Lian, Chuantao Ye, Jing Zhang\n \n                     Background \n                     Hemorrhagic fever with renal syndrome (HFRS) requires",
-      "tag": "analysis"
-    },
-    {
       "title": "Antiphospholipid antibodies in acute and post-treatment Lyme disease",
       "link": "https://doi.org/10.1128/iai.00192-26",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
@@ -1637,17 +1749,17 @@
       "tag": "analysis"
     },
     {
+      "title": "Associations of Multiple Environmental Pollutants with the Risk and Mortality of Viral Infectious Diseases: Differential Infection Spectrums and Trends",
+      "link": "https://doi.org/10.21203/rs.3.rs-10006038/v1",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10006038/v1\nAuthors: Guolong Qu, Zhenyao Song, Weiming Hou\n Abstract \n                 \n                  Background\n Previous studies have primarily examined associations between the incidence of a single infectious disease and individual meteorological or chemical pollution factors. However, the individual and",
+      "tag": "analysis"
+    },
+    {
       "title": "Transtheoretical components of evidence-based psychological interventions for stimulant use disorders: a systematically developed taxonomy",
       "link": "https://doi.org/10.31234/osf.io/bd2yk_v2",
       "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
       "desc": "DOI: 10.31234/osf.io/bd2yk_v2\nAuthors: Chrysanthi Blithikioti, Camilla Cadorin, Marcella Lucente, Lorena Pizzocri, Giuliano Tomei, Matt Field, Patricia Logullo, Wolfgang Lutz, Toshi A. Furukawa, Ioana Cristea\n Importance: Psychological interventions are a mainstay of treatment for substance use disorders (SUDs), but their ingredients remain unkno",
-      "tag": "analysis"
-    },
-    {
-      "title": "Endometriosis in the early second quarter of the 21st century: paradigm shift",
-      "link": "https://doi.org/10.47407/kr2026.7.5.00848",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.47407/kr2026.7.5.00848\n Endometriosis remains a mysterious steadily progressing disease for reproductive medicine of the 21st century. About 10% of women (190 million) of childbearing age all over the world suffer from the disorder. Despite high prevalence, endometriosis is still diagnosed late. The time from first symptoms to the di",
       "tag": "analysis"
     },
     {
@@ -1774,118 +1886,6 @@
       "link": "https://www.medscape.com/viewarticle/world-health-organization-issues-clinical-care-advice-ebola-2026a1000lz1?src=rss",
       "pubDate": "Mon, 29 Jun 2026 10:16:00 Z",
       "desc": "In the midst of the ongoing Ebola outbreak in the Democratic Republic of the Congo, and in the absence of antiviral medications for the disease, the World Health Organization (WHO) has issued updated guidelines for the clinical management of filovirus disease, according to a press release from the organization.",
-      "tag": "analysis"
-    },
-    {
-      "title": "La Comunidad Valenciana pone en marcha una nueva unidad de aislamiento para patógenos de alto riesgo en La Fe",
-      "link": "https://www.consalud.es/autonomias/c-valenciana/la-comunidad-valenciana-pone-en-marcha-una-nueva-unidad-de-aislamiento-para-patogenos-de-alto-riesgo-en-la-fe.html",
-      "pubDate": "Mon, 29 Jun 2026 07:10:00 Z",
-      "desc": "La Consejería de Sanidad de la Comunidad Valenciana ha publicado la licitación de la construcción de una nueva Unidad de Aislamiento de Alto Nivel en el Hospital Universitari i Politècnic La Fe de València , diseñada para la atención de enfermedades infecciosas como el ébola, los virus de Marburg o Lassa, así como tuberculosis multirresistente.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Divergent peanut stunt virus isolates from black locust (Robinia pseudoacacia L.) in Slovakia retain infectivity across multiple leguminous hosts",
-      "link": "https://link.springer.com/article/10.1007/s41348-026-01302-6",
-      "pubDate": "Mon, 29 Jun 2026 06:53:00 Z",
-      "desc": "Peanut stunt virus (PSV; genus Cucumovirus , family Bromoviridae ) was identified infecting black locust ( Robinia pseudoacacia L.) in Slovakia, representing an unusual host for this legume-infecting virus. Using high-throughput sequencing, three nearly complete tripartite genomes of PSV (designated....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Syndromic Surveillance Report Epi-week 25",
-      "link": "https://www.health.gov.ws/wp-content/uploads/2026/06/Epi-week-25_Syndromic-Surveillance-Report.pdf",
-      "pubDate": "Mon, 29 Jun 2026 05:20:00 Z",
-      "desc": "SYNDROMIC SURVEILLANCE REPORT Epi-week 25: 15th - 21st June 2026 Email: Surveillance@health.gov.ws Tel: 66506/66507 Please address all correspondence to the Director General Fa’amolemole fa’atuatusi uma feso’otaiga i le Fa’atonusili Aoao Syndromes TTMH Lufilufi Lalomanu Poutasi Saanapu Faleolo MTIIH....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Scientists discover 70 existing drugs that block deadly hantavirus infections",
-      "link": "https://www.news-medical.net/news/20260628/Scientists-discover-70-existing-drugs-that-block-deadly-hantavirus-infections.aspx",
-      "pubDate": "Mon, 29 Jun 2026 01:16:00 Z",
-      "desc": "Study: A drug repurposing screen identifies antiviral compounds against Puumala Orthohantavirus . Image Credit: Kateryna Kon / Shutterstock. In a recent study published in the journal Scientific Reports , researchers conducted a high-throughput phenotypic drug screening using live Puumala virus....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Public health considerations for preventing crimean-congo haemorrhagic fever in Islamic Republic of Iran",
-      "link": "https://doi.org/10.26719/2026.32.6.399",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.26719/2026.32.6.399\nAuthors: Jalil Nejati",
-      "tag": "analysis"
-    },
-    {
-      "title": "Timely Response: Enhancing Africa’s Ebola Outbreak Management through Unified Evidence",
-      "link": "https://doi.org/10.1093/qjmed/hcag167",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/qjmed/hcag167\nAuthors: Claude Mambo Muvunyi, Emmanuel Edwar Siddig",
-      "tag": "response"
-    },
-    {
-      "title": "Optimizing diagnostic cascades: evaluating the sensitivity of NS1 antigen versus antibody serology in a rapidly evolving dengue outbreak",
-      "link": "https://doi.org/10.18203/2320-6012.ijrms20262158",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.18203/2320-6012.ijrms20262158\nAuthors: M. Ashraf Uddin Ahmed, Farzana Yasmin, Mahmood Parvez, Tasnim Mahmud\n Background: Dengue fever, caused by DENV-1-4 serotypes, remains a major public health challenge with clinical manifestations ranging from mild febrile illness to severe complications such as Dengue Hemorrhagic Fever (DHF) and",
-      "tag": "analysis"
-    },
-    {
-      "title": "Neohesperidin Regulates Lipid Metabolism and Ameliorates <scp>MASLD</scp> by Targeting <scp>ECHS1</scp>",
-      "link": "https://doi.org/10.1002/ptr.70400",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/ptr.70400\nAuthors: Hongyan Zhu, Tong Zhu, Min Yang, Xiaohui Huang, Shengwang Gao, Mingfei Li, Yang Shu, Xinran Yu, Xisong Ke, Jian Zhang, Jia Qi\n ABSTRACT \n                   Metabolic dysfunction‐associated steatotic liver disease (MASLD) is a highly prevalent chronic liver condition globally, closely lin",
-      "tag": "analysis"
-    },
-    {
-      "title": "Spectrum of Bloodstream Pathogens and Their Antimicrobial Susceptibility Patterns in a Tertiary Care Setting: A Retrospective Observational Study",
-      "link": "https://doi.org/10.3126/mjen.v5i01.96385",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.3126/mjen.v5i01.96385\nAuthors: Abhishek Karmacharya, Subrata Pokhrel, Damodar Sharma, Chetan Khadka, Nickey Pradhan, Navindra Phuyal\n Background \nWith a high mortality rate, bloodstream infections (BSI) are a serious worldwide public health burden. Delay in therapy has a significant impact on Patient’s outcomes, and rapid and precis",
-      "tag": "analysis"
-    },
-    {
-      "title": "Isolation of Streptococcus pyogenes from pleural fluid in a critically ill patient: a case report with a rare occurrence",
-      "link": "https://doi.org/10.33897/fumj.v8i1.251",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.33897/fumj.v8i1.251\n Transudative or exudative pleural effusion has a diverse etiology including bacteria that differ depending upon hospital or community acquired infections. Most bacterial organisms isolated from pleural fluid include Gram positive bacteria including Staphylococcus aureus, Streptococcus pneumoniae and Streptococcus",
-      "tag": "analysis"
-    },
-    {
-      "title": "Aromatic basil (Ocimum x africanum Lour.) tea as a biolarvacide in dengue haemorrhagic fever",
-      "link": "https://doi.org/10.34011/jmp2k.v36i2.4533",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.34011/jmp2k.v36i2.4533\nAuthors: Citra Amaniah Anhar, Dewi Inderiati, Diah Lestari, Gina Argiyanti\n Background: Dengue Haemorrhagic Fever is a health problem transmitted by the Aedes aegypti mosquito. Dengue fever control currently still uses chemical larvicides (ABATE) that can pose health and environmental risks, thus requiring natu",
-      "tag": "analysis"
-    },
-    {
-      "title": "Hubungan Pengetahuan dengan Sikap Mengenai Implementasi Teknologi Wolbachia-Aedes pada Tenaga Kesehatan Kota Cirebon",
-      "link": "https://doi.org/10.31004/koloni.v5i2.973",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.31004/koloni.v5i2.973\nAuthors: Tajudin Tajudin, Muhammad Hussein G, Witri Pratiwi\n Dengue Hemorrhagic Fever remains a public health problem, particularly in endemic areas of Indonesia where cases continue to increase. Wolbachia-Aedes technology is an innovative vector control strategy with the potential to reduce dengue virus transmi",
-      "tag": "cases"
-    },
-    {
-      "title": "LATE DIAGNOSIS OF CHRONIC KIDNEY DISEASE IN A CHILD WITH A HYPOREFLEXIVE BLADDER: A CASE REPORT AND LITERATURE REVIEW",
-      "link": "https://doi.org/10.24061/2413-4260.xvi.2.60.2026.42",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.24061/2413-4260.xvi.2.60.2026.42\nAuthors: L. Vakulenko, O. Babak, D. Ochigava, A. Riznyk, V. Postovoi, A. Obertynskyi\n Chronic kidney disease (CKD) represents a major global health problem because of its high prevalence, significant mortality, and the substantial economic burden associated with renal replacement therapy. Most pediatr",
-      "tag": "analysis"
-    },
-    {
-      "title": "The PEARL toolkit: Using sand flies to identify leishmaniasis animal reservoirs",
-      "link": "https://doi.org/10.64898/2026.06.27.734966",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.06.27.734966\nAuthors: Eva Iniguez, Patrick Huffcutt, Tiago Donatelli Serafim, Pedro Cecilio, Serena Doh, Aaron Pugh, Johannes Doehl, Claudio Meneses, Ben Lambert, Jesus G. Valenzuela, Shaden Kamhawi\n In many leishmaniasis foci, reservoirs that maintain infection remain unknown. Here, we developed a field-applicable toolkit",
-      "tag": "analysis"
-    },
-    {
-      "title": "Correlates of protection against African swine fever virus identified by a systems immunology approach.",
-      "link": "https://europepmc.org/article/MED/42372005",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "FullTextUrl: https://doi.org/10.7554/eLife.107579\nJournal Title: eLife\nAuthors: Lotonin K, Brito F, Mehinagic K, García-Nicolás O, Liniger M, Donzé N, Python S, Talker S, Ploegaert T, Ruggli N, Benarafa C, Summerfield A.\nAfrican swine fever virus (ASFV) causes a fatal hemorrhagic disease in domestic pigs and wild boars, which poses severe threats t",
-      "tag": "analysis"
-    },
-    {
-      "title": "Cost-effectiveness of a decentralised molecular point-of-care testing programme for sexually transmitted infections in remote primary care health services in Australia",
-      "link": "https://doi.org/10.1136/sextrans-2025-056863",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/sextrans-2025-056863\nAuthors: Caroline G Watts, Louise M Causer, Susan J Matthews, Kirsty Smith, Kelly Andrewartha, Annie Tangey, Ben B Hui, Rae-Lin Huang, David Anderson, Steven G Badman, Basil Donovan, Christopher K Fairley, Manoji Gunathilake, Belinda Hengel, John Kaldor, Lisa Maher, Donna B Mak, David Persing, David G Regan, Mark D",
       "tag": "analysis"
     }
   ],
