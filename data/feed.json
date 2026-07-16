@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 16 Jul 2026 16:18:13 Z",
-  "fetchedAt": "2026-07-16T16:18:13Z",
+  "lastBuildDate": "Thu, 16 Jul 2026 19:14:04 Z",
+  "fetchedAt": "2026-07-16T19:14:05Z",
   "itemCount": 248,
   "stats": {
     "drc": {
@@ -392,17 +392,17 @@
       "tag": "cases"
     },
     {
-      "title": "US emergency departments seeing fewer C difficile cases, study finds",
-      "link": "https://www.cidrap.umn.edu/clostridium-difficile/us-emergency-departments-seeing-fewer-c-difficile-cases-study-finds",
-      "pubDate": "Tue, 14 Jul 2026 20:12:00 Z",
-      "desc": "World Bank / Vincent Tremeau/Flickr cc. were enrolled in a trial testing Gilead Sciences' experimental antiviral drug obeldesivir as post-exposure prophylaxis (PEP, for preventing disease) for the ‌ongoing Bundibugyo Ebola outbreak in the Democratic Republic of the Congo (DRC).",
-      "tag": "cases"
-    },
-    {
       "title": "What we truly know about the huge US Cyclospora outbreak—and what we don’t",
       "link": "https://www.cidrap.umn.edu/cyclospora/what-we-truly-know-about-huge-us-cyclospora-outbreak-and-what-we-don-t",
       "pubDate": "Tue, 14 Jul 2026 20:12:00 Z",
       "desc": "As the number of cases of cyclosporiasis—infection with Cyclospora —grows across the country and stories about explosive diarrhea spread, many people don’t know what to do to avoid the illness. There’s a lot of uncertainty, leaving them with many questions and few good answers.",
+      "tag": "cases"
+    },
+    {
+      "title": "US emergency departments seeing fewer C difficile cases, study finds",
+      "link": "https://www.cidrap.umn.edu/clostridium-difficile/us-emergency-departments-seeing-fewer-c-difficile-cases-study-finds",
+      "pubDate": "Tue, 14 Jul 2026 20:12:00 Z",
+      "desc": "World Bank / Vincent Tremeau/Flickr cc. were enrolled in a trial testing Gilead Sciences' experimental antiviral drug obeldesivir as post-exposure prophylaxis (PEP, for preventing disease) for the ‌ongoing Bundibugyo Ebola outbreak in the Democratic Republic of the Congo (DRC).",
       "tag": "cases"
     },
     {
@@ -546,18 +546,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Neurological symptoms in survivors of Ebola virus disease",
-      "link": "https://doi.org/10.1038/s41582-026-01247-2",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/s41582-026-01247-2\nAuthors: Lisa Kiani",
-      "tag": "analysis"
-    },
-    {
       "title": "A Mathematical Framework for Ebola Virus Disease Preparedness in Kenya: Modeling Waning Immunity, Vaccination, and Re-infection Dynamics",
       "link": "https://doi.org/10.9734/arjom/2026/v22i71123",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.9734/arjom/2026/v22i71123\nAuthors: George M. Mocheche\n Recurrent infectious disease outbreaks continue to challenge public health systems despite advances in surveillance and vaccination. Motivated by recurrent Ebola virus disease outbreaks in the Democratic Republic of the Congo and the potential risk of importation into Kenya, this",
       "tag": "response"
+    },
+    {
+      "title": "Neurological symptoms in survivors of Ebola virus disease",
+      "link": "https://doi.org/10.1038/s41582-026-01247-2",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/s41582-026-01247-2\nAuthors: Lisa Kiani",
+      "tag": "analysis"
     },
     {
       "title": "Africa’s response to this Ebola outbreak shows how to shape global health",
@@ -581,17 +581,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain",
-      "link": "https://doi.org/10.1136/bmj-2026-100286",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/bmj-2026-100286\nAuthors: Jacqui Wise",
-      "tag": "analysis"
-    },
-    {
       "title": "Comparison of three Mycoplasma bovis antibody ELISAs on serum from 3-5-week-old dairy calves using Bayesian latent class analysis",
       "link": "https://doi.org/10.1186/s13620-026-00354-2",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1186/s13620-026-00354-2\nAuthors: Jolien Vandewalle, Justine Clinquart, Wouter van Mol, Stan Jourquin, Bart Pardon\n Abstract \n                   \n                     Background \n                     \n                      Controlling\n                       Mycoplasma",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain",
+      "link": "https://doi.org/10.1136/bmj-2026-100286",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/bmj-2026-100286\nAuthors: Jacqui Wise",
       "tag": "analysis"
     },
     {
@@ -938,18 +938,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Late-Onset Fahr Disease Presenting with Chronic Vertigo, Right-Sided Postural Instability, and Mild Cognitive Impairment: A Case Report",
-      "link": "https://doi.org/10.38035/ijphs.v4i3.2224",
-      "pubDate": "Sun, 12 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.38035/ijphs.v4i3.2224\n Fahr disease, currently recognized within the spectrum of primary familial brain calcification, is a rare neurodegenerative disorder characterized by bilateral intracranial calcifications, most commonly involving the basal ganglia, dentate nuclei, thalamus, internal capsule, and cerebral white matter. It usuall",
-      "tag": "analysis"
-    },
-    {
       "title": "Screening for Fabry Disease Among Dialysis Patients: A Multicenter Cross-Sectional Study in Türkiye with Cascade Screening of Identified Cases",
       "link": "https://doi.org/10.3390/medicina62071343",
       "pubDate": "Sun, 12 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/medicina62071343\nAuthors: Kadir Gökhan Atılgan, Berrak Itır Aylı, Mehmet Deniz Aylı\n Background and Objectives: Fabry disease (FD) is an X-linked lysosomal storage disorder caused by pathogenic GLA gene variants, leading to progressive multi-organ damage including end-stage renal disease. Although dialysis patients represent a h",
       "tag": "cases"
+    },
+    {
+      "title": "Late-Onset Fahr Disease Presenting with Chronic Vertigo, Right-Sided Postural Instability, and Mild Cognitive Impairment: A Case Report",
+      "link": "https://doi.org/10.38035/ijphs.v4i3.2224",
+      "pubDate": "Sun, 12 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.38035/ijphs.v4i3.2224\n Fahr disease, currently recognized within the spectrum of primary familial brain calcification, is a rare neurodegenerative disorder characterized by bilateral intracranial calcifications, most commonly involving the basal ganglia, dentate nuclei, thalamus, internal capsule, and cerebral white matter. It usuall",
+      "tag": "analysis"
     },
     {
       "title": "Unusual progression of Rosai–Dorfman disease in a pediatric patient",
@@ -1057,18 +1057,18 @@
       "tag": "cases"
     },
     {
-      "title": "$1B Program To Boost Glove Supply Exposes Challenges Of Bringing Manufacturing Back To US",
-      "link": "https://kffhealthnews.org/morning-breakout/health-industry-071026/",
-      "pubDate": "Fri, 10 Jul 2026 13:38:00 Z",
-      "desc": "A nearly $1 billion effort failed to bring medical glove manufacturing back to the US. An FDA study found heavy metals in tampons aren’t a cause for concern. Novo Nordisk wants ingredient discounts for its obesity medicines. Roche beat Amgen and Bristol-Myers in a battle of lung cancer drugs.",
-      "tag": "analysis"
-    },
-    {
       "title": "Today, July 10",
       "link": "https://kffhealthnews.org/morning-briefing/friday-july-10-2026/",
       "pubDate": "Fri, 10 Jul 2026 13:38:00 Z",
       "desc": "In parts of the country, including southeast Michigan and northern Ohio, clinicians are tracking scores of cases of sudden, explosive diarrhea and gastrointestinal illness caused by the parasite Cyclospora cayetanensi. Michigan now has 1,251 cases of cyclosporiasis, according to state officials....",
       "tag": "cases"
+    },
+    {
+      "title": "$1B Program To Boost Glove Supply Exposes Challenges Of Bringing Manufacturing Back To US",
+      "link": "https://kffhealthnews.org/morning-breakout/health-industry-071026/",
+      "pubDate": "Fri, 10 Jul 2026 13:38:00 Z",
+      "desc": "A nearly $1 billion effort failed to bring medical glove manufacturing back to the US. An FDA study found heavy metals in tampons aren’t a cause for concern. Novo Nordisk wants ingredient discounts for its obesity medicines. Roche beat Amgen and Bristol-Myers in a battle of lung cancer drugs.",
+      "tag": "analysis"
     },
     {
       "title": "Une Américaine de 56 ans pensait souffrir d'une maladie inconnue : en réalité, sa prothèse de hanche empoisonnait son sang au cobalt",
@@ -1617,18 +1617,18 @@
       "tag": "response"
     },
     {
-      "title": "Community Engagement Should be Prioritised in Bundibugyo Ebola Outbreak Fight",
-      "link": "https://africacdc.org/news-item/community-engagement-should-be-prioritised-in-bundibugyo-ebola-outbreak-fight/",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
-      "desc": "One month after the declaration of the 2026 Bundibugyo Ebola outbreak as both a global and continental public health emergency, transmission continues to expand in eastern Democratic Republic of Congo (DRC) and Uganda despite substantial response efforts. As of 14 June 2026, there were 827 confirmed cases and 194 deaths, with Ituri Province",
-      "tag": "pheic"
-    },
-    {
       "title": "Fine particulate matter exposure and long-term lung-function trajectory in adults with cystic fibrosis",
       "link": "https://doi.org/10.1093/annalsats/aaoag188",
       "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1093/annalsats/aaoag188\nAuthors: Bob Z Sun, Jonathan D Cogen, Marshall Brown, Anna V Faino, Karen Hinckley Stukovsky, Adam A Szpiro, Lianne Sheppard, Christopher H Goss, Joel Kaufman, Margaret Rosenfeld\n Abstract \n                   \n                     Rationale \n                    <",
       "tag": "analysis"
+    },
+    {
+      "title": "Community Engagement Should be Prioritised in Bundibugyo Ebola Outbreak Fight",
+      "link": "https://africacdc.org/news-item/community-engagement-should-be-prioritised-in-bundibugyo-ebola-outbreak-fight/",
+      "pubDate": "Fri, 03 Jul 2026 00:00:00 Z",
+      "desc": "One month after the declaration of the 2026 Bundibugyo Ebola outbreak as both a global and continental public health emergency, transmission continues to expand in eastern Democratic Republic of Congo (DRC) and Uganda despite substantial response efforts. As of 14 June 2026, there were 827 confirmed cases and 194 deaths, with Ituri Province",
+      "tag": "pheic"
     },
     {
       "title": "Mammarenavirus-Induced Remodeling of the Cellular Lipid Landscape Reveals Sphingolipid Metabolism as a Novel Target for Antiviral Intervention",
@@ -1715,17 +1715,17 @@
       "tag": "response"
     },
     {
-      "title": "New Disease Threats Follow Trump Administration’s Health Program Cuts",
-      "link": "https://kffhealthnews.org/public-health/new-disease-threats-follow-trump-administrations-health-program-cuts/",
-      "pubDate": "Thu, 02 Jul 2026 13:14:00 Z",
-      "desc": ". The bacteria, Vibrio vulnificus , can enter open wounds and cause tissue death and systemic sepsis. “Many people with Vibrio vulnificus infection can get seriously ill and need intensive care or limb amputation,” the CDC says. The risk of such public threats is mounting because climate change is....",
-      "tag": "analysis"
-    },
-    {
       "title": "Air Force Confirms That Trainee, 25, Died From Flu, Texas Lawmaker Says",
       "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-070226/",
       "pubDate": "Thu, 02 Jul 2026 13:14:00 Z",
       "desc": "Nearly 300 trainees at Lackland Air Force Base in San Antonio were sickened with flu just weeks after Defense Secretary Pete Hegseth declared that flu vaccines would not be mandatory for troops. That policy has since been reversed. Meanwhile, the CDC is urging Americans to take precautions against West Nile virus during the July Fourth weekend.",
+      "tag": "analysis"
+    },
+    {
+      "title": "New Disease Threats Follow Trump Administration’s Health Program Cuts",
+      "link": "https://kffhealthnews.org/public-health/new-disease-threats-follow-trump-administrations-health-program-cuts/",
+      "pubDate": "Thu, 02 Jul 2026 13:14:00 Z",
+      "desc": ". The bacteria, Vibrio vulnificus , can enter open wounds and cause tissue death and systemic sepsis. “Many people with Vibrio vulnificus infection can get seriously ill and need intensive care or limb amputation,” the CDC says. The risk of such public threats is mounting because climate change is....",
       "tag": "analysis"
     },
     {
