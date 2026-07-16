@@ -1,84 +1,87 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 16 Jul 2026 13:56:13 Z",
-  "fetchedAt": "2026-07-16T13:56:14Z",
+  "lastBuildDate": "Thu, 16 Jul 2026 16:18:13 Z",
+  "fetchedAt": "2026-07-16T16:18:13Z",
   "itemCount": 248,
   "stats": {
     "drc": {
-      "suspected": 299,
-      "deaths": 702,
-      "confirmed": 1926,
-      "recovered": 318,
-      "zonesAffected": 47,
+      "suspected": 268,
+      "deaths": 754,
+      "confirmed": 2011,
+      "recovered": 366,
+      "zonesAffected": 50,
       "topHealthZones": {
-        "Bunia": 507,
-        "Rwampara": 393,
+        "Bunia": 534,
+        "Rwampara": 405,
         "Mongbwalu": 336,
-        "Nizi": 121,
+        "Nizi": 131,
         "Nyankunde": 99,
-        "Katwa": 71,
+        "Katwa": 76,
+        "Lita": 59,
         "Mangala": 50,
-        "Lita": 48,
-        "Butembo": 44,
+        "Butembo": 46,
         "Nia-Nia": 36,
         "Nia Nia": 35,
         "Bambu": 31,
-        "Beni": 30,
+        "Beni": 31,
         "Komanda": 27,
         "Tchomia": 19,
-        "Musienene": 10,
+        "Musienene": 11,
         "Kilo": 9,
         "Mandima": 8,
+        "Wamba": 8,
         "Kyondo": 7,
         "Logo": 7,
         "Aungba": 6,
         "Damas": 5,
+        "Fataki": 5,
         "Mambasa": 5,
-        "Fataki": 4,
+        "Drodro": 5,
         "Rimba": 4,
-        "Drodro": 4,
         "Rumba": 4,
         "Miti Murhesa": 3,
         "Aru": 3,
         "Oicha": 3,
         "Masereka": 3,
         "Miti-Murhesa": 3,
+        "Pawa": 3,
         "Kalunguta": 2,
         "Kambala": 2,
+        "Lolwa": 2,
         "Makiso Kisangani": 2,
+        "Boma Mangbetu": 2,
         "Goma": 1,
         "Gety": 1,
         "Vuhovi": 1,
         "Mabalako": 1,
-        "Lolwa": 1,
         "Boga": 1,
-        "Wamba": 1,
         "Mangobo": 1,
         "Lubunga (Tshopo)": 1,
         "Ariwara": 1,
+        "Isiro": 1,
         "Karisimbi": 0,
         "Manguredjipa": 0
       },
       "healthcareWorkers": 102,
       "contacts": 10821,
-      "cfr": 36.4
+      "cfr": 37.5
     },
     "drcMeta": {
       "suspected": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-11)"
+        "src": "INRB sitrep (2026-07-13)"
       },
       "deaths": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-11)"
+        "src": "INRB sitrep (2026-07-13)"
       },
       "confirmed": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-11)"
+        "src": "INRB sitrep (2026-07-13)"
       },
       "recovered": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-11)"
+        "src": "INRB sitrep (2026-07-13)"
       }
     },
     "drcTiers": {
@@ -103,10 +106,10 @@
         "recovered": 229
       },
       "inrb": {
-        "confirmed": 1926,
-        "deaths": 702,
-        "suspected": 299,
-        "recovered": 318
+        "confirmed": 2011,
+        "deaths": 754,
+        "suspected": 268,
+        "recovered": 366
       }
     },
     "provinces": {
@@ -118,13 +121,13 @@
       "northKivu": {
         "zonesAffected": 11,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-11)",
-        "confirmed": 173
+        "source": "INRB sitrep (2026-07-13)",
+        "confirmed": 182
       },
       "southKivu": {
         "zonesAffected": 1,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-11)",
+        "source": "INRB sitrep (2026-07-13)",
         "confirmed": 3
       }
     },
@@ -144,12 +147,19 @@
       "fetchedAt": "2026-07-03T16:26:09Z"
     },
     "inrbSitrep": {
-      "asOf": "2026-07-11",
+      "asOf": "2026-07-13",
       "url": "https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/insp_sitrep/processed",
-      "fetchedAt": "2026-07-13T21:58:28.728211+00:00"
+      "fetchedAt": "2026-07-16T16:18:14.675308+00:00"
     }
   },
   "items": [
+    {
+      "title": "Uganda anuncia no tener ya ningún enfermo de ébola - France 24",
+      "link": "https://www.france24.com/es/minuto-a-minuto/20260716-uganda-anuncia-no-tener-ya-ning%C3%BAn-enfermo-de-%C3%A9bola",
+      "pubDate": "Thu, 16 Jul 2026 14:28:00 Z",
+      "desc": "-- Uganda. Significance Rating: 1 Uganda anuncia no tener ya ningún enfermo de ébola&nbsp;&nbsp;France 24",
+      "tag": "analysis"
+    },
     {
       "title": "Hazardous Air, High Temps Blanket Stretch Of US, Prompting Health Alerts",
       "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-071626/",
@@ -438,18 +448,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Viewpoints: How Health Systems Can Protect Patients From 'Deepfake' Docs; Writing Fat Emergency Checks For Ebola Is The Wrong Strategy",
-      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-needs-headline-please/",
-      "pubDate": "Tue, 14 Jul 2026 13:15:00 Z",
-      "desc": "Imagine a patient who arrives at her doctor’s clinic furious. She shows her doctor a video of him — white coat, plausible exam room, familiar cadence — endorsing an over-the-counter hormone supplement for menopausal symptoms, dismissing standard therapies as “pharma scams,” and offering a discount code.",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola Cases In Congo Are Grossly Undercounted, WHO Says",
       "link": "https://kffhealthnews.org/morning-breakout/ebola-071426/",
       "pubDate": "Tue, 14 Jul 2026 13:15:00 Z",
       "desc": "World health officials think the true number of cases is possibly four times greater than the nearly 2,000 cases that health officials in Congo are reporting. Meanwhile, a WHO official is pleading with the global community to continue sending pledged donations to help Congo fight the deadly Bundibugyo outbreak.",
       "tag": "cases"
+    },
+    {
+      "title": "Viewpoints: How Health Systems Can Protect Patients From 'Deepfake' Docs; Writing Fat Emergency Checks For Ebola Is The Wrong Strategy",
+      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-needs-headline-please/",
+      "pubDate": "Tue, 14 Jul 2026 13:15:00 Z",
+      "desc": "Imagine a patient who arrives at her doctor’s clinic furious. She shows her doctor a video of him — white coat, plausible exam room, familiar cadence — endorsing an over-the-counter hormone supplement for menopausal symptoms, dismissing standard therapies as “pharma scams,” and offering a discount code.",
+      "tag": "analysis"
     },
     {
       "title": "MINISTRY OF HEALTH CONVENES EBOLA ACCOUNTABILITY FORUM TO STRENGTHEN TRANSPARENCY AND PARTNER COORDINATION",
@@ -557,17 +567,17 @@
       "tag": "response"
     },
     {
-      "title": "A case of severe terbinafine induced gastritis presenting as a likely protein losing enteropathy",
-      "link": "https://doi.org/10.21203/rs.3.rs-10257093/v1",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10257093/v1\nAuthors: Shiidheshwar J Ravichandran, Kevin Wong, Benjamin Gomez, Metthananda Nawarathne Nawarathne Mudiyanselage, Julian Rong\n Abstract \n                 \n                   Background \n                  The primary cause of gastritis is infection with helicobacter Pylori, followed by che",
-      "tag": "analysis"
-    },
-    {
       "title": "A DNA-scaffolded Retron Ring Mediates Antiphage Immunity",
       "link": "https://doi.org/10.64898/2026.07.14.737667",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.14.737667\nAuthors: Arturo Carabias, Ruiliang Zhao, Ricardo Garcia Martin, Nuria Ardid Munoz, Mario Rodriguez Mestre, Huijuan Li, Johannes Anton Kuhn, Josepha Magdalene Klas, Sarah Camara Wilpert, Dennis Zhang, Nanna Wagner, Selma Margarita Kuypers, Tillmann Pape, Soren Johannes Sorensen, Rafael Pinilla Redondo, Guillermo Monto",
+      "tag": "analysis"
+    },
+    {
+      "title": "A case of severe terbinafine induced gastritis presenting as a likely protein losing enteropathy",
+      "link": "https://doi.org/10.21203/rs.3.rs-10257093/v1",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10257093/v1\nAuthors: Shiidheshwar J Ravichandran, Kevin Wong, Benjamin Gomez, Metthananda Nawarathne Nawarathne Mudiyanselage, Julian Rong\n Abstract \n                 \n                   Background \n                  The primary cause of gastritis is infection with helicobacter Pylori, followed by che",
       "tag": "analysis"
     },
     {
@@ -697,6 +707,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Maladie Ebola en Ouganda",
+      "link": "https://voyage.gc.ca/voyager/sante-securite/conseils-sante-voyageurs/550",
+      "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
+      "desc": "Date de publication originale : 26 mai 2026. Mise à jour : 2 juillet 2026 Destinations touchées Ouganda Points clés La maladie Ebola est causée par un groupe de virus qui se transmettent par contact avec les fluides corporels de personnes ou d'animaux présentant des symptômes de la maladie. Cette maladie est grave et souvent mortelle.",
+      "tag": "analysis"
+    },
+    {
       "title": "Samoa américaines",
       "link": "https://voyage.gc.ca/destinations/samoa-americaines",
       "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
@@ -708,13 +725,6 @@
       "link": "https://voyage.gc.ca/voyager/sante-securite/conseils-sante-voyageurs/549",
       "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
       "desc": "Date de publication originale : 15 mai 2026. Mise à jour : 2 juillet 2026 Destinations touchées République démocratique du Congo (Kinshasa) Points clés La maladie Ebola est causée par un groupe de virus qui se transmettent par contact avec les fluides corporels de personnes ou d'animaux présentant des symptômes de la maladie.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Maladie Ebola en Ouganda",
-      "link": "https://voyage.gc.ca/voyager/sante-securite/conseils-sante-voyageurs/550",
-      "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
-      "desc": "Date de publication originale : 26 mai 2026. Mise à jour : 2 juillet 2026 Destinations touchées Ouganda Points clés La maladie Ebola est causée par un groupe de virus qui se transmettent par contact avec les fluides corporels de personnes ou d'animaux présentant des symptômes de la maladie. Cette maladie est grave et souvent mortelle.",
       "tag": "analysis"
     },
     {
@@ -858,10 +868,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Mutation mapping and evolutionary dynamics of Bundibugyo Ebolavirus (BDBV-2026) genomes reported from Uganda",
-      "link": "https://doi.org/10.21203/rs.3.rs-10310109/v1",
+      "title": "Diagnostic utility and histopathological spectrum of corneal biopsy specimens obtained during therapeutic penetrating keratoplasty: A prospective analysis",
+      "link": "https://doi.org/10.4103/odjo.odjo_12_26",
       "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10310109/v1\nAuthors: David Kelvin, Anuj Kumar, Andrew Nsawotebba, Barnabas Bakamutumaho, Bruce Kirenga, Mansi Dutt, Gustavo Sganzerla Martinez, Winters Muttamba, Wilber Sabiiti, Misaki Wayengera, Henry Bosa, Bernard Lutwama, Susan Nabadda, Charles Olaro, Diana Atwiine, Charles Ayume, Chris Baryomunsi, Atek Kagirita\n Abst",
+      "desc": "DOI: 10.4103/odjo.odjo_12_26\nAuthors: Sharmistha Behera, Devi Aiswarya Das, Jyotirmayee Mishra, Swetalina Jena, Rabi Narayan Mallik, Gurudev Bishi, Lipsa Mohapatra, Prangnya Bharati Nanda\n Abstract \n                   \n                     Purpose: \n                     This study evalua",
       "tag": "analysis"
     },
     {
@@ -879,10 +889,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Diagnostic utility and histopathological spectrum of corneal biopsy specimens obtained during therapeutic penetrating keratoplasty: A prospective analysis",
-      "link": "https://doi.org/10.4103/odjo.odjo_12_26",
+      "title": "Mutation mapping and evolutionary dynamics of Bundibugyo Ebolavirus (BDBV-2026) genomes reported from Uganda",
+      "link": "https://doi.org/10.21203/rs.3.rs-10310109/v1",
       "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4103/odjo.odjo_12_26\nAuthors: Sharmistha Behera, Devi Aiswarya Das, Jyotirmayee Mishra, Swetalina Jena, Rabi Narayan Mallik, Gurudev Bishi, Lipsa Mohapatra, Prangnya Bharati Nanda\n Abstract \n                   \n                     Purpose: \n                     This study evalua",
+      "desc": "DOI: 10.21203/rs.3.rs-10310109/v1\nAuthors: David Kelvin, Anuj Kumar, Andrew Nsawotebba, Barnabas Bakamutumaho, Bruce Kirenga, Mansi Dutt, Gustavo Sganzerla Martinez, Winters Muttamba, Wilber Sabiiti, Misaki Wayengera, Henry Bosa, Bernard Lutwama, Susan Nabadda, Charles Olaro, Diana Atwiine, Charles Ayume, Chris Baryomunsi, Atek Kagirita\n Abst",
       "tag": "analysis"
     },
     {
@@ -1313,18 +1323,18 @@
       "tag": "analysis"
     },
     {
-      "title": "G protein-coupled receptor SmGPCR9 interacts with neuropeptides and controls spermatogenesis in Schistosoma mansoni",
-      "link": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014096",
-      "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
-      "desc": "Schistosomiasis is a neglected tropical disease caused by parasitic flatworms of the genus Schistosoma , impacting hundreds of millions of people and animals globally. Disease pathology primarily originates from host immune responses to parasite eggs, which are produced only when female schistosomes are continuously paired with males.",
-      "tag": "response"
-    },
-    {
       "title": "2 juillet 2026 Allocution liminaire du Directeur général de l’OMS lors du point de presse du 2 juillet 2026",
       "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---2-july-2026",
       "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
       "desc": "Bonjour à toutes les personnes présentes aujourd’hui, et bonjour ou bonsoir à toutes celles qui nous rejoignent en ligne. Aujourd’hui, la dernière personne ayant été en contact avec une personne exposée au hantavirus à bord du navire de croisière MV Hondius a terminé sa période de quarantaine, a été testée négative et est rentrée chez elle.",
       "tag": "analysis"
+    },
+    {
+      "title": "G protein-coupled receptor SmGPCR9 interacts with neuropeptides and controls spermatogenesis in Schistosoma mansoni",
+      "link": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014096",
+      "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
+      "desc": "Schistosomiasis is a neglected tropical disease caused by parasitic flatworms of the genus Schistosoma , impacting hundreds of millions of people and animals globally. Disease pathology primarily originates from host immune responses to parasite eggs, which are produced only when female schistosomes are continuously paired with males.",
+      "tag": "response"
     },
     {
       "title": "Viewpoints: Gen Z Doctors Are Reshaping Medicine; San Diego Must Fight To Maintain Role As Biotech Pioneer",
@@ -1878,20 +1888,13 @@
       "pubDate": "Wed, 01 Jul 2026 15:07:00 Z",
       "desc": "DOI: 10.63028/10067/2238620151162165141\nAuthors: Luís Jorge Amaral\n Onchocerciasis, or river blindness, is a neglected tropical disease caused by 'Onchocerca volvulus' and transmitted by blackflies. Although classically associated with skin and eye disease, growing evidence links high-intensity 'O. volvulus' infection to neurological sequela",
       "tag": "analysis"
-    },
-    {
-      "title": "Prédire l'évolution des virus grâce à l'IA",
-      "link": "https://www.pasteur.fr/fr/journal-recherche/actualites/predire-evolution-virus-grace-ia",
-      "pubDate": "Wed, 01 Jul 2026 14:18:00 Z",
-      "desc": "Ce que je cherche. J’essaie de comprendre comment les protéines de surface des virus (c’est-à-dire celles qui s’attachent à nos cellules et que notre système immunitaire reconnaît) changent et donnent naissance à des variants, ce qui permet aux virus de continuer à circuler.",
-      "tag": "analysis"
     }
   ],
   "highWater": {
     "drc": {
       "deaths": {
-        "value": 702,
-        "asOf": "2026-07-13T21:58:27Z",
+        "value": 754,
+        "asOf": "2026-07-16T16:18:13Z",
         "source": "INRB MVE Sitrep"
       },
       "confirmed_deaths": {
@@ -1905,8 +1908,8 @@
         "source": "WHO / OMS"
       },
       "confirmed": {
-        "value": 1926,
-        "asOf": "2026-07-13T21:58:27Z",
+        "value": 2011,
+        "asOf": "2026-07-16T16:18:13Z",
         "source": "INRB MVE Sitrep"
       },
       "active": {
