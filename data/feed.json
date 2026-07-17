@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 17 Jul 2026 16:16:10 Z",
-  "fetchedAt": "2026-07-17T16:16:11Z",
+  "lastBuildDate": "Fri, 17 Jul 2026 19:12:47 Z",
+  "fetchedAt": "2026-07-17T19:12:47Z",
   "itemCount": 246,
   "stats": {
     "drc": {
@@ -62,8 +62,8 @@
         "Karisimbi": 0,
         "Manguredjipa": 0
       },
-      "healthcareWorkers": 102,
-      "contacts": 10821,
+      "healthcareWorkers": 119,
+      "contacts": 12693,
       "suspected": 389,
       "cfr": 39.0
     },
@@ -90,18 +90,17 @@
         "deaths": 34
       },
       "cdc": {
-        "deaths": 718,
-        "confirmed": 1963
+        "deaths": 17,
+        "confirmed": 19
       },
       "media": {
-        "deaths": 798,
-        "confirmed": 2093,
+        "deaths": 828,
+        "confirmed": 2124,
         "suspected": 2011
       },
       "whoDon": {
-        "confirmed": 1460,
-        "deaths": 452,
-        "recovered": 229
+        "confirmed": 2124,
+        "recovered": 410
       },
       "inrb": {
         "confirmed": 2124,
@@ -112,9 +111,9 @@
     },
     "provinces": {
       "ituri": {
-        "zonesAffected": 24,
+        "zonesAffected": 27,
         "sourceWeight": 4,
-        "source": "2026-DON612 (as of 1 July 2026)"
+        "source": "2026-DON613 (as of 15 July 2026)"
       },
       "northKivu": {
         "zonesAffected": 11,
@@ -123,26 +122,24 @@
         "confirmed": 199
       },
       "southKivu": {
-        "zonesAffected": 1,
+        "confirmed": 3,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-15)",
-        "confirmed": 3
+        "source": "INRB sitrep (2026-07-15)"
       }
     },
     "uga": {
       "deaths": 2,
       "mentioned": true,
-      "cases": 20,
-      "probableDeaths": 1,
-      "recovered": 16
+      "recovered": 18,
+      "cases": 20
     },
     "whoAlert": "PHEIC",
     "sourceLabel": "INRB MVE Sitrep",
     "whoDon": {
-      "donId": "2026-DON612",
-      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON612",
-      "asOf": "1 July 2026",
-      "fetchedAt": "2026-07-03T16:26:09Z"
+      "donId": "2026-DON613",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON613",
+      "asOf": "15 July 2026",
+      "fetchedAt": "2026-07-17T19:12:48Z"
     },
     "inrbSitrep": {
       "asOf": "2026-07-15",
@@ -151,6 +148,55 @@
     }
   },
   "items": [
+    {
+      "title": "Identifying severe COVID-19 risk variants modulating enhancer reporter activity in lung cells",
+      "link": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012222",
+      "pubDate": "Fri, 17 Jul 2026 18:51:00 Z",
+      "desc": "Common genetic variants contribute to risk for complex human diseases. However, despite thousands of associations, variants modulating disease risk and their functional impact remain largely unknown. This includes SARS-CoV-2 infection, where outcomes range from asymptomatic to fatal.",
+      "tag": "analysis"
+    },
+    {
+      "title": "AATB Working to Develop Resources Following FDA Ebola Safety Communication",
+      "link": "https://www.aatb.org/news/aatb-working-develop-resources-following-fda-ebola-safety-communication",
+      "pubDate": "Fri, 17 Jul 2026 17:20:00 Z",
+      "desc": "AATB is aware of the FDA Safety Communication issued on July 10, 2026, titled Since the announcement, AATB has been working through its Emerging Infectious Diseases (EID) Working Group, a joint effort of the Physicians Council and the Scientific and Technical Affairs Council, and the Donor Risk....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda",
+      "link": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON613",
+      "pubDate": "Fri, 17 Jul 2026 17:09:00 Z",
+      "desc": "The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo remains active, with sustained transmission driving increases in reported cases and deaths. As of 15 July 2026, a cumulative total of 2124 confirmed cases, including 828 deaths, have been reported from the Democratic Republic of the Congo. On 13 July 20",
+      "tag": "cases"
+    },
+    {
+      "title": "New battery-powered device detects Bundibugyo Ebola virus in thirty minutes",
+      "link": "https://www.news-medical.net/news/20260717/New-battery-powered-device-detects-Bundibugyo-Ebola-virus-in-thirty-minutes.aspx",
+      "pubDate": "Fri, 17 Jul 2026 16:45:00 Z",
+      "desc": "Professor Yasutoshi Kido of the Graduate School of Medicine, Osaka Metropolitan University (OMU), in collaboration with K.K. DNAFORM and the National Institute for Biomedical Research (INRB) of the Democratic Republic of the Congo, is developing a portable rapid diagnostic system for Ebola virus disease (EVD) caused by Bundibugyo virus (BDBV).",
+      "tag": "analysis"
+    },
+    {
+      "title": "Comparative Efficacy of Vancomycin and Fidaxomicin Regimens for the Prevention of Recurrent Clostridioides difficile Infection: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+      "link": "https://www.medrxiv.org/content/10.64898/2026.07.14.26358112v1?rss=1",
+      "pubDate": "Fri, 17 Jul 2026 16:43:00 Z",
+      "desc": "Abstract. Background and Aims The optimal treatment for first episodes and first recurrences of Clostridioides difficile infections (CDI) is unknown and there is emerging evidence for pulse and taper (P-T) regimens. Therefore, we sought to estimate the relative efficacy of treatment options.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Human pegivirus, Toscana virus and herpesviruses identified in cerebrospinal fluid from adults with unexplained neurologic disease, Spain, 2022-2023",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42467473/",
+      "pubDate": "Fri, 17 Jul 2026 16:41:00 Z",
+      "desc": "Viral central nervous system (CNS) infections in adults frequently remain unresolved after routine diagnostic testing. We applied probe-based viral metagenomic next-generation sequencing (vmNGS) to cerebrospinal fluid samples from adults with suspected CNS infection and negative conventional....",
+      "tag": "cases"
+    },
+    {
+      "title": "Inside Kenya's Ebola defences as seven Americans enter quarantine - standardmedia.co.ke",
+      "link": "https://www.standardmedia.co.ke/health/amp/health-science/article/2001553086/inside-kenyas-ebola-defences-as-seven-americans-enter-quarantine",
+      "pubDate": "Fri, 17 Jul 2026 16:28:00 Z",
+      "desc": "Ebola -- Kenya. Significance Rating: 4 Inside Kenya's Ebola defences as seven Americans enter quarantine&nbsp;&nbsp;standardmedia.co.ke",
+      "tag": "analysis"
+    },
     {
       "title": "Why France Is Leading on Tick-Borne Diseases Medscape Europe6 minutes ago",
       "link": "https://www.medscape.com/viewarticle/why-france-leading-tick-borne-diseases-2026a1000obr",
@@ -327,17 +373,17 @@
       "tag": "response"
     },
     {
-      "title": "Press Releases Archives – Africa CDC",
-      "link": "https://africacdc.org/news-type/press-releases/",
-      "pubDate": "Thu, 16 Jul 2026 18:00:00 Z",
-      "desc": "Africa CDC Congratulates Green Climate Fund on Unlocking $4 Billion in New Climate Finance CapacityAddis Ababa, Ethiopia, 16 July 2026 – At a time when climate change is accelerating health threats across Africa and placing unprecedented pressure on communities and health systems, the Africa Centres for Disease Control and Prevention (Af",
-      "tag": "analysis"
-    },
-    {
       "title": "Communiqué Archives – Africa CDC",
       "link": "https://africacdc.org/news-type/communique/",
       "pubDate": "Thu, 16 Jul 2026 18:00:00 Z",
       "desc": "Réunion de Haut Niveau Présidentiel des Chefs d’Etat et de Gouvernement africains et partenaires (RHNP) consacré à la flambée de maladie à virus Ebola Bundibugyo en RDC et en Ouganda1. RHNP consacré à la flambée de maladie à virus Ebola Bundibugyo (MVB) en RDC et Ouganda s’est tenu le 16 juin 2026, sous la présidence de S.E. Évariste Nda",
+      "tag": "analysis"
+    },
+    {
+      "title": "Press Releases Archives – Africa CDC",
+      "link": "https://africacdc.org/news-type/press-releases/",
+      "pubDate": "Thu, 16 Jul 2026 18:00:00 Z",
+      "desc": "Africa CDC Congratulates Green Climate Fund on Unlocking $4 Billion in New Climate Finance CapacityAddis Ababa, Ethiopia, 16 July 2026 – At a time when climate change is accelerating health threats across Africa and placing unprecedented pressure on communities and health systems, the Africa Centres for Disease Control and Prevention (Af",
       "tag": "analysis"
     },
     {
@@ -1823,55 +1869,6 @@
       "pubDate": "Sun, 05 Jul 2026 16:23:00 Z",
       "desc": "Event Title: Measles, Zambia\nEvent URL: https://beaconbio.org/en/event/?eventid=6ae5c2bd-9857-432b-87a5-5d0b612d0a04\n\nSources Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit. Mwebantu. 03 Jul 2026 ZMinistry of Health Zambia - Official facebook Page. Zambia Launches Emergency Vaccination Campaign After Measles Cases Reach 11",
       "tag": "cases"
-    },
-    {
-      "title": "L’INSP mobilise les jeunes de Beni pour renforcer l’engagement communautaire.",
-      "link": "https://insp.cd/linsp-mobilise-les-jeunes-de-beni-pour-renforcer-lengagement-communautaire/",
-      "pubDate": "Sun, 05 Jul 2026 00:00:00 Z",
-      "desc": "juillet 5, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nDans le cadre du renforcement de la riposte contre la maladie à virus Ebola (MVE) au Nord-Kivu, l’Institut National de Santé Publique (INSP), à travers le Centre des Opérations d’Urgenc",
-      "tag": "analysis"
-    },
-    {
-      "title": "04 July 2026 - Bundibugyo virus disease outbreak: 1502 confirmed cases and 473 deaths reported in DRC; PARTNERS clinical trial opens enrolment",
-      "link": "https://beaconbio.org/en/report/?reportid=e91543c0-6f75-42e2-85a2-b12b539d3660",
-      "pubDate": "Sat, 04 Jul 2026 21:08:00 Z",
-      "desc": "Event Title: Bundibugyo virus disease, Democratic Republic of the Congo, Uganda, France\nEvent URL: https://beaconbio.org/en/event/?eventid=1a9a0ef4-262f-45a1-9018-aa8f99d93a7c\n\nSources Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda – Disease Outbreak News, WHO Disease Outbreak News, 02 Jul 2026 Ebola Situation U",
-      "tag": "cases"
-    },
-    {
-      "title": "DRC Mandates 21-Day Monitoring for Travelers From Ebola-Affected Zones After French Doctor Tests Positive Abroad",
-      "link": "https://globalbiodefense.com/2026/06/26/drc-mandates-21-day-monitoring-for-travelers-from-ebola-affected-zones-after-french-doctor-tests-positive-abroad/",
-      "pubDate": "Sat, 04 Jul 2026 14:57:00 Z",
-      "desc": "The Democratic Republic of Congo has imposed a mandatory 21-day monitoring period for anyone traveling from areas affected by the ongoing Ebola outbreak in Ituri province, the country’s health minister announced Wednesday — a move that comes as a French physician who worked at an Ebola treatment....",
-      "tag": "response"
-    },
-    {
-      "title": "Cases in the norovirus outbreak in David, Chiriquí, Panama have reached 2576 and are now declining; source remains under investigation",
-      "link": "https://beaconbio.org/en/report/?reportid=2dda099a-bbcb-46fd-a9e3-92c28a7a944e",
-      "pubDate": "Sat, 04 Jul 2026 12:40:00 Z",
-      "desc": "Event Title: Norovirus, Panama\nEvent URL: https://beaconbio.org/en/event/?eventid=c67d3eda-3f1d-4866-b364-dc57b7afea78\n\nSources Ministerio de Salud e Panama (MINSA) - X official page. MINSA statement on gastroenteritis cases in David. 03 Jul 2026 (in Spanish) Ministerio de Salud de Panama (MINSA). Epidemiological surveillance by the Ministry of Hea",
-      "tag": "cases"
-    },
-    {
-      "title": "Race for rapid Ebola test narrows to five potential manufacturers",
-      "link": "https://health.economictimes.indiatimes.com/news/diagnostics/race-for-rapid-ebola-test-narrows-to-five-potential-manufacturers/132173228",
-      "pubDate": "Sat, 04 Jul 2026 02:55:00 Z",
-      "desc": "Bilbao: The race to produce a rapid antigen test to diagnose the rare Bundibugyo Ebola virus has closed in on five possible manufacturers that could begin field trials in eastern Congo within weeks, a global alliance for diagnostics leading the ‌effort told Reuters.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Malaria fears grow in Congo's Ebola outbreak hotspots",
-      "link": "https://health.economictimes.indiatimes.com/news/industry/malaria-fears-grow-in-congos-ebola-outbreak-hotspots/132173230",
-      "pubDate": "Sat, 04 Jul 2026 02:26:00 Z",
-      "desc": "London: Malaria and other diseases may be as deadly as the Ebola outbreak ​in the Democratic Republic of Congo, health officials have warned, as the outbreak strains the healthcare system and spooks patients into staying away from clinics. Half-a-dozen medics and local and international health....",
-      "tag": "analysis"
-    },
-    {
-      "title": "2 de julio de 2026 Comunicado de prensa Se abre la inscripción de pacientes en un ensayo científico para determinar los primeros tratamientos eficaces contra la enfermedad por el virus de Bundibugyo",
-      "link": "https://www.who.int/es/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease",
-      "pubDate": "Fri, 03 Jul 2026 21:26:00 Z",
-      "desc": "Hoy se ha abierto la inscripción para el ensayo clínico PARTNERS, una importante iniciativa internacional que tiene por fin evaluar posibles tratamientos contra la enfermedad del Ébola causada por el virus Bundibugyo (EVB), para pacientes en la República Democrática del Congo.",
-      "tag": "analysis"
     }
   ],
   "highWater": {
