@@ -1,40 +1,40 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 17 Jul 2026 08:12:21 Z",
-  "fetchedAt": "2026-07-17T08:12:22Z",
+  "lastBuildDate": "Fri, 17 Jul 2026 10:48:12 Z",
+  "fetchedAt": "2026-07-17T10:48:13Z",
   "itemCount": 246,
   "stats": {
     "drc": {
-      "suspected": 268,
-      "deaths": 754,
-      "confirmed": 2011,
-      "recovered": 366,
-      "zonesAffected": 50,
+      "suspected": 389,
+      "deaths": 828,
+      "confirmed": 2124,
+      "recovered": 390,
+      "zonesAffected": 51,
       "topHealthZones": {
-        "Bunia": 534,
-        "Rwampara": 405,
-        "Mongbwalu": 336,
-        "Nizi": 131,
+        "Bunia": 570,
+        "Rwampara": 418,
+        "Mongbwalu": 347,
+        "Nizi": 148,
         "Nyankunde": 99,
-        "Katwa": 76,
-        "Lita": 59,
+        "Katwa": 82,
+        "Lita": 66,
+        "Butembo": 52,
         "Mangala": 50,
-        "Butembo": 46,
-        "Nia-Nia": 36,
+        "Nia-Nia": 42,
         "Nia Nia": 35,
+        "Beni": 33,
         "Bambu": 31,
-        "Beni": 31,
         "Komanda": 27,
         "Tchomia": 19,
-        "Musienene": 11,
-        "Kilo": 9,
-        "Mandima": 8,
+        "Musienene": 14,
+        "Kilo": 10,
+        "Mandima": 9,
         "Wamba": 8,
         "Kyondo": 7,
+        "Damas": 7,
         "Logo": 7,
+        "Fataki": 6,
         "Aungba": 6,
-        "Damas": 5,
-        "Fataki": 5,
         "Mambasa": 5,
         "Drodro": 5,
         "Rimba": 4,
@@ -59,29 +59,30 @@ window.FEED_DATA = {
         "Lubunga (Tshopo)": 1,
         "Ariwara": 1,
         "Isiro": 1,
+        "Mahagi": 1,
         "Karisimbi": 0,
         "Manguredjipa": 0
       },
       "healthcareWorkers": 102,
       "contacts": 10821,
-      "cfr": 37.5
+      "cfr": 39.0
     },
     "drcMeta": {
       "suspected": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-13)"
+        "src": "INRB sitrep (2026-07-15)"
       },
       "deaths": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-13)"
+        "src": "INRB sitrep (2026-07-15)"
       },
       "confirmed": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-13)"
+        "src": "INRB sitrep (2026-07-15)"
       },
       "recovered": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-13)"
+        "src": "INRB sitrep (2026-07-15)"
       }
     },
     "drcTiers": {
@@ -106,10 +107,10 @@ window.FEED_DATA = {
         "recovered": 229
       },
       "inrb": {
-        "confirmed": 2011,
-        "deaths": 754,
-        "suspected": 268,
-        "recovered": 366
+        "confirmed": 2124,
+        "deaths": 828,
+        "suspected": 389,
+        "recovered": 390
       }
     },
     "provinces": {
@@ -121,13 +122,13 @@ window.FEED_DATA = {
       "northKivu": {
         "zonesAffected": 11,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-13)",
-        "confirmed": 182
+        "source": "INRB sitrep (2026-07-15)",
+        "confirmed": 199
       },
       "southKivu": {
         "zonesAffected": 1,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-13)",
+        "source": "INRB sitrep (2026-07-15)",
         "confirmed": 3
       }
     },
@@ -147,9 +148,9 @@ window.FEED_DATA = {
       "fetchedAt": "2026-07-03T16:26:09Z"
     },
     "inrbSitrep": {
-      "asOf": "2026-07-13",
+      "asOf": "2026-07-15",
       "url": "https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/insp_sitrep/processed",
-      "fetchedAt": "2026-07-16T16:18:14.675308+00:00"
+      "fetchedAt": "2026-07-17T10:48:14.151024+00:00"
     }
   },
   "items": [
@@ -245,17 +246,17 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Communiqué Archives – Africa CDC",
-      "link": "https://africacdc.org/news-type/communique/",
-      "pubDate": "Thu, 16 Jul 2026 18:00:00 Z",
-      "desc": "Réunion de Haut Niveau Présidentiel des Chefs d’Etat et de Gouvernement africains et partenaires (RHNP) consacré à la flambée de maladie à virus Ebola Bundibugyo en RDC et en Ouganda1. RHNP consacré à la flambée de maladie à virus Ebola Bundibugyo (MVB) en RDC et Ouganda s’est tenu le 16 juin 2026, sous la présidence de S.E. Évariste Nda",
-      "tag": "analysis"
-    },
-    {
       "title": "Press Releases Archives – Africa CDC",
       "link": "https://africacdc.org/news-type/press-releases/",
       "pubDate": "Thu, 16 Jul 2026 18:00:00 Z",
       "desc": "Africa CDC Congratulates Green Climate Fund on Unlocking $4 Billion in New Climate Finance CapacityAddis Ababa, Ethiopia, 16 July 2026 – At a time when climate change is accelerating health threats across Africa and placing unprecedented pressure on communities and health systems, the Africa Centres for Disease Control and Prevention (Af",
+      "tag": "analysis"
+    },
+    {
+      "title": "Communiqué Archives – Africa CDC",
+      "link": "https://africacdc.org/news-type/communique/",
+      "pubDate": "Thu, 16 Jul 2026 18:00:00 Z",
+      "desc": "Réunion de Haut Niveau Présidentiel des Chefs d’Etat et de Gouvernement africains et partenaires (RHNP) consacré à la flambée de maladie à virus Ebola Bundibugyo en RDC et en Ouganda1. RHNP consacré à la flambée de maladie à virus Ebola Bundibugyo (MVB) en RDC et Ouganda s’est tenu le 16 juin 2026, sous la présidence de S.E. Évariste Nda",
       "tag": "analysis"
     },
     {
@@ -273,6 +274,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Nigeria Centre for Disease Control and Prevention",
+      "link": "https://ncdc.gov.ng/projects",
+      "pubDate": "Thu, 16 Jul 2026 15:23:00 Z",
+      "desc": "Projects\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tThe Community-Based One Health Participatory and Empowerment (COPE) Strategy For One Health Interventions\t\t\t\t\tThe Community-Based One Health Participatory and Empowerment (COPE) Strategy aims to enable communities to identify their pressing One Health challenges as well as sustainable local solutions for mitigati",
+      "tag": "analysis"
+    },
+    {
       "title": "Media Advisory Archives – Africa CDC",
       "link": "https://africacdc.org/news-type/media-advisory/",
       "pubDate": "Thu, 16 Jul 2026 15:23:00 Z",
@@ -285,13 +293,6 @@ window.FEED_DATA = {
       "pubDate": "Thu, 16 Jul 2026 15:23:00 Z",
       "desc": "Community Engagement Should be Prioritised in Bundibugyo Ebola Outbreak FightOne month after the declaration of the 2026 Bundibugyo Ebola outbreak as both a global and continental public health emergency, transmission continues to expand in eastern Democratic Republic of Congo (DRC) and Uganda despite substantial response efforts. As of",
       "tag": "pheic"
-    },
-    {
-      "title": "Nigeria Centre for Disease Control and Prevention",
-      "link": "https://ncdc.gov.ng/projects",
-      "pubDate": "Thu, 16 Jul 2026 15:23:00 Z",
-      "desc": "Projects\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tThe Community-Based One Health Participatory and Empowerment (COPE) Strategy For One Health Interventions\t\t\t\t\tThe Community-Based One Health Participatory and Empowerment (COPE) Strategy aims to enable communities to identify their pressing One Health challenges as well as sustainable local solutions for mitigati",
-      "tag": "analysis"
     },
     {
       "title": "Surveillance and Disease Intelligence – Africa CDC",
@@ -525,6 +526,34 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Donor dependency and pandemic readiness: insights from the 2026 Ebola Bundibugyo outbreak in the East African community",
+      "link": "https://doi.org/10.3389/fpubh.2026.1891266",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fpubh.2026.1891266\nAuthors: John Mugisha, Julius Niyibizi, Emmanuel Nizeyimana, Munawar Harun Koray\n The 2026 Bundibugyo virus disease (BVD) outbreak has exposed persistent weaknesses in health-security preparedness across the East African Community (EAC). Although regional preparedness has improved, major gaps remain in early d",
+      "tag": "response"
+    },
+    {
+      "title": "Statement by Africa CDC on the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC)",
+      "link": "https://africacdc.org/news-item/statement-by-africa-cdc-on-the-release-of-the-2025-who-unicef-estimates-of-national-immunization-coverage-wuenic/",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "15 July 2026\n\n\n\nToday, Africa CDC joins the World Health Organization (WHO), UNICEF, Gavi the Vaccine Alliance and other partners in welcoming the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC). These estimates represent far more than annual coverage statistics: they are a measure of the resilience of our",
+      "tag": "analysis"
+    },
+    {
+      "title": "Bleeding in haemorrhagic fever with renal syndrome: A systematic review characterising the loss of haemostasis in hantavirus infections",
+      "link": "https://doi.org/10.1371/journal.pntd.0014524",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.pntd.0014524\nAuthors: Matthew J. Riley, Aliza Hudda, Miša Korva, Tatjana Avšič-Županc, Beverley J. Hunt, Tom E. Fletcher\n \n                     Background \n                     Haemorrhagic fever with renal syndrome (HFRS) is caused by hantaviruses and is associated with variab",
+      "tag": "analysis"
+    },
+    {
+      "title": "Investigating the perspectives of Liberian frontline health workers on ethical tensions experienced during the Ebola epidemic and the COVID-19 pandemic",
+      "link": "https://doi.org/10.21203/rs.3.rs-10210776/v1",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10210776/v1\nAuthors: Parnor Madjitey, Joseph M. Sieka, Marie-Edith Nepveu-Traversy, Gary Kobinger, Matthew Hunt\n Abstract \n                 Background\n Liberia’s post-civil-war healthcare system lacked effective surveillance and response measures, two key structures for monitoring the threat of communicable dise",
+      "tag": "response"
+    },
+    {
       "title": "Beta-adrenergic receptor activation during stress reduces the abundance of commensal Clostridia in the mouse gut",
       "link": "https://doi.org/10.64898/2026.07.14.738460",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
@@ -539,34 +568,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Statement by Africa CDC on the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC)",
-      "link": "https://africacdc.org/news-item/statement-by-africa-cdc-on-the-release-of-the-2025-who-unicef-estimates-of-national-immunization-coverage-wuenic/",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "15 July 2026\n\n\n\nToday, Africa CDC joins the World Health Organization (WHO), UNICEF, Gavi the Vaccine Alliance and other partners in welcoming the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC). These estimates represent far more than annual coverage statistics: they are a measure of the resilience of our",
-      "tag": "analysis"
-    },
-    {
-      "title": "Donor dependency and pandemic readiness: insights from the 2026 Ebola Bundibugyo outbreak in the East African community",
-      "link": "https://doi.org/10.3389/fpubh.2026.1891266",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fpubh.2026.1891266\nAuthors: John Mugisha, Julius Niyibizi, Emmanuel Nizeyimana, Munawar Harun Koray\n The 2026 Bundibugyo virus disease (BVD) outbreak has exposed persistent weaknesses in health-security preparedness across the East African Community (EAC). Although regional preparedness has improved, major gaps remain in early d",
-      "tag": "response"
-    },
-    {
-      "title": "Investigating the perspectives of Liberian frontline health workers on ethical tensions experienced during the Ebola epidemic and the COVID-19 pandemic",
-      "link": "https://doi.org/10.21203/rs.3.rs-10210776/v1",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10210776/v1\nAuthors: Parnor Madjitey, Joseph M. Sieka, Marie-Edith Nepveu-Traversy, Gary Kobinger, Matthew Hunt\n Abstract \n                 Background\n Liberia’s post-civil-war healthcare system lacked effective surveillance and response measures, two key structures for monitoring the threat of communicable dise",
-      "tag": "response"
-    },
-    {
-      "title": "Bleeding in haemorrhagic fever with renal syndrome: A systematic review characterising the loss of haemostasis in hantavirus infections",
-      "link": "https://doi.org/10.1371/journal.pntd.0014524",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.pntd.0014524\nAuthors: Matthew J. Riley, Aliza Hudda, Miša Korva, Tatjana Avšič-Županc, Beverley J. Hunt, Tom E. Fletcher\n \n                     Background \n                     Haemorrhagic fever with renal syndrome (HFRS) is caused by hantaviruses and is associated with variab",
-      "tag": "analysis"
-    },
-    {
       "title": "Endolysosomal two-pore channels regulate a conserved entry pathway for enteroviruses",
       "link": "https://www.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.002294",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
@@ -574,17 +575,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Identification and in-depth characterization of clinical isolates of <i>Peribacillus frigoritolerans</i>",
-      "link": "https://doi.org/10.1128/spectrum.00245-26",
+      "title": "Crimean-Congo hemorrhagic fever virus in the last four decades (1981–2025): global output, collaboration networks, and emerging frontiers",
+      "link": "https://doi.org/10.1007/s11250-026-05209-0",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/spectrum.00245-26\nAuthors: Marco Calvigioni, Virginia Rossi, Francesco Celandroni, Simona Barnini, Antonella Lupetti, Diletta Mazzantini, Emilia Ghelardi\n ABSTRACT \n                   \n                     \n                     \n                       Peribacil",
-      "tag": "analysis"
-    },
-    {
-      "title": "From Array-CGH to Whole-Genome Sequencing: A 29-Year Diagnostic Journey Culminating in the Identification of a De Novo ABCC9 Variant Consistent with Cantú Syndrome",
-      "link": "https://doi.org/10.3390/diagnostics16142204",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/diagnostics16142204\nAuthors: Chung-Lin Lee, Ya-Hui Chang, Chih-Kuang Chuang, Huei-Ching Chiu, Yuan-Rong Tu, Yun-Ting Lo, Jun-Yi Wu, Hsiang-Yu Lin, Shuan-Pei Lin\n Background and Clinical Significance: Cantú syndrome (OMIM #239850) is a rare autosomal dominant disorder caused by gain-of-function variants in ABCC9 or KCNJ8, which e",
+      "desc": "DOI: 10.1007/s11250-026-05209-0\nAuthors: Md Zulfekar Ali, Uwem Okon Edet, Olanrewaju E. Igah, Edema Enogiomwan Imalele, Mirza Mienur Meher, Clement Meseko",
       "tag": "analysis"
     },
     {
@@ -595,24 +589,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "MCAS, POTS, Dysautonomia, and “Genetic Disorders” — Long COVID Observations",
-      "link": "https://doi.org/10.71189/jim/2026/v02n04a08",
+      "title": "Identification and in-depth characterization of clinical isolates of <i>Peribacillus frigoritolerans</i>",
+      "link": "https://doi.org/10.1128/spectrum.00245-26",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.71189/jim/2026/v02n04a08\nAuthors: Gwen Foster\n With 27 years of experience working with health clients—specializing in chronic illness and autoimmune disorders—this practice has developed a strong foundation in pattern recognition and research. New health trends have emerged that were not observed prior to 2020, including conditions",
+      "desc": "DOI: 10.1128/spectrum.00245-26\nAuthors: Marco Calvigioni, Virginia Rossi, Francesco Celandroni, Simona Barnini, Antonella Lupetti, Diletta Mazzantini, Emilia Ghelardi\n ABSTRACT \n                   \n                     \n                     \n                       Peribacil",
       "tag": "analysis"
-    },
-    {
-      "title": "Mycobacterium tuberculosis suppresses protective Th17 responses during infection",
-      "link": "https://doi.org/10.7554/elife.110008.2",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.7554/elife.110008.2\nAuthors: Alex Zilinskas, Amir Balakhmet, Douglas Fox, Heyuan Michael Ni, Carolina Agudelo, Helia Samani, Sarah A Stanley\n Mycobacterium tuberculosis (Mtb) causes more deaths annually than any other pathogen, yet an effective vaccine remains elusive. IFN-γ–producing Th1 CD4+ T cells are necessary but insufficient f",
-      "tag": "cases"
     },
     {
       "title": "Association Between Glutathione S-Transferase (GST) Gene Polymorphisms and Coronary Artery Disease: A Case–Control Study in Bangladesh",
       "link": "https://doi.org/10.1177/19450265261469737",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1177/19450265261469737\nAuthors: Sauda Sumaya Dina, Somzida Akter Moni, Faisal Abdullah Emon, Rajib Das, C.M. Shaheen Kabir, Md Abdul Muhit, Nahid Sharmin, Sheikh Zahir Raihan\n \n                     Background: \n                     \n                      Glutathione-S-transferases (GSTs) play an import",
+      "tag": "analysis"
+    },
+    {
+      "title": "From Array-CGH to Whole-Genome Sequencing: A 29-Year Diagnostic Journey Culminating in the Identification of a De Novo ABCC9 Variant Consistent with Cantú Syndrome",
+      "link": "https://doi.org/10.3390/diagnostics16142204",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/diagnostics16142204\nAuthors: Chung-Lin Lee, Ya-Hui Chang, Chih-Kuang Chuang, Huei-Ching Chiu, Yuan-Rong Tu, Yun-Ting Lo, Jun-Yi Wu, Hsiang-Yu Lin, Shuan-Pei Lin\n Background and Clinical Significance: Cantú syndrome (OMIM #239850) is a rare autosomal dominant disorder caused by gain-of-function variants in ABCC9 or KCNJ8, which e",
       "tag": "analysis"
     },
     {
@@ -623,10 +617,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Crimean-Congo hemorrhagic fever virus in the last four decades (1981–2025): global output, collaboration networks, and emerging frontiers",
-      "link": "https://doi.org/10.1007/s11250-026-05209-0",
+      "title": "Mycobacterium tuberculosis suppresses protective Th17 responses during infection",
+      "link": "https://doi.org/10.7554/elife.110008.2",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1007/s11250-026-05209-0\nAuthors: Md Zulfekar Ali, Uwem Okon Edet, Olanrewaju E. Igah, Edema Enogiomwan Imalele, Mirza Mienur Meher, Clement Meseko",
+      "desc": "DOI: 10.7554/elife.110008.2\nAuthors: Alex Zilinskas, Amir Balakhmet, Douglas Fox, Heyuan Michael Ni, Carolina Agudelo, Helia Samani, Sarah A Stanley\n Mycobacterium tuberculosis (Mtb) causes more deaths annually than any other pathogen, yet an effective vaccine remains elusive. IFN-γ–producing Th1 CD4+ T cells are necessary but insufficient f",
+      "tag": "cases"
+    },
+    {
+      "title": "MCAS, POTS, Dysautonomia, and “Genetic Disorders” — Long COVID Observations",
+      "link": "https://doi.org/10.71189/jim/2026/v02n04a08",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.71189/jim/2026/v02n04a08\nAuthors: Gwen Foster\n With 27 years of experience working with health clients—specializing in chronic illness and autoimmune disorders—this practice has developed a strong foundation in pattern recognition and research. New health trends have emerged that were not observed prior to 2020, including conditions",
       "tag": "analysis"
     },
     {
@@ -665,17 +666,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "US emergency departments seeing fewer C difficile cases, study finds",
-      "link": "https://www.cidrap.umn.edu/clostridium-difficile/us-emergency-departments-seeing-fewer-c-difficile-cases-study-finds",
-      "pubDate": "Tue, 14 Jul 2026 20:12:00 Z",
-      "desc": "World Bank / Vincent Tremeau/Flickr cc. were enrolled in a trial testing Gilead Sciences' experimental antiviral drug obeldesivir as post-exposure prophylaxis (PEP, for preventing disease) for the ‌ongoing Bundibugyo Ebola outbreak in the Democratic Republic of the Congo (DRC).",
-      "tag": "cases"
-    },
-    {
       "title": "What we truly know about the huge US Cyclospora outbreak—and what we don’t",
       "link": "https://www.cidrap.umn.edu/cyclospora/what-we-truly-know-about-huge-us-cyclospora-outbreak-and-what-we-don-t",
       "pubDate": "Tue, 14 Jul 2026 20:12:00 Z",
       "desc": "As the number of cases of cyclosporiasis—infection with Cyclospora —grows across the country and stories about explosive diarrhea spread, many people don’t know what to do to avoid the illness. There’s a lot of uncertainty, leaving them with many questions and few good answers.",
+      "tag": "cases"
+    },
+    {
+      "title": "US emergency departments seeing fewer C difficile cases, study finds",
+      "link": "https://www.cidrap.umn.edu/clostridium-difficile/us-emergency-departments-seeing-fewer-c-difficile-cases-study-finds",
+      "pubDate": "Tue, 14 Jul 2026 20:12:00 Z",
+      "desc": "World Bank / Vincent Tremeau/Flickr cc. were enrolled in a trial testing Gilead Sciences' experimental antiviral drug obeldesivir as post-exposure prophylaxis (PEP, for preventing disease) for the ‌ongoing Bundibugyo Ebola outbreak in the Democratic Republic of the Congo (DRC).",
       "tag": "cases"
     },
     {
@@ -840,10 +841,17 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "A DNA-scaffolded Retron Ring Mediates Antiphage Immunity",
-      "link": "https://doi.org/10.64898/2026.07.14.737667",
+      "title": "A case of severe terbinafine induced gastritis presenting as a likely protein losing enteropathy",
+      "link": "https://doi.org/10.21203/rs.3.rs-10257093/v1",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.14.737667\nAuthors: Arturo Carabias, Ruiliang Zhao, Ricardo Garcia Martin, Nuria Ardid Munoz, Mario Rodriguez Mestre, Huijuan Li, Johannes Anton Kuhn, Josepha Magdalene Klas, Sarah Camara Wilpert, Dennis Zhang, Nanna Wagner, Selma Margarita Kuypers, Tillmann Pape, Soren Johannes Sorensen, Rafael Pinilla Redondo, Guillermo Monto",
+      "desc": "DOI: 10.21203/rs.3.rs-10257093/v1\nAuthors: Shiidheshwar J Ravichandran, Kevin Wong, Benjamin Gomez, Metthananda Nawarathne Nawarathne Mudiyanselage, Julian Rong\n Abstract \n                 \n                   Background \n                  The primary cause of gastritis is infection with helicobacter Pylori, followed by che",
+      "tag": "analysis"
+    },
+    {
+      "title": "Stevens–Johnson Syndrome/Toxic Epidermal Necrolysis in a Pediatric Patient With Dengue Hemorrhagic Fever: A Case Report",
+      "link": "https://doi.org/10.70070/85rsxd08",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.70070/85rsxd08\n Background: Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) are acute, life-threatening mucocutaneous reactions characterised by widespread epidermal necrosis. These conditions are characterised by skin blisters and involvement of the oral, nasal, ocular, and genital mucosa. SJS/TEN are immune-medi",
       "tag": "analysis"
     },
     {
@@ -861,17 +869,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "A case of severe terbinafine induced gastritis presenting as a likely protein losing enteropathy",
-      "link": "https://doi.org/10.21203/rs.3.rs-10257093/v1",
+      "title": "A DNA-scaffolded Retron Ring Mediates Antiphage Immunity",
+      "link": "https://doi.org/10.64898/2026.07.14.737667",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10257093/v1\nAuthors: Shiidheshwar J Ravichandran, Kevin Wong, Benjamin Gomez, Metthananda Nawarathne Nawarathne Mudiyanselage, Julian Rong\n Abstract \n                 \n                   Background \n                  The primary cause of gastritis is infection with helicobacter Pylori, followed by che",
-      "tag": "analysis"
-    },
-    {
-      "title": "Stevens–Johnson Syndrome/Toxic Epidermal Necrolysis in a Pediatric Patient With Dengue Hemorrhagic Fever: A Case Report",
-      "link": "https://doi.org/10.70070/85rsxd08",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.70070/85rsxd08\n Background: Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) are acute, life-threatening mucocutaneous reactions characterised by widespread epidermal necrosis. These conditions are characterised by skin blisters and involvement of the oral, nasal, ocular, and genital mucosa. SJS/TEN are immune-medi",
+      "desc": "DOI: 10.64898/2026.07.14.737667\nAuthors: Arturo Carabias, Ruiliang Zhao, Ricardo Garcia Martin, Nuria Ardid Munoz, Mario Rodriguez Mestre, Huijuan Li, Johannes Anton Kuhn, Josepha Magdalene Klas, Sarah Camara Wilpert, Dennis Zhang, Nanna Wagner, Selma Margarita Kuypers, Tillmann Pape, Soren Johannes Sorensen, Rafael Pinilla Redondo, Guillermo Monto",
       "tag": "analysis"
     },
     {
@@ -980,17 +981,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Samoa américaines",
-      "link": "https://voyage.gc.ca/destinations/samoa-americaines",
-      "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
-      "desc": "Pannes d’électricité et pénuries d’eau. Les pannes d’électricité et les pénuries d’eau surviennent occasionnellement, surtout pendant et après le passage de cyclones. Les autorités locales peuvent limiter la consommation d'électricité et imposer des mesures de rationnement de l’eau.",
-      "tag": "analysis"
-    },
-    {
       "title": "Maladie Ebola en Ouganda",
       "link": "https://voyage.gc.ca/voyager/sante-securite/conseils-sante-voyageurs/550",
       "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
       "desc": "Date de publication originale : 26 mai 2026. Mise à jour : 2 juillet 2026 Destinations touchées Ouganda Points clés La maladie Ebola est causée par un groupe de virus qui se transmettent par contact avec les fluides corporels de personnes ou d'animaux présentant des symptômes de la maladie. Cette maladie est grave et souvent mortelle.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Samoa américaines",
+      "link": "https://voyage.gc.ca/destinations/samoa-americaines",
+      "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
+      "desc": "Pannes d’électricité et pénuries d’eau. Les pannes d’électricité et les pénuries d’eau surviennent occasionnellement, surtout pendant et après le passage de cyclones. Les autorités locales peuvent limiter la consommation d'électricité et imposer des mesures de rationnement de l’eau.",
       "tag": "analysis"
     },
     {
@@ -1008,6 +1009,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "In a Defining Moment for Public Health Response in Sierra Leone, Health Minister Declares the Mpox Outbreak Over.",
+      "link": "https://mohs.gov.sl/in-a-defining-moment-for-public-health-response-in-sierra-leone-health-minister-declares-the-mpox-outbreak-over/",
+      "pubDate": "Mon, 13 Jul 2026 15:18:00 Z",
+      "desc": "The Minister of Health, Dr. Austin Demby, officially declares Mpox over in Sierra Leone at City Hall in Freetown. The people of Sierra Leone are smiling once again after achieving another significant milestone in the fight against public health outbreaks of international concern. On Monday 15th December, 2025, the Minister of Health, Dr.",
+      "tag": "response"
+    },
+    {
       "title": "“The Health Travel Portal Will Strengthen Border Security Amid Ongoing Ebola Outbreak Elsewhere” Dr. Austin Demby",
       "link": "https://mohs.gov.sl/the-health-travel-portal-will-strengthen-border-security-amid-ongoing-ebola-outbreak-elsewhere-dr-austin-demby/",
       "pubDate": "Mon, 13 Jul 2026 15:18:00 Z",
@@ -1020,13 +1028,6 @@ window.FEED_DATA = {
       "pubDate": "Mon, 13 Jul 2026 15:18:00 Z",
       "desc": "Health Ministers of ECOWAS member states pose for a group photograp after the official opening of the just concluded 27 th Ordinary Session in Freetown. Described as the best health ministers conference since its inception, Sierra Leone proudly achieved a great feat not just in hosting the 27 th....",
       "tag": "analysis"
-    },
-    {
-      "title": "In a Defining Moment for Public Health Response in Sierra Leone, Health Minister Declares the Mpox Outbreak Over.",
-      "link": "https://mohs.gov.sl/in-a-defining-moment-for-public-health-response-in-sierra-leone-health-minister-declares-the-mpox-outbreak-over/",
-      "pubDate": "Mon, 13 Jul 2026 15:18:00 Z",
-      "desc": "The Minister of Health, Dr. Austin Demby, officially declares Mpox over in Sierra Leone at City Hall in Freetown. The people of Sierra Leone are smiling once again after achieving another significant milestone in the fight against public health outbreaks of international concern. On Monday 15th December, 2025, the Minister of Health, Dr.",
-      "tag": "response"
     },
     {
       "title": "Weekly Bulletin EW 24, 2026",
@@ -1141,10 +1142,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Diagnostic testing for Ebola disease and Marburg virus disease: interim guidance, 9 July 2026",
+      "link": "https://doi.org/10.2471/b09834",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.2471/b09834",
+      "tag": "analysis"
+    },
+    {
       "title": "Effectiveness of Active Compounds in Pineapple Peel Extract (Ananas comosus) as a Biolarvicide Against Aedes aegypti: Integration of In Silico, In Vitro, and Comprehensive Literature Review Analyses",
       "link": "https://doi.org/10.55885/jchp.v6i2.1006",
       "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.55885/jchp.v6i2.1006\nAuthors: Defri Defri, M. Yulis Hamidy, Elva Susanty\n Dengue hemorrhagic fever remains an important public health problem in tropical countries, including Indonesia, and larval control of Aedes aegypti is a strategic component of dengue prevention. This revised manuscript aims to synthesize published evidence on t",
+      "tag": "analysis"
+    },
+    {
+      "title": "Mutation mapping and evolutionary dynamics of Bundibugyo Ebolavirus (BDBV-2026) genomes reported from Uganda",
+      "link": "https://doi.org/10.21203/rs.3.rs-10310109/v1",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10310109/v1\nAuthors: David Kelvin, Anuj Kumar, Andrew Nsawotebba, Barnabas Bakamutumaho, Bruce Kirenga, Mansi Dutt, Gustavo Sganzerla Martinez, Winters Muttamba, Wilber Sabiiti, Misaki Wayengera, Henry Bosa, Bernard Lutwama, Susan Nabadda, Charles Olaro, Diana Atwiine, Charles Ayume, Chris Baryomunsi, Atek Kagirita\n Abst",
       "tag": "analysis"
     },
     {
@@ -1166,20 +1181,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1155/cdr/8095418",
       "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1155/cdr/8095418\nAuthors: WanPing Yao, Chang Liu, ZiYi Fang, ShanShan Li, Lu Hong Xu, WenHao Qian, Fangfang Li, Jing Zong\n \n                     Background \n                     Gastrin‐17 (G‐17) and serum pepsinogen (PG) are indicators that reflect the structure and function of the stomach mucosa. Alt",
-      "tag": "analysis"
-    },
-    {
-      "title": "Diagnostic testing for Ebola disease and Marburg virus disease: interim guidance, 9 July 2026",
-      "link": "https://doi.org/10.2471/b09834",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.2471/b09834",
-      "tag": "analysis"
-    },
-    {
-      "title": "Mutation mapping and evolutionary dynamics of Bundibugyo Ebolavirus (BDBV-2026) genomes reported from Uganda",
-      "link": "https://doi.org/10.21203/rs.3.rs-10310109/v1",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10310109/v1\nAuthors: David Kelvin, Anuj Kumar, Andrew Nsawotebba, Barnabas Bakamutumaho, Bruce Kirenga, Mansi Dutt, Gustavo Sganzerla Martinez, Winters Muttamba, Wilber Sabiiti, Misaki Wayengera, Henry Bosa, Bernard Lutwama, Susan Nabadda, Charles Olaro, Diana Atwiine, Charles Ayume, Chris Baryomunsi, Atek Kagirita\n Abst",
       "tag": "analysis"
     },
     {
@@ -1879,8 +1880,8 @@ window.FEED_DATA = {
   "highWater": {
     "drc": {
       "deaths": {
-        "value": 754,
-        "asOf": "2026-07-16T16:18:13Z",
+        "value": 828,
+        "asOf": "2026-07-17T10:48:13Z",
         "source": "INRB MVE Sitrep"
       },
       "confirmed_deaths": {
@@ -1894,8 +1895,8 @@ window.FEED_DATA = {
         "source": "WHO / OMS"
       },
       "confirmed": {
-        "value": 2011,
-        "asOf": "2026-07-16T16:18:13Z",
+        "value": 2124,
+        "asOf": "2026-07-17T10:48:13Z",
         "source": "INRB MVE Sitrep"
       },
       "active": {
