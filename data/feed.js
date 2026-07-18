@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 18 Jul 2026 02:38:09 Z",
-  "fetchedAt": "2026-07-18T02:38:10Z",
+  "lastBuildDate": "Sat, 18 Jul 2026 05:27:56 Z",
+  "fetchedAt": "2026-07-18T05:27:56Z",
   "itemCount": 246,
   "stats": {
     "drc": {
@@ -145,6 +145,27 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "Le Dr Chikwe Ihekweazu s'exprime sur la réponse à Ebola en République démocratique du Congo",
+      "link": "https://www.afro.who.int/node/23576",
+      "pubDate": "Sat, 18 Jul 2026 05:05:00 Z",
+      "desc": "De la mobilisation communautaire et du dépistage à la recherche des contacts et au traitement, la réponse à l'épidémie de maladie à virus Ebola menée par le gouvernement de la RDC s'intensifie. Des défis de taille subsistent, mais avec une collaboration étroite, un soutien constant des intervenants....",
+      "tag": "response"
+    },
+    {
+      "title": "Dr Chikwe Ihekweazu on Ebola response in the Democratic Republic of the Congo",
+      "link": "https://www.afro.who.int/node/23577",
+      "pubDate": "Sat, 18 Jul 2026 05:05:00 Z",
+      "desc": "From community engagement and testing to contact tracing and treatment, the government-led Ebola response in the DRC is being intensified. Significant challenges remain, but with strong collaboration, sustained support for frontline health workers, and the people of DRC the outbreak can be brought....",
+      "tag": "response"
+    },
+    {
+      "title": "IgG4-Related Hepatic Disease Unmasking Hepatic Actinomycosis",
+      "link": "https://link.springer.com/article/10.1007/s10875-026-02049-3",
+      "pubDate": "Sat, 18 Jul 2026 04:09:00 Z",
+      "desc": "Purpose. Hepatic actinomycosis is a rare granulomatous disease caused by an opportunistic Gram-positive bacillus of the genus Actinomyces . We report an unusual association between hepatic actinomycosis and IgG-4 related disease. Case Description. A 70-year-old man was admitted to the University....",
+      "tag": "analysis"
+    },
     {
       "title": "Ebola case reported in France following outbreak of rare strain that’s killed 267 - MSN",
       "link": "https://www.msn.com/en-za/health/general/ebola-case-reported-in-france-following-outbreak-of-rare-strain-that-s-killed-267/ar-AA26qbCT",
@@ -1844,27 +1865,6 @@ window.FEED_DATA = {
       "link": "https://www.who.int/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease",
       "pubDate": "Tue, 07 Jul 2026 04:34:00 Z",
       "desc": "In a major international effort to evaluate potential treatments for Ebola disease due to Bundibugyo virus (BVD), the PARTNERS clinical trial has opened enrolment today for patients in the Democratic Republic of the Congo. The PARTNERS (Platform Adaptive Randomised Trial for New and Repurposed....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Union Health Ministry launches learning resource package, E-learning modules to strengthen zoonotic disease surveillance and response",
-      "link": "https://health.economictimes.indiatimes.com/news/policy/union-health-ministry-launches-learning-resource-package-e-learning-modules-to-strengthen-zoonotic-disease-surveillance-and-response/132228218",
-      "pubDate": "Tue, 07 Jul 2026 01:59:00 Z",
-      "desc": "Addressing the gathering, Additional Secretary, Ministry of Health & Family Welfare, Rakesh Gupta highlighted that zoonotic diseases continue to pose significant public health, animal health and economic challenges globally and in India. He emphasised that the Government is committed to having....",
-      "tag": "response"
-    },
-    {
-      "title": "Ebola deaths in Congo top 500 as health workers threaten to strike",
-      "link": "https://health.economictimes.indiatimes.com/news/industry/ebola-deaths-in-congo-top-500-as-health-workers-threaten-to-strike/132228228",
-      "pubDate": "Tue, 07 Jul 2026 01:59:00 Z",
-      "desc": "Bunia: At least 500 people have died out of over 1,500 confirmed cases in Congo's Ebola outbreak, authorities said, as frontline workers threatened to go on strike on Monday over unpaid benefits and poor working conditions. The outbreak has recorded 1,561 cases, including 506 deaths, since it was....",
-      "tag": "cases"
-    },
-    {
-      "title": "Un cas de paludisme signalé au Fenua",
-      "link": "https://www.tahiti-infos.com/Un-cas-de-paludisme-signale-au-Fenua_a238677.html",
-      "pubDate": "Tue, 07 Jul 2026 01:33:00 Z",
-      "desc": "Tahiti le 6 juillet 2026 D'après le dernier bulletin sanitaire, un cas de paludisme a été détecté en Polynésie chez une personne ayant séjourné dans un pays de l'Afrique de l'Ouest. L'Agence de régulation de l'action sanitaire et sociale rappelle l'importance d'être vigilant d'autant plus au regard....",
       "tag": "analysis"
     }
   ],
