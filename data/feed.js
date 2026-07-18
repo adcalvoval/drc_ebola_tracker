@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 18 Jul 2026 07:53:29 Z",
-  "fetchedAt": "2026-07-18T07:53:29Z",
+  "lastBuildDate": "Sat, 18 Jul 2026 10:19:37 Z",
+  "fetchedAt": "2026-07-18T10:19:38Z",
   "itemCount": 246,
   "stats": {
     "drc": {
