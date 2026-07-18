@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 18 Jul 2026 15:59:03 Z",
-  "fetchedAt": "2026-07-18T15:59:03Z",
+  "lastBuildDate": "Sat, 18 Jul 2026 19:07:25 Z",
+  "fetchedAt": "2026-07-18T19:07:25Z",
   "itemCount": 246,
   "stats": {
     "drc": {
@@ -145,6 +145,13 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "3 Killed as 7 US Aid Workers Quarantined at Kenya's Controversial Ebola Centre - News of Bahrain",
+      "link": "https://www.newsofbahrain.com/world/137655.html",
+      "pubDate": "Sat, 18 Jul 2026 14:28:00 Z",
+      "desc": "-- United States. Significance Rating: 1 3 Killed as 7 US Aid Workers Quarantined at Kenya's Controversial Ebola Centre&nbsp;&nbsp;News of Bahrain",
+      "tag": "analysis"
+    },
     {
       "title": "Alemania confirma segundo caso de trabajador humanitario tratado por brote de ébola",
       "link": "https://lawebdelasalud.com/alemania-confirma-segundo-caso-de-trabajador-humanitario-tratado-por-brote-de-ebola/",
@@ -496,17 +503,17 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Press Releases Archives – Africa CDC",
-      "link": "https://africacdc.org/news-type/press-releases/",
-      "pubDate": "Thu, 16 Jul 2026 18:00:00 Z",
-      "desc": "Africa CDC Congratulates Green Climate Fund on Unlocking $4 Billion in New Climate Finance CapacityAddis Ababa, Ethiopia, 16 July 2026 – At a time when climate change is accelerating health threats across Africa and placing unprecedented pressure on communities and health systems, the Africa Centres for Disease Control and Prevention (Af",
-      "tag": "analysis"
-    },
-    {
       "title": "Communiqué Archives – Africa CDC",
       "link": "https://africacdc.org/news-type/communique/",
       "pubDate": "Thu, 16 Jul 2026 18:00:00 Z",
       "desc": "Réunion de Haut Niveau Présidentiel des Chefs d’Etat et de Gouvernement africains et partenaires (RHNP) consacré à la flambée de maladie à virus Ebola Bundibugyo en RDC et en Ouganda1. RHNP consacré à la flambée de maladie à virus Ebola Bundibugyo (MVB) en RDC et Ouganda s’est tenu le 16 juin 2026, sous la présidence de S.E. Évariste Nda",
+      "tag": "analysis"
+    },
+    {
+      "title": "Press Releases Archives – Africa CDC",
+      "link": "https://africacdc.org/news-type/press-releases/",
+      "pubDate": "Thu, 16 Jul 2026 18:00:00 Z",
+      "desc": "Africa CDC Congratulates Green Climate Fund on Unlocking $4 Billion in New Climate Finance CapacityAddis Ababa, Ethiopia, 16 July 2026 – At a time when climate change is accelerating health threats across Africa and placing unprecedented pressure on communities and health systems, the Africa Centres for Disease Control and Prevention (Af",
       "tag": "analysis"
     },
     {
@@ -790,10 +797,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Statement by Africa CDC on the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC)",
-      "link": "https://africacdc.org/news-item/statement-by-africa-cdc-on-the-release-of-the-2025-who-unicef-estimates-of-national-immunization-coverage-wuenic/",
+      "title": "Bleeding in haemorrhagic fever with renal syndrome: A systematic review characterising the loss of haemostasis in hantavirus infections",
+      "link": "https://doi.org/10.1371/journal.pntd.0014524",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "15 July 2026\n\n\n\nToday, Africa CDC joins the World Health Organization (WHO), UNICEF, Gavi the Vaccine Alliance and other partners in welcoming the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC). These estimates represent far more than annual coverage statistics: they are a measure of the resilience of our",
+      "desc": "DOI: 10.1371/journal.pntd.0014524\nAuthors: Matthew J. Riley, Aliza Hudda, Miša Korva, Tatjana Avšič-Županc, Beverley J. Hunt, Tom E. Fletcher\n \n                     Background \n                     Haemorrhagic fever with renal syndrome (HFRS) is caused by hantaviruses and is associated with variab",
       "tag": "analysis"
     },
     {
@@ -811,10 +818,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Bleeding in haemorrhagic fever with renal syndrome: A systematic review characterising the loss of haemostasis in hantavirus infections",
-      "link": "https://doi.org/10.1371/journal.pntd.0014524",
+      "title": "Statement by Africa CDC on the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC)",
+      "link": "https://africacdc.org/news-item/statement-by-africa-cdc-on-the-release-of-the-2025-who-unicef-estimates-of-national-immunization-coverage-wuenic/",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.pntd.0014524\nAuthors: Matthew J. Riley, Aliza Hudda, Miša Korva, Tatjana Avšič-Županc, Beverley J. Hunt, Tom E. Fletcher\n \n                     Background \n                     Haemorrhagic fever with renal syndrome (HFRS) is caused by hantaviruses and is associated with variab",
+      "desc": "15 July 2026\n\n\n\nToday, Africa CDC joins the World Health Organization (WHO), UNICEF, Gavi the Vaccine Alliance and other partners in welcoming the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC). These estimates represent far more than annual coverage statistics: they are a measure of the resilience of our",
       "tag": "analysis"
     },
     {
@@ -839,10 +846,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "From Array-CGH to Whole-Genome Sequencing: A 29-Year Diagnostic Journey Culminating in the Identification of a De Novo ABCC9 Variant Consistent with Cantú Syndrome",
+      "link": "https://doi.org/10.3390/diagnostics16142204",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/diagnostics16142204\nAuthors: Chung-Lin Lee, Ya-Hui Chang, Chih-Kuang Chuang, Huei-Ching Chiu, Yuan-Rong Tu, Yun-Ting Lo, Jun-Yi Wu, Hsiang-Yu Lin, Shuan-Pei Lin\n Background and Clinical Significance: Cantú syndrome (OMIM #239850) is a rare autosomal dominant disorder caused by gain-of-function variants in ABCC9 or KCNJ8, which e",
+      "tag": "analysis"
+    },
+    {
       "title": "Crimean-Congo hemorrhagic fever virus in the last four decades (1981–2025): global output, collaboration networks, and emerging frontiers",
       "link": "https://doi.org/10.1007/s11250-026-05209-0",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1007/s11250-026-05209-0\nAuthors: Md Zulfekar Ali, Uwem Okon Edet, Olanrewaju E. Igah, Edema Enogiomwan Imalele, Mirza Mienur Meher, Clement Meseko",
+      "tag": "analysis"
+    },
+    {
+      "title": "Early insights into viability of Ebola monoclonal antibodies for the 2026 Bundibugyo virus disease outbreak",
+      "link": "https://doi.org/10.21203/rs.3.rs-10270397/v1",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10270397/v1\nAuthors: Daudi Jjingo, Kevin Cissy Nabukeera, Gradi Luakanda-Ndelemo, Syrus Semawule, Pascal Adroba Tandele, Andrew Walakira, Adrienne Amuri, Daan Jansen, Ronald Galiwango, Alisen Ayitewala, Eddy Kinganda-Lusamaki, Andrew Nsawotebba, Christian Ngandu, Aloysious Ssemaganda, Olivier Tshiani-Mbaya, Stephen Kanyerezi,",
       "tag": "analysis"
     },
     {
@@ -881,20 +902,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Early insights into viability of Ebola monoclonal antibodies for the 2026 Bundibugyo virus disease outbreak",
-      "link": "https://doi.org/10.21203/rs.3.rs-10270397/v1",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10270397/v1\nAuthors: Daudi Jjingo, Kevin Cissy Nabukeera, Gradi Luakanda-Ndelemo, Syrus Semawule, Pascal Adroba Tandele, Andrew Walakira, Adrienne Amuri, Daan Jansen, Ronald Galiwango, Alisen Ayitewala, Eddy Kinganda-Lusamaki, Andrew Nsawotebba, Christian Ngandu, Aloysious Ssemaganda, Olivier Tshiani-Mbaya, Stephen Kanyerezi,",
-      "tag": "analysis"
-    },
-    {
-      "title": "From Array-CGH to Whole-Genome Sequencing: A 29-Year Diagnostic Journey Culminating in the Identification of a De Novo ABCC9 Variant Consistent with Cantú Syndrome",
-      "link": "https://doi.org/10.3390/diagnostics16142204",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/diagnostics16142204\nAuthors: Chung-Lin Lee, Ya-Hui Chang, Chih-Kuang Chuang, Huei-Ching Chiu, Yuan-Rong Tu, Yun-Ting Lo, Jun-Yi Wu, Hsiang-Yu Lin, Shuan-Pei Lin\n Background and Clinical Significance: Cantú syndrome (OMIM #239850) is a rare autosomal dominant disorder caused by gain-of-function variants in ABCC9 or KCNJ8, which e",
-      "tag": "analysis"
-    },
-    {
       "title": "A suspected salmonellosis outbreak reported in Long Island, New York linked to private funeral reception",
       "link": "https://beaconbio.org/en/report/?reportid=22477c2f-0ec7-48c0-8b03-d2145f382d0d",
       "pubDate": "Tue, 14 Jul 2026 20:38:00 Z",
@@ -930,17 +937,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "US emergency departments seeing fewer C difficile cases, study finds",
-      "link": "https://www.cidrap.umn.edu/clostridium-difficile/us-emergency-departments-seeing-fewer-c-difficile-cases-study-finds",
-      "pubDate": "Tue, 14 Jul 2026 20:12:00 Z",
-      "desc": "World Bank / Vincent Tremeau/Flickr cc. were enrolled in a trial testing Gilead Sciences' experimental antiviral drug obeldesivir as post-exposure prophylaxis (PEP, for preventing disease) for the ‌ongoing Bundibugyo Ebola outbreak in the Democratic Republic of the Congo (DRC).",
-      "tag": "cases"
-    },
-    {
       "title": "What we truly know about the huge US Cyclospora outbreak—and what we don’t",
       "link": "https://www.cidrap.umn.edu/cyclospora/what-we-truly-know-about-huge-us-cyclospora-outbreak-and-what-we-don-t",
       "pubDate": "Tue, 14 Jul 2026 20:12:00 Z",
       "desc": "As the number of cases of cyclosporiasis—infection with Cyclospora —grows across the country and stories about explosive diarrhea spread, many people don’t know what to do to avoid the illness. There’s a lot of uncertainty, leaving them with many questions and few good answers.",
+      "tag": "cases"
+    },
+    {
+      "title": "US emergency departments seeing fewer C difficile cases, study finds",
+      "link": "https://www.cidrap.umn.edu/clostridium-difficile/us-emergency-departments-seeing-fewer-c-difficile-cases-study-finds",
+      "pubDate": "Tue, 14 Jul 2026 20:12:00 Z",
+      "desc": "World Bank / Vincent Tremeau/Flickr cc. were enrolled in a trial testing Gilead Sciences' experimental antiviral drug obeldesivir as post-exposure prophylaxis (PEP, for preventing disease) for the ‌ongoing Bundibugyo Ebola outbreak in the Democratic Republic of the Congo (DRC).",
       "tag": "cases"
     },
     {
@@ -1105,20 +1112,6 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Comparison of three Mycoplasma bovis antibody ELISAs on serum from 3-5-week-old dairy calves using Bayesian latent class analysis",
-      "link": "https://doi.org/10.1186/s13620-026-00354-2",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s13620-026-00354-2\nAuthors: Jolien Vandewalle, Justine Clinquart, Wouter van Mol, Stan Jourquin, Bart Pardon\n Abstract \n                   \n                     Background \n                     \n                      Controlling\n                       Mycoplasma",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain",
-      "link": "https://doi.org/10.1136/bmj-2026-100286",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/bmj-2026-100286\nAuthors: Jacqui Wise",
-      "tag": "analysis"
-    },
-    {
       "title": "A case of severe terbinafine induced gastritis presenting as a likely protein losing enteropathy",
       "link": "https://doi.org/10.21203/rs.3.rs-10257093/v1",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
@@ -1130,6 +1123,20 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.70070/85rsxd08",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.70070/85rsxd08\n Background: Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) are acute, life-threatening mucocutaneous reactions characterised by widespread epidermal necrosis. These conditions are characterised by skin blisters and involvement of the oral, nasal, ocular, and genital mucosa. SJS/TEN are immune-medi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Comparison of three Mycoplasma bovis antibody ELISAs on serum from 3-5-week-old dairy calves using Bayesian latent class analysis",
+      "link": "https://doi.org/10.1186/s13620-026-00354-2",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s13620-026-00354-2\nAuthors: Jolien Vandewalle, Justine Clinquart, Wouter van Mol, Stan Jourquin, Bart Pardon\n Abstract \n                   \n                     Background \n                     \n                      Controlling\n                       Mycoplasma",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain",
+      "link": "https://doi.org/10.1136/bmj-2026-100286",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/bmj-2026-100286\nAuthors: Jacqui Wise",
       "tag": "analysis"
     },
     {
@@ -1245,17 +1252,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Samoa américaines",
-      "link": "https://voyage.gc.ca/destinations/samoa-americaines",
-      "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
-      "desc": "Pannes d’électricité et pénuries d’eau. Les pannes d’électricité et les pénuries d’eau surviennent occasionnellement, surtout pendant et après le passage de cyclones. Les autorités locales peuvent limiter la consommation d'électricité et imposer des mesures de rationnement de l’eau.",
-      "tag": "analysis"
-    },
-    {
       "title": "Maladie Ebola en Ouganda",
       "link": "https://voyage.gc.ca/voyager/sante-securite/conseils-sante-voyageurs/550",
       "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
       "desc": "Date de publication originale : 26 mai 2026. Mise à jour : 2 juillet 2026 Destinations touchées Ouganda Points clés La maladie Ebola est causée par un groupe de virus qui se transmettent par contact avec les fluides corporels de personnes ou d'animaux présentant des symptômes de la maladie. Cette maladie est grave et souvent mortelle.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Samoa américaines",
+      "link": "https://voyage.gc.ca/destinations/samoa-americaines",
+      "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
+      "desc": "Pannes d’électricité et pénuries d’eau. Les pannes d’électricité et les pénuries d’eau surviennent occasionnellement, surtout pendant et après le passage de cyclones. Les autorités locales peuvent limiter la consommation d'électricité et imposer des mesures de rationnement de l’eau.",
       "tag": "analysis"
     },
     {
@@ -1273,6 +1280,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "In a Defining Moment for Public Health Response in Sierra Leone, Health Minister Declares the Mpox Outbreak Over.",
+      "link": "https://mohs.gov.sl/in-a-defining-moment-for-public-health-response-in-sierra-leone-health-minister-declares-the-mpox-outbreak-over/",
+      "pubDate": "Mon, 13 Jul 2026 15:18:00 Z",
+      "desc": "The Minister of Health, Dr. Austin Demby, officially declares Mpox over in Sierra Leone at City Hall in Freetown. The people of Sierra Leone are smiling once again after achieving another significant milestone in the fight against public health outbreaks of international concern. On Monday 15th December, 2025, the Minister of Health, Dr.",
+      "tag": "response"
+    },
+    {
       "title": "“The Health Travel Portal Will Strengthen Border Security Amid Ongoing Ebola Outbreak Elsewhere” Dr. Austin Demby",
       "link": "https://mohs.gov.sl/the-health-travel-portal-will-strengthen-border-security-amid-ongoing-ebola-outbreak-elsewhere-dr-austin-demby/",
       "pubDate": "Mon, 13 Jul 2026 15:18:00 Z",
@@ -1285,13 +1299,6 @@ window.FEED_DATA = {
       "pubDate": "Mon, 13 Jul 2026 15:18:00 Z",
       "desc": "Health Ministers of ECOWAS member states pose for a group photograp after the official opening of the just concluded 27 th Ordinary Session in Freetown. Described as the best health ministers conference since its inception, Sierra Leone proudly achieved a great feat not just in hosting the 27 th....",
       "tag": "analysis"
-    },
-    {
-      "title": "In a Defining Moment for Public Health Response in Sierra Leone, Health Minister Declares the Mpox Outbreak Over.",
-      "link": "https://mohs.gov.sl/in-a-defining-moment-for-public-health-response-in-sierra-leone-health-minister-declares-the-mpox-outbreak-over/",
-      "pubDate": "Mon, 13 Jul 2026 15:18:00 Z",
-      "desc": "The Minister of Health, Dr. Austin Demby, officially declares Mpox over in Sierra Leone at City Hall in Freetown. The people of Sierra Leone are smiling once again after achieving another significant milestone in the fight against public health outbreaks of international concern. On Monday 15th December, 2025, the Minister of Health, Dr.",
-      "tag": "response"
     },
     {
       "title": "Weekly Bulletin EW 24, 2026",
@@ -1406,10 +1413,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Diagnostic testing for Ebola disease and Marburg virus disease: interim guidance, 9 July 2026",
+      "link": "https://doi.org/10.2471/b09834",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.2471/b09834",
+      "tag": "analysis"
+    },
+    {
       "title": "Effectiveness of Active Compounds in Pineapple Peel Extract (Ananas comosus) as a Biolarvicide Against Aedes aegypti: Integration of In Silico, In Vitro, and Comprehensive Literature Review Analyses",
       "link": "https://doi.org/10.55885/jchp.v6i2.1006",
       "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.55885/jchp.v6i2.1006\nAuthors: Defri Defri, M. Yulis Hamidy, Elva Susanty\n Dengue hemorrhagic fever remains an important public health problem in tropical countries, including Indonesia, and larval control of Aedes aegypti is a strategic component of dengue prevention. This revised manuscript aims to synthesize published evidence on t",
+      "tag": "analysis"
+    },
+    {
+      "title": "Mutation mapping and evolutionary dynamics of Bundibugyo Ebolavirus (BDBV-2026) genomes reported from Uganda",
+      "link": "https://doi.org/10.21203/rs.3.rs-10310109/v1",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10310109/v1\nAuthors: David Kelvin, Anuj Kumar, Andrew Nsawotebba, Barnabas Bakamutumaho, Bruce Kirenga, Mansi Dutt, Gustavo Sganzerla Martinez, Winters Muttamba, Wilber Sabiiti, Misaki Wayengera, Henry Bosa, Bernard Lutwama, Susan Nabadda, Charles Olaro, Diana Atwiine, Charles Ayume, Chris Baryomunsi, Atek Kagirita\n Abst",
       "tag": "analysis"
     },
     {
@@ -1431,20 +1452,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1155/cdr/8095418",
       "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1155/cdr/8095418\nAuthors: WanPing Yao, Chang Liu, ZiYi Fang, ShanShan Li, Lu Hong Xu, WenHao Qian, Fangfang Li, Jing Zong\n \n                     Background \n                     Gastrin‐17 (G‐17) and serum pepsinogen (PG) are indicators that reflect the structure and function of the stomach mucosa. Alt",
-      "tag": "analysis"
-    },
-    {
-      "title": "Diagnostic testing for Ebola disease and Marburg virus disease: interim guidance, 9 July 2026",
-      "link": "https://doi.org/10.2471/b09834",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.2471/b09834",
-      "tag": "analysis"
-    },
-    {
-      "title": "Mutation mapping and evolutionary dynamics of Bundibugyo Ebolavirus (BDBV-2026) genomes reported from Uganda",
-      "link": "https://doi.org/10.21203/rs.3.rs-10310109/v1",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10310109/v1\nAuthors: David Kelvin, Anuj Kumar, Andrew Nsawotebba, Barnabas Bakamutumaho, Bruce Kirenga, Mansi Dutt, Gustavo Sganzerla Martinez, Winters Muttamba, Wilber Sabiiti, Misaki Wayengera, Henry Bosa, Bernard Lutwama, Susan Nabadda, Charles Olaro, Diana Atwiine, Charles Ayume, Chris Baryomunsi, Atek Kagirita\n Abst",
       "tag": "analysis"
     },
     {
@@ -1595,18 +1602,18 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "$1B Program To Boost Glove Supply Exposes Challenges Of Bringing Manufacturing Back To US",
-      "link": "https://kffhealthnews.org/morning-breakout/health-industry-071026/",
-      "pubDate": "Fri, 10 Jul 2026 13:38:00 Z",
-      "desc": "A nearly $1 billion effort failed to bring medical glove manufacturing back to the US. An FDA study found heavy metals in tampons aren’t a cause for concern. Novo Nordisk wants ingredient discounts for its obesity medicines. Roche beat Amgen and Bristol-Myers in a battle of lung cancer drugs.",
-      "tag": "analysis"
-    },
-    {
       "title": "Today, July 10",
       "link": "https://kffhealthnews.org/morning-briefing/friday-july-10-2026/",
       "pubDate": "Fri, 10 Jul 2026 13:38:00 Z",
       "desc": "In parts of the country, including southeast Michigan and northern Ohio, clinicians are tracking scores of cases of sudden, explosive diarrhea and gastrointestinal illness caused by the parasite Cyclospora cayetanensi. Michigan now has 1,251 cases of cyclosporiasis, according to state officials....",
       "tag": "cases"
+    },
+    {
+      "title": "$1B Program To Boost Glove Supply Exposes Challenges Of Bringing Manufacturing Back To US",
+      "link": "https://kffhealthnews.org/morning-breakout/health-industry-071026/",
+      "pubDate": "Fri, 10 Jul 2026 13:38:00 Z",
+      "desc": "A nearly $1 billion effort failed to bring medical glove manufacturing back to the US. An FDA study found heavy metals in tampons aren’t a cause for concern. Novo Nordisk wants ingredient discounts for its obesity medicines. Roche beat Amgen and Bristol-Myers in a battle of lung cancer drugs.",
+      "tag": "analysis"
     },
     {
       "title": "Une Américaine de 56 ans pensait souffrir d'une maladie inconnue : en réalité, sa prothèse de hanche empoisonnait son sang au cobalt",
@@ -1858,13 +1865,6 @@ window.FEED_DATA = {
       "link": "https://www.mesvaccins.net/web/news/24246-senegal-deux-nouveaux-cas-de-fievre-hemorragique-de-crimee-congo-signales-dans-la-region-de-matam",
       "pubDate": "Tue, 07 Jul 2026 20:55:00 Z",
       "desc": "Sénégal : deux nouveaux cas de fièvre hémorragique de Crimée Congo signalés dans la région de Matam.\n\nDans sa dernière synthèse hebdomadaire, Africa CDC a rapporté sur le Sénégal a enregistré deux nouveaux cas confirmés de dans la région de Matam . Cette année, un total de six cas confirmés de FHCC....",
-      "tag": "analysis"
-    },
-    {
-      "title": "2 juillet 2026 Allocution liminaire du Directeur général de l’OMS lors du point de presse du 2 juillet 2026",
-      "link": "https://www.who.int/fr/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---2-july-2026",
-      "pubDate": "Tue, 07 Jul 2026 18:15:00 Z",
-      "desc": "Bonjour à toutes les personnes présentes aujourd’hui, et bonjour ou bonsoir à toutes celles qui nous rejoignent en ligne. Aujourd’hui, la dernière personne ayant été en contact avec une personne exposée au hantavirus à bord du navire de croisière MV Hondius a terminé sa période de quarantaine, a été testée négative et est rentrée chez elle.",
       "tag": "analysis"
     }
   ],
