@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 18 Jul 2026 05:27:56 Z",
-  "fetchedAt": "2026-07-18T05:27:56Z",
+  "lastBuildDate": "Sat, 18 Jul 2026 07:53:29 Z",
+  "fetchedAt": "2026-07-18T07:53:29Z",
   "itemCount": 246,
   "stats": {
     "drc": {
@@ -468,17 +468,17 @@
       "tag": "response"
     },
     {
-      "title": "Communiqué Archives – Africa CDC",
-      "link": "https://africacdc.org/news-type/communique/",
-      "pubDate": "Thu, 16 Jul 2026 18:00:00 Z",
-      "desc": "Réunion de Haut Niveau Présidentiel des Chefs d’Etat et de Gouvernement africains et partenaires (RHNP) consacré à la flambée de maladie à virus Ebola Bundibugyo en RDC et en Ouganda1. RHNP consacré à la flambée de maladie à virus Ebola Bundibugyo (MVB) en RDC et Ouganda s’est tenu le 16 juin 2026, sous la présidence de S.E. Évariste Nda",
-      "tag": "analysis"
-    },
-    {
       "title": "Press Releases Archives – Africa CDC",
       "link": "https://africacdc.org/news-type/press-releases/",
       "pubDate": "Thu, 16 Jul 2026 18:00:00 Z",
       "desc": "Africa CDC Congratulates Green Climate Fund on Unlocking $4 Billion in New Climate Finance CapacityAddis Ababa, Ethiopia, 16 July 2026 – At a time when climate change is accelerating health threats across Africa and placing unprecedented pressure on communities and health systems, the Africa Centres for Disease Control and Prevention (Af",
+      "tag": "analysis"
+    },
+    {
+      "title": "Communiqué Archives – Africa CDC",
+      "link": "https://africacdc.org/news-type/communique/",
+      "pubDate": "Thu, 16 Jul 2026 18:00:00 Z",
+      "desc": "Réunion de Haut Niveau Présidentiel des Chefs d’Etat et de Gouvernement africains et partenaires (RHNP) consacré à la flambée de maladie à virus Ebola Bundibugyo en RDC et en Ouganda1. RHNP consacré à la flambée de maladie à virus Ebola Bundibugyo (MVB) en RDC et Ouganda s’est tenu le 16 juin 2026, sous la présidence de S.E. Évariste Nda",
       "tag": "analysis"
     },
     {
@@ -503,10 +503,10 @@
       "tag": "pheic"
     },
     {
-      "title": "Nigeria Centre for Disease Control and Prevention",
-      "link": "https://ncdc.gov.ng/projects",
+      "title": "Media Advisory Archives – Africa CDC",
+      "link": "https://africacdc.org/news-type/media-advisory/",
       "pubDate": "Thu, 16 Jul 2026 15:23:00 Z",
-      "desc": "Projects\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tThe Community-Based One Health Participatory and Empowerment (COPE) Strategy For One Health Interventions\t\t\t\t\tThe Community-Based One Health Participatory and Empowerment (COPE) Strategy aims to enable communities to identify their pressing One Health challenges as well as sustainable local solutions for mitigati",
+      "desc": "Emergency Press Briefing on the Ebola Outbreak in DRC and UgandaINVITATION TO REPRESENTATIVES OF THE MEDIA WHAT: Join us for the second emergency briefing to provide status update on the Ebola Disease (Bundibugyo virus) outbreak in the Democratic Republic of Congo and the Republic of Uganda. Africa CDC Director General, H.E. Dr. Jean Kas",
       "tag": "analysis"
     },
     {
@@ -517,10 +517,10 @@
       "tag": "pheic"
     },
     {
-      "title": "Media Advisory Archives – Africa CDC",
-      "link": "https://africacdc.org/news-type/media-advisory/",
+      "title": "Nigeria Centre for Disease Control and Prevention",
+      "link": "https://ncdc.gov.ng/projects",
       "pubDate": "Thu, 16 Jul 2026 15:23:00 Z",
-      "desc": "Emergency Press Briefing on the Ebola Outbreak in DRC and UgandaINVITATION TO REPRESENTATIVES OF THE MEDIA WHAT: Join us for the second emergency briefing to provide status update on the Ebola Disease (Bundibugyo virus) outbreak in the Democratic Republic of Congo and the Republic of Uganda. Africa CDC Director General, H.E. Dr. Jean Kas",
+      "desc": "Projects\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tThe Community-Based One Health Participatory and Empowerment (COPE) Strategy For One Health Interventions\t\t\t\t\tThe Community-Based One Health Participatory and Empowerment (COPE) Strategy aims to enable communities to identify their pressing One Health challenges as well as sustainable local solutions for mitigati",
       "tag": "analysis"
     },
     {
@@ -762,6 +762,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Donor dependency and pandemic readiness: insights from the 2026 Ebola Bundibugyo outbreak in the East African community",
+      "link": "https://doi.org/10.3389/fpubh.2026.1891266",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fpubh.2026.1891266\nAuthors: John Mugisha, Julius Niyibizi, Emmanuel Nizeyimana, Munawar Harun Koray\n The 2026 Bundibugyo virus disease (BVD) outbreak has exposed persistent weaknesses in health-security preparedness across the East African Community (EAC). Although regional preparedness has improved, major gaps remain in early d",
+      "tag": "response"
+    },
+    {
       "title": "Beta-adrenergic receptor activation during stress reduces the abundance of commensal Clostridia in the mouse gut",
       "link": "https://doi.org/10.64898/2026.07.14.738460",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
@@ -787,13 +794,6 @@
       "link": "https://doi.org/10.21203/rs.3.rs-10210776/v1",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10210776/v1\nAuthors: Parnor Madjitey, Joseph M. Sieka, Marie-Edith Nepveu-Traversy, Gary Kobinger, Matthew Hunt\n Abstract \n                 Background\n Liberia’s post-civil-war healthcare system lacked effective surveillance and response measures, two key structures for monitoring the threat of communicable dise",
-      "tag": "response"
-    },
-    {
-      "title": "Donor dependency and pandemic readiness: insights from the 2026 Ebola Bundibugyo outbreak in the East African community",
-      "link": "https://doi.org/10.3389/fpubh.2026.1891266",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fpubh.2026.1891266\nAuthors: John Mugisha, Julius Niyibizi, Emmanuel Nizeyimana, Munawar Harun Koray\n The 2026 Bundibugyo virus disease (BVD) outbreak has exposed persistent weaknesses in health-security preparedness across the East African Community (EAC). Although regional preparedness has improved, major gaps remain in early d",
       "tag": "response"
     },
     {
@@ -1042,20 +1042,6 @@
       "tag": "response"
     },
     {
-      "title": "Neurological Manifestations of Hantavirus Infection",
-      "link": "https://doi.org/10.1001/jamaneurol.2026.2437",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1001/jamaneurol.2026.2437\nAuthors: Avindra Nath\n \n                     Importance \n                     Hantaviruses have caused several recent human disease outbreaks. They carry a high mortality rate, and some species can spread from person to person although they are typically sp",
-      "tag": "analysis"
-    },
-    {
-      "title": "A Mathematical Framework for Ebola Virus Disease Preparedness in Kenya: Modeling Waning Immunity, Vaccination, and Re-infection Dynamics",
-      "link": "https://doi.org/10.9734/arjom/2026/v22i71123",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.9734/arjom/2026/v22i71123\nAuthors: George M. Mocheche\n Recurrent infectious disease outbreaks continue to challenge public health systems despite advances in surveillance and vaccination. Motivated by recurrent Ebola virus disease outbreaks in the Democratic Republic of the Congo and the potential risk of importation into Kenya, this",
-      "tag": "response"
-    },
-    {
       "title": "Neurological symptoms in survivors of Ebola virus disease",
       "link": "https://doi.org/10.1038/s41582-026-01247-2",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
@@ -1067,6 +1053,20 @@
       "link": "https://doi.org/10.1038/d41586-026-02148-6",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1038/d41586-026-02148-6\nAuthors: Safura Abdool Karim",
+      "tag": "response"
+    },
+    {
+      "title": "Neurological Manifestations of Hantavirus Infection",
+      "link": "https://doi.org/10.1001/jamaneurol.2026.2437",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1001/jamaneurol.2026.2437\nAuthors: Avindra Nath\n \n                     Importance \n                     Hantaviruses have caused several recent human disease outbreaks. They carry a high mortality rate, and some species can spread from person to person although they are typically sp",
+      "tag": "analysis"
+    },
+    {
+      "title": "A Mathematical Framework for Ebola Virus Disease Preparedness in Kenya: Modeling Waning Immunity, Vaccination, and Re-infection Dynamics",
+      "link": "https://doi.org/10.9734/arjom/2026/v22i71123",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.9734/arjom/2026/v22i71123\nAuthors: George M. Mocheche\n Recurrent infectious disease outbreaks continue to challenge public health systems despite advances in surveillance and vaccination. Motivated by recurrent Ebola virus disease outbreaks in the Democratic Republic of the Congo and the potential risk of importation into Kenya, this",
       "tag": "response"
     },
     {
@@ -1350,6 +1350,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Developing a vaccine against Bundibugyo ebolavirus",
+      "link": "https://doi.org/10.1186/isrctn72157798",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/isrctn72157798\nAuthors: Reyna Sara Quintero Barceinas, Katrina Pollock",
+      "tag": "analysis"
+    },
+    {
       "title": "Gossypiboma in the prostatic fossa presenting as bladder outlet obstruction following open prostatectomy: a case report",
       "link": "https://doi.org/10.1097/rc9.0000000000000667",
       "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
@@ -1361,13 +1368,6 @@
       "link": "https://doi.org/10.3389/fpsyt.2026.1835310",
       "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fpsyt.2026.1835310\nAuthors: Krzysztof Tomasiewicz, Piotr Gałecki, Jerzy Jaroszewicz, Jolanta Opoka, Małgorzata Pawłowska, Anna Piekarska, Krzysztof Simon, Dorota Zarębska-Michaluk, Magdalena Władysiuk, Tomasz Prycel, Sławomir Ros, Dominik Obierzyński, Waldemar Halota, Robert Flisiak\n \n                     Background",
-      "tag": "analysis"
-    },
-    {
-      "title": "Developing a vaccine against Bundibugyo ebolavirus",
-      "link": "https://doi.org/10.1186/isrctn72157798",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/isrctn72157798\nAuthors: Reyna Sara Quintero Barceinas, Katrina Pollock",
       "tag": "analysis"
     },
     {
@@ -1616,6 +1616,13 @@
       "tag": "analysis"
     },
     {
+      "title": "No single biological phenotype exists in polycystic ovary syndrome: evidence from cross-space phenotyping",
+      "link": "https://doi.org/10.64898/2026.07.09.26357636",
+      "pubDate": "Fri, 10 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.09.26357636\nAuthors: Natalia Judyta Piorkowska, Alan Ostromecki, Grzegorz Franik, Anna Bizon\n Context\nPolyendocrine metabolic ovarian syndrome (PMOS), formerly known as polycystic ovary syndrome (PCOS), is a biologically heterogeneous disorder, yet previous clustering studies have reported inconsistent phenotype structu",
+      "tag": "analysis"
+    },
+    {
       "title": "Global Patent Landscape and Technological Trends in Biosafety Level 3 (BSL-3) Laboratories Technologies",
       "link": "https://doi.org/10.3390/biotech15030052",
       "pubDate": "Fri, 10 Jul 2026 00:00:00 Z",
@@ -1623,10 +1630,10 @@
       "tag": "analysis"
     },
     {
-      "title": "No single biological phenotype exists in polycystic ovary syndrome: evidence from cross-space phenotyping",
-      "link": "https://doi.org/10.64898/2026.07.09.26357636",
+      "title": "AI-Driven Discovery and BSL-4 Validation of Cross-Filovirus Ebola-Marburg Inhibitors and their Synergistic Combinations",
+      "link": "https://doi.org/10.64898/2026.07.09.737586",
       "pubDate": "Fri, 10 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.09.26357636\nAuthors: Natalia Judyta Piorkowska, Alan Ostromecki, Grzegorz Franik, Anna Bizon\n Context\nPolyendocrine metabolic ovarian syndrome (PMOS), formerly known as polycystic ovary syndrome (PCOS), is a biologically heterogeneous disorder, yet previous clustering studies have reported inconsistent phenotype structu",
+      "desc": "DOI: 10.64898/2026.07.09.737586\nAuthors: Holli-Joi Martin, Marcus Tullius Scotti, Sankalp Jain, Laura McMullan, Payel Chatterjee, Cleber Melo-Filho, Maximilian Caza, Alexander Tropsha, Hsiuling Lin, Mike Flint, Emily M. Lee, Michael K Lo, Alexey V. Zakharov, Eugene Muratov\n Filovirus outbreaks caused by Ebola virus (EBOV) and Marburg virus (",
       "tag": "analysis"
     },
     {
@@ -1635,13 +1642,6 @@
       "pubDate": "Fri, 10 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.31483/r-167109\nAuthors: Dar'ia Andreevna Stepankova, Polina Igorevna Elboeva, Ekaterina Vladimirovna Martynova, Iurii Nikolaevich Davidiuk, Emmanuel Kabve, Natalia Iurevna Andreeva, Svetlana Frantsevna Khaibullina\n Hemorrhagic fever with renal syndrome (HFRS) remains one of the leading natural focal infections in Russia, characterize",
       "tag": "response"
-    },
-    {
-      "title": "AI-Driven Discovery and BSL-4 Validation of Cross-Filovirus Ebola-Marburg Inhibitors and their Synergistic Combinations",
-      "link": "https://doi.org/10.64898/2026.07.09.737586",
-      "pubDate": "Fri, 10 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.09.737586\nAuthors: Holli-Joi Martin, Marcus Tullius Scotti, Sankalp Jain, Laura McMullan, Payel Chatterjee, Cleber Melo-Filho, Maximilian Caza, Alexander Tropsha, Hsiuling Lin, Mike Flint, Emily M. Lee, Michael K Lo, Alexey V. Zakharov, Eugene Muratov\n Filovirus outbreaks caused by Ebola virus (EBOV) and Marburg virus (",
-      "tag": "analysis"
     },
     {
       "title": "Ebola outbreak in the Democratic Republic of the Congo: Lessons from Kasai (2025) and emerging challenges from the Bundibugyo resurgence",
@@ -1798,17 +1798,17 @@
       "tag": "analysis"
     },
     {
-      "title": "La RDC et l’Ouganda consolident leur coopération transfrontalière pour renforcer la sécurité sanitaire.",
-      "link": "https://insp.cd/la-rdc-et-louganda-consolident-leur-cooperation-transfrontaliere-pour-renforcer-la-securite-sanitaire/",
-      "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
-      "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, 6 juillet 2026. Dans le cadre du renforcement de la coopération transfrontalière entre la République démocratique du Congo et la République de l’Ouganda, la Coordination stratégi",
-      "tag": "analysis"
-    },
-    {
       "title": "Les équipes provinciales restent pleinement mobilisées, les activités se poursuivent normalement.",
       "link": "https://insp.cd/les-equipes-provinciales-restent-pleinement-mobilisees-les-activites-se-poursuivent-normalement/",
       "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
       "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nIturi,le 06 juillet 2026. L’Institut National de Santé Publique (INSP), à travers le Centre des Opérations d’Urgences de Santé Publique (COUSP), informe que les activités de la riposte",
+      "tag": "analysis"
+    },
+    {
+      "title": "La RDC et l’Ouganda consolident leur coopération transfrontalière pour renforcer la sécurité sanitaire.",
+      "link": "https://insp.cd/la-rdc-et-louganda-consolident-leur-cooperation-transfrontaliere-pour-renforcer-la-securite-sanitaire/",
+      "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
+      "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, 6 juillet 2026. Dans le cadre du renforcement de la coopération transfrontalière entre la République démocratique du Congo et la République de l’Ouganda, la Coordination stratégi",
       "tag": "analysis"
     },
     {
