@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 19 Jul 2026 15:58:53 Z",
-  "fetchedAt": "2026-07-19T15:58:53Z",
+  "lastBuildDate": "Sun, 19 Jul 2026 19:08:44 Z",
+  "fetchedAt": "2026-07-19T19:08:44Z",
   "itemCount": 246,
   "stats": {
     "drc": {
@@ -95,9 +95,9 @@ window.FEED_DATA = {
         "confirmed": 19
       },
       "media": {
-        "deaths": 828,
-        "suspected": 2000,
-        "confirmed": 2124
+        "deaths": 864,
+        "confirmed": 2181,
+        "suspected": 2000
       },
       "whoDon": {
         "confirmed": 2124,
@@ -164,11 +164,25 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
+      "title": "Volume 32 No. 6, June 2026",
+      "link": "https://www.emro.who.int/emhj-volume-32-2026/volume-32-number-6/",
+      "pubDate": "Sun, 19 Jul 2026 10:19:00 Z",
+      "desc": "Editorial. Strategic priorities for implementing the Eastern Mediterranean regional framework to defeat meningitis by 2030 Hanan H Balkhy.\n\nCommentaries. Addressing the genetic data deficit in metabolic dysfunction associated steatotic liver disease across the Eastern Mediterranean Region Mohamed El-Kassas and Khalid M AlNaamani.",
+      "tag": "analysis"
+    },
+    {
       "title": "Le CDC étend les restrictions de voyage liées à Ebola aux citoyens américains Patrick GEROME - 19/07/2026 Lire plus➟",
       "link": "https://www.mesvaccins.net/web/news/24278-le-cdc-etend-les-restrictions-de-voyage-liees-a-ebola-aux-citoyens-americains",
       "pubDate": "Sun, 19 Jul 2026 09:54:00 Z",
       "desc": "Dans le contexte actuel d'épidémie d' Ebola , les citoyens américains ne seront plus autorisés à se rendre directement aux États-Unis depuis la République démocratique du Congo (RDC) en vertu de nouvelles restrictions fédérales visant à prévenir la propagation d'Ebola.",
       "tag": "analysis"
+    },
+    {
+      "title": "Salamanca, Castile and León, Spain: Crimean-Congo haemorrhagic fever – second seasonal case confirmed, one fatal",
+      "link": "https://beaconbio.org/en/report/?reportid=0caed125-b296-484b-9420-6dd5a7acefce",
+      "pubDate": "Sat, 18 Jul 2026 20:28:00 Z",
+      "desc": "Sources Communicable Disease Threats Report, Week 29, 2026 – Seasonal surveillance of Crimean-Congo haemorrhagic fever, ECDC Weekly CDTR report, 18 Jul 2026 Confirmed CCHF case and death in Salamanca, Castile and León, Manual submission, 18 Jul 2026 Seasonal surveillance of Crimean-Congo haemorrhagic fever (CCHF) in the EU/EEA, Week 29, 2026, Europ",
+      "tag": "cases"
     },
     {
       "title": "DRC Activates Emergency Delivery Plan to Break Bundibugyo Ebola Transmission – Africa CDC",
@@ -183,6 +197,13 @@ window.FEED_DATA = {
       "pubDate": "Sat, 18 Jul 2026 14:28:00 Z",
       "desc": "-- United States. Significance Rating: 1 3 Killed as 7 US Aid Workers Quarantined at Kenya's Controversial Ebola Centre&nbsp;&nbsp;News of Bahrain",
       "tag": "analysis"
+    },
+    {
+      "title": "18 Jul 2026 – Bundibugyo virus disease outbreak: 2181 confirmed cases and 864 deaths in DRC; US announces Do Not Board travel restriction",
+      "link": "https://beaconbio.org/en/report/?reportid=e1c37935-cba2-485b-8484-7e3a3e730088",
+      "pubDate": "Sat, 18 Jul 2026 14:27:00 Z",
+      "desc": "Sources WHO. Disease Outbreak News. Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda. 17 Jul 2026 National Institute of Public Health DRC. Sitrep N°063 – 17th Ebola Epidemic. 17 Jul 2026 (in French) Uganda calls for travel restrictions to be lifted after last Ebola patient discharged. The Guardian. 16 Jul 2026 Aid",
+      "tag": "cases"
     },
     {
       "title": "Alemania confirma segundo caso de trabajador humanitario tratado por brote de ébola",
@@ -246,6 +267,20 @@ window.FEED_DATA = {
       "pubDate": "Sat, 18 Jul 2026 02:26:00 Z",
       "desc": "More than 2,000 Ebola cases and 700 deaths have been recorded in Congo and neighbouring Uganda as of July 14, and around two-thirds of the deaths occurred outside clinics or hospitals, the International Organization for Migration said, ‌making it harder ⁠to ⁠control burials.",
       "tag": "cases"
+    },
+    {
+      "title": "An Unusual Suspect in a Case of Fungal Necrotizing Soft Tissue Infection",
+      "link": "https://doi.org/10.7759/cureus.112913",
+      "pubDate": "Sat, 18 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.7759/cureus.112913\nAuthors: Erin N Burns, Boris Cehajic",
+      "tag": "analysis"
+    },
+    {
+      "title": "Adult-Onset Still’s Disease as an Uncommon Cause of Fever of Unknown Origin",
+      "link": "https://doi.org/10.7759/cureus.112922",
+      "pubDate": "Sat, 18 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.7759/cureus.112922\nAuthors: Yereni Aileen Andujar Sanchez, Lucero Moran, Diego Alexis Belmontes Gutiérrez, Pedro Antonio Moreno Velazco, Danya Michelle Isais Moreno",
+      "tag": "analysis"
     },
     {
       "title": "Evidence for a detection ceiling in the 2026 Bundibugyo virus disease epidemic in the Democratic Republic of the Congo: an analysis of publicly reported aggregate surveillance data",
@@ -472,6 +507,34 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Mucosal tissue cues shape B cell memory through the IgA BCR",
+      "link": "https://doi.org/10.1126/sciimmunol.adv1149",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1126/sciimmunol.adv1149\nAuthors: Maria Pia Holgado, Samuel Origlio, Lucas Bertoia, Myriam Moussa, Apurwa Trivedi, Frederic Fiore, Ana Zarubica, Emma Slack, Michelle A. Linterman, Michel Cogné, Claude Gregoire, Mauro Gaya\n B cells generate plasma cells (PCs) and memory B cells (MBCs) to combat recurrent pathogens. B cell receptor (BCR",
+      "tag": "analysis"
+    },
+    {
+      "title": "Recompensation of decompensated cirrhosis in a spectrum of metabolic-dysfunction-related steatotic liver disease, with PEth-corroborated alcohol abstinence and modification of cardiometabolic risk factors",
+      "link": "https://doi.org/10.1097/hep.0000000000001822",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1097/hep.0000000000001822\n \n                     Background &amp; Aims: \n                     Recompensation of decompensated metabolic-dysfunction-associated steatotic liver disease (MASLD) and Metabolic Dysfunction-Associated Steatotic Liver Disease with Alcohol Consumption (MetALD) cirrhosis remains",
+      "tag": "analysis"
+    },
+    {
+      "title": "Trends in the etiology of acute insult and underlying chronic liver disease in patients with acute-on-chronic liver failure: A retrospective study in Southwest China (2020–2023)",
+      "link": "https://doi.org/10.1097/md.0000000000049420",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1097/md.0000000000049420\nAuthors: Yi Fang, Haifeng Dai, Qiufen Li, Danni Wang, Jianwen Liu, Yanan Liu\n \n                     \n                     The etiology of acute insults and underlying chronic liver disease in acute-on-chronic liver failure has evolved in recent years. This study examined etiological patte",
+      "tag": "analysis"
+    },
+    {
+      "title": "Identifying severe COVID-19 risk variants modulating enhancer reporter activity in lung cells",
+      "link": "https://doi.org/10.1371/journal.pgen.1012222",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.pgen.1012222\nAuthors: Giovanna Weykopf, Wendy A. Bickmore, Simon C. Biddie, Elias T. Friman\n Common genetic variants contribute to risk for complex human diseases. However, despite thousands of associations, variants modulating disease risk and their functional impact remain largely unknown. This includes SARS-CoV-2 infe",
+      "tag": "analysis"
+    },
+    {
       "title": "Comparative Efficacy of Vancomycin and Fidaxomicin Regimens for the Prevention of Recurrent Clostridioides difficile Infection: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
       "link": "https://doi.org/10.64898/2026.07.14.26358112",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
@@ -521,31 +584,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Mucosal tissue cues shape B cell memory through the IgA BCR",
-      "link": "https://doi.org/10.1126/sciimmunol.adv1149",
+      "title": "Voluminous Calcified Pericardial Cyst with Severe Right Ventricular Compression: A Multimodality Imaging Case Report",
+      "link": "https://www.semanticscholar.org/paper/23ef6c29356a81db93a951846f2f160ff9a53d6c",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1126/sciimmunol.adv1149\nAuthors: Maria Pia Holgado, Samuel Origlio, Lucas Bertoia, Myriam Moussa, Apurwa Trivedi, Frederic Fiore, Ana Zarubica, Emma Slack, Michelle A. Linterman, Michel Cogné, Claude Gregoire, Mauro Gaya\n B cells generate plasma cells (PCs) and memory B cells (MBCs) to combat recurrent pathogens. B cell receptor (BCR",
+      "desc": "DOI: 10.1093/ehjcr/ytag530\nAuthors: A. Volpe, Apostolo Anna, Mancini Maria Elisabetta, L. Bussini, Pontone Gianluca\n\n \n \n Pericardial cysts are rare lesions that are typically asymptomatic. However, when large or calcified, they may compromise cardiac function.\n \n \n \n We report the case of a 57-year-old man with progressive exertional dyspnea. Mult",
       "tag": "analysis"
     },
     {
-      "title": "Recompensation of decompensated cirrhosis in a spectrum of metabolic-dysfunction-related steatotic liver disease, with PEth-corroborated alcohol abstinence and modification of cardiometabolic risk factors",
-      "link": "https://doi.org/10.1097/hep.0000000000001822",
+      "title": "INTS6 loss of function disrupts transcriptional regulation in mild intellectual disability",
+      "link": "https://doi.org/10.64898/2026.07.17.737701",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/hep.0000000000001822\n \n                     Background &amp; Aims: \n                     Recompensation of decompensated metabolic-dysfunction-associated steatotic liver disease (MASLD) and Metabolic Dysfunction-Associated Steatotic Liver Disease with Alcohol Consumption (MetALD) cirrhosis remains",
+      "desc": "DOI: 10.64898/2026.07.17.737701\nAuthors: Nelli Jalkanen, Kalevi Trontti, Antto J Norppa, Elisa Rahikkala, Panagiotis Lilis, Pau Puigdevall, Leena Ivancic, Nea Niemimaa, Veikko Vuokila, Nour Assaf, Lea Urpa, Mitja Kurki, Eija Hämäläinen, Outi Kuismin, Aarno Palotie, Mikko J Frilander, Helena Kilpinen, Olli Pietiläinen\n Pathogenic variants in",
       "tag": "analysis"
     },
     {
-      "title": "Trends in the etiology of acute insult and underlying chronic liver disease in patients with acute-on-chronic liver failure: A retrospective study in Southwest China (2020–2023)",
-      "link": "https://doi.org/10.1097/md.0000000000049420",
+      "title": "Human pegivirus, Toscana virus and herpesviruses identified in cerebrospinal fluid from adults with unexplained neurologic disease, Spain, 2022–2023",
+      "link": "https://doi.org/10.1099/jgv.0.002302",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/md.0000000000049420\nAuthors: Yi Fang, Haifeng Dai, Qiufen Li, Danni Wang, Jianwen Liu, Yanan Liu\n \n                     \n                     The etiology of acute insults and underlying chronic liver disease in acute-on-chronic liver failure has evolved in recent years. This study examined etiological patte",
-      "tag": "analysis"
-    },
-    {
-      "title": "Identifying severe COVID-19 risk variants modulating enhancer reporter activity in lung cells",
-      "link": "https://doi.org/10.1371/journal.pgen.1012222",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.pgen.1012222\nAuthors: Giovanna Weykopf, Wendy A. Bickmore, Simon C. Biddie, Elias T. Friman\n Common genetic variants contribute to risk for complex human diseases. However, despite thousands of associations, variants modulating disease risk and their functional impact remain largely unknown. This includes SARS-CoV-2 infe",
+      "desc": "DOI: 10.1099/jgv.0.002302\nAuthors: Ana Donoso, Ana Belén Pérez, Marcos Lopez-Dosil, Ana Vázquez, Fabiana Gámbaro, María Paz Sánchez-Seco, Luis Martinez-Martinez, Maria Cabrerizo, David Tarragó, Maria Dolores Fernandez-Garcia\n \n                    Viral central nervous system (CNS) infections in adults frequently remain unresolved after routi",
       "tag": "analysis"
     },
     {
@@ -580,14 +636,7 @@ window.FEED_DATA = {
       "title": "INTS6 loss of function disrupts transcriptional regulation in mild intellectual disability",
       "link": "https://doi.org/10.64898/2026.07.17.737701",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.17.737701\nAuthors: Nelli Jalkanen, Kalevi Trontti, Antto J Norppa, Elisa Rahikkala, Panagiotis Lilis, Pau Puigdevall, Leena Ivancic, Nea Niemimaa, Veikko Vuokila, Nour Assaf, Lea Urpa, Mitja Kurki, Eija Hämäläinen, Outi Kuismin, Aarno Palotie, Mikko J Frilander, Helena Kilpinen, Olli Pietiläinen\n Pathogenic variants in",
-      "tag": "analysis"
-    },
-    {
-      "title": "Human pegivirus, Toscana virus and herpesviruses identified in cerebrospinal fluid from adults with unexplained neurologic disease, Spain, 2022–2023",
-      "link": "https://doi.org/10.1099/jgv.0.002302",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1099/jgv.0.002302\nAuthors: Ana Donoso, Ana Belén Pérez, Marcos Lopez-Dosil, Ana Vázquez, Fabiana Gámbaro, María Paz Sánchez-Seco, Luis Martinez-Martinez, Maria Cabrerizo, David Tarragó, Maria Dolores Fernandez-Garcia\n \n                    Viral central nervous system (CNS) infections in adults frequently remain unresolved after routi",
+      "desc": "DOI: 10.64898/2026.07.17.737701\nAuthors: Jalkanen, N.; Trontti, K.; Norppa, A. J.; Rahikkala, E.; Lilis, P.; Puigdevall, P.; Ivancic, L.; Niemimaa, N.; Vuokila, V.; Assaf, N.; Urpa, L.; Kurki, M.; Hämäläinen, E.; Kuismin, O.; Palotie, A.; Frilander, M. J.; Kilpinen, H.; Pietiläinen, O.\nPathogenic variants in genes involved in transcriptional re",
       "tag": "analysis"
     },
     {
@@ -962,13 +1011,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Screening and monitoring of travellers returning from countries affected by Bundibugyo virus: an overview of European approaches, July 2026",
-      "link": "https://doi.org/10.2807/1560-7917.es.2026.31.28.2600578",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.2807/1560-7917.es.2026.31.28.2600578\n The 2026 Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda has prompted European countries and the United States to revise measures for travellers, healthcare workers and humanitarian personnel returning from affected areas. We compare current procedures",
-      "tag": "response"
-    },
-    {
       "title": "Quantifying the heterogeneity and determinants of Ebola Zaire transmission during the 10th outbreak in DRC, 2018-2020.",
       "link": "https://doi.org/10.64898/2026.07.14.26358072",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
@@ -981,6 +1023,13 @@ window.FEED_DATA = {
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.47772/ijriss.2026.1026edu0437\nAuthors: Vincent Okelo Adet\n The 2026 Bundibugyo Ebola outbreak in East Africa, declared a Public Health Emergency of International Concern (PHEIC) by the World Health Organization, exposed systemic weaknesses in legal preparedness at international, regional, and domestic levels. Within weeks, over 1,000",
       "tag": "pheic"
+    },
+    {
+      "title": "Screening and monitoring of travellers returning from countries affected by Bundibugyo virus: an overview of European approaches, July 2026",
+      "link": "https://doi.org/10.2807/1560-7917.es.2026.31.28.2600578",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.2807/1560-7917.es.2026.31.28.2600578\n The 2026 Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda has prompted European countries and the United States to revise measures for travellers, healthcare workers and humanitarian personnel returning from affected areas. We compare current procedures",
+      "tag": "response"
     },
     {
       "title": "Detection of Myxosporean Parasites in Unidentified Food-Borne Disease Associated with Consumption of Raw Fish (2010–2025)",
@@ -1172,13 +1221,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Statement by Africa CDC on the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC)",
-      "link": "https://africacdc.org/news-item/statement-by-africa-cdc-on-the-release-of-the-2025-who-unicef-estimates-of-national-immunization-coverage-wuenic/",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "15 July 2026\n\n\n\nToday, Africa CDC joins the World Health Organization (WHO), UNICEF, Gavi the Vaccine Alliance and other partners in welcoming the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC). These estimates represent far more than annual coverage statistics: they are a measure of the resilience of our",
-      "tag": "analysis"
-    },
-    {
       "title": "Investigating the perspectives of Liberian frontline health workers on ethical tensions experienced during the Ebola epidemic and the COVID-19 pandemic",
       "link": "https://doi.org/10.21203/rs.3.rs-10210776/v1",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
@@ -1197,6 +1239,13 @@ window.FEED_DATA = {
       "link": "https://europepmc.org/article/MED/41494085",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
       "desc": "FullTextUrl: https://doi.org/10.1094/PDIS-08-25-1717-RE\nJournal Title: Plant disease\nAuthors: Butchacas J, Sapkota S, Jacobs JM, Toth H, Klos KE, Yimer BA.\n Pseudomonas coronafaciens  pv.  coronafaciens  ( Pcc ), the causal agent of bacterial halo blight (BHB) on oat, has been infrequently reported in the United States, with historic",
+      "tag": "analysis"
+    },
+    {
+      "title": "Statement by Africa CDC on the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC)",
+      "link": "https://africacdc.org/news-item/statement-by-africa-cdc-on-the-release-of-the-2025-who-unicef-estimates-of-national-immunization-coverage-wuenic/",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "15 July 2026\n\n\n\nToday, Africa CDC joins the World Health Organization (WHO), UNICEF, Gavi the Vaccine Alliance and other partners in welcoming the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC). These estimates represent far more than annual coverage statistics: they are a measure of the resilience of our",
       "tag": "analysis"
     },
     {
@@ -1820,55 +1869,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.4103/odjo.odjo_12_26",
       "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.4103/odjo.odjo_12_26\nAuthors: Sharmistha Behera, Devi Aiswarya Das, Jyotirmayee Mishra, Swetalina Jena, Rabi Narayan Mallik, Gurudev Bishi, Lipsa Mohapatra, Prangnya Bharati Nanda\n Abstract \n                   \n                     Purpose: \n                     This study evalua",
-      "tag": "analysis"
-    },
-    {
-      "title": "Hypertrophic Cardiomyopathy in the Era of Targeted Therapy: The Role of Cardiac Myosin Inhibitors, Contemporary Sudden Cardiac Death Risk Stratification, and the Importance of Differential Diagnosis — A Narrative Review",
-      "link": "https://doi.org/10.12775/jehs.2026.94.72850",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.12775/jehs.2026.94.72850\n Introduction and purpose: Hypertrophic cardiomyopathy (HCM) is a common genetic myocardial disease characterized by unexplained left ventricular hypertrophy, phenotypic heterogeneity, and a clinical course ranging from asymptomatic presentation to heart failure, atrial fibrillation, ventricular arrhythmias,",
-      "tag": "analysis"
-    },
-    {
-      "title": "Predictive Value of Serum Pepsinogen and Gastrin‐17 in Patients With Acute Coronary Syndrome for Post‐Percutaneous Coronary Intervention Oral Dual Antiplatelet Therapy‐Associated Upper Gastrointestinal Bleeding",
-      "link": "https://doi.org/10.1155/cdr/8095418",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1155/cdr/8095418\nAuthors: WanPing Yao, Chang Liu, ZiYi Fang, ShanShan Li, Lu Hong Xu, WenHao Qian, Fangfang Li, Jing Zong\n \n                     Background \n                     Gastrin‐17 (G‐17) and serum pepsinogen (PG) are indicators that reflect the structure and function of the stomach mucosa. Alt",
-      "tag": "analysis"
-    },
-    {
-      "title": "Mutation mapping and evolutionary dynamics of Bundibugyo Ebolavirus (BDBV-2026) genomes reported from Uganda",
-      "link": "https://doi.org/10.21203/rs.3.rs-10310109/v1",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10310109/v1\nAuthors: David Kelvin, Anuj Kumar, Andrew Nsawotebba, Barnabas Bakamutumaho, Bruce Kirenga, Mansi Dutt, Gustavo Sganzerla Martinez, Winters Muttamba, Wilber Sabiiti, Misaki Wayengera, Henry Bosa, Bernard Lutwama, Susan Nabadda, Charles Olaro, Diana Atwiine, Charles Ayume, Chris Baryomunsi, Atek Kagirita\n Abst",
-      "tag": "analysis"
-    },
-    {
-      "title": "Diagnostic testing for Ebola disease and Marburg virus disease: interim guidance, 9 July 2026",
-      "link": "https://doi.org/10.2471/b09834",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.2471/b09834",
-      "tag": "analysis"
-    },
-    {
-      "title": "Digital Health for Pandemic Preparedness: A Critical Review of Innovations, Equity Gaps, and Governance in Infectious Disease Surveillance",
-      "link": "https://doi.org/10.5812/iji-169286",
-      "pubDate": "Sun, 12 Jul 2026 23:30:00 Z",
-      "desc": "DOI: 10.5812/iji-169286\nAuthors: Abdolreza Babamahmoodi, Farhang Babamahmoodi, Majid Marjani\n Context: Recent infectious disease emergencies, including SARS-CoV-2, mpox (2022 - 2024), highly pathogenic avian influenza A(H5N1) in US dairy cattle (2024 - 2025), and the Marburg virus in Rwanda (2024), have strained traditional surveillance syst",
-      "tag": "response"
-    },
-    {
-      "title": "GEMCONT:Genetics-based Multimodal Contrastive Learning Enhances Phenotypic embeddings and Boosts Genetic Discovery",
-      "link": "https://openalex.org/W7168055797",
-      "pubDate": "Sun, 12 Jul 2026 10:32:00 Z",
-      "desc": "Authors: Daniel Sens, Liubov Shilova, Adrian V. Dalca, Julia A. Schnabel, Francesco Paolo Casale\nGenetic variation provides stable, time-invariant markers of disease risk and can therefore reveal upstream mechanisms underlying complex traits. Genome-wide association studies (GWAS) have identified thousands of loci associated with disease, yet most",
-      "tag": "analysis"
-    },
-    {
-      "title": "Cataluña amplía la ayuda ante el brote de ébola y cólera en República Democrática del Congo - La Razón",
-      "link": "https://www.larazon.es/cataluna/cataluna-amplia-ayuda-brote-ebola-colera-republica-democratica-congo_202607126a535814c48a78681b83fb66.html?outputType=amp",
-      "pubDate": "Sun, 12 Jul 2026 10:25:00 Z",
-      "desc": "-- Argentina. Significance Rating: 1 Cataluña amplía la ayuda ante el brote de ébola y cólera en República Democrática del Congo&nbsp;&nbsp;La Razón",
       "tag": "analysis"
     }
   ],
