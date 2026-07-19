@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 18 Jul 2026 21:52:45 Z",
-  "fetchedAt": "2026-07-18T21:52:46Z",
+  "lastBuildDate": "Sun, 19 Jul 2026 02:52:52 Z",
+  "fetchedAt": "2026-07-19T02:52:53Z",
   "itemCount": 246,
   "stats": {
     "drc": {
@@ -643,11 +643,46 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Investigating Factors Affecting the Nursing Shortage During the First and Acute Phase of COVID-19: A Systematic Review",
+      "link": "https://doi.org/10.4103/ijnmr.ijnmr_294_24",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.4103/ijnmr.ijnmr_294_24\nAuthors: Sara Dorri, Shabnam Shariatpanahi, Lida Hosseini, Seyedeh N. Seyedhasani, Ahmad Mahdizadeh, Mansoureh A. Farahani\n Abstract \n                   \n                     Background: \n                     The COVID-19 pandemic has resulted in a severe",
+      "tag": "analysis"
+    },
+    {
+      "title": "Cerebral Venous Thrombosis Following Varicella Zooster Infection: Case Report",
+      "link": "https://doi.org/10.21203/rs.3.rs-9457630/v1",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-9457630/v1\nAuthors: Sotubo Sotomiwa, Ogunyemi Ayokunle, Oluwaseun Oduwole, Precious Ali, Daniel George, Titilayo Olayanju, Oluwamayomikun Aderibigbe\n Abstract \n                 \n                  Background\n Cerebral venous thrombosis (CVT) is a rare yet life-threatening neurological condition",
+      "tag": "analysis"
+    },
+    {
+      "title": "Cryptic clues from an acute abdomen: a case report of peritonitis turning into disseminated cryptococcosis",
+      "link": "https://doi.org/10.1186/s12879-026-13871-w",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s12879-026-13871-w\nAuthors: Archith Boloor, Swarnava Porey, M. V. Ashwini, Vivek K. Koushik\n Abstract \n                   \n                     Background \n                     Cryptococcosis is a life-threatening opportunistic fungal infection that primarily affects immunoc",
+      "tag": "analysis"
+    },
+    {
+      "title": "Severe secondary hemophagocytic lymphohistiocytosis syndrome due to Crimean-Congo haemorrhagic fever virus: Thinking out of the box",
+      "link": "https://doi.org/10.12890/2026_007254",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.12890/2026_007254\nAuthors: Poulia Asimakopoulou, Sara Georgiadou, Nikolaos Gatselis, George N. Dalekos\n Introduction: Crimean-Congo haemorrhagic fever is an acute, often severe haemorrhagic disease caused by the homonymous virus. On the other hand, severe life-threatening secondary haemophagocytic lymphohistiocytosis is a rare entity",
+      "tag": "analysis"
+    },
+    {
       "title": "Post-infectious dengue cerebellitis in a patient with transfusion-dependent β-thalassaemia major: A case report",
       "link": "https://doi.org/10.4038/jccp.v57i1.8182",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.4038/jccp.v57i1.8182\nAuthors: R. Ginigaddarage, S. T. De Silva, A. Premawardhena\n Dengue fever is endemic in Sri Lanka and can rarely cause neurological complications, including post-infectious cerebellitis. Although patients with β-thalassaemia major have altered immune profiles, the intersection of expanded dengue syndrome with und",
       "tag": "analysis"
+    },
+    {
+      "title": "Exploring the Potential Contribution of Climate-Informed Research to Future Ebola Preparedness in Central Africa",
+      "link": "https://doi.org/10.3390/v18070782",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/v18070782\nAuthors: Sandra Ndaka Sumbu, Ben Bepouka\n The ongoing 2026 Bundibugyo ebolavirus outbreak in eastern Democratic Republic of the Congo highlights the continued vulnerability of Central Africa to recurrent Ebola emergence. This outbreak emerged less than six months after the previous one ended, appears to represent one o",
+      "tag": "response"
     },
     {
       "title": "Detection of Myxosporean Parasites in Unidentified Food-Borne Disease Associated with Consumption of Raw Fish (2010–2025)",
@@ -923,6 +958,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Bundibugyo Virus Disease: Diagnostics and Medical Countermeasures for a Neglected Ebolavirus",
+      "link": "https://doi.org/10.3390/v18070775",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/v18070775\nAuthors: Katharina Kopp\n Bundibugyo virus disease, caused by Bundibugyo virus (Orthoebolavirus bundibugyoense), is a severe human Ebola disease with substantial mortality, unresolved reservoir ecology, limited diagnostic implementation, and no licensed vaccines or therapeutics specifically approved for this Orthoebolav",
+      "tag": "analysis"
+    },
+    {
       "title": "A suspected salmonellosis outbreak reported in Long Island, New York linked to private funeral reception",
       "link": "https://beaconbio.org/en/report/?reportid=22477c2f-0ec7-48c0-8b03-d2145f382d0d",
       "pubDate": "Tue, 14 Jul 2026 20:38:00 Z",
@@ -1165,6 +1207,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.64898/2026.07.14.737667",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.14.737667\nAuthors: Arturo Carabias, Ruiliang Zhao, Ricardo Garcia Martin, Nuria Ardid Munoz, Mario Rodriguez Mestre, Huijuan Li, Johannes Anton Kuhn, Josepha Magdalene Klas, Sarah Camara Wilpert, Dennis Zhang, Nanna Wagner, Selma Margarita Kuypers, Tillmann Pape, Soren Johannes Sorensen, Rafael Pinilla Redondo, Guillermo Monto",
+      "tag": "analysis"
+    },
+    {
+      "title": "WHO target product profile for Bundibugyo virus disease vaccines, 14 July 2026",
+      "link": "https://doi.org/10.2471/b09835",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.2471/b09835",
       "tag": "analysis"
     },
     {
@@ -1816,55 +1865,6 @@ window.FEED_DATA = {
       "link": "https://insp.cd/les-leaders-communautaires-au-coeur-de-la-strategie-de-prevention-et-de-mobilisation/",
       "pubDate": "Thu, 09 Jul 2026 00:00:00 Z",
       "desc": "juillet 9, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBeni, 8 juillet 2026. Convaincu que la participation des communautés constitue un levier essentiel pour interrompre la transmission de la maladie à virus Ebola (MVE), le Ministère de la",
-      "tag": "analysis"
-    },
-    {
-      "title": "Human exposure to Crimean-Congo hemorrhagic fever virus is associated with livestock management and handling practices in southcentral Tanzania, 2023–2024",
-      "link": "https://doi.org/10.1186/s12879-026-13919-x",
-      "pubDate": "Thu, 09 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s12879-026-13919-x\nAuthors: Cheryl Meehan, Grace Mwangoka, Mwokozi Mwanzalilla, Woutrina A. Smith, Maxmillian Mpina, Macdonald Farnham, Robinson Mdegela, Robert Sumaye, Silas Temu, Ali Mohamed Ali, Hajirani Msuya, Jumaa Athumani Jumaa, Huruma Sayale, Jane Orotta, George Makingi, Sijali Zinkankuba, Ahmed Amasha, Amina Abdallah Kinyogori",
-      "tag": "analysis"
-    },
-    {
-      "title": "Are We Missing the Bladder? Reflections on Endometriosis and IC/BPS",
-      "link": "https://link.springer.com/article/10.1007/s00192-026-06804-3",
-      "pubDate": "Wed, 08 Jul 2026 16:53:00 Z",
-      "desc": "Cystoscopy may contribute to the diagnostic evaluation of selected patients with suspected IC/BPS by enabling direct visualization of characteristic bladder findings. However, cystoscopic abnormalities should be interpreted cautiously, particularly glomerulations, which are increasingly recognized....",
-      "tag": "cases"
-    },
-    {
-      "title": "Seth Berger",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/?term=Berger+S",
-      "pubDate": "Wed, 08 Jul 2026 10:56:00 Z",
-      "desc": "Chen Y, Dawes R, Kim HC, Ljungdahl A, Stenton SL, Walker S, Lord J, Lemire G, Martin-Geary AC, Ganesh VS, Ma J, Ellingford JM, Delage E, D'Souza EN, Dong S, Adams DR, Allan K, Bakshi M, Baldwin EE, Berger SI , Bernstein JA, Bhatnagar I, Blair E, Brown NJ, Burrage LC, Chapman K, Coman DJ, Compton AG,....",
-      "tag": "analysis"
-    },
-    {
-      "title": "New human-infecting viruses discovered every year, study finds",
-      "link": "https://edinburgh-infectious-diseases.ed.ac.uk/news/latest-news/new-human-infecting-viruses-discovered-every-year-study-finds",
-      "pubDate": "Wed, 08 Jul 2026 10:46:00 Z",
-      "desc": "The research brings together the most comprehensive catalogue to date of human-infective viruses, identifying 239 species and tracking when and where they first emerged, how they spread, and their potential to cause outbreaks. Drawing on decades of scientific evidence, experts say the study suggests....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Evaluation of hematological and biochemical parameters in the differential diagnosis of Crimean-Congo hemorrhagic fever and brucellosis: insights from a large patient cohort",
-      "link": "https://link.springer.com/article/10.1186/s12879-026-13979-z",
-      "pubDate": "Wed, 08 Jul 2026 09:58:00 Z",
-      "desc": "Background. In Türkiye, where both Crimean-Congo Hemorrhagic Fever CCHF) and brucellosis are endemic, these infections share common presenting symptoms, including fever and musculoskeletal complaints, as well as overlapping laboratory findings such as thrombocytopenia and elevated liver enzymes, making early differential diagnosis challenging.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Original Research Accepted on 07 Jul 2026 Perspectives of infectious disease specialists on shared decision-making for fever of unknown origin: A national survey in China in Infectious Diseases: Epidemiology and Prevention Ling Qin Zhiyi Pei Xiaofeng Kang Taisheng Li Ying Ge Frontiers in Public....",
-      "link": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1779890/abstract",
-      "pubDate": "Wed, 08 Jul 2026 00:09:00 Z",
-      "desc": "Abstract. Background: This study aimed to investigate the attitudes of infectious disease specialists toward shared decision-making (SDM) and identify the perceived barriers to its implementation in the management of fever of unknown origin (FUO) in China.",
-      "tag": "analysis"
-    },
-    {
-      "title": "La RDC et l’Ouganda consolident leur coopération transfrontalière pour renforcer la sécurité sanitaire.",
-      "link": "https://insp.cd/la-rdc-et-louganda-consolident-leur-cooperation-transfrontaliere-pour-renforcer-la-securite-sanitaire/",
-      "pubDate": "Wed, 08 Jul 2026 00:00:00 Z",
-      "desc": "juillet 8, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBunia, 6 juillet 2026. Dans le cadre du renforcement de la coopération transfrontalière entre la République démocratique du Congo et la République de l’Ouganda, la Coordination stratégi",
       "tag": "analysis"
     }
   ],
