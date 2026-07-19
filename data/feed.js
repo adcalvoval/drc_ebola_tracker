@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 19 Jul 2026 19:08:44 Z",
-  "fetchedAt": "2026-07-19T19:08:44Z",
+  "lastBuildDate": "Sun, 19 Jul 2026 21:54:30 Z",
+  "fetchedAt": "2026-07-19T21:54:30Z",
   "itemCount": 246,
   "stats": {
     "drc": {
@@ -89,10 +89,6 @@ window.FEED_DATA = {
       "moh": {
         "deaths": 896,
         "confirmed": 2267
-      },
-      "cdc": {
-        "deaths": 17,
-        "confirmed": 19
       },
       "media": {
         "deaths": 864,
@@ -507,6 +503,34 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Identifying severe COVID-19 risk variants modulating enhancer reporter activity in lung cells",
+      "link": "https://doi.org/10.1371/journal.pgen.1012222",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.pgen.1012222\nAuthors: Giovanna Weykopf, Wendy A. Bickmore, Simon C. Biddie, Elias T. Friman\n Common genetic variants contribute to risk for complex human diseases. However, despite thousands of associations, variants modulating disease risk and their functional impact remain largely unknown. This includes SARS-CoV-2 infe",
+      "tag": "analysis"
+    },
+    {
+      "title": "Infectious medical waste (IMW) and disease transmission: A critical public health challenge in Africa and the global implications – A systematic review",
+      "link": "https://doi.org/10.1177/22799036261470478",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1177/22799036261470478\nAuthors: Jeffrey N. T. Squire, Michaelann George, Zakirah Allain, Oghenowede Eyawo\n \n                     Background \n                     Infectious Medical Waste (IMW) from both human and animal healthcare sources have the potential to transmit diseases in human populations due",
+      "tag": "analysis"
+    },
+    {
+      "title": "From Past Outbreaks to Future Threats: Detecting Medical Conspiracy Theories With <scp>LLMs</scp> and Limited Labels",
+      "link": "https://doi.org/10.1111/exsy.70360",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1111/exsy.70360\nAuthors: Ipek Baris Schlicht, Damir Korenčić, Berta Chulvi, Lucie Flek, Paolo Rosso\n ABSTRACT \n                   Online dissemination of conspiracy theories (CTs) during epidemics poses significant risks to public health. This paper addresses the problem of detecting CTs in social media posts w",
+      "tag": "analysis"
+    },
+    {
+      "title": "Comparative Efficacy of Vancomycin and Fidaxomicin Regimens for the Prevention of Recurrent Clostridioides difficile Infection: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+      "link": "https://doi.org/10.64898/2026.07.14.26358112",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.14.26358112\nAuthors: Prosty, C.; Butler-Laporte, G.; Brophy, J.; Frenette, C.; Loo, V.; Coburn, B.; Hota, S.; Longtin, Y.; Kong, L.; Muller, M.; Steiner, T.; Valiquette, L.; Daneman, N.; Daley, P.; Nott, C.; MacFadden, D. R.; Kandel, C.; Chen, Y.; Perez- Patrigeon, S.; Lee, T. C.; McDonald, E.\nBackground and Aims The optimal t",
+      "tag": "analysis"
+    },
+    {
       "title": "Mucosal tissue cues shape B cell memory through the IgA BCR",
       "link": "https://doi.org/10.1126/sciimmunol.adv1149",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
@@ -525,20 +549,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1097/md.0000000000049420",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1097/md.0000000000049420\nAuthors: Yi Fang, Haifeng Dai, Qiufen Li, Danni Wang, Jianwen Liu, Yanan Liu\n \n                     \n                     The etiology of acute insults and underlying chronic liver disease in acute-on-chronic liver failure has evolved in recent years. This study examined etiological patte",
-      "tag": "analysis"
-    },
-    {
-      "title": "Identifying severe COVID-19 risk variants modulating enhancer reporter activity in lung cells",
-      "link": "https://doi.org/10.1371/journal.pgen.1012222",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.pgen.1012222\nAuthors: Giovanna Weykopf, Wendy A. Bickmore, Simon C. Biddie, Elias T. Friman\n Common genetic variants contribute to risk for complex human diseases. However, despite thousands of associations, variants modulating disease risk and their functional impact remain largely unknown. This includes SARS-CoV-2 infe",
-      "tag": "analysis"
-    },
-    {
-      "title": "Comparative Efficacy of Vancomycin and Fidaxomicin Regimens for the Prevention of Recurrent Clostridioides difficile Infection: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
-      "link": "https://doi.org/10.64898/2026.07.14.26358112",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.14.26358112\nAuthors: Prosty, C.; Butler-Laporte, G.; Brophy, J.; Frenette, C.; Loo, V.; Coburn, B.; Hota, S.; Longtin, Y.; Kong, L.; Muller, M.; Steiner, T.; Valiquette, L.; Daneman, N.; Daley, P.; Nott, C.; MacFadden, D. R.; Kandel, C.; Chen, Y.; Perez- Patrigeon, S.; Lee, T. C.; McDonald, E.\nBackground and Aims The optimal t",
       "tag": "analysis"
     },
     {
@@ -567,20 +577,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1080/14725843.2026.2690865",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1080/14725843.2026.2690865\nAuthors: Pal Ahluwalia",
-      "tag": "analysis"
-    },
-    {
-      "title": "Infectious medical waste (IMW) and disease transmission: A critical public health challenge in Africa and the global implications – A systematic review",
-      "link": "https://doi.org/10.1177/22799036261470478",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/22799036261470478\nAuthors: Jeffrey N. T. Squire, Michaelann George, Zakirah Allain, Oghenowede Eyawo\n \n                     Background \n                     Infectious Medical Waste (IMW) from both human and animal healthcare sources have the potential to transmit diseases in human populations due",
-      "tag": "analysis"
-    },
-    {
-      "title": "From Past Outbreaks to Future Threats: Detecting Medical Conspiracy Theories With <scp>LLMs</scp> and Limited Labels",
-      "link": "https://doi.org/10.1111/exsy.70360",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/exsy.70360\nAuthors: Ipek Baris Schlicht, Damir Korenčić, Berta Chulvi, Lucie Flek, Paolo Rosso\n ABSTRACT \n                   Online dissemination of conspiracy theories (CTs) during epidemics poses significant risks to public health. This paper addresses the problem of detecting CTs in social media posts w",
       "tag": "analysis"
     },
     {
@@ -878,24 +874,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Myositis and flaccid paralysis caused by Powassan virus infection acquired in Manitoba, Canada",
-      "link": "https://doi.org/10.3138/jammi-2025-0042",
+      "title": "Trends in Hepatitis B, Hepatitis C, and <scp>HIV</scp> Seroprevalence in the Netherlands: Insights From Two Decades of Nationwide <scp>PIENTER</scp> Serosurveys",
+      "link": "https://doi.org/10.1111/jvh.70213",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3138/jammi-2025-0042\nAuthors: Jeremy Li, Heidi Wood, Paul Van Caeseele, Yoav Keynan\n \n                     Background: \n                     \n                      Powassan virus is a cause of viral encephalitis transmitted by\n                       Ixodes",
+      "desc": "DOI: 10.1111/jvh.70213\nAuthors: Christine G. J. I. van Straten, Birgit H. B. van Benthem, Fiona R. M. van der Klis, Gaby Smits, Eric R. A. Vos, Tom Woudenberg, Marc van der Valk, Eline L. M. Op de Coul\n ABSTRACT \n                   Hepatitis B (HBV), hepatitis C (HCV), and HIV remain public health challenges despite ef",
       "tag": "analysis"
     },
     {
-      "title": "A dominant coral parasite, Candidatus Aquirickettsia rohweri, resists antibiotic exposure and thermal challenge below the bleaching threshold in disease-susceptible Acropora cervicornis",
-      "link": "https://doi.org/10.64898/2026.07.15.738557",
+      "title": "Quantifying the heterogeneity and determinants of Ebola Zaire transmission during the 10th outbreak in DRC, 2018-2020.",
+      "link": "https://doi.org/10.64898/2026.07.14.26358072",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.15.738557\nAuthors: Sunni Patton, Eddie Fuques, Lauren Speare, J. Grace Klinges, Erinn M Muller, Rebecca L Vega Thurber\n The critically endangered Caribbean staghorn coral Acropora cervicornis hosts microbiomes frequently dominated by the putatively parasitic intracellular bacterium Candidatus Aquirickettsia rohweri, whi",
-      "tag": "analysis"
-    },
-    {
-      "title": "Establishing The Australian Undiagnosed Disease Network (UDN-Aus); Australia’s first national rare disease diagnostic network",
-      "link": "https://doi.org/10.21203/rs.3.rs-8091344/v1",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-8091344/v1\nAuthors: Ellenore M Martin, Madeleine Harris, Tegan Stait, Sarah Casauria, Esther Pierini, Susan M White, Azure Hermes, Julie McGaughran, Rocio Rius, Daniel G. MacArthur, Timo Lassmann, Christopher Richmond, Janine Smith, Mathew Wallis, Suzanne Sallevelt, Michael Field, Chloe Cunningham, David A Stroud, Simon Sadedi",
+      "desc": "DOI: 10.64898/2026.07.14.26358072\nAuthors: Soubrier, H.; Seo, D.; Barks, P.; Meakin, S.; Mossoko, M.; Kitenge, R.; Dieberg, K.; Van Herp, M.; Mambula, C.; Flasche, S.; Camacho, A.; Coulborn, R.; Simons, E.; Ahuka-Mundeke, S.; Broban, A.\nBackground. The 2018-2020 Ebola virus disease outbreak in the Democratic Republic of the Congo (DRC) was the coun",
       "tag": "analysis"
     },
     {
@@ -920,24 +909,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Impact of Pandemics on Alternative Measure of Economic Well-being: Evidence from Panel Data",
-      "link": "https://doi.org/10.1177/09737030261459514",
+      "title": "Myositis and flaccid paralysis caused by Powassan virus infection acquired in Manitoba, Canada",
+      "link": "https://doi.org/10.3138/jammi-2025-0042",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/09737030261459514\nAuthors: Swati Sinha Babu\n The present study aims at understanding how the pandemics SARS (2003), H1N1 (2009), MERS (2012), Ebola (2014), Zika (2016) and COVID-19 (2019 and 2020) have impacted the economic well-being of people across 63 countries classified into different income groups for the period from 1990",
+      "desc": "DOI: 10.3138/jammi-2025-0042\nAuthors: Jeremy Li, Heidi Wood, Paul Van Caeseele, Yoav Keynan\n \n                     Background: \n                     \n                      Powassan virus is a cause of viral encephalitis transmitted by\n                       Ixodes",
       "tag": "analysis"
     },
     {
-      "title": "Trends in Hepatitis B, Hepatitis C, and <scp>HIV</scp> Seroprevalence in the Netherlands: Insights From Two Decades of Nationwide <scp>PIENTER</scp> Serosurveys",
-      "link": "https://doi.org/10.1111/jvh.70213",
+      "title": "A dominant coral parasite, Candidatus Aquirickettsia rohweri, resists antibiotic exposure and thermal challenge below the bleaching threshold in disease-susceptible Acropora cervicornis",
+      "link": "https://doi.org/10.64898/2026.07.15.738557",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/jvh.70213\nAuthors: Christine G. J. I. van Straten, Birgit H. B. van Benthem, Fiona R. M. van der Klis, Gaby Smits, Eric R. A. Vos, Tom Woudenberg, Marc van der Valk, Eline L. M. Op de Coul\n ABSTRACT \n                   Hepatitis B (HBV), hepatitis C (HCV), and HIV remain public health challenges despite ef",
+      "desc": "DOI: 10.64898/2026.07.15.738557\nAuthors: Sunni Patton, Eddie Fuques, Lauren Speare, J. Grace Klinges, Erinn M Muller, Rebecca L Vega Thurber\n The critically endangered Caribbean staghorn coral Acropora cervicornis hosts microbiomes frequently dominated by the putatively parasitic intracellular bacterium Candidatus Aquirickettsia rohweri, whi",
       "tag": "analysis"
     },
     {
-      "title": "EVOLUTION OF MORTALITY FROM SYSTEMIC ARTERIAL HYPERTENSION IN BRAZIL: TEMPORAL TRENDS, CHANGES IN DIAGNOSTIC PROFILE, AND SOCIODEMOGRAPHIC AND REGIONAL INEQUALITIES, 2010–2024",
-      "link": "https://doi.org/10.23900/artefactum.v25i5.3274",
+      "title": "Establishing The Australian Undiagnosed Disease Network (UDN-Aus); Australia’s first national rare disease diagnostic network",
+      "link": "https://doi.org/10.21203/rs.3.rs-8091344/v1",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.23900/artefactum.v25i5.3274\nAuthors: Alana Coêlho Maciel, Renato Sarmento dos Reis Moreno, Ana Patricia Barros Camara, Silvana Dias Corrêa Carolino da Silva, Thiago Emmanuel Araujo dos Santos, Mateus Henrique Dias Guimarães, Poliana Santos, Marilane Vilela Marques, Cristiany Pietro Dias das Chagas Porto, Alex Souza de Miranda, Rosemeri Alex",
+      "desc": "DOI: 10.21203/rs.3.rs-8091344/v1\nAuthors: Ellenore M Martin, Madeleine Harris, Tegan Stait, Sarah Casauria, Esther Pierini, Susan M White, Azure Hermes, Julie McGaughran, Rocio Rius, Daniel G. MacArthur, Timo Lassmann, Christopher Richmond, Janine Smith, Mathew Wallis, Suzanne Sallevelt, Michael Field, Chloe Cunningham, David A Stroud, Simon Sadedi",
       "tag": "analysis"
     },
     {
@@ -948,6 +937,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "EVOLUTION OF MORTALITY FROM SYSTEMIC ARTERIAL HYPERTENSION IN BRAZIL: TEMPORAL TRENDS, CHANGES IN DIAGNOSTIC PROFILE, AND SOCIODEMOGRAPHIC AND REGIONAL INEQUALITIES, 2010–2024",
+      "link": "https://doi.org/10.23900/artefactum.v25i5.3274",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.23900/artefactum.v25i5.3274\nAuthors: Alana Coêlho Maciel, Renato Sarmento dos Reis Moreno, Ana Patricia Barros Camara, Silvana Dias Corrêa Carolino da Silva, Thiago Emmanuel Araujo dos Santos, Mateus Henrique Dias Guimarães, Poliana Santos, Marilane Vilela Marques, Cristiany Pietro Dias das Chagas Porto, Alex Souza de Miranda, Rosemeri Alex",
+      "tag": "analysis"
+    },
+    {
       "title": "Investigating Factors Affecting the Nursing Shortage During the First and Acute Phase of COVID-19: A Systematic Review",
       "link": "https://doi.org/10.4103/ijnmr.ijnmr_294_24",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
@@ -955,10 +951,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Quantifying the heterogeneity and determinants of Ebola Zaire transmission during the 10th outbreak in DRC, 2018-2020.",
-      "link": "https://doi.org/10.64898/2026.07.14.26358072",
+      "title": "Impact of Pandemics on Alternative Measure of Economic Well-being: Evidence from Panel Data",
+      "link": "https://doi.org/10.1177/09737030261459514",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.14.26358072\nAuthors: Soubrier, H.; Seo, D.; Barks, P.; Meakin, S.; Mossoko, M.; Kitenge, R.; Dieberg, K.; Van Herp, M.; Mambula, C.; Flasche, S.; Camacho, A.; Coulborn, R.; Simons, E.; Ahuka-Mundeke, S.; Broban, A.\nBackground. The 2018-2020 Ebola virus disease outbreak in the Democratic Republic of the Congo (DRC) was the coun",
+      "desc": "DOI: 10.1177/09737030261459514\nAuthors: Swati Sinha Babu\n The present study aims at understanding how the pandemics SARS (2003), H1N1 (2009), MERS (2012), Ebola (2014), Zika (2016) and COVID-19 (2019 and 2020) have impacted the economic well-being of people across 63 countries classified into different income groups for the period from 1990",
       "tag": "analysis"
     },
     {
@@ -1011,11 +1007,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Quantifying the heterogeneity and determinants of Ebola Zaire transmission during the 10th outbreak in DRC, 2018-2020.",
-      "link": "https://doi.org/10.64898/2026.07.14.26358072",
+      "title": "Screening and monitoring of travellers returning from countries affected by Bundibugyo virus: an overview of European approaches, July 2026",
+      "link": "https://doi.org/10.2807/1560-7917.es.2026.31.28.2600578",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.14.26358072\nAuthors: Hugo Soubrier, Dohyun Seo, Patrick Barks, Sophie Meakin, Matthias Mossoko, Richard Kitenge, Kerry Dieberg, Michel Van Herp, Christopher Mambula, Stefan Flasche, Anton Camacho, Rebecca Coulborn, Erica Simons, Steve Ahuka-Mundeke, Anais Broban\n Background. The 2018-2020 Ebola virus disease outbreak in",
-      "tag": "analysis"
+      "desc": "DOI: 10.2807/1560-7917.es.2026.31.28.2600578\n The 2026 Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda has prompted European countries and the United States to revise measures for travellers, healthcare workers and humanitarian personnel returning from affected areas. We compare current procedures",
+      "tag": "response"
     },
     {
       "title": "Legal Preparedness for Public Health Emergencies: Lessons from the 2026 Bundibugyo Ebola Outbreak in East Africa",
@@ -1025,11 +1021,11 @@ window.FEED_DATA = {
       "tag": "pheic"
     },
     {
-      "title": "Screening and monitoring of travellers returning from countries affected by Bundibugyo virus: an overview of European approaches, July 2026",
-      "link": "https://doi.org/10.2807/1560-7917.es.2026.31.28.2600578",
+      "title": "Quantifying the heterogeneity and determinants of Ebola Zaire transmission during the 10th outbreak in DRC, 2018-2020.",
+      "link": "https://doi.org/10.64898/2026.07.14.26358072",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.2807/1560-7917.es.2026.31.28.2600578\n The 2026 Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda has prompted European countries and the United States to revise measures for travellers, healthcare workers and humanitarian personnel returning from affected areas. We compare current procedures",
-      "tag": "response"
+      "desc": "DOI: 10.64898/2026.07.14.26358072\nAuthors: Hugo Soubrier, Dohyun Seo, Patrick Barks, Sophie Meakin, Matthias Mossoko, Richard Kitenge, Kerry Dieberg, Michel Van Herp, Christopher Mambula, Stefan Flasche, Anton Camacho, Rebecca Coulborn, Erica Simons, Steve Ahuka-Mundeke, Anais Broban\n Background. The 2018-2020 Ebola virus disease outbreak in",
+      "tag": "analysis"
     },
     {
       "title": "Detection of Myxosporean Parasites in Unidentified Food-Borne Disease Associated with Consumption of Raw Fish (2010–2025)",
@@ -1200,13 +1196,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Bleeding in haemorrhagic fever with renal syndrome: A systematic review characterising the loss of haemostasis in hantavirus infections",
-      "link": "https://doi.org/10.1371/journal.pntd.0014524",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.pntd.0014524\nAuthors: Matthew J. Riley, Aliza Hudda, Miša Korva, Tatjana Avšič-Županc, Beverley J. Hunt, Tom E. Fletcher\n \n                     Background \n                     Haemorrhagic fever with renal syndrome (HFRS) is caused by hantaviruses and is associated with variab",
-      "tag": "analysis"
-    },
-    {
       "title": "Beta-adrenergic receptor activation during stress reduces the abundance of commensal Clostridia in the mouse gut",
       "link": "https://doi.org/10.64898/2026.07.14.738460",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
@@ -1218,6 +1207,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.64898/2026.07.09.737488",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.09.737488\nAuthors: Owens, R. E.; Matthews, B. E.; Mastrangelo, M. A.; Meeks, J. P.; Rowe, R. K.\nThe main olfactory epithelium (MOE) is the primary site of olfaction and consists of multiple cell types including olfactory sensory neurons (OSNs), sustentacular cells, and immune cells. Neuroimmune interactions in epithelial tissu",
+      "tag": "analysis"
+    },
+    {
+      "title": "Bleeding in haemorrhagic fever with renal syndrome: A systematic review characterising the loss of haemostasis in hantavirus infections",
+      "link": "https://doi.org/10.1371/journal.pntd.0014524",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.pntd.0014524\nAuthors: Matthew J. Riley, Aliza Hudda, Miša Korva, Tatjana Avšič-Županc, Beverley J. Hunt, Tom E. Fletcher\n \n                     Background \n                     Haemorrhagic fever with renal syndrome (HFRS) is caused by hantaviruses and is associated with variab",
       "tag": "analysis"
     },
     {
