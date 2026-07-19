@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 19 Jul 2026 02:52:52 Z",
-  "fetchedAt": "2026-07-19T02:52:53Z",
+  "lastBuildDate": "Sun, 19 Jul 2026 05:55:57 Z",
+  "fetchedAt": "2026-07-19T05:55:57Z",
   "itemCount": 246,
   "stats": {
     "drc": {
@@ -244,6 +244,13 @@
       "tag": "response"
     },
     {
+      "title": "Home",
+      "link": "http://www.rcdc.gov.bt/web/",
+      "pubDate": "Fri, 17 Jul 2026 20:06:00 Z",
+      "desc": "Event Reports(Latest)\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tDzongkhag\n\t\t\t\t\tDate\n\t\t\t\t\tName\n\t\t\t\t\tLocation\n\t\t\t\t\tCase\n\t\t\t\t\tStatus\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tMongar2026-06-25Acute Respiratory Infection OutbreakNarang Gewog78OngoingLhuentse2026-06-18Flu like illness within 1 week (wef date 15th  till 19th June 2026)Lhuentse Higher Secondary S",
+      "tag": "analysis"
+    },
+    {
       "title": "US aid workers quarantined in Kenya as CDC expands Ebola travel restrictions",
       "link": "https://www.cidrap.umn.edu/ebola/us-aid-workers-quarantined-kenya-cdc-expands-ebola-travel-restrictions",
       "pubDate": "Fri, 17 Jul 2026 19:37:00 Z",
@@ -262,6 +269,13 @@
       "link": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012222",
       "pubDate": "Fri, 17 Jul 2026 18:51:00 Z",
       "desc": "Common genetic variants contribute to risk for complex human diseases. However, despite thousands of associations, variants modulating disease risk and their functional impact remain largely unknown. This includes SARS-CoV-2 infection, where outcomes range from asymptomatic to fatal.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Bundibugyo Virus Disease Outbreak | Situation Report, Issue No. 58 - July 14, 2026 – Africa CDC",
+      "link": "https://africacdc.org/download/bundibugyo-virus-disease-outbreak-situation-report-issue-no-58-july-14-2026/",
+      "pubDate": "Fri, 17 Jul 2026 18:24:00 Z",
+      "desc": "Download Files\n1 fileUpdate | Bundibugyo Virus Disease Outbreak, Issue No. 58 – July 14, 20262.9 mbDownload\nDownload\n\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t17 July 2026\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tResource Type\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tSitRep\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tThemes",
       "tag": "analysis"
     },
     {
@@ -650,13 +664,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Cerebral Venous Thrombosis Following Varicella Zooster Infection: Case Report",
-      "link": "https://doi.org/10.21203/rs.3.rs-9457630/v1",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-9457630/v1\nAuthors: Sotubo Sotomiwa, Ogunyemi Ayokunle, Oluwaseun Oduwole, Precious Ali, Daniel George, Titilayo Olayanju, Oluwamayomikun Aderibigbe\n Abstract \n                 \n                  Background\n Cerebral venous thrombosis (CVT) is a rare yet life-threatening neurological condition",
-      "tag": "analysis"
-    },
-    {
       "title": "Cryptic clues from an acute abdomen: a case report of peritonitis turning into disseminated cryptococcosis",
       "link": "https://doi.org/10.1186/s12879-026-13871-w",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
@@ -664,10 +671,45 @@
       "tag": "analysis"
     },
     {
-      "title": "Severe secondary hemophagocytic lymphohistiocytosis syndrome due to Crimean-Congo haemorrhagic fever virus: Thinking out of the box",
-      "link": "https://doi.org/10.12890/2026_007254",
+      "title": "Cerebral Venous Thrombosis Following Varicella Zooster Infection: Case Report",
+      "link": "https://doi.org/10.21203/rs.3.rs-9457630/v1",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.12890/2026_007254\nAuthors: Poulia Asimakopoulou, Sara Georgiadou, Nikolaos Gatselis, George N. Dalekos\n Introduction: Crimean-Congo haemorrhagic fever is an acute, often severe haemorrhagic disease caused by the homonymous virus. On the other hand, severe life-threatening secondary haemophagocytic lymphohistiocytosis is a rare entity",
+      "desc": "DOI: 10.21203/rs.3.rs-9457630/v1\nAuthors: Sotubo Sotomiwa, Ogunyemi Ayokunle, Oluwaseun Oduwole, Precious Ali, Daniel George, Titilayo Olayanju, Oluwamayomikun Aderibigbe\n Abstract \n                 \n                  Background\n Cerebral venous thrombosis (CVT) is a rare yet life-threatening neurological condition",
+      "tag": "analysis"
+    },
+    {
+      "title": "Can hantaviruses cause pandemics?",
+      "link": "https://doi.org/10.1186/s43162-026-00662-7",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s43162-026-00662-7\nAuthors: Haitham A Hashim, Ahmed Saad, Amr Saad\n Abstract \n                   The 2026 MV Hondius outbreak of Andes virus (ANDV) renewed concerns regarding the pandemic potential of hantaviruses, particularly because ANDV is the only hantavirus with proved human-to-human transmission. Th",
+      "tag": "analysis"
+    },
+    {
+      "title": "Climate change and the growing threat of bunyaviruses",
+      "link": "https://doi.org/10.1128/jvi.01772-25",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1128/jvi.01772-25\nAuthors: James M. Bowen, Natasha L. Tilston\n ABSTRACT \n                   \n                     \n                     Anthropogenic climate change and its implications for infectious diseases have been central to the scientific and public health discourse for more than thr",
+      "tag": "analysis"
+    },
+    {
+      "title": "A dominant coral parasite, Candidatus Aquirickettsia rohweri, resists antibiotic exposure and thermal challenge below the bleaching threshold in disease-susceptible Acropora cervicornis",
+      "link": "https://doi.org/10.64898/2026.07.15.738557",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.15.738557\nAuthors: Sunni Patton, Eddie Fuques, Lauren Speare, J. Grace Klinges, Erinn M Muller, Rebecca L Vega Thurber\n The critically endangered Caribbean staghorn coral Acropora cervicornis hosts microbiomes frequently dominated by the putatively parasitic intracellular bacterium Candidatus Aquirickettsia rohweri, whi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Myositis and flaccid paralysis caused by Powassan virus infection acquired in Manitoba, Canada",
+      "link": "https://doi.org/10.3138/jammi-2025-0042",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3138/jammi-2025-0042\nAuthors: Jeremy Li, Heidi Wood, Paul Van Caeseele, Yoav Keynan\n \n                     Background: \n                     \n                      Powassan virus is a cause of viral encephalitis transmitted by\n                       Ixodes",
+      "tag": "analysis"
+    },
+    {
+      "title": "Establishing The Australian Undiagnosed Disease Network (UDN-Aus); Australia’s first national rare disease diagnostic network",
+      "link": "https://doi.org/10.21203/rs.3.rs-8091344/v1",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-8091344/v1\nAuthors: Ellenore M Martin, Madeleine Harris, Tegan Stait, Sarah Casauria, Esther Pierini, Susan M White, Azure Hermes, Julie McGaughran, Rocio Rius, Daniel G. MacArthur, Timo Lassmann, Christopher Richmond, Janine Smith, Mathew Wallis, Suzanne Sallevelt, Michael Field, Chloe Cunningham, David A Stroud, Simon Sadedi",
       "tag": "analysis"
     },
     {
@@ -683,6 +725,41 @@
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/v18070782\nAuthors: Sandra Ndaka Sumbu, Ben Bepouka\n The ongoing 2026 Bundibugyo ebolavirus outbreak in eastern Democratic Republic of the Congo highlights the continued vulnerability of Central Africa to recurrent Ebola emergence. This outbreak emerged less than six months after the previous one ended, appears to represent one o",
       "tag": "response"
+    },
+    {
+      "title": "Severe secondary hemophagocytic lymphohistiocytosis syndrome due to Crimean-Congo haemorrhagic fever virus: Thinking out of the box",
+      "link": "https://doi.org/10.12890/2026_007254",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.12890/2026_007254\nAuthors: Poulia Asimakopoulou, Sara Georgiadou, Nikolaos Gatselis, George N. Dalekos\n Introduction: Crimean-Congo haemorrhagic fever is an acute, often severe haemorrhagic disease caused by the homonymous virus. On the other hand, severe life-threatening secondary haemophagocytic lymphohistiocytosis is a rare entity",
+      "tag": "analysis"
+    },
+    {
+      "title": "The Resurgence of Oropouche Virus: A Review on Evolution, Epidemiology, Pathophysiology, Vaccine Development and Global Health Preparedness",
+      "link": "https://doi.org/10.22207/jpam.20.3.03",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.22207/jpam.20.3.03\n The Oropouche virus (OROV) is an emerging arbovirus grouped under Orthobunyavirus genus of Peribunyaviridae family, first identified in Trinidad and Tobago in 1955, and re-emerged as a serious public health concern in the Central and South Americas. Recently, numbers of OROV cases are on the rise with the 2024 out",
+      "tag": "cases"
+    },
+    {
+      "title": "IgG and IgM Serological Profile in Primary and Secondary Dengue Infection",
+      "link": "https://doi.org/10.21070/medicra.v9i1.1824",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21070/medicra.v9i1.1824\nAuthors: Tri Ade Saputro, Nur Vita Purwaningsih, Waras Budiman, Mulya Fitrah Juniawan\n Dengue Hemorrhagic Fever (DHF) remains a major health problem in endemic regions, requiring accurate laboratory examinations to support diagnosis. Serological testing of immunoglobulin G (IgG) and immunoglobulin M (IgM) is w",
+      "tag": "analysis"
+    },
+    {
+      "title": "Altered gene expression in the liver and small intestine of horses with equine neuroaxonal dystrophy",
+      "link": "https://doi.org/10.1002/evj.70216",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/evj.70216\nAuthors: Stephanie Ryan, Blythe Durbin‐Johnson, Kevin Woolard, Andrew D. Miller, Carrie J. Finno\n Abstract \n                   \n                     Background \n                     Equine neuroaxonal dystrophy/degenerative myeloencephalopathy (eNAD/EDM) is the sec",
+      "tag": "analysis"
+    },
+    {
+      "title": "Integrated surveillance, virus isolation and phylogenetic characterization of Crimean-Congo hemorrhagic fever virus in Central Kazakhstan",
+      "link": "https://doi.org/10.3389/fvets.2026.1879322",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fvets.2026.1879322\nAuthors: Zhumagali Koshemetov, Kayyrzhan Baizhanov, Nurgul Orazymbetova, Madina Kaukarbayeva, Akezhan Issakhan, Bakyt Umuraliyev, Orazbek Serikbayov, Nurlan Kozhabergenov, Madina Seisenbayeva, Kuandyk Zhugunissov, Kydyrbay Maikhin, Abdikalyk Abishov, Zhanat Kondibayeva, Aliya Adalbekova, Yerbol Bulatov, Dariya Toktyr",
+      "tag": "analysis"
     },
     {
       "title": "Detection of Myxosporean Parasites in Unidentified Food-Borne Disease Associated with Consumption of Raw Fish (2010–2025)",
@@ -853,10 +930,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Statement by Africa CDC on the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC)",
-      "link": "https://africacdc.org/news-item/statement-by-africa-cdc-on-the-release-of-the-2025-who-unicef-estimates-of-national-immunization-coverage-wuenic/",
+      "title": "Bleeding in haemorrhagic fever with renal syndrome: A systematic review characterising the loss of haemostasis in hantavirus infections",
+      "link": "https://doi.org/10.1371/journal.pntd.0014524",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "15 July 2026\n\n\n\nToday, Africa CDC joins the World Health Organization (WHO), UNICEF, Gavi the Vaccine Alliance and other partners in welcoming the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC). These estimates represent far more than annual coverage statistics: they are a measure of the resilience of our",
+      "desc": "DOI: 10.1371/journal.pntd.0014524\nAuthors: Matthew J. Riley, Aliza Hudda, Miša Korva, Tatjana Avšič-Županc, Beverley J. Hunt, Tom E. Fletcher\n \n                     Background \n                     Haemorrhagic fever with renal syndrome (HFRS) is caused by hantaviruses and is associated with variab",
       "tag": "analysis"
     },
     {
@@ -874,10 +951,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Bleeding in haemorrhagic fever with renal syndrome: A systematic review characterising the loss of haemostasis in hantavirus infections",
-      "link": "https://doi.org/10.1371/journal.pntd.0014524",
+      "title": "Statement by Africa CDC on the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC)",
+      "link": "https://africacdc.org/news-item/statement-by-africa-cdc-on-the-release-of-the-2025-who-unicef-estimates-of-national-immunization-coverage-wuenic/",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.pntd.0014524\nAuthors: Matthew J. Riley, Aliza Hudda, Miša Korva, Tatjana Avšič-Županc, Beverley J. Hunt, Tom E. Fletcher\n \n                     Background \n                     Haemorrhagic fever with renal syndrome (HFRS) is caused by hantaviruses and is associated with variab",
+      "desc": "15 July 2026\n\n\n\nToday, Africa CDC joins the World Health Organization (WHO), UNICEF, Gavi the Vaccine Alliance and other partners in welcoming the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC). These estimates represent far more than annual coverage statistics: they are a measure of the resilience of our",
       "tag": "analysis"
     },
     {
@@ -895,17 +972,10 @@
       "tag": "response"
     },
     {
-      "title": "Endolysosomal two-pore channels regulate a conserved entry pathway for enteroviruses",
-      "link": "https://www.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.002294",
+      "title": "Crimean-Congo hemorrhagic fever virus in the last four decades (1981–2025): global output, collaboration networks, and emerging frontiers",
+      "link": "https://doi.org/10.1007/s11250-026-05209-0",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "info \nInfo \n\n\n\n\n\n\n\n\nArticle information \n\n\n\n\n\n\n\n\nFull-Text \n\n\n\n\n\n\n\n\n\nFigures and Tables \n\n\n\n\n\n\n\n\n\nReferences \n(57)\n\n\n\n\n\n\n\n\n\nCited By \n\n\n\n\n\n\n\n\n\nSupplementary Material \n(2)\n\n\n\n\n\n\n\n\n\nMetrics \n\n\n\n\n \n\n\n\nlist\nSections\n\nTOPABSTRACTAbbreviationsIntroductionMethodsResultsDiscussionFunding informationAcknowledgementsAuthor contributionsConflicts of i",
-      "tag": "analysis"
-    },
-    {
-      "title": "From Array-CGH to Whole-Genome Sequencing: A 29-Year Diagnostic Journey Culminating in the Identification of a De Novo ABCC9 Variant Consistent with Cantú Syndrome",
-      "link": "https://doi.org/10.3390/diagnostics16142204",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/diagnostics16142204\nAuthors: Chung-Lin Lee, Ya-Hui Chang, Chih-Kuang Chuang, Huei-Ching Chiu, Yuan-Rong Tu, Yun-Ting Lo, Jun-Yi Wu, Hsiang-Yu Lin, Shuan-Pei Lin\n Background and Clinical Significance: Cantú syndrome (OMIM #239850) is a rare autosomal dominant disorder caused by gain-of-function variants in ABCC9 or KCNJ8, which e",
+      "desc": "DOI: 10.1007/s11250-026-05209-0\nAuthors: Md Zulfekar Ali, Uwem Okon Edet, Olanrewaju E. Igah, Edema Enogiomwan Imalele, Mirza Mienur Meher, Clement Meseko",
       "tag": "analysis"
     },
     {
@@ -913,13 +983,6 @@
       "link": "https://doi.org/10.1128/spectrum.00245-26",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1128/spectrum.00245-26\nAuthors: Marco Calvigioni, Virginia Rossi, Francesco Celandroni, Simona Barnini, Antonella Lupetti, Diletta Mazzantini, Emilia Ghelardi\n ABSTRACT \n                   \n                     \n                     \n                       Peribacil",
-      "tag": "analysis"
-    },
-    {
-      "title": "Association Between Glutathione S-Transferase (GST) Gene Polymorphisms and Coronary Artery Disease: A Case–Control Study in Bangladesh",
-      "link": "https://doi.org/10.1177/19450265261469737",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/19450265261469737\nAuthors: Sauda Sumaya Dina, Somzida Akter Moni, Faisal Abdullah Emon, Rajib Das, C.M. Shaheen Kabir, Md Abdul Muhit, Nahid Sharmin, Sheikh Zahir Raihan\n \n                     Background: \n                     \n                      Glutathione-S-transferases (GSTs) play an import",
       "tag": "analysis"
     },
     {
@@ -944,13 +1007,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Crimean-Congo hemorrhagic fever virus in the last four decades (1981–2025): global output, collaboration networks, and emerging frontiers",
-      "link": "https://doi.org/10.1007/s11250-026-05209-0",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1007/s11250-026-05209-0\nAuthors: Md Zulfekar Ali, Uwem Okon Edet, Olanrewaju E. Igah, Edema Enogiomwan Imalele, Mirza Mienur Meher, Clement Meseko",
-      "tag": "analysis"
-    },
-    {
       "title": "Early insights into viability of Ebola monoclonal antibodies for the 2026 Bundibugyo virus disease outbreak",
       "link": "https://doi.org/10.21203/rs.3.rs-10270397/v1",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
@@ -958,10 +1014,31 @@
       "tag": "analysis"
     },
     {
+      "title": "From Array-CGH to Whole-Genome Sequencing: A 29-Year Diagnostic Journey Culminating in the Identification of a De Novo ABCC9 Variant Consistent with Cantú Syndrome",
+      "link": "https://doi.org/10.3390/diagnostics16142204",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/diagnostics16142204\nAuthors: Chung-Lin Lee, Ya-Hui Chang, Chih-Kuang Chuang, Huei-Ching Chiu, Yuan-Rong Tu, Yun-Ting Lo, Jun-Yi Wu, Hsiang-Yu Lin, Shuan-Pei Lin\n Background and Clinical Significance: Cantú syndrome (OMIM #239850) is a rare autosomal dominant disorder caused by gain-of-function variants in ABCC9 or KCNJ8, which e",
+      "tag": "analysis"
+    },
+    {
+      "title": "Endolysosomal two-pore channels regulate a conserved entry pathway for enteroviruses",
+      "link": "https://www.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.002294",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "info \nInfo \n\n\n\n\n\n\n\n\nArticle information \n\n\n\n\n\n\n\n\nFull-Text \n\n\n\n\n\n\n\n\n\nFigures and Tables \n\n\n\n\n\n\n\n\n\nReferences \n(57)\n\n\n\n\n\n\n\n\n\nCited By \n\n\n\n\n\n\n\n\n\nSupplementary Material \n(2)\n\n\n\n\n\n\n\n\n\nMetrics \n\n\n\n\n \n\n\n\nlist\nSections\n\nTOPABSTRACTAbbreviationsIntroductionMethodsResultsDiscussionFunding informationAcknowledgementsAuthor contributionsConflicts of i",
+      "tag": "analysis"
+    },
+    {
       "title": "Bundibugyo Virus Disease: Diagnostics and Medical Countermeasures for a Neglected Ebolavirus",
       "link": "https://doi.org/10.3390/v18070775",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/v18070775\nAuthors: Katharina Kopp\n Bundibugyo virus disease, caused by Bundibugyo virus (Orthoebolavirus bundibugyoense), is a severe human Ebola disease with substantial mortality, unresolved reservoir ecology, limited diagnostic implementation, and no licensed vaccines or therapeutics specifically approved for this Orthoebolav",
+      "tag": "analysis"
+    },
+    {
+      "title": "Association Between Glutathione S-Transferase (GST) Gene Polymorphisms and Coronary Artery Disease: A Case–Control Study in Bangladesh",
+      "link": "https://doi.org/10.1177/19450265261469737",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1177/19450265261469737\nAuthors: Sauda Sumaya Dina, Somzida Akter Moni, Faisal Abdullah Emon, Rajib Das, C.M. Shaheen Kabir, Md Abdul Muhit, Nahid Sharmin, Sheikh Zahir Raihan\n \n                     Background: \n                     \n                      Glutathione-S-transferases (GSTs) play an import",
       "tag": "analysis"
     },
     {
@@ -1056,18 +1133,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Viewpoints: How Health Systems Can Protect Patients From 'Deepfake' Docs; Writing Fat Emergency Checks For Ebola Is The Wrong Strategy",
-      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-needs-headline-please/",
-      "pubDate": "Tue, 14 Jul 2026 13:15:00 Z",
-      "desc": "Imagine a patient who arrives at her doctor’s clinic furious. She shows her doctor a video of him — white coat, plausible exam room, familiar cadence — endorsing an over-the-counter hormone supplement for menopausal symptoms, dismissing standard therapies as “pharma scams,” and offering a discount code.",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola Cases In Congo Are Grossly Undercounted, WHO Says",
       "link": "https://kffhealthnews.org/morning-breakout/ebola-071426/",
       "pubDate": "Tue, 14 Jul 2026 13:15:00 Z",
       "desc": "World health officials think the true number of cases is possibly four times greater than the nearly 2,000 cases that health officials in Congo are reporting. Meanwhile, a WHO official is pleading with the global community to continue sending pledged donations to help Congo fight the deadly Bundibugyo outbreak.",
       "tag": "cases"
+    },
+    {
+      "title": "Viewpoints: How Health Systems Can Protect Patients From 'Deepfake' Docs; Writing Fat Emergency Checks For Ebola Is The Wrong Strategy",
+      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-needs-headline-please/",
+      "pubDate": "Tue, 14 Jul 2026 13:15:00 Z",
+      "desc": "Imagine a patient who arrives at her doctor’s clinic furious. She shows her doctor a video of him — white coat, plausible exam room, familiar cadence — endorsing an over-the-counter hormone supplement for menopausal symptoms, dismissing standard therapies as “pharma scams,” and offering a discount code.",
+      "tag": "analysis"
     },
     {
       "title": "MINISTRY OF HEALTH CONVENES EBOLA ACCOUNTABILITY FORUM TO STRENGTHEN TRANSPARENCY AND PARTNER COORDINATION",
@@ -1175,20 +1252,6 @@
       "tag": "response"
     },
     {
-      "title": "Stevens–Johnson Syndrome/Toxic Epidermal Necrolysis in a Pediatric Patient With Dengue Hemorrhagic Fever: A Case Report",
-      "link": "https://doi.org/10.70070/85rsxd08",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.70070/85rsxd08\n Background: Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) are acute, life-threatening mucocutaneous reactions characterised by widespread epidermal necrosis. These conditions are characterised by skin blisters and involvement of the oral, nasal, ocular, and genital mucosa. SJS/TEN are immune-medi",
-      "tag": "analysis"
-    },
-    {
-      "title": "A case of severe terbinafine induced gastritis presenting as a likely protein losing enteropathy",
-      "link": "https://doi.org/10.21203/rs.3.rs-10257093/v1",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10257093/v1\nAuthors: Shiidheshwar J Ravichandran, Kevin Wong, Benjamin Gomez, Metthananda Nawarathne Nawarathne Mudiyanselage, Julian Rong\n Abstract \n                 \n                   Background \n                  The primary cause of gastritis is infection with helicobacter Pylori, followed by che",
-      "tag": "analysis"
-    },
-    {
       "title": "Comparison of three Mycoplasma bovis antibody ELISAs on serum from 3-5-week-old dairy calves using Bayesian latent class analysis",
       "link": "https://doi.org/10.1186/s13620-026-00354-2",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
@@ -1203,6 +1266,13 @@
       "tag": "analysis"
     },
     {
+      "title": "A case of severe terbinafine induced gastritis presenting as a likely protein losing enteropathy",
+      "link": "https://doi.org/10.21203/rs.3.rs-10257093/v1",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10257093/v1\nAuthors: Shiidheshwar J Ravichandran, Kevin Wong, Benjamin Gomez, Metthananda Nawarathne Nawarathne Mudiyanselage, Julian Rong\n Abstract \n                 \n                   Background \n                  The primary cause of gastritis is infection with helicobacter Pylori, followed by che",
+      "tag": "analysis"
+    },
+    {
       "title": "A DNA-scaffolded Retron Ring Mediates Antiphage Immunity",
       "link": "https://doi.org/10.64898/2026.07.14.737667",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
@@ -1210,10 +1280,24 @@
       "tag": "analysis"
     },
     {
+      "title": "Stevens–Johnson Syndrome/Toxic Epidermal Necrolysis in a Pediatric Patient With Dengue Hemorrhagic Fever: A Case Report",
+      "link": "https://doi.org/10.70070/85rsxd08",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.70070/85rsxd08\n Background: Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) are acute, life-threatening mucocutaneous reactions characterised by widespread epidermal necrosis. These conditions are characterised by skin blisters and involvement of the oral, nasal, ocular, and genital mucosa. SJS/TEN are immune-medi",
+      "tag": "analysis"
+    },
+    {
       "title": "WHO target product profile for Bundibugyo virus disease vaccines, 14 July 2026",
       "link": "https://doi.org/10.2471/b09835",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.2471/b09835",
+      "tag": "analysis"
+    },
+    {
+      "title": "Deteriorating Humanitarian Situation of DR Congo",
+      "link": "https://doi.org/10.2174/9798898814625126010007",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.2174/9798898814625126010007\nAuthors: Sheikh Mohd Saleem, Shah Sumaya Jan, Hina Sharif\n The Democratic Republic of Congo faces multiple challenges, including\ncivil wars and heavy reliance on the mining sector. The country also has significant\npotential for eco-tourism, boasting seven major national parks with diverse wildlife,\nincludi",
       "tag": "analysis"
     },
     {
@@ -1322,17 +1406,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Samoa américaines",
-      "link": "https://voyage.gc.ca/destinations/samoa-americaines",
-      "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
-      "desc": "Pannes d’électricité et pénuries d’eau. Les pannes d’électricité et les pénuries d’eau surviennent occasionnellement, surtout pendant et après le passage de cyclones. Les autorités locales peuvent limiter la consommation d'électricité et imposer des mesures de rationnement de l’eau.",
-      "tag": "analysis"
-    },
-    {
       "title": "Maladie Ebola en République démocratique du Congo",
       "link": "https://voyage.gc.ca/voyager/sante-securite/conseils-sante-voyageurs/549",
       "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
       "desc": "Date de publication originale : 15 mai 2026. Mise à jour : 2 juillet 2026 Destinations touchées République démocratique du Congo (Kinshasa) Points clés La maladie Ebola est causée par un groupe de virus qui se transmettent par contact avec les fluides corporels de personnes ou d'animaux présentant des symptômes de la maladie.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Samoa américaines",
+      "link": "https://voyage.gc.ca/destinations/samoa-americaines",
+      "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
+      "desc": "Pannes d’électricité et pénuries d’eau. Les pannes d’électricité et les pénuries d’eau surviennent occasionnellement, surtout pendant et après le passage de cyclones. Les autorités locales peuvent limiter la consommation d'électricité et imposer des mesures de rationnement de l’eau.",
       "tag": "analysis"
     },
     {
@@ -1483,10 +1567,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Diagnostic testing for Ebola disease and Marburg virus disease: interim guidance, 9 July 2026",
-      "link": "https://doi.org/10.2471/b09834",
+      "title": "Effectiveness of Active Compounds in Pineapple Peel Extract (Ananas comosus) as a Biolarvicide Against Aedes aegypti: Integration of In Silico, In Vitro, and Comprehensive Literature Review Analyses",
+      "link": "https://doi.org/10.55885/jchp.v6i2.1006",
       "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.2471/b09834",
+      "desc": "DOI: 10.55885/jchp.v6i2.1006\nAuthors: Defri Defri, M. Yulis Hamidy, Elva Susanty\n Dengue hemorrhagic fever remains an important public health problem in tropical countries, including Indonesia, and larval control of Aedes aegypti is a strategic component of dengue prevention. This revised manuscript aims to synthesize published evidence on t",
+      "tag": "analysis"
+    },
+    {
+      "title": "Diagnostic utility and histopathological spectrum of corneal biopsy specimens obtained during therapeutic penetrating keratoplasty: A prospective analysis",
+      "link": "https://doi.org/10.4103/odjo.odjo_12_26",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.4103/odjo.odjo_12_26\nAuthors: Sharmistha Behera, Devi Aiswarya Das, Jyotirmayee Mishra, Swetalina Jena, Rabi Narayan Mallik, Gurudev Bishi, Lipsa Mohapatra, Prangnya Bharati Nanda\n Abstract \n                   \n                     Purpose: \n                     This study evalua",
       "tag": "analysis"
     },
     {
@@ -1504,24 +1595,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Diagnostic utility and histopathological spectrum of corneal biopsy specimens obtained during therapeutic penetrating keratoplasty: A prospective analysis",
-      "link": "https://doi.org/10.4103/odjo.odjo_12_26",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4103/odjo.odjo_12_26\nAuthors: Sharmistha Behera, Devi Aiswarya Das, Jyotirmayee Mishra, Swetalina Jena, Rabi Narayan Mallik, Gurudev Bishi, Lipsa Mohapatra, Prangnya Bharati Nanda\n Abstract \n                   \n                     Purpose: \n                     This study evalua",
-      "tag": "analysis"
-    },
-    {
-      "title": "Effectiveness of Active Compounds in Pineapple Peel Extract (Ananas comosus) as a Biolarvicide Against Aedes aegypti: Integration of In Silico, In Vitro, and Comprehensive Literature Review Analyses",
-      "link": "https://doi.org/10.55885/jchp.v6i2.1006",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.55885/jchp.v6i2.1006\nAuthors: Defri Defri, M. Yulis Hamidy, Elva Susanty\n Dengue hemorrhagic fever remains an important public health problem in tropical countries, including Indonesia, and larval control of Aedes aegypti is a strategic component of dengue prevention. This revised manuscript aims to synthesize published evidence on t",
-      "tag": "analysis"
-    },
-    {
       "title": "Mutation mapping and evolutionary dynamics of Bundibugyo Ebolavirus (BDBV-2026) genomes reported from Uganda",
       "link": "https://doi.org/10.21203/rs.3.rs-10310109/v1",
       "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10310109/v1\nAuthors: David Kelvin, Anuj Kumar, Andrew Nsawotebba, Barnabas Bakamutumaho, Bruce Kirenga, Mansi Dutt, Gustavo Sganzerla Martinez, Winters Muttamba, Wilber Sabiiti, Misaki Wayengera, Henry Bosa, Bernard Lutwama, Susan Nabadda, Charles Olaro, Diana Atwiine, Charles Ayume, Chris Baryomunsi, Atek Kagirita\n Abst",
+      "tag": "analysis"
+    },
+    {
+      "title": "Diagnostic testing for Ebola disease and Marburg virus disease: interim guidance, 9 July 2026",
+      "link": "https://doi.org/10.2471/b09834",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.2471/b09834",
       "tag": "analysis"
     },
     {
@@ -1672,18 +1756,18 @@
       "tag": "cases"
     },
     {
-      "title": "$1B Program To Boost Glove Supply Exposes Challenges Of Bringing Manufacturing Back To US",
-      "link": "https://kffhealthnews.org/morning-breakout/health-industry-071026/",
-      "pubDate": "Fri, 10 Jul 2026 13:38:00 Z",
-      "desc": "A nearly $1 billion effort failed to bring medical glove manufacturing back to the US. An FDA study found heavy metals in tampons aren’t a cause for concern. Novo Nordisk wants ingredient discounts for its obesity medicines. Roche beat Amgen and Bristol-Myers in a battle of lung cancer drugs.",
-      "tag": "analysis"
-    },
-    {
       "title": "Today, July 10",
       "link": "https://kffhealthnews.org/morning-briefing/friday-july-10-2026/",
       "pubDate": "Fri, 10 Jul 2026 13:38:00 Z",
       "desc": "In parts of the country, including southeast Michigan and northern Ohio, clinicians are tracking scores of cases of sudden, explosive diarrhea and gastrointestinal illness caused by the parasite Cyclospora cayetanensi. Michigan now has 1,251 cases of cyclosporiasis, according to state officials....",
       "tag": "cases"
+    },
+    {
+      "title": "$1B Program To Boost Glove Supply Exposes Challenges Of Bringing Manufacturing Back To US",
+      "link": "https://kffhealthnews.org/morning-breakout/health-industry-071026/",
+      "pubDate": "Fri, 10 Jul 2026 13:38:00 Z",
+      "desc": "A nearly $1 billion effort failed to bring medical glove manufacturing back to the US. An FDA study found heavy metals in tampons aren’t a cause for concern. Novo Nordisk wants ingredient discounts for its obesity medicines. Roche beat Amgen and Bristol-Myers in a battle of lung cancer drugs.",
+      "tag": "analysis"
     },
     {
       "title": "Une Américaine de 56 ans pensait souffrir d'une maladie inconnue : en réalité, sa prothèse de hanche empoisonnait son sang au cobalt",
@@ -1782,90 +1866,6 @@
       "pubDate": "Thu, 09 Jul 2026 20:25:00 Z",
       "desc": "Conflict -- DR Congo. Significance Rating: 3 Ebola Death Toll In Congo Reaches 600, As New Cases Suspected In Previously Unaffected Province&nbsp;&nbsp;710 KURV",
       "tag": "cases"
-    },
-    {
-      "title": "259 hemorrhagic fever with renal syndrome (HFRS) cases reported in in Udmurtia, Russia, from January to June 2026",
-      "link": "https://beaconbio.org/en/report/?reportid=c163085e-4289-43f7-8414-39d6ca786cfd",
-      "pubDate": "Thu, 09 Jul 2026 17:56:00 Z",
-      "desc": "Event Title: Hantavirus, Russian Federation\nEvent URL: https://beaconbio.org/en/event/?eventid=acc88852-9f37-4dfb-bbc5-b84b70e1a1a9\n\nSources In Udmurtia, almost 260 cases of HFRS have been registered over the past six months, Kommersant, news article, 03 Jul 2026 (in Russian) In the first six months of 2026, 259 cases of HFRS were registered in Udm",
-      "tag": "cases"
-    },
-    {
-      "title": "Suspected Ebola patient placed in Equatorial Guinea hotel with deportees from the US, lawyers say - WKMG",
-      "link": "https://www.clickorlando.com/health/2026/07/09/suspected-ebola-patient-placed-in-equatorial-guinea-hotel-with-deportees-from-the-us-lawyers-say/",
-      "pubDate": "Thu, 09 Jul 2026 16:25:00 Z",
-      "desc": "Ebola -- Equatorial Guinea. Significance Rating: 4 Suspected Ebola patient placed in Equatorial Guinea hotel with deportees from the US, lawyers say&nbsp;&nbsp;WKMG",
-      "tag": "cases"
-    },
-    {
-      "title": "Human exposure to Crimean-Congo hemorrhagic fever virus is associated with livestock management and handling practices in southcentral Tanzania, 2023–2024",
-      "link": "https://link.springer.com/article/10.1186/s12879-026-13919-x",
-      "pubDate": "Thu, 09 Jul 2026 15:40:00 Z",
-      "desc": "Background. Crimean-Congo hemorrhagic fever virus (CCHFV) is a tick-borne zoonotic pathogen widely distributed across Africa, Asia, and Europe. Human infection occurs through tick bites or contact with infected animal tissues. In Tanzania, evidence of human exposure exists, but data on....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Trump CDC Nominee Schwartz Set for July 15 US Senate Confirmation Hearing Reuters Health InformationJuly 8, 2026",
-      "link": "https://www.medscape.com/s/viewarticle/trump-cdc-nominee-schwartz-set-july-15-us-senate-2026a1000n4d",
-      "pubDate": "Thu, 09 Jul 2026 15:02:00 Z",
-      "desc": "WASHINGTON, July 8 (Reuters) - Erica Schwartz, President Donald Trump's nominee to lead the U.S. Centers for Disease Control and Prevention, will appear before the Senate Committee on Health, Education, Labor and Pensions on July 15 for her ⁠confirmation hearing, the committee said on Wednesday.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Surveillance épidémiologique : La région",
-      "link": "https://echosante.info/surveillance-epidemiologique-la-region-du-sud-veille-sur-la-sante-des-cops/",
-      "pubDate": "Thu, 09 Jul 2026 14:34:00 Z",
-      "desc": "Inspection stricte des cantines, des points de restauration…par les équipes d’hygiène et d’assainissement. Les acteurs de la santé publique ont arrêté au cours d’une session stratégique tenue le 6 juillet 2026 à Ebolowa, un dispositif de contrôle rigoureux pour accueillir les milliers de participants attendus aux jeux Universitaires.",
-      "tag": "analysis"
-    },
-    {
-      "title": "DR Congo's Ebola outbreak death toll climbs to 600 - France 24",
-      "link": "https://www.france24.com/en/africa/20260709-dr-congo-ebola-outbreak-death-toll-climbs-600",
-      "pubDate": "Thu, 09 Jul 2026 14:25:00 Z",
-      "desc": "-- DR Congo. Significance Rating: 1 DR Congo's Ebola outbreak death toll climbs to 600&nbsp;&nbsp;France 24",
-      "tag": "analysis"
-    },
-    {
-      "title": "Virus de ébola continúa propagándose en RDC y número de muertos supera los 500, informa OMS - Spanish People Daily",
-      "link": "http://spanish.peopledaily.com.cn/n3/2026/0708/c31618-20475541.html",
-      "pubDate": "Thu, 09 Jul 2026 12:55:00 Z",
-      "desc": "-- DR Congo. Significance Rating: 1 Virus de ébola continúa propagándose en RDC y número de muertos supera los 500, informa OMS&nbsp;&nbsp;Spanish People Daily",
-      "tag": "cases"
-    },
-    {
-      "title": "Detection and molecular characterization of African swine fever virus recovered from Ornithodoros ticks of the Serengeti Ecosystem, Tanzania",
-      "link": "https://link.springer.com/article/10.1007/s11250-026-05186-4",
-      "pubDate": "Thu, 09 Jul 2026 11:28:00 Z",
-      "desc": "African swine fever (ASF) is a highly lethal hemorrhagic disease of domestic pigs and Eurasian wild boars, caused by ASF virus (ASFV). In Africa, ASFV is maintained in a sylvatic cycle involving wild suids, primarily warthogs ( Phacocherus africanus ) and Ornithodoros ticks.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Inside Isolation Units for Highly Contagious Diseases Medscape News Europe3 hours ago",
-      "link": "https://www.medscape.com/viewarticle/inside-isolation-units-highly-contagious-diseases-2026a1000n63",
-      "pubDate": "Thu, 09 Jul 2026 08:58:00 Z",
-      "desc": "Hospitals need specialized high-level isolation units to care for patients with highly contagious infectious diseases while protecting healthcare workers, other patients, and the wider public. Outbreaks involving pathogens such as Ebola have shown how quickly these threats can test hospital....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Mapping the global evidence base of bundibugyo ebolavirus disease: a systematic scoping review of research gaps and preparedness priorities",
-      "link": "https://link.springer.com/article/10.1186/s12879-026-13977-1",
-      "pubDate": "Thu, 09 Jul 2026 07:07:00 Z",
-      "desc": "Background. Bundibugyo ebolavirus (BDBV) is a rare filovirus species with an estimated case fatality rate (CFR) ranging from 25% to 51%. The 2026 BDBV outbreak in the Democratic Republic of the Congo (DRC) was declared a Public Health Emergency of International Concern (PHEIC), highlighting the....",
-      "tag": "pheic"
-    },
-    {
-      "title": "Menace Ebola : le bouclier",
-      "link": "https://echosante.info/menace-ebola-le-bouclier-sanitaire-renforce-au-cameroun/",
-      "pubDate": "Thu, 09 Jul 2026 02:56:00 Z",
-      "desc": "À l’occasion de la Journée mondiale des zoonoses célébrée le 6 juillet 2026 à Yaoundé, les autorités sanitaires ont fait le point sur le niveau de préparation du Cameroun face à la menace Ebola. Entre surveillance renforcée, coordination multisectorielle et sensibilisation, le pays entend consolider son bouclier sanitaire.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Les leaders communautaires au cœur de la stratégie de prévention et de mobilisation.",
-      "link": "https://insp.cd/les-leaders-communautaires-au-coeur-de-la-strategie-de-prevention-et-de-mobilisation/",
-      "pubDate": "Thu, 09 Jul 2026 00:00:00 Z",
-      "desc": "juillet 9, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nBeni, 8 juillet 2026. Convaincu que la participation des communautés constitue un levier essentiel pour interrompre la transmission de la maladie à virus Ebola (MVE), le Ministère de la",
-      "tag": "analysis"
     }
   ],
   "highWater": {
