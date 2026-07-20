@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 20 Jul 2026 03:21:30 Z",
-  "fetchedAt": "2026-07-20T03:21:30Z",
+  "lastBuildDate": "Mon, 20 Jul 2026 09:17:19 Z",
+  "fetchedAt": "2026-07-20T09:17:19Z",
   "itemCount": 246,
   "stats": {
     "drc": {
@@ -146,6 +146,27 @@
   },
   "items": [
     {
+      "title": "¿Será posible prescindir de las agujas en las vacunaciones en el futuro?",
+      "link": "https://vacunasaep.org/profesionales/noticias/sera-posible-prescindir-de-las-agujas-en-las-vacunaciones-en-el-futuro",
+      "pubDate": "Mon, 20 Jul 2026 06:42:00 Z",
+      "desc": "Introducción. Desde el inicio de las vacunaciones, al final del siglo XVIII, la mayoría de las vacunas se han administrado mediante jeringa y aguja. El futuro, sin embargo, podría ser muy distinto. El desarrollo tecnológico podría permitir que las vacunas fueran administradas de distintas formas, pero sin inyecciones con aguja.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Systematic reanalysis of next-generation sequencing data in 101 neuromuscular disorder families enhances diagnostic yield, reveals intronic variants, and identifies a novel disease gene",
+      "link": "https://link.springer.com/article/10.1007/s00415-026-13994-9",
+      "pubDate": "Mon, 20 Jul 2026 05:21:00 Z",
+      "desc": "Background. Neuromuscular disorders (NMDs) affect approximately 1 in 1,000 individuals and are clinically and genetically heterogeneous. Despite advances in genomic diagnostics, many cases remain unsolved after initial sequencing. Bioinformatic reanalysis approaches provide opportunities to identify....",
+      "tag": "cases"
+    },
+    {
+      "title": "Africa’s Greater Horn region is facing a looming polycrisis fueled by conflict, prices, climate and disease",
+      "link": "https://www.downtoearth.org.in/africa/africas-greater-horn-region-is-facing-a-looming-polycrisis-fueled-by-conflict-prices-climate-and-disease",
+      "pubDate": "Mon, 20 Jul 2026 05:06:00 Z",
+      "desc": ", our concerns about such a grave risk for the region in the second half of 2026 and into 2027 are based on a series of overlapping trends that include El Niño, the broader effects on food prices and fertilizer of the Iran war, internal conflicts and other localized factors. We fear the consequences could be catastrophic.",
+      "tag": "analysis"
+    },
+    {
       "title": "People with Type 2 diabetes face higher risk of severe dengue: Study",
       "link": "https://health.economictimes.indiatimes.com/news/industry/people-with-type-2-diabetes-face-higher-risk-of-severe-dengue-study/132503942",
       "pubDate": "Mon, 20 Jul 2026 02:12:00 Z",
@@ -279,17 +300,17 @@
       "tag": "cases"
     },
     {
-      "title": "Adult-Onset Still’s Disease as an Uncommon Cause of Fever of Unknown Origin",
-      "link": "https://doi.org/10.7759/cureus.112922",
-      "pubDate": "Sat, 18 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.7759/cureus.112922\nAuthors: Yereni Aileen Andujar Sanchez, Lucero Moran, Diego Alexis Belmontes Gutiérrez, Pedro Antonio Moreno Velazco, Danya Michelle Isais Moreno",
-      "tag": "analysis"
-    },
-    {
       "title": "An Unusual Suspect in a Case of Fungal Necrotizing Soft Tissue Infection",
       "link": "https://doi.org/10.7759/cureus.112913",
       "pubDate": "Sat, 18 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.7759/cureus.112913\nAuthors: Erin N Burns, Boris Cehajic",
+      "tag": "analysis"
+    },
+    {
+      "title": "Adult-Onset Still’s Disease as an Uncommon Cause of Fever of Unknown Origin",
+      "link": "https://doi.org/10.7759/cureus.112922",
+      "pubDate": "Sat, 18 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.7759/cureus.112922\nAuthors: Yereni Aileen Andujar Sanchez, Lucero Moran, Diego Alexis Belmontes Gutiérrez, Pedro Antonio Moreno Velazco, Danya Michelle Isais Moreno",
       "tag": "analysis"
     },
     {
@@ -517,6 +538,34 @@
       "tag": "analysis"
     },
     {
+      "title": "Identifying severe COVID-19 risk variants modulating enhancer reporter activity in lung cells",
+      "link": "https://doi.org/10.1371/journal.pgen.1012222",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.pgen.1012222\nAuthors: Giovanna Weykopf, Wendy A. Bickmore, Simon C. Biddie, Elias T. Friman\n Common genetic variants contribute to risk for complex human diseases. However, despite thousands of associations, variants modulating disease risk and their functional impact remain largely unknown. This includes SARS-CoV-2 infe",
+      "tag": "analysis"
+    },
+    {
+      "title": "Infectious medical waste (IMW) and disease transmission: A critical public health challenge in Africa and the global implications – A systematic review",
+      "link": "https://doi.org/10.1177/22799036261470478",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1177/22799036261470478\nAuthors: Jeffrey N. T. Squire, Michaelann George, Zakirah Allain, Oghenowede Eyawo\n \n                     Background \n                     Infectious Medical Waste (IMW) from both human and animal healthcare sources have the potential to transmit diseases in human populations due",
+      "tag": "analysis"
+    },
+    {
+      "title": "From Past Outbreaks to Future Threats: Detecting Medical Conspiracy Theories With <scp>LLMs</scp> and Limited Labels",
+      "link": "https://doi.org/10.1111/exsy.70360",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1111/exsy.70360\nAuthors: Ipek Baris Schlicht, Damir Korenčić, Berta Chulvi, Lucie Flek, Paolo Rosso\n ABSTRACT \n                   Online dissemination of conspiracy theories (CTs) during epidemics poses significant risks to public health. This paper addresses the problem of detecting CTs in social media posts w",
+      "tag": "analysis"
+    },
+    {
+      "title": "Comparative Efficacy of Vancomycin and Fidaxomicin Regimens for the Prevention of Recurrent Clostridioides difficile Infection: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+      "link": "https://doi.org/10.64898/2026.07.14.26358112",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.14.26358112\nAuthors: Prosty, C.; Butler-Laporte, G.; Brophy, J.; Frenette, C.; Loo, V.; Coburn, B.; Hota, S.; Longtin, Y.; Kong, L.; Muller, M.; Steiner, T.; Valiquette, L.; Daneman, N.; Daley, P.; Nott, C.; MacFadden, D. R.; Kandel, C.; Chen, Y.; Perez- Patrigeon, S.; Lee, T. C.; McDonald, E.\nBackground and Aims The optimal t",
+      "tag": "analysis"
+    },
+    {
       "title": "Mucosal tissue cues shape B cell memory through the IgA BCR",
       "link": "https://doi.org/10.1126/sciimmunol.adv1149",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
@@ -535,20 +584,6 @@
       "link": "https://doi.org/10.1097/md.0000000000049420",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1097/md.0000000000049420\nAuthors: Yi Fang, Haifeng Dai, Qiufen Li, Danni Wang, Jianwen Liu, Yanan Liu\n \n                     \n                     The etiology of acute insults and underlying chronic liver disease in acute-on-chronic liver failure has evolved in recent years. This study examined etiological patte",
-      "tag": "analysis"
-    },
-    {
-      "title": "Identifying severe COVID-19 risk variants modulating enhancer reporter activity in lung cells",
-      "link": "https://doi.org/10.1371/journal.pgen.1012222",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.pgen.1012222\nAuthors: Giovanna Weykopf, Wendy A. Bickmore, Simon C. Biddie, Elias T. Friman\n Common genetic variants contribute to risk for complex human diseases. However, despite thousands of associations, variants modulating disease risk and their functional impact remain largely unknown. This includes SARS-CoV-2 infe",
-      "tag": "analysis"
-    },
-    {
-      "title": "Comparative Efficacy of Vancomycin and Fidaxomicin Regimens for the Prevention of Recurrent Clostridioides difficile Infection: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
-      "link": "https://doi.org/10.64898/2026.07.14.26358112",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.14.26358112\nAuthors: Prosty, C.; Butler-Laporte, G.; Brophy, J.; Frenette, C.; Loo, V.; Coburn, B.; Hota, S.; Longtin, Y.; Kong, L.; Muller, M.; Steiner, T.; Valiquette, L.; Daneman, N.; Daley, P.; Nott, C.; MacFadden, D. R.; Kandel, C.; Chen, Y.; Perez- Patrigeon, S.; Lee, T. C.; McDonald, E.\nBackground and Aims The optimal t",
       "tag": "analysis"
     },
     {
@@ -580,24 +615,24 @@
       "tag": "analysis"
     },
     {
-      "title": "Infectious medical waste (IMW) and disease transmission: A critical public health challenge in Africa and the global implications – A systematic review",
-      "link": "https://doi.org/10.1177/22799036261470478",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/22799036261470478\nAuthors: Jeffrey N. T. Squire, Michaelann George, Zakirah Allain, Oghenowede Eyawo\n \n                     Background \n                     Infectious Medical Waste (IMW) from both human and animal healthcare sources have the potential to transmit diseases in human populations due",
-      "tag": "analysis"
-    },
-    {
-      "title": "From Past Outbreaks to Future Threats: Detecting Medical Conspiracy Theories With <scp>LLMs</scp> and Limited Labels",
-      "link": "https://doi.org/10.1111/exsy.70360",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/exsy.70360\nAuthors: Ipek Baris Schlicht, Damir Korenčić, Berta Chulvi, Lucie Flek, Paolo Rosso\n ABSTRACT \n                   Online dissemination of conspiracy theories (CTs) during epidemics poses significant risks to public health. This paper addresses the problem of detecting CTs in social media posts w",
-      "tag": "analysis"
-    },
-    {
       "title": "Voluminous Calcified Pericardial Cyst with Severe Right Ventricular Compression: A Multimodality Imaging Case Report",
       "link": "https://www.semanticscholar.org/paper/23ef6c29356a81db93a951846f2f160ff9a53d6c",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1093/ehjcr/ytag530\nAuthors: A. Volpe, Apostolo Anna, Mancini Maria Elisabetta, L. Bussini, Pontone Gianluca\n\n \n \n Pericardial cysts are rare lesions that are typically asymptomatic. However, when large or calcified, they may compromise cardiac function.\n \n \n \n We report the case of a 57-year-old man with progressive exertional dyspnea. Mult",
+      "tag": "analysis"
+    },
+    {
+      "title": "Nocturnal Cerebral Oxygenation in Low‐Altitude Residents With Pulmonary Vascular Disease Staying Overnight at High Altitude. Data From a Randomized, Controlled, Crossover Trial",
+      "link": "https://doi.org/10.1002/pul2.70363",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/pul2.70363\nAuthors: Carolin Kränzle, Vera Bissig, Simon R. Schneider, Julian Müller, Kay von Gruenigen, Meret Bauer, Laura Mayer, Lea Lüönd, Tanja Ulrich, Aglaia Forrer, Arcangelo Carta, Ester I. Schwarz, Konrad E. Bloch, Mona Lichtblau, Michael Furian, Silvia Ulrich\n ABSTRACT",
+      "tag": "analysis"
+    },
+    {
+      "title": "K4DD Ebola Evidence and Discourse Summary July 2026: No 3",
+      "link": "https://doi.org/10.19088/k4dd.2026.065",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.19088/k4dd.2026.065\nAuthors: Ismael Kawooya\n The Ebola Health Evidence and Discourse Summaries aim to signpost the FCDO and others to the latest relevant evidence and discourse regarding the ongoing Ebola Virus Disease outbreak.",
       "tag": "analysis"
     },
     {
@@ -615,24 +650,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Evidence for a detection ceiling in the 2026 Bundibugyo virus disease epidemic in the Democratic Republic of the Congo: an analysis of publicly reported aggregate surveillance data",
-      "link": "https://doi.org/10.64898/2026.07.16.26358218",
+      "title": "INTS6 loss of function disrupts transcriptional regulation in mild intellectual disability",
+      "link": "https://doi.org/10.64898/2026.07.17.737701",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.16.26358218\nAuthors: Bouhentala, O. W.; Kadir, M. Y.\nBackground. The 2026 Bundibugyo virus disease (BVD) epidemic in the Democratic Republic of the Congo (DRC) was declared on 15 May 2026 and determined a public health emergency of international concern on 17 May 2026. Public surveillance reporting consists of cumulative count",
-      "tag": "pheic"
-    },
-    {
-      "title": "Nocturnal Cerebral Oxygenation in Low‐Altitude Residents With Pulmonary Vascular Disease Staying Overnight at High Altitude. Data From a Randomized, Controlled, Crossover Trial",
-      "link": "https://doi.org/10.1002/pul2.70363",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/pul2.70363\nAuthors: Carolin Kränzle, Vera Bissig, Simon R. Schneider, Julian Müller, Kay von Gruenigen, Meret Bauer, Laura Mayer, Lea Lüönd, Tanja Ulrich, Aglaia Forrer, Arcangelo Carta, Ester I. Schwarz, Konrad E. Bloch, Mona Lichtblau, Michael Furian, Silvia Ulrich\n ABSTRACT",
-      "tag": "analysis"
-    },
-    {
-      "title": "K4DD Ebola Evidence and Discourse Summary July 2026: No 3",
-      "link": "https://doi.org/10.19088/k4dd.2026.065",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.19088/k4dd.2026.065\nAuthors: Ismael Kawooya\n The Ebola Health Evidence and Discourse Summaries aim to signpost the FCDO and others to the latest relevant evidence and discourse regarding the ongoing Ebola Virus Disease outbreak.",
+      "desc": "DOI: 10.64898/2026.07.17.737701\nAuthors: Jalkanen, N.; Trontti, K.; Norppa, A. J.; Rahikkala, E.; Lilis, P.; Puigdevall, P.; Ivancic, L.; Niemimaa, N.; Vuokila, V.; Assaf, N.; Urpa, L.; Kurki, M.; Hämäläinen, E.; Kuismin, O.; Palotie, A.; Frilander, M. J.; Kilpinen, H.; Pietiläinen, O.\nPathogenic variants in genes involved in transcriptional re",
       "tag": "analysis"
     },
     {
@@ -643,11 +664,11 @@
       "tag": "cases"
     },
     {
-      "title": "INTS6 loss of function disrupts transcriptional regulation in mild intellectual disability",
-      "link": "https://doi.org/10.64898/2026.07.17.737701",
+      "title": "Evidence for a detection ceiling in the 2026 Bundibugyo virus disease epidemic in the Democratic Republic of the Congo: an analysis of publicly reported aggregate surveillance data",
+      "link": "https://doi.org/10.64898/2026.07.16.26358218",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.17.737701\nAuthors: Jalkanen, N.; Trontti, K.; Norppa, A. J.; Rahikkala, E.; Lilis, P.; Puigdevall, P.; Ivancic, L.; Niemimaa, N.; Vuokila, V.; Assaf, N.; Urpa, L.; Kurki, M.; Hämäläinen, E.; Kuismin, O.; Palotie, A.; Frilander, M. J.; Kilpinen, H.; Pietiläinen, O.\nPathogenic variants in genes involved in transcriptional re",
-      "tag": "analysis"
+      "desc": "DOI: 10.64898/2026.07.16.26358218\nAuthors: Bouhentala, O. W.; Kadir, M. Y.\nBackground. The 2026 Bundibugyo virus disease (BVD) epidemic in the Democratic Republic of the Congo (DRC) was declared on 15 May 2026 and determined a public health emergency of international concern on 17 May 2026. Public surveillance reporting consists of cumulative count",
+      "tag": "pheic"
     },
     {
       "title": "Search Results",
@@ -804,18 +825,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Articles Archives – Africa CDC",
-      "link": "https://africacdc.org/news-type/articles/",
-      "pubDate": "Thu, 16 Jul 2026 15:23:00 Z",
-      "desc": "Community Engagement Should be Prioritised in Bundibugyo Ebola Outbreak FightOne month after the declaration of the 2026 Bundibugyo Ebola outbreak as both a global and continental public health emergency, transmission continues to expand in eastern Democratic Republic of Congo (DRC) and Uganda despite substantial response efforts. As of",
-      "tag": "pheic"
-    },
-    {
       "title": "Media Advisory Archives – Africa CDC",
       "link": "https://africacdc.org/news-type/media-advisory/",
       "pubDate": "Thu, 16 Jul 2026 15:23:00 Z",
       "desc": "Emergency Press Briefing on the Ebola Outbreak in DRC and UgandaINVITATION TO REPRESENTATIVES OF THE MEDIA WHAT: Join us for the second emergency briefing to provide status update on the Ebola Disease (Bundibugyo virus) outbreak in the Democratic Republic of Congo and the Republic of Uganda. Africa CDC Director General, H.E. Dr. Jean Kas",
       "tag": "analysis"
+    },
+    {
+      "title": "Articles Archives – Africa CDC",
+      "link": "https://africacdc.org/news-type/articles/",
+      "pubDate": "Thu, 16 Jul 2026 15:23:00 Z",
+      "desc": "Community Engagement Should be Prioritised in Bundibugyo Ebola Outbreak FightOne month after the declaration of the 2026 Bundibugyo Ebola outbreak as both a global and continental public health emergency, transmission continues to expand in eastern Democratic Republic of Congo (DRC) and Uganda despite substantial response efforts. As of",
+      "tag": "pheic"
     },
     {
       "title": "Surveillance and Disease Intelligence – Africa CDC",
@@ -888,27 +909,6 @@
       "tag": "cases"
     },
     {
-      "title": "Myositis and flaccid paralysis caused by Powassan virus infection acquired in Manitoba, Canada",
-      "link": "https://doi.org/10.3138/jammi-2025-0042",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3138/jammi-2025-0042\nAuthors: Jeremy Li, Heidi Wood, Paul Van Caeseele, Yoav Keynan\n \n                     Background: \n                     \n                      Powassan virus is a cause of viral encephalitis transmitted by\n                       Ixodes",
-      "tag": "analysis"
-    },
-    {
-      "title": "A dominant coral parasite, Candidatus Aquirickettsia rohweri, resists antibiotic exposure and thermal challenge below the bleaching threshold in disease-susceptible Acropora cervicornis",
-      "link": "https://doi.org/10.64898/2026.07.15.738557",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.15.738557\nAuthors: Sunni Patton, Eddie Fuques, Lauren Speare, J. Grace Klinges, Erinn M Muller, Rebecca L Vega Thurber\n The critically endangered Caribbean staghorn coral Acropora cervicornis hosts microbiomes frequently dominated by the putatively parasitic intracellular bacterium Candidatus Aquirickettsia rohweri, whi",
-      "tag": "analysis"
-    },
-    {
-      "title": "Establishing The Australian Undiagnosed Disease Network (UDN-Aus); Australia’s first national rare disease diagnostic network",
-      "link": "https://doi.org/10.21203/rs.3.rs-8091344/v1",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-8091344/v1\nAuthors: Ellenore M Martin, Madeleine Harris, Tegan Stait, Sarah Casauria, Esther Pierini, Susan M White, Azure Hermes, Julie McGaughran, Rocio Rius, Daniel G. MacArthur, Timo Lassmann, Christopher Richmond, Janine Smith, Mathew Wallis, Suzanne Sallevelt, Michael Field, Chloe Cunningham, David A Stroud, Simon Sadedi",
-      "tag": "analysis"
-    },
-    {
       "title": "Can hantaviruses cause pandemics?",
       "link": "https://doi.org/10.1186/s43162-026-00662-7",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
@@ -930,6 +930,48 @@
       "tag": "analysis"
     },
     {
+      "title": "Myositis and flaccid paralysis caused by Powassan virus infection acquired in Manitoba, Canada",
+      "link": "https://doi.org/10.3138/jammi-2025-0042",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3138/jammi-2025-0042\nAuthors: Jeremy Li, Heidi Wood, Paul Van Caeseele, Yoav Keynan\n \n                     Background: \n                     \n                      Powassan virus is a cause of viral encephalitis transmitted by\n                       Ixodes",
+      "tag": "analysis"
+    },
+    {
+      "title": "A dominant coral parasite, Candidatus Aquirickettsia rohweri, resists antibiotic exposure and thermal challenge below the bleaching threshold in disease-susceptible Acropora cervicornis",
+      "link": "https://doi.org/10.64898/2026.07.15.738557",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.15.738557\nAuthors: Sunni Patton, Eddie Fuques, Lauren Speare, J. Grace Klinges, Erinn M Muller, Rebecca L Vega Thurber\n The critically endangered Caribbean staghorn coral Acropora cervicornis hosts microbiomes frequently dominated by the putatively parasitic intracellular bacterium Candidatus Aquirickettsia rohweri, whi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Establishing The Australian Undiagnosed Disease Network (UDN-Aus); Australia’s first national rare disease diagnostic network",
+      "link": "https://doi.org/10.21203/rs.3.rs-8091344/v1",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-8091344/v1\nAuthors: Ellenore M Martin, Madeleine Harris, Tegan Stait, Sarah Casauria, Esther Pierini, Susan M White, Azure Hermes, Julie McGaughran, Rocio Rius, Daniel G. MacArthur, Timo Lassmann, Christopher Richmond, Janine Smith, Mathew Wallis, Suzanne Sallevelt, Michael Field, Chloe Cunningham, David A Stroud, Simon Sadedi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Climate change and the growing threat of bunyaviruses",
+      "link": "https://doi.org/10.1128/jvi.01772-25",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1128/jvi.01772-25\nAuthors: James M. Bowen, Natasha L. Tilston\n ABSTRACT \n                   \n                     \n                     Anthropogenic climate change and its implications for infectious diseases have been central to the scientific and public health discourse for more than thr",
+      "tag": "analysis"
+    },
+    {
+      "title": "EVOLUTION OF MORTALITY FROM SYSTEMIC ARTERIAL HYPERTENSION IN BRAZIL: TEMPORAL TRENDS, CHANGES IN DIAGNOSTIC PROFILE, AND SOCIODEMOGRAPHIC AND REGIONAL INEQUALITIES, 2010–2024",
+      "link": "https://doi.org/10.23900/artefactum.v25i5.3274",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.23900/artefactum.v25i5.3274\nAuthors: Alana Coêlho Maciel, Renato Sarmento dos Reis Moreno, Ana Patricia Barros Camara, Silvana Dias Corrêa Carolino da Silva, Thiago Emmanuel Araujo dos Santos, Mateus Henrique Dias Guimarães, Poliana Santos, Marilane Vilela Marques, Cristiany Pietro Dias das Chagas Porto, Alex Souza de Miranda, Rosemeri Alex",
+      "tag": "analysis"
+    },
+    {
+      "title": "Investigating Factors Affecting the Nursing Shortage During the First and Acute Phase of COVID-19: A Systematic Review",
+      "link": "https://doi.org/10.4103/ijnmr.ijnmr_294_24",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.4103/ijnmr.ijnmr_294_24\nAuthors: Sara Dorri, Shabnam Shariatpanahi, Lida Hosseini, Seyedeh N. Seyedhasani, Ahmad Mahdizadeh, Mansoureh A. Farahani\n Abstract \n                   \n                     Background: \n                     The COVID-19 pandemic has resulted in a severe",
+      "tag": "analysis"
+    },
+    {
       "title": "Impact of Pandemics on Alternative Measure of Economic Well-being: Evidence from Panel Data",
       "link": "https://doi.org/10.1177/09737030261459514",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
@@ -944,31 +986,17 @@
       "tag": "analysis"
     },
     {
-      "title": "EVOLUTION OF MORTALITY FROM SYSTEMIC ARTERIAL HYPERTENSION IN BRAZIL: TEMPORAL TRENDS, CHANGES IN DIAGNOSTIC PROFILE, AND SOCIODEMOGRAPHIC AND REGIONAL INEQUALITIES, 2010–2024",
-      "link": "https://doi.org/10.23900/artefactum.v25i5.3274",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.23900/artefactum.v25i5.3274\nAuthors: Alana Coêlho Maciel, Renato Sarmento dos Reis Moreno, Ana Patricia Barros Camara, Silvana Dias Corrêa Carolino da Silva, Thiago Emmanuel Araujo dos Santos, Mateus Henrique Dias Guimarães, Poliana Santos, Marilane Vilela Marques, Cristiany Pietro Dias das Chagas Porto, Alex Souza de Miranda, Rosemeri Alex",
-      "tag": "analysis"
-    },
-    {
-      "title": "Climate change and the growing threat of bunyaviruses",
-      "link": "https://doi.org/10.1128/jvi.01772-25",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/jvi.01772-25\nAuthors: James M. Bowen, Natasha L. Tilston\n ABSTRACT \n                   \n                     \n                     Anthropogenic climate change and its implications for infectious diseases have been central to the scientific and public health discourse for more than thr",
-      "tag": "analysis"
-    },
-    {
-      "title": "Investigating Factors Affecting the Nursing Shortage During the First and Acute Phase of COVID-19: A Systematic Review",
-      "link": "https://doi.org/10.4103/ijnmr.ijnmr_294_24",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4103/ijnmr.ijnmr_294_24\nAuthors: Sara Dorri, Shabnam Shariatpanahi, Lida Hosseini, Seyedeh N. Seyedhasani, Ahmad Mahdizadeh, Mansoureh A. Farahani\n Abstract \n                   \n                     Background: \n                     The COVID-19 pandemic has resulted in a severe",
-      "tag": "analysis"
-    },
-    {
       "title": "Quantifying the heterogeneity and determinants of Ebola Zaire transmission during the 10th outbreak in DRC, 2018-2020.",
       "link": "https://doi.org/10.64898/2026.07.14.26358072",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.14.26358072\nAuthors: Soubrier, H.; Seo, D.; Barks, P.; Meakin, S.; Mossoko, M.; Kitenge, R.; Dieberg, K.; Van Herp, M.; Mambula, C.; Flasche, S.; Camacho, A.; Coulborn, R.; Simons, E.; Ahuka-Mundeke, S.; Broban, A.\nBackground. The 2018-2020 Ebola virus disease outbreak in the Democratic Republic of the Congo (DRC) was the coun",
+      "tag": "analysis"
+    },
+    {
+      "title": "Integrated surveillance, virus isolation and phylogenetic characterization of Crimean-Congo hemorrhagic fever virus in Central Kazakhstan",
+      "link": "https://doi.org/10.3389/fvets.2026.1879322",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fvets.2026.1879322\nAuthors: Zhumagali Koshemetov, Kayyrzhan Baizhanov, Nurgul Orazymbetova, Madina Kaukarbayeva, Akezhan Issakhan, Bakyt Umuraliyev, Orazbek Serikbayov, Nurlan Kozhabergenov, Madina Seisenbayeva, Kuandyk Zhugunissov, Kydyrbay Maikhin, Abdikalyk Abishov, Zhanat Kondibayeva, Aliya Adalbekova, Yerbol Bulatov, Dariya Toktyr",
       "tag": "analysis"
     },
     {
@@ -1011,13 +1039,6 @@
       "link": "https://doi.org/10.4038/jccp.v57i1.8182",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.4038/jccp.v57i1.8182\nAuthors: R. Ginigaddarage, S. T. De Silva, A. Premawardhena\n Dengue fever is endemic in Sri Lanka and can rarely cause neurological complications, including post-infectious cerebellitis. Although patients with β-thalassaemia major have altered immune profiles, the intersection of expanded dengue syndrome with und",
-      "tag": "analysis"
-    },
-    {
-      "title": "Integrated surveillance, virus isolation and phylogenetic characterization of Crimean-Congo hemorrhagic fever virus in Central Kazakhstan",
-      "link": "https://doi.org/10.3389/fvets.2026.1879322",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fvets.2026.1879322\nAuthors: Zhumagali Koshemetov, Kayyrzhan Baizhanov, Nurgul Orazymbetova, Madina Kaukarbayeva, Akezhan Issakhan, Bakyt Umuraliyev, Orazbek Serikbayov, Nurlan Kozhabergenov, Madina Seisenbayeva, Kuandyk Zhugunissov, Kydyrbay Maikhin, Abdikalyk Abishov, Zhanat Kondibayeva, Aliya Adalbekova, Yerbol Bulatov, Dariya Toktyr",
       "tag": "analysis"
     },
     {
@@ -1210,13 +1231,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Bleeding in haemorrhagic fever with renal syndrome: A systematic review characterising the loss of haemostasis in hantavirus infections",
-      "link": "https://doi.org/10.1371/journal.pntd.0014524",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.pntd.0014524\nAuthors: Matthew J. Riley, Aliza Hudda, Miša Korva, Tatjana Avšič-Županc, Beverley J. Hunt, Tom E. Fletcher\n \n                     Background \n                     Haemorrhagic fever with renal syndrome (HFRS) is caused by hantaviruses and is associated with variab",
-      "tag": "analysis"
-    },
-    {
       "title": "Beta-adrenergic receptor activation during stress reduces the abundance of commensal Clostridia in the mouse gut",
       "link": "https://doi.org/10.64898/2026.07.14.738460",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
@@ -1228,6 +1242,13 @@
       "link": "https://doi.org/10.64898/2026.07.09.737488",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.09.737488\nAuthors: Owens, R. E.; Matthews, B. E.; Mastrangelo, M. A.; Meeks, J. P.; Rowe, R. K.\nThe main olfactory epithelium (MOE) is the primary site of olfaction and consists of multiple cell types including olfactory sensory neurons (OSNs), sustentacular cells, and immune cells. Neuroimmune interactions in epithelial tissu",
+      "tag": "analysis"
+    },
+    {
+      "title": "Bleeding in haemorrhagic fever with renal syndrome: A systematic review characterising the loss of haemostasis in hantavirus infections",
+      "link": "https://doi.org/10.1371/journal.pntd.0014524",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.pntd.0014524\nAuthors: Matthew J. Riley, Aliza Hudda, Miša Korva, Tatjana Avšič-Županc, Beverley J. Hunt, Tom E. Fletcher\n \n                     Background \n                     Haemorrhagic fever with renal syndrome (HFRS) is caused by hantaviruses and is associated with variab",
       "tag": "analysis"
     },
     {
@@ -1245,13 +1266,6 @@
       "tag": "response"
     },
     {
-      "title": "Identification of Halo Blight Disease on Oat in Idaho and Exploration of Resistant Sources in Oat, Barley, and Wheat.",
-      "link": "https://europepmc.org/article/MED/41494085",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "FullTextUrl: https://doi.org/10.1094/PDIS-08-25-1717-RE\nJournal Title: Plant disease\nAuthors: Butchacas J, Sapkota S, Jacobs JM, Toth H, Klos KE, Yimer BA.\n Pseudomonas coronafaciens  pv.  coronafaciens  ( Pcc ), the causal agent of bacterial halo blight (BHB) on oat, has been infrequently reported in the United States, with historic",
-      "tag": "analysis"
-    },
-    {
       "title": "Statement by Africa CDC on the release of the 2025 WHO/UNICEF Estimates of National Immunization Coverage (WUENIC)",
       "link": "https://africacdc.org/news-item/statement-by-africa-cdc-on-the-release-of-the-2025-who-unicef-estimates-of-national-immunization-coverage-wuenic/",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
@@ -1259,17 +1273,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Endolysosomal two-pore channels regulate a conserved entry pathway for enteroviruses",
-      "link": "https://www.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.002294",
+      "title": "Identification of Halo Blight Disease on Oat in Idaho and Exploration of Resistant Sources in Oat, Barley, and Wheat.",
+      "link": "https://europepmc.org/article/MED/41494085",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "info \nInfo \n\n\n\n\n\n\n\n\nArticle information \n\n\n\n\n\n\n\n\nFull-Text \n\n\n\n\n\n\n\n\n\nFigures and Tables \n\n\n\n\n\n\n\n\n\nReferences \n(57)\n\n\n\n\n\n\n\n\n\nCited By \n\n\n\n\n\n\n\n\n\nSupplementary Material \n(2)\n\n\n\n\n\n\n\n\n\nMetrics \n\n\n\n\n \n\n\n\nlist\nSections\n\nTOPABSTRACTAbbreviationsIntroductionMethodsResultsDiscussionFunding informationAcknowledgementsAuthor contributionsConflicts of i",
+      "desc": "FullTextUrl: https://doi.org/10.1094/PDIS-08-25-1717-RE\nJournal Title: Plant disease\nAuthors: Butchacas J, Sapkota S, Jacobs JM, Toth H, Klos KE, Yimer BA.\n Pseudomonas coronafaciens  pv.  coronafaciens  ( Pcc ), the causal agent of bacterial halo blight (BHB) on oat, has been infrequently reported in the United States, with historic",
       "tag": "analysis"
     },
     {
-      "title": "From Array-CGH to Whole-Genome Sequencing: A 29-Year Diagnostic Journey Culminating in the Identification of a De Novo ABCC9 Variant Consistent with Cantú Syndrome",
-      "link": "https://doi.org/10.3390/diagnostics16142204",
+      "title": "Crimean-Congo hemorrhagic fever virus in the last four decades (1981–2025): global output, collaboration networks, and emerging frontiers",
+      "link": "https://doi.org/10.1007/s11250-026-05209-0",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/diagnostics16142204\nAuthors: Chung-Lin Lee, Ya-Hui Chang, Chih-Kuang Chuang, Huei-Ching Chiu, Yuan-Rong Tu, Yun-Ting Lo, Jun-Yi Wu, Hsiang-Yu Lin, Shuan-Pei Lin\n Background and Clinical Significance: Cantú syndrome (OMIM #239850) is a rare autosomal dominant disorder caused by gain-of-function variants in ABCC9 or KCNJ8, which e",
+      "desc": "DOI: 10.1007/s11250-026-05209-0\nAuthors: Md Zulfekar Ali, Uwem Okon Edet, Olanrewaju E. Igah, Edema Enogiomwan Imalele, Mirza Mienur Meher, Clement Meseko",
       "tag": "analysis"
     },
     {
@@ -1301,17 +1315,38 @@
       "tag": "analysis"
     },
     {
-      "title": "Crimean-Congo hemorrhagic fever virus in the last four decades (1981–2025): global output, collaboration networks, and emerging frontiers",
-      "link": "https://doi.org/10.1007/s11250-026-05209-0",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1007/s11250-026-05209-0\nAuthors: Md Zulfekar Ali, Uwem Okon Edet, Olanrewaju E. Igah, Edema Enogiomwan Imalele, Mirza Mienur Meher, Clement Meseko",
-      "tag": "analysis"
-    },
-    {
       "title": "Early insights into viability of Ebola monoclonal antibodies for the 2026 Bundibugyo virus disease outbreak",
       "link": "https://doi.org/10.21203/rs.3.rs-10270397/v1",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10270397/v1\nAuthors: Daudi Jjingo, Kevin Cissy Nabukeera, Gradi Luakanda-Ndelemo, Syrus Semawule, Pascal Adroba Tandele, Andrew Walakira, Adrienne Amuri, Daan Jansen, Ronald Galiwango, Alisen Ayitewala, Eddy Kinganda-Lusamaki, Andrew Nsawotebba, Christian Ngandu, Aloysious Ssemaganda, Olivier Tshiani-Mbaya, Stephen Kanyerezi,",
+      "tag": "analysis"
+    },
+    {
+      "title": "From Array-CGH to Whole-Genome Sequencing: A 29-Year Diagnostic Journey Culminating in the Identification of a De Novo ABCC9 Variant Consistent with Cantú Syndrome",
+      "link": "https://doi.org/10.3390/diagnostics16142204",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/diagnostics16142204\nAuthors: Chung-Lin Lee, Ya-Hui Chang, Chih-Kuang Chuang, Huei-Ching Chiu, Yuan-Rong Tu, Yun-Ting Lo, Jun-Yi Wu, Hsiang-Yu Lin, Shuan-Pei Lin\n Background and Clinical Significance: Cantú syndrome (OMIM #239850) is a rare autosomal dominant disorder caused by gain-of-function variants in ABCC9 or KCNJ8, which e",
+      "tag": "analysis"
+    },
+    {
+      "title": "Endolysosomal two-pore channels regulate a conserved entry pathway for enteroviruses",
+      "link": "https://www.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.002294",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "info \nInfo \n\n\n\n\n\n\n\n\nArticle information \n\n\n\n\n\n\n\n\nFull-Text \n\n\n\n\n\n\n\n\n\nFigures and Tables \n\n\n\n\n\n\n\n\n\nReferences \n(57)\n\n\n\n\n\n\n\n\n\nCited By \n\n\n\n\n\n\n\n\n\nSupplementary Material \n(2)\n\n\n\n\n\n\n\n\n\nMetrics \n\n\n\n\n \n\n\n\nlist\nSections\n\nTOPABSTRACTAbbreviationsIntroductionMethodsResultsDiscussionFunding informationAcknowledgementsAuthor contributionsConflicts of i",
+      "tag": "analysis"
+    },
+    {
+      "title": "Association Between Glutathione S-Transferase (GST) Gene Polymorphisms and Coronary Artery Disease: A Case–Control Study in Bangladesh",
+      "link": "https://doi.org/10.1177/19450265261469737",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1177/19450265261469737\nAuthors: Sauda Sumaya Dina, Somzida Akter Moni, Faisal Abdullah Emon, Rajib Das, C.M. Shaheen Kabir, Md Abdul Muhit, Nahid Sharmin, Sheikh Zahir Raihan\n \n                     Background: \n                     \n                      Glutathione-S-transferases (GSTs) play an import",
+      "tag": "analysis"
+    },
+    {
+      "title": "Hantavirus and Middle East Public Health Challenges: A Subject Review",
+      "link": "https://doi.org/10.59324/ejeba.2026.3(4).04",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.59324/ejeba.2026.3(4).04\nAuthors: Jihad Abdulameer Ahmed, Aseel Kamil Hameed\n Hantaviruses are emerging zoonotic viruses belonging to the family Hantaviridae, which are typically found in rodent reservoirs and transmitted to humans through contact with contaminated saliva, aerosolized particles or excreta. There are two major clinica",
       "tag": "analysis"
     },
     {
@@ -1326,20 +1361,6 @@
       "link": "https://doi.org/10.3390/v18070775",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/v18070775\nAuthors: Katharina Kopp\n Bundibugyo virus disease, caused by Bundibugyo virus (Orthoebolavirus bundibugyoense), is a severe human Ebola disease with substantial mortality, unresolved reservoir ecology, limited diagnostic implementation, and no licensed vaccines or therapeutics specifically approved for this Orthoebolav",
-      "tag": "analysis"
-    },
-    {
-      "title": "Hantavirus and Middle East Public Health Challenges: A Subject Review",
-      "link": "https://doi.org/10.59324/ejeba.2026.3(4).04",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.59324/ejeba.2026.3(4).04\nAuthors: Jihad Abdulameer Ahmed, Aseel Kamil Hameed\n Hantaviruses are emerging zoonotic viruses belonging to the family Hantaviridae, which are typically found in rodent reservoirs and transmitted to humans through contact with contaminated saliva, aerosolized particles or excreta. There are two major clinica",
-      "tag": "analysis"
-    },
-    {
-      "title": "Association Between Glutathione S-Transferase (GST) Gene Polymorphisms and Coronary Artery Disease: A Case–Control Study in Bangladesh",
-      "link": "https://doi.org/10.1177/19450265261469737",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/19450265261469737\nAuthors: Sauda Sumaya Dina, Somzida Akter Moni, Faisal Abdullah Emon, Rajib Das, C.M. Shaheen Kabir, Md Abdul Muhit, Nahid Sharmin, Sheikh Zahir Raihan\n \n                     Background: \n                     \n                      Glutathione-S-transferases (GSTs) play an import",
       "tag": "analysis"
     },
     {
@@ -1434,18 +1455,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Viewpoints: How Health Systems Can Protect Patients From 'Deepfake' Docs; Writing Fat Emergency Checks For Ebola Is The Wrong Strategy",
-      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-needs-headline-please/",
-      "pubDate": "Tue, 14 Jul 2026 13:15:00 Z",
-      "desc": "Imagine a patient who arrives at her doctor’s clinic furious. She shows her doctor a video of him — white coat, plausible exam room, familiar cadence — endorsing an over-the-counter hormone supplement for menopausal symptoms, dismissing standard therapies as “pharma scams,” and offering a discount code.",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola Cases In Congo Are Grossly Undercounted, WHO Says",
       "link": "https://kffhealthnews.org/morning-breakout/ebola-071426/",
       "pubDate": "Tue, 14 Jul 2026 13:15:00 Z",
       "desc": "World health officials think the true number of cases is possibly four times greater than the nearly 2,000 cases that health officials in Congo are reporting. Meanwhile, a WHO official is pleading with the global community to continue sending pledged donations to help Congo fight the deadly Bundibugyo outbreak.",
       "tag": "cases"
+    },
+    {
+      "title": "Viewpoints: How Health Systems Can Protect Patients From 'Deepfake' Docs; Writing Fat Emergency Checks For Ebola Is The Wrong Strategy",
+      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-needs-headline-please/",
+      "pubDate": "Tue, 14 Jul 2026 13:15:00 Z",
+      "desc": "Imagine a patient who arrives at her doctor’s clinic furious. She shows her doctor a video of him — white coat, plausible exam room, familiar cadence — endorsing an over-the-counter hormone supplement for menopausal symptoms, dismissing standard therapies as “pharma scams,” and offering a discount code.",
+      "tag": "analysis"
     },
     {
       "title": "MINISTRY OF HEALTH CONVENES EBOLA ACCOUNTABILITY FORUM TO STRENGTHEN TRANSPARENCY AND PARTNER COORDINATION",
@@ -1553,20 +1574,6 @@
       "tag": "response"
     },
     {
-      "title": "Stevens–Johnson Syndrome/Toxic Epidermal Necrolysis in a Pediatric Patient With Dengue Hemorrhagic Fever: A Case Report",
-      "link": "https://doi.org/10.70070/85rsxd08",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.70070/85rsxd08\n Background: Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) are acute, life-threatening mucocutaneous reactions characterised by widespread epidermal necrosis. These conditions are characterised by skin blisters and involvement of the oral, nasal, ocular, and genital mucosa. SJS/TEN are immune-medi",
-      "tag": "analysis"
-    },
-    {
-      "title": "A case of severe terbinafine induced gastritis presenting as a likely protein losing enteropathy",
-      "link": "https://doi.org/10.21203/rs.3.rs-10257093/v1",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10257093/v1\nAuthors: Shiidheshwar J Ravichandran, Kevin Wong, Benjamin Gomez, Metthananda Nawarathne Nawarathne Mudiyanselage, Julian Rong\n Abstract \n                 \n                   Background \n                  The primary cause of gastritis is infection with helicobacter Pylori, followed by che",
-      "tag": "analysis"
-    },
-    {
       "title": "Comparison of three Mycoplasma bovis antibody ELISAs on serum from 3-5-week-old dairy calves using Bayesian latent class analysis",
       "link": "https://doi.org/10.1186/s13620-026-00354-2",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
@@ -1581,6 +1588,13 @@
       "tag": "analysis"
     },
     {
+      "title": "A case of severe terbinafine induced gastritis presenting as a likely protein losing enteropathy",
+      "link": "https://doi.org/10.21203/rs.3.rs-10257093/v1",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10257093/v1\nAuthors: Shiidheshwar J Ravichandran, Kevin Wong, Benjamin Gomez, Metthananda Nawarathne Nawarathne Mudiyanselage, Julian Rong\n Abstract \n                 \n                   Background \n                  The primary cause of gastritis is infection with helicobacter Pylori, followed by che",
+      "tag": "analysis"
+    },
+    {
       "title": "A DNA-scaffolded Retron Ring Mediates Antiphage Immunity",
       "link": "https://doi.org/10.64898/2026.07.14.737667",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
@@ -1588,10 +1602,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Deteriorating Humanitarian Situation of DR Congo",
-      "link": "https://doi.org/10.2174/9798898814625126010007",
+      "title": "Stevens–Johnson Syndrome/Toxic Epidermal Necrolysis in a Pediatric Patient With Dengue Hemorrhagic Fever: A Case Report",
+      "link": "https://doi.org/10.70070/85rsxd08",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.2174/9798898814625126010007\nAuthors: Sheikh Mohd Saleem, Shah Sumaya Jan, Hina Sharif\n The Democratic Republic of Congo faces multiple challenges, including\ncivil wars and heavy reliance on the mining sector. The country also has significant\npotential for eco-tourism, boasting seven major national parks with diverse wildlife,\nincludi",
+      "desc": "DOI: 10.70070/85rsxd08\n Background: Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) are acute, life-threatening mucocutaneous reactions characterised by widespread epidermal necrosis. These conditions are characterised by skin blisters and involvement of the oral, nasal, ocular, and genital mucosa. SJS/TEN are immune-medi",
       "tag": "analysis"
     },
     {
@@ -1599,6 +1613,13 @@
       "link": "https://doi.org/10.2471/b09835",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.2471/b09835",
+      "tag": "analysis"
+    },
+    {
+      "title": "Deteriorating Humanitarian Situation of DR Congo",
+      "link": "https://doi.org/10.2174/9798898814625126010007",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.2174/9798898814625126010007\nAuthors: Sheikh Mohd Saleem, Shah Sumaya Jan, Hina Sharif\n The Democratic Republic of Congo faces multiple challenges, including\ncivil wars and heavy reliance on the mining sector. The country also has significant\npotential for eco-tourism, boasting seven major national parks with diverse wildlife,\nincludi",
       "tag": "analysis"
     },
     {
@@ -1707,17 +1728,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Samoa américaines",
-      "link": "https://voyage.gc.ca/destinations/samoa-americaines",
-      "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
-      "desc": "Pannes d’électricité et pénuries d’eau. Les pannes d’électricité et les pénuries d’eau surviennent occasionnellement, surtout pendant et après le passage de cyclones. Les autorités locales peuvent limiter la consommation d'électricité et imposer des mesures de rationnement de l’eau.",
-      "tag": "analysis"
-    },
-    {
       "title": "Maladie Ebola en République démocratique du Congo",
       "link": "https://voyage.gc.ca/voyager/sante-securite/conseils-sante-voyageurs/549",
       "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
       "desc": "Date de publication originale : 15 mai 2026. Mise à jour : 2 juillet 2026 Destinations touchées République démocratique du Congo (Kinshasa) Points clés La maladie Ebola est causée par un groupe de virus qui se transmettent par contact avec les fluides corporels de personnes ou d'animaux présentant des symptômes de la maladie.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Samoa américaines",
+      "link": "https://voyage.gc.ca/destinations/samoa-americaines",
+      "pubDate": "Mon, 13 Jul 2026 15:21:00 Z",
+      "desc": "Pannes d’électricité et pénuries d’eau. Les pannes d’électricité et les pénuries d’eau surviennent occasionnellement, surtout pendant et après le passage de cyclones. Les autorités locales peuvent limiter la consommation d'électricité et imposer des mesures de rationnement de l’eau.",
       "tag": "analysis"
     },
     {
@@ -1833,38 +1854,17 @@
       "tag": "analysis"
     },
     {
+      "title": "Cheese linked to Salmonella outbreak in Portugal",
+      "link": "https://www.foodsafetynews.com/2026/07/cheese-linked-to-salmonella-outbreak-in-portugal/",
+      "pubDate": "Mon, 13 Jul 2026 04:15:00 Z",
+      "desc": "An investigation into a Salmonella outbreak in two regions of Portugal traced to cheese has revealed problems at the production site. A case–case study suggested fresh cheese as the likely vehicle of the Salmonella Typhimurium outbreak. The case–case approach compares outbreak and historical cases.",
+      "tag": "cases"
+    },
+    {
       "title": "Commentary: Preparation Is Paramount - Rwanda’s efforts to prevent Ebola from spreading into the country show that a multisectoral approach beyond health is needed",
       "link": "https://doi.org/10.5089/9781484315422.022.a010",
       "pubDate": "Mon, 13 Jul 2026 03:54:00 Z",
       "desc": "DOI: 10.5089/9781484315422.022.a010\nAuthors: Agnes Binagwaho",
-      "tag": "analysis"
-    },
-    {
-      "title": "After Ebola: African countries have made some progress in improving health systems, but holes remain",
-      "link": "https://doi.org/10.5089/9781513549118.022.a008",
-      "pubDate": "Mon, 13 Jul 2026 03:54:00 Z",
-      "desc": "DOI: 10.5089/9781513549118.022.a008\nAuthors: Amanda Glassman",
-      "tag": "analysis"
-    },
-    {
-      "title": "Gossypiboma in the prostatic fossa presenting as bladder outlet obstruction following open prostatectomy: a case report",
-      "link": "https://doi.org/10.1097/rc9.0000000000000667",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/rc9.0000000000000667\nAuthors: Edouard Karume Rugendabanga, Mbongnu Morane, Hamis Juma Isaka, Ezekiel Petro, Martin Edgar Chikelea\n \n                     Introduction and importance: \n                     Gossypiboma, also known as a retained surgical sponge, is a rare but preventable postoperative",
-      "tag": "analysis"
-    },
-    {
-      "title": "Prevalence and predictors of HCV infection among hospitalized psychiatric patients in Poland",
-      "link": "https://doi.org/10.3389/fpsyt.2026.1835310",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fpsyt.2026.1835310\nAuthors: Krzysztof Tomasiewicz, Piotr Gałecki, Jerzy Jaroszewicz, Jolanta Opoka, Małgorzata Pawłowska, Anna Piekarska, Krzysztof Simon, Dorota Zarębska-Michaluk, Magdalena Władysiuk, Tomasz Prycel, Sławomir Ros, Dominik Obierzyński, Waldemar Halota, Robert Flisiak\n \n                     Background",
-      "tag": "analysis"
-    },
-    {
-      "title": "Developing a vaccine against Bundibugyo ebolavirus",
-      "link": "https://doi.org/10.1186/isrctn72157798",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/isrctn72157798\nAuthors: Reyna Sara Quintero Barceinas, Katrina Pollock",
       "tag": "analysis"
     }
   ],
