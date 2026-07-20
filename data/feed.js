@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 20 Jul 2026 14:09:05 Z",
-  "fetchedAt": "2026-07-20T14:09:06Z",
+  "lastBuildDate": "Mon, 20 Jul 2026 16:24:38 Z",
+  "fetchedAt": "2026-07-20T16:24:39Z",
   "itemCount": 246,
   "stats": {
     "drc": {
@@ -545,6 +545,34 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Epidemics and Nigerian Society: Lessons from Smallpox to COVID-19",
+      "link": "https://doi.org/10.55640/jsshrf-06-07-04",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.55640/jsshrf-06-07-04\nAuthors: James Akpan Ekah, Esin Okon Eminue\n Nigeria's struggle with epidemic disease, from colonial-era smallpox campaigns to the COVID-19 pandemic, provides a century-long record of how a society has navigated between biomedical intervention and lived social experience. Historical and contemporary disease outb",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola is not only Africa’s problem",
+      "link": "https://doi.org/10.1080/14725843.2026.2690865",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1080/14725843.2026.2690865\nAuthors: Pal Ahluwalia",
+      "tag": "analysis"
+    },
+    {
+      "title": "Infectious medical waste (IMW) and disease transmission: A critical public health challenge in Africa and the global implications – A systematic review",
+      "link": "https://doi.org/10.1177/22799036261470478",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1177/22799036261470478\nAuthors: Jeffrey N. T. Squire, Michaelann George, Zakirah Allain, Oghenowede Eyawo\n \n                     Background \n                     Infectious Medical Waste (IMW) from both human and animal healthcare sources have the potential to transmit diseases in human populations due",
+      "tag": "analysis"
+    },
+    {
+      "title": "From Past Outbreaks to Future Threats: Detecting Medical Conspiracy Theories With <scp>LLMs</scp> and Limited Labels",
+      "link": "https://doi.org/10.1111/exsy.70360",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1111/exsy.70360\nAuthors: Ipek Baris Schlicht, Damir Korenčić, Berta Chulvi, Lucie Flek, Paolo Rosso\n ABSTRACT \n                   Online dissemination of conspiracy theories (CTs) during epidemics poses significant risks to public health. This paper addresses the problem of detecting CTs in social media posts w",
+      "tag": "analysis"
+    },
+    {
       "title": "Mucosal tissue cues shape B cell memory through the IgA BCR",
       "link": "https://doi.org/10.1126/sciimmunol.adv1149",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
@@ -594,39 +622,25 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Epidemics and Nigerian Society: Lessons from Smallpox to COVID-19",
-      "link": "https://doi.org/10.55640/jsshrf-06-07-04",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.55640/jsshrf-06-07-04\nAuthors: James Akpan Ekah, Esin Okon Eminue\n Nigeria's struggle with epidemic disease, from colonial-era smallpox campaigns to the COVID-19 pandemic, provides a century-long record of how a society has navigated between biomedical intervention and lived social experience. Historical and contemporary disease outb",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola is not only Africa’s problem",
-      "link": "https://doi.org/10.1080/14725843.2026.2690865",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1080/14725843.2026.2690865\nAuthors: Pal Ahluwalia",
-      "tag": "analysis"
-    },
-    {
-      "title": "Infectious medical waste (IMW) and disease transmission: A critical public health challenge in Africa and the global implications – A systematic review",
-      "link": "https://doi.org/10.1177/22799036261470478",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/22799036261470478\nAuthors: Jeffrey N. T. Squire, Michaelann George, Zakirah Allain, Oghenowede Eyawo\n \n                     Background \n                     Infectious Medical Waste (IMW) from both human and animal healthcare sources have the potential to transmit diseases in human populations due",
-      "tag": "analysis"
-    },
-    {
-      "title": "From Past Outbreaks to Future Threats: Detecting Medical Conspiracy Theories With <scp>LLMs</scp> and Limited Labels",
-      "link": "https://doi.org/10.1111/exsy.70360",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/exsy.70360\nAuthors: Ipek Baris Schlicht, Damir Korenčić, Berta Chulvi, Lucie Flek, Paolo Rosso\n ABSTRACT \n                   Online dissemination of conspiracy theories (CTs) during epidemics poses significant risks to public health. This paper addresses the problem of detecting CTs in social media posts w",
-      "tag": "analysis"
-    },
-    {
       "title": "INTS6 loss of function disrupts transcriptional regulation in mild intellectual disability",
       "link": "https://doi.org/10.64898/2026.07.17.737701",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.17.737701\nAuthors: Jalkanen, N.; Trontti, K.; Norppa, A. J.; Rahikkala, E.; Lilis, P.; Puigdevall, P.; Ivancic, L.; Niemimaa, N.; Vuokila, V.; Assaf, N.; Urpa, L.; Kurki, M.; Hämäläinen, E.; Kuismin, O.; Palotie, A.; Frilander, M. J.; Kilpinen, H.; Pietiläinen, O.\nPathogenic variants in genes involved in transcriptional re",
       "tag": "analysis"
+    },
+    {
+      "title": "K4DD Ebola Evidence and Discourse Summary July 2026: No 3",
+      "link": "https://doi.org/10.19088/k4dd.2026.065",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.19088/k4dd.2026.065\nAuthors: Ismael Kawooya\n The Ebola Health Evidence and Discourse Summaries aim to signpost the FCDO and others to the latest relevant evidence and discourse regarding the ongoing Ebola Virus Disease outbreak.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Cross-border travel patterns affect magnitude estimates for the Ebola Bundibugyo epidemic",
+      "link": "https://doi.org/10.1038/s44360-026-00178-y",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/s44360-026-00178-y\nAuthors: Younjung Kim, Cathal Mills, Christl A. Donnelly\n Abstract \n                   A geographic spread approach is often used to estimate the true burden of infectious disease cases in a source population by leveraging statistical signals generated by cases exported and reported else",
+      "tag": "cases"
     },
     {
       "title": "Human pegivirus, Toscana virus and herpesviruses identified in cerebrospinal fluid from adults with unexplained neurologic disease, Spain, 2022–2023",
@@ -655,20 +669,6 @@ window.FEED_DATA = {
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.16.26358218\nAuthors: Bouhentala, O. W.; Kadir, M. Y.\nBackground. The 2026 Bundibugyo virus disease (BVD) epidemic in the Democratic Republic of the Congo (DRC) was declared on 15 May 2026 and determined a public health emergency of international concern on 17 May 2026. Public surveillance reporting consists of cumulative count",
       "tag": "pheic"
-    },
-    {
-      "title": "K4DD Ebola Evidence and Discourse Summary July 2026: No 3",
-      "link": "https://doi.org/10.19088/k4dd.2026.065",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.19088/k4dd.2026.065\nAuthors: Ismael Kawooya\n The Ebola Health Evidence and Discourse Summaries aim to signpost the FCDO and others to the latest relevant evidence and discourse regarding the ongoing Ebola Virus Disease outbreak.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Cross-border travel patterns affect magnitude estimates for the Ebola Bundibugyo epidemic",
-      "link": "https://doi.org/10.1038/s44360-026-00178-y",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/s44360-026-00178-y\nAuthors: Younjung Kim, Cathal Mills, Christl A. Donnelly\n Abstract \n                   A geographic spread approach is often used to estimate the true burden of infectious disease cases in a source population by leveraging statistical signals generated by cases exported and reported else",
-      "tag": "cases"
     },
     {
       "title": "Search Results",
@@ -825,18 +825,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Articles Archives – Africa CDC",
-      "link": "https://africacdc.org/news-type/articles/",
-      "pubDate": "Thu, 16 Jul 2026 15:23:00 Z",
-      "desc": "Community Engagement Should be Prioritised in Bundibugyo Ebola Outbreak FightOne month after the declaration of the 2026 Bundibugyo Ebola outbreak as both a global and continental public health emergency, transmission continues to expand in eastern Democratic Republic of Congo (DRC) and Uganda despite substantial response efforts. As of",
-      "tag": "pheic"
-    },
-    {
       "title": "Media Advisory Archives – Africa CDC",
       "link": "https://africacdc.org/news-type/media-advisory/",
       "pubDate": "Thu, 16 Jul 2026 15:23:00 Z",
       "desc": "Emergency Press Briefing on the Ebola Outbreak in DRC and UgandaINVITATION TO REPRESENTATIVES OF THE MEDIA WHAT: Join us for the second emergency briefing to provide status update on the Ebola Disease (Bundibugyo virus) outbreak in the Democratic Republic of Congo and the Republic of Uganda. Africa CDC Director General, H.E. Dr. Jean Kas",
       "tag": "analysis"
+    },
+    {
+      "title": "Articles Archives – Africa CDC",
+      "link": "https://africacdc.org/news-type/articles/",
+      "pubDate": "Thu, 16 Jul 2026 15:23:00 Z",
+      "desc": "Community Engagement Should be Prioritised in Bundibugyo Ebola Outbreak FightOne month after the declaration of the 2026 Bundibugyo Ebola outbreak as both a global and continental public health emergency, transmission continues to expand in eastern Democratic Republic of Congo (DRC) and Uganda despite substantial response efforts. As of",
+      "tag": "pheic"
     },
     {
       "title": "Surveillance and Disease Intelligence – Africa CDC",
@@ -909,17 +909,10 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Trends in Hepatitis B, Hepatitis C, and <scp>HIV</scp> Seroprevalence in the Netherlands: Insights From Two Decades of Nationwide <scp>PIENTER</scp> Serosurveys",
-      "link": "https://doi.org/10.1111/jvh.70213",
+      "title": "Impact of Pandemics on Alternative Measure of Economic Well-being: Evidence from Panel Data",
+      "link": "https://doi.org/10.1177/09737030261459514",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/jvh.70213\nAuthors: Christine G. J. I. van Straten, Birgit H. B. van Benthem, Fiona R. M. van der Klis, Gaby Smits, Eric R. A. Vos, Tom Woudenberg, Marc van der Valk, Eline L. M. Op de Coul\n ABSTRACT \n                   Hepatitis B (HBV), hepatitis C (HCV), and HIV remain public health challenges despite ef",
-      "tag": "analysis"
-    },
-    {
-      "title": "EVOLUTION OF MORTALITY FROM SYSTEMIC ARTERIAL HYPERTENSION IN BRAZIL: TEMPORAL TRENDS, CHANGES IN DIAGNOSTIC PROFILE, AND SOCIODEMOGRAPHIC AND REGIONAL INEQUALITIES, 2010–2024",
-      "link": "https://doi.org/10.23900/artefactum.v25i5.3274",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.23900/artefactum.v25i5.3274\nAuthors: Alana Coêlho Maciel, Renato Sarmento dos Reis Moreno, Ana Patricia Barros Camara, Silvana Dias Corrêa Carolino da Silva, Thiago Emmanuel Araujo dos Santos, Mateus Henrique Dias Guimarães, Poliana Santos, Marilane Vilela Marques, Cristiany Pietro Dias das Chagas Porto, Alex Souza de Miranda, Rosemeri Alex",
+      "desc": "DOI: 10.1177/09737030261459514\nAuthors: Swati Sinha Babu\n The present study aims at understanding how the pandemics SARS (2003), H1N1 (2009), MERS (2012), Ebola (2014), Zika (2016) and COVID-19 (2019 and 2020) have impacted the economic well-being of people across 63 countries classified into different income groups for the period from 1990",
       "tag": "analysis"
     },
     {
@@ -986,10 +979,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Impact of Pandemics on Alternative Measure of Economic Well-being: Evidence from Panel Data",
-      "link": "https://doi.org/10.1177/09737030261459514",
+      "title": "Trends in Hepatitis B, Hepatitis C, and <scp>HIV</scp> Seroprevalence in the Netherlands: Insights From Two Decades of Nationwide <scp>PIENTER</scp> Serosurveys",
+      "link": "https://doi.org/10.1111/jvh.70213",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/09737030261459514\nAuthors: Swati Sinha Babu\n The present study aims at understanding how the pandemics SARS (2003), H1N1 (2009), MERS (2012), Ebola (2014), Zika (2016) and COVID-19 (2019 and 2020) have impacted the economic well-being of people across 63 countries classified into different income groups for the period from 1990",
+      "desc": "DOI: 10.1111/jvh.70213\nAuthors: Christine G. J. I. van Straten, Birgit H. B. van Benthem, Fiona R. M. van der Klis, Gaby Smits, Eric R. A. Vos, Tom Woudenberg, Marc van der Valk, Eline L. M. Op de Coul\n ABSTRACT \n                   Hepatitis B (HBV), hepatitis C (HCV), and HIV remain public health challenges despite ef",
+      "tag": "analysis"
+    },
+    {
+      "title": "EVOLUTION OF MORTALITY FROM SYSTEMIC ARTERIAL HYPERTENSION IN BRAZIL: TEMPORAL TRENDS, CHANGES IN DIAGNOSTIC PROFILE, AND SOCIODEMOGRAPHIC AND REGIONAL INEQUALITIES, 2010–2024",
+      "link": "https://doi.org/10.23900/artefactum.v25i5.3274",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.23900/artefactum.v25i5.3274\nAuthors: Alana Coêlho Maciel, Renato Sarmento dos Reis Moreno, Ana Patricia Barros Camara, Silvana Dias Corrêa Carolino da Silva, Thiago Emmanuel Araujo dos Santos, Mateus Henrique Dias Guimarães, Poliana Santos, Marilane Vilela Marques, Cristiany Pietro Dias das Chagas Porto, Alex Souza de Miranda, Rosemeri Alex",
+      "tag": "analysis"
+    },
+    {
+      "title": "Altered gene expression in the liver and small intestine of horses with equine neuroaxonal dystrophy",
+      "link": "https://doi.org/10.1002/evj.70216",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/evj.70216\nAuthors: Stephanie Ryan, Blythe Durbin‐Johnson, Kevin Woolard, Andrew D. Miller, Carrie J. Finno\n Abstract \n                   \n                     Background \n                     Equine neuroaxonal dystrophy/degenerative myeloencephalopathy (eNAD/EDM) is the sec",
       "tag": "analysis"
     },
     {
@@ -1032,13 +1039,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.21070/medicra.v9i1.1824",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.21070/medicra.v9i1.1824\nAuthors: Tri Ade Saputro, Nur Vita Purwaningsih, Waras Budiman, Mulya Fitrah Juniawan\n Dengue Hemorrhagic Fever (DHF) remains a major health problem in endemic regions, requiring accurate laboratory examinations to support diagnosis. Serological testing of immunoglobulin G (IgG) and immunoglobulin M (IgM) is w",
-      "tag": "analysis"
-    },
-    {
-      "title": "Altered gene expression in the liver and small intestine of horses with equine neuroaxonal dystrophy",
-      "link": "https://doi.org/10.1002/evj.70216",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/evj.70216\nAuthors: Stephanie Ryan, Blythe Durbin‐Johnson, Kevin Woolard, Andrew D. Miller, Carrie J. Finno\n Abstract \n                   \n                     Background \n                     Equine neuroaxonal dystrophy/degenerative myeloencephalopathy (eNAD/EDM) is the sec",
       "tag": "analysis"
     },
     {
@@ -1259,13 +1259,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Identification of Halo Blight Disease on Oat in Idaho and Exploration of Resistant Sources in Oat, Barley, and Wheat.",
-      "link": "https://europepmc.org/article/MED/41494085",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "FullTextUrl: https://doi.org/10.1094/PDIS-08-25-1717-RE\nJournal Title: Plant disease\nAuthors: Butchacas J, Sapkota S, Jacobs JM, Toth H, Klos KE, Yimer BA.\n Pseudomonas coronafaciens  pv.  coronafaciens  ( Pcc ), the causal agent of bacterial halo blight (BHB) on oat, has been infrequently reported in the United States, with historic",
-      "tag": "analysis"
-    },
-    {
       "title": "Beta-adrenergic receptor activation during stress reduces the abundance of commensal Clostridia in the mouse gut",
       "link": "https://doi.org/10.64898/2026.07.14.738460",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
@@ -1277,6 +1270,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.64898/2026.07.09.737488",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.09.737488\nAuthors: Owens, R. E.; Matthews, B. E.; Mastrangelo, M. A.; Meeks, J. P.; Rowe, R. K.\nThe main olfactory epithelium (MOE) is the primary site of olfaction and consists of multiple cell types including olfactory sensory neurons (OSNs), sustentacular cells, and immune cells. Neuroimmune interactions in epithelial tissu",
+      "tag": "analysis"
+    },
+    {
+      "title": "Identification of Halo Blight Disease on Oat in Idaho and Exploration of Resistant Sources in Oat, Barley, and Wheat.",
+      "link": "https://europepmc.org/article/MED/41494085",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "FullTextUrl: https://doi.org/10.1094/PDIS-08-25-1717-RE\nJournal Title: Plant disease\nAuthors: Butchacas J, Sapkota S, Jacobs JM, Toth H, Klos KE, Yimer BA.\n Pseudomonas coronafaciens  pv.  coronafaciens  ( Pcc ), the causal agent of bacterial halo blight (BHB) on oat, has been infrequently reported in the United States, with historic",
       "tag": "analysis"
     },
     {
