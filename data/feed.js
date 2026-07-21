@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 21 Jul 2026 16:23:44 Z",
-  "fetchedAt": "2026-07-21T16:23:45Z",
+  "lastBuildDate": "Tue, 21 Jul 2026 19:25:41 Z",
+  "fetchedAt": "2026-07-21T19:25:41Z",
   "itemCount": 245,
   "stats": {
     "drc": {
@@ -95,8 +95,8 @@ window.FEED_DATA = {
         "suspected": 65000
       },
       "media": {
-        "suspected": 1000,
-        "deaths": 930
+        "deaths": 930,
+        "suspected": 1000
       },
       "whoDon": {
         "confirmed": 2124,
@@ -148,6 +148,34 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "At least 930 dead in Ebola outbreak after worst day yet - Wales Online",
+      "link": "https://www.walesonline.co.uk/news/world-news/least-930-dead-ebola-outbreak-34317698",
+      "pubDate": "Tue, 21 Jul 2026 18:28:00 Z",
+      "desc": "Ebola -- Wales, United Kingdom. Significance Rating: 4 At least 930 dead in Ebola outbreak after worst day yet&nbsp;&nbsp;Wales Online",
+      "tag": "analysis"
+    },
+    {
+      "title": "Les recommandations sanitaires aux voyageurs ont été actualisées. Que disent-elles de nouveau concernant les maladies à prévention vaccinale ? Patrick GEROME - 21/07/2026 Lire plus➟",
+      "link": "https://www.mesvaccins.net/web/news/24270-les-recommandations-sanitaires-aux-voyageurs-ont-ete-actualisees-que-disent-elles-de-nouveau-concernant-les-maladies-a-prevention-vaccinale",
+      "pubDate": "Tue, 21 Jul 2026 17:45:00 Z",
+      "desc": "Les « Recommandations sanitaires aux voyageurs à l’attention des professionnels » actualisées ont été mises en ligne le 10 juillet 2026. Cette nouvelle présente les principales nouveautés introduites dans cette version par rapport à celle de juin 2025, concernant les maladies à prévention vaccinale.",
+      "tag": "analysis"
+    },
+    {
+      "title": "14 July 2026 | News releases En Ituri, la lutte contre Ebola avance grâce au dialogue avec les communautés",
+      "link": "https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/en-ituri-la-lutte-contre-ebola-avance-grace-au-dialogue-avec-les-communautes",
+      "pubDate": "Tue, 21 Jul 2026 16:55:00 Z",
+      "desc": "Bunia, République démocratique du Congo — Léonard Djombo se souvient encore des premières semaines de l’épidémie de maladie à virus Ebola en Ituri. À Kigonze, un site de déplacés situé à la périphérie de Bunia, il accompagne aujourd’hui les familles en tant que relais communautaire.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Riposte Ebola : Le Canada ferme temporairement ses frontières",
+      "link": "https://echosante.info/riposte-ebola-le-canada-ferme-temporairement-ses-frontieres/",
+      "pubDate": "Tue, 21 Jul 2026 16:41:00 Z",
+      "desc": "Face à l’explosion du virus Ebola qui sévit en RDC, le gouvernement canadien, préconise la restriction des voyages en provenance de ce pays. Une décision forte qui va toutefois à l’encontre des recommandations de l’Organisation mondiale de la santé (OMS). Le Canada renforce sa riposte à Ebola.",
+      "tag": "analysis"
+    },
     {
       "title": "GPHIN Early Warning Notification: Unidentified Illness in Venezuela",
       "link": "http://www.phac-aspc.gc.ca/gphin/",
@@ -821,6 +849,20 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Ebola is not only Africa’s problem",
+      "link": "https://doi.org/10.1080/14725843.2026.2690865",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1080/14725843.2026.2690865\nAuthors: Pal Ahluwalia",
+      "tag": "analysis"
+    },
+    {
+      "title": "From Past Outbreaks to Future Threats: Detecting Medical Conspiracy Theories With <scp>LLMs</scp> and Limited Labels",
+      "link": "https://doi.org/10.1111/exsy.70360",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1111/exsy.70360\nAuthors: Ipek Baris Schlicht, Damir Korenčić, Berta Chulvi, Lucie Flek, Paolo Rosso\n ABSTRACT \n                   Online dissemination of conspiracy theories (CTs) during epidemics poses significant risks to public health. This paper addresses the problem of detecting CTs in social media posts w",
+      "tag": "analysis"
+    },
+    {
       "title": "Epidemics and Nigerian Society: Lessons from Smallpox to COVID-19",
       "link": "https://doi.org/10.55640/jsshrf-06-07-04",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
@@ -835,24 +877,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Ebola is not only Africa’s problem",
-      "link": "https://doi.org/10.1080/14725843.2026.2690865",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1080/14725843.2026.2690865\nAuthors: Pal Ahluwalia",
-      "tag": "analysis"
-    },
-    {
       "title": "Infectious medical waste (IMW) and disease transmission: A critical public health challenge in Africa and the global implications – A systematic review",
       "link": "https://doi.org/10.1177/22799036261470478",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1177/22799036261470478\nAuthors: Jeffrey N. T. Squire, Michaelann George, Zakirah Allain, Oghenowede Eyawo\n \n                     Background \n                     Infectious Medical Waste (IMW) from both human and animal healthcare sources have the potential to transmit diseases in human populations due",
-      "tag": "analysis"
-    },
-    {
-      "title": "From Past Outbreaks to Future Threats: Detecting Medical Conspiracy Theories With <scp>LLMs</scp> and Limited Labels",
-      "link": "https://doi.org/10.1111/exsy.70360",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/exsy.70360\nAuthors: Ipek Baris Schlicht, Damir Korenčić, Berta Chulvi, Lucie Flek, Paolo Rosso\n ABSTRACT \n                   Online dissemination of conspiracy theories (CTs) during epidemics poses significant risks to public health. This paper addresses the problem of detecting CTs in social media posts w",
       "tag": "analysis"
     },
     {
@@ -1059,18 +1087,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Media Advisory Archives – Africa CDC",
-      "link": "https://africacdc.org/news-type/media-advisory/",
-      "pubDate": "Thu, 16 Jul 2026 15:23:00 Z",
-      "desc": "Emergency Press Briefing on the Ebola Outbreak in DRC and UgandaINVITATION TO REPRESENTATIVES OF THE MEDIA WHAT: Join us for the second emergency briefing to provide status update on the Ebola Disease (Bundibugyo virus) outbreak in the Democratic Republic of Congo and the Republic of Uganda. Africa CDC Director General, H.E. Dr. Jean Kas",
-      "tag": "analysis"
-    },
-    {
       "title": "Articles Archives – Africa CDC",
       "link": "https://africacdc.org/news-type/articles/",
       "pubDate": "Thu, 16 Jul 2026 15:23:00 Z",
       "desc": "Community Engagement Should be Prioritised in Bundibugyo Ebola Outbreak FightOne month after the declaration of the 2026 Bundibugyo Ebola outbreak as both a global and continental public health emergency, transmission continues to expand in eastern Democratic Republic of Congo (DRC) and Uganda despite substantial response efforts. As of",
       "tag": "pheic"
+    },
+    {
+      "title": "Media Advisory Archives – Africa CDC",
+      "link": "https://africacdc.org/news-type/media-advisory/",
+      "pubDate": "Thu, 16 Jul 2026 15:23:00 Z",
+      "desc": "Emergency Press Briefing on the Ebola Outbreak in DRC and UgandaINVITATION TO REPRESENTATIVES OF THE MEDIA WHAT: Join us for the second emergency briefing to provide status update on the Ebola Disease (Bundibugyo virus) outbreak in the Democratic Republic of Congo and the Republic of Uganda. Africa CDC Director General, H.E. Dr. Jean Kas",
+      "tag": "analysis"
     },
     {
       "title": "Surveillance and Disease Intelligence – Africa CDC",
@@ -1199,10 +1227,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Quantifying the heterogeneity and determinants of Ebola Zaire transmission during the 10th outbreak in DRC, 2018-2020.",
-      "link": "https://doi.org/10.64898/2026.07.14.26358072",
+      "title": "Impact of Pandemics on Alternative Measure of Economic Well-being: Evidence from Panel Data",
+      "link": "https://doi.org/10.1177/09737030261459514",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.14.26358072\nAuthors: Soubrier, H.; Seo, D.; Barks, P.; Meakin, S.; Mossoko, M.; Kitenge, R.; Dieberg, K.; Van Herp, M.; Mambula, C.; Flasche, S.; Camacho, A.; Coulborn, R.; Simons, E.; Ahuka-Mundeke, S.; Broban, A.\nBackground. The 2018-2020 Ebola virus disease outbreak in the Democratic Republic of the Congo (DRC) was the coun",
+      "desc": "DOI: 10.1177/09737030261459514\nAuthors: Swati Sinha Babu\n The present study aims at understanding how the pandemics SARS (2003), H1N1 (2009), MERS (2012), Ebola (2014), Zika (2016) and COVID-19 (2019 and 2020) have impacted the economic well-being of people across 63 countries classified into different income groups for the period from 1990",
       "tag": "analysis"
     },
     {
@@ -1213,10 +1241,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Impact of Pandemics on Alternative Measure of Economic Well-being: Evidence from Panel Data",
-      "link": "https://doi.org/10.1177/09737030261459514",
+      "title": "Quantifying the heterogeneity and determinants of Ebola Zaire transmission during the 10th outbreak in DRC, 2018-2020.",
+      "link": "https://doi.org/10.64898/2026.07.14.26358072",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/09737030261459514\nAuthors: Swati Sinha Babu\n The present study aims at understanding how the pandemics SARS (2003), H1N1 (2009), MERS (2012), Ebola (2014), Zika (2016) and COVID-19 (2019 and 2020) have impacted the economic well-being of people across 63 countries classified into different income groups for the period from 1990",
+      "desc": "DOI: 10.64898/2026.07.14.26358072\nAuthors: Soubrier, H.; Seo, D.; Barks, P.; Meakin, S.; Mossoko, M.; Kitenge, R.; Dieberg, K.; Van Herp, M.; Mambula, C.; Flasche, S.; Camacho, A.; Coulborn, R.; Simons, E.; Ahuka-Mundeke, S.; Broban, A.\nBackground. The 2018-2020 Ebola virus disease outbreak in the Democratic Republic of the Congo (DRC) was the coun",
       "tag": "analysis"
     },
     {
@@ -1224,13 +1252,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1128/jvi.01772-25",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1128/jvi.01772-25\nAuthors: James M. Bowen, Natasha L. Tilston\n ABSTRACT \n                   \n                     \n                     Anthropogenic climate change and its implications for infectious diseases have been central to the scientific and public health discourse for more than thr",
-      "tag": "analysis"
-    },
-    {
-      "title": "Post-infectious dengue cerebellitis in a patient with transfusion-dependent β-thalassaemia major: A case report",
-      "link": "https://doi.org/10.4038/jccp.v57i1.8182",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4038/jccp.v57i1.8182\nAuthors: R. Ginigaddarage, S. T. De Silva, A. Premawardhena\n Dengue fever is endemic in Sri Lanka and can rarely cause neurological complications, including post-infectious cerebellitis. Although patients with β-thalassaemia major have altered immune profiles, the intersection of expanded dengue syndrome with und",
       "tag": "analysis"
     },
     {
@@ -1283,6 +1304,13 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
+      "title": "Ebstein's Anomaly And Sudden Death In Adolescence: A Case Report In Barranquilla, Colombia",
+      "link": "https://doi.org/10.67440/ahj.v21i4s.1097",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.67440/ahj.v21i4s.1097\nAuthors: Clara Sofia Castiblanco Arroyave, Jorge Mario Lujan Pinzón, Jorge Mario Lujan Pinzón, Jorge Mario Lujan Pinzón, Maria Jose Martínez Viloria, Carmen María de la Rosa Villalba, Diana Carolina Ruiz Montaño, Breallan del Jesus Romero Pajaro, Olga Maza Caneva\n Introduction: Congenital heart defects, includin",
+      "tag": "analysis"
+    },
+    {
       "title": "The Resurgence of Oropouche Virus: A Review on Evolution, Epidemiology, Pathophysiology, Vaccine Development and Global Health Preparedness",
       "link": "https://doi.org/10.22207/jpam.20.3.03",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
@@ -1297,10 +1325,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Ebstein's Anomaly And Sudden Death In Adolescence: A Case Report In Barranquilla, Colombia",
-      "link": "https://doi.org/10.67440/ahj.v21i4s.1097",
+      "title": "Post-infectious dengue cerebellitis in a patient with transfusion-dependent β-thalassaemia major: A case report",
+      "link": "https://doi.org/10.4038/jccp.v57i1.8182",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.67440/ahj.v21i4s.1097\nAuthors: Clara Sofia Castiblanco Arroyave, Jorge Mario Lujan Pinzón, Jorge Mario Lujan Pinzón, Jorge Mario Lujan Pinzón, Maria Jose Martínez Viloria, Carmen María de la Rosa Villalba, Diana Carolina Ruiz Montaño, Breallan del Jesus Romero Pajaro, Olga Maza Caneva\n Introduction: Congenital heart defects, includin",
+      "desc": "DOI: 10.4038/jccp.v57i1.8182\nAuthors: R. Ginigaddarage, S. T. De Silva, A. Premawardhena\n Dengue fever is endemic in Sri Lanka and can rarely cause neurological complications, including post-infectious cerebellitis. Although patients with β-thalassaemia major have altered immune profiles, the intersection of expanded dengue syndrome with und",
       "tag": "analysis"
     },
     {
@@ -1479,17 +1507,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Donor dependency and pandemic readiness: insights from the 2026 Ebola Bundibugyo outbreak in the East African community",
-      "link": "https://doi.org/10.3389/fpubh.2026.1891266",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fpubh.2026.1891266\nAuthors: John Mugisha, Julius Niyibizi, Emmanuel Nizeyimana, Munawar Harun Koray\n The 2026 Bundibugyo virus disease (BVD) outbreak has exposed persistent weaknesses in health-security preparedness across the East African Community (EAC). Although regional preparedness has improved, major gaps remain in early d",
-      "tag": "response"
-    },
-    {
       "title": "Investigating the perspectives of Liberian frontline health workers on ethical tensions experienced during the Ebola epidemic and the COVID-19 pandemic",
       "link": "https://doi.org/10.21203/rs.3.rs-10210776/v1",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10210776/v1\nAuthors: Parnor Madjitey, Joseph M. Sieka, Marie-Edith Nepveu-Traversy, Gary Kobinger, Matthew Hunt\n Abstract \n                 Background\n Liberia’s post-civil-war healthcare system lacked effective surveillance and response measures, two key structures for monitoring the threat of communicable dise",
+      "tag": "response"
+    },
+    {
+      "title": "Donor dependency and pandemic readiness: insights from the 2026 Ebola Bundibugyo outbreak in the East African community",
+      "link": "https://doi.org/10.3389/fpubh.2026.1891266",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fpubh.2026.1891266\nAuthors: John Mugisha, Julius Niyibizi, Emmanuel Nizeyimana, Munawar Harun Koray\n The 2026 Bundibugyo virus disease (BVD) outbreak has exposed persistent weaknesses in health-security preparedness across the East African Community (EAC). Although regional preparedness has improved, major gaps remain in early d",
       "tag": "response"
     },
     {
@@ -1787,20 +1815,6 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Neurological symptoms in survivors of Ebola virus disease",
-      "link": "https://doi.org/10.1038/s41582-026-01247-2",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/s41582-026-01247-2\nAuthors: Lisa Kiani",
-      "tag": "analysis"
-    },
-    {
-      "title": "Africa’s response to this Ebola outbreak shows how to shape global health",
-      "link": "https://doi.org/10.1038/d41586-026-02148-6",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/d41586-026-02148-6\nAuthors: Safura Abdool Karim",
-      "tag": "response"
-    },
-    {
       "title": "Neurological Manifestations of Hantavirus Infection",
       "link": "https://doi.org/10.1001/jamaneurol.2026.2437",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
@@ -1812,6 +1826,20 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.9734/arjom/2026/v22i71123",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.9734/arjom/2026/v22i71123\nAuthors: George M. Mocheche\n Recurrent infectious disease outbreaks continue to challenge public health systems despite advances in surveillance and vaccination. Motivated by recurrent Ebola virus disease outbreaks in the Democratic Republic of the Congo and the potential risk of importation into Kenya, this",
+      "tag": "response"
+    },
+    {
+      "title": "Neurological symptoms in survivors of Ebola virus disease",
+      "link": "https://doi.org/10.1038/s41582-026-01247-2",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/s41582-026-01247-2\nAuthors: Lisa Kiani",
+      "tag": "analysis"
+    },
+    {
+      "title": "Africa’s response to this Ebola outbreak shows how to shape global health",
+      "link": "https://doi.org/10.1038/d41586-026-02148-6",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/d41586-026-02148-6\nAuthors: Safura Abdool Karim",
       "tag": "response"
     },
     {
@@ -1833,34 +1861,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1186/s13620-026-00354-2",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1186/s13620-026-00354-2\nAuthors: Jolien Vandewalle, Justine Clinquart, Wouter van Mol, Stan Jourquin, Bart Pardon\n Abstract \n                   \n                     Background \n                     \n                      Controlling\n                       Mycoplasma",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain",
-      "link": "https://doi.org/10.1136/bmj-2026-100286",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/bmj-2026-100286\nAuthors: Jacqui Wise",
-      "tag": "analysis"
-    },
-    {
-      "title": "A DNA-scaffolded Retron Ring Mediates Antiphage Immunity",
-      "link": "https://doi.org/10.64898/2026.07.14.737667",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.14.737667\nAuthors: Arturo Carabias, Ruiliang Zhao, Ricardo Garcia Martin, Nuria Ardid Munoz, Mario Rodriguez Mestre, Huijuan Li, Johannes Anton Kuhn, Josepha Magdalene Klas, Sarah Camara Wilpert, Dennis Zhang, Nanna Wagner, Selma Margarita Kuypers, Tillmann Pape, Soren Johannes Sorensen, Rafael Pinilla Redondo, Guillermo Monto",
-      "tag": "analysis"
-    },
-    {
-      "title": "WHO target product profile for Bundibugyo virus disease vaccines, 14 July 2026",
-      "link": "https://doi.org/10.2471/b09835",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.2471/b09835",
-      "tag": "analysis"
-    },
-    {
-      "title": "Deteriorating Humanitarian Situation of DR Congo",
-      "link": "https://doi.org/10.2174/9798898814625126010007",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.2174/9798898814625126010007\nAuthors: Sheikh Mohd Saleem, Shah Sumaya Jan, Hina Sharif\n The Democratic Republic of Congo faces multiple challenges, including\ncivil wars and heavy reliance on the mining sector. The country also has significant\npotential for eco-tourism, boasting seven major national parks with diverse wildlife,\nincludi",
       "tag": "analysis"
     }
   ],
