@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 21 Jul 2026 13:54:55 Z",
-  "fetchedAt": "2026-07-21T13:54:56Z",
+  "lastBuildDate": "Tue, 21 Jul 2026 16:23:44 Z",
+  "fetchedAt": "2026-07-21T16:23:45Z",
   "itemCount": 245,
   "stats": {
     "drc": {
@@ -96,8 +96,7 @@
       },
       "media": {
         "suspected": 1000,
-        "deaths": 930,
-        "confirmed": 2181
+        "deaths": 930
       },
       "whoDon": {
         "confirmed": 2124,
@@ -149,6 +148,27 @@
     }
   },
   "items": [
+    {
+      "title": "GPHIN Early Warning Notification: Unidentified Illness in Venezuela",
+      "link": "http://www.phac-aspc.gc.ca/gphin/",
+      "pubDate": "Tue, 21 Jul 2026 14:28:00 Z",
+      "desc": "Unclassified / Non classifié\n***Preliminary report from unofficial sources***\n \n \nLocation:\nVenezuela (states of Barinas and Anzoategui)\n \nSummary of Situation:\nAccording to a media report on July 21, the Venezuelan Medical Federation has called for an epidemiological investigation into an unidentified illness associated with deaths in the states o",
+      "tag": "cases"
+    },
+    {
+      "title": "DR Congo: Ebola outbreak still expanding, WHO sees signs of stabilization",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167983",
+      "pubDate": "Tue, 21 Jul 2026 14:28:00 Z",
+      "desc": "-- DR Congo. Significance Rating: 1 In the Democratic Republic of the Congo (DRC), UN health teams and partners are still racing to contain the rapidly expanding Ebola outbreak, despite ongoing i",
+      "tag": "analysis"
+    },
+    {
+      "title": "Health Department Alerts Public of Measles Case in Shelby County",
+      "link": "https://www.shelbytnhealth.com/m/newsflash/home/detail/613",
+      "pubDate": "Tue, 21 Jul 2026 14:23:00 Z",
+      "desc": "SHELBY COUNTY, TN Shelby County Health Department (SCHD) is alerting the public of a case of measles confirmed in Shelby County. It is the first reported case of the year in the county, but the threat to the public is thought to be low. The case is the third reported case in Tennessee this year,....",
+      "tag": "cases"
+    },
     {
       "title": "FDA Again Homes In On Taylor Farms' Lettuce As Source Of Large Cyclosporiasis Outbreak",
       "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-072126/",
@@ -325,6 +345,13 @@
       "tag": "analysis"
     },
     {
+      "title": "People with Type 2 diabetes face higher risk of severe dengue: Study",
+      "link": "https://health.economictimes.indiatimes.com/news/industry/people-with-type-2-diabetes-face-higher-risk-of-severe-dengue-study/132503942",
+      "pubDate": "Mon, 20 Jul 2026 02:12:00 Z",
+      "desc": "Thiruvananthapuram: People with Type 2 diabetes face a significantly higher risk of severe, life-threatening dengue complications, according to a review paper by leading specialists. The paper, which is slated for publication in the International Journal of Diabetes & Technology, calls for....",
+      "tag": "analysis"
+    },
+    {
       "title": "Canada to temporarily bar entry for foreigners who have recently been to Congo, against UN advice",
       "link": "https://health.economictimes.indiatimes.com/news/industry/canada-to-temporarily-bar-entry-for-foreigners-who-have-recently-been-to-congo-against-un-advice/132504025",
       "pubDate": "Mon, 20 Jul 2026 02:12:00 Z",
@@ -332,10 +359,17 @@
       "tag": "response"
     },
     {
-      "title": "People with Type 2 diabetes face higher risk of severe dengue: Study",
-      "link": "https://health.economictimes.indiatimes.com/news/industry/people-with-type-2-diabetes-face-higher-risk-of-severe-dengue-study/132503942",
-      "pubDate": "Mon, 20 Jul 2026 02:12:00 Z",
-      "desc": "Thiruvananthapuram: People with Type 2 diabetes face a significantly higher risk of severe, life-threatening dengue complications, according to a review paper by leading specialists. The paper, which is slated for publication in the International Journal of Diabetes & Technology, calls for....",
+      "title": "Prevalence and Characteristic of Human Immunodeficiency Virus (HIV) Patients in the Working Area of Mokoau Community Health Center, Kendari City, Southeast Sulawesi, for the Period 2021-2024",
+      "link": "https://doi.org/10.36685/jehs.v3i2.1776",
+      "pubDate": "Mon, 20 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.36685/jehs.v3i2.1776\nAuthors: Risnah Wati, Sarah Soraya Sirajuddin, Tsalsa Anto Ifdanunnisa, Watu Muntu\n Background: Human Immunodeficiency Virus (HIV) remains a global health issue. Southeast Sulawesi, particularly Kendari City, has experienced an increase in HIV cases in recent years. Understanding the prevalence and characteristic",
+      "tag": "cases"
+    },
+    {
+      "title": "Fine secondary aerosol predicts equine grass sickness onset: a population case-control study in the United Kingdom, 2010–2026",
+      "link": "https://doi.org/10.22541/authorea.15006319/v1",
+      "pubDate": "Mon, 20 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.22541/authorea.15006319/v1\nAuthors: Kenneth James Baird\n &lt;b&gt;Background:&lt;/b&gt; Equine grass sickness (EGS) is a frequently fatal dysautonomia, but its environmental trigger is unknown. We hypothesised that atmospheric saddle-point stagnation concentrates aerosol and reactive nitrogen over pastures before onset. &lt;b&gt;Obje",
       "tag": "analysis"
     },
     {
@@ -350,6 +384,13 @@
       "link": "https://doi.org/10.3389/fimmu.2026.1722213",
       "pubDate": "Mon, 20 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fimmu.2026.1722213\nAuthors: Stefano Mocci, Caterina Mereu, Roberto Littera, Silvia Deidda, Federica Cannas, Michela Lorrai, Elena Zedda, Michela Murgia, Celeste Sanna, Erika Giuressi, Sara Lai, Andrea Perra, Matteo Floris, Sabrina Giglio\n \n                     Background",
+      "tag": "analysis"
+    },
+    {
+      "title": "Dipeptidyl peptidase IV contributes to the pathogenesis of <i>Cryptococcus neoformans</i>",
+      "link": "https://doi.org/10.1128/mbio.01465-26",
+      "pubDate": "Mon, 20 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1128/mbio.01465-26\nAuthors: Flavia C. G. Reis, Haroldo C. Oliveira, Daniel Zamith-Miranda, Debora L. Oliveira, Bárbara T. Bezerra, Nicolly A. Sensato, Cássia M. Souza, Juliana Rizzo, Lucas de O. Las Casas, Flora Bohner, Bianca A. G. Sena, Amanda C. Camillo-Andrade, Frédérique Moyrand, Marlon D. M. Santos, Paulo C. Carvalho, Guilhem Janbon,",
       "tag": "analysis"
     },
     {
@@ -724,6 +765,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Voluminous Calcified Pericardial Cyst with Severe Right Ventricular Compression: A Multimodality Imaging Case Report",
+      "link": "https://www.semanticscholar.org/paper/23ef6c29356a81db93a951846f2f160ff9a53d6c",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/ehjcr/ytag530\nAuthors: A. Volpe, Apostolo Anna, Mancini Maria Elisabetta, L. Bussini, Pontone Gianluca\n\n \n \n Pericardial cysts are rare lesions that are typically asymptomatic. However, when large or calcified, they may compromise cardiac function.\n \n \n \n We report the case of a 57-year-old man with progressive exertional dyspnea. Mult",
+      "tag": "analysis"
+    },
+    {
       "title": "Mucosal tissue cues shape B cell memory through the IgA BCR",
       "link": "https://doi.org/10.1126/sciimmunol.adv1149",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
@@ -773,6 +821,20 @@
       "tag": "analysis"
     },
     {
+      "title": "Epidemics and Nigerian Society: Lessons from Smallpox to COVID-19",
+      "link": "https://doi.org/10.55640/jsshrf-06-07-04",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.55640/jsshrf-06-07-04\nAuthors: James Akpan Ekah, Esin Okon Eminue\n Nigeria's struggle with epidemic disease, from colonial-era smallpox campaigns to the COVID-19 pandemic, provides a century-long record of how a society has navigated between biomedical intervention and lived social experience. Historical and contemporary disease outb",
+      "tag": "analysis"
+    },
+    {
+      "title": "Calpains as Potential Regulators of Microtubule-Associated Cytokinesis: A Cross-Eukaryotic Unifying Hypothesis",
+      "link": "https://doi.org/10.3390/life16071188",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/life16071188\nAuthors: Jennifer C. Fletcher, Mary A. Biggs, Hilde-Gunn Opsahl-Sorteberg\n Calpains constitute an ancient, extensive family of calcium-dependent cysteine proteases found in some bacteria and most eukaryotes. They are involved in a wide variety of developmental and cellular processes and are implicated in major human",
+      "tag": "analysis"
+    },
+    {
       "title": "Ebola is not only Africa’s problem",
       "link": "https://doi.org/10.1080/14725843.2026.2690865",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
@@ -791,27 +853,6 @@
       "link": "https://doi.org/10.1111/exsy.70360",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1111/exsy.70360\nAuthors: Ipek Baris Schlicht, Damir Korenčić, Berta Chulvi, Lucie Flek, Paolo Rosso\n ABSTRACT \n                   Online dissemination of conspiracy theories (CTs) during epidemics poses significant risks to public health. This paper addresses the problem of detecting CTs in social media posts w",
-      "tag": "analysis"
-    },
-    {
-      "title": "Voluminous Calcified Pericardial Cyst with Severe Right Ventricular Compression: A Multimodality Imaging Case Report",
-      "link": "https://www.semanticscholar.org/paper/23ef6c29356a81db93a951846f2f160ff9a53d6c",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/ehjcr/ytag530\nAuthors: A. Volpe, Apostolo Anna, Mancini Maria Elisabetta, L. Bussini, Pontone Gianluca\n\n \n \n Pericardial cysts are rare lesions that are typically asymptomatic. However, when large or calcified, they may compromise cardiac function.\n \n \n \n We report the case of a 57-year-old man with progressive exertional dyspnea. Mult",
-      "tag": "analysis"
-    },
-    {
-      "title": "Epidemics and Nigerian Society: Lessons from Smallpox to COVID-19",
-      "link": "https://doi.org/10.55640/jsshrf-06-07-04",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.55640/jsshrf-06-07-04\nAuthors: James Akpan Ekah, Esin Okon Eminue\n Nigeria's struggle with epidemic disease, from colonial-era smallpox campaigns to the COVID-19 pandemic, provides a century-long record of how a society has navigated between biomedical intervention and lived social experience. Historical and contemporary disease outb",
-      "tag": "analysis"
-    },
-    {
-      "title": "Calpains as Potential Regulators of Microtubule-Associated Cytokinesis: A Cross-Eukaryotic Unifying Hypothesis",
-      "link": "https://doi.org/10.3390/life16071188",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/life16071188\nAuthors: Jennifer C. Fletcher, Mary A. Biggs, Hilde-Gunn Opsahl-Sorteberg\n Calpains constitute an ancient, extensive family of calcium-dependent cysteine proteases found in some bacteria and most eukaryotes. They are involved in a wide variety of developmental and cellular processes and are implicated in major human",
       "tag": "analysis"
     },
     {
@@ -1116,20 +1157,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Climate change and the growing threat of bunyaviruses",
-      "link": "https://doi.org/10.1128/jvi.01772-25",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/jvi.01772-25\nAuthors: James M. Bowen, Natasha L. Tilston\n ABSTRACT \n                   \n                     \n                     Anthropogenic climate change and its implications for infectious diseases have been central to the scientific and public health discourse for more than thr",
-      "tag": "analysis"
-    },
-    {
-      "title": "Impact of Pandemics on Alternative Measure of Economic Well-being: Evidence from Panel Data",
-      "link": "https://doi.org/10.1177/09737030261459514",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/09737030261459514\nAuthors: Swati Sinha Babu\n The present study aims at understanding how the pandemics SARS (2003), H1N1 (2009), MERS (2012), Ebola (2014), Zika (2016) and COVID-19 (2019 and 2020) have impacted the economic well-being of people across 63 countries classified into different income groups for the period from 1990",
-      "tag": "analysis"
-    },
-    {
       "title": "Myositis and flaccid paralysis caused by Powassan virus infection acquired in Manitoba, Canada",
       "link": "https://doi.org/10.3138/jammi-2025-0042",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
@@ -1172,6 +1199,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Quantifying the heterogeneity and determinants of Ebola Zaire transmission during the 10th outbreak in DRC, 2018-2020.",
+      "link": "https://doi.org/10.64898/2026.07.14.26358072",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.14.26358072\nAuthors: Soubrier, H.; Seo, D.; Barks, P.; Meakin, S.; Mossoko, M.; Kitenge, R.; Dieberg, K.; Van Herp, M.; Mambula, C.; Flasche, S.; Camacho, A.; Coulborn, R.; Simons, E.; Ahuka-Mundeke, S.; Broban, A.\nBackground. The 2018-2020 Ebola virus disease outbreak in the Democratic Republic of the Congo (DRC) was the coun",
+      "tag": "analysis"
+    },
+    {
       "title": "Can hantaviruses cause pandemics?",
       "link": "https://doi.org/10.1186/s43162-026-00662-7",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
@@ -1179,10 +1213,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Quantifying the heterogeneity and determinants of Ebola Zaire transmission during the 10th outbreak in DRC, 2018-2020.",
-      "link": "https://doi.org/10.64898/2026.07.14.26358072",
+      "title": "Impact of Pandemics on Alternative Measure of Economic Well-being: Evidence from Panel Data",
+      "link": "https://doi.org/10.1177/09737030261459514",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.14.26358072\nAuthors: Soubrier, H.; Seo, D.; Barks, P.; Meakin, S.; Mossoko, M.; Kitenge, R.; Dieberg, K.; Van Herp, M.; Mambula, C.; Flasche, S.; Camacho, A.; Coulborn, R.; Simons, E.; Ahuka-Mundeke, S.; Broban, A.\nBackground. The 2018-2020 Ebola virus disease outbreak in the Democratic Republic of the Congo (DRC) was the coun",
+      "desc": "DOI: 10.1177/09737030261459514\nAuthors: Swati Sinha Babu\n The present study aims at understanding how the pandemics SARS (2003), H1N1 (2009), MERS (2012), Ebola (2014), Zika (2016) and COVID-19 (2019 and 2020) have impacted the economic well-being of people across 63 countries classified into different income groups for the period from 1990",
+      "tag": "analysis"
+    },
+    {
+      "title": "Climate change and the growing threat of bunyaviruses",
+      "link": "https://doi.org/10.1128/jvi.01772-25",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1128/jvi.01772-25\nAuthors: James M. Bowen, Natasha L. Tilston\n ABSTRACT \n                   \n                     \n                     Anthropogenic climate change and its implications for infectious diseases have been central to the scientific and public health discourse for more than thr",
       "tag": "analysis"
     },
     {
@@ -1438,17 +1479,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Investigating the perspectives of Liberian frontline health workers on ethical tensions experienced during the Ebola epidemic and the COVID-19 pandemic",
-      "link": "https://doi.org/10.21203/rs.3.rs-10210776/v1",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10210776/v1\nAuthors: Parnor Madjitey, Joseph M. Sieka, Marie-Edith Nepveu-Traversy, Gary Kobinger, Matthew Hunt\n Abstract \n                 Background\n Liberia’s post-civil-war healthcare system lacked effective surveillance and response measures, two key structures for monitoring the threat of communicable dise",
-      "tag": "response"
-    },
-    {
       "title": "Donor dependency and pandemic readiness: insights from the 2026 Ebola Bundibugyo outbreak in the East African community",
       "link": "https://doi.org/10.3389/fpubh.2026.1891266",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fpubh.2026.1891266\nAuthors: John Mugisha, Julius Niyibizi, Emmanuel Nizeyimana, Munawar Harun Koray\n The 2026 Bundibugyo virus disease (BVD) outbreak has exposed persistent weaknesses in health-security preparedness across the East African Community (EAC). Although regional preparedness has improved, major gaps remain in early d",
+      "tag": "response"
+    },
+    {
+      "title": "Investigating the perspectives of Liberian frontline health workers on ethical tensions experienced during the Ebola epidemic and the COVID-19 pandemic",
+      "link": "https://doi.org/10.21203/rs.3.rs-10210776/v1",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10210776/v1\nAuthors: Parnor Madjitey, Joseph M. Sieka, Marie-Edith Nepveu-Traversy, Gary Kobinger, Matthew Hunt\n Abstract \n                 Background\n Liberia’s post-civil-war healthcare system lacked effective surveillance and response measures, two key structures for monitoring the threat of communicable dise",
       "tag": "response"
     },
     {
@@ -1746,20 +1787,6 @@
       "tag": "response"
     },
     {
-      "title": "Neurological Manifestations of Hantavirus Infection",
-      "link": "https://doi.org/10.1001/jamaneurol.2026.2437",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1001/jamaneurol.2026.2437\nAuthors: Avindra Nath\n \n                     Importance \n                     Hantaviruses have caused several recent human disease outbreaks. They carry a high mortality rate, and some species can spread from person to person although they are typically sp",
-      "tag": "analysis"
-    },
-    {
-      "title": "A Mathematical Framework for Ebola Virus Disease Preparedness in Kenya: Modeling Waning Immunity, Vaccination, and Re-infection Dynamics",
-      "link": "https://doi.org/10.9734/arjom/2026/v22i71123",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.9734/arjom/2026/v22i71123\nAuthors: George M. Mocheche\n Recurrent infectious disease outbreaks continue to challenge public health systems despite advances in surveillance and vaccination. Motivated by recurrent Ebola virus disease outbreaks in the Democratic Republic of the Congo and the potential risk of importation into Kenya, this",
-      "tag": "response"
-    },
-    {
       "title": "Neurological symptoms in survivors of Ebola virus disease",
       "link": "https://doi.org/10.1038/s41582-026-01247-2",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
@@ -1771,6 +1798,20 @@
       "link": "https://doi.org/10.1038/d41586-026-02148-6",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1038/d41586-026-02148-6\nAuthors: Safura Abdool Karim",
+      "tag": "response"
+    },
+    {
+      "title": "Neurological Manifestations of Hantavirus Infection",
+      "link": "https://doi.org/10.1001/jamaneurol.2026.2437",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1001/jamaneurol.2026.2437\nAuthors: Avindra Nath\n \n                     Importance \n                     Hantaviruses have caused several recent human disease outbreaks. They carry a high mortality rate, and some species can spread from person to person although they are typically sp",
+      "tag": "analysis"
+    },
+    {
+      "title": "A Mathematical Framework for Ebola Virus Disease Preparedness in Kenya: Modeling Waning Immunity, Vaccination, and Re-infection Dynamics",
+      "link": "https://doi.org/10.9734/arjom/2026/v22i71123",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.9734/arjom/2026/v22i71123\nAuthors: George M. Mocheche\n Recurrent infectious disease outbreaks continue to challenge public health systems despite advances in surveillance and vaccination. Motivated by recurrent Ebola virus disease outbreaks in the Democratic Republic of the Congo and the potential risk of importation into Kenya, this",
       "tag": "response"
     },
     {
@@ -1809,13 +1850,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Deteriorating Humanitarian Situation of DR Congo",
-      "link": "https://doi.org/10.2174/9798898814625126010007",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.2174/9798898814625126010007\nAuthors: Sheikh Mohd Saleem, Shah Sumaya Jan, Hina Sharif\n The Democratic Republic of Congo faces multiple challenges, including\ncivil wars and heavy reliance on the mining sector. The country also has significant\npotential for eco-tourism, boasting seven major national parks with diverse wildlife,\nincludi",
-      "tag": "analysis"
-    },
-    {
       "title": "WHO target product profile for Bundibugyo virus disease vaccines, 14 July 2026",
       "link": "https://doi.org/10.2471/b09835",
       "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
@@ -1823,45 +1857,10 @@
       "tag": "analysis"
     },
     {
-      "title": "TEACHING INFECTIOUS DISEASES AND EPIDEMIOLOGY AT A UNIVERSITY: TEACHER OR ARTIFICIAL INTELLIGENCE. ONE-TIME RESEARCH",
-      "link": "https://rjeid.com/1560-9529/article/view/702596",
-      "pubDate": "Mon, 13 Jul 2026 23:54:00 Z",
-      "desc": "Objective. To conduct a comparative analysis of the effectiveness of knowledge transfer to medical students between a traditional lecture delivered by an expert lecturer and a lecture fully created and presented using artificial intelligence technologies.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Africa CDC calls for more protection for health workers as deadly Ebola outbreak shows no sign of slowing",
-      "link": "https://www.cidrap.umn.edu/ebola/africa-cdc-calls-more-protection-health-workers-deadly-ebola-outbreak-shows-no-sign-slowing",
-      "pubDate": "Mon, 13 Jul 2026 21:11:00 Z",
-      "desc": "The leader of the Africa Centre for Disease Prevention and Control (Africa CDC), is calling for stronger protections for first responders, including more gear and enhanced safety protocols in light of the Ebola outbreak in the Democratic Republic of the Congo (DRC), which is officially entering its second month and showing little signs of slowed tr",
-      "tag": "analysis"
-    },
-    {
-      "title": "Africa CDC calls for more protection for health workers as deadly Ebola outbreak shows no sign of slowing",
-      "link": "https://www.cidrap.umn.edu/ebola/africa-cdc-calls-more-protection-health-workers-deadly-ebola-outbreak-shows-no-sign-slowing",
-      "pubDate": "Mon, 13 Jul 2026 21:02:00 Z",
-      "desc": "The leader of the Africa Centre for Disease Prevention and Control (Africa CDC), is calling for stronger protections for first responders, including more gear and enhanced safety protocols in light of the Ebola outbreak in the Democratic Republic of the Congo (DRC), which is officially entering its....",
-      "tag": "analysis"
-    },
-    {
-      "title": "German Hospital Treats US Ebola Patient Infected in Congo Reuters Health InformationJuly 13, 2026",
-      "link": "https://www.medscape.com/s/viewarticle/german-hospital-treats-us-ebola-patient-infected-congo-2026a1000nlr",
-      "pubDate": "Mon, 13 Jul 2026 20:37:00 Z",
-      "desc": "BERLIN, July 13 (Reuters) - A U.S. citizen infected with the Ebola virus in Democratic Republic of Congo ⁠was admitted to Frankfurt University Hospital early on Monday, officials said.\n\nThe patient arrived at the hospital's special ⁠isolation unit at around 3 a.m.",
-      "tag": "analysis"
-    },
-    {
-      "title": "刚果（金）埃博拉疫情仍未平息，蔓延至另外两省 - 观察者网",
-      "link": "https://www.guancha.cn/internation/2026_07_13_823627.shtml",
-      "pubDate": "Mon, 13 Jul 2026 20:25:00 Z",
-      "desc": "Ebola -- DR Congo. Significance Rating: 1 刚果（金）埃博拉疫情仍未平息，蔓延至另外两省&nbsp;&nbsp;观察者网",
-      "tag": "analysis"
-    },
-    {
-      "title": "Tucumán amplía la vacunación antigripal y sostiene el control epidemiológico",
-      "link": "https://msptucuman.gov.ar/tucuman-amplia-la-vacunacion-antigripal-y-sostiene-el-control-epidemiologico/",
-      "pubDate": "Mon, 13 Jul 2026 19:53:00 Z",
-      "desc": "El Ministerio de Salud Pública, bajo la conducción del doctor Luis Medina Ruiz y con el acompañamiento del gobernador Osvaldo Jaldo, llevó adelante una nueva Sala de Situación en la que se analizó el escenario epidemiológico internacional, nacional y provincial.",
+      "title": "Deteriorating Humanitarian Situation of DR Congo",
+      "link": "https://doi.org/10.2174/9798898814625126010007",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.2174/9798898814625126010007\nAuthors: Sheikh Mohd Saleem, Shah Sumaya Jan, Hina Sharif\n The Democratic Republic of Congo faces multiple challenges, including\ncivil wars and heavy reliance on the mining sector. The country also has significant\npotential for eco-tourism, boasting seven major national parks with diverse wildlife,\nincludi",
       "tag": "analysis"
     }
   ],
