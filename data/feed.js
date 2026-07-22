@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 22 Jul 2026 05:51:59 Z",
-  "fetchedAt": "2026-07-22T05:51:59Z",
+  "lastBuildDate": "Wed, 22 Jul 2026 08:31:36 Z",
+  "fetchedAt": "2026-07-22T08:31:36Z",
   "itemCount": 245,
   "stats": {
     "drc": {
@@ -151,6 +151,27 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "The-bulletin-week-28-from-6th-to-12th-July-2026-1",
+      "link": "https://www.rbc.gov.rw/fileadmin/user_upload/bulletin/2026/The%20bulletin%20week%2028%20from%206th%20to%2012th%20July%202026.pdf",
+      "pubDate": "Wed, 22 Jul 2026 07:53:00 Z",
+      "desc": "Bushenge PH, Murunda DH and Gahini DH (each reported 3 perinatal deaths) 1Weekly Epidemiological Bulletin | Week 12 06-12 July 202628WEEK WEEKLY EPIDEMIOLOGICAL BULLETIN Bushenge PH, Murunda DH and Gahini DH (each reported 3 perinatal deaths) 9 human deaths 1 human illness 2 animal deaths 7 dog....",
+      "tag": "cases"
+    },
+    {
+      "title": "Africa’s vaccine ambitions must move beyond fill-and-finish",
+      "link": "https://www.nature.com/articles/d44148-026-00207-8",
+      "pubDate": "Wed, 22 Jul 2026 07:50:00 Z",
+      "desc": "Long before a vaccine enters production, much of its scientific groundwork has already been laid. By then, researchers have identified the pathogen, selected the part most likely to trigger a protective immune response, chosen a technology platform, designed early laboratory studies, planned....",
+      "tag": "response"
+    },
+    {
+      "title": "Les ambitions de l’Afrique en matière de vaccins doivent aller au-delà du simple conditionnement",
+      "link": "https://www.nature.com/articles/d44148-026-00206-9",
+      "pubDate": "Wed, 22 Jul 2026 07:50:00 Z",
+      "desc": "La mise en place de chaînes de production de haute technologie ne constitue qu’une partie du processus de développement des vaccins. Crédit : Stanislav Gvozd/iStock/Getty Images Plus. Bien avant qu’un vaccin n’entre en production, une grande partie de son travail scientifique préparatoire a déjà été effectuée.",
+      "tag": "analysis"
+    },
     {
       "title": "A peace-positive enterprise for the Global South: Problem statements and paths forward conceptualized through a mediation lens",
       "link": "https://link.springer.com/article/10.1186/s40309-026-00285-9",
@@ -425,6 +446,13 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
+      "title": "Más Allá del Ébola: Cultura Preventiva y Vigilancia Epidemiológica Ante el Mundial Fifa 2026. La Vigilancia Epidemiológica Protege a la Población; la Educación Construye una Sociedad Capaz de Protegerse a Sí Misma",
+      "link": "https://doi.org/10.63371/ic.v5.n3.a1387",
+      "pubDate": "Mon, 20 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.63371/ic.v5.n3.a1387\nAuthors: Montserrat Legorreta Rojas, Ulises Trejo Amador\n The Ebola virus disease has represented one of the greatest challenges to global public health, not only because of its high mortality rate, but also because it highlighted the limitations of healthcare systems and the importance of societal preparedness f",
+      "tag": "response"
+    },
+    {
       "title": "Fine secondary aerosol predicts equine grass sickness onset: a population case-control study in the United Kingdom, 2010–2026",
       "link": "https://doi.org/10.22541/authorea.15006319/v1",
       "pubDate": "Mon, 20 Jul 2026 00:00:00 Z",
@@ -439,20 +467,6 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Más Allá del Ébola: Cultura Preventiva y Vigilancia Epidemiológica Ante el Mundial Fifa 2026. La Vigilancia Epidemiológica Protege a la Población; la Educación Construye una Sociedad Capaz de Protegerse a Sí Misma",
-      "link": "https://doi.org/10.63371/ic.v5.n3.a1387",
-      "pubDate": "Mon, 20 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.63371/ic.v5.n3.a1387\nAuthors: Montserrat Legorreta Rojas, Ulises Trejo Amador\n The Ebola virus disease has represented one of the greatest challenges to global public health, not only because of its high mortality rate, but also because it highlighted the limitations of healthcare systems and the importance of societal preparedness f",
-      "tag": "response"
-    },
-    {
-      "title": "Configurationally Locked Ridaifen-B Analogs as Potent Ebola Virus Entry Inhibitors",
-      "link": "https://doi.org/10.1021/acs.jmedchem.6c00260",
-      "pubDate": "Mon, 20 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1021/acs.jmedchem.6c00260\nAuthors: Shaimaa M. Aboukhatwa, Carolina Q. Sacramento, Kimberly M. Morsheimer, Christian A. Zelinski, Ryan Bott, Murugesh Venkatesh, Callum D. Owen, Robert A. Davey, Irina N. Gaisina, Lijun Rong, Terry W. Moore",
-      "tag": "analysis"
-    },
-    {
       "title": "Diagnostic delay and histopathological subtyping challenges in idiopathic multicentric Castleman disease, not otherwise specified: a case report of a three-hospital odyssey",
       "link": "https://doi.org/10.3389/fmed.2026.1829540",
       "pubDate": "Mon, 20 Jul 2026 00:00:00 Z",
@@ -464,6 +478,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.3389/fimmu.2026.1722213",
       "pubDate": "Mon, 20 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fimmu.2026.1722213\nAuthors: Stefano Mocci, Caterina Mereu, Roberto Littera, Silvia Deidda, Federica Cannas, Michela Lorrai, Elena Zedda, Michela Murgia, Celeste Sanna, Erika Giuressi, Sara Lai, Andrea Perra, Matteo Floris, Sabrina Giglio\n \n                     Background",
+      "tag": "analysis"
+    },
+    {
+      "title": "Configurationally Locked Ridaifen-B Analogs as Potent Ebola Virus Entry Inhibitors",
+      "link": "https://doi.org/10.1021/acs.jmedchem.6c00260",
+      "pubDate": "Mon, 20 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1021/acs.jmedchem.6c00260\nAuthors: Shaimaa M. Aboukhatwa, Carolina Q. Sacramento, Kimberly M. Morsheimer, Christian A. Zelinski, Ryan Bott, Murugesh Venkatesh, Callum D. Owen, Robert A. Davey, Irina N. Gaisina, Lijun Rong, Terry W. Moore",
       "tag": "analysis"
     },
     {
@@ -936,11 +957,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Human pegivirus, Toscana virus and herpesviruses identified in cerebrospinal fluid from adults with unexplained neurologic disease, Spain, 2022–2023",
-      "link": "https://doi.org/10.1099/jgv.0.002302",
+      "title": "Cross-border travel patterns affect magnitude estimates for the Ebola Bundibugyo epidemic",
+      "link": "https://doi.org/10.1038/s44360-026-00178-y",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1099/jgv.0.002302\nAuthors: Ana Donoso, Ana Belén Pérez, Marcos Lopez-Dosil, Ana Vázquez, Fabiana Gámbaro, María Paz Sánchez-Seco, Luis Martinez-Martinez, Maria Cabrerizo, David Tarragó, Maria Dolores Fernandez-Garcia\n \n                    Viral central nervous system (CNS) infections in adults frequently remain unresolved after routi",
-      "tag": "analysis"
+      "desc": "DOI: 10.1038/s44360-026-00178-y\nAuthors: Younjung Kim, Cathal Mills, Christl A. Donnelly\n Abstract \n                   A geographic spread approach is often used to estimate the true burden of infectious disease cases in a source population by leveraging statistical signals generated by cases exported and reported else",
+      "tag": "cases"
     },
     {
       "title": "Evidence for a detection ceiling in the 2026 Bundibugyo virus disease epidemic in the Democratic Republic of the Congo: an analysis of publicly reported aggregate surveillance data",
@@ -948,27 +969,6 @@ window.FEED_DATA = {
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.16.26358218\nAuthors: Bouhentala, O. W.; Kadir, M. Y.\nBackground. The 2026 Bundibugyo virus disease (BVD) epidemic in the Democratic Republic of the Congo (DRC) was declared on 15 May 2026 and determined a public health emergency of international concern on 17 May 2026. Public surveillance reporting consists of cumulative count",
       "tag": "pheic"
-    },
-    {
-      "title": "INTS6 loss of function disrupts transcriptional regulation in mild intellectual disability",
-      "link": "https://doi.org/10.64898/2026.07.17.737701",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.17.737701\nAuthors: Jalkanen, N.; Trontti, K.; Norppa, A. J.; Rahikkala, E.; Lilis, P.; Puigdevall, P.; Ivancic, L.; Niemimaa, N.; Vuokila, V.; Assaf, N.; Urpa, L.; Kurki, M.; Hämäläinen, E.; Kuismin, O.; Palotie, A.; Frilander, M. J.; Kilpinen, H.; Pietiläinen, O.\nPathogenic variants in genes involved in transcriptional re",
-      "tag": "analysis"
-    },
-    {
-      "title": "K4DD Ebola Evidence and Discourse Summary July 2026: No 3",
-      "link": "https://doi.org/10.19088/k4dd.2026.065",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.19088/k4dd.2026.065\nAuthors: Ismael Kawooya\n The Ebola Health Evidence and Discourse Summaries aim to signpost the FCDO and others to the latest relevant evidence and discourse regarding the ongoing Ebola Virus Disease outbreak.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Cross-border travel patterns affect magnitude estimates for the Ebola Bundibugyo epidemic",
-      "link": "https://doi.org/10.1038/s44360-026-00178-y",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/s44360-026-00178-y\nAuthors: Younjung Kim, Cathal Mills, Christl A. Donnelly\n Abstract \n                   A geographic spread approach is often used to estimate the true burden of infectious disease cases in a source population by leveraging statistical signals generated by cases exported and reported else",
-      "tag": "cases"
     },
     {
       "title": "Nocturnal Cerebral Oxygenation in Low‐Altitude Residents With Pulmonary Vascular Disease Staying Overnight at High Altitude. Data From a Randomized, Controlled, Crossover Trial",
@@ -982,6 +982,27 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.64898/2026.07.17.737701",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.17.737701\nAuthors: Nelli Jalkanen, Kalevi Trontti, Antto J Norppa, Elisa Rahikkala, Panagiotis Lilis, Pau Puigdevall, Leena Ivancic, Nea Niemimaa, Veikko Vuokila, Nour Assaf, Lea Urpa, Mitja Kurki, Eija Hämäläinen, Outi Kuismin, Aarno Palotie, Mikko J Frilander, Helena Kilpinen, Olli Pietiläinen\n Pathogenic variants in",
+      "tag": "analysis"
+    },
+    {
+      "title": "Human pegivirus, Toscana virus and herpesviruses identified in cerebrospinal fluid from adults with unexplained neurologic disease, Spain, 2022–2023",
+      "link": "https://doi.org/10.1099/jgv.0.002302",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1099/jgv.0.002302\nAuthors: Ana Donoso, Ana Belén Pérez, Marcos Lopez-Dosil, Ana Vázquez, Fabiana Gámbaro, María Paz Sánchez-Seco, Luis Martinez-Martinez, Maria Cabrerizo, David Tarragó, Maria Dolores Fernandez-Garcia\n \n                    Viral central nervous system (CNS) infections in adults frequently remain unresolved after routi",
+      "tag": "analysis"
+    },
+    {
+      "title": "K4DD Ebola Evidence and Discourse Summary July 2026: No 3",
+      "link": "https://doi.org/10.19088/k4dd.2026.065",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.19088/k4dd.2026.065\nAuthors: Ismael Kawooya\n The Ebola Health Evidence and Discourse Summaries aim to signpost the FCDO and others to the latest relevant evidence and discourse regarding the ongoing Ebola Virus Disease outbreak.",
+      "tag": "analysis"
+    },
+    {
+      "title": "INTS6 loss of function disrupts transcriptional regulation in mild intellectual disability",
+      "link": "https://doi.org/10.64898/2026.07.17.737701",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.17.737701\nAuthors: Jalkanen, N.; Trontti, K.; Norppa, A. J.; Rahikkala, E.; Lilis, P.; Puigdevall, P.; Ivancic, L.; Niemimaa, N.; Vuokila, V.; Assaf, N.; Urpa, L.; Kurki, M.; Hämäläinen, E.; Kuismin, O.; Palotie, A.; Frilander, M. J.; Kilpinen, H.; Pietiläinen, O.\nPathogenic variants in genes involved in transcriptional re",
       "tag": "analysis"
     },
     {
@@ -1321,20 +1342,6 @@ window.FEED_DATA = {
       "tag": "pheic"
     },
     {
-      "title": "Altered gene expression in the liver and small intestine of horses with equine neuroaxonal dystrophy",
-      "link": "https://doi.org/10.1002/evj.70216",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/evj.70216\nAuthors: Stephanie Ryan, Blythe Durbin‐Johnson, Kevin Woolard, Andrew D. Miller, Carrie J. Finno\n Abstract \n                   \n                     Background \n                     Equine neuroaxonal dystrophy/degenerative myeloencephalopathy (eNAD/EDM) is the sec",
-      "tag": "analysis"
-    },
-    {
-      "title": "Screening and monitoring of travellers returning from countries affected by Bundibugyo virus: an overview of European approaches, July 2026",
-      "link": "https://doi.org/10.2807/1560-7917.es.2026.31.28.2600578",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.2807/1560-7917.es.2026.31.28.2600578\n The 2026 Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda has prompted European countries and the United States to revise measures for travellers, healthcare workers and humanitarian personnel returning from affected areas. We compare current procedures",
-      "tag": "response"
-    },
-    {
       "title": "Integrated surveillance, virus isolation and phylogenetic characterization of Crimean-Congo hemorrhagic fever virus in Central Kazakhstan",
       "link": "https://doi.org/10.3389/fvets.2026.1879322",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
@@ -1349,6 +1356,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Altered gene expression in the liver and small intestine of horses with equine neuroaxonal dystrophy",
+      "link": "https://doi.org/10.1002/evj.70216",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/evj.70216\nAuthors: Stephanie Ryan, Blythe Durbin‐Johnson, Kevin Woolard, Andrew D. Miller, Carrie J. Finno\n Abstract \n                   \n                     Background \n                     Equine neuroaxonal dystrophy/degenerative myeloencephalopathy (eNAD/EDM) is the sec",
+      "tag": "analysis"
+    },
+    {
       "title": "Exploring the Potential Contribution of Climate-Informed Research to Future Ebola Preparedness in Central Africa",
       "link": "https://doi.org/10.3390/v18070782",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
@@ -1356,18 +1370,11 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Post-infectious dengue cerebellitis in a patient with transfusion-dependent β-thalassaemia major: A case report",
-      "link": "https://doi.org/10.4038/jccp.v57i1.8182",
+      "title": "Screening and monitoring of travellers returning from countries affected by Bundibugyo virus: an overview of European approaches, July 2026",
+      "link": "https://doi.org/10.2807/1560-7917.es.2026.31.28.2600578",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4038/jccp.v57i1.8182\nAuthors: R. Ginigaddarage, S. T. De Silva, A. Premawardhena\n Dengue fever is endemic in Sri Lanka and can rarely cause neurological complications, including post-infectious cerebellitis. Although patients with β-thalassaemia major have altered immune profiles, the intersection of expanded dengue syndrome with und",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebstein's Anomaly And Sudden Death In Adolescence: A Case Report In Barranquilla, Colombia",
-      "link": "https://doi.org/10.67440/ahj.v21i4s.1097",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.67440/ahj.v21i4s.1097\nAuthors: Clara Sofia Castiblanco Arroyave, Jorge Mario Lujan Pinzón, Jorge Mario Lujan Pinzón, Jorge Mario Lujan Pinzón, Maria Jose Martínez Viloria, Carmen María de la Rosa Villalba, Diana Carolina Ruiz Montaño, Breallan del Jesus Romero Pajaro, Olga Maza Caneva\n Introduction: Congenital heart defects, includin",
-      "tag": "analysis"
+      "desc": "DOI: 10.2807/1560-7917.es.2026.31.28.2600578\n The 2026 Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda has prompted European countries and the United States to revise measures for travellers, healthcare workers and humanitarian personnel returning from affected areas. We compare current procedures",
+      "tag": "response"
     },
     {
       "title": "The Resurgence of Oropouche Virus: A Review on Evolution, Epidemiology, Pathophysiology, Vaccine Development and Global Health Preparedness",
@@ -1381,6 +1388,20 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.21070/medicra.v9i1.1824",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.21070/medicra.v9i1.1824\nAuthors: Tri Ade Saputro, Nur Vita Purwaningsih, Waras Budiman, Mulya Fitrah Juniawan\n Dengue Hemorrhagic Fever (DHF) remains a major health problem in endemic regions, requiring accurate laboratory examinations to support diagnosis. Serological testing of immunoglobulin G (IgG) and immunoglobulin M (IgM) is w",
+      "tag": "analysis"
+    },
+    {
+      "title": "Post-infectious dengue cerebellitis in a patient with transfusion-dependent β-thalassaemia major: A case report",
+      "link": "https://doi.org/10.4038/jccp.v57i1.8182",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.4038/jccp.v57i1.8182\nAuthors: R. Ginigaddarage, S. T. De Silva, A. Premawardhena\n Dengue fever is endemic in Sri Lanka and can rarely cause neurological complications, including post-infectious cerebellitis. Although patients with β-thalassaemia major have altered immune profiles, the intersection of expanded dengue syndrome with und",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebstein's Anomaly And Sudden Death In Adolescence: A Case Report In Barranquilla, Colombia",
+      "link": "https://doi.org/10.67440/ahj.v21i4s.1097",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.67440/ahj.v21i4s.1097\nAuthors: Clara Sofia Castiblanco Arroyave, Jorge Mario Lujan Pinzón, Jorge Mario Lujan Pinzón, Jorge Mario Lujan Pinzón, Maria Jose Martínez Viloria, Carmen María de la Rosa Villalba, Diana Carolina Ruiz Montaño, Breallan del Jesus Romero Pajaro, Olga Maza Caneva\n Introduction: Congenital heart defects, includin",
       "tag": "analysis"
     },
     {
@@ -1601,6 +1622,20 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "From Array-CGH to Whole-Genome Sequencing: A 29-Year Diagnostic Journey Culminating in the Identification of a De Novo ABCC9 Variant Consistent with Cantú Syndrome",
+      "link": "https://doi.org/10.3390/diagnostics16142204",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/diagnostics16142204\nAuthors: Chung-Lin Lee, Ya-Hui Chang, Chih-Kuang Chuang, Huei-Ching Chiu, Yuan-Rong Tu, Yun-Ting Lo, Jun-Yi Wu, Hsiang-Yu Lin, Shuan-Pei Lin\n Background and Clinical Significance: Cantú syndrome (OMIM #239850) is a rare autosomal dominant disorder caused by gain-of-function variants in ABCC9 or KCNJ8, which e",
+      "tag": "analysis"
+    },
+    {
+      "title": "Insulated at home, indispensable abroad: positioning India's global health strategy after the 2025 contraction in development assistance",
+      "link": "https://doi.org/10.3389/frhs.2026.1903108",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/frhs.2026.1903108\nAuthors: Shyamkumar Sriram\n In 2025, development assistance for health fell by about 21% in a single year, driven largely by a 67% cut in United States financing. India sits in an unusual dual position: its core disease programmes, including tuberculosis treatment, are largely domestically financed and comparat",
+      "tag": "analysis"
+    },
+    {
       "title": "Crimean-Congo hemorrhagic fever virus in the last four decades (1981–2025): global output, collaboration networks, and emerging frontiers",
       "link": "https://doi.org/10.1007/s11250-026-05209-0",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
@@ -1615,17 +1650,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Insulated at home, indispensable abroad: positioning India's global health strategy after the 2025 contraction in development assistance",
-      "link": "https://doi.org/10.3389/frhs.2026.1903108",
+      "title": "Hantavirus and Middle East Public Health Challenges: A Subject Review",
+      "link": "https://doi.org/10.59324/ejeba.2026.3(4).04",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/frhs.2026.1903108\nAuthors: Shyamkumar Sriram\n In 2025, development assistance for health fell by about 21% in a single year, driven largely by a 67% cut in United States financing. India sits in an unusual dual position: its core disease programmes, including tuberculosis treatment, are largely domestically financed and comparat",
+      "desc": "DOI: 10.59324/ejeba.2026.3(4).04\nAuthors: Jihad Abdulameer Ahmed, Aseel Kamil Hameed\n Hantaviruses are emerging zoonotic viruses belonging to the family Hantaviridae, which are typically found in rodent reservoirs and transmitted to humans through contact with contaminated saliva, aerosolized particles or excreta. There are two major clinica",
       "tag": "analysis"
     },
     {
-      "title": "From Array-CGH to Whole-Genome Sequencing: A 29-Year Diagnostic Journey Culminating in the Identification of a De Novo ABCC9 Variant Consistent with Cantú Syndrome",
-      "link": "https://doi.org/10.3390/diagnostics16142204",
+      "title": "Evaluation of Novel Cloxyquin Analogs for K <sub>2P</sub> 18.1 Channel Modulation",
+      "link": "https://doi.org/10.1002/ardp.70310",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/diagnostics16142204\nAuthors: Chung-Lin Lee, Ya-Hui Chang, Chih-Kuang Chuang, Huei-Ching Chiu, Yuan-Rong Tu, Yun-Ting Lo, Jun-Yi Wu, Hsiang-Yu Lin, Shuan-Pei Lin\n Background and Clinical Significance: Cantú syndrome (OMIM #239850) is a rare autosomal dominant disorder caused by gain-of-function variants in ABCC9 or KCNJ8, which e",
+      "desc": "DOI: 10.1002/ardp.70310\nAuthors: Jasmin Sörgel, Marcel Kloth, Henning Klaasen, Sven G. Meuth, Thomas Budde, Bart Jan Ravoo, Julian A. Schreiber\n ABSTRACT \n                   \n                    K\n                     2P \n                    18.1 (TRESK) displays one of the most unusual two pore doma",
+      "tag": "analysis"
+    },
+    {
+      "title": "Bundibugyo Virus Disease: Diagnostics and Medical Countermeasures for a Neglected Ebolavirus",
+      "link": "https://doi.org/10.3390/v18070775",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/v18070775\nAuthors: Katharina Kopp\n Bundibugyo virus disease, caused by Bundibugyo virus (Orthoebolavirus bundibugyoense), is a severe human Ebola disease with substantial mortality, unresolved reservoir ecology, limited diagnostic implementation, and no licensed vaccines or therapeutics specifically approved for this Orthoebolav",
       "tag": "analysis"
     },
     {
@@ -1654,27 +1696,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1177/19450265261469737",
       "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1177/19450265261469737\nAuthors: Sauda Sumaya Dina, Somzida Akter Moni, Faisal Abdullah Emon, Rajib Das, C.M. Shaheen Kabir, Md Abdul Muhit, Nahid Sharmin, Sheikh Zahir Raihan\n \n                     Background: \n                     \n                      Glutathione-S-transferases (GSTs) play an import",
-      "tag": "analysis"
-    },
-    {
-      "title": "Evaluation of Novel Cloxyquin Analogs for K <sub>2P</sub> 18.1 Channel Modulation",
-      "link": "https://doi.org/10.1002/ardp.70310",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/ardp.70310\nAuthors: Jasmin Sörgel, Marcel Kloth, Henning Klaasen, Sven G. Meuth, Thomas Budde, Bart Jan Ravoo, Julian A. Schreiber\n ABSTRACT \n                   \n                    K\n                     2P \n                    18.1 (TRESK) displays one of the most unusual two pore doma",
-      "tag": "analysis"
-    },
-    {
-      "title": "Hantavirus and Middle East Public Health Challenges: A Subject Review",
-      "link": "https://doi.org/10.59324/ejeba.2026.3(4).04",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.59324/ejeba.2026.3(4).04\nAuthors: Jihad Abdulameer Ahmed, Aseel Kamil Hameed\n Hantaviruses are emerging zoonotic viruses belonging to the family Hantaviridae, which are typically found in rodent reservoirs and transmitted to humans through contact with contaminated saliva, aerosolized particles or excreta. There are two major clinica",
-      "tag": "analysis"
-    },
-    {
-      "title": "Bundibugyo Virus Disease: Diagnostics and Medical Countermeasures for a Neglected Ebolavirus",
-      "link": "https://doi.org/10.3390/v18070775",
-      "pubDate": "Wed, 15 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/v18070775\nAuthors: Katharina Kopp\n Bundibugyo virus disease, caused by Bundibugyo virus (Orthoebolavirus bundibugyoense), is a severe human Ebola disease with substantial mortality, unresolved reservoir ecology, limited diagnostic implementation, and no licensed vaccines or therapeutics specifically approved for this Orthoebolav",
       "tag": "analysis"
     },
     {
@@ -1720,17 +1741,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "What we truly know about the huge US Cyclospora outbreak—and what we don’t",
-      "link": "https://www.cidrap.umn.edu/cyclospora/what-we-truly-know-about-huge-us-cyclospora-outbreak-and-what-we-don-t",
-      "pubDate": "Tue, 14 Jul 2026 20:12:00 Z",
-      "desc": "As the number of cases of cyclosporiasis—infection with Cyclospora —grows across the country and stories about explosive diarrhea spread, many people don’t know what to do to avoid the illness. There’s a lot of uncertainty, leaving them with many questions and few good answers.",
-      "tag": "cases"
-    },
-    {
       "title": "US emergency departments seeing fewer C difficile cases, study finds",
       "link": "https://www.cidrap.umn.edu/clostridium-difficile/us-emergency-departments-seeing-fewer-c-difficile-cases-study-finds",
       "pubDate": "Tue, 14 Jul 2026 20:12:00 Z",
       "desc": "World Bank / Vincent Tremeau/Flickr cc. were enrolled in a trial testing Gilead Sciences' experimental antiviral drug obeldesivir as post-exposure prophylaxis (PEP, for preventing disease) for the ‌ongoing Bundibugyo Ebola outbreak in the Democratic Republic of the Congo (DRC).",
+      "tag": "cases"
+    },
+    {
+      "title": "What we truly know about the huge US Cyclospora outbreak—and what we don’t",
+      "link": "https://www.cidrap.umn.edu/cyclospora/what-we-truly-know-about-huge-us-cyclospora-outbreak-and-what-we-don-t",
+      "pubDate": "Tue, 14 Jul 2026 20:12:00 Z",
+      "desc": "As the number of cases of cyclosporiasis—infection with Cyclospora —grows across the country and stories about explosive diarrhea spread, many people don’t know what to do to avoid the illness. There’s a lot of uncertainty, leaving them with many questions and few good answers.",
       "tag": "cases"
     },
     {
@@ -1776,18 +1797,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Ebola Cases In Congo Are Grossly Undercounted, WHO Says",
-      "link": "https://kffhealthnews.org/morning-breakout/ebola-071426/",
-      "pubDate": "Tue, 14 Jul 2026 13:15:00 Z",
-      "desc": "World health officials think the true number of cases is possibly four times greater than the nearly 2,000 cases that health officials in Congo are reporting. Meanwhile, a WHO official is pleading with the global community to continue sending pledged donations to help Congo fight the deadly Bundibugyo outbreak.",
-      "tag": "cases"
-    },
-    {
       "title": "Viewpoints: How Health Systems Can Protect Patients From 'Deepfake' Docs; Writing Fat Emergency Checks For Ebola Is The Wrong Strategy",
       "link": "https://kffhealthnews.org/morning-breakout/viewpoints-needs-headline-please/",
       "pubDate": "Tue, 14 Jul 2026 13:15:00 Z",
       "desc": "Imagine a patient who arrives at her doctor’s clinic furious. She shows her doctor a video of him — white coat, plausible exam room, familiar cadence — endorsing an over-the-counter hormone supplement for menopausal symptoms, dismissing standard therapies as “pharma scams,” and offering a discount code.",
       "tag": "analysis"
+    },
+    {
+      "title": "Ebola Cases In Congo Are Grossly Undercounted, WHO Says",
+      "link": "https://kffhealthnews.org/morning-breakout/ebola-071426/",
+      "pubDate": "Tue, 14 Jul 2026 13:15:00 Z",
+      "desc": "World health officials think the true number of cases is possibly four times greater than the nearly 2,000 cases that health officials in Congo are reporting. Meanwhile, a WHO official is pleading with the global community to continue sending pledged donations to help Congo fight the deadly Bundibugyo outbreak.",
+      "tag": "cases"
     },
     {
       "title": "MINISTRY OF HEALTH CONVENES EBOLA ACCOUNTABILITY FORUM TO STRENGTHEN TRANSPARENCY AND PARTNER COORDINATION",
@@ -1844,27 +1865,6 @@ window.FEED_DATA = {
       "pubDate": "Tue, 14 Jul 2026 07:25:00 Z",
       "desc": "Chronic/Non-Infectious Disease -- Colombia. Significance Rating: 1 OMS añade la primera prueba molecular de Ébola de Bundibugyo a lista de uso en emergencias&nbsp;&nbsp;labmedica.es",
       "tag": "analysis"
-    },
-    {
-      "title": "The Diagnostic testing for Ebola disease and Marburg virus disease: interim guidance, 9 July 2026",
-      "link": "https://www.who.int/publications/i/item/B09834",
-      "pubDate": "Tue, 14 Jul 2026 06:58:00 Z",
-      "desc": "Overview. Rapid diagnosis of Ebola disease (EBOD) and Marburg virus disease (MVD) is critical to provide timely and appropriate care and stop transmission. These diseases can be difficult to clinically distinguish from other infectious diseases such as malaria, and countermeasures, including....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Original Research Accepted on 13 Jul 2026 In vitro cytotoxic and anti-inflammatory activities of Ayapana triplinervis essential oil and hydroethanolic extract in Biological Activities of Natural Products Lucas Gabriel V. Barbosa Luana de Sousa P. Barros Alexandre Motta da Silva Leandra Feliz Santos Renata Cunha Silva Carlos Vinícius A.",
-      "link": "https://www.frontiersin.org/journals/natural-products/articles/10.3389/fntpr.2026.1888636/abstract",
-      "pubDate": "Tue, 14 Jul 2026 00:37:00 Z",
-      "desc": "Abstract. Ayapana triplinervis is used in traditional medicine to manage diarrhea, constipation, fever, and hemorrhagic. This study evaluates the cytotoxic and anti-inflammatory activity of the essential oil (AtEO) and hydroethanolic extract (AtHE) of A. triplinervis. The AtEO was obtained by hydrodistillation and analyzed by GC-MS.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Perspective Accepted on 13 Jul 2026 From reactive trials to regional vaccine sovereignty: A pan-ebolavirus vaccine-readiness framework for East Africa's Sudan virus and Bundibugyo virus threats in Public Health Policy Ugwu Okechukwu Paul-Chima Chinyere Nneoma Ugwu Godson Emeka Anyanwu Mariam Basajja....",
-      "link": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1890576/abstract",
-      "pubDate": "Tue, 14 Jul 2026 00:01:00 Z",
-      "desc": "Abstract. Vaccines have transformed preparedness for Zaire ebolavirus disease, but East Africa still faces recurrent risk from Sudan virus and Bundibugyo virus, for which licensed and routinely deployable vaccines remain unavailable. Uganda's 2025 Sudan virus disease outbreak changed the field....",
-      "tag": "response"
     }
   ],
   "highWater": {
