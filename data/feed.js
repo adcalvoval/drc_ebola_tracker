@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 23 Jul 2026 19:20:20 Z",
-  "fetchedAt": "2026-07-23T19:20:21Z",
+  "lastBuildDate": "Thu, 23 Jul 2026 22:05:50 Z",
+  "fetchedAt": "2026-07-23T22:05:51Z",
   "itemCount": 247,
   "stats": {
     "drc": {
@@ -98,7 +98,7 @@ window.FEED_DATA = {
         "confirmed": 2
       },
       "media": {
-        "deaths": 930,
+        "deaths": 1035,
         "suspected": 17500
       },
       "whoDon": {
@@ -151,6 +151,27 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "Quick takes: Ebola death toll tops 1,000, Delaware declares measles outbreak, H9N2 avian flu in China",
+      "link": "https://www.cidrap.umn.edu/ebola/quick-takes-ebola-death-toll-tops-1000-delaware-declares-measles-outbreak-h9n2-avian-flu",
+      "pubDate": "Thu, 23 Jul 2026 20:53:00 Z",
+      "desc": "News brief\n      \n            Today at 8:12 p.m.\n      \n  \n\n  The death toll in the Ebola outbreak in the Democratic Republic of the Congo (DRC) has officially topped 1,000, with 1,035 fatalities reported yesterday among 2,557 cases. Ituri province in the DRC accounts fo",
+      "tag": "cases"
+    },
+    {
+      "title": "Recommandations sanitaires pour les événements WorldPride aux Pays-Bas, 2026 Patrick GEROME - 23/07/2026 Lire plus➟",
+      "link": "https://www.mesvaccins.net/web/news/24298-recommandations-sanitaires-pour-les-evenements-worldpride-aux-pays-bas-2026",
+      "pubDate": "Thu, 23 Jul 2026 20:49:00 Z",
+      "desc": "WorldPride 2026, la plus grande célébration LGBTQI+ au monde, se tiendra à Amsterdam, aux Pays-Bas, du 25 juillet au 8 août 2026. Les canaux et parcs historiques d'Amsterdam se transformeront en véritables pôles d'attraction pour la musique, la culture et les rassemblements communautaires, et....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Quick takes: Ebola death toll tops 1,000, Delaware declares measles outbreak, H9N2 avian flu in China",
+      "link": "https://www.cidrap.umn.edu/ebola/quick-takes-ebola-death-toll-tops-1000-delaware-declares-measles-outbreak-h9n2-avian-flu",
+      "pubDate": "Thu, 23 Jul 2026 20:44:00 Z",
+      "desc": "COVID vaccination during pregnancy didn’t increase poor infant outcomes, data suggest.\n\nBig Joe / iStock. A yesterday in the Journal of Pediatric Health Care finds no difference in any of 13 US infant health outcomes and conditions before the COVID-19 pandemic and after their mothers were vaccinated....",
+      "tag": "analysis"
+    },
     {
       "title": "La NASA trompée pendant 30 ans : un objet classé comme un astéroïde était en fait… une comète",
       "link": "https://www.science-et-vie.com/ciel-et-espace/la-nasa-trompee-pendant-30-ans-un-objet-classe-comme-un-asteroide-etait-en-fait-une-comete-251083.html",
@@ -411,13 +432,6 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "26 September 2022 | Feature Story Curbing Ebola resurgence risk among survivors in Democratic Republic of the Congo",
-      "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/curbing-ebola-resurgence-risk-among-survivors-democratic-republic-congo",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Kinshasa – In 2018, World Health Organization (WHO), working with the Democratic Republic of the Congo health authorities and other health partners, set up a programme to monitor the health of Ebola survivors and support them in their recovery. Dr Raymond Pallawo, a WHO epidemiologist and the....",
-      "tag": "analysis"
-    },
-    {
       "title": "3 November 2022 | News Release The greater Horn of Africa’s climate-related health crisis worsens as disease outbreaks surge",
       "link": "https://www.afro.who.int/news/greater-horn-africas-climate-related-health-crisis-worsens-disease-outbreaks-surge",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
@@ -556,6 +570,13 @@ window.FEED_DATA = {
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
       "desc": "Kinshasa – More than 14 African countries have reported cholera cases since January 2022. In the Democratic Republic of the Congo, this acute diarrhoeal disease is endemic in several provinces. Since the beginning of the year, more than 12 300 suspected cases have been reported, including 222 deaths, in 17 of the country's 26 provinces.",
       "tag": "cases"
+    },
+    {
+      "title": "26 September 2022 | Feature Story Curbing Ebola resurgence risk among survivors in Democratic Republic of the Congo",
+      "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/curbing-ebola-resurgence-risk-among-survivors-democratic-republic-congo",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Kinshasa – In 2018, World Health Organization (WHO), working with the Democratic Republic of the Congo health authorities and other health partners, set up a programme to monitor the health of Ebola survivors and support them in their recovery. Dr Raymond Pallawo, a WHO epidemiologist and the....",
+      "tag": "analysis"
     },
     {
       "title": "17 November 2025 | Feature Story Post-outbreak support gives hope to Ebola survivors in the Democratic Republic of the Congo",
@@ -1857,27 +1878,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1097/hep.0000000000001822",
       "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1097/hep.0000000000001822\n \n                     Background &amp; Aims: \n                     Recompensation of decompensated metabolic-dysfunction-associated steatotic liver disease (MASLD) and Metabolic Dysfunction-Associated Steatotic Liver Disease with Alcohol Consumption (MetALD) cirrhosis remains",
-      "tag": "analysis"
-    },
-    {
-      "title": "Trends in the etiology of acute insult and underlying chronic liver disease in patients with acute-on-chronic liver failure: A retrospective study in Southwest China (2020–2023)",
-      "link": "https://doi.org/10.1097/md.0000000000049420",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/md.0000000000049420\nAuthors: Yi Fang, Haifeng Dai, Qiufen Li, Danni Wang, Jianwen Liu, Yanan Liu\n \n                     \n                     The etiology of acute insults and underlying chronic liver disease in acute-on-chronic liver failure has evolved in recent years. This study examined etiological patte",
-      "tag": "analysis"
-    },
-    {
-      "title": "Identifying severe COVID-19 risk variants modulating enhancer reporter activity in lung cells",
-      "link": "https://doi.org/10.1371/journal.pgen.1012222",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.pgen.1012222\nAuthors: Giovanna Weykopf, Wendy A. Bickmore, Simon C. Biddie, Elias T. Friman\n Common genetic variants contribute to risk for complex human diseases. However, despite thousands of associations, variants modulating disease risk and their functional impact remain largely unknown. This includes SARS-CoV-2 infe",
-      "tag": "analysis"
-    },
-    {
-      "title": "Comparative Efficacy of Vancomycin and Fidaxomicin Regimens for the Prevention of Recurrent Clostridioides difficile Infection: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
-      "link": "https://doi.org/10.64898/2026.07.14.26358112",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.14.26358112\nAuthors: Prosty, C.; Butler-Laporte, G.; Brophy, J.; Frenette, C.; Loo, V.; Coburn, B.; Hota, S.; Longtin, Y.; Kong, L.; Muller, M.; Steiner, T.; Valiquette, L.; Daneman, N.; Daley, P.; Nott, C.; MacFadden, D. R.; Kandel, C.; Chen, Y.; Perez- Patrigeon, S.; Lee, T. C.; McDonald, E.\nBackground and Aims The optimal t",
       "tag": "analysis"
     }
   ],
