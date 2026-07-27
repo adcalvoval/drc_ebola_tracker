@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 26 Jul 2026 22:00:34 Z",
-  "fetchedAt": "2026-07-26T22:00:34Z",
+  "lastBuildDate": "Mon, 27 Jul 2026 03:20:53 Z",
+  "fetchedAt": "2026-07-27T03:20:54Z",
   "itemCount": 234,
   "stats": {
     "drc": {
@@ -144,6 +144,34 @@
     }
   },
   "items": [
+    {
+      "title": "DR Congo's Ebola cases surpass 3,000 as vaccine research advances - news.cgtn.com",
+      "link": "https://news.cgtn.com/news/2026-07-26/DR-Congo-s-Ebola-cases-surpass-3-000-as-vaccine-research-advances-1P5pQRt8ZEI/p.html",
+      "pubDate": "Sun, 26 Jul 2026 10:23:00 Z",
+      "desc": "-- DR Congo. Significance Rating: 1 DR Congo's Ebola cases surpass 3,000 as vaccine research advances&nbsp;&nbsp;news.cgtn.com",
+      "tag": "cases"
+    },
+    {
+      "title": "20 Years After Its Own Outbreak, an Ugandan Town Beats Back Ebola - The New York Times",
+      "link": "https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html",
+      "pubDate": "Sun, 26 Jul 2026 10:23:00 Z",
+      "desc": "Ebola -- New York State, United States. Significance Rating: 4 20 Years After Its Own Outbreak, an Ugandan Town Beats Back Ebola&nbsp;&nbsp;The New York Times",
+      "tag": "analysis"
+    },
+    {
+      "title": "DR Congo Ebola cases top 3,000 as vaccine research advances - bastillepost.com",
+      "link": "https://www.bastillepost.com/global/article/6037416-dr-congo-ebola-cases-top-3000-as-vaccine-research-advances",
+      "pubDate": "Sun, 26 Jul 2026 10:22:00 Z",
+      "desc": "-- DR Congo. Significance Rating: 1 DR Congo Ebola cases top 3,000 as vaccine research advances&nbsp;&nbsp;bastillepost.com",
+      "tag": "cases"
+    },
+    {
+      "title": "Nigeria Centre for Disease Control and Prevention Protecting the health of Nigerians",
+      "link": "https://www.ncdc.gov.ng/themes/common/files/sitreps/de18cb8cc4f7592536d94bbd70ae4d1e.pdf",
+      "pubDate": "Sun, 26 Jul 2026 05:15:00 Z",
+      "desc": "Lassa Fever Situation Report\n\n\n \n \n\n\n \n\nNCDC\n\n \n\n\nNIGERIA CENTRE FOR DISEASE\nCONTROL AND PREVENTION\n\n\n# Nigeria Centre for Disease Control and Prevention Protecting the health of Nigerians\n\nwww.ncdc.gov.ng\n\nPLOT 801 EBITU UKIWE STREET, JABI ABUJA, NIGERIA.\n\nTOLL-FREE CALL: 6232.",
+      "tag": "analysis"
+    },
     {
       "title": "Bundibugyo Virus Disease Outbreak",
       "link": "https://africacdc.org/download/bundibugyo-virus-disease-outbreak-situation-report-issue-no-65-july-21-2026/",
@@ -334,6 +362,13 @@
       "tag": "response"
     },
     {
+      "title": "Bug in a Bottle – Report of an Outbreak Response in a Pediatric Oncology Unit",
+      "link": "https://doi.org/10.1055/s-0046-1825868",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1055/s-0046-1825868\nAuthors: Ranjitha Manjunath, Supriya Gachinmath, Dhruti Manish Pandya, Jyothi Muni Reddy, Hilga Cathrine Akbar, Vanitha George Mohan, Somdipa Pal, Sidharth Totadri, Vandana Bharadwaj, Savitha Nagaraj, Anand Prakash\n Abstract \n                   Healthcare-associated infection (HAI) outbreaks",
+      "tag": "response"
+    },
+    {
       "title": "Bacterial infection in Ebola virus disease, Marburg virus disease, Crimean–Congo hemorrhagic fever, and Lassa fever.",
       "link": "https://doi.org/10.1093/ofid/ofag404",
       "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
@@ -430,6 +465,69 @@
       "pubDate": "Thu, 23 Jul 2026 10:09:00 Z",
       "desc": "DOI: 10.1016/j.chaos.2026.118835\nAuthors: Weijing Zhang, Rui Xu",
       "tag": "analysis"
+    },
+    {
+      "title": "20 November 2020 | Feature Story Wow wow wow: A club way to teach young people about drug resistance",
+      "link": "https://www.afro.who.int/news/wow-wow-wow-club-way-teach-young-people-about-drug-resistance",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Glorious Erhuanga is rarely ill, she says. Which is a good thing because she does not care much for medical drugs. And because, by her own admission, she is an abuser of drugs. “I do abuse drugs in the sense that I don’t completely do the course. If you feel strong enough, you stop.",
+      "tag": "analysis"
+    },
+    {
+      "title": "17 January 2020 | Feature Story Canada, WHO Africa seek stronger collaboration",
+      "link": "https://www.afro.who.int/news/canada-who-africa-seek-stronger-collaboration",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Canada’s Minister for International Development, Honourable Karina Gould, held talks with World Health Organization (WHO) Regional Director for Africa, Dr Matshidiso Moeti, on ways to strengthen collaboration in the area of health while on a visit this week to the regional office in Brazzaville, Republic of the Congo.",
+      "tag": "analysis"
+    },
+    {
+      "title": "7 April 2020 | Feature Story Delivery in an Ebola treatment centre",
+      "link": "https://www.afro.who.int/news/delivery-ebola-treatment-centre",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Beni, 7 April 2020 – In Beni General Hospital in the eastern Democratic Republic of the Congo (DRC), the neonatal ward is full beyond capacity. A row of young women sits on benches outside, proudly holding their newborns. For nurse Espérance Kavira Kavota, this is a welcome return to normal.",
+      "tag": "analysis"
+    },
+    {
+      "title": "28 September 2019 | News Release WHO and partners launch emergency vaccination campaign to help contain world’s largest measles outbreak",
+      "link": "https://www.afro.who.int/news/who-and-partners-launch-emergency-vaccination-campaign-help-contain-worlds-largest-measles",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "With the world’s largest and fastest-moving measles epidemic continuing to expand throughout the Democratic Republic of the Congo (DRC), the Government with the World Health Organization (WHO) and partners initiated a third emergency campaign of vaccinations in 24 health zones, targeting nearly 825 000 children aged 6–59 months.",
+      "tag": "analysis"
+    },
+    {
+      "title": "13 August 2020 | Feature Story COVID-19 response in southern Nigeria boosts surveillance of other diseases",
+      "link": "https://www.afro.who.int/news/covid-19-response-southern-nigeria-boosts-surveillance-other-diseases",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Lagos – In many countries, tackling the COVID-19 pandemic has taken cues from other disease approaches, such as lessons from protecting communities against Ebola. But in Nigeria’s Niger Delta, health workers have found inspiration from guarding against the coronavirus.",
+      "tag": "response"
+    },
+    {
+      "title": "3 November 2022 | News Release The greater Horn of Africa’s climate-related health crisis worsens as disease outbreaks surge",
+      "link": "https://www.afro.who.int/news/greater-horn-africas-climate-related-health-crisis-worsens-disease-outbreaks-surge",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Brazzaville ‒ New analysis by World Health Organization (WHO) has found that the number of reported disease outbreaks and climate-related health emergencies in the greater Horn Africa have reached their highest-ever level this century, deepening a health crisis in a region where 47 million people are already facing acute hunger.",
+      "tag": "analysis"
+    },
+    {
+      "title": "21 March 2023 | News Release Tanzania confirms first-ever outbreak of Marburg Virus Disease",
+      "link": "https://www.afro.who.int/countries/united-republic-of-tanzania/news/tanzania-confirms-first-ever-outbreak-marburg-virus-disease",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Brazzaville/Dar es Salaam – Tanzania today confirmed its first-ever cases of Marburg Virus Disease after laboratory tests were carried out following reports of cases and deaths in the country’s north-west Kagera region. Tanzania’s National Public Health Laboratory analysed samples to determine the....",
+      "tag": "cases"
+    },
+    {
+      "title": "9 November 2024 | News Release Rwanda begins countdown to declare Marburg outbreak over",
+      "link": "https://www.afro.who.int/countries/rwanda/news/rwanda-begins-countdown-declare-marburg-outbreak-over",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Kigali – Rwanda has discharged the last Marburg virus disease patient, kicking off the mandatory 42-day countdown to declare the end of the outbreak. The country has reported no new confirmed cases since 30 October 2024. The last patient was discharged on 8 November 2024.",
+      "tag": "cases"
+    },
+    {
+      "title": "22 March 2023 | News Release Equatorial Guinea confirms eight more Marburg cases",
+      "link": "https://www.afro.who.int/countries/equatorial-guinea/news/equatorial-guinea-confirms-eight-more-marburg-cases",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Brazzaville/Malabo – Equatorial Guinea’s Ministry of Health has confirmed eight more cases of Marburg, bringing the number of confirmed cases to nine since the outbreak of the viral haemorrhagic fever was declared on 13 February. The new cases were confirmed following laboratory analysis of additional samples.",
+      "tag": "cases"
     },
     {
       "title": "26 March 2018 WHO: Nigeria’s Lassa fever outbreak is slowing, but remains a concern",
@@ -541,6 +639,34 @@
       "link": "https://www.afro.who.int/news/guineas-minister-health-explains-what-it-took-end-ebola",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
       "desc": "Conakry – The Ebola outbreak that erupted in Guinea in early 2021 was declared over on 19 June, just four months after the first cases were confirmed in a rural community in the south of the country. Banking on the lessons learned from the deadly 2014–2016 outbreak as well as a growing national....",
+      "tag": "cases"
+    },
+    {
+      "title": "11 January 2019 | Feature Story New hope with Ebola drug trial",
+      "link": "https://www.afro.who.int/news/new-hope-ebola-drug-trial",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "By the time Kambale Kombi Vianey arrived at the Ebola treatment centre in Beni in the Democratic Republic of the Congo in late November, he was at death’s door. In the week since falling ill, he’d initially been misdiagnosed with malaria and typhoid, and then a traditional healer told him he’d been poisoned.",
+      "tag": "analysis"
+    },
+    {
+      "title": "2 September 2021 | Feature Story Guinea’s swift action in detecting, curbing Marburg",
+      "link": "https://www.afro.who.int/countries/guinea/news/guineas-swift-action-detecting-curbing-marburg",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Gueckedou – When a man in Temessadou M’Boket – a village in the densely forested southern Guinea region – died in early August 2021 after suffering fever, headache and haemorrhage, a medical team was quickly dispatched, and within hours of his death, laboratory analysis revealed that he had been ill with Marburg.",
+      "tag": "analysis"
+    },
+    {
+      "title": "4 October 2021 | Feature Story Why genomic sequencing is crucial in COVID-19 response",
+      "link": "https://www.afro.who.int/news/why-genomic-sequencing-crucial-covid-19-response",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Cape Town - In December 2020, South Africa detected the Beta variant and in May 2021 the Delta variant, thanks to robust genomic surveillance. Professor Tulio De Oliveira, a renowned bioinformatician who identified the Beta variant, explains the criticality of genomic sequencing.",
+      "tag": "response"
+    },
+    {
+      "title": "25 November 2022 | Feature Story Working with communities to curb cholera in the Democratic Republic of the Congo",
+      "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/working-communities-curb-cholera-democratic-republic-congo",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Kinshasa – More than 14 African countries have reported cholera cases since January 2022. In the Democratic Republic of the Congo, this acute diarrhoeal disease is endemic in several provinces. Since the beginning of the year, more than 12 300 suspected cases have been reported, including 222 deaths, in 17 of the country's 26 provinces.",
       "tag": "cases"
     },
     {
@@ -717,97 +843,6 @@
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
       "desc": "Kasese, 13th November 2018:- As the Ebola Virus Disease (EVD) outbreak escalates in the Democratic Republic of Congo (DRC), Uganda is ticking all the boxes to ensure that the country is able to respond effectively should there be a confirmed case of Ebola in the country.",
       "tag": "cases"
-    },
-    {
-      "title": "17 January 2020 | Feature Story Canada, WHO Africa seek stronger collaboration",
-      "link": "https://www.afro.who.int/news/canada-who-africa-seek-stronger-collaboration",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Canada’s Minister for International Development, Honourable Karina Gould, held talks with World Health Organization (WHO) Regional Director for Africa, Dr Matshidiso Moeti, on ways to strengthen collaboration in the area of health while on a visit this week to the regional office in Brazzaville, Republic of the Congo.",
-      "tag": "analysis"
-    },
-    {
-      "title": "7 April 2020 | Feature Story Delivery in an Ebola treatment centre",
-      "link": "https://www.afro.who.int/news/delivery-ebola-treatment-centre",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Beni, 7 April 2020 – In Beni General Hospital in the eastern Democratic Republic of the Congo (DRC), the neonatal ward is full beyond capacity. A row of young women sits on benches outside, proudly holding their newborns. For nurse Espérance Kavira Kavota, this is a welcome return to normal.",
-      "tag": "analysis"
-    },
-    {
-      "title": "28 September 2019 | News Release WHO and partners launch emergency vaccination campaign to help contain world’s largest measles outbreak",
-      "link": "https://www.afro.who.int/news/who-and-partners-launch-emergency-vaccination-campaign-help-contain-worlds-largest-measles",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "With the world’s largest and fastest-moving measles epidemic continuing to expand throughout the Democratic Republic of the Congo (DRC), the Government with the World Health Organization (WHO) and partners initiated a third emergency campaign of vaccinations in 24 health zones, targeting nearly 825 000 children aged 6–59 months.",
-      "tag": "analysis"
-    },
-    {
-      "title": "13 August 2020 | Feature Story COVID-19 response in southern Nigeria boosts surveillance of other diseases",
-      "link": "https://www.afro.who.int/news/covid-19-response-southern-nigeria-boosts-surveillance-other-diseases",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Lagos – In many countries, tackling the COVID-19 pandemic has taken cues from other disease approaches, such as lessons from protecting communities against Ebola. But in Nigeria’s Niger Delta, health workers have found inspiration from guarding against the coronavirus.",
-      "tag": "response"
-    },
-    {
-      "title": "3 November 2022 | News Release The greater Horn of Africa’s climate-related health crisis worsens as disease outbreaks surge",
-      "link": "https://www.afro.who.int/news/greater-horn-africas-climate-related-health-crisis-worsens-disease-outbreaks-surge",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville ‒ New analysis by World Health Organization (WHO) has found that the number of reported disease outbreaks and climate-related health emergencies in the greater Horn Africa have reached their highest-ever level this century, deepening a health crisis in a region where 47 million people are already facing acute hunger.",
-      "tag": "analysis"
-    },
-    {
-      "title": "9 November 2024 | News Release Rwanda begins countdown to declare Marburg outbreak over",
-      "link": "https://www.afro.who.int/countries/rwanda/news/rwanda-begins-countdown-declare-marburg-outbreak-over",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Kigali – Rwanda has discharged the last Marburg virus disease patient, kicking off the mandatory 42-day countdown to declare the end of the outbreak. The country has reported no new confirmed cases since 30 October 2024. The last patient was discharged on 8 November 2024.",
-      "tag": "cases"
-    },
-    {
-      "title": "22 March 2023 | News Release Equatorial Guinea confirms eight more Marburg cases",
-      "link": "https://www.afro.who.int/countries/equatorial-guinea/news/equatorial-guinea-confirms-eight-more-marburg-cases",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville/Malabo – Equatorial Guinea’s Ministry of Health has confirmed eight more cases of Marburg, bringing the number of confirmed cases to nine since the outbreak of the viral haemorrhagic fever was declared on 13 February. The new cases were confirmed following laboratory analysis of additional samples.",
-      "tag": "cases"
-    },
-    {
-      "title": "21 March 2023 | News Release Tanzania confirms first-ever outbreak of Marburg Virus Disease",
-      "link": "https://www.afro.who.int/countries/united-republic-of-tanzania/news/tanzania-confirms-first-ever-outbreak-marburg-virus-disease",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville/Dar es Salaam – Tanzania today confirmed its first-ever cases of Marburg Virus Disease after laboratory tests were carried out following reports of cases and deaths in the country’s north-west Kagera region. Tanzania’s National Public Health Laboratory analysed samples to determine the....",
-      "tag": "cases"
-    },
-    {
-      "title": "2 September 2021 | Feature Story Guinea’s swift action in detecting, curbing Marburg",
-      "link": "https://www.afro.who.int/countries/guinea/news/guineas-swift-action-detecting-curbing-marburg",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Gueckedou – When a man in Temessadou M’Boket – a village in the densely forested southern Guinea region – died in early August 2021 after suffering fever, headache and haemorrhage, a medical team was quickly dispatched, and within hours of his death, laboratory analysis revealed that he had been ill with Marburg.",
-      "tag": "analysis"
-    },
-    {
-      "title": "4 October 2021 | Feature Story Why genomic sequencing is crucial in COVID-19 response",
-      "link": "https://www.afro.who.int/news/why-genomic-sequencing-crucial-covid-19-response",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Cape Town - In December 2020, South Africa detected the Beta variant and in May 2021 the Delta variant, thanks to robust genomic surveillance. Professor Tulio De Oliveira, a renowned bioinformatician who identified the Beta variant, explains the criticality of genomic sequencing.",
-      "tag": "response"
-    },
-    {
-      "title": "25 November 2022 | Feature Story Working with communities to curb cholera in the Democratic Republic of the Congo",
-      "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/working-communities-curb-cholera-democratic-republic-congo",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Kinshasa – More than 14 African countries have reported cholera cases since January 2022. In the Democratic Republic of the Congo, this acute diarrhoeal disease is endemic in several provinces. Since the beginning of the year, more than 12 300 suspected cases have been reported, including 222 deaths, in 17 of the country's 26 provinces.",
-      "tag": "cases"
-    },
-    {
-      "title": "20 November 2020 | Feature Story Wow wow wow: A club way to teach young people about drug resistance",
-      "link": "https://www.afro.who.int/news/wow-wow-wow-club-way-teach-young-people-about-drug-resistance",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Glorious Erhuanga is rarely ill, she says. Which is a good thing because she does not care much for medical drugs. And because, by her own admission, she is an abuser of drugs. “I do abuse drugs in the sense that I don’t completely do the course. If you feel strong enough, you stop.",
-      "tag": "analysis"
-    },
-    {
-      "title": "11 January 2019 | Feature Story New hope with Ebola drug trial",
-      "link": "https://www.afro.who.int/news/new-hope-ebola-drug-trial",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "By the time Kambale Kombi Vianey arrived at the Ebola treatment centre in Beni in the Democratic Republic of the Congo in late November, he was at death’s door. In the week since falling ill, he’d initially been misdiagnosed with malaria and typhoid, and then a traditional healer told him he’d been poisoned.",
-      "tag": "analysis"
     },
     {
       "title": "6 April 2022 | News Release Africa faces rising climate-linked health emergencies",
@@ -1202,20 +1237,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Ebola’s rapid spread spurs new drug and vaccine trials",
-      "link": "https://doi.org/10.1126/science.aek8027",
-      "pubDate": "Thu, 23 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1126/science.aek8027\nAuthors: Kai Kupferschmidt\n Pioneering studies are underway amid difficult conditions to address Bundibugyo’s threat",
-      "tag": "analysis"
-    },
-    {
-      "title": "Geospatial assessment of dengue fever risk and spatial patterns in Phayao Province, Thailand",
-      "link": "https://doi.org/10.4081/gh.2026.1497",
-      "pubDate": "Thu, 23 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4081/gh.2026.1497\nAuthors: Phaisarn Jeefoo, Watcharaporn Preedapirom Jeefoo, Sakorn Mekruksavanich, Kanchana Nakhapakorn\n This study employed geospatial approaches to assess the risk and spatial distribution of Dengue Fever (DF) and Dengue Hemorrhagic Fever (DHF) in Phayao Province, Thailand. Epidemiological data from 2016 to 2024, c",
-      "tag": "analysis"
-    },
-    {
       "title": "Analysis of the Use of the NS1 Antigen Detection Method and Loop-Mediated Isothermal Amplification (LAMP) in the Diagnosis of Dengue Hemorrhagic Fever (DHF)",
       "link": "https://doi.org/10.21070/ups.11366",
       "pubDate": "Thu, 23 Jul 2026 00:00:00 Z",
@@ -1230,6 +1251,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Ebola’s rapid spread spurs new drug and vaccine trials",
+      "link": "https://doi.org/10.1126/science.aek8027",
+      "pubDate": "Thu, 23 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1126/science.aek8027\nAuthors: Kai Kupferschmidt\n Pioneering studies are underway amid difficult conditions to address Bundibugyo’s threat",
+      "tag": "analysis"
+    },
+    {
       "title": "Detection of Phocoena Pestivirus and Neutralizing Antibodies in Harbor Porpoises Found Dead at the North Sea and Baltic Sea Coasts",
       "link": "https://doi.org/10.1155/tbed/5525870",
       "pubDate": "Thu, 23 Jul 2026 00:00:00 Z",
@@ -1241,6 +1269,20 @@
       "link": "https://doi.org/10.3390/biotech15030058",
       "pubDate": "Thu, 23 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/biotech15030058\nAuthors: Soroosh Najafi, Maryam Jojani, Kianoosh Najafi, Giovanni N. Roviello\n Hantaviruses are zoonotic RNA viruses responsible for two severe human diseases: hemorrhagic fever with renal syndrome (HFRS) and hantavirus cardiopulmonary syndrome (HCPS). Worldwide case fatality rates vary from 1% to 40%. Although s",
+      "tag": "analysis"
+    },
+    {
+      "title": "Cost-effectiveness of geographically targeted versus ring vaccination campaigns in response to an outbreak of Ebola Virus Disease caused by Orthoebolavirus zairense",
+      "link": "https://doi.org/10.1101/2025.05.22.25328133",
+      "pubDate": "Thu, 23 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1101/2025.05.22.25328133\nAuthors: Nedjati-Gilani, G.; Cox, V. M.; Pearson, C. A. B.; Skarp, J. E.; Johnson, R.; Ebengo, D. M.; Mbala-Kingebeni, P.; Niyukuri, D.; Morgenstern, C.; Hinsley, W.; Riley, S.; Hunter, A.; McCabe, R.; Bagayoko, A.; Costa, A.; Lambach, P.; Kallay, R.; Aberle-Grasse, E.; Pallas, S.; Muhoza, P.; Ferguson, N. M.; Whitt",
+      "tag": "response"
+    },
+    {
+      "title": "Geospatial assessment of dengue fever risk and spatial patterns in Phayao Province, Thailand",
+      "link": "https://doi.org/10.4081/gh.2026.1497",
+      "pubDate": "Thu, 23 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.4081/gh.2026.1497\nAuthors: Phaisarn Jeefoo, Watcharaporn Preedapirom Jeefoo, Sakorn Mekruksavanich, Kanchana Nakhapakorn\n This study employed geospatial approaches to assess the risk and spatial distribution of Dengue Fever (DF) and Dengue Hemorrhagic Fever (DHF) in Phayao Province, Thailand. Epidemiological data from 2016 to 2024, c",
       "tag": "analysis"
     },
     {
@@ -1489,10 +1531,10 @@
       "tag": "cases"
     },
     {
-      "title": "Hantavirus infection: global overview and current situation in Spain",
-      "link": "https://doi.org/10.37201/req/213.2026",
+      "title": "A molecular description of plant cellulose biosynthesis inhibition",
+      "link": "https://doi.org/10.64898/2026.07.20.739232",
       "pubDate": "Tue, 21 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.37201/req/213.2026\nAuthors: Emilio Bouza, Ana Sánchez-Fructuoso, Ana Villegas, Jorge Alvar\n Hantaviruses are rodent-borne zoonotic RNA viruses with a worldwide distribution and the capacity to cause severe human disease. More than 40 hantavirus species have been identified, of which over 20 are known to be pathogenic to humans. Old W",
+      "desc": "DOI: 10.64898/2026.07.20.739232\nAuthors: Wilson, L. F. L.; Lim, C.; Torres, M. A.; Scheiner, S.; Wan, Y.; Purushotham, P.; Ho, R.; Zimmer, J.\nDictating cell growth and morphology, cellulose biosynthesis is intrinsic to plant cell biology. Accordingly, cellulose biosynthesis inhibitors (CBIs) are important herbicides, toxins, and experimental tools.",
       "tag": "analysis"
     },
     {
@@ -1503,17 +1545,10 @@
       "tag": "analysis"
     },
     {
-      "title": "A rare presentation of Hurler syndrome in adulthood with hyperprolactinemia and Pituitary hyperplasia: A Case report",
-      "link": "https://europepmc.org/article/PPR/PPR1282551",
+      "title": "Hantavirus infection: global overview and current situation in Spain",
+      "link": "https://doi.org/10.37201/req/213.2026",
       "pubDate": "Tue, 21 Jul 2026 00:00:00 Z",
-      "desc": "FullTextUrl: https://doi.org/10.21203/rs.3.rs-10157652/v1\nAuthors: Arshad MMUD, Fatima H, Fatima A, Akram MB, Darwesh R, Masood MA, Yadav CK.\n Abstract       Introduction:   Hurler syndrome, or mucopolysaccharidosis type I (MPS I), is a rare lysosomal storage disorder caused by a deficiency of the enzyme α-L-iduronidase (I",
-      "tag": "analysis"
-    },
-    {
-      "title": "A molecular description of plant cellulose biosynthesis inhibition",
-      "link": "https://doi.org/10.64898/2026.07.20.739232",
-      "pubDate": "Tue, 21 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.20.739232\nAuthors: Wilson, L. F. L.; Lim, C.; Torres, M. A.; Scheiner, S.; Wan, Y.; Purushotham, P.; Ho, R.; Zimmer, J.\nDictating cell growth and morphology, cellulose biosynthesis is intrinsic to plant cell biology. Accordingly, cellulose biosynthesis inhibitors (CBIs) are important herbicides, toxins, and experimental tools.",
+      "desc": "DOI: 10.37201/req/213.2026\nAuthors: Emilio Bouza, Ana Sánchez-Fructuoso, Ana Villegas, Jorge Alvar\n Hantaviruses are rodent-borne zoonotic RNA viruses with a worldwide distribution and the capacity to cause severe human disease. More than 40 hantavirus species have been identified, of which over 20 are known to be pathogenic to humans. Old W",
       "tag": "analysis"
     },
     {
@@ -1521,6 +1556,13 @@
       "link": "https://doi.org/10.3390/diagnostics16142276",
       "pubDate": "Tue, 21 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/diagnostics16142276\nAuthors: Rafael Gómez-Fernández, Jorge Vallejo-Díez, Beatriz Zarauza-Santos, Belén Burgos-Vico, Sonia de las Heras-Losada, Luis Miguel Redondo-González\n Background: Preoperative inflammatory biomarkers, particularly the neutrophil-to-lymphocyte ratio (NLR), are established prognostic markers in oral cavity sq",
+      "tag": "analysis"
+    },
+    {
+      "title": "A rare presentation of Hurler syndrome in adulthood with hyperprolactinemia and Pituitary hyperplasia: A Case report",
+      "link": "https://europepmc.org/article/PPR/PPR1282551",
+      "pubDate": "Tue, 21 Jul 2026 00:00:00 Z",
+      "desc": "FullTextUrl: https://doi.org/10.21203/rs.3.rs-10157652/v1\nAuthors: Arshad MMUD, Fatima H, Fatima A, Akram MB, Darwesh R, Masood MA, Yadav CK.\n Abstract       Introduction:   Hurler syndrome, or mucopolysaccharidosis type I (MPS I), is a rare lysosomal storage disorder caused by a deficiency of the enzyme α-L-iduronidase (I",
       "tag": "analysis"
     },
     {
@@ -1738,48 +1780,6 @@
       "link": "https://www.downtoearth.org.in/africa/africas-greater-horn-region-is-facing-a-looming-polycrisis-fueled-by-conflict-prices-climate-and-disease",
       "pubDate": "Mon, 20 Jul 2026 05:06:00 Z",
       "desc": ", our concerns about such a grave risk for the region in the second half of 2026 and into 2027 are based on a series of overlapping trends that include El Niño, the broader effects on food prices and fertilizer of the Iran war, internal conflicts and other localized factors. We fear the consequences could be catastrophic.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Canada to temporarily bar entry for foreigners who have recently been to Congo, against UN advice",
-      "link": "https://health.economictimes.indiatimes.com/news/industry/canada-to-temporarily-bar-entry-for-foreigners-who-have-recently-been-to-congo-against-un-advice/132504025",
-      "pubDate": "Mon, 20 Jul 2026 02:12:00 Z",
-      "desc": "The ban contravenes advice from the World Health Organization, which advises against travel or trade restrictions with Congo, where officials are currently struggling to contain a ‌large outbreak of ⁠Ebola. ⁠The U.N. health agency says travel restrictions create stigma and can make epidemics harder to control.",
-      "tag": "response"
-    },
-    {
-      "title": "People with Type 2 diabetes face higher risk of severe dengue: Study",
-      "link": "https://health.economictimes.indiatimes.com/news/industry/people-with-type-2-diabetes-face-higher-risk-of-severe-dengue-study/132503942",
-      "pubDate": "Mon, 20 Jul 2026 02:12:00 Z",
-      "desc": "Thiruvananthapuram: People with Type 2 diabetes face a significantly higher risk of severe, life-threatening dengue complications, according to a review paper by leading specialists. The paper, which is slated for publication in the International Journal of Diabetes & Technology, calls for....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Más Allá del Ébola: Cultura Preventiva y Vigilancia Epidemiológica Ante el Mundial Fifa 2026. La Vigilancia Epidemiológica Protege a la Población; la Educación Construye una Sociedad Capaz de Protegerse a Sí Misma",
-      "link": "https://doi.org/10.63371/ic.v5.n3.a1387",
-      "pubDate": "Mon, 20 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.63371/ic.v5.n3.a1387\nAuthors: Montserrat Legorreta Rojas, Ulises Trejo Amador\n The Ebola virus disease has represented one of the greatest challenges to global public health, not only because of its high mortality rate, but also because it highlighted the limitations of healthcare systems and the importance of societal preparedness f",
-      "tag": "response"
-    },
-    {
-      "title": "Fine secondary aerosol predicts equine grass sickness onset: a population case-control study in the United Kingdom, 2010–2026",
-      "link": "https://doi.org/10.22541/authorea.15006319/v1",
-      "pubDate": "Mon, 20 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.22541/authorea.15006319/v1\nAuthors: Kenneth James Baird\n &lt;b&gt;Background:&lt;/b&gt; Equine grass sickness (EGS) is a frequently fatal dysautonomia, but its environmental trigger is unknown. We hypothesised that atmospheric saddle-point stagnation concentrates aerosol and reactive nitrogen over pastures before onset. &lt;b&gt;Obje",
-      "tag": "analysis"
-    },
-    {
-      "title": "Prevalence and Characteristic of Human Immunodeficiency Virus (HIV) Patients in the Working Area of Mokoau Community Health Center, Kendari City, Southeast Sulawesi, for the Period 2021-2024",
-      "link": "https://doi.org/10.36685/jehs.v3i2.1776",
-      "pubDate": "Mon, 20 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.36685/jehs.v3i2.1776\nAuthors: Risnah Wati, Sarah Soraya Sirajuddin, Tsalsa Anto Ifdanunnisa, Watu Muntu\n Background: Human Immunodeficiency Virus (HIV) remains a global health issue. Southeast Sulawesi, particularly Kendari City, has experienced an increase in HIV cases in recent years. Understanding the prevalence and characteristic",
-      "tag": "cases"
-    },
-    {
-      "title": "Patient and Clinician Perceptions of a Deep Learning Model for Automated Screening for Patients At-Risk for Undiagnosed Structural Heart Disease in the Emergency Department: Cross-sectional Survey Study (Preprint)",
-      "link": "https://doi.org/10.2196/preprints.107550",
-      "pubDate": "Mon, 20 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.2196/preprints.107550\nAuthors: Simon Jacob Peck, Joshua Tabuena, Youseff Jakher, Ali Abdelati, Amos Shemesh, Timothy Joseph Poterucha, Marc A. Probst, Pierre Elias, Rahul Sharma, Brock Daniels\n \n                   BACKGROUND \n                   EchoNext is a prospectively validated deep learning model that identifies pati",
       "tag": "analysis"
     }
   ],
