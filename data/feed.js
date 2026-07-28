@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 27 Jul 2026 22:09:18 Z",
-  "fetchedAt": "2026-07-27T22:09:19Z",
+  "lastBuildDate": "Tue, 28 Jul 2026 02:39:39 Z",
+  "fetchedAt": "2026-07-28T02:39:39Z",
   "itemCount": 234,
   "stats": {
     "drc": {
@@ -146,11 +146,39 @@ window.FEED_DATA = {
   },
   "items": [
     {
-      "title": "National Ebola Virus Disease Preparedness and Response Taskforce Inaugural meeting",
-      "link": "https://www.health.go.ke/national-ebola-virus-disease-preparedness-and-response-taskforce-inaugural-meeting",
-      "pubDate": "Mon, 27 Jul 2026 13:42:00 Z",
-      "desc": ", 2026 Kenya has strengthened its preparedness to prevent and respond to Ebola Virus Disease (EVD) as the National Ebola Virus Disease Preparedness and Response Taskforce held its inaugural meeting. Speaking during the meeting, Principal Secretary for Public Health and Professional Standards Mary....",
-      "tag": "response"
+      "title": "Lassa / FHV",
+      "link": "https://anss-guinee.org/lassa-fhv/",
+      "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
+      "desc": "Résumé. La fièvre de Lassa est une fièvre hémorragique virale endémique en Afrique de l’Ouest, transmise à l’homme principalement par contact avec des excréments ou urines de rongeurs (rat Mastomys) contaminés. Une transmission interhumaine est également possible par contact avec des fluides corporels d’une personne infectée.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Fièvre Jaune",
+      "link": "https://anss-guinee.org/fievre-jaune/",
+      "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
+      "desc": "Résumé. La fièvre jaune est une maladie virale hémorragique transmise par la piqûre de moustiques infectés. Elle se manifeste par une fièvre brutale, des maux de tête, des douleurs musculaires et, dans les formes graves, un ictère (jaunisse) et des hémorragies.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola / Marburg",
+      "link": "https://anss-guinee.org/ebola-marburg/",
+      "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
+      "desc": "Résumé. Les maladies à virus Ebola et Marburg sont des fièvres hémorragiques virales sévères, souvent mortelles, transmises par contact avec le sang, les sécrétions ou les fluides corporels de personnes ou d’animaux infectés (chauves-souris, primates).",
+      "tag": "analysis"
+    },
+    {
+      "title": "The-bulletin-week-29-from-13th-to-19th-July-2026-1",
+      "link": "https://www.rbc.gov.rw/fileadmin/user_upload/bulletin/2026/The%20bulletin%20week%2029%20from%2013th%20to%2019th%20July%202026.pdf",
+      "pubDate": "Mon, 27 Jul 2026 16:26:00 Z",
+      "desc": "Bushenge PH, Murunda DH and Gahini DH (each reported 3 perinatal deaths) 1Weekly Epidemiological Bulletin | Week 12 13-19 July 202629WEEK WEEKLY EPIDEMIOLOGICAL BULLETIN Bushenge PH, Murunda DH and Gahini DH (each reported 3 perinatal deaths) 9 human deaths 1 human illness 2 animal deaths 7 dog....",
+      "tag": "cases"
+    },
+    {
+      "title": "| Wabah Ebola Tembus 3.200 Kasus, Korban Tewas Lampaui 1.400 Orang - jurnas.com",
+      "link": "https://www.jurnas.com/artikel/1662664/wabah-ebola-tembus-3200-kasus-korban-tewas-lampaui-1400-orang/",
+      "pubDate": "Mon, 27 Jul 2026 16:22:00 Z",
+      "desc": "Ebola -- Israel. Significance Rating: 1 | Wabah Ebola Tembus 3.200 Kasus, Korban Tewas Lampaui 1.400 Orang&nbsp;&nbsp;jurnas.com",
+      "tag": "analysis"
     },
     {
       "title": "KKenya and PATH strengthen partnership to advance UHC",
@@ -158,6 +186,13 @@ window.FEED_DATA = {
       "pubDate": "Mon, 27 Jul 2026 13:42:00 Z",
       "desc": "- Cabinet Secretary for Health Hon. Aden Duale held a consultative meeting with a PATH Kenya delegation led by Country Director Ms. Carolyne Njuguna to strengthen collaboration in advancing Kenya’s health priorities and accelerating Universal Health Coverage.",
       "tag": "analysis"
+    },
+    {
+      "title": "National Ebola Virus Disease Preparedness and Response Taskforce Inaugural meeting",
+      "link": "https://www.health.go.ke/national-ebola-virus-disease-preparedness-and-response-taskforce-inaugural-meeting",
+      "pubDate": "Mon, 27 Jul 2026 13:42:00 Z",
+      "desc": ", 2026 Kenya has strengthened its preparedness to prevent and respond to Ebola Virus Disease (EVD) as the National Ebola Virus Disease Preparedness and Response Taskforce held its inaugural meeting. Speaking during the meeting, Principal Secretary for Public Health and Professional Standards Mary....",
+      "tag": "response"
     },
     {
       "title": "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 10, Data as of 19 July 2026",
@@ -311,6 +346,13 @@ window.FEED_DATA = {
       "link": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1869243/abstract",
       "pubDate": "Sat, 25 Jul 2026 00:02:00 Z",
       "desc": "Abstract. Background: The increasing frequency of global health emergencies highlights the critical need for surveillance systems that transcend the limitations of traditional laboratory confirmation. Dynamic epidemic intelligence systems and syndromic surveillance networks have emerged as vital....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Hantavirus: A Comprehensive Narrative Review of Virology, Epidemiology, Pathogenesis, Clinical Manifestations, Diagnostics, and Emerging Therapeutic Strategies",
+      "link": "https://doi.org/10.1002/rmv.70190",
+      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/rmv.70190\nAuthors: Muhammad Kamran, Muhammad Bilal Habib, Adeel Shahid, Muhammad Ans Ahmar\n ABSTRACT \n                   \n                    Hantaviruses are a genus of negative‐sense, single‐stranded, tri‐segmented RNA viruses that are distributed worldwide. They cause two severe zoonotic diseases in hum",
       "tag": "analysis"
     },
     {
@@ -1739,48 +1781,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1111/apa.70693",
       "pubDate": "Tue, 21 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1111/apa.70693\nAuthors: Susanna Gardemeister, Aki Saarikivi, Samuli Rautava, Jani Mälkönen, Willem M. de Vos, Katri Korpela, Kaija‐Leena Kolho\n ABSTRACT \n                   \n                     Aim \n                     Plasma C‐reactive protein (CRP) is widely used to assess ne",
-      "tag": "analysis"
-    },
-    {
-      "title": "Awareness, Risk Perceptions and Acceptability of Genetically Modified Mosquitoes for Malaria Control in Mali, 2025",
-      "link": "https://doi.org/10.12688/openresafrica.16627.2",
-      "pubDate": "Tue, 21 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.12688/openresafrica.16627.2\nAuthors: Samba Diarra, Abou Sogodogo, Sarah Hartley, Seydou Doumbia\n Introduction Malaria remains a major public health issue in sub-Saharan Africa, especially in Mali. Despite the promising prospects of genetically modified mosquitoes (GMMs), their use raises several concerns. Community engagement is essen",
-      "tag": "analysis"
-    },
-    {
-      "title": "Antibody Therapy Targeting GP in Treatment of Ebola Virus Infection",
-      "link": "https://doi.org/10.53941/hm.2026.100015",
-      "pubDate": "Tue, 21 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.53941/hm.2026.100015\nAuthors: Sandra Chiu, Jiazhao Gao, Rui Gong\n Ebola Virus Disease (EVD) is a severe and acute fatal disease caused by the Orthoebolavirus zairense (Ebola virus, EBOV), first identified in 1976. From 1976 to 2025, multiple Ebola virus disease outbreaks were documented, predominantly attributable to the Zaire ebolav",
-      "tag": "analysis"
-    },
-    {
-      "title": "Exploration of BoltzGen cyclic-minipeptides targeting Ebola GP2 prefusion homotrimer-interfaces",
-      "link": "https://doi.org/10.26434/chemrxiv.15006372/v1",
-      "pubDate": "Tue, 21 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.26434/chemrxiv.15006372/v1\nAuthors: Julio Coll\n Cyclic-minipeptide-conformer candidates targeted ebola virus (EBOV) GP2 prefusion homotrimer-interfaces implicated in viral fusion to host membranes. GP2 homotrimer, homodimer and αhelix interfaces were targeted by BoltzGen co-generating candidates predicting &lt; nanoMolar affinities.",
-      "tag": "analysis"
-    },
-    {
-      "title": "An unusual case of recurrent Kimura disease with concurrent bilateral upper limb and postauricular lesions: Radiologic-pathologic correlation",
-      "link": "https://doi.org/10.25259/crcr_79_2026",
-      "pubDate": "Tue, 21 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.25259/crcr_79_2026\nAuthors: Ben Prakash Mathew, S. Mangalanandan, Prince Philip, Arun Kuncheria Joseph\n Kimura disease (KD) is a rare chronic inflammatory disorder that predominantly affects young Asian males and commonly involves the head-and-neck region. Upper extremity involvement is uncommon, while recurrent disease with concurre",
-      "tag": "analysis"
-    },
-    {
-      "title": "Clinical Profile and Treatment Patterns of Dengue Patients Admitted to a Tertiary Care Hospital in Bangladesh: a Hospital-Based Observational Study",
-      "link": "https://doi.org/10.3329/bpj.v29i2.91858",
-      "pubDate": "Tue, 21 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3329/bpj.v29i2.91858\nAuthors: Deepankar Sutradhar, Shaila Kabir\n In Bangladesh, dengue is a serious public health issue that spreads quickly through mosquitoes and usually necessitates hospitalization for supportive care. The purpose of this hospital-based observational study was to assess the clinical presentation, treatment methods",
-      "tag": "analysis"
-    },
-    {
-      "title": "Drivers of Viral Spillover: A Critical Examination of How Pathogens Spread",
-      "link": "https://doi.org/10.20944/preprints202607.1585.v1",
-      "pubDate": "Tue, 21 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.20944/preprints202607.1585.v1\nAuthors: Elenoire Sole, Giulia Montalbano, Giuseppe Motta, Maria Maddalena Pansera, Angelina Midiri, Mariarita Iacopino, Paolo Liotta, Giuseppe Mancuso, Carmelo Biondo\n The occurrence of viral zoonotic spillover (the transmission of viruses from animals to humans) has attracted worldwide attention due to",
       "tag": "analysis"
     }
   ],
