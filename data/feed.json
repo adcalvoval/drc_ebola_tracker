@@ -1,8 +1,8 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 28 Jul 2026 08:36:14 Z",
-  "fetchedAt": "2026-07-28T08:36:14Z",
-  "itemCount": 235,
+  "lastBuildDate": "Tue, 28 Jul 2026 11:19:11 Z",
+  "fetchedAt": "2026-07-28T11:19:12Z",
+  "itemCount": 236,
   "stats": {
     "drc": {
       "confirmed": 3262,
@@ -153,10 +153,24 @@
       "tag": "analysis"
     },
     {
+      "title": "World risks HIV resurgence as funding falls 18%, UNAIDS says",
+      "link": "https://health.economictimes.indiatimes.com/news/industry/world-risks-hiv-resurgence-as-funding-falls-18-unaids-says/132673250",
+      "pubDate": "Tue, 28 Jul 2026 02:23:00 Z",
+      "desc": "\"The international community has entered a period of profound political and financial upheaval that threatens decades of hard-won gains against HIV,\" UNAIDS said in its 60-page report ​released at the start of an International AIDS ⁠conference in Brazil. \"Without ‌renewed commitment and action, the world risks a resurgence of the HIV ​epidemic.",
+      "tag": "analysis"
+    },
+    {
       "title": "Lassa / FHV",
       "link": "https://anss-guinee.org/lassa-fhv/",
       "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
       "desc": "Résumé. La fièvre de Lassa est une fièvre hémorragique virale endémique en Afrique de l’Ouest, transmise à l’homme principalement par contact avec des excréments ou urines de rongeurs (rat Mastomys) contaminés. Une transmission interhumaine est également possible par contact avec des fluides corporels d’une personne infectée.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola / Marburg",
+      "link": "https://anss-guinee.org/ebola-marburg/",
+      "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
+      "desc": "Résumé. Les maladies à virus Ebola et Marburg sont des fièvres hémorragiques virales sévères, souvent mortelles, transmises par contact avec le sang, les sécrétions ou les fluides corporels de personnes ou d’animaux infectés (chauves-souris, primates).",
       "tag": "analysis"
     },
     {
@@ -167,10 +181,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Ebola / Marburg",
-      "link": "https://anss-guinee.org/ebola-marburg/",
-      "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
-      "desc": "Résumé. Les maladies à virus Ebola et Marburg sont des fièvres hémorragiques virales sévères, souvent mortelles, transmises par contact avec le sang, les sécrétions ou les fluides corporels de personnes ou d’animaux infectés (chauves-souris, primates).",
+      "title": "Opinion Accepted on 27 Jul 2026 The Cost of Blind Spots: How the 2025 USAID Closure Weakened Global Outbreak Detection in Public Health Policy Alex Mirugwe Frontiers in Public Health",
+      "link": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1887795/abstract",
+      "pubDate": "Tue, 28 Jul 2026 00:04:00 Z",
+      "desc": "Abstract. In early 2025, shortly after assuming office, the Trump administration ordered a comprehensive review of U.S. foreign assistance. This led to an immediate pause on new obligations and disbursements, followed by stop-work orders and the termination of approximately 83 percent of USAID's programs.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ixodid Tick-Borne Pathogens as Candidate Triggers for Primary Sclerosing Cholangitis: Ecological Evidence",
+      "link": "https://www.medrxiv.org/content/10.64898/2026.07.24.26358879v1?rss=1",
+      "pubDate": "Mon, 27 Jul 2026 23:08:00 Z",
+      "desc": "Abstract. Background & Aims. Primary sclerosing cholangitis (PSC) is a cholestatic liver disease of unknown etiology whose prevalence varies >30-fold worldwide, peaking in Northern Europe and the U.S. Upper Midwest. This geographic distribution is not fully explained by recognized risk factors. We examine its correlation with Ixodes tick exposure.",
       "tag": "analysis"
     },
     {
@@ -272,6 +293,20 @@
       "tag": "analysis"
     },
     {
+      "title": "Hubungan Perilaku Masyarakat dan Peran Kader dengan Kejadian Demam Berdarah Dengue",
+      "link": "https://doi.org/10.30590/joh.v13n2.310",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.30590/joh.v13n2.310\n Background: Dengue Hemorrhagic Fever (DHF) remains a major public health problem in Indonesia and is closely associated with community preventive behavior and the role of health cadres in vector control. Objective: This study aimed to analyze the relationship between community behavior and the role of health cadr",
+      "tag": "analysis"
+    },
+    {
+      "title": "One Health diagnostics at the human–animal–environment interface: a structured narrative review of cross-sector collaboration, capacity building, and technological innovations",
+      "link": "https://doi.org/10.3389/fitd.2026.1859816",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fitd.2026.1859816\n \n                     Background \n                     Zoonotic diseases at the human–animal–environment interface pose an increasing global health threat, necessitating integrated diagnostic strategies under the One Health framework.",
+      "tag": "analysis"
+    },
+    {
       "title": "刚果（金）埃博拉确诊病例接近3000例 - QQ News",
       "link": "https://view.inews.qq.com/a/20260725A058SA00",
       "pubDate": "Sun, 26 Jul 2026 16:24:00 Z",
@@ -328,6 +363,13 @@
       "tag": "analysis"
     },
     {
+      "title": "A novel myopathy with autophagic vacuoles associated with biallelic variants in <i>CLN8</i>",
+      "link": "https://doi.org/10.1111/bpa.70128",
+      "pubDate": "Sun, 26 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1111/bpa.70128\nAuthors: Ulrika Lindgren, Carola Hedberg‐Oldfors, Kittichate Visuttijai, Sara Nordström, Hans Goebel, Anders Oldfors\n Abstract \n                   \n                    Autophagic vacuoles in muscle fibers are a characteristic finding in several muscle diseases and usually indicate perturbed lysos",
+      "tag": "analysis"
+    },
+    {
       "title": "Case of Hantavirus HFRS with unresolved multi-country exposure history in Lviv Region, Ukraine",
       "link": "https://beaconbio.org/en/report/?reportid=1bdb0c37-8f7c-4483-82c4-c22746e89d92",
       "pubDate": "Sat, 25 Jul 2026 21:50:00 Z",
@@ -370,6 +412,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Rodent-borne Viral Haemorrhagic Fevers in Sub-Saharan Africa: A Critical Narrative Review of the Epidemiology, Surveillance, Genomic Insights and Diagnostic Advances in Lassa Fever",
+      "link": "https://doi.org/10.56557/arjocs/2026/v8i1186",
+      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.56557/arjocs/2026/v8i1186\nAuthors: Christopher Ononiwu Elemuwa",
+      "tag": "analysis"
+    },
+    {
       "title": "Severe Vascular Behçet Disease Presenting with Multisite Thrombosis and Pyoderma Gangrenosum in a Young Man: A Case Report",
       "link": "https://doi.org/10.21203/rs.3.rs-10233430/v1",
       "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
@@ -398,20 +447,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Rodent-borne Viral Haemorrhagic Fevers in Sub-Saharan Africa: A Critical Narrative Review of the Epidemiology, Surveillance, Genomic Insights and Diagnostic Advances in Lassa Fever",
-      "link": "https://doi.org/10.56557/arjocs/2026/v8i1186",
-      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.56557/arjocs/2026/v8i1186\nAuthors: Christopher Ononiwu Elemuwa",
-      "tag": "analysis"
-    },
-    {
-      "title": "Disease extent and outcomes in HIV-associated NTM disease: A Retrospective Cohort Study, 2004-2025",
-      "link": "https://doi.org/10.21203/rs.3.rs-10425203/v1",
-      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10425203/v1\nAuthors: Johannes L. Zielke, Alexander Killer, Clara de Angelis, Colin R. Mackenzie, Tom Luedde, Björn-Erik Ole Jensen, Smaranda Gliga\n Abstract \n                 \n                  Purpose\n Advanced or previously undiagnosed HIV remains an important context for opportunistic infections. We assessed",
-      "tag": "analysis"
-    },
-    {
       "title": "Use of Next-Generation Sequencing and Whole-Exome Sequencing in the Diagnosis of Adult-Onset Familial Intrahepatic Cholestasis: Challenges in Interpreting Variants of Uncertain Significance",
       "link": "https://doi.org/10.3390/diagnostics16152335",
       "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
@@ -423,6 +458,20 @@
       "link": "https://doi.org/10.1177/21501319261473073",
       "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1177/21501319261473073\nAuthors: Ravindra Ganesh, Siddhant Yadav, Darrell R. Schroeder, Ivana T. Croghan, Jennifer Hanson, Megan Erickson, Shawn Fokken, Sara Seegmiller, Stephanie L. Grach, Elizabeth A. Gilman, Ryan T. Hurt, Michael R. Mueller\n \n                     Objectives \n                     Long",
+      "tag": "analysis"
+    },
+    {
+      "title": "Disease extent and outcomes in HIV-associated NTM disease: A Retrospective Cohort Study, 2004-2025",
+      "link": "https://doi.org/10.21203/rs.3.rs-10425203/v1",
+      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10425203/v1\nAuthors: Johannes L. Zielke, Alexander Killer, Clara de Angelis, Colin R. Mackenzie, Tom Luedde, Björn-Erik Ole Jensen, Smaranda Gliga\n Abstract \n                 \n                  Purpose\n Advanced or previously undiagnosed HIV remains an important context for opportunistic infections. We assessed",
+      "tag": "analysis"
+    },
+    {
+      "title": "Clinical Manifestations and Immunologic Features of Chediak–Higashi Syndrome: A 12-Year National Registry Study from Iran",
+      "link": "https://doi.org/10.21203/rs.3.rs-10383500/v1",
+      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10383500/v1\nAuthors: Elaheh Karimzadeh-Soureshjani, Samaneh Delavari, Naser Kamyari, Daryoush Kiani-Shamsabadi, Ali Khodadadi, Ali Saeedi-Boroujani, Nima Rezaei\n Abstract \n                 \n                  Introduction\n Chediak–Higashi syndrome (CHS) is a rare autosomal recessive inborn error of immunity cause",
       "tag": "analysis"
     },
     {
@@ -647,6 +696,13 @@
       "link": "https://doi.org/10.1002/jgc4.70266",
       "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1002/jgc4.70266\nAuthors: Nozomi Hadano, Yuta Koto, Norio Sakai\n ABSTRACT \n                   \n                    This study was aimed at translating the University of North Carolina Genomic Knowledge Scale (UNC‐GKS) and evaluating its reliability and validity in assessing genomic knowledge among Japanese patie",
+      "tag": "analysis"
+    },
+    {
+      "title": "A Novel Weighted Ebola Vector Optimization Based Charging Scheduling of Electric Vehicle Integrated with PV Charging Stations",
+      "link": "https://doi.org/10.55003/eth.430301",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.55003/eth.430301\nAuthors: Nageswara Rao, Shelly Vadhera, Shashi Singh\n Electric vehicle (EV) charging scheduling integrated with photovoltaic (PV)-based charging stations is an important aspect of smart energy management. This paper presents an optimal EV charging scheduling framework considering solar-powered charging infrastructure",
       "tag": "analysis"
     },
     {
@@ -1105,39 +1161,46 @@
       "tag": "response"
     },
     {
-      "title": "22 January 2021 | Feature Story Seven things to know about COVID-19 variants in Africa",
-      "link": "https://www.afro.who.int/news/seven-things-know-about-covid-19-variants-africa",
+      "title": "12 May 2021 | Feature Story Joining forces to tackle the Ebola Infodemic in Guinea",
+      "link": "https://www.afro.who.int/news/joining-forces-tackle-ebola-infodemic-guinea",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville – New COVID-19 variants have emerged in Africa as the continent records a new peak in infections. While virus mutations are not unusual, those that are more infectious are worrisome. Professor Francisca Mutapi, Professor in Global Health Infection and Immunity, University of Edinburgh,....",
+      "desc": "N’Zerekore – On a sultry morning in early March in the small town of Gouécké in south-eastern Guinea, scores of concerned community and customary leaders gathered for a meeting with WHO’s local team of social anthropologists. As Guinea’s latest Ebola epidemic continued to slowly spread to towns and....",
       "tag": "analysis"
     },
     {
-      "title": "26 June 2019 WHO Regional Director commends Uganda’s Ebola preparedness response",
-      "link": "https://www.afro.who.int/news/who-regional-director-commends-ugandas-ebola-preparedness-response-0",
+      "title": "8 July 2020 | News Release Africa records over 500 000 COVID-19 cases",
+      "link": "https://www.afro.who.int/news/africa-records-over-500-000-covid-19-cases",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Kampala, 26 June 2019 – After assessing one of the high-risk districts for Ebola virus disease in western Uganda today, Dr Matshidiso Moeti, World Health Organization (WHO) Regional Director for Africa, commended the corps of health workers and Health Ministry officials for their sharpened preparedness to respond to an outbreak.",
+      "desc": "Brazzaville/Cairo – COVID-19 infections in Africa today surpassed 500 000, and there is concern as a growing number of countries are experiencing a sharp rise in cases. So far, in less than five months, the virus has claimed 11 959 lives, overtaking the 11 308 lives lost in the world’s worst Ebola outbreak in West Africa between 2014 and 2016.",
+      "tag": "cases"
+    },
+    {
+      "title": "1 June 2020 | News Release New Ebola outbreak detected in northwest Democratic Republic of the Congo; WHO surge team supporting the response",
+      "link": "https://www.afro.who.int/news/new-ebola-outbreak-detected-northwest-democratic-republic-congo-who-surge-team-supporting",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Geneva/Brazzaville/Kinshasa - The Government of the Democratic Republic of the Congo (DRC) announced today that a new outbreak of Ebola virus disease is occurring in Wangata health zone, Mbandaka, in Équateur province. The announcement comes as a long, difficult and complex Ebola outbreak in eastern....",
       "tag": "response"
     },
     {
-      "title": "5 November 2025 | Feature Story Care, compassion and recovery of youngest patient in Democratic Republic of the Congo Ebola outbreak",
-      "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/care-compassion-and-recovery-youngest-patient-democratic-republic-congo-ebola-outbreak",
+      "title": "23 April 2020 | Feature Story Enhancing COVID-19 response in South Sudan",
+      "link": "https://www.afro.who.int/news/enhancing-covid-19-response-south-sudan",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Bulape — Ebola virus disease is a serious illness. When detected late, it claims many lives, even with recent advances in vaccines and therapeutics. Although the disease has become more manageable with improved care and as response capacities, it still takes a heavy toll on families and communities.",
+      "desc": "Juba – The World Health Organization (WHO) is working with South Sudanese health authorities to expand capacity and infrastructure at the Infectious Disease Unit in the capital Juba to help enhance the country’s emergency response to COVID-19. The work will see the number of beds at the Dr John....",
       "tag": "response"
     },
     {
-      "title": "18 October 2025 | Feature Story Traditional practice in Democratic Republic of the Congo helping Ebola response efforts",
-      "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/traditional-practice-democratic-republic-congo-helping-ebola-response-efforts",
+      "title": "8 October 2019 | Feature Story The future of public health response is here: WHO summit explains the lives it will save",
+      "link": "https://www.afro.who.int/news/future-public-health-response-here-who-summit-explains-lives-it-will-save",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Bulape Fifty-four-year-old Jacob Mukaba, who lost his wife recently to Ebola, is observing a 40-day mourning period during which he must not leave his home. This practice among the Kete community in Bulape, a locality in the Democratic Republic of the Congo’s Kasai Province and the epicentre of the....",
-      "tag": "response"
+      "desc": "It was the tenth outbreak for its neighbour, but it was the closest that Ebola virus disease had come to Uganda since 2012. When the first cases were reported in north-eastern Democratic Republic of the Congo (DRC) in August 2018, only 200 km from their shared border, Uganda health authorities braced with concern.",
+      "tag": "cases"
     },
     {
-      "title": "15 November 2021 | Feature Story On the frontlines of diabetes fight in Senegal",
-      "link": "https://www.afro.who.int/news/frontlines-diabetes-fight-senegal",
+      "title": "21 October 2019 | News Release Ten African countries endorse cross-border collaboration framework on Ebola outbreak preparedness and response",
+      "link": "https://www.afro.who.int/news/ten-african-countries-endorse-cross-border-collaboration-framework-ebola-outbreak-preparedness",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Dakar – Senegal, like many African countries, is bearing an increasing heavy diabetes burden. While efforts are being made to improve prevention, care and treatment, Professor Maïmouna Ndour Mbaye, head of the Internal Medicine unit, Cheikh Anta Diop University of Dakar and director of the country’s....",
-      "tag": "analysis"
+      "desc": "Goma, DRC, 21 October 2019 - The Democratic Republic of the Congo (DRC) and its nine neighbouring countries today, during a meeting of ministers, senior health and immigration officials and partners in Goma, endorsed a joint framework to strengthen cross-border collaboration on preparedness and response to Ebola virus and other disease outbreaks.",
+      "tag": "response"
     },
     {
       "title": "27 July 2018 WHO Director General: Republic of Congo can transform its primary health care into a model for other nations",
@@ -1175,18 +1238,18 @@
       "tag": "analysis"
     },
     {
-      "title": "12 May 2021 | Feature Story Joining forces to tackle the Ebola Infodemic in Guinea",
-      "link": "https://www.afro.who.int/news/joining-forces-tackle-ebola-infodemic-guinea",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "N’Zerekore – On a sultry morning in early March in the small town of Gouécké in south-eastern Guinea, scores of concerned community and customary leaders gathered for a meeting with WHO’s local team of social anthropologists. As Guinea’s latest Ebola epidemic continued to slowly spread to towns and....",
-      "tag": "analysis"
-    },
-    {
       "title": "1 November 2019 | Feature Story Moving from huge fears to busloads of visitors: A Guinean doctor remembers overcoming community mistrust to treat Ebola in the Democratic Republic of the Congo",
       "link": "https://www.afro.who.int/news/moving-huge-fears-busloads-visitors-guinean-doctor-remembers-overcoming-community-mistrust",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
       "desc": "Marie Claire Lamah is a doctor from the West Africa country of Guinea, whose people experienced a serious Ebola epidemic in 2014–2016. Many doctors and epidemiologists from Guinea have offered their skills and experience, through World Health Organization (WHO) teams, to other nations battling outbreaks of contagious disease.",
       "tag": "analysis"
+    },
+    {
+      "title": "26 June 2019 WHO Regional Director commends Uganda’s Ebola preparedness response",
+      "link": "https://www.afro.who.int/news/who-regional-director-commends-ugandas-ebola-preparedness-response-0",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Kampala, 26 June 2019 – After assessing one of the high-risk districts for Ebola virus disease in western Uganda today, Dr Matshidiso Moeti, World Health Organization (WHO) Regional Director for Africa, commended the corps of health workers and Health Ministry officials for their sharpened preparedness to respond to an outbreak.",
+      "tag": "response"
     },
     {
       "title": "5 June 2019 Psychological support for life after Ebola",
@@ -1210,24 +1273,10 @@
       "tag": "response"
     },
     {
-      "title": "8 July 2020 | News Release Africa records over 500 000 COVID-19 cases",
-      "link": "https://www.afro.who.int/news/africa-records-over-500-000-covid-19-cases",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville/Cairo – COVID-19 infections in Africa today surpassed 500 000, and there is concern as a growing number of countries are experiencing a sharp rise in cases. So far, in less than five months, the virus has claimed 11 959 lives, overtaking the 11 308 lives lost in the world’s worst Ebola outbreak in West Africa between 2014 and 2016.",
-      "tag": "cases"
-    },
-    {
       "title": "3 April 2019 Youth speaking to youth about dodging bullets and Ebola in Democratic Republic of the Congo",
       "link": "https://www.afro.who.int/news/youth-speaking-youth-about-dodging-bullets-and-ebola-democratic-republic-congo",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
       "desc": "A phone rings. Masika Kyavaghendi Zoé reaches into her navy vest pocket now vibrating. She’s alerted there is a family refusing to take their brother to the Ebola Treatment Centre. She and two of her team members head over immediately to the Siloe private clinic in Kalinda town in northern....",
-      "tag": "response"
-    },
-    {
-      "title": "1 June 2020 | News Release New Ebola outbreak detected in northwest Democratic Republic of the Congo; WHO surge team supporting the response",
-      "link": "https://www.afro.who.int/news/new-ebola-outbreak-detected-northwest-democratic-republic-congo-who-surge-team-supporting",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Geneva/Brazzaville/Kinshasa - The Government of the Democratic Republic of the Congo (DRC) announced today that a new outbreak of Ebola virus disease is occurring in Wangata health zone, Mbandaka, in Équateur province. The announcement comes as a long, difficult and complex Ebola outbreak in eastern....",
       "tag": "response"
     },
     {
@@ -1245,18 +1294,32 @@
       "tag": "cases"
     },
     {
-      "title": "23 April 2020 | Feature Story Enhancing COVID-19 response in South Sudan",
-      "link": "https://www.afro.who.int/news/enhancing-covid-19-response-south-sudan",
+      "title": "22 January 2021 | Feature Story Seven things to know about COVID-19 variants in Africa",
+      "link": "https://www.afro.who.int/news/seven-things-know-about-covid-19-variants-africa",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Juba – The World Health Organization (WHO) is working with South Sudanese health authorities to expand capacity and infrastructure at the Infectious Disease Unit in the capital Juba to help enhance the country’s emergency response to COVID-19. The work will see the number of beds at the Dr John....",
+      "desc": "Brazzaville – New COVID-19 variants have emerged in Africa as the continent records a new peak in infections. While virus mutations are not unusual, those that are more infectious are worrisome. Professor Francisca Mutapi, Professor in Global Health Infection and Immunity, University of Edinburgh,....",
+      "tag": "analysis"
+    },
+    {
+      "title": "5 November 2025 | Feature Story Care, compassion and recovery of youngest patient in Democratic Republic of the Congo Ebola outbreak",
+      "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/care-compassion-and-recovery-youngest-patient-democratic-republic-congo-ebola-outbreak",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Bulape — Ebola virus disease is a serious illness. When detected late, it claims many lives, even with recent advances in vaccines and therapeutics. Although the disease has become more manageable with improved care and as response capacities, it still takes a heavy toll on families and communities.",
       "tag": "response"
     },
     {
-      "title": "8 October 2019 | Feature Story The future of public health response is here: WHO summit explains the lives it will save",
-      "link": "https://www.afro.who.int/news/future-public-health-response-here-who-summit-explains-lives-it-will-save",
+      "title": "18 October 2025 | Feature Story Traditional practice in Democratic Republic of the Congo helping Ebola response efforts",
+      "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/traditional-practice-democratic-republic-congo-helping-ebola-response-efforts",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "It was the tenth outbreak for its neighbour, but it was the closest that Ebola virus disease had come to Uganda since 2012. When the first cases were reported in north-eastern Democratic Republic of the Congo (DRC) in August 2018, only 200 km from their shared border, Uganda health authorities braced with concern.",
-      "tag": "cases"
+      "desc": "Bulape Fifty-four-year-old Jacob Mukaba, who lost his wife recently to Ebola, is observing a 40-day mourning period during which he must not leave his home. This practice among the Kete community in Bulape, a locality in the Democratic Republic of the Congo’s Kasai Province and the epicentre of the....",
+      "tag": "response"
+    },
+    {
+      "title": "15 November 2021 | Feature Story On the frontlines of diabetes fight in Senegal",
+      "link": "https://www.afro.who.int/news/frontlines-diabetes-fight-senegal",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Dakar – Senegal, like many African countries, is bearing an increasing heavy diabetes burden. While efforts are being made to improve prevention, care and treatment, Professor Maïmouna Ndour Mbaye, head of the Internal Medicine unit, Cheikh Anta Diop University of Dakar and director of the country’s....",
+      "tag": "analysis"
     },
     {
       "title": "9 October 2019 | Feature Story From one Ebola front line to another in the Democratic Republic of the Congo: Dr Didier Mwesha, WHO Infection Prevention and Control Expert",
@@ -1264,13 +1327,6 @@
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
       "desc": "As Didier Mwesha passed his one-year anniversary on the front lines of the Ebola response in the Democratic Republic of the Congo (DRC), the numbers were climbing still. As of mid-June 2019, there were some 2071 Ebola virus disease cases in the 12-month period of the tenth outbreak, with 1396 of them having passed away.",
       "tag": "cases"
-    },
-    {
-      "title": "21 October 2019 | News Release Ten African countries endorse cross-border collaboration framework on Ebola outbreak preparedness and response",
-      "link": "https://www.afro.who.int/news/ten-african-countries-endorse-cross-border-collaboration-framework-ebola-outbreak-preparedness",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Goma, DRC, 21 October 2019 - The Democratic Republic of the Congo (DRC) and its nine neighbouring countries today, during a meeting of ministers, senior health and immigration officials and partners in Goma, endorsed a joint framework to strengthen cross-border collaboration on preparedness and response to Ebola virus and other disease outbreaks.",
-      "tag": "response"
     },
     {
       "title": "20 February 2024 | Feature Story Preventive Ebola vaccination safeguards health workers in Democratic Republic of the Congo",
@@ -1609,11 +1665,39 @@
       "tag": "response"
     },
     {
-      "title": "12 July 2018 After Ebola: a recent survivor starts to rebuild",
-      "link": "https://www.afro.who.int/news/after-ebola-recent-survivor-starts-rebuild",
+      "title": "24 December 2021 | News Release Meet Team WHO: Dr Annet Kisakye, Immunization Officer, Uganda",
+      "link": "https://www.afro.who.int/news/meet-team-who-dr-annet-kisakye-immunization-officer-uganda",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Since he was a teenager, Didier Ipete wanted to run his own store. He would have liked to have studied at university but he didn’t have that opportunity. Nevertheless, he was happy to build up his business until it was one of the most popular shops at the market in Itipo, a small community in....",
+      "desc": "A medical doctor with a master’s degree in Public Health, Dr Annet Kisakye ran medical wards in public and private hospitals in Kampala before joining the World Health Organization in 2001. She began working as Uganda’s Immunization and Surveillance Officer, expanding her portfolio over time to....",
       "tag": "analysis"
+    },
+    {
+      "title": "19 December 2021 | News Release 2021: A year in review",
+      "link": "https://www.afro.who.int/news/2021-year-review",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Africa is ending another challenging year. The COVID-19 pandemic continued to spread, fuelled by new variants, while vaccine deliveries to the continent stuttered before picking up, causing delays in vaccination drives amid intensified calls for equity.",
+      "tag": "analysis"
+    },
+    {
+      "title": "20 April 2020 | News Release African regulatory agencies, ethics committees to expedite COVID-19 clinical trial reviews",
+      "link": "https://www.afro.who.int/news/african-regulatory-agencies-ethics-committees-expedite-covid-19-clinical-trial-reviews",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Brazzaville – National regulatory authorities and national ethics committees from across Africa have agreed to combine their expertise to expedite clinical trial review and approvals for new multinational preventive, diagnostic and therapeutic interventions to the COVID-19 pandemic.",
+      "tag": "analysis"
+    },
+    {
+      "title": "9 April 2020 | Feature Story Drawing on Ebola readiness to tackle COVID-19",
+      "link": "https://www.afro.who.int/news/drawing-ebola-readiness-tackle-covid-19",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Dar es Salaam, 9 April 2020 – Like many African countries now making use of Ebola and Influenza preparedness to step up their COVID-19 response, Tanzania is tapping into the skills of health workers already knowledgeable in infectious disease control, established influenza sentinel surveillance....",
+      "tag": "response"
+    },
+    {
+      "title": "7 May 2020 | Feature Story Reinforcing emergency response against COVID-19 in Africa",
+      "link": "https://www.afro.who.int/news/reinforcing-emergency-response-against-covid-19-africa",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Brazzaville – In an expanded pool of expertise, the World Health Organization (WHO) is supporting several African countries to coordinate the work of external emergency medical teams deployed to support the efforts to contain the spread of COVID-19 pandemic.",
+      "tag": "response"
     },
     {
       "title": "12 August 2018 WHO calls for free and secure access in responding to Ebola outbreak in the Democratic Republic of the Congo",
@@ -1630,18 +1714,53 @@
       "tag": "analysis"
     },
     {
-      "title": "20 April 2020 | News Release African regulatory agencies, ethics committees to expedite COVID-19 clinical trial reviews",
-      "link": "https://www.afro.who.int/news/african-regulatory-agencies-ethics-committees-expedite-covid-19-clinical-trial-reviews",
+      "title": "3 November 2019 | News Release The Ministry of Health and the United Nations condemn attack on health worker supporting the Ebola response in the Democratic Republic of the Congo",
+      "link": "https://www.afro.who.int/news/ministry-health-and-united-nations-condemn-attack-health-worker-supporting-ebola-response",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville – National regulatory authorities and national ethics committees from across Africa have agreed to combine their expertise to expedite clinical trial review and approvals for new multinational preventive, diagnostic and therapeutic interventions to the COVID-19 pandemic.",
+      "desc": "Goma, 3 November 2019 – The interministerial technical secretariat of the response to the Ebola outbreak, the Ministry of Health and their partners from the United Nations (the World Health Organization (WHO), the United Nations Children’s Fund (UNICEF) and the United Nations Emergency Ebola....",
+      "tag": "response"
+    },
+    {
+      "title": "4 June 2021 | Feature Story Preventing sexual abuse and exploitation in Guinea",
+      "link": "https://www.afro.who.int/news/preventing-sexual-abuse-and-exploitation-guinea",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "N’zerekore – In the small village of Sinkolé in the densely-forested south-east of Guinea, scores of men and women gather outside a ramshackle community hall on a Friday morning. Marius Djo, a World Health Organization (WHO) advisor on Prevention of Sexual Abuse and Exploitation (PSEA), waits for....",
       "tag": "analysis"
     },
     {
-      "title": "9 April 2020 | Feature Story Drawing on Ebola readiness to tackle COVID-19",
-      "link": "https://www.afro.who.int/news/drawing-ebola-readiness-tackle-covid-19",
+      "title": "1 August 2018 Cluster of presumptive Ebola cases in North Kivu in the Democratic Republic of the Congo",
+      "link": "https://www.afro.who.int/news/cluster-presumptive-ebola-cases-north-kivu-democratic-republic-congo",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Dar es Salaam, 9 April 2020 – Like many African countries now making use of Ebola and Influenza preparedness to step up their COVID-19 response, Tanzania is tapping into the skills of health workers already knowledgeable in infectious disease control, established influenza sentinel surveillance....",
+      "desc": "Cluster of presumptive Ebola cases in North Kivu in the Democratic Republic of the Congo.\n\n1 August 2018, Kinshasa/Geneva - The Government of the Democratic Republic of the Congo announced today that preliminary laboratory results indicate a cluster of cases of Ebola virus in North Kivu province.",
+      "tag": "cases"
+    },
+    {
+      "title": "8 November 2019 | Feature Story A Senegalese doctor reflects on what he’s learned from Congolese communities in the fight against Ebola",
+      "link": "https://www.afro.who.int/news/senegalese-doctor-reflects-what-hes-learned-congolese-communities-fight-against-ebola",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Dr Elhadji Mamadou Mbaye, from the West African country of Senegal, leads the Risk Communications and Community Engagement team for the World Health Organization’s Ebola outbreak response in Butembo in the North Kivu Province of the Democratic Republic of the Congo (DRC).",
       "tag": "response"
+    },
+    {
+      "title": "12 July 2018 After Ebola: a recent survivor starts to rebuild",
+      "link": "https://www.afro.who.int/news/after-ebola-recent-survivor-starts-rebuild",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Since he was a teenager, Didier Ipete wanted to run his own store. He would have liked to have studied at university but he didn’t have that opportunity. Nevertheless, he was happy to build up his business until it was one of the most popular shops at the market in Itipo, a small community in....",
+      "tag": "analysis"
+    },
+    {
+      "title": "23 July 2020 | Feature Story Tackling COVID-19 fear and stigma",
+      "link": "https://www.afro.who.int/news/tackling-covid-19-fear-and-stigma",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "Ouagadougou – Hesitancy to get tested, avoiding contact tracers or wariness of what the neighbours will say: the COVID-19 pandemic has triggered a variety of reactions among some Ouagadougou residents that have complicated timely response. When the country’s COVID-19 rapid response team tried to....",
+      "tag": "response"
+    },
+    {
+      "title": "6 May 2019 Why I chose to help: A doctor from Guinea on why she volunteered for the DRC Ebola crisis",
+      "link": "https://www.afro.who.int/news/why-i-chose-help-doctor-guinea-why-she-volunteered-drc-ebola-crisis",
+      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
+      "desc": "On 24 July 2018, the Ministry of Health of the Democratic Republic of the Congo (DRC) declared the end of the ninth outbreak of Ebola virus disease (over the past four decades) in the country. With the first of 54 total cases reported in May 2018 in Équateur Province, the outbreak was contained....",
+      "tag": "cases"
     },
     {
       "title": "20 June 2020 | Feature Story How traditional healers became allies in Ebola response",
@@ -1672,122 +1791,10 @@
       "tag": "response"
     },
     {
-      "title": "3 November 2019 | News Release The Ministry of Health and the United Nations condemn attack on health worker supporting the Ebola response in the Democratic Republic of the Congo",
-      "link": "https://www.afro.who.int/news/ministry-health-and-united-nations-condemn-attack-health-worker-supporting-ebola-response",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Goma, 3 November 2019 – The interministerial technical secretariat of the response to the Ebola outbreak, the Ministry of Health and their partners from the United Nations (the World Health Organization (WHO), the United Nations Children’s Fund (UNICEF) and the United Nations Emergency Ebola....",
-      "tag": "response"
-    },
-    {
-      "title": "4 June 2021 | Feature Story Preventing sexual abuse and exploitation in Guinea",
-      "link": "https://www.afro.who.int/news/preventing-sexual-abuse-and-exploitation-guinea",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "N’zerekore – In the small village of Sinkolé in the densely-forested south-east of Guinea, scores of men and women gather outside a ramshackle community hall on a Friday morning. Marius Djo, a World Health Organization (WHO) advisor on Prevention of Sexual Abuse and Exploitation (PSEA), waits for....",
-      "tag": "analysis"
-    },
-    {
-      "title": "7 May 2020 | Feature Story Reinforcing emergency response against COVID-19 in Africa",
-      "link": "https://www.afro.who.int/news/reinforcing-emergency-response-against-covid-19-africa",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville – In an expanded pool of expertise, the World Health Organization (WHO) is supporting several African countries to coordinate the work of external emergency medical teams deployed to support the efforts to contain the spread of COVID-19 pandemic.",
-      "tag": "response"
-    },
-    {
-      "title": "1 August 2018 Cluster of presumptive Ebola cases in North Kivu in the Democratic Republic of the Congo",
-      "link": "https://www.afro.who.int/news/cluster-presumptive-ebola-cases-north-kivu-democratic-republic-congo",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Cluster of presumptive Ebola cases in North Kivu in the Democratic Republic of the Congo.\n\n1 August 2018, Kinshasa/Geneva - The Government of the Democratic Republic of the Congo announced today that preliminary laboratory results indicate a cluster of cases of Ebola virus in North Kivu province.",
-      "tag": "cases"
-    },
-    {
-      "title": "24 December 2021 | News Release Meet Team WHO: Dr Annet Kisakye, Immunization Officer, Uganda",
-      "link": "https://www.afro.who.int/news/meet-team-who-dr-annet-kisakye-immunization-officer-uganda",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "A medical doctor with a master’s degree in Public Health, Dr Annet Kisakye ran medical wards in public and private hospitals in Kampala before joining the World Health Organization in 2001. She began working as Uganda’s Immunization and Surveillance Officer, expanding her portfolio over time to....",
-      "tag": "analysis"
-    },
-    {
-      "title": "19 December 2021 | News Release 2021: A year in review",
-      "link": "https://www.afro.who.int/news/2021-year-review",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Africa is ending another challenging year. The COVID-19 pandemic continued to spread, fuelled by new variants, while vaccine deliveries to the continent stuttered before picking up, causing delays in vaccination drives amid intensified calls for equity.",
-      "tag": "analysis"
-    },
-    {
-      "title": "23 July 2020 | Feature Story Tackling COVID-19 fear and stigma",
-      "link": "https://www.afro.who.int/news/tackling-covid-19-fear-and-stigma",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Ouagadougou – Hesitancy to get tested, avoiding contact tracers or wariness of what the neighbours will say: the COVID-19 pandemic has triggered a variety of reactions among some Ouagadougou residents that have complicated timely response. When the country’s COVID-19 rapid response team tried to....",
-      "tag": "response"
-    },
-    {
-      "title": "23 March 2019 WHO reaffirms commitment to the Democratic Republic of the Congo as Ebola outbreak nears 1000 cases amid increased violence",
-      "link": "https://www.afro.who.int/news/who-reaffirms-commitment-democratic-republic-congo-ebola-outbreak-nears-1000-cases-amid-0",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "WHO calls on international community to join urgent push to end outbreak. As the Ebola outbreak in the Democratic Republic of the Congo (DRC) approaches 1 000 cases amid increased violence, WHO reaffirmed its commitment both to ending the outbreak and working with the government and communities to build resilient health systems.",
-      "tag": "cases"
-    },
-    {
-      "title": "6 May 2019 Why I chose to help: A doctor from Guinea on why she volunteered for the DRC Ebola crisis",
-      "link": "https://www.afro.who.int/news/why-i-chose-help-doctor-guinea-why-she-volunteered-drc-ebola-crisis",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "On 24 July 2018, the Ministry of Health of the Democratic Republic of the Congo (DRC) declared the end of the ninth outbreak of Ebola virus disease (over the past four decades) in the country. With the first of 54 total cases reported in May 2018 in Équateur Province, the outbreak was contained....",
-      "tag": "cases"
-    },
-    {
       "title": "24 May 2019 Tanzanian scientist proposes nano innovations to address health problems",
       "link": "https://www.afro.who.int/news/tanzanian-scientist-proposes-nano-innovations-address-health-problems",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
       "desc": "Dr Askwar Hilonga hopes to be a millionaire – with the millions of lives across Africa that his innovation can help improve. Locals in Arusha, northern Tanzania, have noticed something unusual this year: no cholera outbreak during what is usually the cholera season.",
-      "tag": "analysis"
-    },
-    {
-      "title": "8 November 2019 | Feature Story A Senegalese doctor reflects on what he’s learned from Congolese communities in the fight against Ebola",
-      "link": "https://www.afro.who.int/news/senegalese-doctor-reflects-what-hes-learned-congolese-communities-fight-against-ebola",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Dr Elhadji Mamadou Mbaye, from the West African country of Senegal, leads the Risk Communications and Community Engagement team for the World Health Organization’s Ebola outbreak response in Butembo in the North Kivu Province of the Democratic Republic of the Congo (DRC).",
-      "tag": "response"
-    },
-    {
-      "title": "Human - Unknown/ Multistate potential outbreak - Venezuela (Anzoátegui/Barinas) - Jul 22, 2026 (Verified negative)",
-      "link": "https://epicore.org/#/events_public/articles/1866",
-      "pubDate": "Thu, 23 Jul 2026 09:44:00 Z",
-      "desc": "On July 21, 2026, a GPHIN Early Warning Notification based on media reporting indicated that the Venezuelan Medical Federation (FVM) requested an investigation into an unidentified lethal illness across Barinas and Anzoátegui states. Based on the reports available, the condition has caused multiple....",
-      "tag": "analysis"
-    },
-    {
-      "title": "WHO Botswana Q2 Newsletter 2026",
-      "link": "https://www.afro.who.int/countries/botswana/publication/who-botswana-q2-newsletter-2026",
-      "pubDate": "Thu, 23 Jul 2026 09:20:00 Z",
-      "desc": "The second edition of the WHO Botswana Quarterly Newsletter highlights key achievements, partnerships and public health milestones from April to June 2026. This quarter's edition showcases Botswana's nationwide polio vaccination campaign, strengthened preparedness for Ebola and Bundibugyo Virus....",
-      "tag": "cases"
-    },
-    {
-      "title": "HIV New diagnoses per 100,000 population Annual rate of new HIV diagnoses per 100,000 populationVisit HIV to find out more",
-      "link": "https://ukhsa-dashboard.data.gov.uk/blood-borne-viruses/human-immunodeficiency-virus-hiv",
-      "pubDate": "Thu, 23 Jul 2026 09:02:00 Z",
-      "desc": "Entry title: Human Immunodeficiency Virus (HIV) Last updated on Tuesday, 21 July 2026 at 02:46pm. HIV (human immunodeficiency virus) is a virus that can weaken your immune system gradually over time so that you become vulnerable to infections. While there is no cure, HIV treatment is so effective....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Gut immune cells may improve multiple sclerosis treatment outcomes",
-      "link": "https://www.news-medical.net/news/20260722/Gut-immune-cells-may-improve-multiple-sclerosis-treatment-outcomes.aspx",
-      "pubDate": "Thu, 23 Jul 2026 02:44:00 Z",
-      "desc": "B-cell depletion therapies, in which B cells of the immune system, which may drive disease activity in multiple sclerosis (MS), are temporarily removed, have contributed significantly to improved treatment for patients in recent years. Researchers from the University Hospital of Bonn (UKB), the....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Congo's Ebola outbreak kills nearly 1,000 as cases climb to 2,473",
-      "link": "https://health.economictimes.indiatimes.com/news/industry/congos-ebola-outbreak-kills-nearly-1000-as-cases-climb-to-2473/132570413",
-      "pubDate": "Thu, 23 Jul 2026 02:08:00 Z",
-      "desc": "At least 999 people have died in an ongoing Ebola outbreak in eastern Congo, according to official data released on Wednesday, with the actual toll potentially higher as authorities continue to track cases and fatalities. The deaths were recorded among 2,473 confirmed Ebola cases as of July 20, according to Congo's health ministry.",
-      "tag": "cases"
-    },
-    {
-      "title": "Nucleus basalis of Meynert integrity is associated with cognitive dysfunction in Parkinson's disease independently of locus coeruleus degeneration",
-      "link": "https://www.medrxiv.org/content/10.64898/2026.07.21.26358398v1?rss=1",
-      "pubDate": "Thu, 23 Jul 2026 00:34:00 Z",
-      "desc": "Abstract. Background : Degeneration in the cholinergic nucleus basalis of Meynert (nbM) is thought to contribute to early cognitive deficits in Parkinson's disease (PD). However, it is unknown whether this relationship is confounded by the parallel degeneration of the substantia nigra (SN) and the....",
       "tag": "analysis"
     }
   ],
