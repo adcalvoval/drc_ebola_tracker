@@ -1,34 +1,34 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 29 Jul 2026 16:22:33 Z",
-  "fetchedAt": "2026-07-29T16:22:33Z",
+  "lastBuildDate": "Wed, 29 Jul 2026 19:18:58 Z",
+  "fetchedAt": "2026-07-29T19:18:58Z",
   "itemCount": 236,
   "stats": {
     "drc": {
-      "confirmed": 3262,
-      "recovered": 583,
+      "confirmed": 3360,
+      "recovered": 597,
       "zonesAffected": 55,
       "topHealthZones": {
-        "Bunia": 773,
-        "Rwampara": 568,
-        "Mongbwalu": 506,
-        "Nizi": 357,
-        "Katwa": 140,
-        "Lita": 117,
+        "Bunia": 801,
+        "Rwampara": 585,
+        "Mongbwalu": 528,
+        "Nizi": 360,
+        "Katwa": 145,
+        "Lita": 121,
         "Nyankunde": 114,
         "Mangala": 100,
-        "Nia-Nia": 90,
-        "Butembo": 73,
+        "Nia-Nia": 92,
+        "Butembo": 75,
         "Bambu": 57,
-        "Beni": 44,
-        "Tchomia": 40,
-        "Komanda": 35,
+        "Beni": 46,
+        "Tchomia": 41,
+        "Komanda": 36,
         "Nia Nia": 35,
-        "Musienene": 29,
-        "Kilo": 23,
+        "Musienene": 31,
+        "Kilo": 28,
         "Fataki": 17,
         "Damas": 16,
-        "Mandima": 13,
+        "Mandima": 16,
         "Kyondo": 12,
         "Isiro": 12,
         "Wamba": 11,
@@ -47,10 +47,10 @@
         "Masereka": 4,
         "Lolwa": 4,
         "Rumba": 4,
+        "Mahagi": 4,
         "Miti Murhesa": 3,
         "Makiso Kisangani": 3,
         "Miti-Murhesa": 3,
-        "Mahagi": 3,
         "Makiso-Kisangani": 3,
         "Kambala": 2,
         "Goma": 1,
@@ -67,26 +67,26 @@
       },
       "healthcareWorkers": 119,
       "contacts": 12693,
-      "deaths": 1437,
-      "suspected": 326,
-      "cfr": 44.1
+      "deaths": 1487,
+      "suspected": 321,
+      "cfr": 44.3
     },
     "drcMeta": {
       "confirmed": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-26)"
+        "src": "INRB sitrep (2026-07-27)"
       },
       "recovered": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-26)"
+        "src": "INRB sitrep (2026-07-27)"
       },
       "deaths": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-26)"
+        "src": "INRB sitrep (2026-07-27)"
       },
       "suspected": {
         "tier": 5,
-        "src": "INRB sitrep (2026-07-26)"
+        "src": "INRB sitrep (2026-07-27)"
       }
     },
     "drcTiers": {
@@ -100,10 +100,10 @@
         "recovered": 410
       },
       "inrb": {
-        "confirmed": 3262,
-        "deaths": 1437,
-        "suspected": 326,
-        "recovered": 583
+        "confirmed": 3360,
+        "deaths": 1487,
+        "suspected": 321,
+        "recovered": 597
       }
     },
     "provinces": {
@@ -115,13 +115,13 @@
       "northKivu": {
         "zonesAffected": 11,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-26)",
-        "confirmed": 314
+        "source": "INRB sitrep (2026-07-27)",
+        "confirmed": 325
       },
       "southKivu": {
         "confirmed": 3,
         "sourceWeight": 5,
-        "source": "INRB sitrep (2026-07-26)"
+        "source": "INRB sitrep (2026-07-27)"
       }
     },
     "uga": {
@@ -139,17 +139,45 @@
       "fetchedAt": "2026-07-17T19:12:48Z"
     },
     "inrbSitrep": {
-      "asOf": "2026-07-26",
+      "asOf": "2026-07-27",
       "url": "https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/insp_sitrep/processed",
-      "fetchedAt": "2026-07-28T05:47:28.700281+00:00"
+      "fetchedAt": "2026-07-29T19:19:00.766272+00:00"
     }
   },
   "items": [
+    {
+      "title": "Hunger hampers Ebola response as cases top 3,200 in DR Congo",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168047",
+      "pubDate": "Wed, 29 Jul 2026 18:22:00 Z",
+      "desc": "-- DR Congo. Significance Rating: 1 The UN emergency food agency appealed for immediate funding on Wednesday, warning that deepening hunger is undermining the response to an Ebola outbreak in the",
+      "tag": "cases"
+    },
+    {
+      "title": "Photoreceptors possess internal recycling system to preserve vision",
+      "link": "https://www.news-medical.net/news/20260729/Photoreceptors-possess-internal-recycling-system-to-preserve-vision.aspx",
+      "pubDate": "Wed, 29 Jul 2026 18:03:00 Z",
+      "desc": "For decades, scientists believed that photoreceptors in the retina relied primarily on neighboring support cells, known as the retinal pigment epithelium (RPE), to remove waste. While the RPE is still responsible for clearing away the worn-out tips of photoreceptors each day, new findings from the....",
+      "tag": "analysis"
+    },
     {
       "title": "Pourquoi la lutte contre l’Ebola de Bundibugyo repose sur la confiance",
       "link": "https://www.nature.com/articles/d44148-026-00217-6",
       "pubDate": "Wed, 29 Jul 2026 15:47:00 Z",
       "desc": "En l’absence de vaccin ou de traitement contre le virus Ebola de Bundibugyo, l’endiguement de l’épidémie repose autant sur la confiance que sur l’épidémiologie. Or, les actions visant à instaurer cette confiance souffrent d’un sous-financement chronique.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Integrating ecological and anthropogenic risk identifies emerging Ebola spillover hotspots",
+      "link": "https://www.medrxiv.org/content/10.64898/2026.07.25.26358924v1?rss=1",
+      "pubDate": "Wed, 29 Jul 2026 15:45:00 Z",
+      "desc": "Abstract. The 2026 Bundibugyo virus outbreak emerged in a region with frequent conflict, food insecurity, rainforest and mining-related human mobility in Ituri province in the north-eastern region of the Democratic Republic of Congo (DRC). Existing ecological niche models have identified regions....",
+      "tag": "analysis"
+    },
+    {
+      "title": "Uganda officially ends Ebola outbreak after weeks of containment efforts - africa.businessinsider.com",
+      "link": "https://africa.businessinsider.com/local/lifestyle/uganda-officially-ends-ebola-outbreak-after-weeks-of-containment-efforts/mz5zzdn",
+      "pubDate": "Wed, 29 Jul 2026 15:22:00 Z",
+      "desc": "COVID-19 -- Uganda. Significance Rating: 1 Uganda officially ends Ebola outbreak after weeks of containment efforts&nbsp;&nbsp;africa.businessinsider.com",
       "tag": "analysis"
     },
     {
@@ -300,6 +328,13 @@
       "tag": "analysis"
     },
     {
+      "title": "A cross-sectional study reveals complex associations between gastrointestinal parasite composition and faecal immune and inflammatory biomarkers in wildlife and livestock in Kenya",
+      "link": "https://doi.org/10.3389/fimmu.2026.1881798",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fimmu.2026.1881798\nAuthors: Alice M. Burton, Andrew M. Halls, Kathryn J. Else, Jessica Irving, Cianjoka Gichuyia, Francis Gakuya, Gabriella K. Davies, Katharine Z. Coyte, Catherine Walton, Samuel M. Githigia, Susanne Shultz\n \n                     Background",
+      "tag": "analysis"
+    },
+    {
       "title": "Scaling Lassa Virus Dynamics within Anthropogenic Ecosystems (SCAPES) Study Protocol: a mixed-methods observational cohort study of humans, rodents, and landscapes in Nigeria.",
       "link": "https://doi.org/10.12688/wellcomeopenres.25937.2",
       "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
@@ -311,13 +346,6 @@
       "link": "https://doi.org/10.3389/fimmu.2026.1921852",
       "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fimmu.2026.1921852\nAuthors: Lin Su, Yinli He, Linpei Zhang, Yawen Wang, Xiaojiao Li, Minhong Fei\n Hemorrhagic fever with renal syndrome (HFRS) is a severe and often fatal zoonotic disease primarily caused by the Hantaan virus (HTNV), a member of the Orthohantavirus genus. Although immune cells are known to play critical roles in",
-      "tag": "analysis"
-    },
-    {
-      "title": "A cross-sectional study reveals complex associations between gastrointestinal parasite composition and faecal immune and inflammatory biomarkers in wildlife and livestock in Kenya",
-      "link": "https://doi.org/10.3389/fimmu.2026.1881798",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fimmu.2026.1881798\nAuthors: Alice M. Burton, Andrew M. Halls, Kathryn J. Else, Jessica Irving, Cianjoka Gichuyia, Francis Gakuya, Gabriella K. Davies, Katharine Z. Coyte, Catherine Walton, Samuel M. Githigia, Susanne Shultz\n \n                     Background",
       "tag": "analysis"
     },
     {
@@ -461,17 +489,17 @@
       "tag": "cases"
     },
     {
-      "title": "One Health diagnostics at the human–animal–environment interface: a structured narrative review of cross-sector collaboration, capacity building, and technological innovations",
-      "link": "https://doi.org/10.3389/fitd.2026.1859816",
+      "title": "Importation risk and preparedness priorities across Africa in the 2026 Bundibugyo Ebola outbreak",
+      "link": "https://doi.org/10.64898/2026.07.21.26358330",
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fitd.2026.1859816\n \n                     Background \n                     Zoonotic diseases at the human–animal–environment interface pose an increasing global health threat, necessitating integrated diagnostic strategies under the One Health framework.",
-      "tag": "analysis"
+      "desc": "DOI: 10.64898/2026.07.21.26358330\nAuthors: Federico Fanelli, Francesco Parino, Maria Amalia Pelle, Boxuan Wang, Yap Boum, Mosoka Fallah, Placide Mbala, Reagan Luvande Okingo, Vincent Ronin, Yazdan Yazdanpanah, Chiara Poletto, Eugenio Valdano, Vittoria Colizza\n The ongoing 2026 Bundibugyo Ebola outbreak in the Democratic Republic of the Congo",
+      "tag": "response"
     },
     {
-      "title": "Development of Innovative Strategies for Early Detection, Prevention, and Control of Emerging Infectious Diseases in the United States Through Integrated Public Health Systems",
-      "link": "https://doi.org/10.34257/gjmrk259014",
+      "title": "Undiagnosed coeliac disease presenting with oral ulcers: a missed opportunity",
+      "link": "https://doi.org/10.1136/bmj-2026-100371",
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.34257/gjmrk259014\nAuthors: Dr. Odira Felicita Ogbu\n Background: As strikingly shown by the series of shocks—H1N1 influenza, MERS-CoV,\nEbola, Zika, and most recently the SARS-CoV-2 epidemic, which claimed more than 1.2\nmillion lives in the United States and caused an projected 14 trillion in combined direct and\nindirect economic damag",
+      "desc": "DOI: 10.1136/bmj-2026-100371\nAuthors: Mohamed G Shiha, David S Sanders",
       "tag": "analysis"
     },
     {
@@ -489,24 +517,24 @@
       "tag": "analysis"
     },
     {
+      "title": "One Health diagnostics at the human–animal–environment interface: a structured narrative review of cross-sector collaboration, capacity building, and technological innovations",
+      "link": "https://doi.org/10.3389/fitd.2026.1859816",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fitd.2026.1859816\n \n                     Background \n                     Zoonotic diseases at the human–animal–environment interface pose an increasing global health threat, necessitating integrated diagnostic strategies under the One Health framework.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Development of Innovative Strategies for Early Detection, Prevention, and Control of Emerging Infectious Diseases in the United States Through Integrated Public Health Systems",
+      "link": "https://doi.org/10.34257/gjmrk259014",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.34257/gjmrk259014\nAuthors: Dr. Odira Felicita Ogbu\n Background: As strikingly shown by the series of shocks—H1N1 influenza, MERS-CoV,\nEbola, Zika, and most recently the SARS-CoV-2 epidemic, which claimed more than 1.2\nmillion lives in the United States and caused an projected 14 trillion in combined direct and\nindirect economic damag",
+      "tag": "analysis"
+    },
+    {
       "title": "Upaya Pencegahan Demam Berdarah Dengue Melalui Program Pengabdian Kepada Masyarakat di Tabing Banda Gadang, Padang",
       "link": "https://doi.org/10.58218/kreasi.v6i2.3695",
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.58218/kreasi.v6i2.3695\nAuthors: Dwi Happy Anggi Sari, Nindy Notrilauvia, Rahmadhani Fitri, Elsa Yuniarti, Salman Alfarisy, Najmi Syafani Zahra, Arya Satya Upangga\n Dengue Hemorrhagic Fever (DHF) remains a major vector-borne disease that imposes a significant public health burden in Indonesia. Effective dengue control necessitates act",
-      "tag": "analysis"
-    },
-    {
-      "title": "Importation risk and preparedness priorities across Africa in the 2026 Bundibugyo Ebola outbreak",
-      "link": "https://doi.org/10.64898/2026.07.21.26358330",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.21.26358330\nAuthors: Federico Fanelli, Francesco Parino, Maria Amalia Pelle, Boxuan Wang, Yap Boum, Mosoka Fallah, Placide Mbala, Reagan Luvande Okingo, Vincent Ronin, Yazdan Yazdanpanah, Chiara Poletto, Eugenio Valdano, Vittoria Colizza\n The ongoing 2026 Bundibugyo Ebola outbreak in the Democratic Republic of the Congo",
-      "tag": "response"
-    },
-    {
-      "title": "Undiagnosed coeliac disease presenting with oral ulcers: a missed opportunity",
-      "link": "https://doi.org/10.1136/bmj-2026-100371",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/bmj-2026-100371\nAuthors: Mohamed G Shiha, David S Sanders",
       "tag": "analysis"
     },
     {
@@ -1581,13 +1609,6 @@
       "tag": "analysis"
     },
     {
-      "title": "13 February 2018 WHO moves to contain Nigeria’s Lassa fever outbreak",
-      "link": "https://www.afro.who.int/news/who-moves-contain-nigerias-lassa-fever-outbreak",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "13 February 2018, ABUJA - The World Health Organization is scaling up its response to an outbreak of Lassa fever in Nigeria, which has spread to 17 states and may have infected up to 450 people in less than five weeks. From the onset of the outbreak, WHO Nigeria deployed staff from the national and....",
-      "tag": "response"
-    },
-    {
       "title": "28 February 2018 Nigeria battles its largest Lassa fever outbreak on record",
       "link": "https://www.afro.who.int/news/nigeria-battles-its-largest-lassa-fever-outbreak-record",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
@@ -1775,34 +1796,13 @@
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
       "desc": "Abuja – Vaccines save millions of lives each year. In August 2020, Africa crossed a historic milestone when it was certified as free of wild polio. Vaccination drives, reaching up to 220 million African children multiple times every year, were integral to achieving this historic milestone.",
       "tag": "analysis"
-    },
-    {
-      "title": "28 April 2022 | News Release Vaccine-preventable disease outbreaks on the rise in Africa",
-      "link": "https://www.afro.who.int/news/vaccine-preventable-disease-outbreaks-rise-africa",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville – Africa is witnessing a surge in outbreaks of vaccine-preventable diseases over the past year. Almost 17 500 cases of measles were recorded in the African region between January and March 2022, marking a 400% increase compared with the same period in 2021.",
-      "tag": "cases"
-    },
-    {
-      "title": "18 February 2025 | News Release Uganda discharges all eight Ebola disease patients",
-      "link": "https://www.afro.who.int/countries/uganda/news/uganda-discharges-all-eight-ebola-disease-patients",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Kampala – Uganda today discharged eight patients who had been receiving treatment for Sudan virus disease – which belongs to the same family as Ebola virus disease – after two negative tests carried out 72 hours apart. The recovered patients were receiving care at treatment centres in the capital....",
-      "tag": "analysis"
-    },
-    {
-      "title": "22 September 2022 | News Release WHO bolsters Ebola disease outbreak response in Uganda",
-      "link": "https://www.afro.who.int/countries/uganda/news/who-bolsters-ebola-disease-outbreak-response-uganda",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville – In an accelerated effort to scale up response to the Ebola disease outbreak in Uganda, World Health Organization (WHO) is delivering medical supplies, providing logistics and deploying staff to support the national authorities in halting the spread of the virus.",
-      "tag": "response"
     }
   ],
   "highWater": {
     "drc": {
       "deaths": {
-        "value": 1437,
-        "asOf": "2026-07-28T05:47:27Z",
+        "value": 1487,
+        "asOf": "2026-07-29T19:18:58Z",
         "source": "INRB MVE Sitrep"
       },
       "confirmed_deaths": {
@@ -1816,8 +1816,8 @@
         "source": "WHO / OMS"
       },
       "confirmed": {
-        "value": 3262,
-        "asOf": "2026-07-28T05:47:27Z",
+        "value": 3360,
+        "asOf": "2026-07-29T19:18:58Z",
         "source": "INRB MVE Sitrep"
       },
       "active": {
