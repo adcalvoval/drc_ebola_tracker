@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 29 Jul 2026 19:18:58 Z",
-  "fetchedAt": "2026-07-29T19:18:58Z",
+  "lastBuildDate": "Wed, 29 Jul 2026 22:02:11 Z",
+  "fetchedAt": "2026-07-29T22:02:11Z",
   "itemCount": 236,
   "stats": {
     "drc": {
@@ -146,6 +146,20 @@ window.FEED_DATA = {
   },
   "items": [
     {
+      "title": "L'Espagne signale un nouveau cas de fièvre hémorragique de Crimée-Congo cette année Patrick GEROME - 29/07/2026 Lire plus➟",
+      "link": "https://www.mesvaccins.net/web/news/24313-l-espagne-signale-un-nouveau-cas-de-fievre-hemorragique-de-crimee-congo-cette-annee",
+      "pubDate": "Wed, 29 Jul 2026 20:54:00 Z",
+      "desc": "L'Espagne signale un nouveau cas de fièvre hémorragique de Crimée-Congo cette année.\n\nLe gouvernement de Castille-La Manche , par l'intermédiaire de sa Direction générale de la santé publique, a confirmé un cas de dans la Communauté autonome. Le cas a été enregistré dans le district sanitaire de , dans la province de Ciudad Real .",
+      "tag": "analysis"
+    },
+    {
+      "title": "Is it safe to travel to East Africa during the Ebola outbreak? Uganda declares crisis over – but cases surge in the DRC - Condé Nast Traveller Middle East",
+      "link": "https://www.cntravellerme.com/story/is-it-safe-to-visit-east-africa-amid-ebola-outbreak-the-latest-as-confirmed-cases-continue-to-rise-in-congo",
+      "pubDate": "Wed, 29 Jul 2026 20:22:00 Z",
+      "desc": "Ebola -- Uganda. Significance Rating: 4 Is it safe to travel to East Africa during the Ebola outbreak? Uganda declares crisis over – but cases surge in the DRC&nbsp;&nbsp;Condé Nast Traveller Midd",
+      "tag": "cases"
+    },
+    {
       "title": "Hunger hampers Ebola response as cases top 3,200 in DR Congo",
       "link": "https://news.un.org/feed/view/en/story/2026/07/1168047",
       "pubDate": "Wed, 29 Jul 2026 18:22:00 Z",
@@ -251,6 +265,13 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
+      "title": "Vietnam: national alert as pediatric adenovirus cases triple amid summer transmission peak",
+      "link": "https://beaconbio.org/en/report/?reportid=74dacb9c-6547-4e56-85c4-23dd26de24c0",
+      "pubDate": "Tue, 28 Jul 2026 14:20:00 Z",
+      "desc": "Sources Adenovirus infections surge among children. SGGP News. 27 Jul 2026 Ministry of Health has issues an urgent notice regarding the increase in cases of adenovirus infection. Báo Thanh niên. 22 Jul 2026 (in Vietnamese) MoH issues health alert as adenovirus infections, pink eye cases rise. SGGP News. 22 Jul 2026 Key findings Vietnam's Ministry o",
+      "tag": "cases"
+    },
+    {
       "title": "Uganda declares end to Ebola outbreak - Latest news from Azerbaijan",
       "link": "https://news.az/news/uganda-declares-end-to-ebola-outbreak",
       "pubDate": "Tue, 28 Jul 2026 13:22:00 Z",
@@ -328,6 +349,27 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Protein Phosphatase 2A Activation Attenuates Acute Myocardial Injury in Takotsubo Syndrome by Modulating Ferroptosis and Mitochondrial Injury in Cardiomyocytes",
+      "link": "https://doi.org/10.64898/2026.07.27.740349",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.27.740349\nAuthors: Ti Wang, Qian Xu, Jisheng Sun, Hildebrando Candido Ferreira Neto, Feng Dong, Colin Stomberski, Caitlin M. Oconnor, Goutham Narla, Daxin Wang, Zhiyong Lin\n Background:\nTakotsubo syndrome (TTS) is an acute stress-induced cardiomyopathy characterized by transient left ventricular dysfunction. Despite its",
+      "tag": "analysis"
+    },
+    {
+      "title": "Rapid Cognitive Decline and Myoclonus: A Reversible Case of Bismuth Toxicity With a Therapeutic Chelation Paradigm",
+      "link": "https://doi.org/10.1002/ncn3.70147",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/ncn3.70147\nAuthors: Karim Makhoul, Ayesha Hossain, Ritesh Ramdhani\n ABSTRACT \n                   Bismuth neurotoxicity is a rare but potentially reversible cause of encephalopathy resulting from systemic accumulation of bismuth. Clinical manifestations may mimic rapidly progressive neurodegenerative or pri",
+      "tag": "analysis"
+    },
+    {
+      "title": "Outbreak preparedness for women and girls in low- and middle-income countries: a qualitative study",
+      "link": "https://doi.org/10.1186/s44263-026-00305-7",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s44263-026-00305-7\nAuthors: Danielle Sarraf, Melissa Meinhart, Ilana Seff, Catherine Poulton, Sarah Karmin, Christine Heckman, Lindsay Stark\n Abstract \n                   \n                     Background \n                     Infectious disease outbreaks (“outbreaks”) pose h",
+      "tag": "response"
+    },
+    {
       "title": "A cross-sectional study reveals complex associations between gastrointestinal parasite composition and faecal immune and inflammatory biomarkers in wildlife and livestock in Kenya",
       "link": "https://doi.org/10.3389/fimmu.2026.1881798",
       "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
@@ -346,6 +388,20 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.3389/fimmu.2026.1921852",
       "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fimmu.2026.1921852\nAuthors: Lin Su, Yinli He, Linpei Zhang, Yawen Wang, Xiaojiao Li, Minhong Fei\n Hemorrhagic fever with renal syndrome (HFRS) is a severe and often fatal zoonotic disease primarily caused by the Hantaan virus (HTNV), a member of the Orthohantavirus genus. Although immune cells are known to play critical roles in",
+      "tag": "analysis"
+    },
+    {
+      "title": "Serum per- and polyfluoroalkyl substances levels among young adults at risk for chronic kidney disease of unknown etiology in Nicaragua",
+      "link": "https://doi.org/10.1038/s41598-026-63277-6",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/s41598-026-63277-6\nAuthors: Leanne S. Fawkes, Yau Adamu, David Gimeno Ruiz de Porras, Neil Pearce, Ben Caplin, Marvin González-Quiroz",
+      "tag": "analysis"
+    },
+    {
+      "title": "Élaboration des procédures d’analyse pour fièvres virales hémorragiques",
+      "link": "https://doi.org/10.64490/ccby6639",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64490/ccby6639\nAuthors: Man Hua, Isabelle Meunier\n Depuis l’épidémie du virus Ebola Bundibugyo en 2026, il est requis pour tous les établissements d’être en mesure de prétrier et d’isoler rapidement les patients suspectés d'être atteints d'une fièvre hémorragique virale. Une évaluation médicale du patient est ensuite réalisée pour dé",
       "tag": "analysis"
     },
     {
@@ -1739,62 +1795,6 @@ window.FEED_DATA = {
       "link": "https://www.afro.who.int/news/defeating-ebola-democratic-republic-congo",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
       "desc": "Mbandaka – Jeudi Mputu felt unwell. He went for a check-up at an Ebola treatment centre where he tested positive for the virus. However, his visit was short-lived. He fled the facility. A few days later he was readmitted. He escaped once more. “I thought I was going to die,” he recalls.",
-      "tag": "analysis"
-    },
-    {
-      "title": "25 February 2020 | Feature Story How learning to talk the talk is saving lives in the Democratic Republic of the Congo",
-      "link": "https://www.afro.who.int/news/how-learning-talk-talk-saving-lives-democratic-republic-congo",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Goma, 25 February 2020 - Guinean anthropologist, David Niabalamou is so passionate about his job engaging with communities affected by Ebola that he’s learned two new languages in twelve months, earning him the affectionate nickname, David the Local, from colleagues.",
-      "tag": "analysis"
-    },
-    {
-      "title": "19 February 2020 | Feature Story Working with communities to end Ebola",
-      "link": "https://www.afro.who.int/news/working-communities-end-ebola",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "18 February, 2020, Goma - “In some places they threw stones at us, but in others community leaders became engaged and fought alongside us for the survival of their people,” says Dr Freddy Banza, an epidemiologist and public health specialist with World Health Organization (WHO).",
-      "tag": "analysis"
-    },
-    {
-      "title": "3 November 2017 WHO helps Kenya guard against Marburg Virus Disease",
-      "link": "https://www.afro.who.int/news/who-helps-kenya-guard-against-marburg-virus-disease",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "News release. 03 NOVEMBER 2017 | NAIROBI – The World Health Organization is helping the Kenyan Ministry of Health guard against the spread of Marburg Virus Disease from neighbouring Uganda. Health authorities are strengthening preparedness measures in Trans Nzoia and West Pokot counties along the....",
-      "tag": "response"
-    },
-    {
-      "title": "9 March 2022 | News Release Finding her courage after years of suffering",
-      "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/finding-her-courage-after-years-suffering",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Tshikapa, Democratic Republic of the Congo – “He beat me for 30 years. Looking back, I wonder how I survived.” For Patricia*, a 52-year-old resident of Tshikapa in Kasaï Province, the years of abuse suffered at the hands of the one who was supposed to be her life partner form a sombre memory. “He wasn’t always that way,” she says.",
-      "tag": "analysis"
-    },
-    {
-      "title": "20 October 2022 | News Release COVID-19 vaccination roll-out stagnates in Africa",
-      "link": "https://www.afro.who.int/news/covid-19-vaccination-roll-out-stagnates-africa",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville – COVID-19 vaccination coverage has stagnated in half of African countries, while the number of doses administered monthly declined by over 50% between July and September, a World Health Organization (WHO) analysis finds. Although Africa is far from reaching the year-end global target of....",
-      "tag": "analysis"
-    },
-    {
-      "title": "25 August 2022 | News Release African health ministers adopt new regional strategy to transform health security",
-      "link": "https://www.afro.who.int/news/african-health-ministers-adopt-new-regional-strategy-transform-health-security",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Lomé – Spurred by the devastating impact of the COVID-19 pandemic on fragile health systems, African health ministers this week adopted a new eight-year strategy to transform health security and emergency response in the region. The Regional Strategy for Health Security and Emergencies 2022–2030,....",
-      "tag": "response"
-    },
-    {
-      "title": "23 January 2019 Experts caution against stagnation of immunization coverage in Africa",
-      "link": "https://www.afro.who.int/news/experts-caution-against-stagnation-immunization-coverage-africa",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "23 January 2019, Brazzaville, Congo – Global immunization experts attending the biannual Regional Immunization Technical Advisory Group (RITAG) meeting urged African countries to strengthen their routine immunization. Over the past five years, immunization coverage in sub-Saharan Africa has....",
-      "tag": "analysis"
-    },
-    {
-      "title": "29 April 2021 | Feature Story African vaccine champion on lessons from ending wild polio",
-      "link": "https://www.afro.who.int/news/african-vaccine-champion-lessons-ending-wild-polio-0",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Abuja – Vaccines save millions of lives each year. In August 2020, Africa crossed a historic milestone when it was certified as free of wild polio. Vaccination drives, reaching up to 220 million African children multiple times every year, were integral to achieving this historic milestone.",
       "tag": "analysis"
     }
   ],
