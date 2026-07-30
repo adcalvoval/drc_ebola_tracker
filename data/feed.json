@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Thu, 30 Jul 2026 11:08:49 Z",
-  "fetchedAt": "2026-07-30T11:08:49Z",
+  "lastBuildDate": "Thu, 30 Jul 2026 14:05:58 Z",
+  "fetchedAt": "2026-07-30T14:05:58Z",
   "itemCount": 236,
   "stats": {
     "drc": {
@@ -91,8 +91,8 @@
     },
     "drcTiers": {
       "media": {
+        "deaths": 1500,
         "suspected": 1,
-        "deaths": 1400,
         "confirmed": 3200
       },
       "whoDon": {
@@ -145,6 +145,20 @@
     }
   },
   "items": [
+    {
+      "title": "RDC: face à la progression d’Ebola, l’ONU réclame un renforcement massif des moyens",
+      "link": "https://www.rfi.fr/fr/afrique/20260730-rdc-face-%C3%A0-la-progression-d-ebola-l-onu-r%C3%A9clame-un-renforcement-massif-des-moyens",
+      "pubDate": "Thu, 30 Jul 2026 13:22:00 Z",
+      "desc": "Ebola -- DR Congo. Significance Rating: 4 En République démocratique du Congo, l’épidémie d’Ebola vient de franchir la barre des 1 500 décès officiellement recensés selon le dernier bilan des auto",
+      "tag": "cases"
+    },
+    {
+      "title": "刚果（金）埃博拉疫情持续传播 - chinanews.com.cn",
+      "link": "https://www.chinanews.com.cn/gj/shipin/2026/07-30/news1063808.shtml",
+      "pubDate": "Thu, 30 Jul 2026 12:22:00 Z",
+      "desc": "Ebola -- DR Congo. Significance Rating: 1 刚果（金）埃博拉疫情持续传播&nbsp;&nbsp;chinanews.com.cn",
+      "tag": "analysis"
+    },
     {
       "title": "MSD y Wellcome impulsan una vacuna contra el ébola de Bundibugyo ante el avance del brote en la RDC",
       "link": "https://www.consalud.es/salud35/internacional/msd-y-wellcome-impulsan-una-vacuna-contra-el-ebola-de-bundibugyo-ante-el-avance-del-brote-en-la-rdc.html",
@@ -419,13 +433,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Fièvre Jaune",
-      "link": "https://anss-guinee.org/fievre-jaune/",
-      "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
-      "desc": "Résumé. La fièvre jaune est une maladie virale hémorragique transmise par la piqûre de moustiques infectés. Elle se manifeste par une fièvre brutale, des maux de tête, des douleurs musculaires et, dans les formes graves, un ictère (jaunisse) et des hémorragies.",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola / Marburg",
       "link": "https://anss-guinee.org/ebola-marburg/",
       "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
@@ -433,10 +440,101 @@
       "tag": "analysis"
     },
     {
+      "title": "Fièvre Jaune",
+      "link": "https://anss-guinee.org/fievre-jaune/",
+      "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
+      "desc": "Résumé. La fièvre jaune est une maladie virale hémorragique transmise par la piqûre de moustiques infectés. Elle se manifeste par une fièvre brutale, des maux de tête, des douleurs musculaires et, dans les formes graves, un ictère (jaunisse) et des hémorragies.",
+      "tag": "analysis"
+    },
+    {
       "title": "Opinion Accepted on 27 Jul 2026 The Cost of Blind Spots: How the 2025 USAID Closure Weakened Global Outbreak Detection in Public Health Policy Alex Mirugwe Frontiers in Public Health",
       "link": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1887795/abstract",
       "pubDate": "Tue, 28 Jul 2026 00:04:00 Z",
       "desc": "Abstract. In early 2025, shortly after assuming office, the Trump administration ordered a comprehensive review of U.S. foreign assistance. This led to an immediate pause on new obligations and disbursements, followed by stop-work orders and the termination of approximately 83 percent of USAID's programs.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Outbreak preparedness for women and girls in low- and middle-income countries: a qualitative study",
+      "link": "https://doi.org/10.1186/s44263-026-00305-7",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s44263-026-00305-7\nAuthors: Danielle Sarraf, Melissa Meinhart, Ilana Seff, Catherine Poulton, Sarah Karmin, Christine Heckman, Lindsay Stark\n Abstract \n                   \n                     Background \n                     Infectious disease outbreaks (“outbreaks”) pose h",
+      "tag": "response"
+    },
+    {
+      "title": "Inside the high-stakes race to develop an Ebola vaccine for an escalating outbreak",
+      "link": "https://doi.org/10.1038/d41586-026-02278-x",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/d41586-026-02278-x\nAuthors: Dhruv Shenai",
+      "tag": "analysis"
+    },
+    {
+      "title": "Fever Temperatures Differentially Alter Ebola-Antibody Functionality Depending on Affinity Maturation 2306819",
+      "link": "https://doi.org/10.1093/jimmun/vkag141.1350",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/jimmun/vkag141.1350\nAuthors: Lianna Wood, Taras Chicz, Ross Blanc, Lindsay McManus, Qixin Wang, Harry Bertera, César Muñoz-Fontela, Beartriz Escudero Perez, Ryan McNamara\n Abstract \n                   \n                     Introduction \n                     In 2013-16, Weste",
+      "tag": "analysis"
+    },
+    {
+      "title": "Advanced Machine Learning Across Multiple Vaccines to Predict Durable Immunogenicity using the Immune Signatures Data Resource 2260430",
+      "link": "https://doi.org/10.1093/jimmun/vkag141.923",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/jimmun/vkag141.923\nAuthors: Marco Sanna, Jing Chen, Paolo Palma, Ofer Levy, Joann Diray-Arce\n Abstract \n                   \n                     Introduction \n                     Understanding vaccine durability is key to designing immunizations with long-term efficacy. Lev",
+      "tag": "analysis"
+    },
+    {
+      "title": "Neutrophil Activation is Associated with Decreased Dengue Vaccine Replication in Human Recipients 2307750",
+      "link": "https://doi.org/10.1093/jimmun/vkag141.1396",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/jimmun/vkag141.1396\nAuthors: Ysabelle Broderson, Heather Teague, Keerthi Konda, Lauren Knabe, Raquel Santana Da Cruz, Melissa Law, Leah Katzelnick, Rosemary Aogo, Jeffrey Strich, Camila Odio\n Abstract \n                   \n                     Introduction \n                    <jats",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola virus exploits host lncRNA LINC01740 to enhance ATF3 and suppress antiviral immune responses 2259953",
+      "link": "https://doi.org/10.1093/jimmun/vkag141.818",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/jimmun/vkag141.818\nAuthors: Narasimha Tanuj Gunturu, Anu Gopal, Marija Djurkovic-Lopez, Daniela Serrano, Asha Thomas, Urmi Thaker, Olena Shtanko, Smita Kulkarni\n Abstract \n                   \n                     Introduction \n                     Ebola virus (EBOV) causes a",
+      "tag": "response"
+    },
+    {
+      "title": "Protein Phosphatase 2A Activation Attenuates Acute Myocardial Injury in Takotsubo Syndrome by Modulating Ferroptosis and Mitochondrial Injury in Cardiomyocytes",
+      "link": "https://doi.org/10.64898/2026.07.27.740349",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.27.740349\nAuthors: Ti Wang, Qian Xu, Jisheng Sun, Hildebrando Candido Ferreira Neto, Feng Dong, Colin Stomberski, Caitlin M. Oconnor, Goutham Narla, Daxin Wang, Zhiyong Lin\n Background:\nTakotsubo syndrome (TTS) is an acute stress-induced cardiomyopathy characterized by transient left ventricular dysfunction. Despite its",
+      "tag": "analysis"
+    },
+    {
+      "title": "Rapid Cognitive Decline and Myoclonus: A Reversible Case of Bismuth Toxicity With a Therapeutic Chelation Paradigm",
+      "link": "https://doi.org/10.1002/ncn3.70147",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/ncn3.70147\nAuthors: Karim Makhoul, Ayesha Hossain, Ritesh Ramdhani\n ABSTRACT \n                   Bismuth neurotoxicity is a rare but potentially reversible cause of encephalopathy resulting from systemic accumulation of bismuth. Clinical manifestations may mimic rapidly progressive neurodegenerative or pri",
+      "tag": "analysis"
+    },
+    {
+      "title": "SCGB1D2 is a Sex-Specific Mucosal Defense that impacts Lyme Disease Susceptibility 2251807",
+      "link": "https://doi.org/10.1093/jimmun/vkag141.128",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/jimmun/vkag141.128\nAuthors: Paige Hansen Colburn, Satu Strausz, Erik Abner, Grace Blacker, Sarah Galloway, Qingying Feng, Brandon Lee, Nasa Sinnott-Armstrong, Irving Weissman, Michal Caspi Tal, Hanna Ollila\n Abstract \n                   \n                     Introduction",
+      "tag": "analysis"
+    },
+    {
+      "title": "Functional and dysfunctional T regulatory cell states in human tissues in RA and other autoimmune arthritic diseases 2334965",
+      "link": "https://doi.org/10.1093/jimmun/vkag141.1869",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/jimmun/vkag141.1869\nAuthors: Shani Gal Oz, Byunghee Koh, Ryota Sato, Hung Nguyen, Garrett Dunlap, Christopher Mahony, Chrissy Bolton, Lucy Wedderburn, Adam Croft, Laura Donlin, Soumya Raychaudhuri, Ilya Korsunsky, Deepak Rao, Michael Brenner\n Abstract",
+      "tag": "analysis"
+    },
+    {
+      "title": "Antigen-specific CD8 T cells are primed in the bone marrow by migratory myeloid DCs bringing antigen from the brain following inflammatory injuries 2260619",
+      "link": "https://doi.org/10.1093/jimmun/vkag141.953",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/jimmun/vkag141.953\nAuthors: Eliese Moelker, Delaney Anani-Wolf, Shannon Wallace, Pamela Norberg, Christian Pfaller, Cori Fain, Aaron Johnson, Katayoun Ayasoufi\n Abstract \n                   \n                     Introduction \n                     Bone marrow (BM) is the prim",
+      "tag": "analysis"
+    },
+    {
+      "title": "Detection of secretory vesicles linked to Schistocephalus solidus-mediated immunomodulation 2260149",
+      "link": "https://doi.org/10.1093/jimmun/vkag141.869",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/jimmun/vkag141.869\nAuthors: Stacia Szafran-Lally, Alex Collias, Natalie Steinel\n Abstract \n                   \n                     Introduction \n                     Parasite-induced immunosuppression increases the host’s susceptibility to secondary infection, thereby decre",
       "tag": "analysis"
     },
     {
@@ -538,90 +636,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Inside the high-stakes race to develop an Ebola vaccine for an escalating outbreak",
-      "link": "https://doi.org/10.1038/d41586-026-02278-x",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/d41586-026-02278-x\nAuthors: Dhruv Shenai",
-      "tag": "analysis"
-    },
-    {
-      "title": "Outbreak preparedness for women and girls in low- and middle-income countries: a qualitative study",
-      "link": "https://doi.org/10.1186/s44263-026-00305-7",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s44263-026-00305-7\nAuthors: Danielle Sarraf, Melissa Meinhart, Ilana Seff, Catherine Poulton, Sarah Karmin, Christine Heckman, Lindsay Stark\n Abstract \n                   \n                     Background \n                     Infectious disease outbreaks (“outbreaks”) pose h",
-      "tag": "response"
-    },
-    {
-      "title": "Fever Temperatures Differentially Alter Ebola-Antibody Functionality Depending on Affinity Maturation 2306819",
-      "link": "https://doi.org/10.1093/jimmun/vkag141.1350",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/jimmun/vkag141.1350\nAuthors: Lianna Wood, Taras Chicz, Ross Blanc, Lindsay McManus, Qixin Wang, Harry Bertera, César Muñoz-Fontela, Beartriz Escudero Perez, Ryan McNamara\n Abstract \n                   \n                     Introduction \n                     In 2013-16, Weste",
-      "tag": "analysis"
-    },
-    {
-      "title": "Advanced Machine Learning Across Multiple Vaccines to Predict Durable Immunogenicity using the Immune Signatures Data Resource 2260430",
-      "link": "https://doi.org/10.1093/jimmun/vkag141.923",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/jimmun/vkag141.923\nAuthors: Marco Sanna, Jing Chen, Paolo Palma, Ofer Levy, Joann Diray-Arce\n Abstract \n                   \n                     Introduction \n                     Understanding vaccine durability is key to designing immunizations with long-term efficacy. Lev",
-      "tag": "analysis"
-    },
-    {
-      "title": "Neutrophil Activation is Associated with Decreased Dengue Vaccine Replication in Human Recipients 2307750",
-      "link": "https://doi.org/10.1093/jimmun/vkag141.1396",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/jimmun/vkag141.1396\nAuthors: Ysabelle Broderson, Heather Teague, Keerthi Konda, Lauren Knabe, Raquel Santana Da Cruz, Melissa Law, Leah Katzelnick, Rosemary Aogo, Jeffrey Strich, Camila Odio\n Abstract \n                   \n                     Introduction \n                    <jats",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola virus exploits host lncRNA LINC01740 to enhance ATF3 and suppress antiviral immune responses 2259953",
-      "link": "https://doi.org/10.1093/jimmun/vkag141.818",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/jimmun/vkag141.818\nAuthors: Narasimha Tanuj Gunturu, Anu Gopal, Marija Djurkovic-Lopez, Daniela Serrano, Asha Thomas, Urmi Thaker, Olena Shtanko, Smita Kulkarni\n Abstract \n                   \n                     Introduction \n                     Ebola virus (EBOV) causes a",
-      "tag": "response"
-    },
-    {
-      "title": "Protein Phosphatase 2A Activation Attenuates Acute Myocardial Injury in Takotsubo Syndrome by Modulating Ferroptosis and Mitochondrial Injury in Cardiomyocytes",
-      "link": "https://doi.org/10.64898/2026.07.27.740349",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.27.740349\nAuthors: Ti Wang, Qian Xu, Jisheng Sun, Hildebrando Candido Ferreira Neto, Feng Dong, Colin Stomberski, Caitlin M. Oconnor, Goutham Narla, Daxin Wang, Zhiyong Lin\n Background:\nTakotsubo syndrome (TTS) is an acute stress-induced cardiomyopathy characterized by transient left ventricular dysfunction. Despite its",
-      "tag": "analysis"
-    },
-    {
-      "title": "Rapid Cognitive Decline and Myoclonus: A Reversible Case of Bismuth Toxicity With a Therapeutic Chelation Paradigm",
-      "link": "https://doi.org/10.1002/ncn3.70147",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/ncn3.70147\nAuthors: Karim Makhoul, Ayesha Hossain, Ritesh Ramdhani\n ABSTRACT \n                   Bismuth neurotoxicity is a rare but potentially reversible cause of encephalopathy resulting from systemic accumulation of bismuth. Clinical manifestations may mimic rapidly progressive neurodegenerative or pri",
-      "tag": "analysis"
-    },
-    {
-      "title": "SCGB1D2 is a Sex-Specific Mucosal Defense that impacts Lyme Disease Susceptibility 2251807",
-      "link": "https://doi.org/10.1093/jimmun/vkag141.128",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/jimmun/vkag141.128\nAuthors: Paige Hansen Colburn, Satu Strausz, Erik Abner, Grace Blacker, Sarah Galloway, Qingying Feng, Brandon Lee, Nasa Sinnott-Armstrong, Irving Weissman, Michal Caspi Tal, Hanna Ollila\n Abstract \n                   \n                     Introduction",
-      "tag": "analysis"
-    },
-    {
-      "title": "Functional and dysfunctional T regulatory cell states in human tissues in RA and other autoimmune arthritic diseases 2334965",
-      "link": "https://doi.org/10.1093/jimmun/vkag141.1869",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/jimmun/vkag141.1869\nAuthors: Shani Gal Oz, Byunghee Koh, Ryota Sato, Hung Nguyen, Garrett Dunlap, Christopher Mahony, Chrissy Bolton, Lucy Wedderburn, Adam Croft, Laura Donlin, Soumya Raychaudhuri, Ilya Korsunsky, Deepak Rao, Michael Brenner\n Abstract",
-      "tag": "analysis"
-    },
-    {
-      "title": "Antigen-specific CD8 T cells are primed in the bone marrow by migratory myeloid DCs bringing antigen from the brain following inflammatory injuries 2260619",
-      "link": "https://doi.org/10.1093/jimmun/vkag141.953",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/jimmun/vkag141.953\nAuthors: Eliese Moelker, Delaney Anani-Wolf, Shannon Wallace, Pamela Norberg, Christian Pfaller, Cori Fain, Aaron Johnson, Katayoun Ayasoufi\n Abstract \n                   \n                     Introduction \n                     Bone marrow (BM) is the prim",
-      "tag": "analysis"
-    },
-    {
-      "title": "Detection of secretory vesicles linked to Schistocephalus solidus-mediated immunomodulation 2260149",
-      "link": "https://doi.org/10.1093/jimmun/vkag141.869",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/jimmun/vkag141.869\nAuthors: Stacia Szafran-Lally, Alex Collias, Natalie Steinel\n Abstract \n                   \n                     Introduction \n                     Parasite-induced immunosuppression increases the host’s susceptibility to secondary infection, thereby decre",
-      "tag": "analysis"
-    },
-    {
       "title": "The role of immune cells in Hantaan-induced hemorrhagic fever with renal syndrome",
       "link": "https://doi.org/10.3389/fimmu.2026.1921852",
       "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
@@ -643,6 +657,13 @@
       "tag": "analysis"
     },
     {
+      "title": "A cross-sectional study reveals complex associations between gastrointestinal parasite composition and faecal immune and inflammatory biomarkers in wildlife and livestock in Kenya",
+      "link": "https://doi.org/10.3389/fimmu.2026.1881798",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fimmu.2026.1881798\nAuthors: Alice M. Burton, Andrew M. Halls, Kathryn J. Else, Jessica Irving, Cianjoka Gichuyia, Francis Gakuya, Gabriella K. Davies, Katharine Z. Coyte, Catherine Walton, Samuel M. Githigia, Susanne Shultz\n \n                     Background",
+      "tag": "analysis"
+    },
+    {
       "title": "Machine learning reveals temperature as a key predictor of dengue risk across Thailand’s provinces: A 20-year analysis",
       "link": "https://doi.org/10.1371/journal.pntd.0014590",
       "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
@@ -654,13 +675,6 @@
       "link": "https://doi.org/10.21203/rs.3.rs-10265918/v1",
       "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10265918/v1\nAuthors: Young-Chul Park\n Abstract \n                 Bundibugyo ebolavirus (BDBV) is one of the recognized human-pathogenic ebolaviruses and has caused three documented outbreaks in Uganda (2007), the Democratic Republic of the Congo (2012), and the Democratic Republic of the Congo/Uganda (2026). Alt",
-      "tag": "analysis"
-    },
-    {
-      "title": "A cross-sectional study reveals complex associations between gastrointestinal parasite composition and faecal immune and inflammatory biomarkers in wildlife and livestock in Kenya",
-      "link": "https://doi.org/10.3389/fimmu.2026.1881798",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fimmu.2026.1881798\nAuthors: Alice M. Burton, Andrew M. Halls, Kathryn J. Else, Jessica Irving, Cianjoka Gichuyia, Francis Gakuya, Gabriella K. Davies, Katharine Z. Coyte, Catherine Walton, Samuel M. Githigia, Susanne Shultz\n \n                     Background",
       "tag": "analysis"
     },
     {
@@ -853,17 +867,17 @@
       "tag": "cases"
     },
     {
-      "title": "Upaya Pencegahan Demam Berdarah Dengue Melalui Program Pengabdian Kepada Masyarakat di Tabing Banda Gadang, Padang",
-      "link": "https://doi.org/10.58218/kreasi.v6i2.3695",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.58218/kreasi.v6i2.3695\nAuthors: Dwi Happy Anggi Sari, Nindy Notrilauvia, Rahmadhani Fitri, Elsa Yuniarti, Salman Alfarisy, Najmi Syafani Zahra, Arya Satya Upangga\n Dengue Hemorrhagic Fever (DHF) remains a major vector-borne disease that imposes a significant public health burden in Indonesia. Effective dengue control necessitates act",
-      "tag": "analysis"
-    },
-    {
       "title": "Development of Innovative Strategies for Early Detection, Prevention, and Control of Emerging Infectious Diseases in the United States Through Integrated Public Health Systems",
       "link": "https://doi.org/10.34257/gjmrk259014",
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.34257/gjmrk259014\nAuthors: Dr. Odira Felicita Ogbu\n Background: As strikingly shown by the series of shocks—H1N1 influenza, MERS-CoV,\nEbola, Zika, and most recently the SARS-CoV-2 epidemic, which claimed more than 1.2\nmillion lives in the United States and caused an projected 14 trillion in combined direct and\nindirect economic damag",
+      "tag": "analysis"
+    },
+    {
+      "title": "One Health diagnostics at the human–animal–environment interface: a structured narrative review of cross-sector collaboration, capacity building, and technological innovations",
+      "link": "https://doi.org/10.3389/fitd.2026.1859816",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fitd.2026.1859816\n \n                     Background \n                     Zoonotic diseases at the human–animal–environment interface pose an increasing global health threat, necessitating integrated diagnostic strategies under the One Health framework.",
       "tag": "analysis"
     },
     {
@@ -874,6 +888,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Undiagnosed coeliac disease presenting with oral ulcers: a missed opportunity",
+      "link": "https://doi.org/10.1136/bmj-2026-100371",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/bmj-2026-100371\nAuthors: Mohamed G Shiha, David S Sanders",
+      "tag": "analysis"
+    },
+    {
       "title": "Transforming health systems in crisis: innovative infrastructure adaptations for Marburg outbreak response in Biharamulo, Kagera, Tanzania",
       "link": "https://doi.org/10.1136/bmjgh-2025-019661",
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
@@ -881,17 +902,10 @@
       "tag": "response"
     },
     {
-      "title": "One Health diagnostics at the human–animal–environment interface: a structured narrative review of cross-sector collaboration, capacity building, and technological innovations",
-      "link": "https://doi.org/10.3389/fitd.2026.1859816",
+      "title": "Upaya Pencegahan Demam Berdarah Dengue Melalui Program Pengabdian Kepada Masyarakat di Tabing Banda Gadang, Padang",
+      "link": "https://doi.org/10.58218/kreasi.v6i2.3695",
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fitd.2026.1859816\n \n                     Background \n                     Zoonotic diseases at the human–animal–environment interface pose an increasing global health threat, necessitating integrated diagnostic strategies under the One Health framework.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Undiagnosed coeliac disease presenting with oral ulcers: a missed opportunity",
-      "link": "https://doi.org/10.1136/bmj-2026-100371",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/bmj-2026-100371\nAuthors: Mohamed G Shiha, David S Sanders",
+      "desc": "DOI: 10.58218/kreasi.v6i2.3695\nAuthors: Dwi Happy Anggi Sari, Nindy Notrilauvia, Rahmadhani Fitri, Elsa Yuniarti, Salman Alfarisy, Najmi Syafani Zahra, Arya Satya Upangga\n Dengue Hemorrhagic Fever (DHF) remains a major vector-borne disease that imposes a significant public health burden in Indonesia. Effective dengue control necessitates act",
       "tag": "analysis"
     },
     {
@@ -1301,13 +1315,6 @@
       "tag": "response"
     },
     {
-      "title": "Pericardial Effusion and Fibrotic Nonspecific Interstitial Pneumonia as Initial Manifestations of Primary Sjögren’s Syndrome: A Case Report",
-      "link": "https://doi.org/10.36948/ijfmr.2026.v08i04.84336",
-      "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.36948/ijfmr.2026.v08i04.84336\nAuthors: Mehdi Maaroufi, Hanaa Harraz, Khadija Chaanoun, Hanane Benjelloun, Nahid Zaghba\n Primary Sjogren's syndrome is a systemic autoimmune disease mainly characterized by lymphocytic involvement of exocrine glands, but extraglandular manifestations may occasionally dominate the clinical presentation.",
-      "tag": "analysis"
-    },
-    {
       "title": "The native conformational landscape and priming mechanism of herpes simplex virus glycoprotein B",
       "link": "https://doi.org/10.1126/sciadv.aed8023",
       "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
@@ -1319,6 +1326,13 @@
       "link": "https://doi.org/10.1002/jgc4.70266",
       "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1002/jgc4.70266\nAuthors: Nozomi Hadano, Yuta Koto, Norio Sakai\n ABSTRACT \n                   \n                    This study was aimed at translating the University of North Carolina Genomic Knowledge Scale (UNC‐GKS) and evaluating its reliability and validity in assessing genomic knowledge among Japanese patie",
+      "tag": "analysis"
+    },
+    {
+      "title": "Pericardial Effusion and Fibrotic Nonspecific Interstitial Pneumonia as Initial Manifestations of Primary Sjögren’s Syndrome: A Case Report",
+      "link": "https://doi.org/10.36948/ijfmr.2026.v08i04.84336",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.36948/ijfmr.2026.v08i04.84336\nAuthors: Mehdi Maaroufi, Hanaa Harraz, Khadija Chaanoun, Hanane Benjelloun, Nahid Zaghba\n Primary Sjogren's syndrome is a systemic autoimmune disease mainly characterized by lymphocytic involvement of exocrine glands, but extraglandular manifestations may occasionally dominate the clinical presentation.",
       "tag": "analysis"
     },
     {
@@ -1686,13 +1700,6 @@
       "tag": "response"
     },
     {
-      "title": "15 November 2017 Disease outbreak news update – Marburg virus disease – Uganda and Kenya",
-      "link": "https://www.afro.who.int/news/disease-outbreak-news-update-marburg-virus-disease-uganda-and-kenya",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "15 November 2017 - On 17 October 2017, the Ugandan Ministry of Health (MoH) notified WHO of a confirmed outbreak of Marburg Virus Disease in Kween District, Eastern Uganda. The MoH officially declared the outbreak on 19 October 2017. As of 14 November, three cases have been reported including two confirmed cases, and one probable case.",
-      "tag": "cases"
-    },
-    {
       "title": "13 November 2018 WHO and Ministry of Health Train health workers on Compassionate use of the Ebola vaccine",
       "link": "https://www.afro.who.int/news/who-and-ministry-health-train-health-workers-compassionate-use-ebola-vaccine",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
@@ -1719,13 +1726,6 @@
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
       "desc": "Gueckedou – When a man in Temessadou M’Boket – a village in the densely forested southern Guinea region – died in early August 2021 after suffering fever, headache and haemorrhage, a medical team was quickly dispatched, and within hours of his death, laboratory analysis revealed that he had been ill with Marburg.",
       "tag": "analysis"
-    },
-    {
-      "title": "4 October 2021 | Feature Story Why genomic sequencing is crucial in COVID-19 response",
-      "link": "https://www.afro.who.int/news/why-genomic-sequencing-crucial-covid-19-response",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Cape Town - In December 2020, South Africa detected the Beta variant and in May 2021 the Delta variant, thanks to robust genomic surveillance. Professor Tulio De Oliveira, a renowned bioinformatician who identified the Beta variant, explains the criticality of genomic sequencing.",
-      "tag": "response"
     },
     {
       "title": "29 July 2019 WHO and the Africa Centres for Disease Control and Prevention call on countries in the region to work together on the Ebola response",
