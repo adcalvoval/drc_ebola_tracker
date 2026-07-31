@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 31 Jul 2026 11:30:03 Z",
-  "fetchedAt": "2026-07-31T11:30:03Z",
+  "lastBuildDate": "Fri, 31 Jul 2026 14:10:24 Z",
+  "fetchedAt": "2026-07-31T14:10:24Z",
   "itemCount": 236,
   "stats": {
     "drc": {
@@ -143,6 +143,34 @@
     }
   },
   "items": [
+    {
+      "title": "COVID is still here. Is the pandemic?",
+      "link": "https://www.cidrap.umn.edu/covid-19/covid-still-here-pandemic",
+      "pubDate": "Fri, 31 Jul 2026 13:21:00 Z",
+      "desc": "It’s been three years since the World Health Organization declared an end to the COVID-19 public health emergency, but COVID still circulates worldwide. Does that mean the pandemic is still going on, just in a non-emergency phase? Or has COVID become an endemic virus, like the flu? CIDRAP News....",
+      "tag": "pheic"
+    },
+    {
+      "title": "Main Cyclosporiasis Outbreak Is Winding Down, But Others Are Emerging",
+      "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-073126/",
+      "pubDate": "Fri, 31 Jul 2026 13:21:00 Z",
+      "desc": "While the largest cyclospora outbreak appears to be winding down, others with unknown sources keep popping up. Cyclospora, a parasite that’s now infamous for causing “explosive” diarrhea, among other symptoms, is often traced back to tainted produce. U.S.",
+      "tag": "analysis"
+    },
+    {
+      "title": "No Ebola case reported in country so far; screening strengthened at Points of Entry: Nadda",
+      "link": "https://health.economictimes.indiatimes.com/news/policy/no-ebola-case-reported-in-country-so-far-screening-strengthened-at-points-of-entry-nadda/132766793",
+      "pubDate": "Fri, 31 Jul 2026 12:34:00 Z",
+      "desc": "No case of Ebola disease has been reported in the country so far, Nadda said. He said the government has not imposed any blanket restriction on entry of travellers from Ebola-affected countries, he said, adding that all international passengers arriving at Points of Entry are being screened for a....",
+      "tag": "response"
+    },
+    {
+      "title": "Mysterious brain disease found in euthanized bear captured in south Eugene - Lookout Eugene-Springfield",
+      "link": "https://lookouteugene-springfield.com/story/environment/2026/07/31/mysterious-brain-disease-found-in-euthanized-bear-captured-in-south-eugene/",
+      "pubDate": "Fri, 31 Jul 2026 12:22:00 Z",
+      "desc": "Encephalitis -- California, United States. Significance Rating: 3 Mysterious brain disease found in euthanized bear captured in south Eugene&nbsp;&nbsp;Lookout Eugene-Springfield",
+      "tag": "analysis"
+    },
     {
       "title": "Epidemiological trends of Crimean-Congo hemorrhagic fever in South Asia: a systematic review",
       "link": "https://link.springer.com/article/10.1186/s12879-026-14036-5",
@@ -340,6 +368,20 @@
       "tag": "analysis"
     },
     {
+      "title": "Should Dengue Vaccination be Prioritized in Individuals with Diabetes?",
+      "link": "https://doi.org/10.4103/ijdt.ijdt_17_26",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.4103/ijdt.ijdt_17_26\nAuthors: Jothydev Kesavadev, Sanjay Kalra, Shashank R. Joshi, Anoop Misra, Niti Pall, Banshi Saboo, Anuj Maheshwari, Amit Gupta, Rakesh Parikh, Manoj Chawla, Sunil Gupta, Anjana Ranjit Mohan, Sanjay Agarwal\n Abstract \n                   Type 2 diabetes (T2D) is a rapidly expanding global he",
+      "tag": "analysis"
+    },
+    {
+      "title": "Diagnostic Performance of Advanced Geometric Indices versus Traditional Anthropometric Indices in Evaluating Female Infertility Risk: A Cross-Sectional Study",
+      "link": "https://doi.org/10.21203/rs.3.rs-10176089/v1",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10176089/v1\nAuthors: Gülşah Kızılgün Aksoy, Ümmügülsüm Esenkaya\n Abstract \n                 \n                   Background \n                  Infertility impacts reproductive-age couples worldwide, with obesity—especially abdominal obesity—being increasingly recognized as a factor in female reproducti",
+      "tag": "analysis"
+    },
+    {
       "title": "‘Do No (Further) Harm’ Ethics Guidelines for Migrant Disaster Victim Identification (MDVI)",
       "link": "https://doi.org/10.31235/osf.io/rc8wy_v1",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
@@ -351,27 +393,6 @@
       "link": "https://doi.org/10.21203/rs.3.rs-10216436/v1",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10216436/v1\nAuthors: Zhenpeng Gao, Yuqin Li, Rui Gao, Weifang Zhou, Chu Chu\n Abstract \n                 Background\n Congenital tuberculosis (CTB) is rare but often severe. Although CTB is usually associated with clinically apparent maternal tuberculosis, maternal infection may be asymptomatic, particularly durin",
-      "tag": "analysis"
-    },
-    {
-      "title": "Diagnostic Performance of Advanced Geometric Indices versus Traditional Anthropometric Indices in Evaluating Female Infertility Risk: A Cross-Sectional Study",
-      "link": "https://doi.org/10.21203/rs.3.rs-10176089/v1",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10176089/v1\nAuthors: Gülşah Kızılgün Aksoy, Ümmügülsüm Esenkaya\n Abstract \n                 \n                   Background \n                  Infertility impacts reproductive-age couples worldwide, with obesity—especially abdominal obesity—being increasingly recognized as a factor in female reproducti",
-      "tag": "analysis"
-    },
-    {
-      "title": "Should Dengue Vaccination be Prioritized in Individuals with Diabetes?",
-      "link": "https://doi.org/10.4103/ijdt.ijdt_17_26",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4103/ijdt.ijdt_17_26\nAuthors: Jothydev Kesavadev, Sanjay Kalra, Shashank R. Joshi, Anoop Misra, Niti Pall, Banshi Saboo, Anuj Maheshwari, Amit Gupta, Rakesh Parikh, Manoj Chawla, Sunil Gupta, Anjana Ranjit Mohan, Sanjay Agarwal\n Abstract \n                   Type 2 diabetes (T2D) is a rapidly expanding global he",
-      "tag": "analysis"
-    },
-    {
-      "title": "Editor’s Note for the Report “Host genetic diversity enables Ebola hemorrhagic fever pathogenesis and resistance”",
-      "link": "https://doi.org/10.1126/science.aek4288",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1126/science.aek4288\nAuthors: H. Holden Thorp",
       "tag": "analysis"
     },
     {
@@ -403,6 +424,20 @@
       "tag": "analysis"
     },
     {
+      "title": "First report of Corynespora cassiicola causing leaf spot on Begonia fimbristipula in China",
+      "link": "https://doi.org/10.1371/journal.pone.0346996",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.pone.0346996\nAuthors: Xiaobo Zhang, Xiaoyi Zuo, Jianhua Lu, Ya Xiao, Yuanshun Wang, Huan Chen, Yuting Zhang, Xun Lu\n \n                     Background \n                     \n                       Begonia fimbristipula \n                      , an economi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Editor’s Note for the Report “Host genetic diversity enables Ebola hemorrhagic fever pathogenesis and resistance”",
+      "link": "https://doi.org/10.1126/science.aek4288",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1126/science.aek4288\nAuthors: H. Holden Thorp",
+      "tag": "analysis"
+    },
+    {
       "title": "EXCLUSIVE: Congo’s Ebola epidemic started at least 4 months before it was detected",
       "link": "https://doi.org/10.1126/science.zyr86mi",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
@@ -410,17 +445,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Central Nervous System Infection by Vibrio cholerae Diagnosed by Metagenomic Next-Generation Sequencing: A Case Report",
-      "link": "https://doi.org/10.21203/rs.3.rs-10352170/v1",
+      "title": "How Predictable Was the 2026 Bundibugyo Virus Disease Outbreak? A Rolling-Origin Evaluation of Short-Term Forecast Models, an Empirically Recalibrated Bayesian Model, and a Data-Driven Baseline–Bayesian Ensemble, Using Daily Surveillance Data",
+      "link": "https://doi.org/10.64898/2026.07.28.26359159",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10352170/v1\nAuthors: Xuehua Li, Zeng Lu, Qianqian Liu, Shisong Yang, Zhongyan Li\n Abstract \n                 \n                  Introduction\n :\n                   Vibrio cholerae \n                  central nervous system (CNS) infection is extremely rare, typically reported in immunocompromised pa",
-      "tag": "analysis"
-    },
-    {
-      "title": "First report of Corynespora cassiicola causing leaf spot on Begonia fimbristipula in China",
-      "link": "https://doi.org/10.1371/journal.pone.0346996",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.pone.0346996\nAuthors: Xiaobo Zhang, Xiaoyi Zuo, Jianhua Lu, Ya Xiao, Yuanshun Wang, Huan Chen, Yuting Zhang, Xun Lu\n \n                     Background \n                     \n                       Begonia fimbristipula \n                      , an economi",
+      "desc": "DOI: 10.64898/2026.07.28.26359159\nAuthors: Johan G.L. Verheyden, Celestin Nzanzu Mudogo, Wolfgang Jacquet\n Background\nThe 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo became the largest recorded epidemic caused by Bundibugyo virus and showed unusually rapid early growth. Initial projections warned that it co",
       "tag": "analysis"
     },
     {
@@ -431,10 +459,17 @@
       "tag": "cases"
     },
     {
-      "title": "How Predictable Was the 2026 Bundibugyo Virus Disease Outbreak? A Rolling-Origin Evaluation of Short-Term Forecast Models, an Empirically Recalibrated Bayesian Model, and a Data-Driven Baseline–Bayesian Ensemble, Using Daily Surveillance Data",
+      "title": "How Predictable Was the 2026 Bundibugyo Virus Disease Outbreak? A Rolling-Origin Evaluation of Short-Term Forecast Models, an Empirically Recalibrated Bayesian Model, and a Data-Driven Baseline-Bayesian Ensemble, Using Daily Surveillance Data",
       "link": "https://doi.org/10.64898/2026.07.28.26359159",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.28.26359159\nAuthors: Johan G.L. Verheyden, Celestin Nzanzu Mudogo, Wolfgang Jacquet\n Background\nThe 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo became the largest recorded epidemic caused by Bundibugyo virus and showed unusually rapid early growth. Initial projections warned that it co",
+      "desc": "DOI: 10.64898/2026.07.28.26359159\nAuthors: Verheyden, J. G. L.; Mudogo, C. N.; Jacquet, W.\nBackground The 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo became the largest recorded epidemic caused by Bundibugyo virus and showed unusually rapid early growth. Initial projections warned that it could become one of the l",
+      "tag": "analysis"
+    },
+    {
+      "title": "Central Nervous System Infection by Vibrio cholerae Diagnosed by Metagenomic Next-Generation Sequencing: A Case Report",
+      "link": "https://doi.org/10.21203/rs.3.rs-10352170/v1",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10352170/v1\nAuthors: Xuehua Li, Zeng Lu, Qianqian Liu, Shisong Yang, Zhongyan Li\n Abstract \n                 \n                  Introduction\n :\n                   Vibrio cholerae \n                  central nervous system (CNS) infection is extremely rare, typically reported in immunocompromised pa",
       "tag": "analysis"
     },
     {
@@ -512,6 +547,13 @@
       "link": "https://www.forbes.com/sites/maryroeloffs/2026/07/28/uganda-says-its-ebola-free-as-cases-in-congo-near-record-numbers/",
       "pubDate": "Wed, 29 Jul 2026 05:22:00 Z",
       "desc": "COVID-19 -- Uganda. Significance Rating: 1 Uganda Says It’s Ebola Outbreak Is Over&nbsp;&nbsp;Forbes",
+      "tag": "analysis"
+    },
+    {
+      "title": "Integrating ecological and anthropogenic risk identifies emerging Ebola spillover hotspots",
+      "link": "https://doi.org/10.64898/2026.07.25.26358924",
+      "pubDate": "Wed, 29 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.25.26358924\nAuthors: Moir, M.; Tegally, H.; Moges, D. M.; Dor, G.; Poongavanan, J.; Baxter, C.; Lessells, R. J.; Kraemer, M. U. G.; Judge, C.; Gutierrez, B.; Ebengo, D. M.; Kinganda Lusamaki, E.; Placide, M.; Muyembe-Tamfum, J.-J.; Bisimwa Nachega, J.; de Oliveira, T.; Mavian, C. N.\nThe 2026 Bundibugyo virus outbreak emerged i",
       "tag": "analysis"
     },
     {
@@ -1752,48 +1794,6 @@
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
       "desc": "Kinshasa, 6 September 2019 – To strengthen health practitioners’ proficiency in preventing the spread of Ebola virus disease in health facilities, the Commission for Prevention and Biosecurity of the Ministry of Health of the Democratic Republic of the Congo (DRC) launched on 5 September a guideline....",
       "tag": "analysis"
-    },
-    {
-      "title": "29 October 2021 | News Release WHO, UNFPA, UNICEF host training on prevention of sexual exploitation and abuse in the Democratic Republic of the Congo",
-      "link": "https://www.afro.who.int/news/who-unfpa-unicef-host-training-prevention-sexual-exploitation-and-abuse-democratic-republic",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "When an Ebola outbreak was declared in their town on 8 October this year, the residents of Beni, in the eastern part of the Democratic Republic of Congo, needed reinforcements – not only against the risk of contracting the disease itself, but also against the risk of sexual exploitation and abuse at a particularly vulnerable moment.",
-      "tag": "analysis"
-    },
-    {
-      "title": "27 April 2022 | News Release Democratic Republic of the Congo kicks off Ebola vaccination",
-      "link": "https://www.afro.who.int/news/democratic-republic-congo-kicks-ebola-vaccination",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville/Kinshasa — The Democratic Republic of the Congo today kicked off Ebola vaccination in Mbandaka, the capital city of Equateur Province in the north-west, to halt the spread of the virus following an outbreak which has claimed two lives since 21 April.",
-      "tag": "analysis"
-    },
-    {
-      "title": "23 April 2022 | News Release Democratic Republic of Congo declares new Ebola outbreak in Mbandaka",
-      "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-declares-new-ebola-outbreak-mbandaka",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville/Kinshasa, 23 April 2022 – The health authorities in the Democratic Republic of the Congo today declared an outbreak of Ebola after a case was confirmed in Mbandaka, a city in the north-western Equateur Province. This is the third outbreak in the province since 2018. So far, just one case has been confirmed.",
-      "tag": "cases"
-    },
-    {
-      "title": "4 July 2022 | News Release The Democratic Republic of the Congo declares 14th Ebola outbreak over",
-      "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-declares-14th-ebola-outbreak-over",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville/Kinshasa – The Democratic Republic of the Congo today declared the end of the Ebola outbreak that erupted less than three months ago in Mbandaka, the capital of Equateur Province in the northwest. It was the third outbreak in the province since 2018 and the country’s 14th overall.",
-      "tag": "analysis"
-    },
-    {
-      "title": "21 June 2021 | Feature Story Leaving a legacy after Ebola in Guinea",
-      "link": "https://www.afro.who.int/news/leaving-legacy-after-ebola-guinea",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "N’zerekore – It is a quiet morning at an Ebola treatment centre in the outskirts of N’zerekore, a town in the south-east of Guinea. The centre’s triage and reception areas are all empty, and medical staff are relaxed and jovial as they tend to a small handful of patients or catch up on some administrative tasks in the office.",
-      "tag": "analysis"
-    },
-    {
-      "title": "3 March 2020 | News Release The Democratic Republic of the Congo’s last Ebola patient discharged",
-      "link": "https://www.afro.who.int/news/democratic-republic-congos-last-ebola-patient-discharged",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville/Goma, 3 March 2020 – The last Ebola patient in the Democratic Republic of the Congo (DRC) was discharged today from a treatment centre in the north-eastern town of Beni. With no more confirmed cases, a 42-day countdown to declaring the end of the world’s second-deadliest Ebola epidemic began on 2 March.",
-      "tag": "cases"
     }
   ],
   "highWater": {
