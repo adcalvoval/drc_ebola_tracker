@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 31 Jul 2026 06:18:07 Z",
-  "fetchedAt": "2026-07-31T06:18:07Z",
+  "lastBuildDate": "Fri, 31 Jul 2026 11:30:03 Z",
+  "fetchedAt": "2026-07-31T11:30:03Z",
   "itemCount": 236,
   "stats": {
     "drc": {
@@ -144,10 +144,31 @@
   },
   "items": [
     {
+      "title": "Epidemiological trends of Crimean-Congo hemorrhagic fever in South Asia: a systematic review",
+      "link": "https://link.springer.com/article/10.1186/s12879-026-14036-5",
+      "pubDate": "Fri, 31 Jul 2026 09:16:00 Z",
+      "desc": "Background. Crimean-Congo Hemorrhagic Fever is primarily transmitted through ticks or contact with infected animals or individuals. Its prevalence varies globally, with higher incidences observed in Asia and Africa. In South Asia, there are few longitudinal studies on CCHF despite reported outbreaks....",
+      "tag": "analysis"
+    },
+    {
+      "title": "La RDC face à une multiplication des cas de choléra en plus de l'épidémie d'Ebola - RFI",
+      "link": "https://www.rfi.fr/fr/afrique/20260731-la-rdc-face-%C3%A0-une-multiplication-des-cas-de-chol%C3%A9ra-en-plus-de-l-%C3%A9pid%C3%A9mie-d-ebola",
+      "pubDate": "Fri, 31 Jul 2026 08:22:00 Z",
+      "desc": "Ebola -- DR Congo. Significance Rating: 4 La RDC face à une multiplication des cas de choléra en plus de l'épidémie d'Ebola&nbsp;&nbsp;RFI",
+      "tag": "analysis"
+    },
+    {
       "title": "Original Research Accepted on 30 Jul 2026 Self management strategies for hypertensive patients on treatment in selected clinics at Ga-Dikgale, Capricorn District, Limpopo, South Africa in Public Health Education and Promotion Mamare Bopape Salphy Mmusi Tebogo Mothiba Frontiers in Public Health",
       "link": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1872496/abstract",
       "pubDate": "Fri, 31 Jul 2026 00:08:00 Z",
       "desc": "Abstract. Background: Hypertension remains a major global public health challenge, with high levels of undiagnosed and poorly controlled disease contributing substantially to morbidity and mortality. Effective self management is critical for achieving optimal blood pressure control, particularly in....",
+      "tag": "analysis"
+    },
+    {
+      "title": "An Unusual Case of Women’s Heart Disease: Dual Pathology Takotsubo Syndrome With Coexisting Spontaneous Coronary Artery Dissection",
+      "link": "https://doi.org/10.1016/j.hlc.2026.07.080",
+      "pubDate": "Thu, 30 Jul 2026 23:33:00 Z",
+      "desc": "DOI: 10.1016/j.hlc.2026.07.080\nAuthors: D. Barbaro, A. Sivashanmugarajah, P. Kollias, N. Montarello, M. Stokes, J. Marathe, J. Beltrame",
       "tag": "analysis"
     },
     {
@@ -184,6 +205,13 @@
       "pubDate": "Thu, 30 Jul 2026 19:22:00 Z",
       "desc": "Malaria -- Estado de Nuevo LeÃ³n, Mexico. Significance Rating: 3 Ébola avanza entre asesinatos, secuestro y más de un millón de desplazados&nbsp;&nbsp;Milenio",
       "tag": "analysis"
+    },
+    {
+      "title": "Third seasonal human CCHF case reported in Spain, in Ciudad Real",
+      "link": "https://beaconbio.org/en/report/?reportid=4576e372-b30c-4634-85b5-328b6dc39799",
+      "pubDate": "Thu, 30 Jul 2026 18:27:00 Z",
+      "desc": "Sources Detected a case of Crimean-Congo hemorrhagic fever in Ciudad Real, Manual submission, 30 Jul 2026 A case of Crimean-Congo hemorrhagic fever has been detected in Ciudad Real: a 46-year-old man, admitted to the Gómez Ulla Hospital, Manual submission, 30 Jul 2026 A case of Crimean-Congo hemorrhagic fever has been confirmed in the province of C",
+      "tag": "cases"
     },
     {
       "title": "République démocratique du Congo : le choléra est responsable de 3124 décès depuis le début de l'année Patrick GEROME - 30/07/2026 Lire plus➟",
@@ -312,10 +340,24 @@
       "tag": "analysis"
     },
     {
+      "title": "‘Do No (Further) Harm’ Ethics Guidelines for Migrant Disaster Victim Identification (MDVI)",
+      "link": "https://doi.org/10.31235/osf.io/rc8wy_v1",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.31235/osf.io/rc8wy_v1\nAuthors: Valentina Azarova, Geoff Boyce, Noemi Magugliani, Álvaro Ramírez-March\n The DVI framework, conceived and regulated by the INTERPOL Working Group, provides guidelines to intervene in catastrophic situations that result in “an unexpected death of many people”. This understanding of disasters frames the causes",
+      "tag": "analysis"
+    },
+    {
       "title": "Occult Congenital Tuberculosis: Clinical Lessons from Divergent Outcomes in Two Pairs of IVF Twin Pregnancies — A Case Report",
       "link": "https://doi.org/10.21203/rs.3.rs-10216436/v1",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10216436/v1\nAuthors: Zhenpeng Gao, Yuqin Li, Rui Gao, Weifang Zhou, Chu Chu\n Abstract \n                 Background\n Congenital tuberculosis (CTB) is rare but often severe. Although CTB is usually associated with clinically apparent maternal tuberculosis, maternal infection may be asymptomatic, particularly durin",
+      "tag": "analysis"
+    },
+    {
+      "title": "Diagnostic Performance of Advanced Geometric Indices versus Traditional Anthropometric Indices in Evaluating Female Infertility Risk: A Cross-Sectional Study",
+      "link": "https://doi.org/10.21203/rs.3.rs-10176089/v1",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10176089/v1\nAuthors: Gülşah Kızılgün Aksoy, Ümmügülsüm Esenkaya\n Abstract \n                 \n                   Background \n                  Infertility impacts reproductive-age couples worldwide, with obesity—especially abdominal obesity—being increasingly recognized as a factor in female reproducti",
       "tag": "analysis"
     },
     {
@@ -326,17 +368,17 @@
       "tag": "analysis"
     },
     {
-      "title": "‘Do No (Further) Harm’ Ethics Guidelines for Migrant Disaster Victim Identification (MDVI)",
-      "link": "https://doi.org/10.31235/osf.io/rc8wy_v1",
+      "title": "Editor’s Note for the Report “Host genetic diversity enables Ebola hemorrhagic fever pathogenesis and resistance”",
+      "link": "https://doi.org/10.1126/science.aek4288",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.31235/osf.io/rc8wy_v1\nAuthors: Valentina Azarova, Geoff Boyce, Noemi Magugliani, Álvaro Ramírez-March\n The DVI framework, conceived and regulated by the INTERPOL Working Group, provides guidelines to intervene in catastrophic situations that result in “an unexpected death of many people”. This understanding of disasters frames the causes",
+      "desc": "DOI: 10.1126/science.aek4288\nAuthors: H. Holden Thorp",
       "tag": "analysis"
     },
     {
-      "title": "<i>XXYLT1</i> and Mendelian Retinal Dystrophy",
-      "link": "https://doi.org/10.1001/jamaophthalmol.2026.2795",
+      "title": "Paraneoplastic Adult‐Onset Still's Disease Caused by Mediastinal Lymph Node Carcinoma of Unknown Primary Site, Most Likely Lung Adenocarcinoma",
+      "link": "https://doi.org/10.1111/1756-185x.70804",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1001/jamaophthalmol.2026.2795\n \n                     Importance \n                     Substantial unexplained heritability remains for pathogenic inherited retinal disease (IRD) variants. Application of genome-wide association studies (GWAS) could help identify causal genes in rare",
+      "desc": "DOI: 10.1111/1756-185x.70804\nAuthors: Yoshinori Taniguchi, Daiki Okada",
       "tag": "analysis"
     },
     {
@@ -354,10 +396,45 @@
       "tag": "analysis"
     },
     {
-      "title": "Paraneoplastic Adult‐Onset Still's Disease Caused by Mediastinal Lymph Node Carcinoma of Unknown Primary Site, Most Likely Lung Adenocarcinoma",
-      "link": "https://doi.org/10.1111/1756-185x.70804",
+      "title": "<i>XXYLT1</i> and Mendelian Retinal Dystrophy",
+      "link": "https://doi.org/10.1001/jamaophthalmol.2026.2795",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/1756-185x.70804\nAuthors: Yoshinori Taniguchi, Daiki Okada",
+      "desc": "DOI: 10.1001/jamaophthalmol.2026.2795\n \n                     Importance \n                     Substantial unexplained heritability remains for pathogenic inherited retinal disease (IRD) variants. Application of genome-wide association studies (GWAS) could help identify causal genes in rare",
+      "tag": "analysis"
+    },
+    {
+      "title": "EXCLUSIVE: Congo’s Ebola epidemic started at least 4 months before it was detected",
+      "link": "https://doi.org/10.1126/science.zyr86mi",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1126/science.zyr86mi",
+      "tag": "analysis"
+    },
+    {
+      "title": "Central Nervous System Infection by Vibrio cholerae Diagnosed by Metagenomic Next-Generation Sequencing: A Case Report",
+      "link": "https://doi.org/10.21203/rs.3.rs-10352170/v1",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10352170/v1\nAuthors: Xuehua Li, Zeng Lu, Qianqian Liu, Shisong Yang, Zhongyan Li\n Abstract \n                 \n                  Introduction\n :\n                   Vibrio cholerae \n                  central nervous system (CNS) infection is extremely rare, typically reported in immunocompromised pa",
+      "tag": "analysis"
+    },
+    {
+      "title": "First report of Corynespora cassiicola causing leaf spot on Begonia fimbristipula in China",
+      "link": "https://doi.org/10.1371/journal.pone.0346996",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.pone.0346996\nAuthors: Xiaobo Zhang, Xiaoyi Zuo, Jianhua Lu, Ya Xiao, Yuanshun Wang, Huan Chen, Yuting Zhang, Xun Lu\n \n                     Background \n                     \n                       Begonia fimbristipula \n                      , an economi",
+      "tag": "analysis"
+    },
+    {
+      "title": "What does a health-zone case-fatality ratio measure during an active outbreak? Reported mortality, mapped health-facility context, and case-death reporting heterogeneity in the 2026 Bundibugyo virus disease epidemic in DR Congo",
+      "link": "https://doi.org/10.64898/2026.07.28.26359162",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.28.26359162\nAuthors: Johan G.L. Verheyden, Celestin Nzanzu Mudogo, Wolfgang Jacquet\n Abstract\n\nBackground. During an active outbreak, deaths divided by confirmed cases can be mistaken for biological severity or quality of care even though outcomes remain unresolved and reporting and ascertainment differ across places. W",
+      "tag": "cases"
+    },
+    {
+      "title": "How Predictable Was the 2026 Bundibugyo Virus Disease Outbreak? A Rolling-Origin Evaluation of Short-Term Forecast Models, an Empirically Recalibrated Bayesian Model, and a Data-Driven Baseline–Bayesian Ensemble, Using Daily Surveillance Data",
+      "link": "https://doi.org/10.64898/2026.07.28.26359159",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.28.26359159\nAuthors: Johan G.L. Verheyden, Celestin Nzanzu Mudogo, Wolfgang Jacquet\n Background\nThe 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo became the largest recorded epidemic caused by Bundibugyo virus and showed unusually rapid early growth. Initial projections warned that it co",
       "tag": "analysis"
     },
     {
@@ -557,17 +634,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Fièvre Jaune",
-      "link": "https://anss-guinee.org/fievre-jaune/",
-      "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
-      "desc": "Résumé. La fièvre jaune est une maladie virale hémorragique transmise par la piqûre de moustiques infectés. Elle se manifeste par une fièvre brutale, des maux de tête, des douleurs musculaires et, dans les formes graves, un ictère (jaunisse) et des hémorragies.",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola / Marburg",
       "link": "https://anss-guinee.org/ebola-marburg/",
       "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
       "desc": "Résumé. Les maladies à virus Ebola et Marburg sont des fièvres hémorragiques virales sévères, souvent mortelles, transmises par contact avec le sang, les sécrétions ou les fluides corporels de personnes ou d’animaux infectés (chauves-souris, primates).",
+      "tag": "analysis"
+    },
+    {
+      "title": "Fièvre Jaune",
+      "link": "https://anss-guinee.org/fievre-jaune/",
+      "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
+      "desc": "Résumé. La fièvre jaune est une maladie virale hémorragique transmise par la piqûre de moustiques infectés. Elle se manifeste par une fièvre brutale, des maux de tête, des douleurs musculaires et, dans les formes graves, un ictère (jaunisse) et des hémorragies.",
       "tag": "analysis"
     },
     {
@@ -760,6 +837,13 @@
       "tag": "analysis"
     },
     {
+      "title": "H3K27me3 maintains baseline network excitability after status epilepticus",
+      "link": "https://doi.org/10.64898/2026.07.24.740616",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.24.740616\nAuthors: Jose Ezekiel C. Espina, Olivia R. Hoffman, Jennifer L. Koehler, Barry A. Schoenike, Avtar S. Roopra\n ABSTRACT \n                 \n                  The processes by which epileptic insults precipitate the molecular, cellular, and network alterations in the brain that lead to epil",
+      "tag": "analysis"
+    },
+    {
       "title": "The role of immune cells in Hantaan-induced hemorrhagic fever with renal syndrome",
       "link": "https://doi.org/10.3389/fimmu.2026.1921852",
       "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
@@ -774,6 +858,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Élaboration des procédures d’analyse pour fièvres virales hémorragiques",
+      "link": "https://doi.org/10.64490/ccby6639",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64490/ccby6639\nAuthors: Man Hua, Isabelle Meunier\n Depuis l’épidémie du virus Ebola Bundibugyo en 2026, il est requis pour tous les établissements d’être en mesure de prétrier et d’isoler rapidement les patients suspectés d'être atteints d'une fièvre hémorragique virale. Une évaluation médicale du patient est ensuite réalisée pour dé",
+      "tag": "analysis"
+    },
+    {
       "title": "A cross-sectional study reveals complex associations between gastrointestinal parasite composition and faecal immune and inflammatory biomarkers in wildlife and livestock in Kenya",
       "link": "https://doi.org/10.3389/fimmu.2026.1881798",
       "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
@@ -781,10 +872,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Élaboration des procédures d’analyse pour fièvres virales hémorragiques",
-      "link": "https://doi.org/10.64490/ccby6639",
+      "title": "Machine learning reveals temperature as a key predictor of dengue risk across Thailand’s provinces: A 20-year analysis",
+      "link": "https://doi.org/10.1371/journal.pntd.0014590",
       "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64490/ccby6639\nAuthors: Man Hua, Isabelle Meunier\n Depuis l’épidémie du virus Ebola Bundibugyo en 2026, il est requis pour tous les établissements d’être en mesure de prétrier et d’isoler rapidement les patients suspectés d'être atteints d'une fièvre hémorragique virale. Une évaluation médicale du patient est ensuite réalisée pour dé",
+      "desc": "DOI: 10.1371/journal.pntd.0014590\nAuthors: Pikkanet Suttirat, Sudarat Chadsuthi, Supassorn Aekthong, Joacim Rocklöv, Dominique J. Bicout, Peter Haddawy, Myat Su Yin, Saranath Lawpoolsri, Charin Modchang\n \n                     Background \n                     Dengue fever remains a critical public h",
+      "tag": "analysis"
+    },
+    {
+      "title": "Comparative Time–Space Evolution of Bundibugyo Ebolavirus Glycoprotein Across the 2007, 2012, and 2026 Outbreaks",
+      "link": "https://doi.org/10.21203/rs.3.rs-10265918/v1",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10265918/v1\nAuthors: Young-Chul Park\n Abstract \n                 Bundibugyo ebolavirus (BDBV) is one of the recognized human-pathogenic ebolaviruses and has caused three documented outbreaks in Uganda (2007), the Democratic Republic of the Congo (2012), and the Democratic Republic of the Congo/Uganda (2026). Alt",
       "tag": "analysis"
     },
     {
@@ -834,20 +932,6 @@
       "link": "https://doi.org/10.1093/jimmun/vkag141.285",
       "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1093/jimmun/vkag141.285\nAuthors: Arlind Mara, Arlind Mara, Morgan Hunte, Nathan Velazquez, Jeremy Miller, Rosemary Ozyck, Joseph Darkwah, Edan Tulman, Steven Geary, Steven Szczepanek\n Abstract \n                   \n                     Introduction \n                     Neutrophil",
-      "tag": "analysis"
-    },
-    {
-      "title": "Machine learning reveals temperature as a key predictor of dengue risk across Thailand’s provinces: A 20-year analysis",
-      "link": "https://doi.org/10.1371/journal.pntd.0014590",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.pntd.0014590\nAuthors: Pikkanet Suttirat, Sudarat Chadsuthi, Supassorn Aekthong, Joacim Rocklöv, Dominique J. Bicout, Peter Haddawy, Myat Su Yin, Saranath Lawpoolsri, Charin Modchang\n \n                     Background \n                     Dengue fever remains a critical public h",
-      "tag": "analysis"
-    },
-    {
-      "title": "Comparative Time–Space Evolution of Bundibugyo Ebolavirus Glycoprotein Across the 2007, 2012, and 2026 Outbreaks",
-      "link": "https://doi.org/10.21203/rs.3.rs-10265918/v1",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10265918/v1\nAuthors: Young-Chul Park\n Abstract \n                 Bundibugyo ebolavirus (BDBV) is one of the recognized human-pathogenic ebolaviruses and has caused three documented outbreaks in Uganda (2007), the Democratic Republic of the Congo (2012), and the Democratic Republic of the Congo/Uganda (2026). Alt",
       "tag": "analysis"
     },
     {
@@ -991,6 +1075,27 @@
       "tag": "cases"
     },
     {
+      "title": "Development of Innovative Strategies for Early Detection, Prevention, and Control of Emerging Infectious Diseases in the United States Through Integrated Public Health Systems",
+      "link": "https://doi.org/10.34257/gjmrk259014",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.34257/gjmrk259014\nAuthors: Dr. Odira Felicita Ogbu\n Background: As strikingly shown by the series of shocks—H1N1 influenza, MERS-CoV,\nEbola, Zika, and most recently the SARS-CoV-2 epidemic, which claimed more than 1.2\nmillion lives in the United States and caused an projected 14 trillion in combined direct and\nindirect economic damag",
+      "tag": "analysis"
+    },
+    {
+      "title": "One Health diagnostics at the human–animal–environment interface: a structured narrative review of cross-sector collaboration, capacity building, and technological innovations",
+      "link": "https://doi.org/10.3389/fitd.2026.1859816",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fitd.2026.1859816\n \n                     Background \n                     Zoonotic diseases at the human–animal–environment interface pose an increasing global health threat, necessitating integrated diagnostic strategies under the One Health framework.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Case Report: Complete Kawasaki disease in a 2-month-old infant without coronary involvement",
+      "link": "https://doi.org/10.3389/fped.2026.1865309",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fped.2026.1865309\nAuthors: Réka Solyom, Daniela Toma, Lorena Elena Meliț, Zsuzsanna Erzsébet Papp, Zoltán Derzsi, Henrietta Dimén\n \n                     Background \n                     Kawasaki disease (KD) is a systemic vasculitis, of unknown etiology, that usually occurs in children between the",
+      "tag": "analysis"
+    },
+    {
       "title": "Undiagnosed coeliac disease presenting with oral ulcers: a missed opportunity",
       "link": "https://doi.org/10.1136/bmj-2026-100371",
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
@@ -1005,13 +1110,6 @@
       "tag": "response"
     },
     {
-      "title": "Case Report: Complete Kawasaki disease in a 2-month-old infant without coronary involvement",
-      "link": "https://doi.org/10.3389/fped.2026.1865309",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fped.2026.1865309\nAuthors: Réka Solyom, Daniela Toma, Lorena Elena Meliț, Zsuzsanna Erzsébet Papp, Zoltán Derzsi, Henrietta Dimén\n \n                     Background \n                     Kawasaki disease (KD) is a systemic vasculitis, of unknown etiology, that usually occurs in children between the",
-      "tag": "analysis"
-    },
-    {
       "title": "Upaya Pencegahan Demam Berdarah Dengue Melalui Program Pengabdian Kepada Masyarakat di Tabing Banda Gadang, Padang",
       "link": "https://doi.org/10.58218/kreasi.v6i2.3695",
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
@@ -1024,20 +1122,6 @@
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.21.26358330\nAuthors: Federico Fanelli, Francesco Parino, Maria Amalia Pelle, Boxuan Wang, Yap Boum, Mosoka Fallah, Placide Mbala, Reagan Luvande Okingo, Vincent Ronin, Yazdan Yazdanpanah, Chiara Poletto, Eugenio Valdano, Vittoria Colizza\n The ongoing 2026 Bundibugyo Ebola outbreak in the Democratic Republic of the Congo",
       "tag": "response"
-    },
-    {
-      "title": "One Health diagnostics at the human–animal–environment interface: a structured narrative review of cross-sector collaboration, capacity building, and technological innovations",
-      "link": "https://doi.org/10.3389/fitd.2026.1859816",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fitd.2026.1859816\n \n                     Background \n                     Zoonotic diseases at the human–animal–environment interface pose an increasing global health threat, necessitating integrated diagnostic strategies under the One Health framework.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Development of Innovative Strategies for Early Detection, Prevention, and Control of Emerging Infectious Diseases in the United States Through Integrated Public Health Systems",
-      "link": "https://doi.org/10.34257/gjmrk259014",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.34257/gjmrk259014\nAuthors: Dr. Odira Felicita Ogbu\n Background: As strikingly shown by the series of shocks—H1N1 influenza, MERS-CoV,\nEbola, Zika, and most recently the SARS-CoV-2 epidemic, which claimed more than 1.2\nmillion lives in the United States and caused an projected 14 trillion in combined direct and\nindirect economic damag",
-      "tag": "analysis"
     },
     {
       "title": "刚果（金）埃博拉确诊病例接近3000例 - QQ News",
@@ -1418,11 +1502,18 @@
       "tag": "response"
     },
     {
-      "title": "Pericardial Effusion and Fibrotic Nonspecific Interstitial Pneumonia as Initial Manifestations of Primary Sjögren’s Syndrome: A Case Report",
-      "link": "https://doi.org/10.36948/ijfmr.2026.v08i04.84336",
+      "title": "Development and Characterization of a Recombinant Bundibugyo Virus Expressing a Fluorescent Reporter Protein",
+      "link": "https://doi.org/10.1080/22221751.2026.2709847",
       "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.36948/ijfmr.2026.v08i04.84336\nAuthors: Mehdi Maaroufi, Hanaa Harraz, Khadija Chaanoun, Hanane Benjelloun, Nahid Zaghba\n Primary Sjogren's syndrome is a systemic autoimmune disease mainly characterized by lymphocytic involvement of exocrine glands, but extraglandular manifestations may occasionally dominate the clinical presentation.",
+      "desc": "DOI: 10.1080/22221751.2026.2709847\nAuthors: Shilpi Jain, Éric Bergeron, Mike Flint, Joel M. Montgomery, Christina F. Spiropoulou, César G. Albariño",
       "tag": "analysis"
+    },
+    {
+      "title": "Immunogenicity of recombinant vesicular stomatitis virus-vectored vaccines expressing the Machupo virus glycoprotein in different genome positions",
+      "link": "https://doi.org/10.1128/jvi.00357-26",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1128/jvi.00357-26\nAuthors: Rachel Erickson, Paul Bates\n ABSTRACT \n                   \n                     \n                     Recombinant vesicular stomatitis virus (rVSV) is a powerful vaccine platform that elicits durable cellular and humoral immune responses. rVSV vaccines have succes",
+      "tag": "response"
     },
     {
       "title": "The native conformational landscape and priming mechanism of herpes simplex virus glycoprotein B",
@@ -1439,18 +1530,11 @@
       "tag": "analysis"
     },
     {
-      "title": "Development and Characterization of a Recombinant Bundibugyo Virus Expressing a Fluorescent Reporter Protein",
-      "link": "https://doi.org/10.1080/22221751.2026.2709847",
+      "title": "Pericardial Effusion and Fibrotic Nonspecific Interstitial Pneumonia as Initial Manifestations of Primary Sjögren’s Syndrome: A Case Report",
+      "link": "https://doi.org/10.36948/ijfmr.2026.v08i04.84336",
       "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1080/22221751.2026.2709847\nAuthors: Shilpi Jain, Éric Bergeron, Mike Flint, Joel M. Montgomery, Christina F. Spiropoulou, César G. Albariño",
+      "desc": "DOI: 10.36948/ijfmr.2026.v08i04.84336\nAuthors: Mehdi Maaroufi, Hanaa Harraz, Khadija Chaanoun, Hanane Benjelloun, Nahid Zaghba\n Primary Sjogren's syndrome is a systemic autoimmune disease mainly characterized by lymphocytic involvement of exocrine glands, but extraglandular manifestations may occasionally dominate the clinical presentation.",
       "tag": "analysis"
-    },
-    {
-      "title": "Immunogenicity of recombinant vesicular stomatitis virus-vectored vaccines expressing the Machupo virus glycoprotein in different genome positions",
-      "link": "https://doi.org/10.1128/jvi.00357-26",
-      "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/jvi.00357-26\nAuthors: Rachel Erickson, Paul Bates\n ABSTRACT \n                   \n                     \n                     Recombinant vesicular stomatitis virus (rVSV) is a powerful vaccine platform that elicits durable cellular and humoral immune responses. rVSV vaccines have succes",
-      "tag": "response"
     },
     {
       "title": "A Novel Weighted Ebola Vector Optimization Based Charging Scheduling of Electric Vehicle Integrated with PV Charging Stations",
@@ -1709,90 +1793,6 @@
       "link": "https://www.afro.who.int/news/democratic-republic-congos-last-ebola-patient-discharged",
       "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
       "desc": "Brazzaville/Goma, 3 March 2020 – The last Ebola patient in the Democratic Republic of the Congo (DRC) was discharged today from a treatment centre in the north-eastern town of Beni. With no more confirmed cases, a 42-day countdown to declaring the end of the world’s second-deadliest Ebola epidemic began on 2 March.",
-      "tag": "cases"
-    },
-    {
-      "title": "26 September 2022 | Feature Story Curbing Ebola resurgence risk among survivors in Democratic Republic of the Congo",
-      "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/curbing-ebola-resurgence-risk-among-survivors-democratic-republic-congo",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Kinshasa – In 2018, World Health Organization (WHO), working with the Democratic Republic of the Congo health authorities and other health partners, set up a programme to monitor the health of Ebola survivors and support them in their recovery. Dr Raymond Pallawo, a WHO epidemiologist and the....",
-      "tag": "analysis"
-    },
-    {
-      "title": "28 November 2018 JOINT RELEASE: Clarification on alleged Ebola death in Kabarole District.",
-      "link": "https://www.afro.who.int/news/joint-release-clarification-alleged-ebola-death-kabarole-district",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "JOINT RELEASE: Clarification on alleged Ebola death in Kabarole District.\n\nKampala, 28 November 2018 - Following media stories on the alleged suspected Ebola death in Kabarole District, the Ministry of Health together with the World Health Organization (WHO) wish to update the public as follows: On....",
-      "tag": "cases"
-    },
-    {
-      "title": "11 January 2023 | News Release Uganda declares end of Ebola disease outbreak",
-      "link": "https://www.afro.who.int/countries/uganda/news/uganda-declares-end-ebola-disease-outbreak",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville/Kampala – Uganda today declared the end of the Ebola disease outbreak caused by Sudan ebolavirus, less than four months after the first case was confirmed in the country’s central Mubende district on 20 September 2022. “Uganda put a swift end to the Ebola outbreak by ramping up key....",
-      "tag": "cases"
-    },
-    {
-      "title": "8 December 2022 | News Release COVID-19 burden lessens in Africa, vigilance crucial as year-end season begins",
-      "link": "https://www.afro.who.int/news/covid-19-burden-lessens-africa-vigilance-crucial-year-end-season-begins",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville – While Africa is witnessing its lowest level of new COVID-19 cases since the onset of the pandemic, a recent four-week rise—the first such sustained increase in four months—underscores the criticality of maintaining vigilance as the end-year holiday seasons sets in.",
-      "tag": "cases"
-    },
-    {
-      "title": "25 November 2022 | Feature Story Rapid response teams bolster Uganda’s Ebola fight",
-      "link": "https://www.afro.who.int/countries/uganda/news/rapid-response-teams-bolster-ugandas-ebola-fight",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Mubende – First meeting at 8:00am, last one at 7:00pm. In between, Hilda Wesonga untiringly goes from one village to another to sensitize communities on the current Ebola outbreak. Some evenings, Wesonga features on radio talk-shows where she answers listeners’ questions about the disease, how to protect oneself and where to seek care.",
-      "tag": "response"
-    },
-    {
-      "title": "27 September 2022 | News Release Democratic Republic of the Congo Ebola outbreak declared over, Uganda boosts response",
-      "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-ebola-outbreak-declared-over-uganda-boosts-response",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville/Kampala/Kinshasa – The Democratic Republic of the Congo today declared the end of an Ebola outbreak that re-emerged six weeks ago in the country’s North Kivu Province. The announcement came as neighbouring Uganda races to curb an unrelated outbreak declared last week.",
-      "tag": "response"
-    },
-    {
-      "title": "16 September 2022 | News Release Ghana declares end of Marburg virus disease outbreak",
-      "link": "https://www.afro.who.int/countries/ghana/news/ghana-declares-end-marburg-virus-disease-outbreak",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Accra/Brazzaville – Ghana today declared the end of the Marburg virus disease outbreak that was confirmed nearly two months ago. It was the first time the highly infectious haemorrhagic fever was detected in the West African country. Ghana’s Ministry of Health made the declaration after no new cases....",
-      "tag": "cases"
-    },
-    {
-      "title": "15 September 2021 | News Release Guinea declares end of Marburg virus disease outbreak",
-      "link": "https://www.afro.who.int/news/guinea-declares-end-marburg-virus-disease-outbreak",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville/Conakry – Guinea today declared the end of the Marburg virus disease outbreak having recorded no new cases over the past 42 days—two incubation periods, or the time between infection and the onset of symptoms. The virus was confirmed on 9 August, marking the first time the disease emerged in the country and in West Africa.",
-      "tag": "cases"
-    },
-    {
-      "title": "27 October 2022 | Feature Story Contact tracers and village health teams take on Ebola in Uganda",
-      "link": "https://www.afro.who.int/countries/uganda/news/contact-tracers-and-village-health-teams-take-ebola-uganda",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Madudu, Uganda ‒ Following the Ebola outbreak in Uganda, which was declared on 20 September, health assistant Nyangoma Kirrungi deployed to the frontlines of the country’s response day in and day out, working as a contact tracer in Madudu sub-county, one of the areas affected by the outbreak.",
-      "tag": "response"
-    },
-    {
-      "title": "13 November 2018 WHO and Ministry of Health Train health workers on Compassionate use of the Ebola vaccine",
-      "link": "https://www.afro.who.int/news/who-and-ministry-health-train-health-workers-compassionate-use-ebola-vaccine",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Kasese, 13th November 2018:- As the Ebola Virus Disease (EVD) outbreak escalates in the Democratic Republic of Congo (DRC), Uganda is ticking all the boxes to ensure that the country is able to respond effectively should there be a confirmed case of Ebola in the country.",
-      "tag": "cases"
-    },
-    {
-      "title": "9 November 2024 | News Release Rwanda begins countdown to declare Marburg outbreak over",
-      "link": "https://www.afro.who.int/countries/rwanda/news/rwanda-begins-countdown-declare-marburg-outbreak-over",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Kigali – Rwanda has discharged the last Marburg virus disease patient, kicking off the mandatory 42-day countdown to declare the end of the outbreak. The country has reported no new confirmed cases since 30 October 2024. The last patient was discharged on 8 November 2024.",
-      "tag": "cases"
-    },
-    {
-      "title": "22 March 2023 | News Release Equatorial Guinea confirms eight more Marburg cases",
-      "link": "https://www.afro.who.int/countries/equatorial-guinea/news/equatorial-guinea-confirms-eight-more-marburg-cases",
-      "pubDate": "Thu, 23 Jul 2026 09:49:00 Z",
-      "desc": "Brazzaville/Malabo – Equatorial Guinea’s Ministry of Health has confirmed eight more cases of Marburg, bringing the number of confirmed cases to nine since the outbreak of the viral haemorrhagic fever was declared on 13 February. The new cases were confirmed following laboratory analysis of additional samples.",
       "tag": "cases"
     }
   ],
