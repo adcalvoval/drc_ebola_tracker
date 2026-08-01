@@ -1,8 +1,8 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 01 Aug 2026 02:56:09 Z",
-  "fetchedAt": "2026-08-01T02:56:09Z",
-  "itemCount": 236,
+  "lastBuildDate": "Sat, 01 Aug 2026 06:01:36 Z",
+  "fetchedAt": "2026-08-01T06:01:36Z",
+  "itemCount": 237,
   "stats": {
     "drc": {
       "confirmed": 3360,
@@ -223,18 +223,18 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Main Cyclosporiasis Outbreak Is Winding Down, But Others Are Emerging",
-      "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-073126/",
-      "pubDate": "Fri, 31 Jul 2026 13:21:00 Z",
-      "desc": "While the largest cyclospora outbreak appears to be winding down, others with unknown sources keep popping up. Cyclospora, a parasite that’s now infamous for causing “explosive” diarrhea, among other symptoms, is often traced back to tainted produce. U.S.",
-      "tag": "analysis"
-    },
-    {
       "title": "COVID is still here. Is the pandemic?",
       "link": "https://www.cidrap.umn.edu/covid-19/covid-still-here-pandemic",
       "pubDate": "Fri, 31 Jul 2026 13:21:00 Z",
       "desc": "It’s been three years since the World Health Organization declared an end to the COVID-19 public health emergency, but COVID still circulates worldwide. Does that mean the pandemic is still going on, just in a non-emergency phase? Or has COVID become an endemic virus, like the flu? CIDRAP News....",
       "tag": "pheic"
+    },
+    {
+      "title": "Main Cyclosporiasis Outbreak Is Winding Down, But Others Are Emerging",
+      "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-073126/",
+      "pubDate": "Fri, 31 Jul 2026 13:21:00 Z",
+      "desc": "While the largest cyclospora outbreak appears to be winding down, others with unknown sources keep popping up. Cyclospora, a parasite that’s now infamous for causing “explosive” diarrhea, among other symptoms, is often traced back to tainted produce. U.S.",
+      "tag": "analysis"
     },
     {
       "title": "No Ebola case reported in country so far; screening strengthened at Points of Entry: Nadda",
@@ -272,24 +272,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Clinical phenotypes and disease outcomes of patients with systemic lupus erythematosus meeting indication for primary aldosteronism testing",
-      "link": "https://doi.org/10.1177/09612033261473968",
+      "title": "Unveiling brucellosis risks in breeding herds: Case study on diagnostic failures and control gaps in South Africa",
+      "link": "https://doi.org/10.4102/ojvr.v93i1.2264",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/09612033261473968\nAuthors: Matthew Wong, Muhammad Akram, Joanna R. Kent, Peter J. Fuller, Alberta Y. Hoi, Jun Yang, Fabien B. Vincent\n \n                     Background \n                     Hypertension is prevalent and contributes significantly to cardiovascular risk in patients with systemic lup",
-      "tag": "analysis"
-    },
-    {
-      "title": "Astaxanthin exerts neuroprotection against experimental intracerebral hemorrhage in mice: association with anti-neuroinflammation and the Nrf2-ARE pathway",
-      "link": "https://doi.org/10.3389/fneur.2026.1879830",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fneur.2026.1879830\nAuthors: Xingfen Su, Lijin Wu, Fuxiang Chen\n Astaxanthin (ATX) is a dietary carotenoid that possesses potent effects of anti-oxidation, anti-inflammation, and anti-cell death. ATX has neuroprotective properties in a variety of neurological diseases. However, whether ATX has a neuroprotective effect in intracer",
-      "tag": "analysis"
-    },
-    {
-      "title": "Co-circulation of Crimean–Congo hemorrhagic fever virus and spotted fever group Rickettsia in cattle and ticks from cattle in Kosovo",
-      "link": "https://doi.org/10.3389/fvets.2026.1888406",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fvets.2026.1888406\nAuthors: Jignesh Italiya, Kristýna Hrazdilová, Seyma S. Celina, Pavlina Nekudova, Tekkara Allan Obonyom, Avni Robaj, Jiri Cerny, David Modry, Lisa E. Hensley, Anne W. Rimoin, Ludek Zurek\n \n                     Background \n                     \n                      Changes in cl",
+      "desc": "DOI: 10.4102/ojvr.v93i1.2264\nAuthors: Koketso D. Mazwi, Emmanuel P. Lita, Ayesha Hassim, Emmanuel Seakamela, Itumeleng Matle, Farah Abdool-Khader, Gerhardus S. Scheepers, Yusuf B. Ngoshe, Henriette van Heerden\n Brucellosis is a zoonotic pathogen of livestock, wildlife and humans, with significant implications for reproductive losses and publ",
       "tag": "analysis"
     },
     {
@@ -300,10 +286,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Unveiling brucellosis risks in breeding herds: Case study on diagnostic failures and control gaps in South Africa",
-      "link": "https://doi.org/10.4102/ojvr.v93i1.2264",
+      "title": "Co-circulation of Crimean–Congo hemorrhagic fever virus and spotted fever group Rickettsia in cattle and ticks from cattle in Kosovo",
+      "link": "https://doi.org/10.3389/fvets.2026.1888406",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4102/ojvr.v93i1.2264\nAuthors: Koketso D. Mazwi, Emmanuel P. Lita, Ayesha Hassim, Emmanuel Seakamela, Itumeleng Matle, Farah Abdool-Khader, Gerhardus S. Scheepers, Yusuf B. Ngoshe, Henriette van Heerden\n Brucellosis is a zoonotic pathogen of livestock, wildlife and humans, with significant implications for reproductive losses and publ",
+      "desc": "DOI: 10.3389/fvets.2026.1888406\nAuthors: Jignesh Italiya, Kristýna Hrazdilová, Seyma S. Celina, Pavlina Nekudova, Tekkara Allan Obonyom, Avni Robaj, Jiri Cerny, David Modry, Lisa E. Hensley, Anne W. Rimoin, Ludek Zurek\n \n                     Background \n                     \n                      Changes in cl",
+      "tag": "analysis"
+    },
+    {
+      "title": "Astaxanthin exerts neuroprotection against experimental intracerebral hemorrhage in mice: association with anti-neuroinflammation and the Nrf2-ARE pathway",
+      "link": "https://doi.org/10.3389/fneur.2026.1879830",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fneur.2026.1879830\nAuthors: Xingfen Su, Lijin Wu, Fuxiang Chen\n Astaxanthin (ATX) is a dietary carotenoid that possesses potent effects of anti-oxidation, anti-inflammation, and anti-cell death. ATX has neuroprotective properties in a variety of neurological diseases. However, whether ATX has a neuroprotective effect in intracer",
+      "tag": "analysis"
+    },
+    {
+      "title": "Clinical phenotypes and disease outcomes of patients with systemic lupus erythematosus meeting indication for primary aldosteronism testing",
+      "link": "https://doi.org/10.1177/09612033261473968",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1177/09612033261473968\nAuthors: Matthew Wong, Muhammad Akram, Joanna R. Kent, Peter J. Fuller, Alberta Y. Hoi, Jun Yang, Fabien B. Vincent\n \n                     Background \n                     Hypertension is prevalent and contributes significantly to cardiovascular risk in patients with systemic lup",
       "tag": "analysis"
     },
     {
@@ -333,6 +333,20 @@ window.FEED_DATA = {
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1007/s40203-026-00699-0\nAuthors: Govinda Rao Dabburu, Anjali Garg, Anchal Vishnoi, Neelja Singhal, Manish Kumar",
       "tag": "analysis"
+    },
+    {
+      "title": "Ebola: DRC outbreak is now “fastest growing in history,” as strikes hinder response",
+      "link": "https://doi.org/10.1136/bmj-2026-100469",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/bmj-2026-100469\nAuthors: Henry Wasswa",
+      "tag": "response"
+    },
+    {
+      "title": "Red Cross and Red Crescent Movement responses to viral hemorrhagic fever outbreaks: A mixedmethod evaluation of information management practices for Safe and Dignified Burials",
+      "link": "https://doi.org/10.14745/ccdr.v52i78a07",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.14745/ccdr.v52i78a07\nAuthors: Douglas Lau, Arwen Barr, Marguerite Gollish, Maria Munoz-Bertrand",
+      "tag": "response"
     },
     {
       "title": "Rethinking cardiac neurodevelopment: a dimensional model of adversity in congenital heart disease",
@@ -524,13 +538,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Diagnostic Performance of Advanced Geometric Indices versus Traditional Anthropometric Indices in Evaluating Female Infertility Risk: A Cross-Sectional Study",
-      "link": "https://doi.org/10.21203/rs.3.rs-10176089/v1",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10176089/v1\nAuthors: Gülşah Kızılgün Aksoy, Ümmügülsüm Esenkaya\n Abstract \n                 \n                   Background \n                  Infertility impacts reproductive-age couples worldwide, with obesity—especially abdominal obesity—being increasingly recognized as a factor in female reproducti",
-      "tag": "analysis"
-    },
-    {
       "title": "‘Do No (Further) Harm’ Ethics Guidelines for Migrant Disaster Victim Identification (MDVI)",
       "link": "https://doi.org/10.31235/osf.io/rc8wy_v1",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
@@ -545,6 +552,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Clinical and laboratory profile of Kyasanur forest disease in a tertiary care hospital in Goa",
+      "link": "https://doi.org/10.18203/2320-6012.ijrms20262633",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.18203/2320-6012.ijrms20262633\nAuthors: Chitralekha Nayak, Ruth Viegas, Edwin Gomes\n Background: Kyasanur Forest Disease (KFD), a tick-borne viral hemorrhagic fever once confined to the Western Ghats of Karnataka, India, has spread to adjacent states, including Goa, in recent years. This study aimed to analyze the clinical profiles of",
+      "tag": "analysis"
+    },
+    {
       "title": "Should Dengue Vaccination be Prioritized in Individuals with Diabetes?",
       "link": "https://doi.org/10.4103/ijdt.ijdt_17_26",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
@@ -552,10 +566,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Clinical and laboratory profile of Kyasanur forest disease in a tertiary care hospital in Goa",
-      "link": "https://doi.org/10.18203/2320-6012.ijrms20262633",
+      "title": "Diagnostic Performance of Advanced Geometric Indices versus Traditional Anthropometric Indices in Evaluating Female Infertility Risk: A Cross-Sectional Study",
+      "link": "https://doi.org/10.21203/rs.3.rs-10176089/v1",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.18203/2320-6012.ijrms20262633\nAuthors: Chitralekha Nayak, Ruth Viegas, Edwin Gomes\n Background: Kyasanur Forest Disease (KFD), a tick-borne viral hemorrhagic fever once confined to the Western Ghats of Karnataka, India, has spread to adjacent states, including Goa, in recent years. This study aimed to analyze the clinical profiles of",
+      "desc": "DOI: 10.21203/rs.3.rs-10176089/v1\nAuthors: Gülşah Kızılgün Aksoy, Ümmügülsüm Esenkaya\n Abstract \n                 \n                   Background \n                  Infertility impacts reproductive-age couples worldwide, with obesity—especially abdominal obesity—being increasingly recognized as a factor in female reproducti",
       "tag": "analysis"
     },
     {
@@ -1616,18 +1630,18 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "New Ebola Strain Death Toll Surpasses 1,000 as DRC Outbreak Spreads to Uganda - streamlinefeed.co.ke",
-      "link": "https://streamlinefeed.co.ke/news/new-ebola-strain-death-toll-surpasses-1000-drc-uganda",
-      "pubDate": "Fri, 24 Jul 2026 12:22:00 Z",
-      "desc": "-- DR Congo. Significance Rating: 1 New Ebola Strain Death Toll Surpasses 1,000 as DRC Outbreak Spreads to Uganda&nbsp;&nbsp;streamlinefeed.co.ke",
-      "tag": "analysis"
-    },
-    {
       "title": "Insecurity continues to impact Ebola outbreak response in DR Congo: UN - The Hans India",
       "link": "https://www.thehansindia.com/news/international/insecurity-continues-to-impact-ebola-outbreak-response-in-dr-congo-un-1100441",
       "pubDate": "Fri, 24 Jul 2026 12:22:00 Z",
       "desc": "-- DR Congo. Significance Rating: 1 Insecurity continues to impact Ebola outbreak response in DR Congo: UN&nbsp;&nbsp;The Hans India",
       "tag": "response"
+    },
+    {
+      "title": "New Ebola Strain Death Toll Surpasses 1,000 as DRC Outbreak Spreads to Uganda - streamlinefeed.co.ke",
+      "link": "https://streamlinefeed.co.ke/news/new-ebola-strain-death-toll-surpasses-1000-drc-uganda",
+      "pubDate": "Fri, 24 Jul 2026 12:22:00 Z",
+      "desc": "-- DR Congo. Significance Rating: 1 New Ebola Strain Death Toll Surpasses 1,000 as DRC Outbreak Spreads to Uganda&nbsp;&nbsp;streamlinefeed.co.ke",
+      "tag": "analysis"
     },
     {
       "title": "DR Congo's Ebola outbreak becomes fastest ever recorded - France 24",
@@ -1672,13 +1686,6 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Hantavirus disease: A review of global epidemiology, immunopathogenesis, clinical management, and future research priorities",
-      "link": "https://openalex.org/W7170503075",
-      "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4103/apjtb.apjtb_280_26\nAuthors: Md. Rimon Bhuiyan\nHantaviruses are rodent-borne zoonotic pathogens responsible for two major clinical syndromes: Hemorrhagic fever with renal syndrome and hantavirus pulmonary syndrome/cardiopulmonary syndrome. Although significant progress has been achieved in hantavirus research over recent decades, major",
-      "tag": "analysis"
-    },
-    {
       "title": "Prevalence and clinical correlates of autoimmune and infection-related antibodies in unexplained seizures in western China",
       "link": "https://doi.org/10.1186/s12865-026-00886-w",
       "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
@@ -1705,6 +1712,13 @@ window.FEED_DATA = {
       "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1055/s-0046-1825868\nAuthors: Ranjitha Manjunath, Supriya Gachinmath, Dhruti Manish Pandya, Jyothi Muni Reddy, Hilga Cathrine Akbar, Vanitha George Mohan, Somdipa Pal, Sidharth Totadri, Vandana Bharadwaj, Savitha Nagaraj, Anand Prakash\n Abstract \n                   Healthcare-associated infection (HAI) outbreaks",
       "tag": "response"
+    },
+    {
+      "title": "Hantavirus disease: A review of global epidemiology, immunopathogenesis, clinical management, and future research priorities",
+      "link": "https://openalex.org/W7170503075",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.4103/apjtb.apjtb_280_26\nAuthors: Md. Rimon Bhuiyan\nHantaviruses are rodent-borne zoonotic pathogens responsible for two major clinical syndromes: Hemorrhagic fever with renal syndrome and hantavirus pulmonary syndrome/cardiopulmonary syndrome. Although significant progress has been achieved in hantavirus research over recent decades, major",
+      "tag": "analysis"
     },
     {
       "title": "What the Bundibugyo Ebola outbreak in the Democratic Republic of the Congo and Uganda reveals about epidemic preparedness in West Africa",
@@ -1788,13 +1802,6 @@ window.FEED_DATA = {
       "link": "https://www.cidrap.umn.edu/ebola/quick-takes-ebola-death-toll-tops-1000-delaware-declares-measles-outbreak-h9n2-avian-flu",
       "pubDate": "Thu, 23 Jul 2026 20:44:00 Z",
       "desc": "COVID vaccination during pregnancy didn’t increase poor infant outcomes, data suggest.\n\nBig Joe / iStock. A yesterday in the Journal of Pediatric Health Care finds no difference in any of 13 US infant health outcomes and conditions before the COVID-19 pandemic and after their mothers were vaccinated....",
-      "tag": "analysis"
-    },
-    {
-      "title": "FDA identifies new Cyclospora outbreak with unknown source",
-      "link": "https://www.cidrap.umn.edu/cyclospora/fda-identifies-new-cyclospora-outbreak-unknown-source",
-      "pubDate": "Thu, 23 Jul 2026 19:42:00 Z",
-      "desc": "On Tuesday, Health and Human Services Secretary Robert F. Kennedy Jr. said the outbreak is “under control.” Still, the FDA lists the five-state outbreak as an ongoing investigation. Complicated investigation \n\nof a Cyclospora outbreak remains difficult. Small amounts of the parasite on fresh produce can cause illness.",
       "tag": "analysis"
     }
   ],
