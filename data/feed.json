@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 31 Jul 2026 22:07:19 Z",
-  "fetchedAt": "2026-07-31T22:07:20Z",
+  "lastBuildDate": "Sat, 01 Aug 2026 02:56:09 Z",
+  "fetchedAt": "2026-08-01T02:56:09Z",
   "itemCount": 236,
   "stats": {
     "drc": {
@@ -146,6 +146,20 @@
   },
   "items": [
     {
+      "title": "Congo's Ebola outbreak is second-largest on record, latest data shows",
+      "link": "https://health.economictimes.indiatimes.com/news/industry/congos-ebola-outbreak-is-second-largest-on-record-latest-data-shows/132779475",
+      "pubDate": "Sat, 01 Aug 2026 02:19:00 Z",
+      "desc": "Democratic Republic of Congo's fast-spreading Ebola outbreak is now the world's second-largest on record, government data showed on Friday, as transmission continues to outpace efforts to contain the epidemic. The number of cases reported across Congo has ‌risen to 3,532, the ⁠Communications....",
+      "tag": "cases"
+    },
+    {
+      "title": "Antibodies Cross-Reactive with Bundibugyo Virus in Ferrets Vaccinated with Ebola Virus Vaccine",
+      "link": "https://doi.org/10.3201/eid3208.262948",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.3201/eid3208.262948\nAuthors: Jordan Wight, Helene Schulz, Logan Banadyga",
+      "tag": "analysis"
+    },
+    {
       "title": "République démocratique du Congo : point de situation sur l'épidémie d'Ebola Patrick GEROME - 31/07/2026 Lire plus➟",
       "link": "https://www.mesvaccins.net/web/news/24326-republique-democratique-du-congo-point-de-situation-sur-l-epidemie-d-ebola",
       "pubDate": "Fri, 31 Jul 2026 20:42:00 Z",
@@ -209,18 +223,18 @@
       "tag": "cases"
     },
     {
-      "title": "COVID is still here. Is the pandemic?",
-      "link": "https://www.cidrap.umn.edu/covid-19/covid-still-here-pandemic",
-      "pubDate": "Fri, 31 Jul 2026 13:21:00 Z",
-      "desc": "It’s been three years since the World Health Organization declared an end to the COVID-19 public health emergency, but COVID still circulates worldwide. Does that mean the pandemic is still going on, just in a non-emergency phase? Or has COVID become an endemic virus, like the flu? CIDRAP News....",
-      "tag": "pheic"
-    },
-    {
       "title": "Main Cyclosporiasis Outbreak Is Winding Down, But Others Are Emerging",
       "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-073126/",
       "pubDate": "Fri, 31 Jul 2026 13:21:00 Z",
       "desc": "While the largest cyclospora outbreak appears to be winding down, others with unknown sources keep popping up. Cyclospora, a parasite that’s now infamous for causing “explosive” diarrhea, among other symptoms, is often traced back to tainted produce. U.S.",
       "tag": "analysis"
+    },
+    {
+      "title": "COVID is still here. Is the pandemic?",
+      "link": "https://www.cidrap.umn.edu/covid-19/covid-still-here-pandemic",
+      "pubDate": "Fri, 31 Jul 2026 13:21:00 Z",
+      "desc": "It’s been three years since the World Health Organization declared an end to the COVID-19 public health emergency, but COVID still circulates worldwide. Does that mean the pandemic is still going on, just in a non-emergency phase? Or has COVID become an endemic virus, like the flu? CIDRAP News....",
+      "tag": "pheic"
     },
     {
       "title": "No Ebola case reported in country so far; screening strengthened at Points of Entry: Nadda",
@@ -265,6 +279,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Astaxanthin exerts neuroprotection against experimental intracerebral hemorrhage in mice: association with anti-neuroinflammation and the Nrf2-ARE pathway",
+      "link": "https://doi.org/10.3389/fneur.2026.1879830",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fneur.2026.1879830\nAuthors: Xingfen Su, Lijin Wu, Fuxiang Chen\n Astaxanthin (ATX) is a dietary carotenoid that possesses potent effects of anti-oxidation, anti-inflammation, and anti-cell death. ATX has neuroprotective properties in a variety of neurological diseases. However, whether ATX has a neuroprotective effect in intracer",
+      "tag": "analysis"
+    },
+    {
       "title": "Co-circulation of Crimean–Congo hemorrhagic fever virus and spotted fever group Rickettsia in cattle and ticks from cattle in Kosovo",
       "link": "https://doi.org/10.3389/fvets.2026.1888406",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
@@ -272,10 +293,10 @@
       "tag": "analysis"
     },
     {
-      "title": "Astaxanthin exerts neuroprotection against experimental intracerebral hemorrhage in mice: association with anti-neuroinflammation and the Nrf2-ARE pathway",
-      "link": "https://doi.org/10.3389/fneur.2026.1879830",
+      "title": "Longitudinal Outcomes of Psychiatric Inpatients After Suicide Attempt: A Retrospective Study in Portugal",
+      "link": "https://doi.org/10.1192/j.eurpsy.2026.10218",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fneur.2026.1879830\nAuthors: Xingfen Su, Lijin Wu, Fuxiang Chen\n Astaxanthin (ATX) is a dietary carotenoid that possesses potent effects of anti-oxidation, anti-inflammation, and anti-cell death. ATX has neuroprotective properties in a variety of neurological diseases. However, whether ATX has a neuroprotective effect in intracer",
+      "desc": "DOI: 10.1192/j.eurpsy.2026.10218\nAuthors: M. J. Cunha, M. Cândido, G. Canhoto, M. Ribeiro, J. Domingos, S. Neto, A. Velosa\n \n                     Introduction \n                     Suicide attempts (SA) are the strongest predictor of future suicide. Hospitalizatio",
       "tag": "analysis"
     },
     {
@@ -293,10 +314,24 @@
       "tag": "analysis"
     },
     {
-      "title": "Longitudinal Outcomes of Psychiatric Inpatients After Suicide Attempt: A Retrospective Study in Portugal",
-      "link": "https://doi.org/10.1192/j.eurpsy.2026.10218",
+      "title": "Immunoglobulins in recurrent pregnancy loss: Emerging biomarkers and therapeutic targets",
+      "link": "https://doi.org/10.1007/s11033-026-12514-2",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1192/j.eurpsy.2026.10218\nAuthors: M. J. Cunha, M. Cândido, G. Canhoto, M. Ribeiro, J. Domingos, S. Neto, A. Velosa\n \n                     Introduction \n                     Suicide attempts (SA) are the strongest predictor of future suicide. Hospitalizatio",
+      "desc": "DOI: 10.1007/s11033-026-12514-2\nAuthors: Umme Kulsum, K. S. Praveen Kumar, Pallavi Shekar, C. Kamala, Naidu M. Swati Krishnaswami, Ananya Hegde, Lakshitha V. Jayakrishna, Meghana Hangala Shivakumaraswamy, Akila Prashant\n Abstract \n                   Recurrent pregnancy loss (RPL) is a multifactorial reproductive disord",
+      "tag": "analysis"
+    },
+    {
+      "title": "Diagnostic performance of clinical symptom combinations for Crimean-Congo hemorrhagic fever in emergency department patients with reported arthropod bites, stings, or exposure",
+      "link": "https://doi.org/10.1186/s41182-026-01043-0",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s41182-026-01043-0\nAuthors: Yasin Bilgin, Fatih Mehmet Sari, Cemalettin Sakal, Erdem Yakup Cimen, Orhan Tanrıverdi, Abdullah Emre Yurttutan, Umut Devrim Binay",
+      "tag": "analysis"
+    },
+    {
+      "title": "Repurposing drugs for treating dengue haemorrhagic fever and associated autoimmune diseases",
+      "link": "https://doi.org/10.1007/s40203-026-00699-0",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1007/s40203-026-00699-0\nAuthors: Govinda Rao Dabburu, Anjali Garg, Anchal Vishnoi, Neelja Singhal, Manish Kumar",
       "tag": "analysis"
     },
     {
@@ -489,13 +524,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Should Dengue Vaccination be Prioritized in Individuals with Diabetes?",
-      "link": "https://doi.org/10.4103/ijdt.ijdt_17_26",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4103/ijdt.ijdt_17_26\nAuthors: Jothydev Kesavadev, Sanjay Kalra, Shashank R. Joshi, Anoop Misra, Niti Pall, Banshi Saboo, Anuj Maheshwari, Amit Gupta, Rakesh Parikh, Manoj Chawla, Sunil Gupta, Anjana Ranjit Mohan, Sanjay Agarwal\n Abstract \n                   Type 2 diabetes (T2D) is a rapidly expanding global he",
-      "tag": "analysis"
-    },
-    {
       "title": "Diagnostic Performance of Advanced Geometric Indices versus Traditional Anthropometric Indices in Evaluating Female Infertility Risk: A Cross-Sectional Study",
       "link": "https://doi.org/10.21203/rs.3.rs-10176089/v1",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
@@ -514,6 +542,13 @@
       "link": "https://doi.org/10.21203/rs.3.rs-10216436/v1",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10216436/v1\nAuthors: Zhenpeng Gao, Yuqin Li, Rui Gao, Weifang Zhou, Chu Chu\n Abstract \n                 Background\n Congenital tuberculosis (CTB) is rare but often severe. Although CTB is usually associated with clinically apparent maternal tuberculosis, maternal infection may be asymptomatic, particularly durin",
+      "tag": "analysis"
+    },
+    {
+      "title": "Should Dengue Vaccination be Prioritized in Individuals with Diabetes?",
+      "link": "https://doi.org/10.4103/ijdt.ijdt_17_26",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.4103/ijdt.ijdt_17_26\nAuthors: Jothydev Kesavadev, Sanjay Kalra, Shashank R. Joshi, Anoop Misra, Niti Pall, Banshi Saboo, Anuj Maheshwari, Amit Gupta, Rakesh Parikh, Manoj Chawla, Sunil Gupta, Anjana Ranjit Mohan, Sanjay Agarwal\n Abstract \n                   Type 2 diabetes (T2D) is a rapidly expanding global he",
       "tag": "analysis"
     },
     {
@@ -1154,18 +1189,18 @@
       "tag": "cases"
     },
     {
-      "title": "KKenya and PATH strengthen partnership to advance UHC",
-      "link": "https://www.health.go.ke/kkenya-and-path-strengthen-partnership-advance-uhc",
-      "pubDate": "Mon, 27 Jul 2026 13:42:00 Z",
-      "desc": "- Cabinet Secretary for Health Hon. Aden Duale held a consultative meeting with a PATH Kenya delegation led by Country Director Ms. Carolyne Njuguna to strengthen collaboration in advancing Kenya’s health priorities and accelerating Universal Health Coverage.",
-      "tag": "analysis"
-    },
-    {
       "title": "National Ebola Virus Disease Preparedness and Response Taskforce Inaugural meeting",
       "link": "https://www.health.go.ke/national-ebola-virus-disease-preparedness-and-response-taskforce-inaugural-meeting",
       "pubDate": "Mon, 27 Jul 2026 13:42:00 Z",
       "desc": ", 2026 Kenya has strengthened its preparedness to prevent and respond to Ebola Virus Disease (EVD) as the National Ebola Virus Disease Preparedness and Response Taskforce held its inaugural meeting. Speaking during the meeting, Principal Secretary for Public Health and Professional Standards Mary....",
       "tag": "response"
+    },
+    {
+      "title": "KKenya and PATH strengthen partnership to advance UHC",
+      "link": "https://www.health.go.ke/kkenya-and-path-strengthen-partnership-advance-uhc",
+      "pubDate": "Mon, 27 Jul 2026 13:42:00 Z",
+      "desc": "- Cabinet Secretary for Health Hon. Aden Duale held a consultative meeting with a PATH Kenya delegation led by Country Director Ms. Carolyne Njuguna to strengthen collaboration in advancing Kenya’s health priorities and accelerating Universal Health Coverage.",
+      "tag": "analysis"
     },
     {
       "title": "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 10, Data as of 19 July 2026",
@@ -1231,13 +1266,6 @@
       "tag": "analysis"
     },
     {
-      "title": "An unusual case of pylephlebitis without a primary site of infection",
-      "link": "https://doi.org/10.1177/00494755261473023",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/00494755261473023\nAuthors: Jesly Abundez-Castrejon, Xóchitl Lizbeth Serrano-Almanza, Abraham Edgar Gracia-Ramos\n Pylephlebitis describes septic thrombosis of the portal vein. The most common risk factor for this condition is intra-abdominal infection. Nevertheless, the underlying cause remains unidentified in &gt;10% of cases. A",
-      "tag": "cases"
-    },
-    {
       "title": "Diagnostic Challenges of Acute Lymphoblastic Leukemia Masked by Recurrent Infection in an 18-Month-Old Child from a Resource-Limited Rural Setting: A Case Report",
       "link": "https://doi.org/10.21203/rs.3.rs-10223958/v1",
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
@@ -1250,6 +1278,13 @@
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.26442/00403660.2026.06.203653\nAuthors: Valery I. Podzolkov, Anna E. Bragina, Liubov A. Ponomareva, Elena N. Popova, Andrey B. Ponomarev, Daria A. Petrova, Ksenia M. Ochalaeva, Islam M. Karov, Aida I. Tarzimanova\n To date, the role of various types of programmed cell death in the occurrence and progression of infectious diseases has b",
       "tag": "analysis"
+    },
+    {
+      "title": "An unusual case of pylephlebitis without a primary site of infection",
+      "link": "https://doi.org/10.1177/00494755261473023",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1177/00494755261473023\nAuthors: Jesly Abundez-Castrejon, Xóchitl Lizbeth Serrano-Almanza, Abraham Edgar Gracia-Ramos\n Pylephlebitis describes septic thrombosis of the portal vein. The most common risk factor for this condition is intra-abdominal infection. Nevertheless, the underlying cause remains unidentified in &gt;10% of cases. A",
+      "tag": "cases"
     },
     {
       "title": "Upaya Pencegahan Demam Berdarah Dengue Melalui Program Pengabdian Kepada Masyarakat di Tabing Banda Gadang, Padang",
@@ -1420,34 +1455,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Targeting of ELMO2 by the <i>Shigella</i> E3 Ligase IpaH4.5 Reveals Key Differences Between ELMO Paralogs",
-      "link": "https://doi.org/10.64898/2026.07.25.740577",
-      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.25.740577\nAuthors: David F. Schad, Maarten F. de Jong, Dahee Seo, Benjamin L. Kocsis, Neal M. Alto\n \n                  The IpaH class of effector proteins secreted by\n                   Shigella flexneri \n                  ubiquitinate specific immune factors, targeting them for proteasomal degr",
-      "tag": "analysis"
-    },
-    {
-      "title": "Modeling Parkinsonian Freezing and Deep Brain Stimulation Effects in a Basal Ganglia Network",
-      "link": "https://doi.org/10.64898/2026.07.21.738458",
-      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.21.738458\nAuthors: Nahal Habibizadeh, Madeleine Bartlett\n he precise mechanism through which Deep Brain Stimulation (DBS) mitigates freezing episodes in Parkinson's disease remains unknown. We modelled Parkinsonian freezing using a model of the basal ganglia that adopts a Dynamic Neural Field network for simultaneous ac",
-      "tag": "analysis"
-    },
-    {
-      "title": "Vaccine gaps in Bundibugyo ebolavirus outbreak control and their implications for global public health preparedness and response",
-      "link": "https://doi.org/10.21203/rs.3.rs-10092649/v1",
-      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10092649/v1\nAuthors: Frank Adusei-Mensah\n Abstract \n                 The present study aims to critically examine recurrent Ebola virus disease (EVD) outbreaks—particularly Bundibugyo ebolavirus—with a focus on epidemiological trends, and gaps in vaccinology and public health preparedness, in order to inform con",
-      "tag": "response"
-    },
-    {
-      "title": "Hantavirus: A Comprehensive Narrative Review of Virology, Epidemiology, Pathogenesis, Clinical Manifestations, Diagnostics, and Emerging Therapeutic Strategies",
-      "link": "https://doi.org/10.1002/rmv.70190",
-      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/rmv.70190\nAuthors: Muhammad Kamran, Muhammad Bilal Habib, Adeel Shahid, Muhammad Ans Ahmar\n ABSTRACT \n                   \n                    Hantaviruses are a genus of negative‐sense, single‐stranded, tri‐segmented RNA viruses that are distributed worldwide. They cause two severe zoonotic diseases in hum",
-      "tag": "analysis"
-    },
-    {
       "title": "Rodent-borne Viral Haemorrhagic Fevers in Sub-Saharan Africa: A Critical Narrative Review of the Epidemiology, Surveillance, Genomic Insights and Diagnostic Advances in Lassa Fever",
       "link": "https://doi.org/10.56557/arjocs/2026/v8i1186",
       "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
@@ -1467,6 +1474,34 @@
       "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10233430/v1\nAuthors: Hamidreza Bashiri, Nastaran Tavangar, Elham Sadat Tabatabaei\n Abstract \n                 Background: Pyoderma gangrenosum is a rare neutrophilic dermatosis that can complicate Behçet disease. The simultaneous presentation of catastrophic multisite thrombosis and pyoderma gangrenosum as initi",
       "tag": "analysis"
+    },
+    {
+      "title": "Hantavirus: A Comprehensive Narrative Review of Virology, Epidemiology, Pathogenesis, Clinical Manifestations, Diagnostics, and Emerging Therapeutic Strategies",
+      "link": "https://doi.org/10.1002/rmv.70190",
+      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/rmv.70190\nAuthors: Muhammad Kamran, Muhammad Bilal Habib, Adeel Shahid, Muhammad Ans Ahmar\n ABSTRACT \n                   \n                    Hantaviruses are a genus of negative‐sense, single‐stranded, tri‐segmented RNA viruses that are distributed worldwide. They cause two severe zoonotic diseases in hum",
+      "tag": "analysis"
+    },
+    {
+      "title": "Targeting of ELMO2 by the <i>Shigella</i> E3 Ligase IpaH4.5 Reveals Key Differences Between ELMO Paralogs",
+      "link": "https://doi.org/10.64898/2026.07.25.740577",
+      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.25.740577\nAuthors: David F. Schad, Maarten F. de Jong, Dahee Seo, Benjamin L. Kocsis, Neal M. Alto\n \n                  The IpaH class of effector proteins secreted by\n                   Shigella flexneri \n                  ubiquitinate specific immune factors, targeting them for proteasomal degr",
+      "tag": "analysis"
+    },
+    {
+      "title": "Modeling Parkinsonian Freezing and Deep Brain Stimulation Effects in a Basal Ganglia Network",
+      "link": "https://doi.org/10.64898/2026.07.21.738458",
+      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.21.738458\nAuthors: Nahal Habibizadeh, Madeleine Bartlett\n he precise mechanism through which Deep Brain Stimulation (DBS) mitigates freezing episodes in Parkinson's disease remains unknown. We modelled Parkinsonian freezing using a model of the basal ganglia that adopts a Dynamic Neural Field network for simultaneous ac",
+      "tag": "analysis"
+    },
+    {
+      "title": "Vaccine gaps in Bundibugyo ebolavirus outbreak control and their implications for global public health preparedness and response",
+      "link": "https://doi.org/10.21203/rs.3.rs-10092649/v1",
+      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10092649/v1\nAuthors: Frank Adusei-Mensah\n Abstract \n                 The present study aims to critically examine recurrent Ebola virus disease (EVD) outbreaks—particularly Bundibugyo ebolavirus—with a focus on epidemiological trends, and gaps in vaccinology and public health preparedness, in order to inform con",
+      "tag": "response"
     },
     {
       "title": "Clinical Manifestations and Immunologic Features of Chediak–Higashi Syndrome: A 12-Year National Registry Study from Iran",
@@ -1581,18 +1616,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Insecurity continues to impact Ebola outbreak response in DR Congo: UN - The Hans India",
-      "link": "https://www.thehansindia.com/news/international/insecurity-continues-to-impact-ebola-outbreak-response-in-dr-congo-un-1100441",
-      "pubDate": "Fri, 24 Jul 2026 12:22:00 Z",
-      "desc": "-- DR Congo. Significance Rating: 1 Insecurity continues to impact Ebola outbreak response in DR Congo: UN&nbsp;&nbsp;The Hans India",
-      "tag": "response"
-    },
-    {
       "title": "New Ebola Strain Death Toll Surpasses 1,000 as DRC Outbreak Spreads to Uganda - streamlinefeed.co.ke",
       "link": "https://streamlinefeed.co.ke/news/new-ebola-strain-death-toll-surpasses-1000-drc-uganda",
       "pubDate": "Fri, 24 Jul 2026 12:22:00 Z",
       "desc": "-- DR Congo. Significance Rating: 1 New Ebola Strain Death Toll Surpasses 1,000 as DRC Outbreak Spreads to Uganda&nbsp;&nbsp;streamlinefeed.co.ke",
       "tag": "analysis"
+    },
+    {
+      "title": "Insecurity continues to impact Ebola outbreak response in DR Congo: UN - The Hans India",
+      "link": "https://www.thehansindia.com/news/international/insecurity-continues-to-impact-ebola-outbreak-response-in-dr-congo-un-1100441",
+      "pubDate": "Fri, 24 Jul 2026 12:22:00 Z",
+      "desc": "-- DR Congo. Significance Rating: 1 Insecurity continues to impact Ebola outbreak response in DR Congo: UN&nbsp;&nbsp;The Hans India",
+      "tag": "response"
     },
     {
       "title": "DR Congo's Ebola outbreak becomes fastest ever recorded - France 24",
@@ -1644,13 +1679,6 @@
       "tag": "analysis"
     },
     {
-      "title": "What the Bundibugyo Ebola outbreak in the Democratic Republic of the Congo and Uganda reveals about epidemic preparedness in West Africa",
-      "link": "https://doi.org/10.37432/jieph-d-26-00187",
-      "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.37432/jieph-d-26-00187\nAuthors: Virgil Kuassi Lokossou, Aishat Bukola Usman, Oyeronke Oyebanj, Kehinde Ogunyemi, Adama Ndir, Issiaka Sombie, Melchior Athanase Aissi\n The 2026 Bundibugyo Ebola outbreak in the Democratic Republic of the Congo (DRC) and Uganda has exposed critical vulnerabilities in epidemic preparedness despite substan",
-      "tag": "response"
-    },
-    {
       "title": "Prevalence and clinical correlates of autoimmune and infection-related antibodies in unexplained seizures in western China",
       "link": "https://doi.org/10.1186/s12865-026-00886-w",
       "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
@@ -1676,6 +1704,13 @@
       "link": "https://doi.org/10.1055/s-0046-1825868",
       "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1055/s-0046-1825868\nAuthors: Ranjitha Manjunath, Supriya Gachinmath, Dhruti Manish Pandya, Jyothi Muni Reddy, Hilga Cathrine Akbar, Vanitha George Mohan, Somdipa Pal, Sidharth Totadri, Vandana Bharadwaj, Savitha Nagaraj, Anand Prakash\n Abstract \n                   Healthcare-associated infection (HAI) outbreaks",
+      "tag": "response"
+    },
+    {
+      "title": "What the Bundibugyo Ebola outbreak in the Democratic Republic of the Congo and Uganda reveals about epidemic preparedness in West Africa",
+      "link": "https://doi.org/10.37432/jieph-d-26-00187",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.37432/jieph-d-26-00187\nAuthors: Virgil Kuassi Lokossou, Aishat Bukola Usman, Oyeronke Oyebanj, Kehinde Ogunyemi, Adama Ndir, Issiaka Sombie, Melchior Athanase Aissi\n The 2026 Bundibugyo Ebola outbreak in the Democratic Republic of the Congo (DRC) and Uganda has exposed critical vulnerabilities in epidemic preparedness despite substan",
       "tag": "response"
     },
     {
@@ -1760,41 +1795,6 @@
       "link": "https://www.cidrap.umn.edu/cyclospora/fda-identifies-new-cyclospora-outbreak-unknown-source",
       "pubDate": "Thu, 23 Jul 2026 19:42:00 Z",
       "desc": "On Tuesday, Health and Human Services Secretary Robert F. Kennedy Jr. said the outbreak is “under control.” Still, the FDA lists the five-state outbreak as an ongoing investigation. Complicated investigation \n\nof a Cyclospora outbreak remains difficult. Small amounts of the parasite on fresh produce can cause illness.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Knowledge and preventive practices of Lassa fever among residents of Ife-Odan Community, Osun State, South-West Nigeria",
-      "link": "https://doi.org/10.53771/ijbpsa.2026.12.1.0067",
-      "pubDate": "Thu, 23 Jul 2026 16:19:00 Z",
-      "desc": "DOI: 10.53771/ijbpsa.2026.12.1.0067\nAuthors: Elijah Igbinehi, Israel Oluseyi Kolawole, Kolawole Jude Tominiyi, Adebayo Olaoluwa Ibukunoluwa, Akin-Adigun Oluwafemi Ibukunoluwa, Akinbami Rebecca Oluwakemi, Ademuyiwa Victory Oluwadara, Omidoyin Idowu Elijah, Ibitokun David, Oyelami Miracle\n Lassa fever is a disease of public health importance w",
-      "tag": "analysis"
-    },
-    {
-      "title": "La NASA trompée pendant 30 ans : un objet classé comme un astéroïde était en fait… une comète",
-      "link": "https://www.science-et-vie.com/ciel-et-espace/la-nasa-trompee-pendant-30-ans-un-objet-classe-comme-un-asteroide-etait-en-fait-une-comete-251083.html",
-      "pubDate": "Thu, 23 Jul 2026 14:57:00 Z",
-      "desc": "Une comète déguisée en astéroïde vient enfin de dévoiler son vrai visage. Prise pour un banal caillou spatial durant près de trente ans, elle a trahi son secret par un simple écart de trajectoire. Une comète déguisée en astéroïde échappe longtemps aux instruments. Tout commence par un rendez-vous manqué.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Afghanistan : le nombre de cas de fièvre hémorragique de Crimée Congo a plus que doublé en juin par rapport au mois précédent Patrick GEROME - 23/07/2026 Lire plus➟",
-      "link": "https://www.mesvaccins.net/web/news/24294-afghanistan-le-nombre-de-cas-de-fievre-hemorragique-de-crimee-congo-a-plus-que-double-en-juin-par-rapport-au-mois-precedent",
-      "pubDate": "Thu, 23 Jul 2026 14:19:00 Z",
-      "desc": "Afghanistan : le nombre de cas de fièvre hémorragique de Crimée Congo a plus que doublé en juin par rapport au mois précédent.\n\nEn Afghanistan , en juin 2026, 483 cas suspects de fièvre hémorragique de Crimée-Congo (FHCC) ont été signalés, entraînant 21 décès (taux de létalité mensuel de 4,3 %), contre 176 cas et neuf décès enregistrés en mai.",
-      "tag": "cases"
-    },
-    {
-      "title": "Antiepileptic Drugs Implicated in 1 in 4 SJS/TEN Cases",
-      "link": "https://www.medscape.com/viewarticle/antiepileptic-drugs-implicated-1-4-stevens-johnson-syndrome-2026a1000oy5?src=rss",
-      "pubDate": "Thu, 23 Jul 2026 11:48:00 Z",
-      "desc": "METHODOLOGY Researchers conducted a meta-analysis of 50 observational studies published up to March 2026 and included 4403 adults and children with clinically or biopsy-confirmed SJS/TEN and patient-level drug trigger data. The primary outcome was the pooled proportion of SJS/TEN cases attributed to AED exposure.",
-      "tag": "cases"
-    },
-    {
-      "title": "A dynamic model of Ebola virus disease: Stability analysis and data fitting",
-      "link": "https://doi.org/10.1016/j.chaos.2026.118835",
-      "pubDate": "Thu, 23 Jul 2026 10:09:00 Z",
-      "desc": "DOI: 10.1016/j.chaos.2026.118835\nAuthors: Weijing Zhang, Rui Xu",
       "tag": "analysis"
     }
   ],
