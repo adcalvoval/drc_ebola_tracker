@@ -1,11 +1,12 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 01 Aug 2026 16:01:59 Z",
-  "fetchedAt": "2026-08-01T16:01:59Z",
+  "lastBuildDate": "Sat, 01 Aug 2026 19:10:09 Z",
+  "fetchedAt": "2026-08-01T19:10:10Z",
   "itemCount": 237,
   "stats": {
     "drc": {
       "confirmed": 3605,
+      "deaths": 1587,
       "recovered": 651,
       "zonesAffected": 57,
       "topHealthZones": {
@@ -67,9 +68,7 @@ window.FEED_DATA = {
         "Karisimbi": 0,
         "Manguredjipa": 0
       },
-      "healthcareWorkers": 119,
-      "contacts": 12693,
-      "deaths": 1587,
+      "contacts": 17863,
       "suspected": 374,
       "cfr": 44.0
     },
@@ -78,11 +77,11 @@ window.FEED_DATA = {
         "tier": 5,
         "src": "INRB sitrep (2026-07-30)"
       },
-      "recovered": {
+      "deaths": {
         "tier": 5,
         "src": "INRB sitrep (2026-07-30)"
       },
-      "deaths": {
+      "recovered": {
         "tier": 5,
         "src": "INRB sitrep (2026-07-30)"
       },
@@ -98,8 +97,9 @@ window.FEED_DATA = {
         "suspected": 3500
       },
       "whoDon": {
-        "confirmed": 2124,
-        "recovered": 410
+        "confirmed": 3605,
+        "deaths": 1587,
+        "recovered": 651
       },
       "inrb": {
         "confirmed": 3605,
@@ -110,9 +110,9 @@ window.FEED_DATA = {
     },
     "provinces": {
       "ituri": {
-        "zonesAffected": 27,
+        "zonesAffected": 28,
         "sourceWeight": 4,
-        "source": "2026-DON613 (as of 15 July 2026)"
+        "source": "2026-DON614 (as of 30 July 2026)"
       },
       "northKivu": {
         "zonesAffected": 11,
@@ -128,17 +128,15 @@ window.FEED_DATA = {
     },
     "uga": {
       "mentioned": true,
-      "deaths": 2,
-      "recovered": 18,
       "cases": 20
     },
     "whoAlert": "PHEIC",
     "sourceLabel": "INRB MVE Sitrep",
     "whoDon": {
-      "donId": "2026-DON613",
-      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON613",
-      "asOf": "15 July 2026",
-      "fetchedAt": "2026-07-17T19:12:48Z"
+      "donId": "2026-DON614",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON614",
+      "asOf": "30 July 2026",
+      "fetchedAt": "2026-08-01T19:10:11Z"
     },
     "inrbSitrep": {
       "asOf": "2026-07-30",
@@ -169,17 +167,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Hantavirus Infections in Children",
-      "link": "https://doi.org/10.1542/pir.2025-006862",
-      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1542/pir.2025-006862\nAuthors: Calvin J. Cable, Walter Dehority\n Abstract \n                   Hantaviruses are rare but deadly pathogens. New World hantaviruses, primarily present in North and South America, cause hantavirus cardiopulmonary syndrome, which leads to death in up to one-third of affected patients.",
-      "tag": "analysis"
-    },
-    {
       "title": "Antibodies Cross-Reactive with Bundibugyo Virus in Ferrets Vaccinated with Ebola Virus Vaccine",
       "link": "https://doi.org/10.3201/eid3208.262948",
       "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.3201/eid3208.262948\nAuthors: Jordan Wight, Helene Schulz, Logan Banadyga",
+      "tag": "analysis"
+    },
+    {
+      "title": "Hantavirus Infections in Children",
+      "link": "https://doi.org/10.1542/pir.2025-006862",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1542/pir.2025-006862\nAuthors: Calvin J. Cable, Walter Dehority\n Abstract \n                   Hantaviruses are rare but deadly pathogens. New World hantaviruses, primarily present in North and South America, cause hantavirus cardiopulmonary syndrome, which leads to death in up to one-third of affected patients.",
       "tag": "analysis"
     },
     {
@@ -663,6 +661,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.18203/2320-6012.ijrms20262633",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.18203/2320-6012.ijrms20262633\nAuthors: Chitralekha Nayak, Ruth Viegas, Edwin Gomes\n Background: Kyasanur Forest Disease (KFD), a tick-borne viral hemorrhagic fever once confined to the Western Ghats of Karnataka, India, has spread to adjacent states, including Goa, in recent years. This study aimed to analyze the clinical profiles of",
+      "tag": "analysis"
+    },
+    {
+      "title": "Epitrochlear Unicentric Castleman’s Disease Masquerading as Tuberculous Lymphadenitis: A Rare Case Report",
+      "link": "https://doi.org/10.18535/jmscr/v14i07.11",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.18535/jmscr/v14i07.11\nAuthors: Dr. N. Sai Charan\n Castleman’s disease is a rare, benign lymphoproliferative disorder of uncertain cause. It most commonly\ninvolves the chest, abdomen and neck; involvement of the limbs is distinctly uncommon. We report a 24-\nyear-old woman who presented with a slowly enlarging, mildly painful swelling",
       "tag": "analysis"
     },
     {
@@ -1797,13 +1802,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1542/pedsos.2026-001614",
       "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1542/pedsos.2026-001614\nAuthors: Mario Morales, Maeve E. Wallace, Beth E. Meyerson, Jennifer S. De La Rosa\n \n                     OBJECTIVE \n                     Many adversities predict adolescent substance use, but it is unknown which produce opioid-specific risk vs general substance use liability. W",
-      "tag": "analysis"
-    },
-    {
-      "title": "An unusual cardiac complication of an odontogenic infection — multimodality imaging in a rare infectious cascade",
-      "link": "https://doi.org/10.33963/v.phj.113927",
-      "pubDate": "Fri, 24 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.33963/v.phj.113927\nAuthors: Tomasz Walczak, Adrian Doroszko, Waldemar Banasiak, Dorota Kustrzycka-Kratochwil",
       "tag": "analysis"
     }
   ],
