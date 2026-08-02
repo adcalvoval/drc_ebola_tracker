@@ -1,8 +1,8 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 02 Aug 2026 16:01:39 Z",
-  "fetchedAt": "2026-08-02T16:01:39Z",
-  "itemCount": 242,
+  "lastBuildDate": "Sun, 02 Aug 2026 19:12:26 Z",
+  "fetchedAt": "2026-08-02T19:12:27Z",
+  "itemCount": 243,
   "stats": {
     "drc": {
       "confirmed": 3674,
@@ -145,6 +145,13 @@
     }
   },
   "items": [
+    {
+      "title": "African swine fever virus pMGF360-3 L suppresses innate immunity by facilitating CMA-dependent SKP1 degradation to promote BNIP3-mediated mitophagy",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42543005/",
+      "pubDate": "Sun, 02 Aug 2026 17:51:00 Z",
+      "desc": "African swine fever (ASF) is an acute, hemorrhagic, and highly contagious disease caused by African swine fever virus (ASFV), which causes severe economic losses in the swine industry. ASFV has evolved multiple strategies to evade host antiviral immune responses.",
+      "tag": "response"
+    },
     {
       "title": "Non-immunoglobulin E-mediated mechanisms of anaphylaxis",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42542541/",
@@ -391,20 +398,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Blue Rubber Bleb Nevus Syndrome Presenting as Severe Transfusion‐Dependent Anemia in an Elderly Patient: An Unusual Cause of Lower Gastrointestinal Bleeding",
-      "link": "https://doi.org/10.1002/ccr3.73253",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/ccr3.73253\nAuthors: Philippe Attieh, Rim Moubayed, Karam Karam, Ihab l El Hajj, Mahmoud Harb\n ABSTRACT \n                   Blue rubber bleb nevus syndrome (BRBNS) is a rare vascular disorder characterized by venous malformations involving the skin and gastrointestinal (GI) tract. GI involvement may lead to",
-      "tag": "analysis"
-    },
-    {
-      "title": "Direct targeting of the WAVE-regulatory complex and the actin cytoskeleton by the Anaplasma phagocytophilum effector, AnkA",
-      "link": "https://doi.org/10.64898/2026.07.31.742066",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.31.742066\nAuthors: Hannah L Burge, Shashi P. Singh, Jianyang Wang, Suchitra Pradhan, Katharine M Wood, Joshua W Lee, Silvia A Synowsky, Sally L Shirran, Patrick J Moynihan, Andrew L Lovering, Laura M Machesky, Mark A Jepson, Stephen J Dumler, Ian T Cadby\n The obligate intracellular tick-borne pathogen Anaplasma phagocyt",
-      "tag": "analysis"
-    },
-    {
       "title": "Diagnostic performance of clinical symptom combinations for Crimean-Congo hemorrhagic fever in emergency department patients with reported arthropod bites, stings, or exposure",
       "link": "https://doi.org/10.1186/s41182-026-01043-0",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
@@ -426,24 +419,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Red Cross and Red Crescent Movement responses to viral hemorrhagic fever outbreaks: A mixedmethod evaluation of information management practices for Safe and Dignified Burials",
-      "link": "https://doi.org/10.14745/ccdr.v52i78a07",
+      "title": "Unveiling brucellosis risks in breeding herds: Case study on diagnostic failures and control gaps in South Africa",
+      "link": "https://doi.org/10.4102/ojvr.v93i1.2264",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.14745/ccdr.v52i78a07\nAuthors: Douglas Lau, Arwen Barr, Marguerite Gollish, Maria Munoz-Bertrand",
-      "tag": "response"
+      "desc": "DOI: 10.4102/ojvr.v93i1.2264\nAuthors: Koketso D. Mazwi, Emmanuel P. Lita, Ayesha Hassim, Emmanuel Seakamela, Itumeleng Matle, Farah Abdool-Khader, Gerhardus S. Scheepers, Yusuf B. Ngoshe, Henriette van Heerden\n Brucellosis is a zoonotic pathogen of livestock, wildlife and humans, with significant implications for reproductive losses and publ",
+      "tag": "analysis"
     },
     {
-      "title": "Ebola: DRC outbreak is now “fastest growing in history,” as strikes hinder response",
-      "link": "https://doi.org/10.1136/bmj-2026-100469",
+      "title": "Clinical phenotypes and disease outcomes of patients with systemic lupus erythematosus meeting indication for primary aldosteronism testing",
+      "link": "https://doi.org/10.1177/09612033261473968",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/bmj-2026-100469\nAuthors: Henry Wasswa",
-      "tag": "response"
-    },
-    {
-      "title": "Longitudinal Outcomes of Psychiatric Inpatients After Suicide Attempt: A Retrospective Study in Portugal",
-      "link": "https://doi.org/10.1192/j.eurpsy.2026.10218",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1192/j.eurpsy.2026.10218\nAuthors: M. J. Cunha, M. Cândido, G. Canhoto, M. Ribeiro, J. Domingos, S. Neto, A. Velosa\n \n                     Introduction \n                     Suicide attempts (SA) are the strongest predictor of future suicide. Hospitalizatio",
+      "desc": "DOI: 10.1177/09612033261473968\nAuthors: Matthew Wong, Muhammad Akram, Joanna R. Kent, Peter J. Fuller, Alberta Y. Hoi, Jun Yang, Fabien B. Vincent\n \n                     Background \n                     Hypertension is prevalent and contributes significantly to cardiovascular risk in patients with systemic lup",
       "tag": "analysis"
     },
     {
@@ -461,6 +447,20 @@
       "tag": "analysis"
     },
     {
+      "title": "Red Cross and Red Crescent Movement responses to viral hemorrhagic fever outbreaks: A mixedmethod evaluation of information management practices for Safe and Dignified Burials",
+      "link": "https://doi.org/10.14745/ccdr.v52i78a07",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.14745/ccdr.v52i78a07\nAuthors: Douglas Lau, Arwen Barr, Marguerite Gollish, Maria Munoz-Bertrand",
+      "tag": "response"
+    },
+    {
+      "title": "Ebola: DRC outbreak is now “fastest growing in history,” as strikes hinder response",
+      "link": "https://doi.org/10.1136/bmj-2026-100469",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/bmj-2026-100469\nAuthors: Henry Wasswa",
+      "tag": "response"
+    },
+    {
       "title": "Epidemiological trends of Crimean-Congo hemorrhagic fever in South Asia: a systematic review",
       "link": "https://doi.org/10.1186/s12879-026-14036-5",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
@@ -468,17 +468,24 @@
       "tag": "analysis"
     },
     {
-      "title": "Unveiling brucellosis risks in breeding herds: Case study on diagnostic failures and control gaps in South Africa",
-      "link": "https://doi.org/10.4102/ojvr.v93i1.2264",
+      "title": "Longitudinal Outcomes of Psychiatric Inpatients After Suicide Attempt: A Retrospective Study in Portugal",
+      "link": "https://doi.org/10.1192/j.eurpsy.2026.10218",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4102/ojvr.v93i1.2264\nAuthors: Koketso D. Mazwi, Emmanuel P. Lita, Ayesha Hassim, Emmanuel Seakamela, Itumeleng Matle, Farah Abdool-Khader, Gerhardus S. Scheepers, Yusuf B. Ngoshe, Henriette van Heerden\n Brucellosis is a zoonotic pathogen of livestock, wildlife and humans, with significant implications for reproductive losses and publ",
+      "desc": "DOI: 10.1192/j.eurpsy.2026.10218\nAuthors: M. J. Cunha, M. Cândido, G. Canhoto, M. Ribeiro, J. Domingos, S. Neto, A. Velosa\n \n                     Introduction \n                     Suicide attempts (SA) are the strongest predictor of future suicide. Hospitalizatio",
       "tag": "analysis"
     },
     {
-      "title": "Clinical phenotypes and disease outcomes of patients with systemic lupus erythematosus meeting indication for primary aldosteronism testing",
-      "link": "https://doi.org/10.1177/09612033261473968",
+      "title": "Blue Rubber Bleb Nevus Syndrome Presenting as Severe Transfusion‐Dependent Anemia in an Elderly Patient: An Unusual Cause of Lower Gastrointestinal Bleeding",
+      "link": "https://doi.org/10.1002/ccr3.73253",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/09612033261473968\nAuthors: Matthew Wong, Muhammad Akram, Joanna R. Kent, Peter J. Fuller, Alberta Y. Hoi, Jun Yang, Fabien B. Vincent\n \n                     Background \n                     Hypertension is prevalent and contributes significantly to cardiovascular risk in patients with systemic lup",
+      "desc": "DOI: 10.1002/ccr3.73253\nAuthors: Philippe Attieh, Rim Moubayed, Karam Karam, Ihab l El Hajj, Mahmoud Harb\n ABSTRACT \n                   Blue rubber bleb nevus syndrome (BRBNS) is a rare vascular disorder characterized by venous malformations involving the skin and gastrointestinal (GI) tract. GI involvement may lead to",
+      "tag": "analysis"
+    },
+    {
+      "title": "Direct targeting of the WAVE-regulatory complex and the actin cytoskeleton by the Anaplasma phagocytophilum effector, AnkA",
+      "link": "https://doi.org/10.64898/2026.07.31.742066",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.31.742066\nAuthors: Hannah L Burge, Shashi P. Singh, Jianyang Wang, Suchitra Pradhan, Katharine M Wood, Joshua W Lee, Silvia A Synowsky, Sally L Shirran, Patrick J Moynihan, Andrew L Lovering, Laura M Machesky, Mark A Jepson, Stephen J Dumler, Ian T Cadby\n The obligate intracellular tick-borne pathogen Anaplasma phagocyt",
       "tag": "analysis"
     },
     {
@@ -503,17 +510,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Direct targeting of the WAVE-regulatory complex and the actin cytoskeleton by the Anaplasma phagocytophilum effector, AnkA",
-      "link": "https://doi.org/10.64898/2026.07.31.742066",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.31.742066\nAuthors: Burge, H. L.; Singh, S. P.; Wang, J.; Pradhan, S.; Wood, K. M.; Lee, J. W.; Synowsky, S. A.; Shirran, S. L.; Moynihan, P. J.; Lovering, A. L.; Machesky, L. M.; Jepson, M. A.; Dumler, S. J.; Cadby, I. T.\nThe obligate intracellular tick-borne pathogen Anaplasma phagocytophilum is unusual in its tropism for neu",
-      "tag": "analysis"
-    },
-    {
       "title": "Side-by-side evaluation of two Crimean-Congo hemorrhagic fever virus isolates in IFNAR−/− mice",
       "link": "https://doi.org/10.1038/s44298-026-00216-2",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1038/s44298-026-00216-2\n Abstract \n                   \n                    Crimean-Congo hemorrhagic fever virus (CCHFV) is the causative agent of a severe hemorrhagic fever in humans, associated with case fatality rates up to 40%. Due to the lack of approved vaccines or specific antiviral treatments, CCHFV is",
+      "tag": "analysis"
+    },
+    {
+      "title": "Direct targeting of the WAVE-regulatory complex and the actin cytoskeleton by the Anaplasma phagocytophilum effector, AnkA",
+      "link": "https://doi.org/10.64898/2026.07.31.742066",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.31.742066\nAuthors: Burge, H. L.; Singh, S. P.; Wang, J.; Pradhan, S.; Wood, K. M.; Lee, J. W.; Synowsky, S. A.; Shirran, S. L.; Moynihan, P. J.; Lovering, A. L.; Machesky, L. M.; Jepson, M. A.; Dumler, S. J.; Cadby, I. T.\nThe obligate intracellular tick-borne pathogen Anaplasma phagocytophilum is unusual in its tropism for neu",
       "tag": "analysis"
     },
     {
@@ -699,20 +706,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Should Dengue Vaccination be Prioritized in Individuals with Diabetes?",
-      "link": "https://doi.org/10.4103/ijdt.ijdt_17_26",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4103/ijdt.ijdt_17_26\nAuthors: Jothydev Kesavadev, Sanjay Kalra, Shashank R. Joshi, Anoop Misra, Niti Pall, Banshi Saboo, Anuj Maheshwari, Amit Gupta, Rakesh Parikh, Manoj Chawla, Sunil Gupta, Anjana Ranjit Mohan, Sanjay Agarwal\n Abstract \n                   Type 2 diabetes (T2D) is a rapidly expanding global he",
-      "tag": "analysis"
-    },
-    {
-      "title": "Diagnostic Performance of Advanced Geometric Indices versus Traditional Anthropometric Indices in Evaluating Female Infertility Risk: A Cross-Sectional Study",
-      "link": "https://doi.org/10.21203/rs.3.rs-10176089/v1",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10176089/v1\nAuthors: Gülşah Kızılgün Aksoy, Ümmügülsüm Esenkaya\n Abstract \n                 \n                   Background \n                  Infertility impacts reproductive-age couples worldwide, with obesity—especially abdominal obesity—being increasingly recognized as a factor in female reproducti",
-      "tag": "analysis"
-    },
-    {
       "title": "‘Do No (Further) Harm’ Ethics Guidelines for Migrant Disaster Victim Identification (MDVI)",
       "link": "https://doi.org/10.31235/osf.io/rc8wy_v1",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
@@ -734,10 +727,38 @@
       "tag": "analysis"
     },
     {
+      "title": "Should Dengue Vaccination be Prioritized in Individuals with Diabetes?",
+      "link": "https://doi.org/10.4103/ijdt.ijdt_17_26",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.4103/ijdt.ijdt_17_26\nAuthors: Jothydev Kesavadev, Sanjay Kalra, Shashank R. Joshi, Anoop Misra, Niti Pall, Banshi Saboo, Anuj Maheshwari, Amit Gupta, Rakesh Parikh, Manoj Chawla, Sunil Gupta, Anjana Ranjit Mohan, Sanjay Agarwal\n Abstract \n                   Type 2 diabetes (T2D) is a rapidly expanding global he",
+      "tag": "analysis"
+    },
+    {
+      "title": "Diagnostic Performance of Advanced Geometric Indices versus Traditional Anthropometric Indices in Evaluating Female Infertility Risk: A Cross-Sectional Study",
+      "link": "https://doi.org/10.21203/rs.3.rs-10176089/v1",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10176089/v1\nAuthors: Gülşah Kızılgün Aksoy, Ümmügülsüm Esenkaya\n Abstract \n                 \n                   Background \n                  Infertility impacts reproductive-age couples worldwide, with obesity—especially abdominal obesity—being increasingly recognized as a factor in female reproducti",
+      "tag": "analysis"
+    },
+    {
       "title": "Epitrochlear Unicentric Castleman’s Disease Masquerading as Tuberculous Lymphadenitis: A Rare Case Report",
       "link": "https://doi.org/10.18535/jmscr/v14i07.11",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.18535/jmscr/v14i07.11\nAuthors: Dr. N. Sai Charan\n Castleman’s disease is a rare, benign lymphoproliferative disorder of uncertain cause. It most commonly\ninvolves the chest, abdomen and neck; involvement of the limbs is distinctly uncommon. We report a 24-\nyear-old woman who presented with a slowly enlarging, mildly painful swelling",
+      "tag": "analysis"
+    },
+    {
+      "title": "How Predictable Was the 2026 Bundibugyo Virus Disease Outbreak? A Rolling-Origin Evaluation of Short-Term Forecast Models, an Empirically Recalibrated Bayesian Model, and a Data-Driven Baseline–Bayesian Ensemble, Using Daily Surveillance Data",
+      "link": "https://doi.org/10.64898/2026.07.28.26359159",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.28.26359159\nAuthors: Johan G.L. Verheyden, Celestin Nzanzu Mudogo, Wolfgang Jacquet\n Background\nThe 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo became the largest recorded epidemic caused by Bundibugyo virus and showed unusually rapid early growth. Initial projections warned that it co",
+      "tag": "analysis"
+    },
+    {
+      "title": "EXCLUSIVE: Congo’s Ebola epidemic started at least 4 months before it was detected",
+      "link": "https://doi.org/10.1126/science.zyr86mi",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1126/science.zyr86mi",
       "tag": "analysis"
     },
     {
@@ -787,20 +808,6 @@
       "link": "https://doi.org/10.1126/science.aek4288",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1126/science.aek4288\nAuthors: H. Holden Thorp",
-      "tag": "analysis"
-    },
-    {
-      "title": "EXCLUSIVE: Congo’s Ebola epidemic started at least 4 months before it was detected",
-      "link": "https://doi.org/10.1126/science.zyr86mi",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1126/science.zyr86mi",
-      "tag": "analysis"
-    },
-    {
-      "title": "How Predictable Was the 2026 Bundibugyo Virus Disease Outbreak? A Rolling-Origin Evaluation of Short-Term Forecast Models, an Empirically Recalibrated Bayesian Model, and a Data-Driven Baseline–Bayesian Ensemble, Using Daily Surveillance Data",
-      "link": "https://doi.org/10.64898/2026.07.28.26359159",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.28.26359159\nAuthors: Johan G.L. Verheyden, Celestin Nzanzu Mudogo, Wolfgang Jacquet\n Background\nThe 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo became the largest recorded epidemic caused by Bundibugyo virus and showed unusually rapid early growth. Initial projections warned that it co",
       "tag": "analysis"
     },
     {
@@ -1028,17 +1035,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Ebola / Marburg",
-      "link": "https://anss-guinee.org/ebola-marburg/",
-      "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
-      "desc": "Résumé. Les maladies à virus Ebola et Marburg sont des fièvres hémorragiques virales sévères, souvent mortelles, transmises par contact avec le sang, les sécrétions ou les fluides corporels de personnes ou d’animaux infectés (chauves-souris, primates).",
-      "tag": "analysis"
-    },
-    {
       "title": "Fièvre Jaune",
       "link": "https://anss-guinee.org/fievre-jaune/",
       "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
       "desc": "Résumé. La fièvre jaune est une maladie virale hémorragique transmise par la piqûre de moustiques infectés. Elle se manifeste par une fièvre brutale, des maux de tête, des douleurs musculaires et, dans les formes graves, un ictère (jaunisse) et des hémorragies.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola / Marburg",
+      "link": "https://anss-guinee.org/ebola-marburg/",
+      "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
+      "desc": "Résumé. Les maladies à virus Ebola et Marburg sont des fièvres hémorragiques virales sévères, souvent mortelles, transmises par contact avec le sang, les sécrétions ou les fluides corporels de personnes ou d’animaux infectés (chauves-souris, primates).",
       "tag": "analysis"
     },
     {
@@ -1252,6 +1259,34 @@
       "tag": "analysis"
     },
     {
+      "title": "The role of immune cells in Hantaan-induced hemorrhagic fever with renal syndrome",
+      "link": "https://doi.org/10.3389/fimmu.2026.1921852",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fimmu.2026.1921852\nAuthors: Lin Su, Yinli He, Linpei Zhang, Yawen Wang, Xiaojiao Li, Minhong Fei\n Hemorrhagic fever with renal syndrome (HFRS) is a severe and often fatal zoonotic disease primarily caused by the Hantaan virus (HTNV), a member of the Orthohantavirus genus. Although immune cells are known to play critical roles in",
+      "tag": "analysis"
+    },
+    {
+      "title": "Scaling Lassa Virus Dynamics within Anthropogenic Ecosystems (SCAPES) Study Protocol: a mixed-methods observational cohort study of humans, rodents, and landscapes in Nigeria.",
+      "link": "https://doi.org/10.12688/wellcomeopenres.25937.2",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.12688/wellcomeopenres.25937.2\nAuthors: Sagan Friant, David Simons, Christina Harden, Natalie Imirzian, Ottar Bjornstad, Rory Gibb, Kate Jones, Abigail Smith, Katharine Thompson, Aaron Lever, Fisayomi Aderibigbe, Wilfred Ayambem, Nzube Ifebueme, Helen Ignatius, James Koninga, Martin Meremikwu, Lina Moses, David Redding",
+      "tag": "analysis"
+    },
+    {
+      "title": "A cross-sectional study reveals complex associations between gastrointestinal parasite composition and faecal immune and inflammatory biomarkers in wildlife and livestock in Kenya",
+      "link": "https://doi.org/10.3389/fimmu.2026.1881798",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fimmu.2026.1881798\nAuthors: Alice M. Burton, Andrew M. Halls, Kathryn J. Else, Jessica Irving, Cianjoka Gichuyia, Francis Gakuya, Gabriella K. Davies, Katharine Z. Coyte, Catherine Walton, Samuel M. Githigia, Susanne Shultz\n \n                     Background",
+      "tag": "analysis"
+    },
+    {
+      "title": "Élaboration des procédures d’analyse pour fièvres virales hémorragiques",
+      "link": "https://doi.org/10.64490/ccby6639",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64490/ccby6639\nAuthors: Man Hua, Isabelle Meunier\n Depuis l’épidémie du virus Ebola Bundibugyo en 2026, il est requis pour tous les établissements d’être en mesure de prétrier et d’isoler rapidement les patients suspectés d'être atteints d'une fièvre hémorragique virale. Une évaluation médicale du patient est ensuite réalisée pour dé",
+      "tag": "analysis"
+    },
+    {
       "title": "Serum per- and polyfluoroalkyl substances levels among young adults at risk for chronic kidney disease of unknown etiology in Nicaragua",
       "link": "https://doi.org/10.1038/s41598-026-63277-6",
       "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
@@ -1301,34 +1336,6 @@
       "tag": "analysis"
     },
     {
-      "title": "The role of immune cells in Hantaan-induced hemorrhagic fever with renal syndrome",
-      "link": "https://doi.org/10.3389/fimmu.2026.1921852",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fimmu.2026.1921852\nAuthors: Lin Su, Yinli He, Linpei Zhang, Yawen Wang, Xiaojiao Li, Minhong Fei\n Hemorrhagic fever with renal syndrome (HFRS) is a severe and often fatal zoonotic disease primarily caused by the Hantaan virus (HTNV), a member of the Orthohantavirus genus. Although immune cells are known to play critical roles in",
-      "tag": "analysis"
-    },
-    {
-      "title": "Scaling Lassa Virus Dynamics within Anthropogenic Ecosystems (SCAPES) Study Protocol: a mixed-methods observational cohort study of humans, rodents, and landscapes in Nigeria.",
-      "link": "https://doi.org/10.12688/wellcomeopenres.25937.2",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.12688/wellcomeopenres.25937.2\nAuthors: Sagan Friant, David Simons, Christina Harden, Natalie Imirzian, Ottar Bjornstad, Rory Gibb, Kate Jones, Abigail Smith, Katharine Thompson, Aaron Lever, Fisayomi Aderibigbe, Wilfred Ayambem, Nzube Ifebueme, Helen Ignatius, James Koninga, Martin Meremikwu, Lina Moses, David Redding",
-      "tag": "analysis"
-    },
-    {
-      "title": "Élaboration des procédures d’analyse pour fièvres virales hémorragiques",
-      "link": "https://doi.org/10.64490/ccby6639",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64490/ccby6639\nAuthors: Man Hua, Isabelle Meunier\n Depuis l’épidémie du virus Ebola Bundibugyo en 2026, il est requis pour tous les établissements d’être en mesure de prétrier et d’isoler rapidement les patients suspectés d'être atteints d'une fièvre hémorragique virale. Une évaluation médicale du patient est ensuite réalisée pour dé",
-      "tag": "analysis"
-    },
-    {
-      "title": "A cross-sectional study reveals complex associations between gastrointestinal parasite composition and faecal immune and inflammatory biomarkers in wildlife and livestock in Kenya",
-      "link": "https://doi.org/10.3389/fimmu.2026.1881798",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fimmu.2026.1881798\nAuthors: Alice M. Burton, Andrew M. Halls, Kathryn J. Else, Jessica Irving, Cianjoka Gichuyia, Francis Gakuya, Gabriella K. Davies, Katharine Z. Coyte, Catherine Walton, Samuel M. Githigia, Susanne Shultz\n \n                     Background",
-      "tag": "analysis"
-    },
-    {
       "title": "Ixodid Tick-Borne Pathogens as Candidate Triggers for Primary Sclerosing Cholangitis: Ecological Evidence",
       "link": "https://www.medrxiv.org/content/10.64898/2026.07.24.26358879v1?rss=1",
       "pubDate": "Mon, 27 Jul 2026 23:08:00 Z",
@@ -1371,18 +1378,18 @@
       "tag": "cases"
     },
     {
-      "title": "KKenya and PATH strengthen partnership to advance UHC",
-      "link": "https://www.health.go.ke/kkenya-and-path-strengthen-partnership-advance-uhc",
-      "pubDate": "Mon, 27 Jul 2026 13:42:00 Z",
-      "desc": "- Cabinet Secretary for Health Hon. Aden Duale held a consultative meeting with a PATH Kenya delegation led by Country Director Ms. Carolyne Njuguna to strengthen collaboration in advancing Kenya’s health priorities and accelerating Universal Health Coverage.",
-      "tag": "analysis"
-    },
-    {
       "title": "National Ebola Virus Disease Preparedness and Response Taskforce Inaugural meeting",
       "link": "https://www.health.go.ke/national-ebola-virus-disease-preparedness-and-response-taskforce-inaugural-meeting",
       "pubDate": "Mon, 27 Jul 2026 13:42:00 Z",
       "desc": ", 2026 Kenya has strengthened its preparedness to prevent and respond to Ebola Virus Disease (EVD) as the National Ebola Virus Disease Preparedness and Response Taskforce held its inaugural meeting. Speaking during the meeting, Principal Secretary for Public Health and Professional Standards Mary....",
       "tag": "response"
+    },
+    {
+      "title": "KKenya and PATH strengthen partnership to advance UHC",
+      "link": "https://www.health.go.ke/kkenya-and-path-strengthen-partnership-advance-uhc",
+      "pubDate": "Mon, 27 Jul 2026 13:42:00 Z",
+      "desc": "- Cabinet Secretary for Health Hon. Aden Duale held a consultative meeting with a PATH Kenya delegation led by Country Director Ms. Carolyne Njuguna to strengthen collaboration in advancing Kenya’s health priorities and accelerating Universal Health Coverage.",
+      "tag": "analysis"
     },
     {
       "title": "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 10, Data as of 19 July 2026",
@@ -1448,13 +1455,6 @@
       "tag": "analysis"
     },
     {
-      "title": "An unusual case of pylephlebitis without a primary site of infection",
-      "link": "https://doi.org/10.1177/00494755261473023",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/00494755261473023\nAuthors: Jesly Abundez-Castrejon, Xóchitl Lizbeth Serrano-Almanza, Abraham Edgar Gracia-Ramos\n Pylephlebitis describes septic thrombosis of the portal vein. The most common risk factor for this condition is intra-abdominal infection. Nevertheless, the underlying cause remains unidentified in &gt;10% of cases. A",
-      "tag": "cases"
-    },
-    {
       "title": "Diagnostic Challenges of Acute Lymphoblastic Leukemia Masked by Recurrent Infection in an 18-Month-Old Child from a Resource-Limited Rural Setting: A Case Report",
       "link": "https://doi.org/10.21203/rs.3.rs-10223958/v1",
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
@@ -1469,25 +1469,11 @@
       "tag": "analysis"
     },
     {
-      "title": "Development of Innovative Strategies for Early Detection, Prevention, and Control of Emerging Infectious Diseases in the United States Through Integrated Public Health Systems",
-      "link": "https://doi.org/10.34257/gjmrk259014",
+      "title": "An unusual case of pylephlebitis without a primary site of infection",
+      "link": "https://doi.org/10.1177/00494755261473023",
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.34257/gjmrk259014\nAuthors: Dr. Odira Felicita Ogbu\n Background: As strikingly shown by the series of shocks—H1N1 influenza, MERS-CoV,\nEbola, Zika, and most recently the SARS-CoV-2 epidemic, which claimed more than 1.2\nmillion lives in the United States and caused an projected 14 trillion in combined direct and\nindirect economic damag",
-      "tag": "analysis"
-    },
-    {
-      "title": "One Health diagnostics at the human–animal–environment interface: a structured narrative review of cross-sector collaboration, capacity building, and technological innovations",
-      "link": "https://doi.org/10.3389/fitd.2026.1859816",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fitd.2026.1859816\n \n                     Background \n                     Zoonotic diseases at the human–animal–environment interface pose an increasing global health threat, necessitating integrated diagnostic strategies under the One Health framework.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Case Report: Complete Kawasaki disease in a 2-month-old infant without coronary involvement",
-      "link": "https://doi.org/10.3389/fped.2026.1865309",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fped.2026.1865309\nAuthors: Réka Solyom, Daniela Toma, Lorena Elena Meliț, Zsuzsanna Erzsébet Papp, Zoltán Derzsi, Henrietta Dimén\n \n                     Background \n                     Kawasaki disease (KD) is a systemic vasculitis, of unknown etiology, that usually occurs in children between the",
-      "tag": "analysis"
+      "desc": "DOI: 10.1177/00494755261473023\nAuthors: Jesly Abundez-Castrejon, Xóchitl Lizbeth Serrano-Almanza, Abraham Edgar Gracia-Ramos\n Pylephlebitis describes septic thrombosis of the portal vein. The most common risk factor for this condition is intra-abdominal infection. Nevertheless, the underlying cause remains unidentified in &gt;10% of cases. A",
+      "tag": "cases"
     },
     {
       "title": "Undiagnosed coeliac disease presenting with oral ulcers: a missed opportunity",
@@ -1504,11 +1490,25 @@
       "tag": "response"
     },
     {
-      "title": "Importation risk and preparedness priorities across Africa in the 2026 Bundibugyo Ebola outbreak",
-      "link": "https://doi.org/10.64898/2026.07.21.26358330",
+      "title": "Case Report: Complete Kawasaki disease in a 2-month-old infant without coronary involvement",
+      "link": "https://doi.org/10.3389/fped.2026.1865309",
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.21.26358330\nAuthors: Federico Fanelli, Francesco Parino, Maria Amalia Pelle, Boxuan Wang, Yap Boum, Mosoka Fallah, Placide Mbala, Reagan Luvande Okingo, Vincent Ronin, Yazdan Yazdanpanah, Chiara Poletto, Eugenio Valdano, Vittoria Colizza\n The ongoing 2026 Bundibugyo Ebola outbreak in the Democratic Republic of the Congo",
-      "tag": "response"
+      "desc": "DOI: 10.3389/fped.2026.1865309\nAuthors: Réka Solyom, Daniela Toma, Lorena Elena Meliț, Zsuzsanna Erzsébet Papp, Zoltán Derzsi, Henrietta Dimén\n \n                     Background \n                     Kawasaki disease (KD) is a systemic vasculitis, of unknown etiology, that usually occurs in children between the",
+      "tag": "analysis"
+    },
+    {
+      "title": "One Health diagnostics at the human–animal–environment interface: a structured narrative review of cross-sector collaboration, capacity building, and technological innovations",
+      "link": "https://doi.org/10.3389/fitd.2026.1859816",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fitd.2026.1859816\n \n                     Background \n                     Zoonotic diseases at the human–animal–environment interface pose an increasing global health threat, necessitating integrated diagnostic strategies under the One Health framework.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Development of Innovative Strategies for Early Detection, Prevention, and Control of Emerging Infectious Diseases in the United States Through Integrated Public Health Systems",
+      "link": "https://doi.org/10.34257/gjmrk259014",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.34257/gjmrk259014\nAuthors: Dr. Odira Felicita Ogbu\n Background: As strikingly shown by the series of shocks—H1N1 influenza, MERS-CoV,\nEbola, Zika, and most recently the SARS-CoV-2 epidemic, which claimed more than 1.2\nmillion lives in the United States and caused an projected 14 trillion in combined direct and\nindirect economic damag",
+      "tag": "analysis"
     },
     {
       "title": "Upaya Pencegahan Demam Berdarah Dengue Melalui Program Pengabdian Kepada Masyarakat di Tabing Banda Gadang, Padang",
@@ -1516,6 +1516,13 @@
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.58218/kreasi.v6i2.3695\nAuthors: Dwi Happy Anggi Sari, Nindy Notrilauvia, Rahmadhani Fitri, Elsa Yuniarti, Salman Alfarisy, Najmi Syafani Zahra, Arya Satya Upangga\n Dengue Hemorrhagic Fever (DHF) remains a major vector-borne disease that imposes a significant public health burden in Indonesia. Effective dengue control necessitates act",
       "tag": "analysis"
+    },
+    {
+      "title": "Importation risk and preparedness priorities across Africa in the 2026 Bundibugyo Ebola outbreak",
+      "link": "https://doi.org/10.64898/2026.07.21.26358330",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.21.26358330\nAuthors: Federico Fanelli, Francesco Parino, Maria Amalia Pelle, Boxuan Wang, Yap Boum, Mosoka Fallah, Placide Mbala, Reagan Luvande Okingo, Vincent Ronin, Yazdan Yazdanpanah, Chiara Poletto, Eugenio Valdano, Vittoria Colizza\n The ongoing 2026 Bundibugyo Ebola outbreak in the Democratic Republic of the Congo",
+      "tag": "response"
     },
     {
       "title": "刚果（金）埃博拉确诊病例接近3000例 - QQ News",
@@ -1637,34 +1644,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Targeting of ELMO2 by the <i>Shigella</i> E3 Ligase IpaH4.5 Reveals Key Differences Between ELMO Paralogs",
-      "link": "https://doi.org/10.64898/2026.07.25.740577",
-      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.25.740577\nAuthors: David F. Schad, Maarten F. de Jong, Dahee Seo, Benjamin L. Kocsis, Neal M. Alto\n \n                  The IpaH class of effector proteins secreted by\n                   Shigella flexneri \n                  ubiquitinate specific immune factors, targeting them for proteasomal degr",
-      "tag": "analysis"
-    },
-    {
-      "title": "Modeling Parkinsonian Freezing and Deep Brain Stimulation Effects in a Basal Ganglia Network",
-      "link": "https://doi.org/10.64898/2026.07.21.738458",
-      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.21.738458\nAuthors: Nahal Habibizadeh, Madeleine Bartlett\n he precise mechanism through which Deep Brain Stimulation (DBS) mitigates freezing episodes in Parkinson's disease remains unknown. We modelled Parkinsonian freezing using a model of the basal ganglia that adopts a Dynamic Neural Field network for simultaneous ac",
-      "tag": "analysis"
-    },
-    {
-      "title": "Vaccine gaps in Bundibugyo ebolavirus outbreak control and their implications for global public health preparedness and response",
-      "link": "https://doi.org/10.21203/rs.3.rs-10092649/v1",
-      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10092649/v1\nAuthors: Frank Adusei-Mensah\n Abstract \n                 The present study aims to critically examine recurrent Ebola virus disease (EVD) outbreaks—particularly Bundibugyo ebolavirus—with a focus on epidemiological trends, and gaps in vaccinology and public health preparedness, in order to inform con",
-      "tag": "response"
-    },
-    {
-      "title": "Hantavirus: A Comprehensive Narrative Review of Virology, Epidemiology, Pathogenesis, Clinical Manifestations, Diagnostics, and Emerging Therapeutic Strategies",
-      "link": "https://doi.org/10.1002/rmv.70190",
-      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/rmv.70190\nAuthors: Muhammad Kamran, Muhammad Bilal Habib, Adeel Shahid, Muhammad Ans Ahmar\n ABSTRACT \n                   \n                    Hantaviruses are a genus of negative‐sense, single‐stranded, tri‐segmented RNA viruses that are distributed worldwide. They cause two severe zoonotic diseases in hum",
-      "tag": "analysis"
-    },
-    {
       "title": "Rodent-borne Viral Haemorrhagic Fevers in Sub-Saharan Africa: A Critical Narrative Review of the Epidemiology, Surveillance, Genomic Insights and Diagnostic Advances in Lassa Fever",
       "link": "https://doi.org/10.56557/arjocs/2026/v8i1186",
       "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
@@ -1684,6 +1663,34 @@
       "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10233430/v1\nAuthors: Hamidreza Bashiri, Nastaran Tavangar, Elham Sadat Tabatabaei\n Abstract \n                 Background: Pyoderma gangrenosum is a rare neutrophilic dermatosis that can complicate Behçet disease. The simultaneous presentation of catastrophic multisite thrombosis and pyoderma gangrenosum as initi",
       "tag": "analysis"
+    },
+    {
+      "title": "Hantavirus: A Comprehensive Narrative Review of Virology, Epidemiology, Pathogenesis, Clinical Manifestations, Diagnostics, and Emerging Therapeutic Strategies",
+      "link": "https://doi.org/10.1002/rmv.70190",
+      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/rmv.70190\nAuthors: Muhammad Kamran, Muhammad Bilal Habib, Adeel Shahid, Muhammad Ans Ahmar\n ABSTRACT \n                   \n                    Hantaviruses are a genus of negative‐sense, single‐stranded, tri‐segmented RNA viruses that are distributed worldwide. They cause two severe zoonotic diseases in hum",
+      "tag": "analysis"
+    },
+    {
+      "title": "Targeting of ELMO2 by the <i>Shigella</i> E3 Ligase IpaH4.5 Reveals Key Differences Between ELMO Paralogs",
+      "link": "https://doi.org/10.64898/2026.07.25.740577",
+      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.25.740577\nAuthors: David F. Schad, Maarten F. de Jong, Dahee Seo, Benjamin L. Kocsis, Neal M. Alto\n \n                  The IpaH class of effector proteins secreted by\n                   Shigella flexneri \n                  ubiquitinate specific immune factors, targeting them for proteasomal degr",
+      "tag": "analysis"
+    },
+    {
+      "title": "Modeling Parkinsonian Freezing and Deep Brain Stimulation Effects in a Basal Ganglia Network",
+      "link": "https://doi.org/10.64898/2026.07.21.738458",
+      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.21.738458\nAuthors: Nahal Habibizadeh, Madeleine Bartlett\n he precise mechanism through which Deep Brain Stimulation (DBS) mitigates freezing episodes in Parkinson's disease remains unknown. We modelled Parkinsonian freezing using a model of the basal ganglia that adopts a Dynamic Neural Field network for simultaneous ac",
+      "tag": "analysis"
+    },
+    {
+      "title": "Vaccine gaps in Bundibugyo ebolavirus outbreak control and their implications for global public health preparedness and response",
+      "link": "https://doi.org/10.21203/rs.3.rs-10092649/v1",
+      "pubDate": "Sat, 25 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10092649/v1\nAuthors: Frank Adusei-Mensah\n Abstract \n                 The present study aims to critically examine recurrent Ebola virus disease (EVD) outbreaks—particularly Bundibugyo ebolavirus—with a focus on epidemiological trends, and gaps in vaccinology and public health preparedness, in order to inform con",
+      "tag": "response"
     },
     {
       "title": "Clinical Manifestations and Immunologic Features of Chediak–Higashi Syndrome: A 12-Year National Registry Study from Iran",
