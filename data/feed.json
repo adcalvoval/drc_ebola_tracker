@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 03 Aug 2026 22:10:22 Z",
-  "fetchedAt": "2026-08-03T22:10:22Z",
+  "lastBuildDate": "Tue, 04 Aug 2026 02:41:08 Z",
+  "fetchedAt": "2026-08-04T02:41:08Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -145,6 +145,20 @@
   },
   "items": [
     {
+      "title": "Novel Alternative Models for Mycobacterial Research",
+      "link": "https://link.springer.com/collections/ahhbiaabbf",
+      "pubDate": "Tue, 04 Aug 2026 00:57:00 Z",
+      "desc": "Stephen Leon received his PhD from the University of Toulouse (France) / Institute of Pharmacology and Structural Biology of Toulouse, where he established and applied human 3D lung organoid models to investigate host-pathogen interactions during bacterial and viral infections, including....",
+      "tag": "analysis"
+    },
+    {
+      "title": "ONE CHAIN, REPEATED SPILLOVER, OR AN UNRELATED EARLY SIGNAL?",
+      "link": "https://www.medrxiv.org/content/10.64898/2026.08.02.26359503v1?rss=1",
+      "pubDate": "Tue, 04 Aug 2026 00:57:00 Z",
+      "desc": "Abstract. Abstract Background: A retrospective field investigation described substantial illness and mortality in and around Mongbwalu from January 2026, several months before Bundibugyo virus disease (BVD) was formally recognised in May. Historical BDBV evidence includes a genomic reconstruction....",
+      "tag": "analysis"
+    },
+    {
       "title": "No link between MMR vaccination before age 2 and autism, large US study suggests",
       "link": "https://www.cidrap.umn.edu/childhood-vaccines/no-link-between-mmr-vaccination-age-2-and-autism-large-us-study-suggests",
       "pubDate": "Mon, 03 Aug 2026 21:33:00 Z",
@@ -159,18 +173,18 @@
       "tag": "analysis"
     },
     {
-      "title": "American doctor tests positive for Ebola in Democratic Republic of Congo outbreak - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id=133061121",
-      "pubDate": "Mon, 03 Aug 2026 21:22:00 Z",
-      "desc": "Ebola -- DR Congo. Significance Rating: 4 American doctor tests positive for Ebola in Democratic Republic of Congo outbreak&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-      "tag": "analysis"
-    },
-    {
       "title": "DR Congo: New centre opens at heart of record Ebola outbreak",
       "link": "https://news.un.org/feed/view/en/story/2026/08/1168064",
       "pubDate": "Mon, 03 Aug 2026 21:22:00 Z",
       "desc": "-- DR Congo. Significance Rating: 1 New UN-backed centres will serve eastern Democratic Republic of the Congo (DRC) as confirmed Ebola cases continued to climb sharply over the weekend in the lar",
       "tag": "cases"
+    },
+    {
+      "title": "American doctor tests positive for Ebola in Democratic Republic of Congo outbreak - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id=133061121",
+      "pubDate": "Mon, 03 Aug 2026 21:22:00 Z",
+      "desc": "Ebola -- DR Congo. Significance Rating: 4 American doctor tests positive for Ebola in Democratic Republic of Congo outbreak&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "tag": "analysis"
     },
     {
       "title": "Ebola outbreak in DR Congo now second-deadliest in history",
@@ -250,6 +264,13 @@
       "tag": "analysis"
     },
     {
+      "title": "RFI: Fatal foodborne illness in a family following the consumption of charcoal-grilled chicken in Beirut, Lebanon. RFI on symptoms, timeline, and diagnostic test results",
+      "link": "https://beaconbio.org/en/report/?reportid=de07bb24-b9a9-48bb-b2a8-e27908c9fad9",
+      "pubDate": "Mon, 03 Aug 2026 14:21:00 Z",
+      "desc": "Event Title: Foodborne illness, Lebanon\nEvent URL: https://beaconbio.org/en/event/?eventid=7c7b68d2-da5c-4512-902a-30a477a00456\n\nSources Young man dies and wife and child hospitalized with food poisoning in Beirut, Lebanese media reports including Al Jadeed television channel, 03 Aug 2026 (In Arabic) Chicken Meal Ends in Tragedy: Young Man Dies as",
+      "tag": "analysis"
+    },
+    {
       "title": "Blueberries Have Never Done E. coli Before. Twelve Are Sick, and the Investigation Has Gone Quiet.",
       "link": "https://www.foodpoisonjournal.com/food-poisoning-information/blueberries-have-never-done-e-coli-before-twelve-are-sick-and-the-investigation-has-gone-quiet/",
       "pubDate": "Mon, 03 Aug 2026 13:52:00 Z",
@@ -268,6 +289,13 @@
       "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-080326/",
       "pubDate": "Mon, 03 Aug 2026 13:10:00 Z",
       "desc": "An outbreak of the disease-causing parasite cyclospora has infected thousands of Americans from coast to coast and has given rise to a dangerous trend called “cyclospora skinny.“ What began as a joke about the infection symptoms like weight loss and low appetite is now prompting warnings from health professionals.",
+      "tag": "analysis"
+    },
+    {
+      "title": "An AI Agent for Immune Receptor Fingerprint-Based Diagnosis of Infection of Unknown Origin",
+      "link": "https://doi.org/10.1007/978-3-032-31335-5_28",
+      "pubDate": "Mon, 03 Aug 2026 12:43:00 Z",
+      "desc": "DOI: 10.1007/978-3-032-31335-5_28\nAuthors: Jiahao Ma, Hongzong Li, Ye-Fan Hu, Jian-Dong Huang",
       "tag": "analysis"
     },
     {
@@ -348,6 +376,34 @@
       "tag": "analysis"
     },
     {
+      "title": "Randomised controlled trial assessing the efficacy of balance acceptance and commitment therapy (ACT) for post-COVID syndrome: a study protocol",
+      "link": "https://doi.org/10.1136/bmjopen-2026-122602",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/bmjopen-2026-122602\nAuthors: Nicole Carvalho, Michail Kalfas, Caroline Jolley, Gerrard F Rafferty, Oliver Pearson, Richard Emsley, Alan J Metcalfe, Barbara Barrett, Debbie Brewin, Lily Felton, Tasbiha Khan, Nicholas Hart, Emma L Duncan, Timothy Nicholson, Oliver C Witard, Rachael A Evans, Carole Beckwith, Trudie Chalder",
+      "tag": "analysis"
+    },
+    {
+      "title": "Functional changes in the rhizosphere microbiome during rebiosis",
+      "link": "https://doi.org/10.21203/rs.3.rs-9813698/v1",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-9813698/v1\nAuthors: Ruth Gómez-Expósito, Irene de Bruijn, Luisa M. Arias-Giraldo, Luc F.M. Rouws, Allison L. H. Jack, Mariana Avalos, Joeke Postma, Jos M. Raaijmakers\n Abstract \n                 \n                   Background \n                  Soil-borne fungal pathogens are major yield-limiting fact",
+      "tag": "analysis"
+    },
+    {
+      "title": "The emerging epidemic threat of Crimean-Congo haemorrhagic fever in Pakistan requires global health action",
+      "link": "https://doi.org/10.26719/2026.32.7.409",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.26719/2026.32.7.409\nAuthors: Arshad Islam, Asad Zia, Yasar Mehmood Yousafzai, Amir Muhammad",
+      "tag": "analysis"
+    },
+    {
+      "title": "Mothers’ Knowledge and Home-Based Practices for Preventing Diarrhea in Children Under Five: A Descriptive Study in Kerbela Pediatric Teaching Hospital, Iraq",
+      "link": "https://doi.org/10.18502/acta.v64i5.22211",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.18502/acta.v64i5.22211\nAuthors: Qasim Kadhim Ashour, Mohammed Kadhim Saadoon, Hasan Saud Abdul Hussein, Enas Ahmed Abdel Karim\n Diarrheal disease: It is frequently unknown how often bacteria cause diarrhea when assessed in ambulatory settings. We attempted to develop criteria for bacterial culture and identify the microbiological cau",
+      "tag": "analysis"
+    },
+    {
       "title": "Interpreting Test Positivity, Testing Volume, and Sample Backlog During the 2026 Bundibugyo Virus Disease Outbreak in the Democratic Republic of the Congo: An Operational Interpretation Framework for Outbreak Surveillance",
       "link": "https://www.preprints.org/manuscript/202608.0100/v1",
       "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
@@ -366,6 +422,27 @@
       "link": "https://doi.org/10.1186/s13567-026-01821-y",
       "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.1186/s13567-026-01821-y\nAuthors: Chloé Saada, Renaud Maillard, Claire Pelletier, Marie-Claude Hygonenq, Hortensia Robert, Christine Citti, Laurent-Xavier Nouvel\n Abstract \n                   \n                    Hemotropic mycoplasmas (hemoplasmas) infecting cattle were first detected in France in 2019 during a",
+      "tag": "analysis"
+    },
+    {
+      "title": "Improvement of Sickle Cell Disease Care Mitigates the Healthcare Utilization Induced by Increased Prevalence: Experience of a Tertiary Pediatric Center",
+      "link": "https://doi.org/10.1002/1545-5017.70607",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/1545-5017.70607\nAuthors: Maude Cigna, Alexia Muresan, Estelle Lecluze, Karine Leduc, Nathalie Fournier, Maria Tamer, Jean‐François Delisle, Jeremi Charbonneau, Annie Viau, Jessica Darilus, Marie‐Joëlle Doré‐Bergeron, Valérie Arsenault, Evelyne Doyon‐Trottier, Stéphanie Forte, Nancy Robitaille, Yves Pastore, Thomas Pincez\n AB",
+      "tag": "analysis"
+    },
+    {
+      "title": "A case series of immune checkpoint inhibitor associated myocarditis - an underreported side effect?",
+      "link": "https://doi.org/10.1093/eurheartjsupp/suag097.013",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/eurheartjsupp/suag097.013\nAuthors: M E Prieto, R Rauschenberg, M Wagner, A Trausch, M Cybularz-Bednarek, K Sveric, N Mangner, F Meier, K Klingel, A Linke, F M Heidrich, S Jellinghaus\n Abstract \n                   \n                     Introduction \n                     Early",
+      "tag": "analysis"
+    },
+    {
+      "title": "The hidden cardiovascular burden of CAR-T candidates: insights from a prospective multimodal imaging study",
+      "link": "https://doi.org/10.1093/eurheartjsupp/suag097.068",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/eurheartjsupp/suag097.068\nAuthors: L Moreno De Redrojo Cortes, B Aumente Rodriguez, A C Martin-Garcia, S Rodriguez Diego, E Iglesias Colino, E Perez Lopez, A A Martin Lopez, R Eiros Bachiller, M Garcia Lopez, M Garcia De Pedro, G Barberis Barcia, D Clavo Martin, P L Sanchez Fernandez, L Lopez Corral, A Martin-Garcia\n Abstrac",
       "tag": "analysis"
     },
     {
@@ -411,17 +488,17 @@
       "tag": "response"
     },
     {
-      "title": "Distinct neural representations encode psychiatric states across multiple timescales",
-      "link": "https://doi.org/10.64898/2026.07.30.26359255",
-      "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.30.26359255\nAuthors: Merk, T.; Bezold, G.; Hingorani, R.; Wiese, A. D.; Robinson, B.; Yi, H.; Altman, J.; Ochoa, M.; Hamre, T.; Belavadi, V.; Avendano-Ortega, M.; Soubra, S.; Reyes, G.; Fraczek, T. M.; Storch, E. A.; Goodman, W. K.; Sheth, S. A.; Provenza, N. R.\nPsychiatric states manifest over multiple timescales, from transi",
-      "tag": "analysis"
-    },
-    {
       "title": "Exploration of BoltzGen permeable cyclic-minipeptides targeting Ebola GP2 prefusion-state",
       "link": "https://doi.org/10.26434/chemrxiv.15006372/v2",
       "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.26434/chemrxiv.15006372/v2\nAuthors: Julio Coll\n \n                   \n                    Cyclic-minipeptide-conformer candidates were co-generated by targeting\n                     ebo \n                    la\n                     v \n                    irus (EBOV",
+      "tag": "analysis"
+    },
+    {
+      "title": "Distinct neural representations encode psychiatric states across multiple timescales",
+      "link": "https://doi.org/10.64898/2026.07.30.26359255",
+      "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.07.30.26359255\nAuthors: Merk, T.; Bezold, G.; Hingorani, R.; Wiese, A. D.; Robinson, B.; Yi, H.; Altman, J.; Ochoa, M.; Hamre, T.; Belavadi, V.; Avendano-Ortega, M.; Soubra, S.; Reyes, G.; Fraczek, T. M.; Storch, E. A.; Goodman, W. K.; Sheth, S. A.; Provenza, N. R.\nPsychiatric states manifest over multiple timescales, from transi",
       "tag": "analysis"
     },
     {
@@ -443,6 +520,13 @@
       "link": "https://doi.org/10.1155/crpe/8888681",
       "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.1155/crpe/8888681\nAuthors: Nabeel Ahmad, Hooria Rehman, Muhammad Huzaifa Ameer, Syed Junaid Haide, Umer Abdullah, Bilal Aslam, Muneeb Saifullah, Hamza Aka Khail\n \n                    While\n                     IL12RB1 \n                    deficiency is classically associated with susceptibility to mycobacteri",
+      "tag": "analysis"
+    },
+    {
+      "title": "Inferior Vena Cava Graft–Enteric Fistula Presenting with Occult Gastrointestinal Bleeding and Psoas Abscess: A Rare Case Report",
+      "link": "https://doi.org/10.3390/jcm15156002",
+      "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/jcm15156002\nAuthors: Chuwen Chen, Lijia Wei, Yiyuan Li, Bin Huang, Xiyang Chen\n Background: Inferior vena cava (IVC) graft–enteric fistula is an exceptionally rare but potentially fatal complication of caval reconstruction. Case Presentation: A 22-year-old woman with previous IVC and right renal vein reconstruction presented wit",
       "tag": "analysis"
     },
     {
@@ -488,6 +572,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Hantavirus Infections in Children",
+      "link": "https://doi.org/10.1542/pir.2025-006862",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1542/pir.2025-006862\nAuthors: Calvin J. Cable, Walter Dehority\n Abstract \n                   Hantaviruses are rare but deadly pathogens. New World hantaviruses, primarily present in North and South America, cause hantavirus cardiopulmonary syndrome, which leads to death in up to one-third of affected patients.",
+      "tag": "analysis"
+    },
+    {
       "title": "A Review of the Application of Nanotechnology in the Diagnosis of Infectious Diseases",
       "link": "https://doi.org/10.52589/ajensr-rhej3zbc",
       "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
@@ -495,11 +586,18 @@
       "tag": "analysis"
     },
     {
-      "title": "Hantavirus Infections in Children",
-      "link": "https://doi.org/10.1542/pir.2025-006862",
+      "title": "Antibodies Cross-Reactive with Bundibugyo Virus in Ferrets Vaccinated with Ebola Virus Vaccine",
+      "link": "https://doi.org/10.3201/eid3208.262948",
       "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1542/pir.2025-006862\nAuthors: Calvin J. Cable, Walter Dehority\n Abstract \n                   Hantaviruses are rare but deadly pathogens. New World hantaviruses, primarily present in North and South America, cause hantavirus cardiopulmonary syndrome, which leads to death in up to one-third of affected patients.",
+      "desc": "DOI: 10.3201/eid3208.262948\nAuthors: Jordan Wight, Helene Schulz, Logan Banadyga",
       "tag": "analysis"
+    },
+    {
+      "title": "La RDC et la Chine renforcent leur partenariat stratégique autour du Centre des Opérations d’Urgence de Santé Publique",
+      "link": "https://insp.cd/la-rdc-et-la-chine-renforcent-leur-partenariat-strategique-autour-du-centre-des-operations-durgence-de-sante-publique/",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
+      "desc": "août 1, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nUne délégation de l’Ambassade de la République populaire de Chine découvre le modèle congolais de préparation et de riposte aux urgences sanitaires porté par l’INSP. Une visite qui ouvre l",
+      "tag": "pheic"
     },
     {
       "title": "An Unusual Case of Infection-Provoked Macrophage Activation Syndrome in Mixed Connective Tissue Disease",
@@ -521,20 +619,6 @@
       "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.3899/jrheum.2026-0447.99\nAuthors: Tina Liu, Karen Beattie, Christy Chan, Jessica Zelman, Jeanine McColl, Mark Ferro, Michelle Batthish\n \n                     Objectives \n                     Parents of children with juvenile idiopathic arthritis (JIA) commonly experience mental health problems that neg",
       "tag": "analysis"
-    },
-    {
-      "title": "Antibodies Cross-Reactive with Bundibugyo Virus in Ferrets Vaccinated with Ebola Virus Vaccine",
-      "link": "https://doi.org/10.3201/eid3208.262948",
-      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.3201/eid3208.262948\nAuthors: Jordan Wight, Helene Schulz, Logan Banadyga",
-      "tag": "analysis"
-    },
-    {
-      "title": "La RDC et la Chine renforcent leur partenariat stratégique autour du Centre des Opérations d’Urgence de Santé Publique",
-      "link": "https://insp.cd/la-rdc-et-la-chine-renforcent-leur-partenariat-strategique-autour-du-centre-des-operations-durgence-de-sante-publique/",
-      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
-      "desc": "août 1, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nUne délégation de l’Ambassade de la République populaire de Chine découvre le modèle congolais de préparation et de riposte aux urgences sanitaires porté par l’INSP. Une visite qui ouvre l",
-      "tag": "pheic"
     },
     {
       "title": "Les forces de défense s’engagent aux côtés de l’INSP pour renforcer la prévention communautaire. – Institut National de Sante Publique",
@@ -677,13 +761,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Co-circulation of Crimean–Congo hemorrhagic fever virus and spotted fever group Rickettsia in cattle and ticks from cattle in Kosovo",
-      "link": "https://doi.org/10.3389/fvets.2026.1888406",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fvets.2026.1888406\nAuthors: Jignesh Italiya, Kristýna Hrazdilová, Seyma S. Celina, Pavlina Nekudova, Tekkara Allan Obonyom, Avni Robaj, Jiri Cerny, David Modry, Lisa E. Hensley, Anne W. Rimoin, Ludek Zurek\n \n                     Background \n                     \n                      Changes in cl",
-      "tag": "analysis"
-    },
-    {
       "title": "Epidemiological trends of Crimean-Congo hemorrhagic fever in South Asia: a systematic review",
       "link": "https://doi.org/10.1186/s12879-026-14036-5",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
@@ -695,6 +772,13 @@
       "link": "https://doi.org/10.1007/s40203-026-00699-0",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1007/s40203-026-00699-0\nAuthors: Govinda Rao Dabburu, Anjali Garg, Anchal Vishnoi, Neelja Singhal, Manish Kumar",
+      "tag": "analysis"
+    },
+    {
+      "title": "Co-circulation of Crimean–Congo hemorrhagic fever virus and spotted fever group Rickettsia in cattle and ticks from cattle in Kosovo",
+      "link": "https://doi.org/10.3389/fvets.2026.1888406",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fvets.2026.1888406\nAuthors: Jignesh Italiya, Kristýna Hrazdilová, Seyma S. Celina, Pavlina Nekudova, Tekkara Allan Obonyom, Avni Robaj, Jiri Cerny, David Modry, Lisa E. Hensley, Anne W. Rimoin, Ludek Zurek\n \n                     Background \n                     \n                      Changes in cl",
       "tag": "analysis"
     },
     {
@@ -716,34 +800,6 @@
       "link": "https://doi.org/10.3389/fneur.2026.1879830",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fneur.2026.1879830\nAuthors: Xingfen Su, Lijin Wu, Fuxiang Chen\n Astaxanthin (ATX) is a dietary carotenoid that possesses potent effects of anti-oxidation, anti-inflammation, and anti-cell death. ATX has neuroprotective properties in a variety of neurological diseases. However, whether ATX has a neuroprotective effect in intracer",
-      "tag": "analysis"
-    },
-    {
-      "title": "Diagnostic performance of clinical symptom combinations for Crimean-Congo hemorrhagic fever in emergency department patients with reported arthropod bites, stings, or exposure",
-      "link": "https://doi.org/10.1186/s41182-026-01043-0",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s41182-026-01043-0\nAuthors: Yasin Bilgin, Fatih Mehmet Sari, Cemalettin Sakal, Erdem Yakup Cimen, Orhan Tanrıverdi, Abdullah Emre Yurttutan, Umut Devrim Binay",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola: DRC outbreak is now “fastest growing in history,” as strikes hinder response",
-      "link": "https://doi.org/10.1136/bmj-2026-100469",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/bmj-2026-100469\nAuthors: Henry Wasswa",
-      "tag": "response"
-    },
-    {
-      "title": "Red Cross and Red Crescent Movement responses to viral hemorrhagic fever outbreaks: A mixedmethod evaluation of information management practices for Safe and Dignified Burials",
-      "link": "https://doi.org/10.14745/ccdr.v52i78a07",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.14745/ccdr.v52i78a07\nAuthors: Douglas Lau, Arwen Barr, Marguerite Gollish, Maria Munoz-Bertrand",
-      "tag": "response"
-    },
-    {
-      "title": "Interventions du Mouvement de la Croix-Rouge et du Croissant-Rouge face aux épidémies de fièvres hémorragiques virales : évaluation par une approche mixte des pratiques de gestion de l’information en matière d’enterrements dignes et sécurisés",
-      "link": "https://doi.org/10.14745/ccdr.v52i78a07f",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.14745/ccdr.v52i78a07f\nAuthors: Douglas Lau, Arwen Barr, Marguerite Gollish, Maria Munoz-Bertrand",
       "tag": "analysis"
     },
     {
@@ -786,6 +842,34 @@
       "link": "https://doi.org/10.64898/2026.07.31.742066",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.31.742066\nAuthors: Hannah L Burge, Shashi P. Singh, Jianyang Wang, Suchitra Pradhan, Katharine M Wood, Joshua W Lee, Silvia A Synowsky, Sally L Shirran, Patrick J Moynihan, Andrew L Lovering, Laura M Machesky, Mark A Jepson, Stephen J Dumler, Ian T Cadby\n The obligate intracellular tick-borne pathogen Anaplasma phagocyt",
+      "tag": "analysis"
+    },
+    {
+      "title": "Diagnostic performance of clinical symptom combinations for Crimean-Congo hemorrhagic fever in emergency department patients with reported arthropod bites, stings, or exposure",
+      "link": "https://doi.org/10.1186/s41182-026-01043-0",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s41182-026-01043-0\nAuthors: Yasin Bilgin, Fatih Mehmet Sari, Cemalettin Sakal, Erdem Yakup Cimen, Orhan Tanrıverdi, Abdullah Emre Yurttutan, Umut Devrim Binay",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola: DRC outbreak is now “fastest growing in history,” as strikes hinder response",
+      "link": "https://doi.org/10.1136/bmj-2026-100469",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/bmj-2026-100469\nAuthors: Henry Wasswa",
+      "tag": "response"
+    },
+    {
+      "title": "Red Cross and Red Crescent Movement responses to viral hemorrhagic fever outbreaks: A mixedmethod evaluation of information management practices for Safe and Dignified Burials",
+      "link": "https://doi.org/10.14745/ccdr.v52i78a07",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.14745/ccdr.v52i78a07\nAuthors: Douglas Lau, Arwen Barr, Marguerite Gollish, Maria Munoz-Bertrand",
+      "tag": "response"
+    },
+    {
+      "title": "Interventions du Mouvement de la Croix-Rouge et du Croissant-Rouge face aux épidémies de fièvres hémorragiques virales : évaluation par une approche mixte des pratiques de gestion de l’information en matière d’enterrements dignes et sécurisés",
+      "link": "https://doi.org/10.14745/ccdr.v52i78a07f",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.14745/ccdr.v52i78a07f\nAuthors: Douglas Lau, Arwen Barr, Marguerite Gollish, Maria Munoz-Bertrand",
       "tag": "analysis"
     },
     {
@@ -999,6 +1083,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Diagnostic Performance of Advanced Geometric Indices versus Traditional Anthropometric Indices in Evaluating Female Infertility Risk: A Cross-Sectional Study",
+      "link": "https://doi.org/10.21203/rs.3.rs-10176089/v1",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10176089/v1\nAuthors: Gülşah Kızılgün Aksoy, Ümmügülsüm Esenkaya\n Abstract \n                 \n                   Background \n                  Infertility impacts reproductive-age couples worldwide, with obesity—especially abdominal obesity—being increasingly recognized as a factor in female reproducti",
+      "tag": "analysis"
+    },
+    {
       "title": "‘Do No (Further) Harm’ Ethics Guidelines for Migrant Disaster Victim Identification (MDVI)",
       "link": "https://doi.org/10.31235/osf.io/rc8wy_v1",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
@@ -1017,13 +1108,6 @@
       "link": "https://doi.org/10.4103/ijdt.ijdt_17_26",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.4103/ijdt.ijdt_17_26\nAuthors: Jothydev Kesavadev, Sanjay Kalra, Shashank R. Joshi, Anoop Misra, Niti Pall, Banshi Saboo, Anuj Maheshwari, Amit Gupta, Rakesh Parikh, Manoj Chawla, Sunil Gupta, Anjana Ranjit Mohan, Sanjay Agarwal\n Abstract \n                   Type 2 diabetes (T2D) is a rapidly expanding global he",
-      "tag": "analysis"
-    },
-    {
-      "title": "Diagnostic Performance of Advanced Geometric Indices versus Traditional Anthropometric Indices in Evaluating Female Infertility Risk: A Cross-Sectional Study",
-      "link": "https://doi.org/10.21203/rs.3.rs-10176089/v1",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10176089/v1\nAuthors: Gülşah Kızılgün Aksoy, Ümmügülsüm Esenkaya\n Abstract \n                 \n                   Background \n                  Infertility impacts reproductive-age couples worldwide, with obesity—especially abdominal obesity—being increasingly recognized as a factor in female reproducti",
       "tag": "analysis"
     },
     {
@@ -1809,90 +1893,6 @@
       "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.34257/gjmrk259014\nAuthors: Dr. Odira Felicita Ogbu\n Background: As strikingly shown by the series of shocks—H1N1 influenza, MERS-CoV,\nEbola, Zika, and most recently the SARS-CoV-2 epidemic, which claimed more than 1.2\nmillion lives in the United States and caused an projected 14 trillion in combined direct and\nindirect economic damag",
       "tag": "analysis"
-    },
-    {
-      "title": "Case Report: Complete Kawasaki disease in a 2-month-old infant without coronary involvement",
-      "link": "https://doi.org/10.3389/fped.2026.1865309",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fped.2026.1865309\nAuthors: Réka Solyom, Daniela Toma, Lorena Elena Meliț, Zsuzsanna Erzsébet Papp, Zoltán Derzsi, Henrietta Dimén\n \n                     Background \n                     Kawasaki disease (KD) is a systemic vasculitis, of unknown etiology, that usually occurs in children between the",
-      "tag": "analysis"
-    },
-    {
-      "title": "Importation risk and preparedness priorities across Africa in the 2026 Bundibugyo Ebola outbreak",
-      "link": "https://doi.org/10.64898/2026.07.21.26358330",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.21.26358330\nAuthors: Federico Fanelli, Francesco Parino, Maria Amalia Pelle, Boxuan Wang, Yap Boum, Mosoka Fallah, Placide Mbala, Reagan Luvande Okingo, Vincent Ronin, Yazdan Yazdanpanah, Chiara Poletto, Eugenio Valdano, Vittoria Colizza\n The ongoing 2026 Bundibugyo Ebola outbreak in the Democratic Republic of the Congo",
-      "tag": "response"
-    },
-    {
-      "title": "Transforming health systems in crisis: innovative infrastructure adaptations for Marburg outbreak response in Biharamulo, Kagera, Tanzania",
-      "link": "https://doi.org/10.1136/bmjgh-2025-019661",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/bmjgh-2025-019661\nAuthors: Michael Kiremeji, Eliudi Eliakimu, Joseph Hokororo, Naoufel Dridi, Florian Mwebesa, Calvin Sindato, Erasto Sylvanus, James Hellar, Theresia Haule, Erick Richard, Lilian Mreta, Alex Sanga, Erick Stephen Kinyenje, Ruth Ngowi, Radenta Bahegwa, George Mrema, Pascal Muhode, Noel Saitoti, Neema Kamara, Juma Mfinang",
-      "tag": "response"
-    },
-    {
-      "title": "One Health diagnostics at the human–animal–environment interface: a structured narrative review of cross-sector collaboration, capacity building, and technological innovations",
-      "link": "https://doi.org/10.3389/fitd.2026.1859816",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fitd.2026.1859816\n \n                     Background \n                     Zoonotic diseases at the human–animal–environment interface pose an increasing global health threat, necessitating integrated diagnostic strategies under the One Health framework.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Undiagnosed coeliac disease presenting with oral ulcers: a missed opportunity",
-      "link": "https://doi.org/10.1136/bmj-2026-100371",
-      "pubDate": "Mon, 27 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/bmj-2026-100371\nAuthors: Mohamed G Shiha, David S Sanders",
-      "tag": "analysis"
-    },
-    {
-      "title": "刚果（金）埃博拉确诊病例接近3000例 - QQ News",
-      "link": "https://view.inews.qq.com/a/20260725A058SA00",
-      "pubDate": "Sun, 26 Jul 2026 16:24:00 Z",
-      "desc": "Ebola -- DR Congo. Significance Rating: 1 刚果（金）埃博拉确诊病例接近3000例&nbsp;&nbsp;QQ News",
-      "tag": "analysis"
-    },
-    {
-      "title": "Congo's Ebola outbreak claims more lives, Senegal's President Faye launches new party, ICC fires chief prosecutor Karim Khan over sexual misconduct - The African Exponent",
-      "link": "https://www.africanexponent.com/congos-ebola-outbreak-claims-more-lives-senegals-president-faye-launches-new-party-icc-fires-chief-prosecutor-karim-khan-over-sexual-misconduct/",
-      "pubDate": "Sun, 26 Jul 2026 14:22:00 Z",
-      "desc": "-- Senegal. Significance Rating: 1 Congo's Ebola outbreak claims more lives, Senegal's President Faye launches new party, ICC fires chief prosecutor Karim Khan over sexual misconduct&nbsp;&nbsp;T",
-      "tag": "analysis"
-    },
-    {
-      "title": "Bundibugyo Virus Disease Outbreak",
-      "link": "https://africacdc.org/download/bundibugyo-virus-disease-outbreak-situation-report-issue-no-66-july-22-2026/",
-      "pubDate": "Sun, 26 Jul 2026 12:18:00 Z",
-      "desc": "AfricaCDC\nCentres for Disease Control\n\nand Prevention\n\n \n\n\n# Bundibugyo Virus Disease Outbreak\n\nDemocratic Republic of the Congo & Uganda\n\nREPORTING DATE\n\n22 July 2026\n\n\n \n\nAFRICA CI\n\n \n\n\n \n<!-- PageFooter=\"S",
-      "tag": "analysis"
-    },
-    {
-      "title": "20 Years After Its Own Outbreak, an Ugandan Town Beats Back Ebola - The New York Times",
-      "link": "https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html",
-      "pubDate": "Sun, 26 Jul 2026 10:23:00 Z",
-      "desc": "Ebola -- New York State, United States. Significance Rating: 4 20 Years After Its Own Outbreak, an Ugandan Town Beats Back Ebola&nbsp;&nbsp;The New York Times",
-      "tag": "analysis"
-    },
-    {
-      "title": "DR Congo's Ebola cases surpass 3,000 as vaccine research advances - news.cgtn.com",
-      "link": "https://news.cgtn.com/news/2026-07-26/DR-Congo-s-Ebola-cases-surpass-3-000-as-vaccine-research-advances-1P5pQRt8ZEI/p.html",
-      "pubDate": "Sun, 26 Jul 2026 10:23:00 Z",
-      "desc": "-- DR Congo. Significance Rating: 1 DR Congo's Ebola cases surpass 3,000 as vaccine research advances&nbsp;&nbsp;news.cgtn.com",
-      "tag": "cases"
-    },
-    {
-      "title": "DR Congo Ebola cases top 3,000 as vaccine research advances - bastillepost.com",
-      "link": "https://www.bastillepost.com/global/article/6037416-dr-congo-ebola-cases-top-3000-as-vaccine-research-advances",
-      "pubDate": "Sun, 26 Jul 2026 10:22:00 Z",
-      "desc": "-- DR Congo. Significance Rating: 1 DR Congo Ebola cases top 3,000 as vaccine research advances&nbsp;&nbsp;bastillepost.com",
-      "tag": "cases"
-    },
-    {
-      "title": "Hepatitis A cases in São Paulo State, Brazil exceed the 2025 total, with 1953 cases and two deaths reported in 2026",
-      "link": "https://beaconbio.org/en/report/?reportid=42e188fa-987a-4f5a-a443-f7766088ed79",
-      "pubDate": "Sun, 26 Jul 2026 08:55:00 Z",
-      "desc": "Sources Government of São Paulo State Department of Health. Press release. Yellow July: São Paulo Health Department provides guidance on preventing viral hepatitis. 23 Jul 2026 (in Portuguese) Government of São Paulo, State Department of Health. Strategic Health Information Centre (NIES). Hepatitis A dashboard. Accessed 26 Jul 2026 (in Portuguese)",
-      "tag": "cases"
     }
   ],
   "highWater": {
