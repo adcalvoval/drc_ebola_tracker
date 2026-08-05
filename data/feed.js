@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 05 Aug 2026 19:36:44 Z",
-  "fetchedAt": "2026-08-05T19:36:45Z",
+  "lastBuildDate": "Wed, 05 Aug 2026 22:12:50 Z",
+  "fetchedAt": "2026-08-05T22:12:51Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -147,6 +147,27 @@ window.FEED_DATA = {
   },
   "items": [
     {
+      "title": "Senate confirms Erica Schwartz as CDC director",
+      "link": "https://www.cidrap.umn.edu/public-health/senate-confirms-erica-schwartz-cdc-director",
+      "pubDate": "Wed, 05 Aug 2026 21:34:00 Z",
+      "desc": "The US Senate today voted to confirm Erica Schwarz, MD, MPH, JD, as the director of the Centers for Disease Control and Prevention (CDC). The vote was 51 to 44 in favor of confirming Schwartz, who spent 24 years in the US Public Health Service Commissioned Corps, and served as deputy Surgeon General in the first Trump administration.",
+      "tag": "analysis"
+    },
+    {
+      "title": "DR Congo Ebola outbreak outstrips response as cases near 3,900 - chinadailyhk",
+      "link": "https://www.chinadailyhk.com/hk/article/637489",
+      "pubDate": "Wed, 05 Aug 2026 20:22:00 Z",
+      "desc": "Ebola -- DR Congo. Significance Rating: 4 DR Congo Ebola outbreak outstrips response as cases near 3,900&nbsp;&nbsp;chinadailyhk",
+      "tag": "cases"
+    },
+    {
+      "title": "Despite quick rollout of trials, Ebola outbreak outpaces response efforts in DR Congo",
+      "link": "https://www.cidrap.umn.edu/ebola/despite-quick-rollout-trials-ebola-outbreak-outpaces-response-efforts-dr-congo",
+      "pubDate": "Wed, 05 Aug 2026 20:05:00 Z",
+      "desc": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) is the fastest-growing in history, but the testing of new and experimental vaccines and treatments has also been speedy. “If you compare this outbreak to previous Ebola outbreaks, we have been able to start trials more quickly,\" Vasee....",
+      "tag": "response"
+    },
+    {
       "title": "Faites attention à ces huit signes qui révéleraient un trouble du sommeil non diagnostiqué",
       "link": "https://www.science-et-vie.com/corps-et-sante/faites-attention-a-ces-huit-signes-qui-reveleraient-un-trouble-du-sommeil-non-diagnostique-253134.html",
       "pubDate": "Wed, 05 Aug 2026 19:10:00 Z",
@@ -245,6 +266,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Clinical application value of metagenomic next-generation sequencing in children with fever of unknown origin",
+      "link": "https://doi.org/10.3389/fped.2026.1868060",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fped.2026.1868060\nAuthors: Shihua Liu, Shaoning Wang, Jian Li\n \n                     Purpose \n                     Infectious diseases constitute the predominant cause of fever of unknown origin (FUO). Conventional microbiological testing is limited by prolonged turnaround times, susceptibility to",
+      "tag": "analysis"
+    },
+    {
       "title": "Bundibugyo Virus Disease in 2026: Clinical and Public Health Responses",
       "link": "https://doi.org/10.1097/inf.0000000000005359",
       "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
@@ -266,10 +294,24 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Clinical application value of metagenomic next-generation sequencing in children with fever of unknown origin",
-      "link": "https://doi.org/10.3389/fped.2026.1868060",
+      "title": "The plasma proteome of an Ebola virus disease survivor reveals longitudinal changes in coagulation and innate immune pathways in the absence of therapy",
+      "link": "https://doi.org/10.21203/rs.3.rs-10182930/v1",
       "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fped.2026.1868060\nAuthors: Shihua Liu, Shaoning Wang, Jian Li\n \n                     Purpose \n                     Infectious diseases constitute the predominant cause of fever of unknown origin (FUO). Conventional microbiological testing is limited by prolonged turnaround times, susceptibility to",
+      "desc": "DOI: 10.21203/rs.3.rs-10182930/v1\nAuthors: Daniel Chertow, Luis Perez-Valencia, Kevin Vannella, Janhavi Athale, Angelique Biancotto, Ti-Shawn Wellington, Marcos Ramos-Benitez, Richard Davey, Julián Candia\n Abstract \n                 Recurrent Ebola virus disease (EVD) outbreaks with high mortality emphasize the need for effective the",
+      "tag": "analysis"
+    },
+    {
+      "title": "Broad-Spectrum Multi-Epitope Design Targeting Conserved Hantavirus Glycoproteins (Gn/Gc): Chimeric Antigen Engineering and Structural Mapping",
+      "link": "https://doi.org/10.3390/ijms27157021",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/ijms27157021\nAuthors: Silvia da Silva Fontes, Fernando Paiva Conte, Jorlan Fernandes, Elba Regina Sampaio de Lemos, Josué da Costa Lima-Junior, Renata Carvalho de Oliveira, Rodrigo Nunes Rodrigues-da-Silva\n Hantaviruses, the etiological agents of hemorrhagic fever with renal syndrome (HFRS) and hantavirus pulmonary syndrome (HPS",
+      "tag": "analysis"
+    },
+    {
+      "title": "EP 017 Evaluating the Effect of our Local Surgical Handbook Versions on Confidence Levels Post Rotation for Foundation Year One Doctors Over Four Rotations",
+      "link": "https://doi.org/10.1093/bjs/znag087.533",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/bjs/znag087.533\nAuthors: Jayan George, Tze Yi Gan, Limeng Zhu, Denise Brown, Sashidhar Yeluri\n Abstract \n                   \n                     Aims \n                     Assess confidence levels of general surgical foundation year one doctors in managing surgical patients",
       "tag": "analysis"
     },
     {
@@ -434,27 +476,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Loss of the Coronary Artery Disease Risk Gene <i>LMOD1</i> in Vascular Smooth Muscle Cells Triggers Rapid-Onset Coronary Atherosclerosis",
-      "link": "https://doi.org/10.1161/circulationaha.126.080105",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1161/circulationaha.126.080105\nAuthors: Amr R. Salem, Ajay Kumar, Jaser Doja, Alshimaa Wally, Chunyu Ge, Sabrina Robichaud, Orazio J. Slivano, Susan H. Griffin, Brendan Marshall, Elizabeth Perry, J. Lee Franklin, Erin H. Seeley, Kunzhe Dong, Malgorzata Boczkowska, Gabor Csanyi, W. Bart Bryant, Roberto I. Vazquez-Padron, Vivek Nanda, Roberto",
-      "tag": "analysis"
-    },
-    {
-      "title": "Equine Ulcerative Genital Lesions Associated with Parapoxvirus",
-      "link": "https://doi.org/10.3390/v18080852",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/v18080852\nAuthors: Ann Cullinane, Marie Garvey, Donald Collins, Rachel Lyons, Maura Nelly, Adam Grimes\n In 2026, a widespread outbreak of ulcerative dermatitis of unknown aetiology occurred in breeding horses in Ireland. The lesions resembled those associated with equine herpesvirus 3 (EHV3) infection, i.e., papules, vesicles, a",
-      "tag": "analysis"
-    },
-    {
-      "title": "<i>Borrelia miyamotoi</i> meningoradiculitis complicating ocrelizumab treatment for multiple sclerosis: A report of three cases",
-      "link": "https://doi.org/10.1177/13524585261473068",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/13524585261473068\nAuthors: Philippe Nicolas, Ysoline Beigneux, Anne-Marie Guennoc, Gregory Destras, Mathieu Mossad, Antonin Bal, Emilie Talagrand-Reboul, Christophe Rodriguez, Pierre Cappy, Camelia Gubavu, Romain Marignier, Sandra Vukusic, Sophie Jarraud, Elisabeth Maillart, Laurence Josset, Valérie Pourcher",
-      "tag": "cases"
-    },
-    {
       "title": "Oropouche Virus in Loreto, Peru (2023–2024): Case Distribution, Genome Sequencing, and Phylogenetic Insights",
       "link": "https://doi.org/10.4269/ajtmh.25-0640",
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
@@ -476,6 +497,27 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Loss of the Coronary Artery Disease Risk Gene <i>LMOD1</i> in Vascular Smooth Muscle Cells Triggers Rapid-Onset Coronary Atherosclerosis",
+      "link": "https://doi.org/10.1161/circulationaha.126.080105",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1161/circulationaha.126.080105\nAuthors: Amr R. Salem, Ajay Kumar, Jaser Doja, Alshimaa Wally, Chunyu Ge, Sabrina Robichaud, Orazio J. Slivano, Susan H. Griffin, Brendan Marshall, Elizabeth Perry, J. Lee Franklin, Erin H. Seeley, Kunzhe Dong, Malgorzata Boczkowska, Gabor Csanyi, W. Bart Bryant, Roberto I. Vazquez-Padron, Vivek Nanda, Roberto",
+      "tag": "analysis"
+    },
+    {
+      "title": "Equine Ulcerative Genital Lesions Associated with Parapoxvirus",
+      "link": "https://doi.org/10.3390/v18080852",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/v18080852\nAuthors: Ann Cullinane, Marie Garvey, Donald Collins, Rachel Lyons, Maura Nelly, Adam Grimes\n In 2026, a widespread outbreak of ulcerative dermatitis of unknown aetiology occurred in breeding horses in Ireland. The lesions resembled those associated with equine herpesvirus 3 (EHV3) infection, i.e., papules, vesicles, a",
+      "tag": "analysis"
+    },
+    {
+      "title": "<i>Borrelia miyamotoi</i> meningoradiculitis complicating ocrelizumab treatment for multiple sclerosis: A report of three cases",
+      "link": "https://doi.org/10.1177/13524585261473068",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1177/13524585261473068\nAuthors: Philippe Nicolas, Ysoline Beigneux, Anne-Marie Guennoc, Gregory Destras, Mathieu Mossad, Antonin Bal, Emilie Talagrand-Reboul, Christophe Rodriguez, Pierre Cappy, Camelia Gubavu, Romain Marignier, Sandra Vukusic, Sophie Jarraud, Elisabeth Maillart, Laurence Josset, Valérie Pourcher",
+      "tag": "cases"
+    },
+    {
       "title": "Redistribution of peripheral blood immune cell subsets and remodeling of intercellular communication in rare Behçet's disease: a single-cell transcriptomics study",
       "link": "https://doi.org/10.3389/fmed.2026.1908366",
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
@@ -487,6 +529,13 @@ window.FEED_DATA = {
       "link": "https://insp.cd/linsp-dote-lituri-du-plus-grand-centre-de-traitement-ebola-pour-renforcer-la-prise-en-charge-des-patients-2/",
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
       "desc": "août 4, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nAvec l’appui de Corps Médical International (MCI), l’Institut National de Santé Publique construit à Rwankole un Centre de Traitement Ebola de plus de 100 lits et forme plus de 150 hygiéni",
+      "tag": "analysis"
+    },
+    {
+      "title": "Crimean-Congo hemorrhagic fever in Iran: a systematic review of viral detection in ticks, vector distribution, and data gaps for health system decision-makers",
+      "link": "https://doi.org/10.1007/s11259-026-11444-5",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1007/s11259-026-11444-5\nAuthors: Hassan Nasirian",
       "tag": "analysis"
     },
     {
@@ -504,10 +553,10 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Crimean-Congo hemorrhagic fever in Iran: a systematic review of viral detection in ticks, vector distribution, and data gaps for health system decision-makers",
-      "link": "https://doi.org/10.1007/s11259-026-11444-5",
+      "title": "DENV-4 infection suppresses transcription of DNA repair genes",
+      "link": "https://doi.org/10.1073/pnas.2536909123",
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1007/s11259-026-11444-5\nAuthors: Hassan Nasirian",
+      "desc": "DOI: 10.1073/pnas.2536909123\nAuthors: Erica N. Lamkin, Jessica Reich, Josh A. Victor, Madison Guyette, Naveen Kothandaraman, Vihit Gupta, Alfred T. Harding, Tristan X. Jordan, Lee Gehrke, Pei Zhou, Benjamin tenOever, Nimrat Chatterjee\n The molecular mechanisms behind Dengue virus-dependent host pathogenesis, especially genome instability, re",
       "tag": "analysis"
     },
     {
@@ -515,13 +564,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1177/17562848261475954",
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.1177/17562848261475954\nAuthors: Christina Liava, Danai Chourmouzi, Georgia Gioula, Emmanouil Sinakos, Evangelos Akriviadis\n \n                     Background \n                     Sclerosing mesenteritis (SM) is a rare fibroinflammatory disease of unknown etiology that primarily affects the root of the",
-      "tag": "analysis"
-    },
-    {
-      "title": "DENV-4 infection suppresses transcription of DNA repair genes",
-      "link": "https://doi.org/10.1073/pnas.2536909123",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1073/pnas.2536909123\nAuthors: Erica N. Lamkin, Jessica Reich, Josh A. Victor, Madison Guyette, Naveen Kothandaraman, Vihit Gupta, Alfred T. Harding, Tristan X. Jordan, Lee Gehrke, Pei Zhou, Benjamin tenOever, Nimrat Chatterjee\n The molecular mechanisms behind Dengue virus-dependent host pathogenesis, especially genome instability, re",
       "tag": "analysis"
     },
     {
@@ -819,13 +861,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Interpreting Test Positivity, Testing Volume, and Sample Backlog During the 2026 Bundibugyo Virus Disease Outbreak in the Democratic Republic of the Congo: An Operational Interpretation Framework for Outbreak Surveillance",
-      "link": "https://www.preprints.org/manuscript/202608.0100/v1",
-      "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
-      "desc": "Background: During a rapidly expanding outbreak, changes in confirmed case counts and test positivity may reflect transmission, testing selectivity, geographic expansion of surveillance, or delayed processing of accumulated samples. This study reconstructed laboratory indicators reported during the 2026 Bundibugyo virus disease (BVD) outbreak in th",
-      "tag": "cases"
-    },
-    {
       "title": "Disseminated histoplasmosis presenting as a pyrexia of unknown origin",
       "link": "https://doi.org/10.25259/jhas_31_2026",
       "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
@@ -859,6 +894,13 @@ window.FEED_DATA = {
       "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/jcm15156038\nAuthors: Fuping Guo, Li Zhang, Zhengyin Liu, Baotong Zhou, Hongwei Fan, Dong Zhang, Qiwen Yang, Taisheng Li, Ying Ge\n Background: Fever of unknown origin (FUO) remains a major diagnostic challenge due to its heterogeneous etiologies and nonspecific clinical manifestations. Although metagenomic next-generation sequenc",
       "tag": "analysis"
+    },
+    {
+      "title": "Interpreting Test Positivity, Testing Volume, and Sample Backlog During the 2026 Bundibugyo Virus Disease Outbreak in the Democratic Republic of the Congo: An Operational Interpretation Framework for Outbreak Surveillance",
+      "link": "https://www.preprints.org/manuscript/202608.0100/v1",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
+      "desc": "Background: During a rapidly expanding outbreak, changes in confirmed case counts and test positivity may reflect transmission, testing selectivity, geographic expansion of surveillance, or delayed processing of accumulated samples. This study reconstructed laboratory indicators reported during the 2026 Bundibugyo virus disease (BVD) outbreak in th",
+      "tag": "cases"
     },
     {
       "title": "Recurrent Single-Nucleotide Insertions in the Mitochondrial Second Light-Strand Promoter Cause Tubulointerstitial Kidney Disease",
@@ -924,13 +966,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Obstructive Cholestasis in IL12RB1 Deficiency: A Case Report of an Unusual Hepatobiliary Presentation in Mendelian Susceptibility to Mycobacterial Disease",
-      "link": "https://doi.org/10.1155/crpe/8888681",
-      "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1155/crpe/8888681\nAuthors: Nabeel Ahmad, Hooria Rehman, Muhammad Huzaifa Ameer, Syed Junaid Haide, Umer Abdullah, Bilal Aslam, Muneeb Saifullah, Hamza Aka Khail\n \n                    While\n                     IL12RB1 \n                    deficiency is classically associated with susceptibility to mycobacteri",
-      "tag": "analysis"
-    },
-    {
       "title": "Merkel cell carcinoma: an updated guide for pathologists",
       "link": "https://doi.org/10.1111/his.70244",
       "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
@@ -949,6 +984,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.3390/jcm15156002",
       "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/jcm15156002\nAuthors: Chuwen Chen, Lijia Wei, Yiyuan Li, Bin Huang, Xiyang Chen\n Background: Inferior vena cava (IVC) graft–enteric fistula is an exceptionally rare but potentially fatal complication of caval reconstruction. Case Presentation: A 22-year-old woman with previous IVC and right renal vein reconstruction presented wit",
+      "tag": "analysis"
+    },
+    {
+      "title": "Obstructive Cholestasis in IL12RB1 Deficiency: A Case Report of an Unusual Hepatobiliary Presentation in Mendelian Susceptibility to Mycobacterial Disease",
+      "link": "https://doi.org/10.1155/crpe/8888681",
+      "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1155/crpe/8888681\nAuthors: Nabeel Ahmad, Hooria Rehman, Muhammad Huzaifa Ameer, Syed Junaid Haide, Umer Abdullah, Bilal Aslam, Muneeb Saifullah, Hamza Aka Khail\n \n                    While\n                     IL12RB1 \n                    deficiency is classically associated with susceptibility to mycobacteri",
       "tag": "analysis"
     },
     {
@@ -1001,34 +1043,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Hantavirus Infections in Children",
-      "link": "https://doi.org/10.1542/pir.2025-006862",
-      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1542/pir.2025-006862\nAuthors: Calvin J. Cable, Walter Dehority\n Abstract \n                   Hantaviruses are rare but deadly pathogens. New World hantaviruses, primarily present in North and South America, cause hantavirus cardiopulmonary syndrome, which leads to death in up to one-third of affected patients.",
-      "tag": "analysis"
-    },
-    {
-      "title": "An Unusual Case of Infection-Provoked Macrophage Activation Syndrome in Mixed Connective Tissue Disease",
-      "link": "https://doi.org/10.3899/jrheum.2026-0447.46",
-      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.3899/jrheum.2026-0447.46\nAuthors: Roko Nikolic, Erin Carter, Maggie Larché\n \n                     Background \n                     Compared to systemic lupus erythematosus and adult-onset Still’s disease, mixed connective tissue disease (MCTD) is rarely associated with macrophage activation syndrome (M",
-      "tag": "analysis"
-    },
-    {
-      "title": "Adults with Unclassified Systemic Autoinflammatory Disease: Insights from a Canadian Autoinflammatory Clinic",
-      "link": "https://doi.org/10.3899/jrheum.2026-0447.42",
-      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.3899/jrheum.2026-0447.42\nAuthors: Budvin Wijetillake, Rayan Farahvash, Jason An\n \n                     Objectives \n                     1) Describe the clinical and genetic characteristics of adult patients with Unclassified Systemic Autoinflammatory Disease (USAID). 2) Hypothesize on potential causal",
-      "tag": "analysis"
-    },
-    {
-      "title": "Parent Psychological Distress Moderates the Association Between Child Psychopathology and Disease Activity in Children with Juvenile Idiopathic Arthritis",
-      "link": "https://doi.org/10.3899/jrheum.2026-0447.99",
-      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.3899/jrheum.2026-0447.99\nAuthors: Tina Liu, Karen Beattie, Christy Chan, Jessica Zelman, Jeanine McColl, Mark Ferro, Michelle Batthish\n \n                     Objectives \n                     Parents of children with juvenile idiopathic arthritis (JIA) commonly experience mental health problems that neg",
-      "tag": "analysis"
-    },
-    {
       "title": "La RDC et la Chine renforcent leur partenariat stratégique autour du Centre des Opérations d’Urgence de Santé Publique",
       "link": "https://insp.cd/la-rdc-et-la-chine-renforcent-leur-partenariat-strategique-autour-du-centre-des-operations-durgence-de-sante-publique/",
       "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
@@ -1050,6 +1064,13 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
+      "title": "Hantavirus Infections in Children",
+      "link": "https://doi.org/10.1542/pir.2025-006862",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1542/pir.2025-006862\nAuthors: Calvin J. Cable, Walter Dehority\n Abstract \n                   Hantaviruses are rare but deadly pathogens. New World hantaviruses, primarily present in North and South America, cause hantavirus cardiopulmonary syndrome, which leads to death in up to one-third of affected patients.",
+      "tag": "analysis"
+    },
+    {
       "title": "A Review of the Application of Nanotechnology in the Diagnosis of Infectious Diseases",
       "link": "https://doi.org/10.52589/ajensr-rhej3zbc",
       "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
@@ -1061,6 +1082,27 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.3201/eid3208.262948",
       "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.3201/eid3208.262948\nAuthors: Jordan Wight, Helene Schulz, Logan Banadyga",
+      "tag": "analysis"
+    },
+    {
+      "title": "An Unusual Case of Infection-Provoked Macrophage Activation Syndrome in Mixed Connective Tissue Disease",
+      "link": "https://doi.org/10.3899/jrheum.2026-0447.46",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.3899/jrheum.2026-0447.46\nAuthors: Roko Nikolic, Erin Carter, Maggie Larché\n \n                     Background \n                     Compared to systemic lupus erythematosus and adult-onset Still’s disease, mixed connective tissue disease (MCTD) is rarely associated with macrophage activation syndrome (M",
+      "tag": "analysis"
+    },
+    {
+      "title": "Adults with Unclassified Systemic Autoinflammatory Disease: Insights from a Canadian Autoinflammatory Clinic",
+      "link": "https://doi.org/10.3899/jrheum.2026-0447.42",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.3899/jrheum.2026-0447.42\nAuthors: Budvin Wijetillake, Rayan Farahvash, Jason An\n \n                     Objectives \n                     1) Describe the clinical and genetic characteristics of adult patients with Unclassified Systemic Autoinflammatory Disease (USAID). 2) Hypothesize on potential causal",
+      "tag": "analysis"
+    },
+    {
+      "title": "Parent Psychological Distress Moderates the Association Between Child Psychopathology and Disease Activity in Children with Juvenile Idiopathic Arthritis",
+      "link": "https://doi.org/10.3899/jrheum.2026-0447.99",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.3899/jrheum.2026-0447.99\nAuthors: Tina Liu, Karen Beattie, Christy Chan, Jessica Zelman, Jeanine McColl, Mark Ferro, Michelle Batthish\n \n                     Objectives \n                     Parents of children with juvenile idiopathic arthritis (JIA) commonly experience mental health problems that neg",
       "tag": "analysis"
     },
     {
@@ -1673,6 +1715,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "A Point Assessment on Perception, Knowledge, Attitude and Practice on Ebola Disease in the Community of Bulape During the Sixteen Outbreaks in the DR Congo",
+      "link": "https://doi.org/10.11648/j.wjph.20261103.15",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.11648/j.wjph.20261103.15\nAuthors: Kasangye Aurelie, Shambuwa Sephora, Mutangala Guy\n \n                    Ebola outbreaks are a significant public health problem in the DRC. The sixteen outbreaks occurred from September to December 2025 in Bulape (Mweka) with fatality ratio (FR) of 67.2%. This research explored Percepti",
+      "tag": "analysis"
+    },
+    {
       "title": "Nigeria Centre for Disease Control and Prevention Protecting the health of Nigerians",
       "link": "https://www.ncdc.gov.ng/themes/common/files/sitreps/bd740aca13b8e8b3d1f843595d194592.pdf",
       "pubDate": "Wed, 29 Jul 2026 22:10:00 Z",
@@ -1845,55 +1894,6 @@ window.FEED_DATA = {
       "link": "https://news.az/news/uganda-declares-end-to-ebola-outbreak",
       "pubDate": "Tue, 28 Jul 2026 13:22:00 Z",
       "desc": "-- Uganda. Significance Rating: 1 Uganda declares end to Ebola outbreak&nbsp;&nbsp;Latest news from Azerbaijan",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola en RDC : plus de 1 000 vies perdues",
-      "link": "https://www.afro.who.int/fr/media-centre/multimedia/ebola-en-rdc-plus-de-1-000-vies-perdues",
-      "pubDate": "Tue, 28 Jul 2026 13:00:00 Z",
-      "desc": "Plus de deux mois après la déclaration de l'épidémie d'Ebola en République démocratique du Congo, plus de 1 000 personnes ont perdu la vie. Aux côtés du gouvernement et de ses partenaires, l'OMS intensifie la réponse : détection précoce des cas, soins de qualité, prévention et contrôle des infections, et engagement communautaire.",
-      "tag": "response"
-    },
-    {
-      "title": "Nigeria Centre for Disease Control and Prevention Protecting the health of Nigerians",
-      "link": "https://www.ncdc.gov.ng/themes/common/files/sitreps/f8d434bb9371973f7fa3f097d381c83e.pdf",
-      "pubDate": "Tue, 28 Jul 2026 12:54:00 Z",
-      "desc": "Lassa Fever Situation Report\n\n\n \n \n\n\n \n\nNCDC\n\n \n\n\nNIGERIA CENTRE FOR DISEASE\nCONTROL AND PREVENTION\n\n\n# Nigeria Centre for Disease Control and Prevention Protecting the health of Nigerians\n\nwww.ncdc.gov.ng\n\nPLOT 801 EBITU UKIWE STREET, JABI ABUJA, NIGERIA.\nTOLL-FREE CALL: 6232. E",
-      "tag": "analysis"
-    },
-    {
-      "title": "African swine fever virus pC147L inhibits retinoic acid-inducible gene I-like receptors pathway via targeting MAVS-TRAF6 complex",
-      "link": "https://hal.science/hal-05610111v1/document",
-      "pubDate": "Tue, 28 Jul 2026 11:49:00 Z",
-      "desc": "HAL\nopen science\n\n \n\n\nAfrican swine fever virus pC147L inhibits retinoic\nacid-inducible gene I-like receptors pathway via targeting\nMAVS-TRAF6 complex\n\nJiaxuan Lv, Huan Chen, Jiaona Guo, Yurun Miao, Shengqiang Ge, Jianjun Dai,\nZhiliang Wang, Yong-Sam Jung, Yingjuan Qian\n\nTo cite this version:\n\nJiaxuan Lv, Huan Chen, Jiaona Guo, Yu",
-      "tag": "analysis"
-    },
-    {
-      "title": "Filoviruses: Ebola and Marburg Diseases",
-      "link": "https://doi.org/10.1007/978-1-4939-9544-8_14-1",
-      "pubDate": "Tue, 28 Jul 2026 10:06:00 Z",
-      "desc": "DOI: 10.1007/978-1-4939-9544-8_14-1\nAuthors: Jens H. Kuhn, Ian Crozier",
-      "tag": "analysis"
-    },
-    {
-      "title": "Nueva prueba rápida de antígenos detecta el Ébola en el punto de atención - labmedica.es",
-      "link": "https://mobile.labmedica.es/microbiologia/articles/294812190/nueva-prueba-rapida-de-antigenos-detecta-el-ebola-en-el-punto-de-atencion.amp.html",
-      "pubDate": "Tue, 28 Jul 2026 05:22:00 Z",
-      "desc": "COVID-19 -- Uganda. Significance Rating: 1 Nueva prueba rápida de antígenos detecta el Ébola en el punto de atención&nbsp;&nbsp;labmedica.es",
-      "tag": "analysis"
-    },
-    {
-      "title": "World risks HIV resurgence as funding falls 18%, UNAIDS says",
-      "link": "https://health.economictimes.indiatimes.com/news/industry/world-risks-hiv-resurgence-as-funding-falls-18-unaids-says/132673250",
-      "pubDate": "Tue, 28 Jul 2026 02:23:00 Z",
-      "desc": "\"The international community has entered a period of profound political and financial upheaval that threatens decades of hard-won gains against HIV,\" UNAIDS said in its 60-page report ​released at the start of an International AIDS ⁠conference in Brazil. \"Without ‌renewed commitment and action, the world risks a resurgence of the HIV ​epidemic.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Lassa / FHV",
-      "link": "https://anss-guinee.org/lassa-fhv/",
-      "pubDate": "Tue, 28 Jul 2026 01:31:00 Z",
-      "desc": "Résumé. La fièvre de Lassa est une fièvre hémorragique virale endémique en Afrique de l’Ouest, transmise à l’homme principalement par contact avec des excréments ou urines de rongeurs (rat Mastomys) contaminés. Une transmission interhumaine est également possible par contact avec des fluides corporels d’une personne infectée.",
       "tag": "analysis"
     }
   ],
