@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 05 Aug 2026 14:11:57 Z",
-  "fetchedAt": "2026-08-05T14:11:58Z",
+  "lastBuildDate": "Wed, 05 Aug 2026 16:43:04 Z",
+  "fetchedAt": "2026-08-05T16:43:04Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -147,6 +147,20 @@
   },
   "items": [
     {
+      "title": "Breakthrough Research Found the Oldest Cold Virus Genome Ever",
+      "link": "https://www.passporthealthusa.com/2026/08/breakthrough-research-found-the-oldest-cold-virus-genome-ever/",
+      "pubDate": "Wed, 05 Aug 2026 16:25:00 Z",
+      "desc": "Researchers have long studied ancient viruses by examining preserved DNA fragments. DNA survives relatively well in bones, teeth, and other remains. Because of this stability, scientists have discovered viral DNA that is tens of thousands of years old. Some DNA viruses identified in ancient human remains date back nearly 50,000 years.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Moderna Begins First Human Trial of Bundibugyo Ebola Vaccine Reuters Health InformationAugust 4, 2026",
+      "link": "https://www.medscape.com/s/viewarticle/moderna-begins-first-human-trial-bundibugyo-ebola-vaccine-2026a1000qkc",
+      "pubDate": "Wed, 05 Aug 2026 14:53:00 Z",
+      "desc": "Aug 4 (Reuters) - Moderna on Tuesday said it has begun its first human trial of an experimental vaccine to ⁠protect against Bundibugyo ebolavirus, a strain of Ebola that has killed more than 1650 people so far and ⁠currently has no approved vaccine. \n\nHealth Canada has cleared an early-stage study....",
+      "tag": "analysis"
+    },
+    {
       "title": "Médicos Sin Fronteras urge a intensificar la respuesta internacional ante un brote de ébola en RDC \"sin precedentes\" - Infobae",
       "link": "https://www.infobae.com/america/agencias/2026/08/05/medicos-sin-fronteras-urge-a-intensificar-la-respuesta-internacional-ante-un-brote-de-ebola-en-rdc-sin-precedentes/?outputType=amp-type",
       "pubDate": "Wed, 05 Aug 2026 13:22:00 Z",
@@ -172,6 +186,13 @@
       "link": "https://www.consalud.es/salud35/internacional/moderna-inicia-el-primer-ensayo-en-humanos-de-una-vacuna-contra-el-ebola-bundibugyo.html",
       "pubDate": "Wed, 05 Aug 2026 09:31:00 Z",
       "desc": "ha anunciado este martes que ha comenzado su primer ensayo en humanos de una vacuna experimental contra el virus del Ébola Bundibugyo , una cepa del virus que se ha cobrado la vida de más de 1.650 personas y para la cual no existe una vacuna aprobada en este momento.",
+      "tag": "analysis"
+    },
+    {
+      "title": "An Atypical Presentation of Congenital Syphilis with Pseudoparalysis and Nephrotic Syndrome in a 45-day-old Infant: A Case Report",
+      "link": "https://doi.org/10.7860/jcdr/2026/85389.24260",
+      "pubDate": "Wed, 05 Aug 2026 07:43:00 Z",
+      "desc": "DOI: 10.7860/jcdr/2026/85389.24260\nAuthors: Kshitij Sharma, MG Ravanagomagan\n Congenital syphilis is a preventable infection transmitted from mother to foetus through the placenta by Treponema pallidum and continues to contribute to considerable neonatal illness and death. The disease can affect multiple organs, including the skin, bones, li",
       "tag": "analysis"
     },
     {
@@ -215,6 +236,27 @@
       "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.1097/inf.0000000000005359\nAuthors: Robert J. Leggiadro",
       "tag": "response"
+    },
+    {
+      "title": "From reactive trials to regional vaccine sovereignty: a pan-ebolavirus vaccine-readiness framework for East Africa’s Sudan virus and Bundibugyo virus threats",
+      "link": "https://doi.org/10.3389/fpubh.2026.1890576",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fpubh.2026.1890576\nAuthors: Okechukwu Paul-Chima Ugwu, Chinyere Nneoma Ugwu, Godson Emeka Anyanwu, Mariam Basajja, Maryann Chiamaka Ebuoh\n Vaccines have transformed preparedness for Zaire ebolavirus disease, but East Africa still faces recurrent risk from Sudan virus and Bundibugyo virus, for which licensed and routinely deploya",
+      "tag": "response"
+    },
+    {
+      "title": "Point-of-care routine laboratory testing for patients with suspected viral hemorrhagic fevers",
+      "link": "https://doi.org/10.1017/ash.2026.10817",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1017/ash.2026.10817\nAuthors: Anne Liston Sullivan, Jessica L. Jacobson, Priya Dhagat, Madeline DiLorenzo, Florence Douyon, Jamie Figueredo, Matthew Harris, Dana Mazo, Jeffrey Pacheco, Gregory Weston, Justin Chan\n Abstract \n                   When a suspected viral hemorrhagic fever (VHF) case presents to a heal",
+      "tag": "cases"
+    },
+    {
+      "title": "Clinical application value of metagenomic next-generation sequencing in children with fever of unknown origin",
+      "link": "https://doi.org/10.3389/fped.2026.1868060",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fped.2026.1868060\nAuthors: Shihua Liu, Shaoning Wang, Jian Li\n \n                     Purpose \n                     Infectious diseases constitute the predominant cause of fever of unknown origin (FUO). Conventional microbiological testing is limited by prolonged turnaround times, susceptibility to",
+      "tag": "analysis"
     },
     {
       "title": "Ebola kills 1,700 in eastern Congo as the fastest-growing outbreak surges - Source ONE News",
@@ -413,6 +455,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Efficient colonic colonization by Campylobacter jejuni requires the heme receptor ChuA",
+      "link": "https://doi.org/10.64898/2026.08.04.742739",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.08.04.742739\nAuthors: Binita Baral, Madison L Bunch, Emily L. Roberts, Vincent R Randaisi, Wyatt W Wittliff, William Beavers, Andrew J Monteith, David K. Meyerholz, Jeremiah Johnson\n Previous research demonstrated that Campylobacter jejuni encodes a heme utilization system that facilitates heme-dependent growth under iron-",
+      "tag": "analysis"
+    },
+    {
       "title": "Redistribution of peripheral blood immune cell subsets and remodeling of intercellular communication in rare Behçet's disease: a single-cell transcriptomics study",
       "link": "https://doi.org/10.3389/fmed.2026.1908366",
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
@@ -448,17 +497,17 @@
       "tag": "response"
     },
     {
-      "title": "Clinical associations, outcomes, and therapeutic management of patients with symptomatic sclerosing mesenteritis",
-      "link": "https://doi.org/10.1177/17562848261475954",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/17562848261475954\nAuthors: Christina Liava, Danai Chourmouzi, Georgia Gioula, Emmanouil Sinakos, Evangelos Akriviadis\n \n                     Background \n                     Sclerosing mesenteritis (SM) is a rare fibroinflammatory disease of unknown etiology that primarily affects the root of the",
-      "tag": "analysis"
-    },
-    {
       "title": "DENV-4 infection suppresses transcription of DNA repair genes",
       "link": "https://doi.org/10.1073/pnas.2536909123",
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.1073/pnas.2536909123\nAuthors: Erica N. Lamkin, Jessica Reich, Josh A. Victor, Madison Guyette, Naveen Kothandaraman, Vihit Gupta, Alfred T. Harding, Tristan X. Jordan, Lee Gehrke, Pei Zhou, Benjamin tenOever, Nimrat Chatterjee\n The molecular mechanisms behind Dengue virus-dependent host pathogenesis, especially genome instability, re",
+      "tag": "analysis"
+    },
+    {
+      "title": "Clinical associations, outcomes, and therapeutic management of patients with symptomatic sclerosing mesenteritis",
+      "link": "https://doi.org/10.1177/17562848261475954",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1177/17562848261475954\nAuthors: Christina Liava, Danai Chourmouzi, Georgia Gioula, Emmanouil Sinakos, Evangelos Akriviadis\n \n                     Background \n                     Sclerosing mesenteritis (SM) is a rare fibroinflammatory disease of unknown etiology that primarily affects the root of the",
       "tag": "analysis"
     },
     {
@@ -1134,13 +1183,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Co-circulation of Crimean–Congo hemorrhagic fever virus and spotted fever group Rickettsia in cattle and ticks from cattle in Kosovo",
-      "link": "https://doi.org/10.3389/fvets.2026.1888406",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fvets.2026.1888406\nAuthors: Jignesh Italiya, Kristýna Hrazdilová, Seyma S. Celina, Pavlina Nekudova, Tekkara Allan Obonyom, Avni Robaj, Jiri Cerny, David Modry, Lisa E. Hensley, Anne W. Rimoin, Ludek Zurek\n \n                     Background \n                     \n                      Changes in cl",
-      "tag": "analysis"
-    },
-    {
       "title": "Epidemiological trends of Crimean-Congo hemorrhagic fever in South Asia: a systematic review",
       "link": "https://doi.org/10.1186/s12879-026-14036-5",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
@@ -1155,6 +1197,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Co-circulation of Crimean–Congo hemorrhagic fever virus and spotted fever group Rickettsia in cattle and ticks from cattle in Kosovo",
+      "link": "https://doi.org/10.3389/fvets.2026.1888406",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fvets.2026.1888406\nAuthors: Jignesh Italiya, Kristýna Hrazdilová, Seyma S. Celina, Pavlina Nekudova, Tekkara Allan Obonyom, Avni Robaj, Jiri Cerny, David Modry, Lisa E. Hensley, Anne W. Rimoin, Ludek Zurek\n \n                     Background \n                     \n                      Changes in cl",
+      "tag": "analysis"
+    },
+    {
       "title": "The Changing Landscape of Hantavirus Infections: A Narrative Review of Epidemiology, Pathogenesis, and Countermeasures",
       "link": "https://doi.org/10.1002/rmv.70191",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
@@ -1166,27 +1215,6 @@
       "link": "https://doi.org/10.3389/fneur.2026.1879830",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fneur.2026.1879830\nAuthors: Xingfen Su, Lijin Wu, Fuxiang Chen\n Astaxanthin (ATX) is a dietary carotenoid that possesses potent effects of anti-oxidation, anti-inflammation, and anti-cell death. ATX has neuroprotective properties in a variety of neurological diseases. However, whether ATX has a neuroprotective effect in intracer",
-      "tag": "analysis"
-    },
-    {
-      "title": "Diagnostic performance of clinical symptom combinations for Crimean-Congo hemorrhagic fever in emergency department patients with reported arthropod bites, stings, or exposure",
-      "link": "https://doi.org/10.1186/s41182-026-01043-0",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s41182-026-01043-0\nAuthors: Yasin Bilgin, Fatih Mehmet Sari, Cemalettin Sakal, Erdem Yakup Cimen, Orhan Tanrıverdi, Abdullah Emre Yurttutan, Umut Devrim Binay",
-      "tag": "analysis"
-    },
-    {
-      "title": "Red Cross and Red Crescent Movement responses to viral hemorrhagic fever outbreaks: A mixedmethod evaluation of information management practices for Safe and Dignified Burials",
-      "link": "https://doi.org/10.14745/ccdr.v52i78a07",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.14745/ccdr.v52i78a07\nAuthors: Douglas Lau, Arwen Barr, Marguerite Gollish, Maria Munoz-Bertrand",
-      "tag": "response"
-    },
-    {
-      "title": "Interventions du Mouvement de la Croix-Rouge et du Croissant-Rouge face aux épidémies de fièvres hémorragiques virales : évaluation par une approche mixte des pratiques de gestion de l’information en matière d’enterrements dignes et sécurisés",
-      "link": "https://doi.org/10.14745/ccdr.v52i78a07f",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.14745/ccdr.v52i78a07f\nAuthors: Douglas Lau, Arwen Barr, Marguerite Gollish, Maria Munoz-Bertrand",
       "tag": "analysis"
     },
     {
@@ -1229,6 +1257,27 @@
       "link": "https://doi.org/10.64898/2026.07.31.742066",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.31.742066\nAuthors: Hannah L Burge, Shashi P. Singh, Jianyang Wang, Suchitra Pradhan, Katharine M Wood, Joshua W Lee, Silvia A Synowsky, Sally L Shirran, Patrick J Moynihan, Andrew L Lovering, Laura M Machesky, Mark A Jepson, Stephen J Dumler, Ian T Cadby\n The obligate intracellular tick-borne pathogen Anaplasma phagocyt",
+      "tag": "analysis"
+    },
+    {
+      "title": "Diagnostic performance of clinical symptom combinations for Crimean-Congo hemorrhagic fever in emergency department patients with reported arthropod bites, stings, or exposure",
+      "link": "https://doi.org/10.1186/s41182-026-01043-0",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s41182-026-01043-0\nAuthors: Yasin Bilgin, Fatih Mehmet Sari, Cemalettin Sakal, Erdem Yakup Cimen, Orhan Tanrıverdi, Abdullah Emre Yurttutan, Umut Devrim Binay",
+      "tag": "analysis"
+    },
+    {
+      "title": "Red Cross and Red Crescent Movement responses to viral hemorrhagic fever outbreaks: A mixedmethod evaluation of information management practices for Safe and Dignified Burials",
+      "link": "https://doi.org/10.14745/ccdr.v52i78a07",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.14745/ccdr.v52i78a07\nAuthors: Douglas Lau, Arwen Barr, Marguerite Gollish, Maria Munoz-Bertrand",
+      "tag": "response"
+    },
+    {
+      "title": "Interventions du Mouvement de la Croix-Rouge et du Croissant-Rouge face aux épidémies de fièvres hémorragiques virales : évaluation par une approche mixte des pratiques de gestion de l’information en matière d’enterrements dignes et sécurisés",
+      "link": "https://doi.org/10.14745/ccdr.v52i78a07f",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.14745/ccdr.v52i78a07f\nAuthors: Douglas Lau, Arwen Barr, Marguerite Gollish, Maria Munoz-Bertrand",
       "tag": "analysis"
     },
     {
@@ -1456,6 +1505,13 @@
       "tag": "analysis"
     },
     {
+      "title": "Diagnostic Performance of Advanced Geometric Indices versus Traditional Anthropometric Indices in Evaluating Female Infertility Risk: A Cross-Sectional Study",
+      "link": "https://doi.org/10.21203/rs.3.rs-10176089/v1",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10176089/v1\nAuthors: Gülşah Kızılgün Aksoy, Ümmügülsüm Esenkaya\n Abstract \n                 \n                   Background \n                  Infertility impacts reproductive-age couples worldwide, with obesity—especially abdominal obesity—being increasingly recognized as a factor in female reproducti",
+      "tag": "analysis"
+    },
+    {
       "title": "‘Do No (Further) Harm’ Ethics Guidelines for Migrant Disaster Victim Identification (MDVI)",
       "link": "https://doi.org/10.31235/osf.io/rc8wy_v1",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
@@ -1474,13 +1530,6 @@
       "link": "https://doi.org/10.4103/ijdt.ijdt_17_26",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.4103/ijdt.ijdt_17_26\nAuthors: Jothydev Kesavadev, Sanjay Kalra, Shashank R. Joshi, Anoop Misra, Niti Pall, Banshi Saboo, Anuj Maheshwari, Amit Gupta, Rakesh Parikh, Manoj Chawla, Sunil Gupta, Anjana Ranjit Mohan, Sanjay Agarwal\n Abstract \n                   Type 2 diabetes (T2D) is a rapidly expanding global he",
-      "tag": "analysis"
-    },
-    {
-      "title": "Diagnostic Performance of Advanced Geometric Indices versus Traditional Anthropometric Indices in Evaluating Female Infertility Risk: A Cross-Sectional Study",
-      "link": "https://doi.org/10.21203/rs.3.rs-10176089/v1",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10176089/v1\nAuthors: Gülşah Kızılgün Aksoy, Ümmügülsüm Esenkaya\n Abstract \n                 \n                   Background \n                  Infertility impacts reproductive-age couples worldwide, with obesity—especially abdominal obesity—being increasingly recognized as a factor in female reproducti",
       "tag": "analysis"
     },
     {
@@ -1845,55 +1894,6 @@
       "link": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1887795/abstract",
       "pubDate": "Tue, 28 Jul 2026 00:04:00 Z",
       "desc": "Abstract. In early 2025, shortly after assuming office, the Trump administration ordered a comprehensive review of U.S. foreign assistance. This led to an immediate pause on new obligations and disbursements, followed by stop-work orders and the termination of approximately 83 percent of USAID's programs.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Outbreak preparedness for women and girls in low- and middle-income countries: a qualitative study",
-      "link": "https://doi.org/10.1186/s44263-026-00305-7",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s44263-026-00305-7\nAuthors: Danielle Sarraf, Melissa Meinhart, Ilana Seff, Catherine Poulton, Sarah Karmin, Christine Heckman, Lindsay Stark\n Abstract \n                   \n                     Background \n                     Infectious disease outbreaks (“outbreaks”) pose h",
-      "tag": "response"
-    },
-    {
-      "title": "Inside the high-stakes race to develop an Ebola vaccine for an escalating outbreak",
-      "link": "https://doi.org/10.1038/d41586-026-02278-x",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/d41586-026-02278-x\nAuthors: Dhruv Shenai",
-      "tag": "analysis"
-    },
-    {
-      "title": "Fever Temperatures Differentially Alter Ebola-Antibody Functionality Depending on Affinity Maturation 2306819",
-      "link": "https://doi.org/10.1093/jimmun/vkag141.1350",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/jimmun/vkag141.1350\nAuthors: Lianna Wood, Taras Chicz, Ross Blanc, Lindsay McManus, Qixin Wang, Harry Bertera, César Muñoz-Fontela, Beartriz Escudero Perez, Ryan McNamara\n Abstract \n                   \n                     Introduction \n                     In 2013-16, Weste",
-      "tag": "analysis"
-    },
-    {
-      "title": "Advanced Machine Learning Across Multiple Vaccines to Predict Durable Immunogenicity using the Immune Signatures Data Resource 2260430",
-      "link": "https://doi.org/10.1093/jimmun/vkag141.923",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/jimmun/vkag141.923\nAuthors: Marco Sanna, Jing Chen, Paolo Palma, Ofer Levy, Joann Diray-Arce\n Abstract \n                   \n                     Introduction \n                     Understanding vaccine durability is key to designing immunizations with long-term efficacy. Lev",
-      "tag": "analysis"
-    },
-    {
-      "title": "Neutrophil Activation is Associated with Decreased Dengue Vaccine Replication in Human Recipients 2307750",
-      "link": "https://doi.org/10.1093/jimmun/vkag141.1396",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/jimmun/vkag141.1396\nAuthors: Ysabelle Broderson, Heather Teague, Keerthi Konda, Lauren Knabe, Raquel Santana Da Cruz, Melissa Law, Leah Katzelnick, Rosemary Aogo, Jeffrey Strich, Camila Odio\n Abstract \n                   \n                     Introduction \n                    <jats",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola virus exploits host lncRNA LINC01740 to enhance ATF3 and suppress antiviral immune responses 2259953",
-      "link": "https://doi.org/10.1093/jimmun/vkag141.818",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1093/jimmun/vkag141.818\nAuthors: Narasimha Tanuj Gunturu, Anu Gopal, Marija Djurkovic-Lopez, Daniela Serrano, Asha Thomas, Urmi Thaker, Olena Shtanko, Smita Kulkarni\n Abstract \n                   \n                     Introduction \n                     Ebola virus (EBOV) causes a",
-      "tag": "response"
-    },
-    {
-      "title": "Protein Phosphatase 2A Activation Attenuates Acute Myocardial Injury in Takotsubo Syndrome by Modulating Ferroptosis and Mitochondrial Injury in Cardiomyocytes",
-      "link": "https://doi.org/10.64898/2026.07.27.740349",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.27.740349\nAuthors: Ti Wang, Qian Xu, Jisheng Sun, Hildebrando Candido Ferreira Neto, Feng Dong, Colin Stomberski, Caitlin M. Oconnor, Goutham Narla, Daxin Wang, Zhiyong Lin\n Background:\nTakotsubo syndrome (TTS) is an acute stress-induced cardiomyopathy characterized by transient left ventricular dysfunction. Despite its",
       "tag": "analysis"
     }
   ],
