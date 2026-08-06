@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Wed, 05 Aug 2026 22:12:50 Z",
-  "fetchedAt": "2026-08-05T22:12:51Z",
+  "lastBuildDate": "Thu, 06 Aug 2026 02:41:42 Z",
+  "fetchedAt": "2026-08-06T02:41:42Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -94,6 +94,7 @@ window.FEED_DATA = {
     },
     "drcTiers": {
       "media": {
+        "deaths": 12,
         "confirmed": 700,
         "suspected": 3695
       },
@@ -147,6 +148,34 @@ window.FEED_DATA = {
   },
   "items": [
     {
+      "title": "US will nearly double financial commitment to Ebola response",
+      "link": "https://health.economictimes.indiatimes.com/news/industry/us-will-nearly-double-financial-commitment-to-ebola-response/132979000",
+      "pubDate": "Thu, 06 Aug 2026 01:53:00 Z",
+      "desc": "Aid officials have described the outbreak as the fastest-spreading Ebola ​epidemic ever due to its delayed detection, surveillance system gaps, armed conflict in eastern Congo and the absence of vaccines and treatments for the strain of the virus that is circulating.\n\nThe U.S.",
+      "tag": "response"
+    },
+    {
+      "title": "Original Research Accepted on 05 Aug 2026 Emerging Zoonotic Diseases Management: Designing One Health interventions through a community lens including mental health in Public Mental Health Fatou Ndoye Marjan Leneman Jean Augustin Tine Abdourahmane Sow Elhadji Sow Mouhamadou Bachir Wilane Andree....",
+      "link": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1900162/abstract",
+      "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
+      "desc": "Abstract. The One Health (OH) approach has emerged as a comprehensive approach that recognizes the complexity of health challenges. Previous global health emergencies including Ebola and Covid-19 caused major social and psychological disruptions, generating fear, stigma, distrust, denial of disease and resistance to control measures.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Priya Dhagat",
+      "link": "https://www.cambridge.org/core/search?filters%5BauthorTerms%5D=Priya%20Dhagat&eventCode=SE-AU",
+      "pubDate": "Wed, 05 Aug 2026 23:41:00 Z",
+      "desc": "When a suspected viral hemorrhagic fever (VHF) case presents to a healthcare facility, healthcare personnel must be able to safely provide initial stabilizing care, which may involve performing basic routine laboratory testing. Current gaps exist in the ability of frontline acute care hospitals to....",
+      "tag": "cases"
+    },
+    {
+      "title": "Point-of-care routine laboratory testing for patients with suspected viral hemorrhagic fevers",
+      "link": "https://www.cambridge.org/core/journals/antimicrobial-stewardship-and-healthcare-epidemiology/article/pointofcare-routine-laboratory-testing-for-patients-with-suspected-viral-hemorrhagic-fevers/CAF7FD89B957FC11071612E2CADAA000",
+      "pubDate": "Wed, 05 Aug 2026 23:41:00 Z",
+      "desc": "To send this article to your Kindle, first ensure no-reply@cambridge.org is added to your Approved Personal Document E-mail List under your Personal Document Settings on the Manage Your Content and Devices page of your Amazon account. Then enter the ‘name’ part of your Kindle email address below. Find out more about sending to your Kindle.",
+      "tag": "cases"
+    },
+    {
       "title": "Senate confirms Erica Schwartz as CDC director",
       "link": "https://www.cidrap.umn.edu/public-health/senate-confirms-erica-schwartz-cdc-director",
       "pubDate": "Wed, 05 Aug 2026 21:34:00 Z",
@@ -187,6 +216,13 @@ window.FEED_DATA = {
       "pubDate": "Wed, 05 Aug 2026 16:25:00 Z",
       "desc": "Researchers have long studied ancient viruses by examining preserved DNA fragments. DNA survives relatively well in bones, teeth, and other remains. Because of this stability, scientists have discovered viral DNA that is tens of thousands of years old. Some DNA viruses identified in ancient human remains date back nearly 50,000 years.",
       "tag": "analysis"
+    },
+    {
+      "title": "Dengue epidemic declared in Zamboanga City, Philippines following 500% year-on-year case surge",
+      "link": "https://beaconbio.org/en/report/?reportid=5d6f9879-27e5-4570-9238-16aee2c0021d",
+      "pubDate": "Wed, 05 Aug 2026 16:06:00 Z",
+      "desc": "Sources Dengue outbreak declared in Zamboanga City after 12 deaths, Manual submission, 05 Aug 2026 Dengue epidemic declared in Zamboanga City, Manual submission, 05 Aug 2026 Zamboanga declares outbreak after 12 deaths. Official Facebook Post. 5 Aug 2026. Zamboanga City declares dengue epidemic. GMA Lifestyle. 5 Aug 2026 Key findings On 04 Aug 2026,",
+      "tag": "cases"
     },
     {
       "title": "Moderna Begins First Human Trial of Bundibugyo Ebola Vaccine Reuters Health InformationAugust 4, 2026",
@@ -308,10 +344,59 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "EP 631 Who Benefits from Incisional Negative Pressure Wound Therapy after Emergency Laparotomy? Research Gaps, Unmet Needs, and a Proposed Reporting Framework",
+      "link": "https://doi.org/10.1093/bjs/znag087.634",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/bjs/znag087.634\nAuthors: Francielle Antonini, Maria de Paiva, Marcílio Filho, Fabricio Nascimento, Leticia Gatti Fonseca, Gunther Pimenta\n Abstract \n                   \n                     Aim \n                     To identify key unresolved questions and research gaps in t",
+      "tag": "analysis"
+    },
+    {
       "title": "EP 017 Evaluating the Effect of our Local Surgical Handbook Versions on Confidence Levels Post Rotation for Foundation Year One Doctors Over Four Rotations",
       "link": "https://doi.org/10.1093/bjs/znag087.533",
       "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.1093/bjs/znag087.533\nAuthors: Jayan George, Tze Yi Gan, Limeng Zhu, Denise Brown, Sashidhar Yeluri\n Abstract \n                   \n                     Aims \n                     Assess confidence levels of general surgical foundation year one doctors in managing surgical patients",
+      "tag": "analysis"
+    },
+    {
+      "title": "EP 439 Acute Appendicitis as the First Presentation of Endometriosis: A Case Report",
+      "link": "https://doi.org/10.1093/bjs/znag087.592",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1093/bjs/znag087.592\nAuthors: Rakhitha Katangodage, Imad-ud-din Saqib, Thanika Thillaivasan, Manoj Jacob, Julian Sturt\n Abstract \n                   \n                     Introduction \n                     Appendiceal endometriosis is a rare condition characterised by inflammatio",
+      "tag": "analysis"
+    },
+    {
+      "title": "We trained for medicine, not for this: how young doctors should (not) address outbreaks after COVID-19",
+      "link": "https://doi.org/10.1136/conmed-2026-000073",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/conmed-2026-000073\nAuthors: Christos Tsagkaris, Tinatin Kutchukhidze, Marina Haque, Halil Ibrahim Bulut, Dimitrios Stylianakis, Alina Haque\n The authors reflect on how young physicians navigate emerging infectious disease outbreaks in the post-COVID era, using the 2026 multi-country hantavirus clusters and the concurrent Ebola P",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola: how soon could a Bundibugyo vaccine be ready?",
+      "link": "https://doi.org/10.1136/bmj-2026-100450",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/bmj-2026-100450\nAuthors: Katharine Lang",
+      "tag": "analysis"
+    },
+    {
+      "title": "Risk Factors, Perception, and Knowledge of Highly Pathogenic Avian Influenza among Poultry Handlers in Selected Live Bird Markets in Nigeria",
+      "link": "https://doi.org/10.25259/rvsm_3_2026",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.25259/rvsm_3_2026\nAuthors: Kayode Abraham Olawuyi, Olukayode Olugbenga Orole, Uwem Okon Edet, Foluke Grace Olawuyi, Nicodemus Mkpuma, Chukwudi Ofodile, Clement Meseko\n \n                     Objectives: \n                     The live bird markets (LBMs) are considered a very high-risk area for",
+      "tag": "analysis"
+    },
+    {
+      "title": "Le nouveau Centre de Traitement Ebola de Rwankole renforce les capacités de prise en charge et de prévention – Institut National de Sante Publique",
+      "link": "https://insp.cd/le-nouveau-centre-de-traitement-ebola-de-rwankole-renforce-les-capacites-de-prise-en-charge-et-de-prevention/",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "août 5, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\n\n\n\n\nLBunia, Ituri. La Province de l’Ituri franchit une nouvelle étape dans le renforcement de la riposte contre la maladie à virus Ebola avec l’inauguration officielle du Centre de Traitem",
+      "tag": "analysis"
+    },
+    {
+      "title": "Detecting pathogenic structural variation in families with undiagnosed rare disease in a national genome project",
+      "link": "https://doi.org/10.1038/s41431-026-02210-x",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1038/s41431-026-02210-x\nAuthors: Prasun Dutta, Alistair T. Pagnamenta, Christelle Robert, Anthony E. F. McGuigan, Alison Ross, Edward S. Tobias, Ruth McGowan, Morad Ansari, David Baty, Jonathan Berg, Therese Bradley, Vera Cerqueira, Austin Diamond, Mihail Halachev, Anne Lampe, Alison Meynert, Caitlin Newman, Marian Thomson, Urmi Trivedi, Ni",
       "tag": "analysis"
     },
     {
@@ -516,6 +601,13 @@ window.FEED_DATA = {
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.1177/13524585261473068\nAuthors: Philippe Nicolas, Ysoline Beigneux, Anne-Marie Guennoc, Gregory Destras, Mathieu Mossad, Antonin Bal, Emilie Talagrand-Reboul, Christophe Rodriguez, Pierre Cappy, Camelia Gubavu, Romain Marignier, Sandra Vukusic, Sophie Jarraud, Elisabeth Maillart, Laurence Josset, Valérie Pourcher",
       "tag": "cases"
+    },
+    {
+      "title": "Navigating Uncertainty in Pediatric Chronic Illness Care: A Hermeneutic Phenomenological Study of Nurses in Saudi Arabia",
+      "link": "https://openalex.org/W7172421784",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.3390/healthcare14152392\nAuthors: Abdulaziz M. Alodhialah, Rehan Eid, Bader M. Almutairy, Faihan F. Alshaibany, Hend Almutairi, Mohammed Almutairi\nBackground/Objectives: Children with complex chronic conditions (CCCs) present profound clinical uncertainty for pediatric nurses, who must navigate unpredictable disease trajectories, ambiguous s",
+      "tag": "analysis"
     },
     {
       "title": "Redistribution of peripheral blood immune cell subsets and remodeling of intercellular communication in rare Behçet's disease: a single-cell transcriptomics study",
@@ -1113,6 +1205,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "K4DD Ebola Evidence and Discourse Summary July 2026: No 7",
+      "link": "https://doi.org/10.19088/k4dd.2026.069",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.19088/k4dd.2026.069\nAuthors: Ismael Kawooya",
+      "tag": "analysis"
+    },
+    {
       "title": "COVID is still here. Is the pandemic?",
       "link": "https://www.cidrap.umn.edu/covid-19/covid-still-here-pandemic",
       "pubDate": "Fri, 31 Jul 2026 21:22:00 Z",
@@ -1246,6 +1345,27 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "The Changing Landscape of Hantavirus Infections: A Narrative Review of Epidemiology, Pathogenesis, and Countermeasures",
+      "link": "https://doi.org/10.1002/rmv.70191",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/rmv.70191\nAuthors: Francesco De Maria, Francesco Branda, Giancarlo Ceccarelli, Fabio Scarpa, Massimo Ciccozzi, Alessandro Russo\n ABSTRACT \n                   \n                    Hantaviruses are emerging zoonotic pathogens of increasing global public health significance. Their epidemiological landscape is",
+      "tag": "analysis"
+    },
+    {
+      "title": "Co-circulation of Crimean–Congo hemorrhagic fever virus and spotted fever group Rickettsia in cattle and ticks from cattle in Kosovo",
+      "link": "https://doi.org/10.3389/fvets.2026.1888406",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fvets.2026.1888406\nAuthors: Jignesh Italiya, Kristýna Hrazdilová, Seyma S. Celina, Pavlina Nekudova, Tekkara Allan Obonyom, Avni Robaj, Jiri Cerny, David Modry, Lisa E. Hensley, Anne W. Rimoin, Ludek Zurek\n \n                     Background \n                     \n                      Changes in cl",
+      "tag": "analysis"
+    },
+    {
+      "title": "Astaxanthin exerts neuroprotection against experimental intracerebral hemorrhage in mice: association with anti-neuroinflammation and the Nrf2-ARE pathway",
+      "link": "https://doi.org/10.3389/fneur.2026.1879830",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fneur.2026.1879830\nAuthors: Xingfen Su, Lijin Wu, Fuxiang Chen\n Astaxanthin (ATX) is a dietary carotenoid that possesses potent effects of anti-oxidation, anti-inflammation, and anti-cell death. ATX has neuroprotective properties in a variety of neurological diseases. However, whether ATX has a neuroprotective effect in intracer",
+      "tag": "analysis"
+    },
+    {
       "title": "Epidemiological trends of Crimean-Congo hemorrhagic fever in South Asia: a systematic review",
       "link": "https://doi.org/10.1186/s12879-026-14036-5",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
@@ -1257,27 +1377,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1007/s40203-026-00699-0",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1007/s40203-026-00699-0\nAuthors: Govinda Rao Dabburu, Anjali Garg, Anchal Vishnoi, Neelja Singhal, Manish Kumar",
-      "tag": "analysis"
-    },
-    {
-      "title": "Co-circulation of Crimean–Congo hemorrhagic fever virus and spotted fever group Rickettsia in cattle and ticks from cattle in Kosovo",
-      "link": "https://doi.org/10.3389/fvets.2026.1888406",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fvets.2026.1888406\nAuthors: Jignesh Italiya, Kristýna Hrazdilová, Seyma S. Celina, Pavlina Nekudova, Tekkara Allan Obonyom, Avni Robaj, Jiri Cerny, David Modry, Lisa E. Hensley, Anne W. Rimoin, Ludek Zurek\n \n                     Background \n                     \n                      Changes in cl",
-      "tag": "analysis"
-    },
-    {
-      "title": "The Changing Landscape of Hantavirus Infections: A Narrative Review of Epidemiology, Pathogenesis, and Countermeasures",
-      "link": "https://doi.org/10.1002/rmv.70191",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/rmv.70191\nAuthors: Francesco De Maria, Francesco Branda, Giancarlo Ceccarelli, Fabio Scarpa, Massimo Ciccozzi, Alessandro Russo\n ABSTRACT \n                   \n                    Hantaviruses are emerging zoonotic pathogens of increasing global public health significance. Their epidemiological landscape is",
-      "tag": "analysis"
-    },
-    {
-      "title": "Astaxanthin exerts neuroprotection against experimental intracerebral hemorrhage in mice: association with anti-neuroinflammation and the Nrf2-ARE pathway",
-      "link": "https://doi.org/10.3389/fneur.2026.1879830",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fneur.2026.1879830\nAuthors: Xingfen Su, Lijin Wu, Fuxiang Chen\n Astaxanthin (ATX) is a dietary carotenoid that possesses potent effects of anti-oxidation, anti-inflammation, and anti-cell death. ATX has neuroprotective properties in a variety of neurological diseases. However, whether ATX has a neuroprotective effect in intracer",
       "tag": "analysis"
     },
     {
@@ -1323,6 +1422,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Ebola: DRC outbreak is now “fastest growing in history,” as strikes hinder response",
+      "link": "https://doi.org/10.1136/bmj-2026-100469",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/bmj-2026-100469\nAuthors: Henry Wasswa",
+      "tag": "response"
+    },
+    {
       "title": "Diagnostic performance of clinical symptom combinations for Crimean-Congo hemorrhagic fever in emergency department patients with reported arthropod bites, stings, or exposure",
       "link": "https://doi.org/10.1186/s41182-026-01043-0",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
@@ -1349,13 +1455,6 @@ window.FEED_DATA = {
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.18203/2394-6040.ijcmph20262771\nAuthors: Tamanna Negi, Meenal M. Thakare\n Hantaviruses are emerging zoonotic pathogens of the family Hantaviridae that are present in rodent and insectivore reservoirs. They are transmitted primarily through inhalation of contaminated aerosols. Globally, it causes two major clinical syndromes: hemorrhag",
       "tag": "analysis"
-    },
-    {
-      "title": "Ebola: DRC outbreak is now “fastest growing in history,” as strikes hinder response",
-      "link": "https://doi.org/10.1136/bmj-2026-100469",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1136/bmj-2026-100469\nAuthors: Henry Wasswa",
-      "tag": "response"
     },
     {
       "title": "A panel of biologically contained orthoebolaviruses for the screening of broad-spectrum antivirals",
@@ -1568,6 +1667,27 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Clinical and laboratory profile of Kyasanur forest disease in a tertiary care hospital in Goa",
+      "link": "https://doi.org/10.18203/2320-6012.ijrms20262633",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.18203/2320-6012.ijrms20262633\nAuthors: Chitralekha Nayak, Ruth Viegas, Edwin Gomes\n Background: Kyasanur Forest Disease (KFD), a tick-borne viral hemorrhagic fever once confined to the Western Ghats of Karnataka, India, has spread to adjacent states, including Goa, in recent years. This study aimed to analyze the clinical profiles of",
+      "tag": "analysis"
+    },
+    {
+      "title": "Epitrochlear Unicentric Castleman’s Disease Masquerading as Tuberculous Lymphadenitis: A Rare Case Report",
+      "link": "https://doi.org/10.18535/jmscr/v14i07.11",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.18535/jmscr/v14i07.11\nAuthors: Dr. N. Sai Charan\n Castleman’s disease is a rare, benign lymphoproliferative disorder of uncertain cause. It most commonly\ninvolves the chest, abdomen and neck; involvement of the limbs is distinctly uncommon. We report a 24-\nyear-old woman who presented with a slowly enlarging, mildly painful swelling",
+      "tag": "analysis"
+    },
+    {
+      "title": "Should Dengue Vaccination be Prioritized in Individuals with Diabetes?",
+      "link": "https://doi.org/10.4103/ijdt.ijdt_17_26",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.4103/ijdt.ijdt_17_26\nAuthors: Jothydev Kesavadev, Sanjay Kalra, Shashank R. Joshi, Anoop Misra, Niti Pall, Banshi Saboo, Anuj Maheshwari, Amit Gupta, Rakesh Parikh, Manoj Chawla, Sunil Gupta, Anjana Ranjit Mohan, Sanjay Agarwal\n Abstract \n                   Type 2 diabetes (T2D) is a rapidly expanding global he",
+      "tag": "analysis"
+    },
+    {
       "title": "Diagnostic Performance of Advanced Geometric Indices versus Traditional Anthropometric Indices in Evaluating Female Infertility Risk: A Cross-Sectional Study",
       "link": "https://doi.org/10.21203/rs.3.rs-10176089/v1",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
@@ -1589,27 +1709,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Should Dengue Vaccination be Prioritized in Individuals with Diabetes?",
-      "link": "https://doi.org/10.4103/ijdt.ijdt_17_26",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4103/ijdt.ijdt_17_26\nAuthors: Jothydev Kesavadev, Sanjay Kalra, Shashank R. Joshi, Anoop Misra, Niti Pall, Banshi Saboo, Anuj Maheshwari, Amit Gupta, Rakesh Parikh, Manoj Chawla, Sunil Gupta, Anjana Ranjit Mohan, Sanjay Agarwal\n Abstract \n                   Type 2 diabetes (T2D) is a rapidly expanding global he",
-      "tag": "analysis"
-    },
-    {
-      "title": "Clinical and laboratory profile of Kyasanur forest disease in a tertiary care hospital in Goa",
-      "link": "https://doi.org/10.18203/2320-6012.ijrms20262633",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.18203/2320-6012.ijrms20262633\nAuthors: Chitralekha Nayak, Ruth Viegas, Edwin Gomes\n Background: Kyasanur Forest Disease (KFD), a tick-borne viral hemorrhagic fever once confined to the Western Ghats of Karnataka, India, has spread to adjacent states, including Goa, in recent years. This study aimed to analyze the clinical profiles of",
-      "tag": "analysis"
-    },
-    {
-      "title": "Epitrochlear Unicentric Castleman’s Disease Masquerading as Tuberculous Lymphadenitis: A Rare Case Report",
-      "link": "https://doi.org/10.18535/jmscr/v14i07.11",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.18535/jmscr/v14i07.11\nAuthors: Dr. N. Sai Charan\n Castleman’s disease is a rare, benign lymphoproliferative disorder of uncertain cause. It most commonly\ninvolves the chest, abdomen and neck; involvement of the limbs is distinctly uncommon. We report a 24-\nyear-old woman who presented with a slowly enlarging, mildly painful swelling",
-      "tag": "analysis"
-    },
-    {
       "title": "Malgré des conditions d’accès extrêmes, les équipes de préparation intensifient leurs interventions dans les zones à haut risque du Bas-Uele.",
       "link": "https://insp.cd/malgre-des-conditions-dacces-extremes-les-equipes-de-preparation-intensifient-leurs-interventions-dans-les-zones-a-haut-risque-du-bas-uele/",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
@@ -1621,6 +1720,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.21203/rs.3.rs-10352170/v1",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10352170/v1\nAuthors: Xuehua Li, Zeng Lu, Qianqian Liu, Shisong Yang, Zhongyan Li\n Abstract \n                 \n                  Introduction\n :\n                   Vibrio cholerae \n                  central nervous system (CNS) infection is extremely rare, typically reported in immunocompromised pa",
+      "tag": "analysis"
+    },
+    {
+      "title": "Editor’s Note for the Report “Host genetic diversity enables Ebola hemorrhagic fever pathogenesis and resistance”",
+      "link": "https://doi.org/10.1126/science.aek4288",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1126/science.aek4288\nAuthors: H. Holden Thorp",
       "tag": "analysis"
     },
     {
@@ -1659,13 +1765,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Editor’s Note for the Report “Host genetic diversity enables Ebola hemorrhagic fever pathogenesis and resistance”",
-      "link": "https://doi.org/10.1126/science.aek4288",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1126/science.aek4288\nAuthors: H. Holden Thorp",
-      "tag": "analysis"
-    },
-    {
       "title": "How Predictable Was the 2026 Bundibugyo Virus Disease Outbreak? A Rolling-Origin Evaluation of Short-Term Forecast Models, an Empirically Recalibrated Bayesian Model, and a Data-Driven Baseline-Bayesian Ensemble, Using Daily Surveillance Data",
       "link": "https://doi.org/10.64898/2026.07.28.26359159",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
@@ -1687,13 +1786,6 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "EXCLUSIVE: Congo’s Ebola epidemic started at least 4 months before it was detected",
-      "link": "https://doi.org/10.1126/science.zyr86mi",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1126/science.zyr86mi",
-      "tag": "analysis"
-    },
-    {
       "title": "LYRM7-associated mitochondrial complex III deficiency presenting as infantile hemiparesis with chronic cerebral infarction: a case report",
       "link": "https://doi.org/10.18203/2320-6012.ijrms20262668",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
@@ -1701,10 +1793,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "L’accès retrouvé à l’aire de santé d’Andisa ouvre une nouvelle étape des interventions – Institut National de Sante Publique",
-      "link": "https://insp.cd/lacces-retrouve-a-laire-de-sante-dandisa-ouvre-une-nouvelle-etape-des-interventions/",
+      "title": "EXCLUSIVE: Congo’s Ebola epidemic started at least 4 months before it was detected",
+      "link": "https://doi.org/10.1126/science.zyr86mi",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
-      "desc": "juillet 30, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nLe dialogue communautaire permet la reprise des activités de santé publique dans une zone jusque-là inaccessible\n\n\n\nLa riposte contre la maladie à virus Ebola en province de l’Ituri en",
+      "desc": "DOI: 10.1126/science.zyr86mi",
       "tag": "analysis"
     },
     {
@@ -1719,6 +1811,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.11648/j.wjph.20261103.15",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.11648/j.wjph.20261103.15\nAuthors: Kasangye Aurelie, Shambuwa Sephora, Mutangala Guy\n \n                    Ebola outbreaks are a significant public health problem in the DRC. The sixteen outbreaks occurred from September to December 2025 in Bulape (Mweka) with fatality ratio (FR) of 67.2%. This research explored Percepti",
+      "tag": "analysis"
+    },
+    {
+      "title": "L’accès retrouvé à l’aire de santé d’Andisa ouvre une nouvelle étape des interventions – Institut National de Sante Publique",
+      "link": "https://insp.cd/lacces-retrouve-a-laire-de-sante-dandisa-ouvre-une-nouvelle-etape-des-interventions/",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 Z",
+      "desc": "juillet 30, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nLe dialogue communautaire permet la reprise des activités de santé publique dans une zone jusque-là inaccessible\n\n\n\nLa riposte contre la maladie à virus Ebola en province de l’Ituri en",
       "tag": "analysis"
     },
     {
@@ -1796,104 +1895,6 @@ window.FEED_DATA = {
       "link": "https://health.economictimes.indiatimes.com/news/industry/uganda-declares-end-to-latest-ebola-outbreak/132702840",
       "pubDate": "Wed, 29 Jul 2026 06:35:00 Z",
       "desc": "Nairobi: Uganda's ​health minister declared the country Ebola-free on Tuesday following ​the East African nation's latest outbreak of the viral haemorrhagic disease that infected 20 people and killed two of them. Uganda has suffered multiple outbreaks of Ebola ‌since 2000, when ⁠it ⁠recorded its....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Uganda Says It’s Ebola Outbreak Is Over - Forbes",
-      "link": "https://www.forbes.com/sites/maryroeloffs/2026/07/28/uganda-says-its-ebola-free-as-cases-in-congo-near-record-numbers/",
-      "pubDate": "Wed, 29 Jul 2026 05:22:00 Z",
-      "desc": "COVID-19 -- Uganda. Significance Rating: 1 Uganda Says It’s Ebola Outbreak Is Over&nbsp;&nbsp;Forbes",
-      "tag": "analysis"
-    },
-    {
-      "title": "Integrating ecological and anthropogenic risk identifies emerging Ebola spillover hotspots",
-      "link": "https://doi.org/10.64898/2026.07.25.26358924",
-      "pubDate": "Wed, 29 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.25.26358924\nAuthors: Moir, M.; Tegally, H.; Moges, D. M.; Dor, G.; Poongavanan, J.; Baxter, C.; Lessells, R. J.; Kraemer, M. U. G.; Judge, C.; Gutierrez, B.; Ebengo, D. M.; Kinganda Lusamaki, E.; Placide, M.; Muyembe-Tamfum, J.-J.; Bisimwa Nachega, J.; de Oliveira, T.; Mavian, C. N.\nThe 2026 Bundibugyo virus outbreak emerged i",
-      "tag": "analysis"
-    },
-    {
-      "title": "Deadbolt Drug Discovery: Locking the Door to Class 1 Viral Entry by Small Molecules",
-      "link": "https://doi.org/10.1021/acsinfecdis.6c00302",
-      "pubDate": "Wed, 29 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1021/acsinfecdis.6c00302\nAuthors: John P. Sloan, Lijun Rong, Terry W. Moore\n Abstract \n                   The continued emergence of viral pathogens underscores the need for novel antiviral therapeutics with improved efficacy. Small-molecule inhibitors of viral entry are attractive antiviral agents because they",
-      "tag": "analysis"
-    },
-    {
-      "title": "EDUKASI PENCEGAHAN DEMAM BERDARAH DENGUE PADA WARGA KELURAHAN TANJUNG DUREN SELATAN",
-      "link": "https://doi.org/10.25105/abdimastrimedika.v3i2.26362",
-      "pubDate": "Wed, 29 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.25105/abdimastrimedika.v3i2.26362\nAuthors: Fatimah Az Zahra, Nisa Qurrota Ayuni, Celliin Cahya Fortuna, Davina Syla Quishalana, Hadaina Aulia Putri Andama, Putri Rynada, Nayla Dhara Fiezkya, Salwa Ayu Najibah, Nabila Maudy Salma, Triasti Khusfiani\n Dengue hemorrhagic fever (DHF) remains a major public health problem in Indonesia. Thi",
-      "tag": "analysis"
-    },
-    {
-      "title": "Germline NF2 variant position constrains somatic second hits and determines clinical severity in Neurofibromatosis Type 2-related schwannomatosis",
-      "link": "https://www.medrxiv.org/content/10.64898/2026.07.27.26359036v1?rss=1",
-      "pubDate": "Tue, 28 Jul 2026 22:30:00 Z",
-      "desc": "Abstract. Purpose: Neurofibromatosis type 2-related schwannomatosis (NF2-SWN) is an autosomal dominant tumor syndrome with complete penetrance and variable expressivity. Underlying patterns of disease burden and severity are largely unexplained. Methods: We comprehensively phenotyped 168 NF2-SWN patients over a mean duration of 4.",
-      "tag": "analysis"
-    },
-    {
-      "title": "U.S. Citizen Tests Positive for Ebola in Congo - Dayton Daily News",
-      "link": "https://www.daytondailynews.com/nation-world/u-s-citizen-tests-positive-for-ebola-in-congo/image_f138d680-a69c-570c-96f7-fa65445fff0e.html",
-      "pubDate": "Tue, 28 Jul 2026 22:22:00 Z",
-      "desc": "-- Ohio, United States. Significance Rating: 1 U.S. Citizen Tests Positive for Ebola in Congo&nbsp;&nbsp;Dayton Daily News",
-      "tag": "analysis"
-    },
-    {
-      "title": "In vitro, les vaccins actuellement disponibles contre Ebola induisent des réponses anticorps croisées contre le virus Bundibugyo Patrick GEROME - 28/07/2026 Lire plus➟",
-      "link": "https://www.mesvaccins.net/web/news/24311-in-vitro-les-vaccins-actuellement-disponibles-contre-ebola-induisent-des-reponses-anticorps-croisees-contre-le-virus-bundibugyo",
-      "pubDate": "Tue, 28 Jul 2026 21:32:00 Z",
-      "desc": "Le New England Journal of Medicine vient de publier les résultats d’une étude qui montre que les vaccins actuellement disponibles contre Ebola pourraient offrir une certaine protection contre le virus Bundibugyo (BDBV) responsable de l’épidémie en cours en République démocratique du Congo et en Ouganda.",
-      "tag": "response"
-    },
-    {
-      "title": "A Day in the Life Of Congo's Overstretched Ebola Surveillance Teams Reuters Health Information11 hours ago",
-      "link": "https://www.medscape.com/s/viewarticle/day-life-congos-overstretched-ebola-surveillance-teams-2026a1000pi7",
-      "pubDate": "Tue, 28 Jul 2026 18:26:00 Z",
-      "desc": "BUNIA, Democratic Republic of Congo, July 28 (Reuters) - On a good day, there are only four cars available to ferry surveillance teams round the city of Bunia, the epicentre of an Ebola outbreak surging through the Democratic Republic of Congo.\n\nThey were all out when Dr Moubarack Kano came in to work.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola Patient Discharged From Frankfurt Hospital After Full Recovery Reuters Health Information7 hours ago",
-      "link": "https://www.medscape.com/s/viewarticle/ebola-patient-discharged-frankfurt-hospital-after-full-2026a1000po0",
-      "pubDate": "Tue, 28 Jul 2026 18:26:00 Z",
-      "desc": "July 28 (Reuters) - A U.S. citizen who became infected with ⁠the Ebola virus in Democratic Republic of Congo was ⁠discharged from Frankfurt University Hospital on Tuesday after ⁠making a full ‌recovery, the hospital said in a statement.\n\n• The patient had been admitted to the hospital's special....",
-      "tag": "analysis"
-    },
-    {
-      "title": "Carcasses d’animaux : Un festin",
-      "link": "https://echosante.info/carcasses-danimaux-un-festin-a-haut-risque-dans-ladamaoua/",
-      "pubDate": "Tue, 28 Jul 2026 16:50:00 Z",
-      "desc": "À Ngaoundéré, riverains et badauds se ruent sur les carcasses d’animaux morts pour les consommer. Une pratique qui expose à de graves maladies zoonotiques. Les images sont saisissantes. Des personnes tirant une carcasse d’hippopotame qui a échoué sur le fleuve Bini dans le 3 ème arrondissement de Ngaoundéré, département de la Vina.",
-      "tag": "analysis"
-    },
-    {
-      "title": "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026",
-      "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3",
-      "pubDate": "Tue, 28 Jul 2026 15:36:00 Z",
-      "desc": "Event description The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continued to intensify during the reporting period, with sustained transmission, increasing mortality, and ongoing geographic expansion within the country.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Kenya steps up Ebola preparedness as Uganda declares end of 2026 outbreak - People Daily",
-      "link": "https://peopledaily.digital/news/kenya-steps-up-ebola-preparedness-as-uganda-declares-end-of-2026-outbreak",
-      "pubDate": "Tue, 28 Jul 2026 15:22:00 Z",
-      "desc": "-- Kenya. Significance Rating: 1 Kenya steps up Ebola preparedness as Uganda declares end of 2026 outbreak&nbsp;&nbsp;People Daily",
-      "tag": "response"
-    },
-    {
-      "title": "Vietnam: national alert as pediatric adenovirus cases triple amid summer transmission peak",
-      "link": "https://beaconbio.org/en/report/?reportid=74dacb9c-6547-4e56-85c4-23dd26de24c0",
-      "pubDate": "Tue, 28 Jul 2026 14:20:00 Z",
-      "desc": "Sources Adenovirus infections surge among children. SGGP News. 27 Jul 2026 Ministry of Health has issues an urgent notice regarding the increase in cases of adenovirus infection. Báo Thanh niên. 22 Jul 2026 (in Vietnamese) MoH issues health alert as adenovirus infections, pink eye cases rise. SGGP News. 22 Jul 2026 Key findings Vietnam's Ministry o",
-      "tag": "cases"
-    },
-    {
-      "title": "Uganda declares end to Ebola outbreak - Latest news from Azerbaijan",
-      "link": "https://news.az/news/uganda-declares-end-to-ebola-outbreak",
-      "pubDate": "Tue, 28 Jul 2026 13:22:00 Z",
-      "desc": "-- Uganda. Significance Rating: 1 Uganda declares end to Ebola outbreak&nbsp;&nbsp;Latest news from Azerbaijan",
       "tag": "analysis"
     }
   ],
