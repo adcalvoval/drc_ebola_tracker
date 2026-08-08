@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sat, 08 Aug 2026 04:11:35 Z",
-  "fetchedAt": "2026-08-08T04:11:35Z",
+  "lastBuildDate": "Sat, 08 Aug 2026 06:55:29 Z",
+  "fetchedAt": "2026-08-08T06:55:29Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -147,6 +147,13 @@
     }
   },
   "items": [
+    {
+      "title": "ASFV D117L hijacks KEAP1 to induce oxidative stress-dependent vascular endothelial cell death",
+      "link": "https://link.springer.com/article/10.1007/s00018-026-06380-1",
+      "pubDate": "Sat, 08 Aug 2026 05:04:00 Z",
+      "desc": "African swine fever (ASF), caused by the ASF virus (ASFV), is a fatal hemorrhagic disease of domestic pigs that causes significant economic losses in the global pig industry. Systemic hemorrhages and abnormal coagulation of multiple tissues and organs are the typical lesions of ASFV infection, but the mechanism is still unknown.",
+      "tag": "analysis"
+    },
     {
       "title": "Browse the entire BioOne Digital Library",
       "link": "https://bioone.org/browse/ebooks",
@@ -309,17 +316,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Approaches to solving undiagnosed rare genetic diseases in consanguineous populations",
-      "link": "https://doi.org/10.25259/jmsr_315_2026",
+      "title": "SeqSet: Phylogenetic analysis of initial viral genomes from the 2025 Ebola Virus Disease Outbreak in the Democratic Republic of the Congo.",
+      "link": "https://doi.org/10.62599/pp_ss_3268.1",
       "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.25259/jmsr_315_2026\nAuthors: Naif A.M. Almontashiri\n Rare genetic diseases present with a broad spectrum of clinical manifestations, frequently affecting multiple organ systems or causing isolated, severe physical impairments. These disorders represent a profound public health and socioeconomic burden due to prolonged diagnostic dela",
+      "desc": "DOI: 10.62599/pp_ss_3268.1",
       "tag": "analysis"
     },
     {
-      "title": "A participatory expert-based risk assessment to inform zoonotic disease surveillance in Cameroon: the case of Ebola virus disease and Rift Valley fever",
-      "link": "https://doi.org/10.1186/s42522-026-00232-5",
+      "title": "Predictive Value of the Braden Scale for Mechanical Ventilation Weaning Failure in Severe Pneumonia: A Retrospective Cohort Study with Incremental Value Analysis",
+      "link": "https://doi.org/10.21203/rs.3.rs-10298442/v1",
       "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s42522-026-00232-5\nAuthors: Inès Sopbué Kamguem, Nathalie Kirschvink, Nicolas Antoine-Moussiaux, Florence De Longueville, Cécile Ingrid Djuikoue, Noel K. Joseph, Sophie Molia, Abel Wade, Catherine Linard\n Abstract \n                   \n                     Background",
+      "desc": "DOI: 10.21203/rs.3.rs-10298442/v1\nAuthors: meng li, yinyin wu, xiang fang, jingjing zhao, zhihang Hu, li yao\n Abstract \n                 \n                   Background \n                  : Identifying patients at high risk for mechanical ventilation weaning failure remains a persistent challenge in critical care. The Brade",
       "tag": "analysis"
     },
     {
@@ -330,10 +337,38 @@
       "tag": "cases"
     },
     {
-      "title": "Predictive Value of the Braden Scale for Mechanical Ventilation Weaning Failure in Severe Pneumonia: A Retrospective Cohort Study with Incremental Value Analysis",
-      "link": "https://doi.org/10.21203/rs.3.rs-10298442/v1",
+      "title": "A participatory expert-based risk assessment to inform zoonotic disease surveillance in Cameroon: the case of Ebola virus disease and Rift Valley fever",
+      "link": "https://doi.org/10.1186/s42522-026-00232-5",
       "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10298442/v1\nAuthors: meng li, yinyin wu, xiang fang, jingjing zhao, zhihang Hu, li yao\n Abstract \n                 \n                   Background \n                  : Identifying patients at high risk for mechanical ventilation weaning failure remains a persistent challenge in critical care. The Brade",
+      "desc": "DOI: 10.1186/s42522-026-00232-5\nAuthors: Inès Sopbué Kamguem, Nathalie Kirschvink, Nicolas Antoine-Moussiaux, Florence De Longueville, Cécile Ingrid Djuikoue, Noel K. Joseph, Sophie Molia, Abel Wade, Catherine Linard\n Abstract \n                   \n                     Background",
+      "tag": "analysis"
+    },
+    {
+      "title": "TRIM29-dependent AKR1B10 degradation ameliorates MASH",
+      "link": "https://doi.org/10.1126/sciadv.aeb9309",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1126/sciadv.aeb9309\nAuthors: Zhengcai Ma, Juan Li, Xiaoduo Li, Jianyu Zhu, Chunyong Sun, Jinyin Zhang, Zhipeng Yang, Jifei Liu, Yuan Zhou, Zhenwei Gui, Jingwei Li, Hongmei Wang, Dan Shi, Qiang Song, Xuegang Li, Rongkun Tao, Hang Ma, Xiaoli Ye\n \n                    Metabolic dysfunction–associated steatohepatitis (MASH) is a prevalent",
+      "tag": "analysis"
+    },
+    {
+      "title": "Resilience of health systems in Africa to infectious disease shocks: A qualitative evidence synthesis",
+      "link": "https://doi.org/10.1371/journal.pgph.0006938",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.pgph.0006938\nAuthors: Denis Okethwangu, Sherry Ahirirwe, Mahima Venkateswaran, Roy Mayega, Elizeus Rutebemberwa, Felix Ocom, Victoria Nankabirwa, Charles L. Okot, Evelyne B. Nyachwo, Sandra Nabatanzi, Evelyn Asio, Umaer N. Mohammed, Alex R. Ario, Frode Forland, Suzanne N. Kiwanuka\n Strong and resilient health systems are",
+      "tag": "analysis"
+    },
+    {
+      "title": "Ebola in the DRC: A different problem compounded by violence",
+      "link": "https://doi.org/10.1371/journal.pntd.0014623",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.pntd.0014623\nAuthors: David M. Brett-Major\n A Public Health Emergency of International Concern (PHEIC) has been declared in the Democratic Republic of Congo (DRC) due to Ebola disease from Bundibugyo virus. Non-health-focused factors should be fundamental to how DRC and its partners respond to and recover from the curren",
+      "tag": "pheic"
+    },
+    {
+      "title": "Approaches to solving undiagnosed rare genetic diseases in consanguineous populations",
+      "link": "https://doi.org/10.25259/jmsr_315_2026",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.25259/jmsr_315_2026\nAuthors: Naif A.M. Almontashiri\n Rare genetic diseases present with a broad spectrum of clinical manifestations, frequently affecting multiple organ systems or causing isolated, severe physical impairments. These disorders represent a profound public health and socioeconomic burden due to prolonged diagnostic dela",
       "tag": "analysis"
     },
     {
@@ -519,17 +554,17 @@
       "tag": "analysis"
     },
     {
-      "title": "Development of a Bayesian subjective model for predicting the clinical diagnosis of Ebola in the Democratic Republic of the Congo",
-      "link": "https://doi.org/10.1186/s13000-026-01825-4",
-      "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s13000-026-01825-4\nAuthors: John Kamwina Kebela, Prince Kimpanga, Jean Nyandwe, Jack Kokolomami, Steve Bwira, Rostin Mabela, Olivier Mangapi, Berthe Barhayiga, Godfroid Musema, Bienvenu Kabasele, Sylvain Munyanga",
-      "tag": "analysis"
-    },
-    {
       "title": "Uptake of at-home self-collected dried blood spots for HIV, hepatitis C and syphilis screening among Māori gay, bisexual and other men who have sex with men in Aotearoa New Zealand: an observational epidemiological study",
       "link": "https://doi.org/10.1071/sh25177",
       "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.1071/sh25177\nAuthors: Shanjivan Padarath, Kevin Haunui, Adrian Ludlam, Janine Paynter, Koson Tony Sriamporn, Susan M. McAllister, Patricia Priest, Mark Fisher, Peter J. W. Saxton\n \n                     Background \n                     HIV testing is an integral component of prevention, reducing undiagn",
+      "tag": "analysis"
+    },
+    {
+      "title": "Development of a Bayesian subjective model for predicting the clinical diagnosis of Ebola in the Democratic Republic of the Congo",
+      "link": "https://doi.org/10.1186/s13000-026-01825-4",
+      "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s13000-026-01825-4\nAuthors: John Kamwina Kebela, Prince Kimpanga, Jean Nyandwe, Jack Kokolomami, Steve Bwira, Rostin Mabela, Olivier Mangapi, Berthe Barhayiga, Godfroid Musema, Bienvenu Kabasele, Sylvain Munyanga",
       "tag": "analysis"
     },
     {
@@ -785,6 +820,20 @@
       "tag": "analysis"
     },
     {
+      "title": "Risk Factors, Perception, and Knowledge of Highly Pathogenic Avian Influenza among Poultry Handlers in Selected Live Bird Markets in Nigeria",
+      "link": "https://doi.org/10.25259/rvsm_3_2026",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.25259/rvsm_3_2026\nAuthors: Kayode Abraham Olawuyi, Olukayode Olugbenga Orole, Uwem Okon Edet, Foluke Grace Olawuyi, Nicodemus Mkpuma, Chukwudi Ofodile, Clement Meseko\n \n                     Objectives: \n                     The live bird markets (LBMs) are considered a very high-risk area for",
+      "tag": "analysis"
+    },
+    {
+      "title": "Developing and Characterizing a Murine Model of In Utero Transmission of Ebola Virus",
+      "link": "https://doi.org/10.64898/2026.08.04.742335",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.08.04.742335\nAuthors: Van Ert, H. A. A. M.; Henderson, C.; Smith, B. J.; Richards, P.; Kardin, E.; Eubank, E.; Fakhimi, M.; Liebermann, M.; Messingham, K.; Santillan, M.; Schultz, M.; Marzi, A.; Maury, W.\nEbola virus (EBOV) disease (EVD) is a hemorrhagic disease caused by EBOV infection. EVD outcomes in pregnant women are similar",
+      "tag": "analysis"
+    },
+    {
       "title": "Ebola: how soon could a Bundibugyo vaccine be ready?",
       "link": "https://doi.org/10.1136/bmj-2026-100450",
       "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
@@ -831,20 +880,6 @@
       "link": "https://insp.cd/le-nouveau-centre-de-traitement-ebola-de-rwankole-renforce-les-capacites-de-prise-en-charge-et-de-prevention/",
       "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
       "desc": "août 5, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\n\n\n\n\nLBunia, Ituri. La Province de l’Ituri franchit une nouvelle étape dans le renforcement de la riposte contre la maladie à virus Ebola avec l’inauguration officielle du Centre de Traitem",
-      "tag": "analysis"
-    },
-    {
-      "title": "Risk Factors, Perception, and Knowledge of Highly Pathogenic Avian Influenza among Poultry Handlers in Selected Live Bird Markets in Nigeria",
-      "link": "https://doi.org/10.25259/rvsm_3_2026",
-      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.25259/rvsm_3_2026\nAuthors: Kayode Abraham Olawuyi, Olukayode Olugbenga Orole, Uwem Okon Edet, Foluke Grace Olawuyi, Nicodemus Mkpuma, Chukwudi Ofodile, Clement Meseko\n \n                     Objectives: \n                     The live bird markets (LBMs) are considered a very high-risk area for",
-      "tag": "analysis"
-    },
-    {
-      "title": "Developing and Characterizing a Murine Model of In Utero Transmission of Ebola Virus",
-      "link": "https://doi.org/10.64898/2026.08.04.742335",
-      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.08.04.742335\nAuthors: Van Ert, H. A. A. M.; Henderson, C.; Smith, B. J.; Richards, P.; Kardin, E.; Eubank, E.; Fakhimi, M.; Liebermann, M.; Messingham, K.; Santillan, M.; Schultz, M.; Marzi, A.; Maury, W.\nEbola virus (EBOV) disease (EVD) is a hemorrhagic disease caused by EBOV infection. EVD outcomes in pregnant women are similar",
       "tag": "analysis"
     },
     {
@@ -1058,24 +1093,24 @@
       "tag": "analysis"
     },
     {
+      "title": "Redistribution of peripheral blood immune cell subsets and remodeling of intercellular communication in rare Behçet's disease: a single-cell transcriptomics study",
+      "link": "https://doi.org/10.3389/fmed.2026.1908366",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fmed.2026.1908366\nAuthors: Yanfei Yang, Yuexin Chen\n \n                     Background \n                     Behçet's disease (BD) is a rare chronic systemic vasculitis of unknown etiology. The heterogeneity of peripheral blood immune cells and the dysregulation of intercellular communication in BD",
+      "tag": "analysis"
+    },
+    {
+      "title": "L’INSP dote l’Ituri du plus grand Centre de Traitement Ebola pour renforcer la prise en charge des patients – Institut National de Sante Publique",
+      "link": "https://insp.cd/linsp-dote-lituri-du-plus-grand-centre-de-traitement-ebola-pour-renforcer-la-prise-en-charge-des-patients-2/",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
+      "desc": "août 4, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nAvec l’appui de Corps Médical International (MCI), l’Institut National de Santé Publique construit à Rwankole un Centre de Traitement Ebola de plus de 100 lits et forme plus de 150 hygiéni",
+      "tag": "analysis"
+    },
+    {
       "title": "Crimean-Congo hemorrhagic fever in Iran: a systematic review of viral detection in ticks, vector distribution, and data gaps for health system decision-makers",
       "link": "https://doi.org/10.1007/s11259-026-11444-5",
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.1007/s11259-026-11444-5\nAuthors: Hassan Nasirian",
-      "tag": "analysis"
-    },
-    {
-      "title": "Clinical associations, outcomes, and therapeutic management of patients with symptomatic sclerosing mesenteritis",
-      "link": "https://doi.org/10.1177/17562848261475954",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/17562848261475954\nAuthors: Christina Liava, Danai Chourmouzi, Georgia Gioula, Emmanouil Sinakos, Evangelos Akriviadis\n \n                     Background \n                     Sclerosing mesenteritis (SM) is a rare fibroinflammatory disease of unknown etiology that primarily affects the root of the",
-      "tag": "analysis"
-    },
-    {
-      "title": "DENV-4 infection suppresses transcription of DNA repair genes",
-      "link": "https://doi.org/10.1073/pnas.2536909123",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1073/pnas.2536909123\nAuthors: Erica N. Lamkin, Jessica Reich, Josh A. Victor, Madison Guyette, Naveen Kothandaraman, Vihit Gupta, Alfred T. Harding, Tristan X. Jordan, Lee Gehrke, Pei Zhou, Benjamin tenOever, Nimrat Chatterjee\n The molecular mechanisms behind Dengue virus-dependent host pathogenesis, especially genome instability, re",
       "tag": "analysis"
     },
     {
@@ -1093,17 +1128,17 @@
       "tag": "response"
     },
     {
-      "title": "Redistribution of peripheral blood immune cell subsets and remodeling of intercellular communication in rare Behçet's disease: a single-cell transcriptomics study",
-      "link": "https://doi.org/10.3389/fmed.2026.1908366",
+      "title": "DENV-4 infection suppresses transcription of DNA repair genes",
+      "link": "https://doi.org/10.1073/pnas.2536909123",
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fmed.2026.1908366\nAuthors: Yanfei Yang, Yuexin Chen\n \n                     Background \n                     Behçet's disease (BD) is a rare chronic systemic vasculitis of unknown etiology. The heterogeneity of peripheral blood immune cells and the dysregulation of intercellular communication in BD",
+      "desc": "DOI: 10.1073/pnas.2536909123\nAuthors: Erica N. Lamkin, Jessica Reich, Josh A. Victor, Madison Guyette, Naveen Kothandaraman, Vihit Gupta, Alfred T. Harding, Tristan X. Jordan, Lee Gehrke, Pei Zhou, Benjamin tenOever, Nimrat Chatterjee\n The molecular mechanisms behind Dengue virus-dependent host pathogenesis, especially genome instability, re",
       "tag": "analysis"
     },
     {
-      "title": "L’INSP dote l’Ituri du plus grand Centre de Traitement Ebola pour renforcer la prise en charge des patients – Institut National de Sante Publique",
-      "link": "https://insp.cd/linsp-dote-lituri-du-plus-grand-centre-de-traitement-ebola-pour-renforcer-la-prise-en-charge-des-patients-2/",
+      "title": "Clinical associations, outcomes, and therapeutic management of patients with symptomatic sclerosing mesenteritis",
+      "link": "https://doi.org/10.1177/17562848261475954",
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "août 4, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nAvec l’appui de Corps Médical International (MCI), l’Institut National de Santé Publique construit à Rwankole un Centre de Traitement Ebola de plus de 100 lits et forme plus de 150 hygiéni",
+      "desc": "DOI: 10.1177/17562848261475954\nAuthors: Christina Liava, Danai Chourmouzi, Georgia Gioula, Emmanouil Sinakos, Evangelos Akriviadis\n \n                     Background \n                     Sclerosing mesenteritis (SM) is a rare fibroinflammatory disease of unknown etiology that primarily affects the root of the",
       "tag": "analysis"
     },
     {
@@ -1401,11 +1436,11 @@
       "tag": "cases"
     },
     {
-      "title": "Interpreting Test Positivity, Testing Volume, and Sample Backlog During the 2026 Bundibugyo Virus Disease Outbreak in the Democratic Republic of the Congo: An Operational Interpretation Framework for Outbreak Surveillance",
-      "link": "https://www.preprints.org/manuscript/202608.0100/v1",
+      "title": "Investigating Mycoplasma wenyonii and Candidatus Mycoplasma haematobovis coinfection patterns in cattle from southwestern France reveals strain-specific traits",
+      "link": "https://doi.org/10.1186/s13567-026-01821-y",
       "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
-      "desc": "Background: During a rapidly expanding outbreak, changes in confirmed case counts and test positivity may reflect transmission, testing selectivity, geographic expansion of surveillance, or delayed processing of accumulated samples. This study reconstructed laboratory indicators reported during the 2026 Bundibugyo virus disease (BVD) outbreak in th",
-      "tag": "cases"
+      "desc": "DOI: 10.1186/s13567-026-01821-y\nAuthors: Chloé Saada, Renaud Maillard, Claire Pelletier, Marie-Claude Hygonenq, Hortensia Robert, Christine Citti, Laurent-Xavier Nouvel\n Abstract \n                   \n                    Hemotropic mycoplasmas (hemoplasmas) infecting cattle were first detected in France in 2019 during a",
+      "tag": "analysis"
     },
     {
       "title": "Disseminated histoplasmosis presenting as a pyrexia of unknown origin",
@@ -1443,11 +1478,11 @@
       "tag": "analysis"
     },
     {
-      "title": "Investigating Mycoplasma wenyonii and Candidatus Mycoplasma haematobovis coinfection patterns in cattle from southwestern France reveals strain-specific traits",
-      "link": "https://doi.org/10.1186/s13567-026-01821-y",
+      "title": "Interpreting Test Positivity, Testing Volume, and Sample Backlog During the 2026 Bundibugyo Virus Disease Outbreak in the Democratic Republic of the Congo: An Operational Interpretation Framework for Outbreak Surveillance",
+      "link": "https://www.preprints.org/manuscript/202608.0100/v1",
       "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s13567-026-01821-y\nAuthors: Chloé Saada, Renaud Maillard, Claire Pelletier, Marie-Claude Hygonenq, Hortensia Robert, Christine Citti, Laurent-Xavier Nouvel\n Abstract \n                   \n                    Hemotropic mycoplasmas (hemoplasmas) infecting cattle were first detected in France in 2019 during a",
-      "tag": "analysis"
+      "desc": "Background: During a rapidly expanding outbreak, changes in confirmed case counts and test positivity may reflect transmission, testing selectivity, geographic expansion of surveillance, or delayed processing of accumulated samples. This study reconstructed laboratory indicators reported during the 2026 Bundibugyo virus disease (BVD) outbreak in th",
+      "tag": "cases"
     },
     {
       "title": "Recurrent Single-Nucleotide Insertions in the Mitochondrial Second Light-Strand Promoter Cause Tubulointerstitial Kidney Disease",
@@ -1520,13 +1555,6 @@
       "tag": "analysis"
     },
     {
-      "title": "Obstructive Cholestasis in IL12RB1 Deficiency: A Case Report of an Unusual Hepatobiliary Presentation in Mendelian Susceptibility to Mycobacterial Disease",
-      "link": "https://doi.org/10.1155/crpe/8888681",
-      "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1155/crpe/8888681\nAuthors: Nabeel Ahmad, Hooria Rehman, Muhammad Huzaifa Ameer, Syed Junaid Haide, Umer Abdullah, Bilal Aslam, Muneeb Saifullah, Hamza Aka Khail\n \n                    While\n                     IL12RB1 \n                    deficiency is classically associated with susceptibility to mycobacteri",
-      "tag": "analysis"
-    },
-    {
       "title": "Merkel cell carcinoma: an updated guide for pathologists",
       "link": "https://doi.org/10.1111/his.70244",
       "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
@@ -1545,6 +1573,13 @@
       "link": "https://doi.org/10.3390/jcm15156002",
       "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.3390/jcm15156002\nAuthors: Chuwen Chen, Lijia Wei, Yiyuan Li, Bin Huang, Xiyang Chen\n Background: Inferior vena cava (IVC) graft–enteric fistula is an exceptionally rare but potentially fatal complication of caval reconstruction. Case Presentation: A 22-year-old woman with previous IVC and right renal vein reconstruction presented wit",
+      "tag": "analysis"
+    },
+    {
+      "title": "Obstructive Cholestasis in IL12RB1 Deficiency: A Case Report of an Unusual Hepatobiliary Presentation in Mendelian Susceptibility to Mycobacterial Disease",
+      "link": "https://doi.org/10.1155/crpe/8888681",
+      "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1155/crpe/8888681\nAuthors: Nabeel Ahmad, Hooria Rehman, Muhammad Huzaifa Ameer, Syed Junaid Haide, Umer Abdullah, Bilal Aslam, Muneeb Saifullah, Hamza Aka Khail\n \n                    While\n                     IL12RB1 \n                    deficiency is classically associated with susceptibility to mycobacteri",
       "tag": "analysis"
     },
     {
@@ -1604,6 +1639,48 @@
       "tag": "analysis"
     },
     {
+      "title": "La RDC et la Chine renforcent leur partenariat stratégique autour du Centre des Opérations d’Urgence de Santé Publique",
+      "link": "https://insp.cd/la-rdc-et-la-chine-renforcent-leur-partenariat-strategique-autour-du-centre-des-operations-durgence-de-sante-publique/",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
+      "desc": "août 1, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nUne délégation de l’Ambassade de la République populaire de Chine découvre le modèle congolais de préparation et de riposte aux urgences sanitaires porté par l’INSP. Une visite qui ouvre l",
+      "tag": "pheic"
+    },
+    {
+      "title": "Les forces de défense s’engagent aux côtés de l’INSP pour renforcer la prévention communautaire. – Institut National de Sante Publique",
+      "link": "https://insp.cd/les-forces-de-defense-sengagent-aux-cotes-de-linsp-pour-renforcer-la-prevention-communautaire/",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
+      "desc": "août 1, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nIturi, RDC. Dans le cadre du renforcement de la riposte contre la maladie à virus Ebola (MVE), l’Institut National de Santé Publique (INSP), à travers le Centre des Opérations d’Urgences d",
+      "tag": "analysis"
+    },
+    {
+      "title": "Bundibugyo virus disease in the Democratic Republic of the Congo and Uganda: moving from outbreak response to planetary health preparedness",
+      "link": "https://doi.org/10.1016/j.lanplh.2026.101508",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1016/j.lanplh.2026.101508\nAuthors: Alimuddin Zumla, Francine Ntoumi, Jean-Jacques Muyembe-Tamfum, Jean B Nachega",
+      "tag": "response"
+    },
+    {
+      "title": "Hantavirus Infections in Children",
+      "link": "https://doi.org/10.1542/pir.2025-006862",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1542/pir.2025-006862\nAuthors: Calvin J. Cable, Walter Dehority\n Abstract \n                   Hantaviruses are rare but deadly pathogens. New World hantaviruses, primarily present in North and South America, cause hantavirus cardiopulmonary syndrome, which leads to death in up to one-third of affected patients.",
+      "tag": "analysis"
+    },
+    {
+      "title": "A Review of the Application of Nanotechnology in the Diagnosis of Infectious Diseases",
+      "link": "https://doi.org/10.52589/ajensr-rhej3zbc",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.52589/ajensr-rhej3zbc\nAuthors: Osazuwa, F., Iyare, G. I., Muhammad-Sani, H. H. Y.\n Infectious diseases caused by bacteria, viruses, fungi, and parasites continue to impose substantial global health burdens, particularly in low- and middle-income countries. Accurate and timely diagnosis remains essential for appropriate treatment, tra",
+      "tag": "analysis"
+    },
+    {
+      "title": "Antibodies Cross-Reactive with Bundibugyo Virus in Ferrets Vaccinated with Ebola Virus Vaccine",
+      "link": "https://doi.org/10.3201/eid3208.262948",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.3201/eid3208.262948\nAuthors: Jordan Wight, Helene Schulz, Logan Banadyga",
+      "tag": "analysis"
+    },
+    {
       "title": "An Unusual Case of Infection-Provoked Macrophage Activation Syndrome in Mixed Connective Tissue Disease",
       "link": "https://doi.org/10.3899/jrheum.2026-0447.46",
       "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
@@ -1622,48 +1699,6 @@
       "link": "https://doi.org/10.3899/jrheum.2026-0447.99",
       "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.3899/jrheum.2026-0447.99\nAuthors: Tina Liu, Karen Beattie, Christy Chan, Jessica Zelman, Jeanine McColl, Mark Ferro, Michelle Batthish\n \n                     Objectives \n                     Parents of children with juvenile idiopathic arthritis (JIA) commonly experience mental health problems that neg",
-      "tag": "analysis"
-    },
-    {
-      "title": "A Review of the Application of Nanotechnology in the Diagnosis of Infectious Diseases",
-      "link": "https://doi.org/10.52589/ajensr-rhej3zbc",
-      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.52589/ajensr-rhej3zbc\nAuthors: Osazuwa, F., Iyare, G. I., Muhammad-Sani, H. H. Y.\n Infectious diseases caused by bacteria, viruses, fungi, and parasites continue to impose substantial global health burdens, particularly in low- and middle-income countries. Accurate and timely diagnosis remains essential for appropriate treatment, tra",
-      "tag": "analysis"
-    },
-    {
-      "title": "Hantavirus Infections in Children",
-      "link": "https://doi.org/10.1542/pir.2025-006862",
-      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1542/pir.2025-006862\nAuthors: Calvin J. Cable, Walter Dehority\n Abstract \n                   Hantaviruses are rare but deadly pathogens. New World hantaviruses, primarily present in North and South America, cause hantavirus cardiopulmonary syndrome, which leads to death in up to one-third of affected patients.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Antibodies Cross-Reactive with Bundibugyo Virus in Ferrets Vaccinated with Ebola Virus Vaccine",
-      "link": "https://doi.org/10.3201/eid3208.262948",
-      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.3201/eid3208.262948\nAuthors: Jordan Wight, Helene Schulz, Logan Banadyga",
-      "tag": "analysis"
-    },
-    {
-      "title": "Bundibugyo virus disease in the Democratic Republic of the Congo and Uganda: moving from outbreak response to planetary health preparedness",
-      "link": "https://doi.org/10.1016/j.lanplh.2026.101508",
-      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1016/j.lanplh.2026.101508\nAuthors: Alimuddin Zumla, Francine Ntoumi, Jean-Jacques Muyembe-Tamfum, Jean B Nachega",
-      "tag": "response"
-    },
-    {
-      "title": "La RDC et la Chine renforcent leur partenariat stratégique autour du Centre des Opérations d’Urgence de Santé Publique",
-      "link": "https://insp.cd/la-rdc-et-la-chine-renforcent-leur-partenariat-strategique-autour-du-centre-des-operations-durgence-de-sante-publique/",
-      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
-      "desc": "août 1, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nUne délégation de l’Ambassade de la République populaire de Chine découvre le modèle congolais de préparation et de riposte aux urgences sanitaires porté par l’INSP. Une visite qui ouvre l",
-      "tag": "pheic"
-    },
-    {
-      "title": "Les forces de défense s’engagent aux côtés de l’INSP pour renforcer la prévention communautaire. – Institut National de Sante Publique",
-      "link": "https://insp.cd/les-forces-de-defense-sengagent-aux-cotes-de-linsp-pour-renforcer-la-prevention-communautaire/",
-      "pubDate": "Sat, 01 Aug 2026 00:00:00 Z",
-      "desc": "août 1, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nIturi, RDC. Dans le cadre du renforcement de la riposte contre la maladie à virus Ebola (MVE), l’Institut National de Santé Publique (INSP), à travers le Centre des Opérations d’Urgences d",
       "tag": "analysis"
     },
     {
@@ -1860,41 +1895,6 @@
       "link": "https://doi.org/10.1007/s11033-026-12514-2",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1007/s11033-026-12514-2\nAuthors: Umme Kulsum, K. S. Praveen Kumar, Pallavi Shekar, C. Kamala, Naidu M. Swati Krishnaswami, Ananya Hegde, Lakshitha V. Jayakrishna, Meghana Hangala Shivakumaraswamy, Akila Prashant\n Abstract \n                   Recurrent pregnancy loss (RPL) is a multifactorial reproductive disord",
-      "tag": "analysis"
-    },
-    {
-      "title": "Unveiling brucellosis risks in breeding herds: Case study on diagnostic failures and control gaps in South Africa",
-      "link": "https://doi.org/10.4102/ojvr.v93i1.2264",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.4102/ojvr.v93i1.2264\nAuthors: Koketso D. Mazwi, Emmanuel P. Lita, Ayesha Hassim, Emmanuel Seakamela, Itumeleng Matle, Farah Abdool-Khader, Gerhardus S. Scheepers, Yusuf B. Ngoshe, Henriette van Heerden\n Brucellosis is a zoonotic pathogen of livestock, wildlife and humans, with significant implications for reproductive losses and publ",
-      "tag": "analysis"
-    },
-    {
-      "title": "Clinical phenotypes and disease outcomes of patients with systemic lupus erythematosus meeting indication for primary aldosteronism testing",
-      "link": "https://doi.org/10.1177/09612033261473968",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/09612033261473968\nAuthors: Matthew Wong, Muhammad Akram, Joanna R. Kent, Peter J. Fuller, Alberta Y. Hoi, Jun Yang, Fabien B. Vincent\n \n                     Background \n                     Hypertension is prevalent and contributes significantly to cardiovascular risk in patients with systemic lup",
-      "tag": "analysis"
-    },
-    {
-      "title": "Longitudinal Outcomes of Psychiatric Inpatients After Suicide Attempt: A Retrospective Study in Portugal",
-      "link": "https://doi.org/10.1192/j.eurpsy.2026.10218",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1192/j.eurpsy.2026.10218\nAuthors: M. J. Cunha, M. Cândido, G. Canhoto, M. Ribeiro, J. Domingos, S. Neto, A. Velosa\n \n                     Introduction \n                     Suicide attempts (SA) are the strongest predictor of future suicide. Hospitalizatio",
-      "tag": "analysis"
-    },
-    {
-      "title": "Blue Rubber Bleb Nevus Syndrome Presenting as Severe Transfusion‐Dependent Anemia in an Elderly Patient: An Unusual Cause of Lower Gastrointestinal Bleeding",
-      "link": "https://doi.org/10.1002/ccr3.73253",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/ccr3.73253\nAuthors: Philippe Attieh, Rim Moubayed, Karam Karam, Ihab l El Hajj, Mahmoud Harb\n ABSTRACT \n                   Blue rubber bleb nevus syndrome (BRBNS) is a rare vascular disorder characterized by venous malformations involving the skin and gastrointestinal (GI) tract. GI involvement may lead to",
-      "tag": "analysis"
-    },
-    {
-      "title": "Direct targeting of the WAVE-regulatory complex and the actin cytoskeleton by the Anaplasma phagocytophilum effector, AnkA",
-      "link": "https://doi.org/10.64898/2026.07.31.742066",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.31.742066\nAuthors: Hannah L Burge, Shashi P. Singh, Jianyang Wang, Suchitra Pradhan, Katharine M Wood, Joshua W Lee, Silvia A Synowsky, Sally L Shirran, Patrick J Moynihan, Andrew L Lovering, Laura M Machesky, Mark A Jepson, Stephen J Dumler, Ian T Cadby\n The obligate intracellular tick-borne pathogen Anaplasma phagocyt",
       "tag": "analysis"
     }
   ],
