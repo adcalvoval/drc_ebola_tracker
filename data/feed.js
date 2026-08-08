@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Fri, 07 Aug 2026 21:39:50 Z",
-  "fetchedAt": "2026-08-07T21:39:51Z",
+  "lastBuildDate": "Sat, 08 Aug 2026 01:45:10 Z",
+  "fetchedAt": "2026-08-08T01:45:11Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -155,18 +155,18 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "CDC adds almost 100 new cases to expanding US measles outbreak",
-      "link": "https://www.cidrap.umn.edu/measles/cdc-adds-almost-100-new-cases-expanding-us-measles-outbreak",
-      "pubDate": "Fri, 07 Aug 2026 20:22:00 Z",
-      "desc": "The Centers for Disease Control and Prevention (CDC) today confirmed 94 new measles infections—most of them in Pennsylvania—bringing the US total for the year to 2,465, the agency said in its weekly update.The numbers likely provide additional data to move the United States toward losing its measles elimination status this year. The nation gained t",
-      "tag": "cases"
-    },
-    {
       "title": "刚果（金）埃博拉疫情：河船因五人死亡被隔离检疫 - infohub.kz",
       "link": "https://infohub.kz/zh-cn/article/ebola-dr-congo-river-boat-quarantine-2",
       "pubDate": "Fri, 07 Aug 2026 20:22:00 Z",
       "desc": "Ebola -- DR Congo. Significance Rating: 1 刚果（金）埃博拉疫情：河船因五人死亡被隔离检疫&nbsp;&nbsp;infohub.kz",
       "tag": "analysis"
+    },
+    {
+      "title": "CDC adds almost 100 new cases to expanding US measles outbreak",
+      "link": "https://www.cidrap.umn.edu/measles/cdc-adds-almost-100-new-cases-expanding-us-measles-outbreak",
+      "pubDate": "Fri, 07 Aug 2026 20:22:00 Z",
+      "desc": "The Centers for Disease Control and Prevention (CDC) today confirmed 94 new measles infections—most of them in Pennsylvania—bringing the US total for the year to 2,465, the agency said in its weekly update.The numbers likely provide additional data to move the United States toward losing its measles elimination status this year. The nation gained t",
+      "tag": "cases"
     },
     {
       "title": "An imported case of Bundibugyo virus infection, France, June 2026",
@@ -295,10 +295,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "A participatory expert-based risk assessment to inform zoonotic disease surveillance in Cameroon: the case of Ebola virus disease and Rift Valley fever",
-      "link": "https://doi.org/10.1186/s42522-026-00232-5",
+      "title": "SOFA-2 versus SOFA for mortality risk assessment in ICU patients with acute cholangitis: a retrospective cohort study using MIMIC-IV and eICU",
+      "link": "https://doi.org/10.21203/rs.3.rs-10288690/v1",
       "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s42522-026-00232-5\nAuthors: Inès Sopbué Kamguem, Nathalie Kirschvink, Nicolas Antoine-Moussiaux, Florence De Longueville, Cécile Ingrid Djuikoue, Noel K. Joseph, Sophie Molia, Abel Wade, Catherine Linard\n Abstract \n                   \n                     Background",
+      "desc": "DOI: 10.21203/rs.3.rs-10288690/v1\nAuthors: Yunxiao LYU, Bin Wang, Zhong Lyu\n Abstract \n                 Background\n Acute cholangitis (AC) can progress rapidly to organ failure and death. The Sequential Organ Failure Assessment-2 (SOFA-2) is a recently revised organ-dysfunction score, but whether it adds disease-specific value beyond",
+      "tag": "analysis"
+    },
+    {
+      "title": "Approaches to solving undiagnosed rare genetic diseases in consanguineous populations",
+      "link": "https://doi.org/10.25259/jmsr_315_2026",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.25259/jmsr_315_2026\nAuthors: Naif A.M. Almontashiri\n Rare genetic diseases present with a broad spectrum of clinical manifestations, frequently affecting multiple organ systems or causing isolated, severe physical impairments. These disorders represent a profound public health and socioeconomic burden due to prolonged diagnostic dela",
       "tag": "analysis"
     },
     {
@@ -309,10 +316,17 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Approaches to solving undiagnosed rare genetic diseases in consanguineous populations",
-      "link": "https://doi.org/10.25259/jmsr_315_2026",
+      "title": "A participatory expert-based risk assessment to inform zoonotic disease surveillance in Cameroon: the case of Ebola virus disease and Rift Valley fever",
+      "link": "https://doi.org/10.1186/s42522-026-00232-5",
       "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.25259/jmsr_315_2026\nAuthors: Naif A.M. Almontashiri\n Rare genetic diseases present with a broad spectrum of clinical manifestations, frequently affecting multiple organ systems or causing isolated, severe physical impairments. These disorders represent a profound public health and socioeconomic burden due to prolonged diagnostic dela",
+      "desc": "DOI: 10.1186/s42522-026-00232-5\nAuthors: Inès Sopbué Kamguem, Nathalie Kirschvink, Nicolas Antoine-Moussiaux, Florence De Longueville, Cécile Ingrid Djuikoue, Noel K. Joseph, Sophie Molia, Abel Wade, Catherine Linard\n Abstract \n                   \n                     Background",
+      "tag": "analysis"
+    },
+    {
+      "title": "Predictive Value of the Braden Scale for Mechanical Ventilation Weaning Failure in Severe Pneumonia: A Retrospective Cohort Study with Incremental Value Analysis",
+      "link": "https://doi.org/10.21203/rs.3.rs-10298442/v1",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-10298442/v1\nAuthors: meng li, yinyin wu, xiang fang, jingjing zhao, zhihang Hu, li yao\n Abstract \n                 \n                   Background \n                  : Identifying patients at high risk for mechanical ventilation weaning failure remains a persistent challenge in critical care. The Brade",
       "tag": "analysis"
     },
     {
@@ -477,11 +491,11 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Successful management of a secondary aorto-duodenal fistula with an infected prosthesis and hemorrhagic shock",
-      "link": "https://doi.org/10.1097/rc9.0000000000000829",
+      "title": "An imported case of Bundibugyo virus infection, France, June 2026",
+      "link": "https://doi.org/10.2807/1560-7917.es.2026.31.31.2600627",
       "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/rc9.0000000000000829\nAuthors: Amine Sebai, Souhaib Atri, Mahdi Hammami, Mohamed Elleuch, Anis Haddad, Montassar Kacem\n \n                     Introduction: \n                     Secondary aortoenteric fistula is a rare but life-threatening complication of aortic reconstructive surgery. It typically",
-      "tag": "analysis"
+      "desc": "DOI: 10.2807/1560-7917.es.2026.31.31.2600627\n In June 2026, an intensive care physician deployed in the Democratic Republic of the Congo and previously vaccinated against Ebola virus developed fatigue, nausea and headaches while returning to France. Bundibugyo virus was identified with RT-PCR. The patient was treated with remdesivir and reco",
+      "tag": "response"
     },
     {
       "title": "SUC–PINNs: A physics-informed neural networks approach to inverse problems in epidemic models with partial observability",
@@ -491,11 +505,11 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "An imported case of Bundibugyo virus infection, France, June 2026",
-      "link": "https://doi.org/10.2807/1560-7917.es.2026.31.31.2600627",
+      "title": "Successful management of a secondary aorto-duodenal fistula with an infected prosthesis and hemorrhagic shock",
+      "link": "https://doi.org/10.1097/rc9.0000000000000829",
       "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.2807/1560-7917.es.2026.31.31.2600627\n In June 2026, an intensive care physician deployed in the Democratic Republic of the Congo and previously vaccinated against Ebola virus developed fatigue, nausea and headaches while returning to France. Bundibugyo virus was identified with RT-PCR. The patient was treated with remdesivir and reco",
-      "tag": "response"
+      "desc": "DOI: 10.1097/rc9.0000000000000829\nAuthors: Amine Sebai, Souhaib Atri, Mahdi Hammami, Mohamed Elleuch, Anis Haddad, Montassar Kacem\n \n                     Introduction: \n                     Secondary aortoenteric fistula is a rare but life-threatening complication of aortic reconstructive surgery. It typically",
+      "tag": "analysis"
     },
     {
       "title": "Ebola raged below the radar for months, report says",
@@ -1800,10 +1814,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "The Changing Landscape of Hantavirus Infections: A Narrative Review of Epidemiology, Pathogenesis, and Countermeasures",
+      "link": "https://doi.org/10.1002/rmv.70191",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1002/rmv.70191\nAuthors: Francesco De Maria, Francesco Branda, Giancarlo Ceccarelli, Fabio Scarpa, Massimo Ciccozzi, Alessandro Russo\n ABSTRACT \n                   \n                    Hantaviruses are emerging zoonotic pathogens of increasing global public health significance. Their epidemiological landscape is",
+      "tag": "analysis"
+    },
+    {
       "title": "Co-circulation of Crimean–Congo hemorrhagic fever virus and spotted fever group Rickettsia in cattle and ticks from cattle in Kosovo",
       "link": "https://doi.org/10.3389/fvets.2026.1888406",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fvets.2026.1888406\nAuthors: Jignesh Italiya, Kristýna Hrazdilová, Seyma S. Celina, Pavlina Nekudova, Tekkara Allan Obonyom, Avni Robaj, Jiri Cerny, David Modry, Lisa E. Hensley, Anne W. Rimoin, Ludek Zurek\n \n                     Background \n                     \n                      Changes in cl",
+      "tag": "analysis"
+    },
+    {
+      "title": "Astaxanthin exerts neuroprotection against experimental intracerebral hemorrhage in mice: association with anti-neuroinflammation and the Nrf2-ARE pathway",
+      "link": "https://doi.org/10.3389/fneur.2026.1879830",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fneur.2026.1879830\nAuthors: Xingfen Su, Lijin Wu, Fuxiang Chen\n Astaxanthin (ATX) is a dietary carotenoid that possesses potent effects of anti-oxidation, anti-inflammation, and anti-cell death. ATX has neuroprotective properties in a variety of neurological diseases. However, whether ATX has a neuroprotective effect in intracer",
       "tag": "analysis"
     },
     {
@@ -1818,41 +1846,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1007/s40203-026-00699-0",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.1007/s40203-026-00699-0\nAuthors: Govinda Rao Dabburu, Anjali Garg, Anchal Vishnoi, Neelja Singhal, Manish Kumar",
-      "tag": "analysis"
-    },
-    {
-      "title": "The Changing Landscape of Hantavirus Infections: A Narrative Review of Epidemiology, Pathogenesis, and Countermeasures",
-      "link": "https://doi.org/10.1002/rmv.70191",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1002/rmv.70191\nAuthors: Francesco De Maria, Francesco Branda, Giancarlo Ceccarelli, Fabio Scarpa, Massimo Ciccozzi, Alessandro Russo\n ABSTRACT \n                   \n                    Hantaviruses are emerging zoonotic pathogens of increasing global public health significance. Their epidemiological landscape is",
-      "tag": "analysis"
-    },
-    {
-      "title": "Astaxanthin exerts neuroprotection against experimental intracerebral hemorrhage in mice: association with anti-neuroinflammation and the Nrf2-ARE pathway",
-      "link": "https://doi.org/10.3389/fneur.2026.1879830",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fneur.2026.1879830\nAuthors: Xingfen Su, Lijin Wu, Fuxiang Chen\n Astaxanthin (ATX) is a dietary carotenoid that possesses potent effects of anti-oxidation, anti-inflammation, and anti-cell death. ATX has neuroprotective properties in a variety of neurological diseases. However, whether ATX has a neuroprotective effect in intracer",
-      "tag": "analysis"
-    },
-    {
-      "title": "Diagnostic performance of clinical symptom combinations for Crimean-Congo hemorrhagic fever in emergency department patients with reported arthropod bites, stings, or exposure",
-      "link": "https://doi.org/10.1186/s41182-026-01043-0",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s41182-026-01043-0\nAuthors: Yasin Bilgin, Fatih Mehmet Sari, Cemalettin Sakal, Erdem Yakup Cimen, Orhan Tanrıverdi, Abdullah Emre Yurttutan, Umut Devrim Binay",
-      "tag": "analysis"
-    },
-    {
-      "title": "Red Cross and Red Crescent Movement responses to viral hemorrhagic fever outbreaks: A mixedmethod evaluation of information management practices for Safe and Dignified Burials",
-      "link": "https://doi.org/10.14745/ccdr.v52i78a07",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.14745/ccdr.v52i78a07\nAuthors: Douglas Lau, Arwen Barr, Marguerite Gollish, Maria Munoz-Bertrand",
-      "tag": "response"
-    },
-    {
-      "title": "Interventions du Mouvement de la Croix-Rouge et du Croissant-Rouge face aux épidémies de fièvres hémorragiques virales : évaluation par une approche mixte des pratiques de gestion de l’information en matière d’enterrements dignes et sécurisés",
-      "link": "https://doi.org/10.14745/ccdr.v52i78a07f",
-      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
-      "desc": "DOI: 10.14745/ccdr.v52i78a07f\nAuthors: Douglas Lau, Arwen Barr, Marguerite Gollish, Maria Munoz-Bertrand",
       "tag": "analysis"
     },
     {
@@ -1896,6 +1889,13 @@ window.FEED_DATA = {
       "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.31.742066\nAuthors: Hannah L Burge, Shashi P. Singh, Jianyang Wang, Suchitra Pradhan, Katharine M Wood, Joshua W Lee, Silvia A Synowsky, Sally L Shirran, Patrick J Moynihan, Andrew L Lovering, Laura M Machesky, Mark A Jepson, Stephen J Dumler, Ian T Cadby\n The obligate intracellular tick-borne pathogen Anaplasma phagocyt",
       "tag": "analysis"
+    },
+    {
+      "title": "Ebola: DRC outbreak is now “fastest growing in history,” as strikes hinder response",
+      "link": "https://doi.org/10.1136/bmj-2026-100469",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 Z",
+      "desc": "DOI: 10.1136/bmj-2026-100469\nAuthors: Henry Wasswa",
+      "tag": "response"
     }
   ],
   "highWater": {
