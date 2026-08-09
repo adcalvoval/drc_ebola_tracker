@@ -1,7 +1,7 @@
 {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Sun, 09 Aug 2026 12:53:07 Z",
-  "fetchedAt": "2026-08-09T12:53:07Z",
+  "lastBuildDate": "Sun, 09 Aug 2026 15:32:41 Z",
+  "fetchedAt": "2026-08-09T15:32:42Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -98,8 +98,7 @@
         "confirmed": 3973
       },
       "media": {
-        "suspected": 47,
-        "deaths": 5
+        "suspected": 47
       },
       "whoDon": {
         "confirmed": 3605,
@@ -150,6 +149,13 @@
     }
   },
   "items": [
+    {
+      "title": "No Ebola cases found on quarantined river boat, Congo authorities say - Bozeman Daily Chronicle",
+      "link": "https://www.bozemandailychronicle.com/wire/international/no-ebola-cases-found-on-quarantined-river-boat-congo-authorities-say/article_8c51c62c-2684-5916-9890-d3ccbefa4f80.html",
+      "pubDate": "Sun, 09 Aug 2026 14:22:00 Z",
+      "desc": "-- Montana, United States. Significance Rating: 1 No Ebola cases found on quarantined river boat, Congo authorities say&nbsp;&nbsp;Bozeman Daily Chronicle",
+      "tag": "cases"
+    },
     {
       "title": "Living alongside does not always mean knowing: study reveals how the Striped Hyena’s elusive life shapes local perceptions and conservation opportunities",
       "link": "https://www.downtoearth.org.in/wildlife-biodiversity/living-alongside-does-not-always-mean-knowing-study-reveals-how-the-striped-hyenas-elusive-life-shapes-local-perceptions-and-conservation-opportunities",
@@ -1892,13 +1898,6 @@
       "pubDate": "Fri, 31 Jul 2026 13:21:00 Z",
       "desc": "It’s been three years since the World Health Organization declared an end to the COVID-19 public health emergency, but COVID still circulates worldwide. Does that mean the pandemic is still going on, just in a non-emergency phase? Or has COVID become an endemic virus, like the flu? CIDRAP News....",
       "tag": "pheic"
-    },
-    {
-      "title": "Main Cyclosporiasis Outbreak Is Winding Down, But Others Are Emerging",
-      "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-073126/",
-      "pubDate": "Fri, 31 Jul 2026 13:21:00 Z",
-      "desc": "While the largest cyclospora outbreak appears to be winding down, others with unknown sources keep popping up. Cyclospora, a parasite that’s now infamous for causing “explosive” diarrhea, among other symptoms, is often traced back to tainted produce. U.S.",
-      "tag": "analysis"
     }
   ],
   "highWater": {
