@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-06T11:23:46.582643+00:00",
-  "asOf": "2026-08-04",
+  "fetchedAt": "2026-08-10T04:38:51.830142+00:00",
+  "asOf": "2026-08-08",
   "url": "https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/insp_sitrep/processed",
   "drc": {
-    "confirmed": 3973,
-    "deaths": 1801,
-    "recovered": 776,
+    "confirmed": 4209,
+    "deaths": 1916,
+    "recovered": 828,
     "suspected": 270,
     "topHealthZones": {
       "Bunia": 950,
