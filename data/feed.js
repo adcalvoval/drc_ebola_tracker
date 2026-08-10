@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Mon, 10 Aug 2026 04:38:49 Z",
-  "fetchedAt": "2026-08-10T04:38:49Z",
+  "lastBuildDate": "Mon, 10 Aug 2026 07:44:07 Z",
+  "fetchedAt": "2026-08-10T07:44:08Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -98,6 +98,8 @@ window.FEED_DATA = {
         "confirmed": 3973
       },
       "media": {
+        "deaths": 1900,
+        "confirmed": 209,
         "suspected": 47
       },
       "whoDon": {
@@ -149,6 +151,20 @@ window.FEED_DATA = {
     }
   },
   "items": [
+    {
+      "title": "Ébola deja más de 1900 muertos en la RD del Congo",
+      "link": "https://eldiariodeguayana.com.ve/ebola-deja-mas-de-1900-muertos-en-la-rd-del-congo/",
+      "pubDate": "Mon, 10 Aug 2026 07:31:00 Z",
+      "desc": "El brote de ébola que afecta a la República Democrática del Congo (RDC) desde mayo ha dejado 1.916 muertos y 4.209 casos confirmados, informó este domingo el Gobierno congoleño. De acuerdo con el último boletín del Ministerio de Comunicación, elaborado con datos recopilados hasta el 7 de agosto, la tasa de letalidad se sitúa en 45,5 %.",
+      "tag": "cases"
+    },
+    {
+      "title": "La OMS recomienda priorizar el estudio de la vacuna contra el ébola 'Ervebo' ante el brote del Congo",
+      "link": "https://www.consalud.es/pacientes/infecciosas/la-oms-recomienda-priorizar-el-estudio-de-la-vacuna-contra-el-ebola-ervebo-ante-el-brote-del-congo.html",
+      "pubDate": "Mon, 10 Aug 2026 07:08:00 Z",
+      "desc": "El Grupo Asesor Técnico de la Organización Mundial de la Salud ( OMS ) sobre la priorización de vacunas candidatas ( TAG-CVP ) para la respuesta al brote de la enfermedad por el virus de Bundibugyo ha recomendado incluir ' Ervebo ', la única vacuna contra el ébola autorizada, en un ensayo de fase 3....",
+      "tag": "response"
+    },
     {
       "title": "US tightens travel rules for people returning from Ebola-hit regions",
       "link": "https://health.economictimes.indiatimes.com/news/industry/us-tightens-travel-rules-for-people-returning-from-ebola-hit-regions/133077564",
@@ -360,13 +376,6 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Notre action | Santé publique France",
-      "link": "https://www.santepubliquefrance.fr/hantavirus/notre-action",
-      "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
-      "desc": "Documents de prévention\n                          \n                      \n        \n              \n        \n          \n            Odissé",
-      "tag": "analysis"
-    },
-    {
       "title": "A total infectome framework for resolving complex disease etiology in aquaculture",
       "link": "https://doi.org/10.1007/s44307-026-00125-8",
       "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
@@ -399,6 +408,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.62599/pp_ss_3268.1",
       "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.62599/pp_ss_3268.1",
+      "tag": "analysis"
+    },
+    {
+      "title": "Notre action | Santé publique France",
+      "link": "https://www.santepubliquefrance.fr/hantavirus/notre-action",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
+      "desc": "Documents de prévention\n                          \n                      \n        \n              \n        \n          \n            Odissé",
       "tag": "analysis"
     },
     {
@@ -570,31 +586,10 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "SUC–PINNs: A physics-informed neural networks approach to inverse problems in epidemic models with partial observability",
-      "link": "https://doi.org/10.1142/s1793962326500431",
-      "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1142/s1793962326500431\nAuthors: Utti M. Rifanti, Nanang Susyanto, Ratinan Boonklurb\n Partially observed epidemic systems are difficult to analyze because confirmed cases provide only an indirect view of transmission and hidden infections are usually unobserved. We consider the susceptible–unidentified infected–confirmed (SUC) epidemi",
-      "tag": "cases"
-    },
-    {
       "title": "Successful management of a secondary aorto-duodenal fistula with an infected prosthesis and hemorrhagic shock",
       "link": "https://doi.org/10.1097/rc9.0000000000000829",
       "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.1097/rc9.0000000000000829\nAuthors: Amine Sebai, Souhaib Atri, Mahdi Hammami, Mohamed Elleuch, Anis Haddad, Montassar Kacem\n \n                     Introduction: \n                     Secondary aortoenteric fistula is a rare but life-threatening complication of aortic reconstructive surgery. It typically",
-      "tag": "analysis"
-    },
-    {
-      "title": "High-Specificity Detection of Chromosomal Mosaicism Reveals Cell-Type-Specific Genomic Alteration Patterns in Aging Tissues",
-      "link": "https://doi.org/10.64898/2026.08.02.741928",
-      "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.08.02.741928\nAuthors: Chen, X. E.; Wang, H.; Yang, Y.; Teneche, M. G.; Adams, P. D.; Wilson, P.; Zhang, N.\nMosaic chromosomal alterations (mCAs) increase with age and are associated with multiple diseases, yet the cell types and states that harbor these alterations remain largely unknown. Because mCAs arise in individual cells pr",
-      "tag": "analysis"
-    },
-    {
-      "title": "On the 50th year responding to Ebola: mapping diagnostic, vaccine, and therapeutic gaps across ebolavirus species",
-      "link": "https://doi.org/10.1007/s11684-026-1265-4",
-      "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1007/s11684-026-1265-4\nAuthors: Jiahui Si, Jiachun Cai, Junhui Zhou, Lili Wang, George F. Gao, Jun Liu",
       "tag": "analysis"
     },
     {
@@ -605,10 +600,10 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "IGF2BP3 amplifies antiviral innate immunity with implications for autoimmune diseases",
-      "link": "https://doi.org/10.64898/2026.08.01.742171",
+      "title": "On the 50th year responding to Ebola: mapping diagnostic, vaccine, and therapeutic gaps across ebolavirus species",
+      "link": "https://doi.org/10.1007/s11684-026-1265-4",
       "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.08.01.742171\nAuthors: Ao Zhang, Shijin Geng, Rong-Chun Tang, Hengxiang Yu, Yunxuan Zhou, Lan Zhang, Xiuyuan Sun, Jun Zhang\n The insulin-like growth factor 2 mRNA-binding protein 3 (IGF2BP3) is a known N6-methyladenosine (m6A) reader, but its role in antiviral innate immunity is unknown. Here, we identify IGF2BP3 as a criti",
+      "desc": "DOI: 10.1007/s11684-026-1265-4\nAuthors: Jiahui Si, Jiachun Cai, Junhui Zhou, Lili Wang, George F. Gao, Jun Liu",
       "tag": "analysis"
     },
     {
@@ -629,6 +624,20 @@ window.FEED_DATA = {
       "title": "High-Specificity Detection of Chromosomal Mosaicism Reveals Cell-Type-Specific Genomic Alteration Patterns in Aging Tissues",
       "link": "https://doi.org/10.64898/2026.08.02.741928",
       "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.08.02.741928\nAuthors: Chen, X. E.; Wang, H.; Yang, Y.; Teneche, M. G.; Adams, P. D.; Wilson, P.; Zhang, N.\nMosaic chromosomal alterations (mCAs) increase with age and are associated with multiple diseases, yet the cell types and states that harbor these alterations remain largely unknown. Because mCAs arise in individual cells pr",
+      "tag": "analysis"
+    },
+    {
+      "title": "IGF2BP3 amplifies antiviral innate immunity with implications for autoimmune diseases",
+      "link": "https://doi.org/10.64898/2026.08.01.742171",
+      "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.08.01.742171\nAuthors: Ao Zhang, Shijin Geng, Rong-Chun Tang, Hengxiang Yu, Yunxuan Zhou, Lan Zhang, Xiuyuan Sun, Jun Zhang\n The insulin-like growth factor 2 mRNA-binding protein 3 (IGF2BP3) is a known N6-methyladenosine (m6A) reader, but its role in antiviral innate immunity is unknown. Here, we identify IGF2BP3 as a criti",
+      "tag": "analysis"
+    },
+    {
+      "title": "High-Specificity Detection of Chromosomal Mosaicism Reveals Cell-Type-Specific Genomic Alteration Patterns in Aging Tissues",
+      "link": "https://doi.org/10.64898/2026.08.02.741928",
+      "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.08.02.741928\nAuthors: Xinyi E. Chen, Hanzhi Wang, Yilin Yang, Marcos Garcia Teneche, Peter D. Adams, Parker Wilson, Nancy Zhang\n Mosaic chromosomal alterations (mCAs) increase with age and are associated with multiple diseases, yet the cell types and states that harbor these alterations remain largely unknown. Because mCAs",
       "tag": "analysis"
     },
@@ -638,6 +647,13 @@ window.FEED_DATA = {
       "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10596571/v1\nAuthors: Shadrack Frimpong, Yoeku Sam, Moro Seidu, Newlove Nkegbe, Elijah Paintsil\n Abstract \n                 \n                   Background: \n                  Common diseases such as chronic kidney disease, asthma, and pulmonary fibrosis may be missed, misclassified, or assigned an inco",
       "tag": "analysis"
+    },
+    {
+      "title": "SUC–PINNs: A physics-informed neural networks approach to inverse problems in epidemic models with partial observability",
+      "link": "https://doi.org/10.1142/s1793962326500431",
+      "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1142/s1793962326500431\nAuthors: Utti M. Rifanti, Nanang Susyanto, Ratinan Boonklurb\n Partially observed epidemic systems are difficult to analyze because confirmed cases provide only an indirect view of transmission and hidden infections are usually unobserved. We consider the susceptible–unidentified infected–confirmed (SUC) epidemi",
+      "tag": "cases"
     },
     {
       "title": "Uptake of at-home self-collected dried blood spots for HIV, hepatitis C and syphilis screening among Māori gay, bisexual and other men who have sex with men in Aotearoa New Zealand: an observational epidemiological study",
@@ -836,20 +852,6 @@ window.FEED_DATA = {
       "tag": "response"
     },
     {
-      "title": "Bundibugyo Virus Disease in 2026: Clinical and Public Health Responses",
-      "link": "https://doi.org/10.1097/inf.0000000000005359",
-      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/inf.0000000000005359\nAuthors: Robert J. Leggiadro",
-      "tag": "response"
-    },
-    {
-      "title": "Point-of-care routine laboratory testing for patients with suspected viral hemorrhagic fevers",
-      "link": "https://doi.org/10.1017/ash.2026.10817",
-      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1017/ash.2026.10817\nAuthors: Anne Liston Sullivan, Jessica L. Jacobson, Priya Dhagat, Madeline DiLorenzo, Florence Douyon, Jamie Figueredo, Matthew Harris, Dana Mazo, Jeffrey Pacheco, Gregory Weston, Justin Chan\n Abstract \n                   When a suspected viral hemorrhagic fever (VHF) case presents to a heal",
-      "tag": "cases"
-    },
-    {
       "title": "Broad-Spectrum Multi-Epitope Design Targeting Conserved Hantavirus Glycoproteins (Gn/Gc): Chimeric Antigen Engineering and Structural Mapping",
       "link": "https://doi.org/10.3390/ijms27157021",
       "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
@@ -869,6 +871,20 @@ window.FEED_DATA = {
       "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.3389/fped.2026.1868060\nAuthors: Shihua Liu, Shaoning Wang, Jian Li\n \n                     Purpose \n                     Infectious diseases constitute the predominant cause of fever of unknown origin (FUO). Conventional microbiological testing is limited by prolonged turnaround times, susceptibility to",
       "tag": "analysis"
+    },
+    {
+      "title": "Bundibugyo Virus Disease in 2026: Clinical and Public Health Responses",
+      "link": "https://doi.org/10.1097/inf.0000000000005359",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1097/inf.0000000000005359\nAuthors: Robert J. Leggiadro",
+      "tag": "response"
+    },
+    {
+      "title": "Point-of-care routine laboratory testing for patients with suspected viral hemorrhagic fevers",
+      "link": "https://doi.org/10.1017/ash.2026.10817",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1017/ash.2026.10817\nAuthors: Anne Liston Sullivan, Jessica L. Jacobson, Priya Dhagat, Madeline DiLorenzo, Florence Douyon, Jamie Figueredo, Matthew Harris, Dana Mazo, Jeffrey Pacheco, Gregory Weston, Justin Chan\n Abstract \n                   When a suspected viral hemorrhagic fever (VHF) case presents to a heal",
+      "tag": "cases"
     },
     {
       "title": "EP 631 Who Benefits from Incisional Negative Pressure Wound Therapy after Emergency Laparotomy? Research Gaps, Unmet Needs, and a Proposed Reporting Framework",
@@ -1102,6 +1118,34 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Brachyspira hyodysenteriae detected in a dog with acute haemorrhagic diarrhoea: a case report",
+      "link": "https://doi.org/10.1186/s12917-026-05764-6",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s12917-026-05764-6\nAuthors: Hyeji Jeong, Hyojin An, Doo-sung Cheon, Won-Kyoung Yoon, Yein Oh\n Abstract \n                   \n                     Background \n                     \n                       Brachyspira hyodysenteriae",
+      "tag": "analysis"
+    },
+    {
+      "title": "Cerebrospinal fluid opening pressure in relation to symptomatology and craniocervical anatomy in patients with myalgic encephalomyelitis/chronic fatigue syndrome",
+      "link": "https://doi.org/10.3389/fmed.2026.1869714",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.3389/fmed.2026.1869714\nAuthors: C. Jolley, B. Bragée, L. Soinne, H. Huhmar, H. Billing, B. Bertilson, P. Sjogren\n \n                     Background \n                     Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a debilitating disease that affects millions worldwide. Its cause remai",
+      "tag": "analysis"
+    },
+    {
+      "title": "Progressive Neuroinvasive and Neurodegenerative Disease Due to Potosi Virus in an Immunosuppressed Adult",
+      "link": "https://doi.org/10.21203/rs.3.rs-9935321/v1",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-9935321/v1\nAuthors: Julian Villalba, Emily Davis, Kunio Nakamura, Justin Abbatemarco, Kara Swenson, Amanda Calvert, Carolyn Gould, Jennifer Kasten, Mark Cohen, Paola Loreto-Palacio, Georgia Ficarra, Tengguo Li, Sheryll Corchuelo-Chavarro, Pamela Fair, Marlene DeLeon-Carnes, Brooke Leitgeb, Kimberly Machesky, Carlos Isada, Hann",
+      "tag": "analysis"
+    },
+    {
+      "title": "Efficient colonic colonization by Campylobacter jejuni requires the heme receptor ChuA",
+      "link": "https://doi.org/10.64898/2026.08.04.742739",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.08.04.742739\nAuthors: Binita Baral, Madison L Bunch, Emily L. Roberts, Vincent R Randaisi, Wyatt W Wittliff, William Beavers, Andrew J Monteith, David K. Meyerholz, Jeremiah Johnson\n Previous research demonstrated that Campylobacter jejuni encodes a heme utilization system that facilitates heme-dependent growth under iron-",
+      "tag": "analysis"
+    },
+    {
       "title": "Loss of the Coronary Artery Disease Risk Gene <i>LMOD1</i> in Vascular Smooth Muscle Cells Triggers Rapid-Onset Coronary Atherosclerosis",
       "link": "https://doi.org/10.1161/circulationaha.126.080105",
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
@@ -1134,34 +1178,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.1111/all.70452",
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.1111/all.70452\nAuthors: Friederike Bärhold, Jan Hagemann, Eugenio de Corso, Anna Sophie Hoffmann, Feifei Zhu, Patrick Huber, Moritz Gröger, Ulrike Förster‐Ruhrmann, Sietze Reitsma, Ludger Klimek\n ABSTRACT \n                   \n                     Background",
-      "tag": "analysis"
-    },
-    {
-      "title": "Brachyspira hyodysenteriae detected in a dog with acute haemorrhagic diarrhoea: a case report",
-      "link": "https://doi.org/10.1186/s12917-026-05764-6",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s12917-026-05764-6\nAuthors: Hyeji Jeong, Hyojin An, Doo-sung Cheon, Won-Kyoung Yoon, Yein Oh\n Abstract \n                   \n                     Background \n                     \n                       Brachyspira hyodysenteriae",
-      "tag": "analysis"
-    },
-    {
-      "title": "Cerebrospinal fluid opening pressure in relation to symptomatology and craniocervical anatomy in patients with myalgic encephalomyelitis/chronic fatigue syndrome",
-      "link": "https://doi.org/10.3389/fmed.2026.1869714",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.3389/fmed.2026.1869714\nAuthors: C. Jolley, B. Bragée, L. Soinne, H. Huhmar, H. Billing, B. Bertilson, P. Sjogren\n \n                     Background \n                     Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a debilitating disease that affects millions worldwide. Its cause remai",
-      "tag": "analysis"
-    },
-    {
-      "title": "Progressive Neuroinvasive and Neurodegenerative Disease Due to Potosi Virus in an Immunosuppressed Adult",
-      "link": "https://doi.org/10.21203/rs.3.rs-9935321/v1",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-9935321/v1\nAuthors: Julian Villalba, Emily Davis, Kunio Nakamura, Justin Abbatemarco, Kara Swenson, Amanda Calvert, Carolyn Gould, Jennifer Kasten, Mark Cohen, Paola Loreto-Palacio, Georgia Ficarra, Tengguo Li, Sheryll Corchuelo-Chavarro, Pamela Fair, Marlene DeLeon-Carnes, Brooke Leitgeb, Kimberly Machesky, Carlos Isada, Hann",
-      "tag": "analysis"
-    },
-    {
-      "title": "Efficient colonic colonization by Campylobacter jejuni requires the heme receptor ChuA",
-      "link": "https://doi.org/10.64898/2026.08.04.742739",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.08.04.742739\nAuthors: Binita Baral, Madison L Bunch, Emily L. Roberts, Vincent R Randaisi, Wyatt W Wittliff, William Beavers, Andrew J Monteith, David K. Meyerholz, Jeremiah Johnson\n Previous research demonstrated that Campylobacter jejuni encodes a heme utilization system that facilitates heme-dependent growth under iron-",
       "tag": "analysis"
     },
     {
@@ -1438,13 +1454,6 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "A streamlined visual RT-RAA-CRISPR/Cas12a assay for rapid detection of Schmallenberg virus",
-      "link": "https://doi.org/10.1186/s44149-026-00263-5",
-      "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s44149-026-00263-5\nAuthors: Ziyang Han, Yujie Bai, Pei Huang, Hao Li, Boyi Li, Zimo Zhang, Jiamei Huang, Kaikai Jin, Hualei Wang, Hongli Jin, Haili Zhang\n Abstract \n                   \n                    Schmallenberg virus (SBV), an emerging Culicoides‑borne arbovirus, is responsible for febrile illness",
-      "tag": "analysis"
-    },
-    {
       "title": "Early Childhood-Onset Vanishing White Matter Disease with Unusual MR Spectroscopy Pattern in a Toddler",
       "link": "https://doi.org/10.1055/s-0046-1827180",
       "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
@@ -1459,17 +1468,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Functional changes in the rhizosphere microbiome during rebiosis",
-      "link": "https://doi.org/10.21203/rs.3.rs-9813698/v1",
-      "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-9813698/v1\nAuthors: Ruth Gómez-Expósito, Irene de Bruijn, Luisa M. Arias-Giraldo, Luc F.M. Rouws, Allison L. H. Jack, Mariana Avalos, Joeke Postma, Jos M. Raaijmakers\n Abstract \n                 \n                   Background \n                  Soil-borne fungal pathogens are major yield-limiting fact",
-      "tag": "analysis"
-    },
-    {
       "title": "Ebola responders persevere in the DRC as Uganda nears end of outbreak",
       "link": "https://doi.org/10.66709/news-325162",
       "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.66709/news-325162\nAuthors: Elodie Toto",
+      "tag": "analysis"
+    },
+    {
+      "title": "A streamlined visual RT-RAA-CRISPR/Cas12a assay for rapid detection of Schmallenberg virus",
+      "link": "https://doi.org/10.1186/s44149-026-00263-5",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s44149-026-00263-5\nAuthors: Ziyang Han, Yujie Bai, Pei Huang, Hao Li, Boyi Li, Zimo Zhang, Jiamei Huang, Kaikai Jin, Hualei Wang, Hongli Jin, Haili Zhang\n Abstract \n                   \n                    Schmallenberg virus (SBV), an emerging Culicoides‑borne arbovirus, is responsible for febrile illness",
       "tag": "analysis"
     },
     {
@@ -1505,6 +1514,13 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.21203/rs.3.rs-10499279/v1",
       "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.21203/rs.3.rs-10499279/v1\nAuthors: Miranda de Graaf, Nathalie Worp, Putri Fajar, David Nieuwenhuijse, Claudia Schapendonk, Divyae Prasad, Christian Brinch, Emilie Egholm Bruun Jensen, Patrick Munk, Saria Otani, Ray William Izquierdo Lara, Erin Hulland, Stefan Geilvoet, Rene Hendriksen, Daniel Remondini, Istvan Csabai, Frank Aarestrup, Bas O",
+      "tag": "analysis"
+    },
+    {
+      "title": "Functional changes in the rhizosphere microbiome during rebiosis",
+      "link": "https://doi.org/10.21203/rs.3.rs-9813698/v1",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.21203/rs.3.rs-9813698/v1\nAuthors: Ruth Gómez-Expósito, Irene de Bruijn, Luisa M. Arias-Giraldo, Luc F.M. Rouws, Allison L. H. Jack, Mariana Avalos, Joeke Postma, Jos M. Raaijmakers\n Abstract \n                 \n                   Background \n                  Soil-borne fungal pathogens are major yield-limiting fact",
       "tag": "analysis"
     },
     {
@@ -1884,20 +1900,6 @@ window.FEED_DATA = {
       "pubDate": "Fri, 31 Jul 2026 16:34:00 Z",
       "desc": "Weekly epidemiological record No. 29, 2026, 101, 122 http://www.who.int/wer 24 July 2026 Contents 122. Highlighted Signals and Events 123. Global Dengue Update 127. Summary of the 41st Meeting of the International Task Force for Disease Eradication: Elimination of Trachoma as a Public Health Problem....",
       "tag": "analysis"
-    },
-    {
-      "title": "RDC: éclipsée par Ebola, l'épidémie de choléra fait déjà 3124 morts dans 16 provinces - actualite.cd",
-      "link": "https://actualite.cd/2026/07/30/rdc-eclipsee-par-ebola-lepidemie-de-cholera-fait-deja-3124-morts-dans-16-provinces",
-      "pubDate": "Fri, 31 Jul 2026 16:22:00 Z",
-      "desc": "Ebola -- DR Congo. Significance Rating: 4 RDC: éclipsée par Ebola, l'épidémie de choléra fait déjà 3124 morts dans 16 provinces&nbsp;&nbsp;actualite.cd",
-      "tag": "analysis"
-    },
-    {
-      "title": "Marburg Virus Disease (MVD): a rapid systematic review with narrative synthesis of epidemiology, clinical presentation, diagnostics, management, and public-health response",
-      "link": "https://link.springer.com/article/10.1186/s12879-026-13959-3",
-      "pubDate": "Fri, 31 Jul 2026 16:20:00 Z",
-      "desc": "Marburg virus (MARV) is responsible for a severe viral hemorrhagic fever characterized by high case-fatality rates and epidemic potential. Recent outbreaks from 2021 to 2025 across various African nations have brought renewed global focus. We conducted a focused search across PubMed/PMC, WHO, CDC,....",
-      "tag": "response"
     }
   ],
   "highWater": {
