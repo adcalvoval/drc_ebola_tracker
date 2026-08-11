@@ -14,6 +14,7 @@ import os
 import re
 import subprocess
 import sys
+import time
 from datetime import datetime, timezone, timedelta
 from urllib.request import urlopen, Request
 from urllib.error import URLError
@@ -52,10 +53,19 @@ _Q = (
 )
 
 
-def fetch(url):
+def fetch(url, retries=3, backoff=5):
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    with urlopen(req, timeout=30) as resp:
-        return resp.read()
+    last_err = None
+    for attempt in range(1, retries + 1):
+        try:
+            with urlopen(req, timeout=30) as resp:
+                return resp.read()
+        except (URLError, OSError) as e:
+            last_err = e
+            if attempt < retries:
+                print(f'Fetch attempt {attempt} failed ({e}), retrying in {backoff}s...')
+                time.sleep(backoff)
+    raise last_err
 
 
 def strip_html(text):
