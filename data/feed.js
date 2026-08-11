@@ -1,7 +1,7 @@
 window.FEED_DATA = {
   "feedTitle": "EIOS - Epidemic Intelligence from Open Source - RSS Feed",
-  "lastBuildDate": "Tue, 11 Aug 2026 07:10:18 Z",
-  "fetchedAt": "2026-08-11T07:10:19Z",
+  "lastBuildDate": "Tue, 11 Aug 2026 10:01:15 Z",
+  "fetchedAt": "2026-08-11T10:01:15Z",
   "itemCount": 250,
   "stats": {
     "drc": {
@@ -148,6 +148,20 @@ window.FEED_DATA = {
   },
   "items": [
     {
+      "title": "Ebola deaths surpass 2,000 in Democratic Republic of Congo - SRN News",
+      "link": "https://srnnews.com/ebola-deaths-surpass-2000-in-democratic-republic-of-congo/",
+      "pubDate": "Tue, 11 Aug 2026 09:22:00 Z",
+      "desc": "-- DR Congo. Significance Rating: 1 Ebola deaths surpass 2,000 in Democratic Republic of Congo&nbsp;&nbsp;SRN News",
+      "tag": "cases"
+    },
+    {
+      "title": "Congo Says 2,000 People Have Died in Its Ebola Outbreak, the Fastest Growing on Record - ASHARQ AL-AWSAT English",
+      "link": "https://english.aawsat.com/world/5305667-congo-says-2000-people-have-died-its-ebola-outbreak-fastest-growing-record",
+      "pubDate": "Tue, 11 Aug 2026 09:22:00 Z",
+      "desc": "-- Alabama, United States. Significance Rating: 1 Congo Says 2,000 People Have Died in Its Ebola Outbreak, the Fastest Growing on Record&nbsp;&nbsp;ASHARQ AL-AWSAT English",
+      "tag": "analysis"
+    },
+    {
       "title": "Study finds MRV, PAdV present but low risk in U.S. pigs",
       "link": "https://www.farms.com/news/study-finds-mrv-padv-present-but-low-risk-in-u-s-pigs-245557.aspx",
       "pubDate": "Tue, 11 Aug 2026 03:33:00 Z",
@@ -167,6 +181,20 @@ window.FEED_DATA = {
       "pubDate": "Tue, 11 Aug 2026 03:13:00 Z",
       "desc": "A recent Eurosurveillance journal study conducted a rapid review of evidence on the associations between heavy rainfall and flooding events and the occurrence of infectious diseases in Europe, using articles published between 2018 and 2025 and reporting preparedness and response measures. Infectious Disease Risks and Flooding in Europe.",
       "tag": "response"
+    },
+    {
+      "title": "Fatal infantile encephalopathy due to NAXE variant: Navigating the Metabolic-Mitochondrial overlap in NAXE gene",
+      "link": "https://doi.org/10.1007/s44162-026-00226-x",
+      "pubDate": "Tue, 11 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1007/s44162-026-00226-x\nAuthors: Preeti Joon, Kathirvel M, BD Charan, Kuldeep Singh, Dangeti Sowmya Sri, Tanuja Rajial, Vinod Chaudhary\n Abstract \n                   \n                     Background \n                     \n                      Progressive Encephalopathy with Brai",
+      "tag": "analysis"
+    },
+    {
+      "title": "The Intervention Effects of Common Dietary Patterns on Polycystic Ovary Syndrome",
+      "link": "https://doi.org/10.70267/shbe.2026139144",
+      "pubDate": "Tue, 11 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.70267/shbe.2026139144\nAuthors: Yezhen Wu\n The intervention effects of common dietary patterns on poly-cystic ovary syndrome (PCOS) are a common endocrine and metabolic disease in women of reproductive age with symptoms such as insulin resistance (IR), hyperandrogenemia, infertility, and so on. In recent years, the incidence rate of P",
+      "tag": "analysis"
     },
     {
       "title": "WHO: Ebola outbreak began in February, deaths near 2,000",
@@ -197,17 +225,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Viewpoints: Why Question Fauci When China Has The Covid Answers?; Peptides Shouldn't Bypass Regulations",
-      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-why-question-fauci-when-china-has-the-covid-answers-peptides-shouldnt-bypass-regulations/",
-      "pubDate": "Mon, 10 Aug 2026 13:14:00 Z",
-      "desc": "The Senate committee hearings last week on the origins of the Covid-19 pandemic presented a master class in political distraction from what is important for the nation’s public health. And Thursday the committee held Anthony Fauci in contempt of Congress for invoking his Fifth Amendment defense to a....",
-      "tag": "analysis"
-    },
-    {
       "title": "Taylor Farms Recalls Products Containing Jalapeños Over Salmonella Fears",
       "link": "https://kffhealthnews.org/morning-breakout/outbreaks-and-health-threats-081026/",
       "pubDate": "Mon, 10 Aug 2026 13:14:00 Z",
       "desc": "Taylor Farms is pulling more than a dozen prepared food items containing jalapeños, including salsas and guacamole, from retailers due to concerns over salmonella, just weeks after federal health officials tied the produce company to a separate outbreak of cyclospora. (Rivera and Peterson, 8/9)\n\nHealth Secretary Robert.",
+      "tag": "analysis"
+    },
+    {
+      "title": "Viewpoints: Why Question Fauci When China Has The Covid Answers?; Peptides Shouldn't Bypass Regulations",
+      "link": "https://kffhealthnews.org/morning-breakout/viewpoints-why-question-fauci-when-china-has-the-covid-answers-peptides-shouldnt-bypass-regulations/",
+      "pubDate": "Mon, 10 Aug 2026 13:14:00 Z",
+      "desc": "The Senate committee hearings last week on the origins of the Covid-19 pandemic presented a master class in political distraction from what is important for the nation’s public health. And Thursday the committee held Anthony Fauci in contempt of Congress for invoking his Fifth Amendment defense to a....",
       "tag": "analysis"
     },
     {
@@ -288,10 +316,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Evidence for the acquisition of a proteorhodopsin-like rhodopsin by a chrysophyte-infecting giant virus",
-      "link": "https://doi.org/10.1128/jvi.00520-26",
+      "title": "Screen‐Detected Coeliac Disease in a Nationally Representative Cohort: Health Indicators, Long‐Term Outcomes and Mortality",
+      "link": "https://doi.org/10.1111/apt.70917",
       "pubDate": "Mon, 10 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1128/jvi.00520-26\nAuthors: Petra Byl, Christopher R. Schvarcz, Julie Thomy, Qian Li, Cori B. Williams, Kurt LaButti, Frederik Schulz, Kyle F. Edwards, Grieg F. Steward\n ABSTRACT \n                   \n                     \n                     \n                      Chrysophytes are nanoflage",
+      "desc": "DOI: 10.1111/apt.70917\nAuthors: Iida Ahonen, Kalle Kurppa, Heini Huhtala, Katri Kaukinen, Laura Kivelä, Juha Taavela\n ABSTRACT \n                   \n                     Background \n                     Population‐based screening for coeliac disease could reduce underdiagnosis, but benefi",
       "tag": "analysis"
     },
     {
@@ -309,10 +337,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Screen‐Detected Coeliac Disease in a Nationally Representative Cohort: Health Indicators, Long‐Term Outcomes and Mortality",
-      "link": "https://doi.org/10.1111/apt.70917",
+      "title": "Evidence for the acquisition of a proteorhodopsin-like rhodopsin by a chrysophyte-infecting giant virus",
+      "link": "https://doi.org/10.1128/jvi.00520-26",
       "pubDate": "Mon, 10 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/apt.70917\nAuthors: Iida Ahonen, Kalle Kurppa, Heini Huhtala, Katri Kaukinen, Laura Kivelä, Juha Taavela\n ABSTRACT \n                   \n                     Background \n                     Population‐based screening for coeliac disease could reduce underdiagnosis, but benefi",
+      "desc": "DOI: 10.1128/jvi.00520-26\nAuthors: Petra Byl, Christopher R. Schvarcz, Julie Thomy, Qian Li, Cori B. Williams, Kurt LaButti, Frederik Schulz, Kyle F. Edwards, Grieg F. Steward\n ABSTRACT \n                   \n                     \n                     \n                      Chrysophytes are nanoflage",
+      "tag": "analysis"
+    },
+    {
+      "title": "Quantitative polymerase chain reaction from malaria rapid diagnostic tests to detect Borrelia crocidurae in Mali",
+      "link": "https://doi.org/10.1371/journal.pntd.0014033",
+      "pubDate": "Mon, 10 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.pntd.0014033\nAuthors: Pascal Dembélé, Adama Zan Diarra, Papa Mouhamadou Gaye, Armel Joseph Agokeng Dongmo, Li Bing, Mahamadou Ali Thera, Stéphane Ranque\n \n                     Background \n                     \n                      Tick-borne relapsing fever (TBRF) is caused by",
       "tag": "analysis"
     },
     {
@@ -323,10 +358,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Quantitative polymerase chain reaction from malaria rapid diagnostic tests to detect Borrelia crocidurae in Mali",
-      "link": "https://doi.org/10.1371/journal.pntd.0014033",
+      "title": "Reduced Circulating Angiopoietin‐Like Protein Levels in Crimean‐Congo Hemorrhagic Fever",
+      "link": "https://doi.org/10.1111/apm.70246",
       "pubDate": "Mon, 10 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.pntd.0014033\nAuthors: Pascal Dembélé, Adama Zan Diarra, Papa Mouhamadou Gaye, Armel Joseph Agokeng Dongmo, Li Bing, Mahamadou Ali Thera, Stéphane Ranque\n \n                     Background \n                     \n                      Tick-borne relapsing fever (TBRF) is caused by",
+      "desc": "DOI: 10.1111/apm.70246\nAuthors: Sümeyye Yeşildağ, Seyit Ali Büyüktuna, Caner Öksüz, Halef Okan Doğan\n ABSTRACT \n                   Crimean‐Congo Hemorrhagic Fever (CCHF) is a life‐threatening zoonotic viral disease characterized by endothelial dysfunction, coagulopathy, and systemic inflammation. Angiopoietin‐like prot",
       "tag": "analysis"
     },
     {
@@ -358,17 +393,24 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Report: Biohack, Anti-Ebola Hypothesis 1: PDEV-to-macrophage siRNA targeting VP40Load the plant vesicles with synthetic siRNAs designed to silence VP40 transcription directly inside the macrophage.Exploration of dietary, pharmacological, and repurposed solutions to achieve this. - PathMap Publication #000114",
-      "link": "https://openalex.org/W7202024046",
-      "pubDate": "Sun, 09 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.5281/zenodo.21863475\nAuthors: Joshua Dungan\nPathMap Literature Based Discovery Engine Publication Report This report was generated by PathMap. The underlying dataset and raw JSON traces can be found at the related Dataset DOI: 10.5281/zenodo.21863474 For more publications, datasets, and custom research, and other opportunities visit PathMap",
-      "tag": "analysis"
-    },
-    {
       "title": "Report: Ebola Virus Outbreak Solution Hypothesis: Oral ginger-derived extracellular vesicles may serve as an acid-stable, inexpensive, and supply-chain ready clinical solution to deliver 6-shogaol to macrophages, triggering CASA autophagy to degrade EBOV VP40 and halt viral egress. - PathMap Publication #000115",
       "link": "https://openalex.org/W7202040866",
       "pubDate": "Sun, 09 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.5281/zenodo.21863553\nAuthors: Joshua Dungan\nPathMap Literature Based Discovery Engine Publication Report This report was generated by PathMap. The underlying dataset and raw JSON traces can be found at the related Dataset DOI: 10.5281/zenodo.21863549 For more publications, datasets, and custom research, and other opportunities visit PathMap",
+      "tag": "analysis"
+    },
+    {
+      "title": "Evolution of the proinflammatory receptor TREM-1 in mammals reveals signatures of pathogen-driven conflict",
+      "link": "https://doi.org/10.64898/2026.08.05.743136",
+      "pubDate": "Sun, 09 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.64898/2026.08.05.743136\nAuthors: Aleru, O.; Bunn, K. E.; Barber, M. F.\nAnimal immune cells express a range of surface receptors that promote the detection of diverse host and pathogen-derived molecules. The triggering receptors expressed on myeloid cells (TREMs) encompass a family of cell surface receptors involved in the modulation of immu",
+      "tag": "analysis"
+    },
+    {
+      "title": "Report: Biohack, Anti-Ebola Hypothesis 1: PDEV-to-macrophage siRNA targeting VP40Load the plant vesicles with synthetic siRNAs designed to silence VP40 transcription directly inside the macrophage.Exploration of dietary, pharmacological, and repurposed solutions to achieve this. - PathMap Publication #000114",
+      "link": "https://openalex.org/W7202024046",
+      "pubDate": "Sun, 09 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.5281/zenodo.21863475\nAuthors: Joshua Dungan\nPathMap Literature Based Discovery Engine Publication Report This report was generated by PathMap. The underlying dataset and raw JSON traces can be found at the related Dataset DOI: 10.5281/zenodo.21863474 For more publications, datasets, and custom research, and other opportunities visit PathMap",
       "tag": "analysis"
     },
     {
@@ -610,17 +652,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "A Diagnostic Challenge in Polysubstance Use: Nitrous Oxide–induced Neurological Toxicity Masked by Alcohol Withdrawal—A Case Report",
-      "link": "https://openalex.org/W7201884681",
-      "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1097/cxa.0000000000000281\nAuthors: Lucy Doan, Leisha Hawker, Caroline Racz\nABSTRACT Background: Recreational nitrous oxide use is increasing, causing functional vitamin B 12 deficiency and neurological complications that may be overlooked in complex clinical presentations. Case presentation: A 26-year-old male with alcohol use disorder pres",
-      "tag": "analysis"
-    },
-    {
       "title": "T-cell immunoglobulin and mucin domain 1 and transmembrane serine protease 2 synergistically enhance entry of a bat-derived merbecovirus",
       "link": "https://www.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.002299?TRACK=RSS",
       "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
       "desc": "info \nInfo \n\n\n\n\n\n\n\n\nArticle information \n\n\n\n\n\n\n\n\nFull-Text \n\n\n\n\n\n\n\n\n\nFigures and Tables \n\n\n\n\n\n\n\n\n\nReferences \n(21)\n\n\n\n\n\n\n\n\n\nCited By \n\n\n\n\n\n\n\n\n\nSupplementary Material \n\n\n\n\n\n\n\n\n\nMetrics \n\n\n\n\n \n\n\n\nlist\nSections\n\nTOPABSTRACTAbbreviationsIntroductionMethodsResultsDiscussionFunding informationAcknowledgementConflicts of interestReferences",
+      "tag": "analysis"
+    },
+    {
+      "title": "A Diagnostic Challenge in Polysubstance Use: Nitrous Oxide–induced Neurological Toxicity Masked by Alcohol Withdrawal—A Case Report",
+      "link": "https://openalex.org/W7201884681",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1097/cxa.0000000000000281\nAuthors: Lucy Doan, Leisha Hawker, Caroline Racz\nABSTRACT Background: Recreational nitrous oxide use is increasing, causing functional vitamin B 12 deficiency and neurological complications that may be overlooked in complex clinical presentations. Case presentation: A 26-year-old male with alcohol use disorder pres",
       "tag": "analysis"
     },
     {
@@ -629,20 +671,6 @@ window.FEED_DATA = {
       "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.1371/journal.pntd.0014623\nAuthors: David M. Brett-Major\n A Public Health Emergency of International Concern (PHEIC) has been declared in the Democratic Republic of Congo (DRC) due to Ebola disease from Bundibugyo virus. Non-health-focused factors should be fundamental to how DRC and its partners respond to and recover from the curren",
       "tag": "pheic"
-    },
-    {
-      "title": "A participatory expert-based risk assessment to inform zoonotic disease surveillance in Cameroon: the case of Ebola virus disease and Rift Valley fever",
-      "link": "https://doi.org/10.1186/s42522-026-00232-5",
-      "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s42522-026-00232-5\nAuthors: Inès Sopbué Kamguem, Nathalie Kirschvink, Nicolas Antoine-Moussiaux, Florence De Longueville, Cécile Ingrid Djuikoue, Noel K. Joseph, Sophie Molia, Abel Wade, Catherine Linard\n Abstract \n                   \n                     Background",
-      "tag": "analysis"
-    },
-    {
-      "title": "Resilience of health systems in Africa to infectious disease shocks: A qualitative evidence synthesis",
-      "link": "https://doi.org/10.1371/journal.pgph.0006938",
-      "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1371/journal.pgph.0006938\nAuthors: Denis Okethwangu, Sherry Ahirirwe, Mahima Venkateswaran, Roy Mayega, Elizeus Rutebemberwa, Felix Ocom, Victoria Nankabirwa, Charles L. Okot, Evelyne B. Nyachwo, Sandra Nabatanzi, Evelyn Asio, Umaer N. Mohammed, Alex R. Ario, Frode Forland, Suzanne N. Kiwanuka\n Strong and resilient health systems are",
-      "tag": "analysis"
     },
     {
       "title": "TRIM29-dependent AKR1B10 degradation ameliorates MASH",
@@ -670,6 +698,20 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.25259/jmsr_315_2026",
       "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.25259/jmsr_315_2026\nAuthors: Naif A.M. Almontashiri\n Rare genetic diseases present with a broad spectrum of clinical manifestations, frequently affecting multiple organ systems or causing isolated, severe physical impairments. These disorders represent a profound public health and socioeconomic burden due to prolonged diagnostic dela",
+      "tag": "analysis"
+    },
+    {
+      "title": "Resilience of health systems in Africa to infectious disease shocks: A qualitative evidence synthesis",
+      "link": "https://doi.org/10.1371/journal.pgph.0006938",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1371/journal.pgph.0006938\nAuthors: Denis Okethwangu, Sherry Ahirirwe, Mahima Venkateswaran, Roy Mayega, Elizeus Rutebemberwa, Felix Ocom, Victoria Nankabirwa, Charles L. Okot, Evelyne B. Nyachwo, Sandra Nabatanzi, Evelyn Asio, Umaer N. Mohammed, Alex R. Ario, Frode Forland, Suzanne N. Kiwanuka\n Strong and resilient health systems are",
+      "tag": "analysis"
+    },
+    {
+      "title": "A participatory expert-based risk assessment to inform zoonotic disease surveillance in Cameroon: the case of Ebola virus disease and Rift Valley fever",
+      "link": "https://doi.org/10.1186/s42522-026-00232-5",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s42522-026-00232-5\nAuthors: Inès Sopbué Kamguem, Nathalie Kirschvink, Nicolas Antoine-Moussiaux, Florence De Longueville, Cécile Ingrid Djuikoue, Noel K. Joseph, Sophie Molia, Abel Wade, Catherine Linard\n Abstract \n                   \n                     Background",
       "tag": "analysis"
     },
     {
@@ -862,10 +904,10 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "Uptake of at-home self-collected dried blood spots for HIV, hepatitis C and syphilis screening among Māori gay, bisexual and other men who have sex with men in Aotearoa New Zealand: an observational epidemiological study",
-      "link": "https://doi.org/10.1071/sh25177",
+      "title": "Rapid genomic sequencing in the NICU: Who to test and why",
+      "link": "https://doi.org/10.1038/s41431-026-02207-6",
       "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1071/sh25177\nAuthors: Shanjivan Padarath, Kevin Haunui, Adrian Ludlam, Janine Paynter, Koson Tony Sriamporn, Susan M. McAllister, Patricia Priest, Mark Fisher, Peter J. W. Saxton\n \n                     Background \n                     HIV testing is an integral component of prevention, reducing undiagn",
+      "desc": "DOI: 10.1038/s41431-026-02207-6\nAuthors: Sara S. Ali, Marione Tamase Newsam, Pankaj B. Agrawal\n Abstract \n                   Accessibility of rapid genomic sequencing (rGS), including rapid whole-exome sequencing (rWES) and rapid whole-genome sequencing (rWGS), is transforming care in neonatal intensive care units (NIC",
       "tag": "analysis"
     },
     {
@@ -876,6 +918,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Uptake of at-home self-collected dried blood spots for HIV, hepatitis C and syphilis screening among Māori gay, bisexual and other men who have sex with men in Aotearoa New Zealand: an observational epidemiological study",
+      "link": "https://doi.org/10.1071/sh25177",
+      "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1071/sh25177\nAuthors: Shanjivan Padarath, Kevin Haunui, Adrian Ludlam, Janine Paynter, Koson Tony Sriamporn, Susan M. McAllister, Patricia Priest, Mark Fisher, Peter J. W. Saxton\n \n                     Background \n                     HIV testing is an integral component of prevention, reducing undiagn",
+      "tag": "analysis"
+    },
+    {
       "title": "Ebola raged below the radar for months, report says",
       "link": "https://doi.org/10.1126/science.ael2153",
       "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
@@ -883,10 +932,10 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Rapid genomic sequencing in the NICU: Who to test and why",
-      "link": "https://doi.org/10.1038/s41431-026-02207-6",
+      "title": "Prevalence of Previously Undetected Moderate-to-Severe Valvular Heart Disease in Elderly Adults in Saudi Arabia",
+      "link": "https://doi.org/10.21203/rs.3.rs-10369875/v1",
       "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1038/s41431-026-02207-6\nAuthors: Sara S. Ali, Marione Tamase Newsam, Pankaj B. Agrawal\n Abstract \n                   Accessibility of rapid genomic sequencing (rGS), including rapid whole-exome sequencing (rWES) and rapid whole-genome sequencing (rWGS), is transforming care in neonatal intensive care units (NIC",
+      "desc": "DOI: 10.21203/rs.3.rs-10369875/v1\nAuthors: Hazim Rahbi, Abdulaziz Al Rabiah, Hussain Abdulrahman Al-Omar, Ayaman Alhusini, Khalid Alharbi, Abubaker Elsiddig, Ahmad Sana, Fayez Alzubair, Adham Salem, Rachele Busca, Daria Ropac, Hatem Alaoui, Mubarak Aldosari\n Abstract \n                 \n                   Background",
       "tag": "analysis"
     },
     {
@@ -894,13 +943,6 @@ window.FEED_DATA = {
       "link": "https://insp.cd/communique-de-presse/",
       "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
       "desc": "août 6, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nSuspicion de maladie à virus Ebola sur une embarcation en provenance de la Tshopo : l’INSP rassure la population sur les mesures de riposte mises en œuvre\n\n\n\nKinshasa, le 05 juillet 2026.",
-      "tag": "analysis"
-    },
-    {
-      "title": "Prevalence of Previously Undetected Moderate-to-Severe Valvular Heart Disease in Elderly Adults in Saudi Arabia",
-      "link": "https://doi.org/10.21203/rs.3.rs-10369875/v1",
-      "pubDate": "Thu, 06 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.21203/rs.3.rs-10369875/v1\nAuthors: Hazim Rahbi, Abdulaziz Al Rabiah, Hussain Abdulrahman Al-Omar, Ayaman Alhusini, Khalid Alharbi, Abubaker Elsiddig, Ahmad Sana, Fayez Alzubair, Adham Salem, Rachele Busca, Daria Ropac, Hatem Alaoui, Mubarak Aldosari\n Abstract \n                 \n                   Background",
       "tag": "analysis"
     },
     {
@@ -1408,6 +1450,20 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "L’INSP intensifie la préparation des hôpitaux pour une réponse rapide et sécurisée. – Institut National de Sante Publique",
+      "link": "https://insp.cd/linsp-intensifie-la-preparation-des-hopitaux-pour-une-reponse-rapide-et-securisee/",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
+      "desc": "août 4, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nLe Directeur Général de l’INSP, accompagné du Chef de Division Provinciale de la Santé (DPS) de Kinshasa et du Coordonnateur du COUSP, a conduit une mission d’évaluation à l’Hôpital du Cin",
+      "tag": "response"
+    },
+    {
+      "title": "L’INSP renforce la Ligne verte 151, un maillon essentiel de la détection précoce des alertes – Institut National de Sante Publique",
+      "link": "https://insp.cd/linsp-renforce-la-ligne-verte-151-un-maillon-essentiel-de-la-detection-precoce-des-alertes/",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
+      "desc": "août 4, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nSoixante téléopérateurs de la Ligne verte 151 renforcent leurs compétences pour améliorer la détection des alertes, combattre les rumeurs et rapprocher les communautés du système de santé.",
+      "tag": "response"
+    },
+    {
       "title": "Redistribution of peripheral blood immune cell subsets and remodeling of intercellular communication in rare Behçet's disease: a single-cell transcriptomics study",
       "link": "https://doi.org/10.3389/fmed.2026.1908366",
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
@@ -1429,31 +1485,17 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
-      "title": "L’INSP intensifie la préparation des hôpitaux pour une réponse rapide et sécurisée. – Institut National de Sante Publique",
-      "link": "https://insp.cd/linsp-intensifie-la-preparation-des-hopitaux-pour-une-reponse-rapide-et-securisee/",
+      "title": "Clinical associations, outcomes, and therapeutic management of patients with symptomatic sclerosing mesenteritis",
+      "link": "https://doi.org/10.1177/17562848261475954",
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "août 4, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nLe Directeur Général de l’INSP, accompagné du Chef de Division Provinciale de la Santé (DPS) de Kinshasa et du Coordonnateur du COUSP, a conduit une mission d’évaluation à l’Hôpital du Cin",
-      "tag": "response"
-    },
-    {
-      "title": "L’INSP renforce la Ligne verte 151, un maillon essentiel de la détection précoce des alertes – Institut National de Sante Publique",
-      "link": "https://insp.cd/linsp-renforce-la-ligne-verte-151-un-maillon-essentiel-de-la-detection-precoce-des-alertes/",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "août 4, 2026\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\n\t\t\t\t\t\t\nSoixante téléopérateurs de la Ligne verte 151 renforcent leurs compétences pour améliorer la détection des alertes, combattre les rumeurs et rapprocher les communautés du système de santé.",
-      "tag": "response"
+      "desc": "DOI: 10.1177/17562848261475954\nAuthors: Christina Liava, Danai Chourmouzi, Georgia Gioula, Emmanouil Sinakos, Evangelos Akriviadis\n \n                     Background \n                     Sclerosing mesenteritis (SM) is a rare fibroinflammatory disease of unknown etiology that primarily affects the root of the",
+      "tag": "analysis"
     },
     {
       "title": "DENV-4 infection suppresses transcription of DNA repair genes",
       "link": "https://doi.org/10.1073/pnas.2536909123",
       "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.1073/pnas.2536909123\nAuthors: Erica N. Lamkin, Jessica Reich, Josh A. Victor, Madison Guyette, Naveen Kothandaraman, Vihit Gupta, Alfred T. Harding, Tristan X. Jordan, Lee Gehrke, Pei Zhou, Benjamin tenOever, Nimrat Chatterjee\n The molecular mechanisms behind Dengue virus-dependent host pathogenesis, especially genome instability, re",
-      "tag": "analysis"
-    },
-    {
-      "title": "Clinical associations, outcomes, and therapeutic management of patients with symptomatic sclerosing mesenteritis",
-      "link": "https://doi.org/10.1177/17562848261475954",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1177/17562848261475954\nAuthors: Christina Liava, Danai Chourmouzi, Georgia Gioula, Emmanouil Sinakos, Evangelos Akriviadis\n \n                     Background \n                     Sclerosing mesenteritis (SM) is a rare fibroinflammatory disease of unknown etiology that primarily affects the root of the",
       "tag": "analysis"
     },
     {
@@ -1751,13 +1793,6 @@ window.FEED_DATA = {
       "tag": "cases"
     },
     {
-      "title": "Investigating Mycoplasma wenyonii and Candidatus Mycoplasma haematobovis coinfection patterns in cattle from southwestern France reveals strain-specific traits",
-      "link": "https://doi.org/10.1186/s13567-026-01821-y",
-      "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1186/s13567-026-01821-y\nAuthors: Chloé Saada, Renaud Maillard, Claire Pelletier, Marie-Claude Hygonenq, Hortensia Robert, Christine Citti, Laurent-Xavier Nouvel\n Abstract \n                   \n                    Hemotropic mycoplasmas (hemoplasmas) infecting cattle were first detected in France in 2019 during a",
-      "tag": "analysis"
-    },
-    {
       "title": "Disseminated histoplasmosis presenting as a pyrexia of unknown origin",
       "link": "https://doi.org/10.25259/jhas_31_2026",
       "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
@@ -1807,6 +1842,13 @@ window.FEED_DATA = {
       "tag": "analysis"
     },
     {
+      "title": "Investigating Mycoplasma wenyonii and Candidatus Mycoplasma haematobovis coinfection patterns in cattle from southwestern France reveals strain-specific traits",
+      "link": "https://doi.org/10.1186/s13567-026-01821-y",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 Z",
+      "desc": "DOI: 10.1186/s13567-026-01821-y\nAuthors: Chloé Saada, Renaud Maillard, Claire Pelletier, Marie-Claude Hygonenq, Hortensia Robert, Christine Citti, Laurent-Xavier Nouvel\n Abstract \n                   \n                    Hemotropic mycoplasmas (hemoplasmas) infecting cattle were first detected in France in 2019 during a",
+      "tag": "analysis"
+    },
+    {
       "title": "Unlocking the Potential of Carica papaya L.: A Comprehensive Review on Its Antiviral Activity and Therapeutic Role in Dengue Management",
       "link": "https://doi.org/10.58578/ajbmbr.v3i3.11641",
       "pubDate": "Sun, 02 Aug 2026 23:35:00 Z",
@@ -1853,48 +1895,6 @@ window.FEED_DATA = {
       "link": "https://doi.org/10.64898/2026.07.30.26359255",
       "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
       "desc": "DOI: 10.64898/2026.07.30.26359255\nAuthors: Merk, T.; Bezold, G.; Hingorani, R.; Wiese, A. D.; Robinson, B.; Yi, H.; Altman, J.; Ochoa, M.; Hamre, T.; Belavadi, V.; Avendano-Ortega, M.; Soubra, S.; Reyes, G.; Fraczek, T. M.; Storch, E. A.; Goodman, W. K.; Sheth, S. A.; Provenza, N. R.\nPsychiatric states manifest over multiple timescales, from transi",
-      "tag": "analysis"
-    },
-    {
-      "title": "Exploration of BoltzGen permeable cyclic-minipeptides targeting Ebola GP2 prefusion-state",
-      "link": "https://doi.org/10.26434/chemrxiv.15006372/v2",
-      "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.26434/chemrxiv.15006372/v2\nAuthors: Julio Coll\n \n                   \n                    Cyclic-minipeptide-conformer candidates were co-generated by targeting\n                     ebo \n                    la\n                     v \n                    irus (EBOV",
-      "tag": "analysis"
-    },
-    {
-      "title": "Ebola virus replication cycle : a simulation of transcription regulatory and frameshift sequences, host-cell furin cleavage sites and protein synthesis of Bundibugyo specie",
-      "link": "https://doi.org/10.14293/pr2199.004169.v1",
-      "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.14293/pr2199.004169.v1\nAuthors: Miguel Ramos Pascual\n \n                  An outbreak of Ebola hemorrhagic fever (EHFD) has spread across Central Africa during 2026 caused by the Bundibugyo specie of ebola virus, with a low but significant risk of transmission to other countries. Up to date, no clinically approved vaccine is available",
-      "tag": "analysis"
-    },
-    {
-      "title": "Merkel cell carcinoma: an updated guide for pathologists",
-      "link": "https://doi.org/10.1111/his.70244",
-      "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1111/his.70244\nAuthors: Paul W. Harms\n Merkel cell carcinoma (MCC) is an aggressive, poorly differentiated neuroendocrine cutaneous carcinoma that has rapidly increased in incidence over the past decades. Due to the significant risk of recurrence, metastasis and mortality, prompt diagnostic recognition of MCC is essential to guide ti",
-      "tag": "analysis"
-    },
-    {
-      "title": "Distinct neural representations encode psychiatric states across multiple timescales",
-      "link": "https://doi.org/10.64898/2026.07.30.26359255",
-      "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.64898/2026.07.30.26359255\nAuthors: Timon Merk, Grace Bezold, Rahul Hingorani, Andrew David Wiese, Brian Robinson, Han Yi, Jordan Altman, Matthew Ochoa, Thomas Hamre, Vinayak Belavadi, Michelle Avendano-Ortega, Sarah Soubra, Gabriel Reyes, Tomasz M. Fraczek, Eric A. Storch, Wayne K. Goodman, Sameer A. Sheth, Nicole R. Provenza\n Psychi",
-      "tag": "analysis"
-    },
-    {
-      "title": "Inferior Vena Cava Graft–Enteric Fistula Presenting with Occult Gastrointestinal Bleeding and Psoas Abscess: A Rare Case Report",
-      "link": "https://doi.org/10.3390/jcm15156002",
-      "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.3390/jcm15156002\nAuthors: Chuwen Chen, Lijia Wei, Yiyuan Li, Bin Huang, Xiyang Chen\n Background: Inferior vena cava (IVC) graft–enteric fistula is an exceptionally rare but potentially fatal complication of caval reconstruction. Case Presentation: A 22-year-old woman with previous IVC and right renal vein reconstruction presented wit",
-      "tag": "analysis"
-    },
-    {
-      "title": "Obstructive Cholestasis in IL12RB1 Deficiency: A Case Report of an Unusual Hepatobiliary Presentation in Mendelian Susceptibility to Mycobacterial Disease",
-      "link": "https://doi.org/10.1155/crpe/8888681",
-      "pubDate": "Sun, 02 Aug 2026 00:00:00 Z",
-      "desc": "DOI: 10.1155/crpe/8888681\nAuthors: Nabeel Ahmad, Hooria Rehman, Muhammad Huzaifa Ameer, Syed Junaid Haide, Umer Abdullah, Bilal Aslam, Muneeb Saifullah, Hamza Aka Khail\n \n                    While\n                     IL12RB1 \n                    deficiency is classically associated with susceptibility to mycobacteri",
       "tag": "analysis"
     }
   ],
